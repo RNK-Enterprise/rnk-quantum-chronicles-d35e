@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A paralyzing arm is a hardy limb of preserved undead fl esh. It grants a +4 inherent bonus to the grafted creature’s Strength. Twice per day, the grafted creature can use a paralyzing touch. A living creature touched must make a Fortitude save (DC 14) or be paralyzed for 1d6+2 minutes. Elves are immune to this paralyzing touch. A touch that misses does not count against the daily limit. Graft Flesh, gentle repose, ghoul touch; Price 40,000 gp.",
+        "name":  "Paralyzing Arm",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "An enervating arm is a gaunt limb of desic- to drain blood from a living victim with its fangs by making cated, leathery fl esh. It grants a +4 inherent bonus to the grafted a successful grapple check. If it pins the foe, it drains blood, creature’s Strength. Twice per day, the grafted creature can use an dealing 1d4 points of Constitution damage each round. On enervating touch to bestow one negative level on a living creature. each such successful drain attack, the grafted creature gains 5 Removing the negative level requires a DC 14 Fortitude save. A temporary hit points that last for up to 1 hour. touch that misses does not count against the daily limit. Graft Flesh, vampiric touch; Price 25,000 gp.",
+        "name":  "Enervating Arm",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This crimson eye-shaped gem fi ts into a grants a +4 inherent bonus to the grafted creature’s Strength. humanoid creature’s empty eye socket and can produce a fi reball Twice per day, the grafted creature can use a weakening touch.A once per day upon command. The fi reball deals 10d6 points of living creature touched takes 1d6 points of Strength damage. A damage (Refl ex DC 14 half). Half of the damage is fi re damage, touch that misses does not count against the daily limit. and the other half is divine damage that affects even targets Graft Flesh, ray of enfeeblement; Price 40,000 gp. resistant to fi re. Zombie Arm: A zombie arm is a perpetually rotting limb. Graft Flesh, fi reball; Price 10,800 gp. It grants a +2 inherent bonus to the grafted creature’s Strength,",
+        "name":  "Eye of Flame",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Slam +6 melee (1d8+1) fragments, lessened in power from its divine beginnings, but 84 Space/Reach: 5 ft./5 ft. no less hateful for its stature. sivraJ .J yb .sullI MONSTERS NEW CHAPTER 6",
+        "name":  "Full Attack",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "8d12 (52 hp) creatures, attempting to keep them within range",
+        "name":  "Hit Dice",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "30 ft. (6 squares) pummels a living creature with its ice-cold limbs,",
+        "name":  "Speed",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Contingent healing only heals when in range of a liv- 10, darkvision 60 ft., diet dependent, fi re ing creature that it can affect with lover, undead traits, +2 turn resistance its heat-draining aura. Even if",
+        "name":  "Special Qualities",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Str 22, Dex 16, Con —, Int 14, bleakborn eventually heals if a Wis 14, Cha 15 living creature at some fu-",
+        "name":  "Abilities",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Alertness, Combat Refl exes, As long as affected creatures are Lightning Refl exes within its heat-draining aura, a",
+        "name":  "Feats",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— Create Spawn (Su): Any humanoid slain by a bleakborn becomes a normal zombie in 1d4 rounds. These spawn are This frigid corpse is so cold that it is frosted with icy crystals. Sens- under the command of the bleakborn that created them and 86 ing the warmth of life, it shambles eagerly toward its victims. Its sillE .S yb .sullI MONSTERS NEW CHAPTER 6 remain enslaved until its destruction. They do not possess any Organization: Solitary, pair, or amnion of the abilities they had in life. (4–8)",
+        "name":  "Level Adjustment",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A bloodmote cloud is diet dependent (see Skills:— the Undead Metabolism section in Chapter 1) upon blood, which Feats:— it consumes by using its blood drain ability. Environment: Any Distraction (Ex): Any living creature that begins its turn Organization: Solitary, pack (2–4 swarms), or infestation with a bloodmote cloud in its space must succeed on a DC (7–12 swarms) 15 Fortitude save or be nauseated for 1 round. The save DC is Challenge Rating: 3 Constitution-based. Treasure: None",
+        "name":  "Diet Dependent",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— 88 sdlonyeR .W yb .sullI MONSTERS NEW CHAPTER 6",
+        "name":  "Level Adjustment",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Standard creatures surges",
+        "name":  "Treasure",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Always chaotic evil across the fl oor, with pinpoints Advancement: 18–25 HD (Huge); of red light 26–51 HD (Gargantuan) gleaming in Level Adjustment:— their empty †New feat described on page 27. eye sockets. The pile of bones before you stirs. A bone rat The bones rise and reform, and as swarm is a mass of undead each bone fi nds its proper place, the shape of a huge ser- skeletal rats. Though individu- pentine creature emerg- ally such creatures would pose es, one whose form is little risk, in great numbers they composed of interlocking can strip a creature clean in bones, its head the skull short order. of some unnamed and long-dead beast. COMBAT A bone rat swarm seeks to A boneyard is an undead engulf and devour any living creature made entirely prey it encounters. A bone rat swarm from the bones of other deals 1d6 points of damage to any dead creatures. However, creature whose space it occupies at the unlike a skeleton or similar end of its move. monster, a boneyard’s form is fl u- Distraction (Ex): Any living creature id in the sense that it can appear that begins its turn with a bone rat swarm merely as a pile of bones, or as a ser- in its space must succeed on a DC 15 For- pent composed of bones, or some titude save or be nauseated for 1 round. other form of its choice. Boneyards The save DC is Constitution-based. have been called by many names, depending upon where they are en- countered, including bone weirds, BONEYARD dancing bones, and bonetakers. Huge Undead A boneyard weighs between",
+        "name":  "Alignment",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— Something gray and shriveled sloshes within a grimy glass canis- ter—a disembodied brain afl oat in alchemical preservatives. The brain in a jar is a masterpiece of preservation—but where alchemical pre- servatives leave off, necromancy picks up. An animate brain in a jar is, in truth, an undead creature. Additionally, pos-",
+        "name":  "Level Adjustment",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Fly 30 ft. (8 squares) (good) to any creature within 100 feet that has a",
+        "name":  "Speed",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— This tall, gaunt, coal-black humanoid fl ickers with a blue-white fl ame. Its bright yellow eyes gleam with menace. This gore-streaked, four-footed animal seems like a cross between a overlarge rat and a wolf, though even that can’t explain the Cinderspawn are burnt-out undead remnants of extraordinary size of its toothy jaws. creatures of elemental fi re. They hate living creatures for their warmth and seek to Carcass eaters are most often found digging up fresh graves destroy all such for food or, where opportunity is less available, hunting beings. the night for prey. An adult carcass eater is 3 to 4 feet long and weighs 65 to 75 pounds. Carcass eater COMBAT Carcass eaters attack with their sharp claws and teeth. Blood Frenzy (Ex): A carcass eater that deals damage in combat against a living creature scents blood, which causes it to fl y into a frenzy the 91 Illus. by T. Baxa 6 RETPAHC WEN SRETSNOM Like a fi re elemental, a cinder- Inescapable Craving: A cinderspawn has an inescapable spawn cannot enter water or any craving (see the Undead Metabolism section in Chapter 1) other nonfl ammable liquid. A for Charisma, which it satisfi es by using its Charisma drain body of water is an impassable ability. barrier for a cinderspawn un- less the creature can step or CORPSE RAT SWARM jump over it. Tiny Undead (Swarm)",
+        "name":  "Level Adjustment",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Standard missile, summon monster I; 2/day—death knell (DC 14), ghoul glyph†",
+        "name":  "Treasure",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Slam +6 melee (1d6 plus fatigue) from their former spirits. If the recollection was dear to the Space/Reach: 5 ft./5 ft. spirit that once inhabited the now shriveled and blasted body Special Attacks: Desiccating breath, fatiguing touch of the deathlock, the creature usually seeks out the source of Special Qualities: Darkvision 60 ft., elemental turning vulner- that memory, hoping to destroy it, compromise it, or undo the ability, inescapable craving, undead traits deeds associated with it. Saves: Fort +1, Ref +2, Will +4 Deathlocks stand between 5-1/2 and 6-1/2 feet tall and weigh Abilities: Str 16, Dex 12, Con —, Int 8, Wis 11, Cha 13 between 100 and 120 pounds. Skills: Listen +7, Search +7, Spot +7 94 Deathlocks speak Common, Abyssal, and Infernal. Feats: Ability Focus (desiccating breath), Improved Initiative axaB .T yb .sullI MONSTERS NEW CHAPTER 6",
+        "name":  "Sometimes deathlocks retain a single shred of memory Full Attack",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Bite +3 melee (1d8+2 plus paralytic Desiccators are the dried-out undead saliva) remnants of creatures of elemental Full Attack: Bite +3 melee (1d8+2 plus para- water. They long to quench their tre- lytic saliva) mendous thirst with the precious fl uids Space/Reach: 15 ft./10 ft. of living creatures. Special Attacks: Paralytic saliva",
+        "name":  "Attack",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Darkvision 60 ft., forms, desiccators are vermin traits sometimes mistaken for Saves: Fort +6, Ref +4, Will +2 mummies, although they Abilities: Str 13, Dex 15, Con 12, Int wear none of the wrappings —, Wis 10, Cha 2 common to those creatures. Skills: Climb +11, Hide +2, Spot Cursed to remain forever bereft Desiccator +4 of the watery form it had in life, the Feats:— desiccator envies and despises all living things. Environment: Underground Most desiccators stand about 4 feet tall but weigh only 30 to Organization: Solitary or slaughter (2–5) 40 pounds. Challenge Rating: 2 Desiccators speak Aquan. Advancement: 7–11 HD (Small)",
+        "name":  "Thanks to their withered Special Qualities",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A desic- cator has an inescapable craving 95 Illus. by J. Jarvis and D Martin 6 RETPAHC WEN SRETSNOM Dream vestige A maggot is the worm-shaped larva of a fl y, but a dire maggot is the larva of similarly monstrous fl ying vermin. While regular maggots are found in decaying matter, dire maggots are large, quick, and aggressive enough to seek out living prey for nourishment. COMBAT Dire maggots seek to paralyze their prey, though still-squirm- ing prey is just as good to the mindless maggot. Paralytic Saliva (Ex): A creature bitten by a dire maggot must make a DC 14 Fortitude save or be paralyzed for 1 round. The save DC is Constitution-based.",
+        "name":  "Inescapable Craving",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "17d12 (110 hp) A dream vestige is a hunter; it hunts for other creatures to",
+        "name":  "Hit Dice",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— Its desecrating aura is suppressed if a dream vestige enters a consecrated or hallowed area, but the dream vestige’s presence A mighty river of fog streams forward like an evil waterfall, swol- also suppresses the consecrated or hallowed effect for as long len with storm and spray. Accompanying the shape is a susurrus as it remains in the area. of dreamlike voices that murmur, cry, and rail against some ter- Form Consumption (Su): Each touch by a dream vestige’s 96 rible fate. Slender tendrils of mist extend from the mass, patting tendril drains a portion of the victim’s mind (though non- and feeling for sustenance. sillE .S yb .sullI MONSTERS NEW CHAPTER 6 intelligent or mindless creatures are immune to a dream Organization: Solitary, digger squad (2–4), or cemetery detail vestige’s lascivious caresses). Each touch deals 1d4 points (6–10) of Intelligence drain to the victim. When a dream vestige Challenge Rating: 5 drains a victim’s Intelligence, it gains 5 temporary hit points, Treasure: Standard no matter how many points it drains. Temporary hit points Alignment: Always lawful evil gained in this way last for up to 1 hour. Should a dream vestige Advancement: 9–16 HD (Medium); 17–24 HD (Large) ever acquire a number of temporary hit points equal to its Level Adjustment:— full normal hit points, it self spawns (see below). At the beginning of a dream vestige’s subsequent action after This shrunken and disfi gured humanoid carcass moves under the a creature has been drained to 0 Intelligence, the victim’s body power of its own animation, though the details of its shape are is automatically engulfed and dissolved by the dream vestige, blurred beneath a coating of fi lth and grave dirt. leaving nothing behind, not even dust. Frightful Presence (Su): A dream vestige can inspire terror Entombers are undead animated by necromancers who prefer by charging or attacking. Affected creatures must succeed on to leave the dirty work to their servants. The entombers are a DC 23 Will save or become shaken, remaining in that condi- perfect for putting bodies in the ground, or bringing them tion as long as they remain with 60 feet of the dream vestige. out, depending on the needs of their masters. They usually A creature that successfully saves cannot be affected by that inhabit cemeteries, catacombs, or other places where many dream vestige’s frightful presence for 24 hours. The save DC is corpses might be found. Unless specifi cally commanded Charisma-based. otherwise, entombers treat all living creatures as subjects for Defl ective Aura (Su): A dream vestige is protected by a their entombing power. powerful aura of dream energy. This special aura increases its Entombers are fi lthy, streaked with dirt, and sometimes even AC defl ection bonus by 13 (in addition to its incorporeal defl ec- bits of desiccated fl esh (not their own), jewelry, and other small tion bonus of +5), which is already factored into the statistics bits taken from the bodies they exhume or entomb. They stink of above. both carrion and embalming alchemical fl uids. Closer scrutiny Dream Travel (Su): A dream vestige can pull itself fully reveals their lips are sewn shut. into the world of dreams, leaving behind the waking world, as Most entombers are about 6 feet tall and weigh about 160 a standard action. For every minute the vestige moves through pounds. the dream region, it travels 5 miles in the waking world. A dream Entombers understand Common, but their lips are sewn shut, vestige can also use this ability to travel across planar borders, so they cannot speak. should it desire. A dream vestige always knows where it will come out in the waking world. Entomber",
+        "name":  "Level Adjustment",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "30 ft. (6 squares) most creatures it happens",
+        "name":  "Speed",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Diplomacy +6, Hide +11, Intimidate +10, Listen +12, This example uses a wraith as the base creature. Search +10, Sense Motive +8, Spot +12, Survival +2 (+4 fol- lowing tracks)",
+        "name":  "Skills",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Fort +4, Ref +7, Will +9 “Evolved undead” is an acquired template that can be added to Abilities: Str 21, Dex 13, Con —, Int 11, Wis 10, Cha 10 any undead with an Intelligence score (referred to hereafter as Skills: Climb +13, Hide +22, Listen +11, Move Silently +18, the base creature). An evolved undead uses all the base creature’s Spot +15, Swim +9 statistics and special abilities except as noted here. This template Feats: Alertness, Improved Initiative, Improved Toughness†, does not alter the creature’s type. Lightning Refl exes, Power Attack.",
+        "name":  "Saves",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Solitary (hereafter referred to as the base creature). The creature follows",
+        "name":  "Organization",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "3 the rules for ghosts (as described in the Monster Manual) except",
+        "name":  "Challenge Rating",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Usually neutral Size and Type: The creature’s type changes to undead",
+        "name":  "Alignment",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Unarmed strike +7 melee (1d8+3) or bite +7 melee humanoid with Intelligence and Charisma scores of 3 or higher (1d6+3 plus paralysis) (referred to hereafter as the base creature).",
+        "name":  "Attack",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Flurry of unarmed strikes +6/+6 melee (1d8+3) A gravetouched ghoul speaks all the languages it spoke in or bite +7 melee (1d6+3 plus paralysis) and 2 claws +5 melee life (usually Common). It has all the base creature’s statistics (1d4+1 plus paralysis) and special abilities except as noted here. Space/Reach: 5 ft./5 ft. Size and Type: The creature’s type changes to undead, and",
+        "name":  "Full Attack",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Str 16, Dex 18, Con —, Int 12, Wis 19, Cha 10 base creature and also gains a bite and two claw attacks if it",
+        "name":  "Abilities",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "By character class If the base creature does not have this attack form, use the",
+        "name":  "Advancement",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A gravetouched ghoul retains all the formed of moist (almost muddy) earth, mixed in with small bone special qualities of the base creature and gains those described bits, teeth, and rotting cloth scraps, topped with a dirt-encrusted humanoid skull. Its legs are short and thick, and its chest and below. arms somewhat tapering. Turn Resistance (Ex): A gravetouched ghoul has +2 turn resis- tance.",
+        "name":  "Special Qualities",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Any, usually same as base creature. COMBAT",
+        "name":  "Environment",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Same as the base creature +1. the wounds of its enemies.",
+        "name":  "Challenge Rating",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Base creature’s alignment changes to chaotic Berserk (Ex): When a grave dirt golem enters combat, evil. there is a cumulative 1% chance each round that its elemental",
+        "name":  "Alignment",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Same as base creature +2. spirit breaks free and the golem goes berserk. An uncontrolled golem goes on a rampage, attacking the nearest living creature or smashing some object smaller than itself if no creature is GRAVE DIRT GOLEM within reach, then moving on to spread more destruction. Large Construct Once a grave dirt golem goes berserk, no known method can",
+        "name":  "Level Adjustment",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Usually chaotic evil base creature). The creature’s size and type do not change.",
+        "name":  "Alignment",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "By character class A half-vampire uses all the base creature’s statistics and special",
+        "name":  "Advancement",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Increase from the base creature as follows: Str +2, Advancement: By character class Dex +2, Cha +2. Level Adjustment: +9",
+        "name":  "Abilities",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Half-vampires have a +2 racial bonus on Bluff, Hide, Listen, Move Silently, and Spot checks. Otherwise, same as the A smell like an open grave heralds this hulking fi gure. It is draped base creature. in ominous black folds, its features lost beneath a night-dark",
+        "name":  "Skills",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A half-vampire gains Improved Initiative, if the base hood wide enough to conceal more than a single head. creature doesn’t already have that feat. COMBAT",
+        "name":  "Feats",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Any, usually same as base creature.",
+        "name":  "Environment",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Same as the base creature +1. usually beginning any confl ict with its clutch of Orcus ability.",
+        "name":  "Challenge Rating",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A hooded pupil gains a taste of unholy strength and mental vigor. Increase from the base creature as follows: Str +2, Wis +2, Cha +2.",
+        "name":  "Abilities",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Hooded pupils gain Alertness, Improved Initiative, and Lightning Refl exes, if the base creature meets the prerequisites and it doesn’t already have these feats.",
+        "name":  "Feats",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Fort +6, Ref +6, Will +13 “Hooded pupil” is an acquired template that can be added to any Abilities: Str 26, Dex 10, Con —, Int —, Wis 12, Cha 8 corporeal giant or humanoid (referred to hereafter as the base Skills:— creature). The creature’s size and type do not change. Feats: Improved Toughness†B, Power AttackB A hooded pupil uses all the base creature’s statistics and special Environment: Any abilities except as noted here. Organization: Solitary or pair",
+        "name":  "Saves",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The creature’s type changes to undead, and as a natural secondary attack. it gains the augmented subtype. Do not recalculate base attack Special Attacks: A mummifi ed creature gains the two special bonus, saves, or skill points. Size is unchanged. attacks described below. Saves have a DC of 10 + 1/2 mummi-",
+        "name":  "Size and Type",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Increase all current and future Hit Dice to d12. fi ed creature’s HD + mummifi ed creature’s Cha modifi er unless",
+        "name":  "Hit Dice",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A mummifi ed creature’s land speed decreases by 10 otherwise noted. feet (to a minimum of 10 feet). The speeds for other movement Despair (Su): At the mere sight of a mummifi ed creature, the modes are unchanged. viewer must make a successful Will save or be paralyzed",
+        "name":  "Speed",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A mum- mifi ed creature gains the special qualities described below. 111 Illus. by J. Jarvis 6 RETPAHC WEN SRETSNOM Damage Reduction (Ex): A mummifi ed Feats: Alertness, Combat creature’s undead body is tough, giving it Refl exes damage reduction 5/—. Environment: Any Vulnerability to Fire (Ex): A mummifi ed Organization: Solitary, pair, gang creature takes half again as much (+50%) (3–5), or cluster (6–11) damage as normal from fi re attacks. Challenge Rating: 3",
+        "name":  "Special Qualities",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A mummifi ed creature’s ability Treasure: None scores are modifi ed as follows: Str +8, Int –4 Alignment: Always chaotic evil (minimum 1), Wis +4, Cha +4. As an undead Advancement: 4–9 HD (Medium) creature, a mummifi ed creature has no Level Adjustment:— Constitution score. Climate/Terrain: Any. The wavering silhouette of a humanoid",
+        "name":  "Abilities",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Same as the base creature +3. A murk is an incorporeal, free-roam-",
+        "name":  "Challenge Rating",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Confer negative level, Wisdom damage A necromental is the undead remnant of an elemental creature.",
+        "name":  "Special Attacks",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Hide +8, Listen +7, Search +4, Spot +7 This example uses a Large earth elemental as the base creature. 112 nitraM .D yb .sullI MONSTERS NEW CHAPTER 6 Large Earth Necromental Earth Mastery (Ex): An earth necromental gains a +1 bonus Large Undead (Augmented Elemental, Earth, Extra- on attack rolls and damage rolls if both it and its foe are touch- planar) ing the ground. If an opponent is airborne or waterborne, the",
+        "name":  "Skills",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— “Necromental” is an acquired template that can be added to This walking pile of crumbling earth and stone radiates a pal- any elemental (referred to hereafter as the base creature). A pable aura of death. necromental uses all the base creature’s statistics, attacks, and special abilities except as noted here.",
+        "name":  "Level Adjustment",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A necromental retains all the special quali- Organization: Solitary, pair, or group (3–5) ties of the base creature and gains the one described below. Challenge Rating: 5 Fast Healing (Ex): A necromental heals 3 points of damage each Treasure: Standard round as long as it has at least 1 hit point and is within 5 feet Alignment: Neutral of some form of its element (air for necromentals with the air Advancement: By character class subtype; earth, stone, or metal for necromentals with the earth Level Adjustment:— (see below) subtype; fl ame for necromentals with the fi re subtype; or water for necromentals with the water subtype). This withered human has eyes so blue they are more accurately described as white, as if drained of color and life. The fi gure wears",
+        "name":  "Special Qualities",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Any, usually same as base creature. This necropolitan acts much like a typical wizard, though it",
+        "name":  "Environment",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Same as the base creature +1. focuses its attacks on any character prominently displaying a",
+        "name":  "Challenge Rating",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The creature’s type changes to undead, and it gains the augmented subtype. Do not recalculate base attack bonus, saves, or skill points. Size is unchanged.",
+        "name":  "Size and Type",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Same as the base creature, except that as undead creatures, necropolitans have no Constitution score.",
+        "name":  "Abilities",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Same as the base creature. (Becoming a necropolitan involves losing a level—see Ritual of Crucimigra- tion, below—so the advantages of the undead type cancel out what would other wise be a larger adjustment.) Ritual of Crucimigration Any living humanoid or monstrous humanoid can petition for consideration to undergo the Ritual of Crucimigration, which (if successful) enables the creature to become a necropolitan. The petition for consideration requires a fee of 3,000 gp and a written plea. Plague blight",
+        "name":  "Level Adjustment",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Fort +1, Ref +3, Will +4 attack. Because it wraps itself around its victim’s neck, a creature",
+        "name":  "Saves",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Bonus hit points, damage the base creature, except reduction 10/adamantine, darkvision 60 ft., for attacks that can’t immunity to cold, undead traits work without fl esh (such",
+        "name":  "Special Qualities",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Str 21, Dex 13, Con —, Int —, attacks). A creature with hands Wis 10, Cha 1 gains one claw attack per hand; a",
+        "name":  "Abilities",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "9–16 HD (Huge); 17–24 (If the base creature already had HD (Gargantuan) claw or talon attacks, use which-",
+        "name":  "Advancement",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— ever damage value is higher.) A vicious-looking creature of petrifi ed Size Damage bones, still partially imprisoned in Diminutive or Fine 1d3 stone, lumbers forward. Tiny 1d4 Small 1d8 Medium 2d6 Combat Large 2d8 A revived fossil megarap- Huge 2d10 tor uses its talons and Gargantuan 2d12 foreclaws to shred prey. A revived fossil Colossal 2d20 megaraptor 118 sillE .S yb .sullI MONSTERS NEW CHAPTER 6",
+        "name":  "Level Adjustment",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A revived fossil retains Skin kite none of the base creature’s special attacks.",
+        "name":  "Special Attacks",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A revived fossil loses most special qualities of the base creature, though it retains any extraordinary spe- cial qualities that improve its melee or ranged at- tacks. A revived fossil also gains the following special SKIN KITE qualities.",
+        "name":  "Special Qualities",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A revived fossil loses all feats of the base creature but gains Combat Refl exes. A knot of fl accidly fl apping membranes kites through the air, now",
+        "name":  "Feats",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Any, usually same as base creature. drifting with the currents, now stooping swiftly through the air",
+        "name":  "Environment",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Depends on Hit Dice, as follows: Skin kites are undead creatures made up of the stolen skin of Hit Dice CR past victims. They feed on the skin of living beings, replenishing 1/2 1/3 their own constantly rotting skin, as well as using new skin as 1 1 spawning material for new skin kites. 2–3 2 No two skin kites appear the same. They display a range of 4–5 3 different colors, depending on the creatures from which they 6–7 4 were harvested. Many skin kites have rotting clumps of hair or 8–9 5 fur, unintended additional trophies from past victims. 10–11 6 12–14 7 A skin kite has no body, only a wingspan, which is about 5 15–17 8 feet. It weighs about 5 pounds. 18–20 9 COMBAT",
+        "name":  "Challenge Rating",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "As base creature (or — if the base creature Diet Dependent: A skin kite is diet dependent (see the advances by character class). Undead Metabolism section in Chapter 1) upon skin, which it",
+        "name":  "Advancement",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "10–16 HD (Huge); 17–27 HD (Gargantuan) Full Attack: 2 intestine loops +6 melee (1d4 plus attachment) 120 Level Adjustment:— Face/Reach: 5 ft./5 ft. axaB .T yb .sullI MONSTERS NEW CHAPTER 6",
+        "name":  "Advancement",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Slam +11 melee (1d8+15/17–20 plus energy COMBAT drain)* A creature of shadows, a skulking cyst prefers to Space/Reach: 5 ft./5 ft. launch attacks on lone victims from dark Special Attacks: Create spawn, energy drain ceilings and sewer grates. Special Qualities: Augmented critical, darkvision 60 ft., inescapable craving, undead traits, vicious slammer",
+        "name":  "Full Attack",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A slaughter wight has an inescapable obvious in its motions. Its leathery, desiccated fl esh ripples across craving (see the Undead Metabolism section in Chapter 1) for its body, tolerant of the creature’s quick movements despite being life force, which it satisfi es by using its energy drain attack. lifeless parchment. SLAYMATE Slaughter wights are undead that have been specially touched by dark gods, endowing them with a vicious hatred of life that Small Undead goes beyond that of simple walking dead. A slaughter wight’s Hit Dice: 4d12 (26 hp) appearance is an exaggerated and horrifying effi gy of the form Initiative: +1 it had in life. Speed: 20 ft. (4 squares)",
+        "name":  "A slender, wiry corpse moves toward you, supernatural agility Inescapable Craving",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Bardic music, Charisma drain Charisma Drain (Su): Living creatures hit by a",
+        "name":  "Special Attacks",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+3 glamered leather, +1 keen shocking burst Damage: The amount of damage a scimitar, cloak of resistance +3. (Different mummy kings swarm-shifter deals with its swarm may have different possessions.) attack is based on its Hit Dice, as shown in the table below. CREATING A SWARM-SHIFTER HD Damage 1–5 1d6 “Swarm-shifter” is an acquired 6–10 2d6 template that can be added 11–15 3d6 to any corporeal undead 16–20 4d6 with an Intelligence 21 or more 5d6 score (referred to here- after as the base creature). A swarm-shifter uses all the base creature’s Space/Reach: When the base statistics and special abilities except as creature is in swarm form, it has a noted here. space of 10 feet. In swarm form, it has a",
+        "name":  "Possessions",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Unlike most tem- reach of 0 feet, it cannot make attacks of plates, an undead can opportunity, and it provokes attacks of potentially acquire opportunity when it enters a crea- this template more ture’s space. The swarm can than once, gaining A swarm-shifter occupy another creature’s a new swarm form mummy king druid space and moves through with each applica- other creatures’ squares tion. without impediment and",
+        "name":  "Note",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "vice versa. The swarm can The base creature’s move through holes and type and size do not cracks large enough for its change, but it gains the component creatures. shapechanger subtype. When 125 Illus. by B. Snoddy 6 RETPAHC WEN SRETSNOM",
+        "name":  "Size and Type",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "When in swarm form, a swarm-shifter Feats: Same as the base creature, but when the base creature loses all the special attacks of the base creature. It gains the is in swarm form it cannot benefi t from feats that rely on attacks distraction and swarm special attacks, and gains new special (such as Power Attack and Combat Expertise), special attacks attacks dependent on the swarm form it takes (as described in of the base creature, or other abilities the base creature cannot the individual swarm form entries below). use in swarm form. Distraction (Ex): As described in the Swarm Traits section at Challenge Rating: Same as the base creature +1. If this tem- the beginning of this chapter. plate is applied multiple times, the base creature’s Challenge Swarm (Ex): As described under the Attack and Damage entries Rating increases by 2, regardless of how many swarm forms the above, the base creature in swarm form has a swarm attack. creature can take in excess of one.",
+        "name":  "Special Attacks",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The base creature’s Strength and Dexterity scores Special Attacks: An undead in centipede swarm form has are different in swarm form due to the swarm creatures’ size. the following additional special attack. When the base creature takes swarm form, change the base Poison (Ex): Swarm attack, Fortitude DC 10 + 1/2 swarm HD creature’s Strength and Dexterity scores according to Table 4–2, + Cha modifi er, initial and secondary damage 1d4 Dex. page 291 of the Monster Manual. This template cannot reduce Special Qualities: An undead in centipede swarm form has the base creature’s Strength in swarm form to less than 1. the following additional special quality, in addition to darkvision",
+        "name":  "Abilities",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "An undead in fl y swarm form has the fol- Special Qualities: An undead in parts swarm form has the lowing additional special attack. following additional special quality, in addition to darkvision Disease (Ex): Red ache—swarm attack, Fortitude DC 10 + 1/2 out to 60 feet and undead traits. swarm HD + Cha modifi er, incubation period 1d3 days, damage Half Damage From Slashing and Piercing (Ex): Slashing and pierc- 1d8 Dex. ing attacks deal half damage to a swarm of Tiny creatures.",
+        "name":  "Special Attacks",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "An undead in maggot swarm form has the Speed: 20 ft. (4 squares). following additional special attack. Special Attacks: An undead in scorpion swarm form has Extended Nausea (Ex): A creature nauseated by a maggot the following additional special attack. swarm’s distraction special attack remains nauseated for 2d4 Poison (Ex): Swarm attack, Fortitude DC 10 + 1/2 swarm HD rounds. + Cha modifi er, initial and secondary damage 1d2 Con.",
+        "name":  "Special Attacks",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Bite +6 melee (1d4–1 plus Like shadows, umbral disease) creatures are creatures of",
+        "name":  "Attack",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Underground creature, and it may eas-",
+        "name":  "Environment",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Pair or bunch ily be mistaken for a living (3–7) Tomb mote creature from the Plane of",
+        "name":  "Organization",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "2 Shadow. Umbral creatures are dif-",
+        "name":  "Challenge Rating",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "4–6 HD (Tiny) Natural enemies of all that live, umbral creatures are aggres-",
+        "name":  "Advancement",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Incorporeal touch +7 melee (1d8 Strength) Tomb motes typically attack from ambush due to their size. If Face/Reach: 10 ft./5 ft. (10 ft. with incorporeal touch) possible, they attempt to attack a foe en masse. Special Attacks: Strength damage Disease (Ex): A creature struck by a tomb mote’s bite attack Special Qualities: Create spawn, darkvision 60 ft., displace- must make a DC 13 Fortitude save or be infected with a disease ment, incorporeal traits, low-light vision, resistance to ranged known as corpse bloat (incubation period 1d3 days, damage 1d6 attacks, undead traits, +2 turn resistance Str). The skin of a diseased victim turns a hue of green, bloats, Saves: Fort +2, Ref +6, Will +7 and is warm to the touch. The save DC is Charisma-based. Abilities: Str —, Dex 19, Con —, Int 1, Wis 14, Cha 10",
+        "name":  "Full Attack",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Hide +12, Listen +6, Move Silently +9, Spot +6 128 Feats: Alertness, Dodge, Stealthy yelsaE .J yb .sullI MONSTERS NEW CHAPTER 6 Climate/Terrain: Any land and underground Base Attack: An umbral creature has a base attack bonus",
+        "name":  "Skills",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Solitary, pair, gang (3–4), or clutch (2–4 plus equal to 1/2 its Hit Dice. 2–7 shadows) Attack: The creature loses all its attacks and gains an incor-",
+        "name":  "Organization",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "None Full Attack: An umbral creature uses its touch attack.",
+        "name":  "Treasure",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Always chaotic evil Damage: An umbral creature’s incorporeal touch attack deals",
+        "name":  "Alignment",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "7–9 HD (Large); 10–18 HD (Huge) Strength damage (as outlined in its Strength damage ability description) based on the creature’s size, according to the table A murky, vaguely feline shape crouches before you. below. Combat Size Damage Size Damage Umbral displacer beasts rely on their incorporeal nature and Fine or Diminutive 1d2 Large 1d8 their natural displacement to avoid most attacks. Due to their Tiny 1d3 Huge 2d6 Small 1d4 Gargantuan 3d6 limited Intelligence, they don’t typically take full advantage of Medium 1d6 Colossal 4d6 their incorporeal nature (such as attacking from above). Create Spawn (Su): Any humanoid reduced to Strength 0 by an umbral displacer beast rises as a shadow under the control Special Attacks: An umbral creature retains the base of its killer in 1d4 rounds. creature’s special attacks (though some of these may not be Displacement (Su): A light-bending glamer continually sur- useable by the creature due to its incorporeal form) and gains rounds an umbral displacer beast, making it diffi cult to surmise the special attacks described below. the creature’s true location. Any melee or ranged attack directed Create Spawn (Su): Any humanoid reduced to Strength 0 by at it has a 50% miss chance unless the attacker can locate the beast an umbral displacer beast dies and rises as a shadow under the by some means other than sight. A true seeing effect allows the control of its killer in 1d4 rounds. user to see the beast’s position, but see invisibility has no effect. Strength Damage (Su): The touch of an umbral creature deals",
+        "name":  "Advancement",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The creature’s type changes to undead, and it gains the incorporeal and augmented subtypes. It retains any subtypes except alignment subtypes (such as good) and subtypes that indicate kind (such as goblinoid). Size is unchanged.",
+        "name":  "Size and Type",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The creature’s speed becomes fl y 40 feet (perfect).",
+        "name":  "Speed",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Dex +4, Int –4 (minimum 1), Wis +2, Cha +2. As an incorporeal undead, an umbral creature has no Strength or Constitution score. Climate/Terrain: Any land and underground.",
+        "name":  "Abilities",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "As base creature +2 (or +3 if Huge or larger).",
+        "name":  "Challenge Rating",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "As base creature (or — if base creature’s advancement is by character class).",
+        "name":  "Advancement",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A voidwraith has an inescapable the ichor runs into the creature’s mouth, it bubbles and pops, so that its constant wailing emerges as a gurgling keen. craving (see the Undead Metabolism section in Chapter 1) for Constitution, which it satisfi es by using its steal breath ability,. Wheeps are undead servants of more powerful unliving lords, Steal Breath (Su): Living creatures hit by a voidwraith’s touch usually serving as bodyguards but sometimes sent on missions attack must succeed on a DC 15 Fortitude save or take 1d2 points to procure from guarded cemeteries the remains of particularly of Constitution drain. (Creatures with the air subtype take powerful and trusted fi gures. Their average size belies a a–4 penalty on this save.) When a voidwraith drains a powerful undead strength, fueled by their undying victim’s Constitution, it gains 5 temporary hit points, sorrow. no matter how many points it drains. Temporary hit Eyeless, a wheep is in constant pain, sniffl ing points gained in this way last for 1 up to hour. The save and crying aloud unless it is trying to hide or DC is Charisma-based. move silently. From its hollow eye sockets, a If the target creature is holding its breath wheep continuously produces a poison with and fails the save, the number of rounds of the appearance of black bile. It is easy to track remaining breath is reduced by 2 per point wheeps that have passed through an area in the of Constitution drained. If this reduction last hour, because they leave behind a trail of their exhausts all of the target’s remaining breath, poisonous tears. After an hour, the bile decomposes it creature must begin making and evaporates. Constitution checks or start to A wheep stands nearly 6 feet tall and weighs about suffocate (see Suffocation, page 200 pounds. 304 of the Dungeon Master’s Wheeps speak Common. Guide). COMBAT",
+        "name":  "Inescapable Craving",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A voidwraith has a +4 racial bonus on Hide checks. Those close enough to hear a wheep’s cries may be taken aback, but they are likely to be far more threatened by the creature’s poi- WHEEP son-coated claws and maw. Medium Undead Poison Tears (Ex): The poison tears that continually pour",
+        "name":  "Skills",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+2 coats the creature’s claws and fi lls its mouth. Whenever a",
+        "name":  "Initiative",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Str 33, Dex 15, Con —, Int 6, Wis 14, Cha 20 creature saves against a wheep’s dirge, that creature cannot be",
+        "name":  "Abilities",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Improved Initiative creature is already Colossal, the claw attack deals 3d8 points of",
+        "name":  "Feats",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Any, usually same as base creature tears the fl esh. This attack automatically deals extra damage",
+        "name":  "Environment",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "As base creature (or — if the base creature bonus feat. advances by character class) CR Adjustment: +1.",
+        "name":  "Advancement",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— VAMPIRES SKELETON VARIANTS The skeleton is a staple of the fantasy genre, common to horror- This section includes full statistics and roleplaying information and action-style games alike. To add some spice to the skeleton, for ten different vampires, along with a few variant vampires. try adding these variants to your game. SAMPLE VAMPIRES Fiery Skeleton Each vampire is described as an individual, though many Afi ery skeleton burns with unquenchable fl ame. Variants of the have generic statistics that can be used for any vampire of that fi ery skeleton include the lightning skeleton (deals electricity creature kind. damage, immunity to electricity) and the frost skeleton (deals The vampires in this section all share the following special cold damage, immunity to cold). abilities:",
+        "name":  "Level Adjustment",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A nimble skeleton’s initiative modifi er increases (If the base creature is not terrestrial, this power might allow by 2 thanks to its improved Dexterity. other forms.)",
+        "name":  "Initiative",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+1/2. Children of the Night (Su): Vampires command the lesser creatures of the world and once per day can call forth 1d6+1 rat Soldier Skeleton swarms, 1d4+1 bat swarms, or a pack of 3d6 wolves as a standard The soldier skeleton works best in groups, and often originates action. (If the base creature is not terrestrial, this power might from mass battlefi eld graves. Soldier skeletons are always skeletal summon other creatures of similar power.) These creatures arrive humanoids, giants, or similar creatures. in 2d6 rounds and serve the vampire for up to 1 hour.",
+        "name":  "CR Adjustment",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Reducing a vampire’s hit points to 0 or lower of a charge, this allows the beast to make a single gore attack incapacitates it but doesn’t always destroy it (see the note on fast with a +9 attack bonus that deals 4d6+6 points of damage. healing). However, certain attacks can slay vampires. 164 7 RETPAHC SNGIAPMAC Smite Good (Su): Once per day Baanmukh can make a globe of invulnerability, stoneskin; 5th—mind fog (DC 22), teleport, normal melee attack to deal 6 points of additional damage wall of stone, waves of fatigue; 6th—eyebite (DC 23), mass suggestion against a good foe. (DC 23), Tenser’s transformation.",
+        "name":  "Slaying a Vampire",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+1 chain shirt, pipes of pain, circlet of persuasion,wand ity 10, spider climb, +4 turn resistance, undead traits, vampire of infl ict moderate wounds (40), arcane scroll of zone of silence, weaknesses; SV Fort +2, Ref +11, Will +7; AL CE; Str 16, Dex arcane scrolls of mind fog and waves of fatigue, potion of undetect- 19, Con —, Int 9, Wis 14, Cha 21. able alignment. Skills and Feats: Bluff +16, Hide +12, Intimidate +9, Listen +16, Move Silently +8, Perform (oratory) +7, Search +8, Sense Motive Skrall, Vampiric Gargoyle +8, Spot +12; AlertnessB, Combat Refl exesB, DodgeB, Flyby Skrall was once the leader of a wing of gargoyles. When a pack Attack, Improved InitiativeB, Lightning Refl exesB, Persuasive. of vampires moved into Skrall’s part of the city, the gargoyles Captivating Song (Su): The most insidious ability of the reacted instinctively to defend their hunting grounds. Skrall harpy is its song. When Zenami sings, all creatures (other than didn’t count on the vampires’ superior cunning, and the pack was harpies) within a 300-foot spread must succeed on a DC 18 Will soon torn to shreds. Instead of death, Skrall was given undeath, save or become captivated. This is a sonic, mind-affecting, charm and now serves as a hunter for the vampire that spawned him. effect. A creature that successfully saves cannot be affected by Skrall can be encountered in any city of reasonable size. He Zenami’s song for 24 hours. prefers to target lone travelers, rendering such prey unconscious A captivated victim walks toward Zenami, taking the most before bringing them back to his master. Alternatively, he may direct route available. If the path leads into a dangerous area have gained freedom from enslavement, in which case he works (through fl ame, off a cliff, or the like), that creature gets a second well as a deadly threat for low-level characters. saving throw. Captivated creatures can take no actions other",
+        "name":  "Possessions",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Bluff +8, Hide +17, Listen +15, Move Silently Legends abound of vampires that possess strange or unfamiliar +12, Search +7, Sense Motive +9, Spot +15; AlertnessB, Blind- abilities. These variants can be applied either to the vampire Fight, Combat Refl exesB, DodgeB, Improved InitiativeB, Light- template or to the vampire spawn creature entry. ning Refl exesB, Multiattack, Toughness. Dominate (Su): Will DC 13 negates. Moonbane Vampire Energy Drain (Su): Fortitude DC 13 to eliminate 24 hours A moonbane vampire is vulnerable to the light of the full moon. later. A moonbane vampire exposed to the light of the full moon is Freeze (Ex): A gargoyle can hold itself so still it appears to treated as slowed (Will DC 15 negates). If the moon is waxing be a statue. An observer must succeed on a DC 20 Spot check or waning (that is, not yet or no longer full), the vampire can to notice the gargoyle is really alive. still be affected, but it gains a +4 bonus on its save. A moonless",
+        "name":  "Skills and Feats",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Wisdom Drain (Su): With a successful Full Attack: Bite +3 melee (1d4+1) or slam +3 melee (1d4+1) touch attack or slam attack, a psychic vampire drains 1d6 Space/Reach: 5 ft./5 ft. points of Wisdom from the target, and simultaneously gains Special Attacks: — 5 temporary hit points that last for up to 1 hour. It can do this Special Qualities: Single actions only, damage reduction once per round. In addition, each living creature within 10 feet 5/slashing, darkvision 60 ft., undead traits of a psychic vampire takes 1 point of Wisdom drain per round Saves: Fort +0, Ref +2, Will +3 (Will negates; DC 10 + 1/2 vampire’s HD + vampire’s Cha modi- Abilities: Str 12, Dex 15, Con —, Int —, Wis 10, Cha 1 fi er). A psychic vampire does not gain any temporary hit points Feats: Toughness from this effect. A psychic vampire can suppress or reactivate Challenge Rating: 1/2 its Wisdom-draining aura as a standard action. A psychic vampire does not have the vampire’s energy drain Gnome Warrior Zombie ability. Small Undead",
+        "name":  "Special Attacks",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A savage vampire retains all the attacks of the base Full Attack: Slam +3 melee (1d4+1) creature and also gains two claw attacks if it didn’t already have Space/Reach: 5 ft./5 ft. them. (Creatures without hands gain slam attacks instead, as Special Attacks: — normal for a vampire.) Special Qualities: Single actions only, damage reduction",
+        "name":  "Attack",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Increase from the base creature as follows: Str +10, Dex +4, Int –2, Wis +2. As an undead creature, a savage vampire Goblin Warrior Zombie has no Constitution score. Small Undead",
+        "name":  "Abilities",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Slam +3 melee (1d4+1) creatures. Full Attack: Slam +3 melee (1d4+1)",
+        "name":  "The swarmform vampire can assume the form of a swarm of Attack",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "18d12+3 (120 hp) Advancement: As base creature but double Hit Dice (maximum",
+        "name":  "Hit Dice",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+0 20), or — if the base creature advances by character class",
+        "name":  "Initiative",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Blood Drain (Ex): If the bloodthirsty zombie in your game. Each description includes notes on incorporating scores a critical hit with its bite against a living creature, that the cult into your campaign, as well as a sample NPC affi liated creature takes 1 point of Constitution damage. with the group.",
+        "name":  "Special Attacks",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Disease (Ex): Any successful melee attack members from those who respected (or worshiped) the power by a diseased zombie exposes the target to a disease (fi lth fever). of death and undeath. Soon she had a cadre of necromancers, Any creature making a successful unarmed or natural attack evil priests, and professional killers. against a diseased zombie is similarly exposed (a character who But the Academy was infi ltrated by a paladin/rogue named grapples with a diseased zombie gets a –4 penalty on the save Rion, who used his knowledge of the group’s inner workings made to resist infection). to organize an assault by those who opposed them. Most of the",
+        "name":  "Special Attacks",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+1/2 As one might expect, the Academy welcomes both the living and the dead, and it numbers a few undead (vampires, spectres, Unkillable Zombie and the like) among its membership. To join, one must only The zombies in the Monster Manual are tough, but an unkillable demonstrate an appreciation for the arts of death, whether that zombie is nigh-unstoppable. appreciation is scholarly or more...hands-on.",
+        "name":  "CR Adjustment",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "CR 6; mechanical; timed trigger; possessing spirit. Killing the possessed victim pulls the undead automatic reset; hidden lock bypass (Search DC 25, Open Lock back across planar boundaries to the Negative Energy Plane. DC 30); Atk +10 melee (1d4+4/19–20 plus poison, dagger); poison A possessing undead offers to ally with the victim of its (purple worm poison, Fortitude DC 24 negates, 1d6 Str/1d6 Str); possession. But they withhold the benefi ts of alliance until the multiple targets (one target in each of three preselected 5-ft. victim is in a tight spot, then grant alliance. Slowly, as the victim squares); Search DC 20; Disable Device DC 20. comes to rely on the undead spirit more and more, the undead spirit subtlety begins to infl uence the behavior of the victim. 5. Transference (EL variable) Of course, in Lady Indrimi’s case, possession doesn’t usually last This chamber is where Lady Indrimi spends much of her time. long enough to make a difference (see room 5). A chipped stone seat, containing limp, stained pillows serves",
+        "name":  "Physical harm to the possessed creature does not harm the Whirling Poison Blades",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A possessing undead spirit as her “throne.” At either arm, pentagrams are inscribed in the rides along with the victim, who may be unaware of the fl oor with inlaid red stone that constantly burns with fi endish undead’s presence, initially. The possessing undead can make lambency. Here, Lady Indrimi “sheds” possessing undead spirits it’s presence known to the victim (although low-Intelligence into fresh living vessels. When she purposely possesses herself, victims may not understand what is happening to them). If the some portion of her spiritual affl iction of sloth is passed to the possessed creature is aware of the possessing undead spirit and possessing spirit. When she sheds the haunting presence, that willing to be its host, the undead spirit can grant the possessed trait is passed to whatever victim is newly possessed, leaving her creature a +4 profane bonus to any single ability score. This a few days (or hours) of clear-headedness before the supernatural bonus is granted at the conclusion of some bargaining between urge of her tainted mind once again drags her down into sloth. the spirit and the possessed creature. The undead spirit is in Haunting presences initially possessing Indrimi are happy to control of this bonus and can take it away as a free action if oblige—they think nothing of taking on spiritual affl ictions, the possessed creature takes actions contrary to the undead and enjoy the idea of passing on that affl iction, undead vectors spirit’s wishes. Because the possessor and the possessed can of a spiritual plague. communicate telepathically, they often form an agreement: Transference Circles: The stone seat acts as a psychic drain for the bonus is a reward for the possessed creature if it does as any creature sitting upon it that is possessed by a sentience not the undead spirit wishes. its own. Should any creature enter the pentagram to the left of",
+        "name":  "Effects of Necromantic Possession",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Mark A. Jindra the proper times. Monster and NPC statistics are provided with each encounter in abbreviated form or,",
+        "name":  "Web Development",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "See area B1a, above. D Werewolves (3): hp 20; see Monster Manual,",
+        "name":  "Creatures",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "If the PCs’ group has fewer than page 175. seven members and they ask Lennel about the remain- ing seats, he explains that Lord Bargden invited some B2. THE LORD ARRIVES (EL 10) other adventurers to attend this evening and names a Read or paraphrase the following when the last light is few other well-known individuals of the same or lower fading from the sky. level than the PCs. He goes on to explain that the other guests had to cancel at the last minute because of some Moments before sundown, a tall man approaches monster hunt. from the southwest. He is dressed in a fashionable noble’s outfit, though his boots are dirty. His body B1c. Path to Other Buildings (EL 6) is tall, lean, and strong, and he has fair skin, dark This area is the northwestern edge of the hill upon hair, and clear blue eyes. which the mansion is built. Read or paraphrase the following aloud when the PCs reach the area marked C The newcomer is Tarus, and his entrance is a staged on the map of the house and grounds. event calculated to convince any unduly suspicious guests that he couldn’t possibly be a vampire, since he At the northwestern edge of the hill is well-trod- appeared while the sun was still in the sky. Shortly den path leading down to the east. About halfway down the hill the path branches into three parts. before sundown, Tarus left the house in gaseous form, One branch ends a clearing in front of a building floated secretly into the trees to the south of the that looks like a stable and a small house mansion, then assumed human form and walked toward constructed of wood and stone. Another branch the party grounds. He timed his entrance so that his leads west to the front of the manor, and a third Endure Sunlight feat could keep him comfortable for the leads south to a small door in the garden wall 10 seconds or so he would have to spend in the sunlight. behind the mansion. Tarus greets his guests pleasantly, though his manner is somewhat aloof, like that of most other nobles. The small building is the groundskeeper’s home. The",
+        "name":  "Development",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Tarus looks only slightly paler than he stable also includes a kennel where Tarus keeps his “dogs.” 4 did when he was alive. Should anyone ask, he explains the change in his complexion as the result of a severe DPraslin:hp 42; see Appendix for statistics. illness from which he has now fully recovered. DKantos:hp 39; see Appendix for statistics.",
+        "name":  "Creatures",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "hp 60; see Appendix for DLennel:hp 18; see encounter B1a. statistics. Tactics: During the meal, Tarus urges the PCs to eat and drink to their hearts’ content, knowing that C. THE BANQUET (EL 11) their overindulgence now will make it easier to hunt them down later. He talks of the invigorating night air, Read or paraphrase the following when you decide to his love of fine food and hunting, and his plans to start the dinner. acquire more property in the area from some of the weaker or poorer nobles. As darkness gathers, Tarus gestures for everyone Tarus also encourages the adventurers to talk about to join him at the table. The night breezes are warm, and the glow of the torches provides a cozy their past adventures. He prompts them for details of atmosphere. their best-known exploits by making comments such as, “I want to hear it from the horse’s mouth, as they say, without the commoners getting all the details wrong.” As soon as everyone is seated, Tarus signals for the If necessary, he relates some of his uncle’s adventuring servants to bring the drinks and the first course. stories, pretending they’re his own, to get the PCs to The five-course meal is not poisoned, and in fact the open up. He listens carefully to their tales, hoping to victuals are of exceptionally high quality. Tarus knows gain a better understanding of their abilities, the kinds that poison in the food might be detected, and worse of creatures they’ve fought, and any weaknesses in their still, it might have no effect at all on some of the char- personal or group strategies. If he feels that they are too acters. However, any character who deliberately stuffs powerful for him to kill tonight with the creatures he himself or drinks too much takes a –2 circumstance has at his disposal, he postpones his murderous plans to penalty on attacks, saves, and checks for the next two a later date, though he still holds the promised hunt hours. This penalty increases to –4 if the character tonight to avoid making them suspicious. Reasons for overindulged in both food and drink. Tarus to delay the attack may include a history of excel-",
+        "name":  "D Tarus Bargden",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Each of the three psychic Praslin and Kantos are under orders to fight until vampires can use this ability to drain 1 point of destroyed, so they continue holding off the PCs Wisdom per round from all living creatures within 10 even if Tarus flees. Like any other vampire, feet. Tarus initiates combat in the mansion (area F2) however, they automatically assume gaseous by taking a standard action to activate this ability, form and retreat to their coffins if reduced to 0 or then breaking open one of the cyst-pots as a move fewer hit points. action if one is adjacent to him. This technique frees Fast Healing:Lophar taught Tarus that returning one of the skulking cysts right away, so that it does- to fight another day is always better than dying n’t have to waste time freeing itself. Praslin and while making a foolish stand. With fast healing 5, Kantos are less effective with their Wisdom drain Tarus can afford to retreat for a few minutes until auras, so they may use different attacks in the first he is once again at full hit points, then stalk the round as the circumstances merit. However, they PCs as they work their way through his home or try understand that their combined auras can quickly to get back to town. He prefers not to be forced leave almost any creature a catatonic mess. into gaseous form by severe damage, since the",
+        "name":  "Wisdom Drain Aura",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "After the PCs leave, Tarus, the other two is now little more than coals. Against the walls vampires, and the three werewolves pursue them. The stand eight wooden chairs, and four large, decora- vampires use gaseous form to catch up, if need be. The tive urns mark the corners of the chamber. Two evil creatures first try to take out the characters’ mounts sets of double doors open into the room—one on (if any) to slow them down, then attack the PCs them- the north wall, and one on the south. selves. See the Vampire Tactics sidebar for information on their methods. The urns are made of sturdy clay and painted with floral designs. Each is large enough to hold an adult halfling E2. DEATH ON THE HUNT and is filled with sand to just a few inches below the If the PCs agree to the hunt, it proceeds as follows. rim. If asked about them, Tarus explains that the urns Tarus leads them along the path, dog leashes in hand. were a gift from his mother and are merely decorative. The other two vampires are present in their normal He keeps them filled with sand to prevent the servants forms if the PCs do not seem suspicious of them, or from tipping them over accidentally—plus, the sand trailing behind in gaseous form otherwise. should come in handy in case of fire.",
+        "name":  "Tactics",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "When the group has moved a suitable The chimney of the fireplace (marked 2a on the distance from the mansion, Tarus pauses to examine a map) splits into two smaller chimneys between the bend in the trail, giving the other two vampires time to ground floor and the second floor, and a smaller fire- materialize if they have been in gaseous form. Then he place connects to each on the second floor (in rooms turns on the PCs, ordering the werewolves and his F14 and F15). The fireplace chimneys allow the vampire minions to attack. The group tries to disable vampires to move quickly between floors using gaseous one PC as quickly as possible, then hunt down any who form, since the low fire in this room is only a momen- scatter. They know that any PCs who get back to town tary discomfort for someone in that state. will spill Tarus’s murderous plans, so they do every- Creatures: In truth, each of the four urns thing they can to prevent escapes. contains a skulking cyst (see the Monsters chapter in Libris Mortis), which is under orders to stay quiet unless F. KEY TO THE MANSION Tarus calls for it or its urn is broken. In either circum- stance, they spring forth and attack any living crea- The PCs are likely to see only a small part of the tures they see. mansion, since Tarus directs them outside for the hunt DSkulking Cysts (4):hp 26; see Libris Mortis. after a short rest in the living room (area F2). However, a full description of the mansion is provided here in F3. Sitting Room case combat occurs inside, or the PCs return here after dealing with the vampires during the hunt. The eight chairs and small table in this room are probably used for cozy chats with guests when a GROUND FLOOR more intimate setting that the large living room is The spacious rooms on the ground floor are much like desired. those in any other noble’s house. F1. Foyer The sitting room has no unusual features. F4. Study Two wooden pillars separate this wide entryway from the next room. The north, south, and west This chamber, obviously a study, is empty except walls feature shuttered windows. for a desk and padded chair. Some sort of ledger book and writing materials are neatly arranged on The foyer has no unusual features. the table. 9 Tarus uses the study to manage his business interests The preparation of large and complicated banquets and correspond with his uncle. Among the notes in the often spills over into this room from the main kitchen. ledger are some remarks on local businesses Tarus The servants usually prepare their own food here as would like to purchase and matters about which “Uncle well. Lophar” should be apprised. F9. Garden Access F5. Dining Room Large coat hooks line the walls of this room, and a In the center of this chamber stands a 15-foot table thick brush of stiff animal hair is nailed to the with eight low-backed chairs arranged around it. A floor near a pair of double doors. simple pair of double doors, built to resemble the wall, leads north. The double doors lead to the garden. The brush is used to clean dirt from boots or shoes so as not to track it into The dining room has no unusual features, though it the mansion. bears evidence of frequent use. Unlike older vampires, SECOND FLOOR Tarus makes an effort to eat in front of his guests in The bedchambers and guest quarters are all on the order to conceal his true nature. second floor. F6. Kitchen F10. Lesser Servants’ Quarters (EL 1/2) This chamber contains a water basin and a wood- The maid and cook were brought from Lophar’s house- burning stove. Pots and pans hang from the walls hold, and they share this chamber. in profusion, and dishes and flatware are stacked on shelves. This room is furnished with two simple beds and two small dressers. The secret door leading to area 7 is easily noticed The chamber is unremarkable. (Search DC 15 instead of 20).",
+        "name":  "Tactics",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The occupants of this room are F7. Root Cellar completely ordinary except that both have the Tomb- Tainted Soul feat (see the Feats section in Libris Mortis), This small room consists mainly of an open trap- which was forced upon them by Lophar during a door in the floor that appears to lead into a food special ritual. Their wills are broken, and they dare not storage area with wall-to-wall shelves. disobey any of the vampires.",
+        "name":  "Creatures",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "N female human commoner This chamber actually is a root cellar, but Tarus had a 1; hp 3; Tomb-Tainted Soul feat (see Libris Mortis). dwarf miner dig a narrow tunnel from here to a spot Tactics:These two servants will not fight even to underneath one of the trees to the north. A Medium defend their own lives. If confronted by anyone other creature can move through the passage comfortably, than the vampires or Lennel, they flee. but the exit hole is large enough for only a Small or F11. Master Servant’s Quarters smaller creature to pass through. This arrangement isn’t an obstacle for a creature in gaseous form, and Tarus This small room contains a bed, a chair, a had the tunnel made so that he could flee if seriously wardrobe, and a tiny desk. The open window over- threatened. The exit hole is overgrown with greenery looks the garden. and resembles a small animal burrow. F8. Pantry \u0026 Secondary Kitchen Lennel lives in this chamber. He has no belongings of value, since he is little more than a slave with privileges. The shelves in this room are lined with foodstuffs, and the small basin to one side is clearly meant for F12. Hallway food preparation. The little table in the room doubles as a cutting surface and a place for the This hallway leads north and south and features servants to eat. several doors and pairs of doors on either side. 10",
+        "name":  "DMaid and Cook",
+        "source":  "libris_mortis_the_book_of_undead.txt",
+        "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "These wormlike creatures possess the ability to Manual II page 128. assume humanoid form and use that power to lead adventurers Naga: Although they rarely gather in great numbers, nagas to terrible ends deep underground. They are potent necroman- charm or dominate lesser creatures into doing their bidding. cers and guard their lairs with hordes of animated dead. Monster Some believe that nagas were bred thousands of years ago by Manual II page 28. the yuan-ti as sacred animals or guardians. Monster Manual",
+        "name":  "Avolakia",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The aboleth processes and remembers countless had cast glyph of warding on the affected area, except that the memories of those it has eaten. It can make untrained skill 22 MASTERS THE DEEP CHAPTER 2 checks in any skill, including those in which it has no ranks Thicken Mucus and that normally cannot be used untrained. An aboleth with this feat can produce mucus that is thicker",
+        "name":  "A newly created glyph functions exactly as if the creature Benefi t",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Aboleths receive only random fl ashes of memory than normal, and other creatures fi nd it diffi cult to swim that quickly fade while eating the fl esh of an intelligent through. creature. Prerequisites: Aboleth, Con 22, Enlarge Mucus Cloud.",
+        "name":  "Normal",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "An aboleth Aboleths, skum, and with this feat gains a nat- Glyph of slave’s glory Glyph of law creatures transformed ural bite attack that deals by an aboleth’s slime 2d6 points of damage attack are unaffected by plus half its Strength Thicken Mucus and can modifi er. If the aboleth move through the cloud makes a full attack, this without penalty. bite attack is a second- Special: When on land, ary attack and is made this ability affects only with a –5 penalty on the nonaboleth (or nontrans- attack roll. formed creatures) that",
+        "name":  "Benefi t",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The aboleth’s walk through the mucus bite attack is an unarmed puddle. The land speed of strike that takes a full- these creatures is reduced round action to use by half, and their swim and deals 1d4 points of speed is not affected. damage on a hit. Flying creatures are not affected. Quickslime Freedom of movement The slime attack of an negates these penalties. aboleth with this feat is particularly fast and Toxic Mucus diffi cult to resist. An aboleth with this feat",
+        "name":  "Normal",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "can produce mucus that Aboleth, Ability Focus is poisonous to other (slime). creatures.",
+        "name":  "Prerequisites",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The save DC Prerequisites: Abo- of the creature’s slime leth, Con 22, Enlarge attack gains a +2 bonus; Mucus Cloud, Thicken this stacks with the Mucus. Glyph of the deep Glyph of the slime curse bonus granted by the Benefi t: Any creature Ability Focus (slime) feat. Further, the transformation process that comes in contact with the mucus cloud becomes takes only 1d4+1 rounds to affect the victim’s skin. poisoned. The creature must make a successful Fortitude",
+        "name":  "Benefi t",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The transformation process takes 1d4+1 minutes. save (DC 10 + half the aboleth’s Hit Dice + Con modifi er) or take 1d4 points of Dexterity damage. One minute later, the Reach Bite creature must save again against the same DC or take another An aboleth with this feat can extend its jaws and esophagus out 1d4 points of Dexterity damage. Creatures that remain in the from its body to make attacks beyond its normal reach. mucus cloud for multiple rounds must make additional saving",
+        "name":  "Normal",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The creature’s reach with its bite attack extends by slime attack are immune to the effect of Toxic Mucus and can an additional 5 feet. move through the cloud without penalty.",
+        "name":  "Benefi t",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The creature’s bite attack has a reach equal to its standard reach (10 feet for most aboleths). 23 Illus. by W. England 2 RETPAHC PEED EHT SRETSAM",
+        "name":  "Normal",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "All nonaboleths within 20 feet To understand the source of the aboleth race, one must of this glyph are weakened and debilitated, and take a –6 fi rst realize that other entities existed long before even the penalty to Strength, Dexterity, and Constitution. The effect aboleths themselves. Their goals and desires were alien and of this glyph persists for 1d4 rounds after a creature exits the unknowable to humankind. Yet they did exist, in the spaces area of effect. A successful DC 16 Will save negates the effect between reality and possibility. Modern sages theorize that completely. these creatures might be the primal source of the dimension Moderate necromancy; CL 9th; Craft Aboleth Glyph, bestow known as the Far Realm, while others argue that their presence curse; Price 72,000 gp. only enabled the existence of this dimension, and that the Far",
+        "name":  "Glyph of Enfeeblement",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Ixitxachitl (Monster Manual II page 128) are about the surface world, or perhaps just too egotistical to a common ally among the oceanic aboleths, serving them remain a small part of a larger whole. These aboleths fancy as elite warriors in a similar manner to the way the kuo-toas themselves leaders and deities, and they travel to the surface serve the underground-dwelling aboleths. Certain pockets to establish cults of enslaved humanoids to worship and tend of aberrant ixitxachitl known as ixzan are said to lurk in the to their needs. They retain the standard aboleth disdain for deepest underground seas; the aboleths there welcome these divinity but lack the desire to add to the legacy of the race. creatures into their cities as well. Aboleths are immortal, after all; perhaps these nomads simply",
+        "name":  "Ixitxachitl",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The aboleths feel strong ties of kinship to the kopru fi gure that the goals of their home city won’t be realized for (Monster Manual II page 134), a fellow aquatic race with the several thousand years and decide to take a few centuries off power of mental domination and a history of a vast civiliza- to relax near the surface. tion fallen into ruin. Yet where the aboleths have recovered Whatever their reason for relocating closer to the surface the glory of their past empires many times over the eons, the world, aboleths craft lairs similar to those of their deeper- kopru have yet to rebuild their cities. dwelling kin. An aboleth lair almost always features an",
+        "name":  "Kopru",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The derro are one of the few races that seem to under- and most secluded cities, these buildings might incorporate stand and accept the alien nature of the aboleths. Entire groups actual structures that have survived from the primal empire of derro offer themselves as servants to aboleths of their own to the modern age. These buildings seethe with a sense of free will. The aboleths appreciate their willingness to admit brooding history, and damaging them is viewed as the greatest inferiority but rarely trust these creatures with important offense possible to the aboleth race. tasks. Derro are used as shock troops along the periphery of Each aboleth typically lives in a building far larger than it an aboleth’s territory. needs, because the lower reaches are reserved for its slaves.",
+        "name":  "Derro",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Aboleths have a particular fondness for the various The leaders of an aboleth city are always savant aboleths; small forms of ooze. Although they cannot directly control oozes cities have only one leader, while in larger cities, several savant with their enslavement powers, they gather the creatures in aboleths might work together as a council. 31 2 RETPAHC PEED EHT SRETSAM",
+        "name":  "Oozes",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "hp 271; Monster Manual page 136. (DC 26); 8th—horrid wilting (DC 27), temporal stasis (+20 melee",
+        "name":  "Greater Stone Golem",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "hp 76; Monster Manual page 8. touch, DC 27).",
+        "name":  "Aboleth Assistant",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A disintegrate effect destroys all of a slain creature, than three levels. an entire object, or one 10-foot cube of nonliving matter.",
+        "name":  "Normal",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "These creatures pose little threat to a beholder, but hatred of other beholders, but this is a hatred born of fear rather they possess useful abilities that a beholder can benefi t from if than intolerance. A sane beholder understands that others of its it can charm them. Examples include goblinoids, giants, grell, kind view it as the greatest threat of all, and it seeks out places neogi, and outsiders with fewer than 12 Hit Dice. that other beholders shun. In other words, these beholders live",
+        "name":  "Usable",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "These creatures offer nothing of interest to a in the societies and cities of other races. beholder and are simply annoying. Beholders prefer to enslave Although these beholders might be considered sane, most or destroy them but don’t normally go out of their way to do remain evil to the core. They know that they are objects of so. Examples include elementals, nonintelligent undead, fear to other races and take pains to establish their lairs in constructs, fey, vermin, and sentient plants. secret underground chambers below a city. They make use",
+        "name":  "Inferior",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Beholders invent complicated schemes and the rule of a beholder lord that moved on or perished still plans that can go awry when other creatures meddle in their serve as breeding grounds for these terrible fungi. Example affairs. When a beholder’s plan is foiled, it uses its spies to guardians: athachs, barbarians, bulettes, carrion crawlers, fi nd out what happened. If it learns that a specifi c creature dire animals, fi ghters, gas spores, giants, hydras, minotaurs, or group of creatures is responsible, it sends assassins to ogres, purple worms, ropers. remedy the situation. Only if all of its assassins fail to kill Representatives: Rarely, a beholder needs to interact with the troublemakers does a beholder get personally involved. another society or civilization in a nonviolent manner. A In such a case, it prefers to use its spies or gatherers to lure beholder put in this unenviable position relies on a charmed the creatures to its lair, where it has the advantage, and then representative with a high Charisma score. Beholders treat use all of its resources to fi nish the job. Example assassins: their representatives much better than they treat their other assassins, chokers, derro, doppelgangers, driders, rogues. minions, and even though representatives remain charmed,",
+        "name":  "Assassins",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Telepathic awareness is not a clairsen- following creatures: tience power but a supernatural ability, so this power does not Mind Flayer (4): hp 44 each; Monster Manual page 186. help.",
+        "name":  "A typical inquisition in Hidden Lagurno consists of the Detect Remote Viewing",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "fi ve kuo-toas, a kuo-toa cleric, a troll, When this structure was a shrine, this chamber served a vital and the elf Oristel. The kuo-toas do most of the menial work purpose. It was shaped to be an acoustic resonator. Sounds in and keep up appearances (such as they are) around the lair, in this room are amplifi ed and channeled through much smaller, an effort to maintain the illusion that this is nothing more harmonic tubes cut through the stone and leading back to the than a dilapidated shrine to Blibdoolpoolp. Oristel the elf is rotunda. These tubes extend to an unknown distance. Those Sarkt’s personal servant, accompanying the master wherever sounds boom into the rotunda, seeming to come from the it goes—except into Sarkt’s true sanctum—unless ordered surrounding rock itself. The intent was not to trick worshipers to wait elsewhere. into thinking they were hearing the voices of deities but to At the moment, the kuo-toa cleric and four of the kuo-toas make the priests’ sermons more impressive. are engaged in guarding or foraging in areas 2 or 5. One kuo- Sarkt maintains the chamber in working order because its toa and the troll remain in these quarters, awaiting orders. If function amuses the mind fl ayer. It sometimes addresses its they hear fi ghting in area 5, they go to join the fi ght there. thralls through this system, haranguing them for hours on Otherwise they attack any intruders who enter this room. the superiority of the illithid race and their good fortune to Any PCs captured by the mind fl ayer’s domination power have become thralls. are assigned a pallet in these rooms (presuming they’re not eaten right away). 11. SARKT’S TROPHY ROOM Kuo-toa: hp 11; Monster Manual page 163. Chests and urns are arranged in clear order around the walls of",
+        "name":  "Sarkt has seven thralls",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "As a standard action, the creature can spit its poison at birth, but the difference becomes apparent before long. at a single target within 30 feet. The creature must succeed While other spawn gain size and strength quickly, a dwarf on a ranged touch attack to hit with its poison. The poison af- neogi grows very slowly, if at all. By the time it is full grown, fects a hit target just as if the creature had succeeded on a bite it still stands no more than 2 feet tall and weighs 10 pounds attack. The poison is somewhat weakened when spit out, and or fewer, due to its spindliness. the poison’s save DC is reduced by 2. 94 pqqqqqqqqqrs ippillihP .M yb .sullI TAKERS THE SLAVE CHAPTER 5 Neogi Defiler Certain neogi develop a more virulent poison and learn to spit this poison as a ranged attack. These neogi gain levels as rogues and are called neogi defi lers. Visually, noth- ing distinguishes these neogi from their ordinary kin. Within neogi society, defi lers are valued for their capability, but they are not held in the high regard that is reserved for sorcerers and slavemasters. In fact, they are rather mistrusted. Along with their more potent poison and spitting ability, they have strong chaotic tendencies. This unpredictability makes defi lers seem unbalanced to other neogi and frightens them. The sample neogi defi ler shown below has applied the Ability Focus feat to its poison, which increases its poison save DC from 14 (normal for a neogi with its Constitution score) to 16.",
+        "name":  "Benefit",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "10 tentacles +5 melee (1d4+1 plus paralyzation) Advancement: By class and bite +0 melee (1d6) or lightning lance +5 ranged touch Level Adjustment: +6 (3d6 electricity) Space/Reach: 5 ft./5 ft. (10 ft. with tentacle) This creature has a large, bulbous body composed of wrinkled,",
+        "name":  "Full Attack",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Hide +8, Listen +4, Move Silently +8, Spot +4 suitable target passes, the monster attempts to paralyze it with",
+        "name":  "Skills",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+6 dangerous areas, such as pit traps, quicksand, or the lairs of other monsters, hoping to prey upon trapped, helpless, or GRELL PHILOSOPHER wounded creatures. 4th-level Grell Wizard A typical grell has a body about 3 feet in diameter and weighs Medium Aberration about 200 pounds. Its tentacles are about 8 feet long.",
+        "name":  "Level Adjustment",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "CR 1/3; Tiny aberration; HD 1d8–1; hp 3; Is the grell in question a feral grell or a civilized grell? Init +2; Spd 5 ft., fl y 20 ft. (perfect); AC 15, touch 14, fl at-footed Feral grell are fearsome predators in the dark, lightless places 13; Base Atk +0; Grp –12; Atk or Full Atk +4 melee (1 plus of the world. They tend to be solitary ambushers that hunt a paralyzation, tentacle); SA paralysis; SQ blindsight 60 ft., fl ight, broad swath of territory, preying upon any creature they can. immunity to electricity, immunity to paralyzation, sightless; They are cruel and murderous, and delight in taking sentient AL N; SV Fort –1, Ref +2, Will +2; Str 2, Dex 15, Con 8, Int 2, creatures for their prey. Feral grell sometimes gather into small Wis 11, Cha 7. packs in places where the hunting is good. A pack of feral grell",
+        "name":  "Grell Hatchling",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "none. sophisticated ambushes and coordinate their attacks. Even Paralysis (Ex): Any creature hit by a grell hatchling’s tentacle large and well-armed parties of adventurers can be rendered must make a DC 5 Fortitude save or be paralyzed for 1d4 helpless in the space of a round or two by the swift, silent rounds. assault of a grell pack, and any party overcome in such an Sightless (Ex):A grell hatchling is immune to gaze attacks, attack meets a very bad end indeed. visual effects, illusions, and other attack forms that rely on Despite the name given to them by sages who study these sight. monsters, feral grell are far more than wild beasts. They are as intelligent as their civilized cousins; in fact, an individual grell",
+        "name":  "Language",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A creature that has this feat can detect and pinpoint classes. Tsochari plots to subvert human wizards’ guilds arise beings that are not mindless (anything with an Intelligence in the black halls of the arcanists. score of 1 or higher) within range of its telepathy. This works Soldier tsochari serve the dictates of the leader castes. They much like blindsense—the creature knows what square each do the bidding of nobles, priests, and arcanists. Soldiers strive thinking being is in, but it does not see the being, and the to ascend to nobility through useful service, demonstrated being still has total concealment unless the creature can see successes, and a certain ruthless streak. The soldiers balance it by some other means. the rivalry between noble and priest by following noble dictates The creature also perceives several observable characteristics and priestly mandates as they deem advisable. about each being detected with mindsight, including the Tsochari merchants are not really merchants at all, since no being’s type and Intelligence score. The creature need not take tsochari would offer payment for the things it desires unless no any additional or special actions to gain this information; it is other option is available. They work as far-ranging explorers, as obvious to mindsight as the being’s race and clothing would raiders, slavers, and spies in search of opportunities to enrich be to eyesight. themselves at the expense of less-capable races.",
+        "name":  "Benefi t",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Telepathy offers no special ability to sense other minds. The creature has to know that a being is there to com- LANGUAGE municate with it telepathically. Tsochari speak their own language, Tsochar. Much of it consists of complex raspings and buzzings created by rubbing strands together. While humanoids could conceivably learn to under- TSOCHAR SOCIETY stand tsochar speech, actually speaking the language would be Tsochari are spiteful, ambitious, avaricious, and self-centered. diffi cult indeed. Because tsochari are telepathic, the Tsochar They would likely entertain all sorts of murderous schemes language is relatively simple, with a broad vocabulary of tech- 126 OF FLESH THE WEARERS CHAPTER 7 nical terms and concepts but no syntax to speak of. It exists lore it brings, to other races and lands. All too often, this means primarily to serve as a written form of tsochar telepathy. humanoid realms in the mundane world. Tsochari priests Tsochari rarely use the languages of other races, again rely- therefore serve as emissaries or messengers from the Nine- ing on their telepathy. Typically, a tsochar speaks Tsochar, Tongued Worm to humanoids foolish or reckless enough to be Common, and one additional language useful in its dealings tempted by the power the tsochari offer. More than one human with specifi c races, such as Draconic, Giant, Goblin, Orc, or cultist has gained the services of tsochari spies and assassins Undercommon. Tsochari understand these languages much by promising to perform awful sacrifi ces and summonings at better than they speak them, since their vocal apparatus is the behest of tsochari priests. nothing like a humanoid throat. When they do speak aloud in humanoid languages, their voices are tinny and high-pitched, Sample Characters: Akhando and Xhekk Thosss and buzz abominably. A tsochar inhabiting or animating the (EL 10) body of a humanoid is much more intelligible, since it can use Last of a line of minor lords notorious for traffi cking with the existing vocal arrangements. sinister powers, the cleric Akhando dwells in a dilapidated tower in the dark, tangled forests of the Witchfi re Hills. Pass- RELIGION ing himself off as a reclusive landowner who rules over a small The tsochari are one of the most religious aberration races. The fi ef in this desolate area, Akhando is the secret master of a cult cult of Mak Thuum Ngatha comprises an elite priestly caste devoted to Mak Thuum Ngatha. His shrines and summoning within tsochar society, even more powerful and infl uential stones lie scattered throughout the sinister forests of his than the noble caste. The Nine-Tongued Worm embodies home. Akhando is currently hosting the tsochar priest the opening of infi nite knowledge, the destruction Xhekk Thosss, carrying the horrible of barriers, and the spanning of space and time, all creature in his own fl esh so that things that the tsochari deeply revere. In turn, Mak his “guest” can study for itself the Thuum Ngatha regards the tsochari as its favored possibilities Akhando’s servants and agents (as much as it favors anyone cult offers. or anything), and entrusts tsochar priests with tasks it deems important. Akhando, Servant of",
+        "name":  "Normal",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The target must succeed on a Fortitude save or Full Attack: Eye rays +8 ranged touch and 2 claws +14 melee gain a negative level. An affected creature regains the lost level (1d8+5) and bite +11 melee (1d8+2) after 8 hours. Space/Reach: 10 ft./5 ft.",
+        "name":  "Enervation",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Cildabrins have a +8 racial bonus on Climb checks remaining foes in its spike stones, casts darkness to cover its and a +4 racial bonus on Spot checks. A cildabrin can escape, and then fl ees to kill and consume its prey later in always choose to take 10 on Climb checks, even if rushed safety. Its long claws and segmented, scorpionlike tail give it or threatened. exceptional reach in combat. Constrict (Ex): A cildabrin deals an extra 1d6+10 points of CLOAKER, damage with a successful grapple check. SHADOWCLOAK ELDER Improved Grab (Ex): To use this ability, a cildabrin must successfully attack with a pincer. It can then attempt to start Advanced 7th-level Shadow Cloaker Sorcerer a grapple as a free action without provoking attacks of oppor- Huge Aberration (Extraplanar) tunity. If it wins the grapple check, the cildabrin establishes Hit Dice: 10d8+70 plus 7d4+49 (181 hp) a hold and deals constrict damage. Cildabrins gain a +4 racial Initiative: +7 bonus on grapple checks. Speed: 15 ft. (3 squares), fl y 60 ft. (average) 142 sillE .S yb .sullI MONSTERS NEW CHAPTER 8",
+        "name":  "Attack feat to snatch up one or two targets, tries to trap any Skills",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— If it wins the grapple check, it establishes a hold and makes an imme- Shadowcloak elder A great, menacing shadow hovers in the air, with hate- diate bite attack against the engulfed victim ful red eyes and a crooked maw full of needlesharp with a +4 bonus on its attack roll. It can still fangs. Its raylike body ripples in shades of black, gray, and pallid use its whiplike tail to strike at other targets. white, and it has a long, lashing whip of a tail. Attacks that hit an engulfi ng shadowcloak elder deal half damage to the monster and half to the trapped victim. Deep underground, cloakers build citylike nests of swooping Moan (Ex): A shadowcloak elder can emit a dangerous shadows and crawling darkness. The secret rulers of these dark subsonic moan (a sonic, mind-affecting ability) as a standard cities lurk behind the perceived leaders—the shadowcloak action. By changing the frequency, a shadowcloak elder can elders, cloakers of great size and power, tainted with the create one of four effects, which are described below. Shad- substance of shadow and skilled in dark sorcery. Sinister and owcloak elders are immune to the moans of other cloakers. inscrutable, shadowcloak elders occasionally emerge from Unless otherwise specifi ed, a creature that successfully saves secrecy to lead their lesser fellows in raids and patrols of the against one of these effects cannot be affected by the same nearby territory, in search of slaves and food. moan effect from the same cloaker for 24 hours. All save DCs An average shadowcloak elder has a wingspan of 12 for moan effects are Charisma-based. feet and weighs 400 pounds. Shadowcloak elders speak Unnerve: Anyone within a 60-foot spread automatically takes Undercommon. a –2 penalty on attack and damage rolls. Those forced to hear the moan for more than 6 consecutive rounds must succeed on 143 Illus. by D. Crabapple 8 RETPAHC WEN SRETSNOM a DC 21 Will save or enter a trance, unable to attack or defend Full Attack: 4 tendrils +20 melee (1d6+1 plus extract) themselves until the moaning stops. Space/Reach: 10 ft./10 ft.",
+        "name":  "Level Adjustment",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "10 ft. (2 squares), fl y 30 ft. (good), swim 30 ft. grapple check automatically extracts the opponent’s brain, (Elder brains use their base speed only when they are relocating instantly killing that creature. This power is useless against themselves to a new pool.) constructs, elementals, oozes, plants, and undead. Extraction",
+        "name":  "Speed",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "An elder eidolon loses all special quali- Organization: None. ties of the base creature, but gains the special qualities listed Challenge Rating: As base creature +3. below. Treasure: None.",
+        "name":  "Special Qualities",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Modify the base creature’s ability scores as Special Qualities: All-around vision, beholder camoufl age, follows: Strength +8, Dexterity +4. An eidolon has no Constitu- fl ight, low light vision tion or Intelligence score. Change its Wisdom score to 11, and Saves: Fort +4, Ref +0, Will +3 148 its Charisma score to 1. Abilities: Str 16, Dex 4, Con 4, Int —, Wis 10, Cha 1 MONSTERS NEW CHAPTER 8",
+        "name":  "Abilities",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Disguise –5 (+15 imitating beholders), Search +4, Infestation (Ex): Any living nonplant creature that is Spot +4 damaged by a gas spore’s slam attack or its death throes must",
+        "name":  "Skills",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Cold hills infested with spores. An infested creature takes 1d4 points",
+        "name":  "Environment",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Bite +4 melee (1) or spittle +4 ranged touch (1d4 acid edible, it begins a constant gibbering as a free action. All plus blindness) creatures (other than mouthers) within a 60-foot spread must",
+        "name":  "Attack",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— Improved Grab (Ex): To use this ability, This unwholesome creature has a body a gibbering mouther must hit Gibbering mouther with the form and fl uidity of an amoeba. a Medium or smaller foe with a bite attack. Its surface has the color, but not the consistency, of human fl esh. It can then attempt to start a grapple as a free action without Countless eyes and toothy mouths constantly form and disap- provoking attacks of opportunity. pear all over the creature, retreating into its body even as they Spittle (Ex): As a free action every round, a gibbering become apparent. mouther can fi re a stream of spittle at one opponent within 30 feet. The mouther makes a ranged touch attack; if it hits, it A gibbering mouther is a creature seemingly drawn from a deals 1d4 points of acid damage, and the target must succeed lunatic’s nightmares. Although not evil, it thirsts after bodily on a DC 18 Fortitude save or be blinded for 1d4 rounds. Eyeless fl uids and seems to prefer the blood of intelligent creatures. creatures are immune to the blinding effect but are still subject Sometimes the arrangement of eyes and mouths on a gibbering to the acid damage. The save DC is Constitution-based. mouther’s body resembles a face, but just as often the features Swallow Whole (Ex): A gibbering mouther can attempt have no relationship to one another. to swallow a grappled opponent of Medium or smaller size by A gibbering mouther is about 3 feet across and 3 to 4 feet making a successful grapple check. (The gibbering mouther high. It weighs about 200 pounds. doesn’t actually “swallow” the opponent—it engulfs the victim Gibbering mouthers can speak Common, but seldom say within its amorphous form—but the effect is essentially the anything other than gibberish. same.) Once the victim is inside, the gibbering mouther can 150 sillE .S yb .sullI MONSTERS NEW CHAPTER 8 use its blood drain ability. A swallowed creature can cut its way Realm as an honored emissary, most others loathe and detest out by dealing 5 points of damage to the gibbering mouther half-farspawn. They might fi nd refuge in the alien dimen- (AC 19). Once the creature exits, muscular action closes the sions from which their farspawn progenitor came, but in the hole; another swallowed opponent must cut its own way out. Material Plane, they are viewed as madness incarnate. Only A gibbering mouther’s body can hold 1 Medium, 2 Small, 8 alienists and insane cultists regard half-farspawn as allies and Tiny, 32 Diminutive, or 128 Fine creatures. knowingly aid them. Amorphous (Ex): A gibbering mouther is not subject to extra damage from critical hits. It cannot be fl anked. SAMPLE HALF-FARSPAWN",
+        "name":  "Level Adjustment",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The creature’s type changes to outsider. Do or fiendish animal or vermin that could be summoned bysummon monster IX, but applies the pseudonatural not recalculate Hit Dice, base attack bonus, or saves. Size is template (see page 161) to the creature rather than the unchanged. Half-farspawn are normally native outsiders. celestial or fiendish template. 152 MONSTERS NEW CHAPTER 8",
+        "name":  "Size and Type",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Increase from the base creature as follows: Str Challenge Rating: 9 +2, Dex +2, Con +6, Wis +4, Cha +2. Treasure: None",
+        "name":  "Abilities",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A half-farspawn gains skill points as an outsider and Alignment: Usually neutral evil has skill points equal to (8 + Int modifi er) × (HD + 3). Do not Advancement: 13–14 HD (Large); 15–36 HD (Huge) include Hit Dice from class levels in this calculation—the half- Level Adjustment: — farspawn gains outsider skill points only for its racial Hit Dice, and gains the normal amount Hound of the gloom of skill points for its class levels. Treat skills from the base creature’s entry as class skills, and other skills as cross-class skills.",
+        "name":  "Skills",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "HD 4 or less, as base creature +1; HD 5 to 10, as base creature +2; HD 11 or more, as base creature +3.",
+        "name":  "Challenge Rating",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Hide +2 (+6 underground), Spot +8 Hounds ambush victims by leaping directly into melee. They Feats: Great Fortitude, Iron Will, Multiattack, Power Attack use their natural climbing ability to reach a point above their Environment: Underground target, then leap down in a deadly pounce from above. The crea- Organization: Solitary or pair tures attack with bite, foreclaws, and the two larger tentacles Challenge Rating: 7 surrounding their heads, which are much longer than the Treasure: 50% normal others. These two tentacles have a reach of 10 feet and end in Alignment: Often neutral fi ve-fi ngered hands that look almost identical to human hands, Advancement: 12–16 HD (Large); 17–33 HD (Huge) except they have strong, sharp claws instead of nails. Level Adjustment: — Once engaged, a hound uses its bite and claw attacks against a single foe. A target that withstands several blows or one that This hulking creature’s body resembles a big sack. Its slimy skin is deals the hound a signifi cant amount of damage is the target blotched with black, gray, white, and a dull red. It has stout limbs of the hound’s poisoned hands. that are clawed at the ends, and its large, lumpy head bears a Improved Grab (Ex): To use this ability, the hound must saw-edged beak. Eight tentacles are arrayed more or less evenly hit with a tentacle attack. It can then attempt to start a grapple across its wrinkled body. Each tentacle is as thick as a man’s thigh as a free action without provoking attacks of opportunity. at its base and tapers down to three fi ngerlike appendages at the Poison (Ex): Injury, Fortitude DC 23, initial and secondary end. The tentacles also have numerous suckers and bony hooks damage 1d8 Dex. The save DC is Constitution-based. on their undersides. 154 MONSTERS NEW CHAPTER 8 An embrac is an ambush predator. It uses its Hide skill and KIGRID the shadows of the underground to lurk near a subterranean Medium Aberration passageway, trail, or body of water and wait for prey to come Hit Dice: 9d8+18 plus 3 (61 hp) within reach. If overmatched, an embrac is not far from a small Initiative: +1 cave it can use as a bolthole to escape. Speed: 40 ft. (8 squares)",
+        "name":  "COMBAT Skills",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Kigrids have a +4 racial bonus on Hide, Listen, Move only).Caster level 3rd. Silently, and Spot checks, and a +8 racial bonus on Jump and Screech (Su): As a standard action, a saltor can emit a Survival checks. high-pitched, piercing shriek in a 20-foot cone. The shriek deals 2d8 points of sonic damage to all nonsaltors and stuns SALTOR such creatures for 1 round. A DC 14 Fortitude save negates the Small Aberration stun and halves the damage. Once it screeches, a saltor cannot",
+        "name":  "Skills",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+11 MIND FLAYER, ALHOON This creature possesses the thin, spidery build and Mind Flayer Lich 12th-Level squirming face-tentacles of a mind fl ayer, but its fl esh Sorcerer is dry and cracked, and its pale, white eyes emit an Medium Undead (Augmented abyssal red glow. Aberration)",
+        "name":  "Level Adjustment",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Tentacle +10 melee (1d4+4 and energy drain) or slam the creature is astoundingly cunning, and its inventiveness is +10 melee (1d6+6 and energy drain) matched only by its savagery.",
+        "name":  "Attack",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Str 18, prey. Although Dex 22, Con they are not pa- —, Int 7, Wis tient creatures by 17, Cha 15 temperament, they",
+        "name":  "Abilities",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "9–24 HD (Medium) Energy Drain (Su): Living creatures hit by a vampiric mind",
+        "name":  "Advancement",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Hippogriffs have a +4 racial bonus on Spot checks. erable threat to passing travelers or nearby settlements. Psurlons detest humanoids of any sort, and go to considerable CREATING A lengths to kill or drive off any they come across. From time PSEUDONATURAL CREATURE to time, they seek to foment trouble by manipulating lead- “Pseudonatural” is an acquired template that can be added ers, dealing with evil folk who are willing to accommodate to any corporeal creature (referred to hereafter as the base the psurlons’ wishes in exchange for psurlon assistance, or creature). duping weak-minded creatures such as goblinoids or gnolls A pseudonatural creature uses all the base creature’s statistics into fi ghting for them. and abilities except as noted here. Even though the creature’s A psurlon has a long, tubular, pink body divided into subtle type changes, do not recalculate Hit Dice, base attack bonus, rings or segments, just like an earthworm’s body. It also has or skill points. two arms and two legs, also segmented. The psurlon’s head is",
+        "name":  "Skills",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The creature’s type changes to outsider. Size little more than a blunt end to its tubular body. Its only facial is unchanged. feature is a large, circular mouth fi lled with gnashing teeth.",
+        "name":  "Size and Type",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Slam +14 melee (2d10+7) time a creature can hold its breath if it takes a standard action",
+        "name":  "Attack",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "4 slams +14 melee (2d10+7) is reduced by 1 round. A shaboath can engulf 1 Large creature, Space/Reach: 10 ft./10 ft. 2 Medium creatures, 4 Small creatures, 8 Tiny creatures, 16",
+        "name":  "Full Attack",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Engulf, improved grab, wall of ice Diminutive creatures, or 32 Fine creatures at one time.",
+        "name":  "Special Attacks",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "3 CREATING A SHADOW CREATURE",
+        "name":  "Challenge Rating",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— hereafter as the base creature). A shadow creature uses all the base creature’s statistics and A creature lurks in the shadows. Its dark, mottled body resembles abilities except as noted here. Do not recalculate the creature’s that of a naked halfl ing, but its limbs are incredibly spindly and Hit Dice, base attack bonus, saves, or skill points if its type long. It seems to be almost a living shadow—an oily, liquid crea- changes. ture of the darkness. 167 Illus. by M. Phillippi 8 RETPAHC WEN SRETSNOM",
+        "name":  "Level Adjustment",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "As base creature × 1-1/2. Special Qualities: Coalesced form, immortality, immunity",
+        "name":  "Speed",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Same as base creature. Shadow creatures gain a +6 The four upper limbs end in long spines, and the four lower limbs racial bonus on Move Silently checks. end in tiny, four-fi ngered hands. Its roughly humanoid torso is",
+        "name":  "Skills",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Same as the base creature. covered with dark green plates, and its head is a writhing mass",
+        "name":  "Feats",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Same as the base creature.",
+        "name":  "Organization",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Same as the base creature +1. The silthilar are an unusual form of colonial intelligence found",
+        "name":  "Challenge Rating",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Same as the base creature. only in the most tangled and remote forests of the world.",
+        "name":  "Treasure",
+        "source":  "lords_of_madness_the_book_of_aberrations.txt",
+        "_id":  "60f4349f0e3294083f097db10fe744d6edd642a837d8fb43018f6109c32ce385"
+    }
+]

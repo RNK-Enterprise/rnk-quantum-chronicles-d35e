@@ -1,0 +1,145 @@
+﻿{
+    "by_category":  [
+                        {
+                            "count":  48,
+                            "category":  "powers"
+                        },
+                        {
+                            "count":  11,
+                            "category":  "monsters"
+                        },
+                        {
+                            "count":  27,
+                            "category":  "armor"
+                        },
+                        {
+                            "count":  2,
+                            "category":  "other"
+                        }
+                    ],
+    "samples":  [
+                    {
+                        "category":  "powers",
+                        "examples":  [
+                                         {
+                                             "name":  "Benefi t",
+                                             "_id":  "b52f2ec282237ced256fa631237d2f49b802b02389d0a28694835b2d980f4191",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Saving Throw",
+                                             "_id":  "a15734a6dd71eea57fd734fcec656008a0f471ef03af6934f84ba3d8d6994472",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Benefi t",
+                                             "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Typical Encounters",
+                                             "_id":  "b23601a81bab0bb28837857cc1300f74e1c83173a1d8e83d4f51d3a6d080071c",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Author",
+                                             "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         }
+                                     ]
+                    },
+                    {
+                        "category":  "monsters",
+                        "examples":  [
+                                         {
+                                             "name":  "Abilities",
+                                             "_id":  "2c61f0d74a7fa62caa32567aa028a968c002e87fe7d35c2303c15b7f7cd80ecb",
+                                             "auto_category":  "monsters",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Spells per Day",
+                                             "_id":  "e3dc8037fb581147eb9f4b66b67256a70a90e4ca7407f4ca628bc3df8b122cc5",
+                                             "auto_category":  "monsters",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Objects of magical sort taken are given freely to Possessions",
+                                             "_id":  "01222f8179ab75fbad36fe3e2292a4a03c72a5a05e1bf49f5d5845a0d57b3eac",
+                                             "auto_category":  "monsters",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Spellcasting",
+                                             "_id":  "3328a482bb923d04043438dee42539ae53658a435f97a8628c489ca983575ebc",
+                                             "auto_category":  "monsters",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Benefits",
+                                             "_id":  "fa9ff36dc2e28c724b646d6315bf3c189905b2cf7e35dd84c88c6804837da27c",
+                                             "auto_category":  "monsters",
+                                             "confidence":  "strong"
+                                         }
+                                     ]
+                    },
+                    {
+                        "category":  "armor",
+                        "examples":  [
+                                         {
+                                             "name":  "Caster Level",
+                                             "_id":  "bc99cbf2651cf187ea3b0807b2e27e07bcdc7e9d1e967a0a5b359fdf987277e7",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Benefi t",
+                                             "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Advancement",
+                                             "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Treasure",
+                                             "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Special Qualities",
+                                             "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         }
+                                     ]
+                    },
+                    {
+                        "category":  "other",
+                        "examples":  [
+                                         {
+                                             "name":  "Change the second paragraph to read as follows",
+                                             "_id":  "fa4664f1d3ecdb18f8d268d5ac285f613bb32d79f6c36c8cdaf593980730e1cf",
+                                             "auto_category":  "other",
+                                             "confidence":  "weak"
+                                         },
+                                         {
+                                             "name":  "New Magic Item",
+                                             "_id":  "dd09017539dede84696ea596ccdd6923f94cf9419fc5ec4067381fc53ebb7b47",
+                                             "auto_category":  "other",
+                                             "confidence":  "weak"
+                                         }
+                                     ]
+                    }
+                ],
+    "total_merged":  88
+}

@@ -1,0 +1,106 @@
+﻿{
+    "by_category":  [
+                        {
+                            "count":  63,
+                            "category":  "powers"
+                        },
+                        {
+                            "count":  24,
+                            "category":  "armor"
+                        },
+                        {
+                            "count":  2,
+                            "category":  "monsters"
+                        }
+                    ],
+    "samples":  [
+                    {
+                        "category":  "powers",
+                        "examples":  [
+                                         {
+                                             "name":  "Alternative Feats",
+                                             "_id":  "b52f2ec282237ced256fa631237d2f49b802b02389d0a28694835b2d980f4191",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Effect",
+                                             "_id":  "a7af01ac27b3ae2721d17f1d37cbbda87043f4b81348c48324fc31d8c895090a",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Possessions",
+                                             "_id":  "bc99cbf2651cf187ea3b0807b2e27e07bcdc7e9d1e967a0a5b359fdf987277e7",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Weapon and Armor Proficiency",
+                                             "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Tactics",
+                                             "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         }
+                                     ]
+                    },
+                    {
+                        "category":  "armor",
+                        "examples":  [
+                                         {
+                                             "name":  "Riding Lizard, Giant",
+                                             "_id":  "01222f8179ab75fbad36fe3e2292a4a03c72a5a05e1bf49f5d5845a0d57b3eac",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Benefit",
+                                             "_id":  "a15734a6dd71eea57fd734fcec656008a0f471ef03af6934f84ba3d8d6994472",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Appearance",
+                                             "_id":  "434cc8e306fc29537e70cb80371e2da1bc259e7d28c8102a12f04e96f2e9f111",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "A l i g n m e nt",
+                                             "_id":  "e923bdb1eb11dc6ee63bc49845eec11780f61ee7d44bed85acdb011268db5f0b",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Spell Resistance",
+                                             "_id":  "3328a482bb923d04043438dee42539ae53658a435f97a8628c489ca983575ebc",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         }
+                                     ]
+                    },
+                    {
+                        "category":  "monsters",
+                        "examples":  [
+                                         {
+                                             "name":  "Change text to read as follows",
+                                             "_id":  "fa4664f1d3ecdb18f8d268d5ac285f613bb32d79f6c36c8cdaf593980730e1cf",
+                                             "auto_category":  "monsters",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Special Attacks",
+                                             "_id":  "5bece2501e04ebf556de844b5b53aa35ef1cc425d1fdacb341ea3f8aa880dccd",
+                                             "auto_category":  "monsters",
+                                             "confidence":  "strong"
+                                         }
+                                     ]
+                    }
+                ],
+    "total_merged":  89
+}

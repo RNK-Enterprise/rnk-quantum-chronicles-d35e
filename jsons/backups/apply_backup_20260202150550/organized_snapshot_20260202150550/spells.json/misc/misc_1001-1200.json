@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "spells.json",
+        "description":  "Calls powerful elemen- tal creature to ﬁ ght for you. NEW DRUID SPELLS 1ST-LEVEL DRUID SPELLS",
+        "name":  "Summon Elemental Monolith",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Subject gains swim speed, +8 bonus on Swim checks. 3RD-LEVEL DRUID SPELLS",
+        "name":  "Swim",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Your unarmed attacks deal +1d6 damage; nat- ural and unarmed attacks against you take 1d4 damage. 4TH-LEVEL DRUID SPELL",
+        "name":  "Thornskin",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Line of electricity between two crea- tures (1d6/level damage). 5TH-LEVEL DRUID SPELL",
+        "name":  "Arc of Lightning",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Transforms one 10-ft. cube with subsequent ﬁ re damage and effects. 620_17925_Chpt4.indd   87 620_17925_Chpt4.indd   87 9/15/04   3:03:33 PM 9/15/04   3:03:33 PMCHAPTER 4 SPELLS  AND INVOCATIONS 88NEW RANGER SPELLS 1ST-LEVEL RANGER SPELL Low-Light Vision: See twice as far as a human in poor illumination. 2ND-LEVEL RANGER SPELL",
+        "name":  "Transmute Rock to Lava",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Repairs 1 point of damage to any construct. 1ST-LEVEL SORCERER/WIZARD SPELLS",
+        "name":  "Trans Repair Minor Damage",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Repairs 1d8 +1/level damage (max +5) to any construct. 2ND-LEVEL SORCERER/WIZARD SPELLS",
+        "name":  "Repair Light Damage",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Garment or container becomes extradimensional safe haven for your familiar. 3RD-LEVEL SORCERER/WIZARD SPELLS",
+        "name":  "Univ  Familiar Pocket",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Your familiar receives +2 bonus on saves, combat rolls, and AC for 1 hour/level. 4TH-LEVEL SORCERER/WIZARD SPELLS",
+        "name":  "Univ  Enhance Familiar",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+10 bonus on caster level checks to defeat one creature ’s spell resistance. 620_17925_Chpt4.indd   88 620_17925_Chpt4.indd   88 9/15/04   3:03:35 PM 9/15/04   3:03:35 PMCHAPTER 4 SPELLS  AND INVOCATIONS 89 Unluck:  Target remakes all rolls, uses worse result for 1 round/level.",
+        "name":  "Div Assay Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+10 bonus on Concentration checks for previously cast spell.",
+        "name":  "Abjur  Aiming at the Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+4 on Spellcraft checks, counterspell as an immediate action.",
+        "name":  "Duelward",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Creature or object takes 1d6 damage/level of spell affecting it (max 25d6).",
+        "name":  "Reciprocal Gyre",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spellcasters and creatures with spell-like abilities are prevented from entering an area.",
+        "name":  "Refusal",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One creature/level ﬂ ies at speed of 60 ft.6TH-LEVEL SORCERER/WIZARD SPELLS",
+        "name":  "Fly, Mass",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You transfer spells and casting ability into your familiar. 7TH-LEVEL SORCERER/WIZARD SPELLS",
+        "name":  "Univ  Imbue Familiar with Spell Ability",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You assume incorporeal form and gain some incorporeal traits and bonuses. 8TH-LEVEL SORCERER/WIZARD SPELLS",
+        "name":  "Trans Ghostform",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Pain and trauma deal 2d6 damage, 1d6 Con damage, 1d6 Cha damage for up to 4 rounds. 9TH-LEVEL SORCERER/WIZARD SPELLS",
+        "name":  "Trans  Flensing",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You absorb targeted spell energy to power spells of your own.",
+        "name":  "Abjur  Absorption",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "On a targeted dispel, steal spell power and effects for yourself. 620_17925_Chpt4.indd   89 620_17925_Chpt4.indd   89 9/15/04   3:03:36 PM 9/15/04   3:03:36 PMCHAPTER 4 SPELLS  AND INVOCATIONS 90Conj  Sphere of Ultimate Destruction: Featureless black sphere moves 30 ft./round, disintegrates on ranged touch attack.",
+        "name":  "Reaving Dispel",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Transforms one 10-ft. cube with subsequent ﬁ re damage and effects. WARMAGE SPELLS 0-LEVEL WARMAGE SPELLS (CANTRIPS)",
+        "name":  "Trans  Transmute Rock to Lava",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Nauseating vapors, 1 round/level. 4TH-LEVEL WARMAGE SPELLS Blast of Flame*: 60-ft. cone of ﬁ re (1d6/level damage).",
+        "name":  "Stinking Cloud",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Deals 2d4 ﬁ re damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level. 5TH-LEVEL WARMAGE SPELLS Arc of Lightning*: Line of electricity between two crea- tures (1d6/level damage). 620_17925_Chpt4.indd   90 620_17925_Chpt4.indd   90 9/15/04   3:03:38 PM 9/15/04   3:03:38 PMCHAPTER 4 SPELLS  AND INVOCATIONS 91Cloudkill: Kills 3 HD or less; 4 –6 HD save or die; 6+ HD take Con damage.",
+        "name":  "Wall of Fire",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Smite foes with divine ﬁ re (1d6/level damage). Prismatic Ray*: Ray of light blinds target, deals random effect. 6TH-LEVEL WARMAGE SPELLS",
+        "name":  "Flame Strike",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Acorns and berries become grenades and bombs. Otiluke ’s Freezing Sphere: Freezes water or deals cold damage. Tenser ’s TransformationM: You gain combat bonuses. 7TH-LEVEL WARMAGE SPELLS",
+        "name":  "Fire Seeds",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Several targets become exhausted. 8TH-LEVEL WARMAGE SPELLS",
+        "name":  "Waves of Exhaustion",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Blinds all within 10 ft., deals 6d6 damage. 9TH-LEVEL WARMAGE SPELLS",
+        "name":  "Sunburst",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As phantasmal killer,  but affects all within 30 ft. WU JEN SPELLS 0-LEVEL WU JEN SPELLS (CANTRIPS)",
+        "name":  "Weird",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Subject gains +1 on saving throws. 1ST-LEVEL WU JEN SPELLS All Elemental Burst*:  Elemental target explodes with varying effects.",
+        "name":  "Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You understand all spoken and written languages. Detect Chaos/Evil/Good/Law:  Reveals creatures, spells, or objects of selected alignment.",
+        "name":  "Comprehend Languages",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Throws voice for 1 min./level. 2ND-LEVEL WU JEN SPELLS",
+        "name":  "Ventriloquism",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sends a short message 1 mile/level. 3RD-LEVEL WU JEN SPELLS",
+        "name":  "Whispering Wind",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Absorb 12 points/level of damage from one kind of energy. Earth Earthbolt*:  Seismic pulse deals 1d6/level damage to creatures along its path. Terra Cotta WarriorM*: Statuette becomes a Medium animated object which ﬁ ghts for you. Fire Fire Wings*: Your arms become ﬂ aming wings capable of ﬂ ight and dealing +2d6 ﬁ re damage on unarmed attacks. 620_17925_Chpt4.indd   92 620_17925_Chpt4.indd   92 9/15/04   3:03:42 PM 9/15/04   3:03:42 PMCHAPTER 4 SPELLS  AND INVOCATIONS 93 Fireball:  1d6 damage per level, 20-ft. radius.",
+        "name":  "All Protection from Energy",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Speak any language. 4TH-LEVEL WU JEN SPELLS All Elemental Ward*:  Drives elementals away.",
+        "name":  "Tongues",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Stops 1st- through 3rd- level spell effects.",
+        "name":  "Globe of Invulnerability, Lesser",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Calls extraplanar creature to ﬁ ght for you. Wall of Bones*:  Shapeable wall grants cover and conceal- ment, deals damage to anyone who tries to pass. 5TH-LEVEL WU JEN SPELLS",
+        "name":  "Summon Monster IV",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Creates a stone wall that can be shaped. 620_17925_Chpt4.indd   93 620_17925_Chpt4.indd   93 9/15/04   3:03:44 PM 9/15/04   3:03:44 PMpqqqqqqqqqqqqqqqqqqqqrs USING THE HEXBLADE WITH COMPLETE ARCANE The hexblade (a new standard class introduced in Complete Warrior ) has its own class spell list, which focuses on enchant- ment, necromancy, and transmutation spells, but also includes some abjurations, illusions, and other effects. You can add the following new spells (appearing in this book) to the hexblade ’s class spell list. 1st-Level Hexblade Spells",
+        "name":  "Wall of Stone",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+10 bonus on caster level checks to defeat one creature ’s spell resistance.",
+        "name":  "Assay Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Makes certain spells permanent.",
+        "name":  "PermanencyX",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Wall is immune to damage. 6TH-LEVEL WU JEN SPELLS",
+        "name":  "Wall of Force",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As lesser globe of invulnerability, plus 4th-level spell effects.",
+        "name":  "Globe of Invulnerability",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Changes appearance of group of creatures. 620_17925_Chpt4.indd   94 620_17925_Chpt4.indd   94 9/15/04   3:03:46 PM 9/15/04   3:03:46 PMpqqqqqqqqqrs SPELLS FROM ORIENTAL ADVENTURES Some of the spells in this chapter were first introduced in Ori- ental Adventures,  and appeared on class spell lists in addition to the wu jen. Though those classes aren ’t listed in the level information of the spell descriptions here, any of these updated spells can be used by Oriental Adventures classes able to use the original spell. pqqqqqqqqqrsCHAPTER 4 SPELLS  AND INVOCATIONS 957TH-LEVEL WU JEN SPELLS",
+        "name":  "Veil",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Alters reality —within spell limits.",
+        "name":  "Limited WishX",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As teleport,  but affects a touched object. Withering Palm*:  Touch attack deals 1 point Str damage plus 1 point Con damage/two levels. 8TH-LEVEL WU JEN SPELLS",
+        "name":  "Teleport Object",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Object or location affected by spell repels certain creatures. Finding the Center*:  Automatically maintain concentra- tion on previously cast spell.",
+        "name":  "Antipathy",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Cyclone deals damage and can pick up crea- tures. 9TH-LEVEL WU JEN SPELLS Fire Internal FireF*: Targets die instantly or take 6d6 + 1/level ﬁ re damage. Absorption*: You absorb targeted spell energy to power spells of your own.",
+        "name":  "Whirlwind",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As limited wish,  but with fewer limits. 620_17925_Chpt4.indd   95 620_17925_Chpt4.indd   95 9/15/04   3:03:48 PM 9/15/04   3:03:48 PM96CHAPTER 4 SPELLS  AND INVOCATIONSSPELLS The spells herein are presented in alphabetical order (with the exception of those whose names begin with “greater, ” “lesser, ” or “mass ”; see Order of Presentation, page 181 of the Player ’s Handbook ). ABSORPTION Abjuration",
+        "name":  "WishX",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Until expended or 10 min./level Spells and spell-like effects that target you are absorbed, their energy stored to power spells of your own. Absorption absorbs only ranged spells that have you as a target. Touch spells, effect spells, and area spells that affect you cannot be absorbed. Once the spell is cast, you can absorb 1d4+6 spell levels (rolled secretly by the DM). The level of each spell you absorb is subtracted from the total. If a spell is only partially absorbed (because its level exceeds the number of levels remaining to be absorbed), divide the number of spell levels left unabsorbed by the original spell level. For spells that deal damage, use the result to determine what fraction of the damage you take. For spells that create effects, use the result as a percentage chance to be affected. For example, you have three spell levels of absorption  remaining and are struck by dominate person  (cast as a 5th- level spell). Absorption absorbs three levels of the spell, resulting in a 40% chance (2/5) that you will be affected normally. If affected, any saving throw the spell allows you still applies. Like- wise, if you ’re struck by disintegrate  (cast as a 6th-level spell) with four levels of absorption  remaining, two levels of the spell remain, and you take only 33% (2/6) of the damage you would normally take from the spell. You can use captured spell energy to cast any spell you know or have prepared, but spells so cast don ’t disap- pear from your list of prepared spells or count against the number of spells you can normally cast per day (so you so must keep a running total of spell levels absorbed and used). The levels of spell energy you have stored must be equal to or greater than the level of the spell you want to cast, and you must have at hand (and expend) any material components required for the spell. ACCURACY",
+        "name":  "Duration",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration, up to 20 minutes; see text When you cast this spell as a swift action (see page 86), you increase your ability to concentrate on a spell you have already cast. This spell is one of only a few spells ( ﬁ nding the center  being another) that you can cast while maintaining concentration on another spell. Aiming at the target  gives you a +10 circumstance bonus on Concen-tration checks you make to maintain concentration on the other spell, and its effect lasts as long as you concentrate on the other spell (to a maximum of 20 minutes). ANIMATE FIRE Transmutation [Fire]Level:  Druid 2, wu jen 2 ( ﬁ re)",
+        "name":  "Duration",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Up to a 5-ft. cube of ﬁ re As animate wood , but you can animate a ﬁ r e  n o  l a r g e r  t h a n  t h e  m a x i m u m volume. Animated ﬁ re has the ﬁ re subtype and the burn special attack of a ﬁ re elemental, dealing bludgeon- ing damage plus ﬁ r e  d a m a g e  o n  a successful slam attack and possibly setting opponents on ﬁ re (save DC 12; see page 98 of the Monster Manual ). Fire animated by this spell has hard- ness 0. Material Component:  A handful of charcoal, sulfur, and soda ash. ANIMATE WATER Transmutation [Water]Level:  Druid 1, wu jen 1 (water)",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Up to a 5-ft. cube of water As animate wood , but you can animate a quantity of water up to the maximum volume. Water animated by this spell has hardness 0, but has double the n o r m a l  h i t  p o i n t s  t h a t  a n  a n i m a t e d  object of the same size would have. Material Component:  A vial of pure spring water mixed with cinnabar oil. ANIMATE WOOD",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration, up to 1 round/level (D) 620_17925_Chpt4.indd   96 620_17925_Chpt4.indd   96 9/15/04   3:03:49 PM 9/15/04   3:03:49 PM97CHAPTER 4 SPELLS  AND",
+        "name":  "Duration",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No This spell imbues a Small or smaller w o o d e n  o b j e c t  w i t h  m o b i l i t y  a n d  a  semblance of life, then causes it to immediately attack whomever or what- ever you initially designate. Statistics for the animated wood are as for a Small animated object and can be found on page 13 of the Monster Manual.  Wooden objects animated by this spell have hardness 5. The spell cannot animate objects carried or worn by a creature. Material Component:  A mixture of powdered cinnabar and ground peach pit. ANTICIPATE TELEPORTATION Abjuration",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No The subject of the spell is surrounded with an invisible aura that anticipates and delays the teleportation of any creature into the spell ’s area. Any teleportation spell or effect (includ- ing all spells with the teleportation descriptor) can be anticipated, making the spell ’s recipient instantly aware of the exact location where the teleport-i n g  c r e a t u r e  w i l l  a r r i v e  ( s u b j e c t  t o  the restrictions below), the creature ’s size, and how many other creatures (and their sizes) are arriving with the teleporting creature. The spell also delays the arrival of the teleporting creature by 1 round (so that it arrives on its initiative count immediately before its next turn), generally giving the recipient of the spell and anyone else made aware of the information 1 round to act or ready actions. The teleporting creature does not perceive this delay. Since a teleporting creature doesn ’t necessarily arrive at the precise loca- tion it intends, the spell also functions against a creature that arrives in range even though its intended destina- tion was elsewhere. For a creature that intends to teleport into range but inadvertently arrives outside the spell ’s area, the spell gives the recipient awareness that a creature has attempted to teleport into range and delays the creature as normal, but doesn ’t give any awareness as to t h e  a c t u a l  l o c a t i o n  o f  i t s  i m m i n e n t  arrival. The spell has no effect on creatures attempting to teleport away from the spell ’s area, though if their destination is within the area, the spell will affect their reentry as normal. Focus: A tiny hourglass of platinum and crystal costing 500 gp, which must be carried or worn by the spell ’s recipi- ent while the spell is in effect. ANTICIPATE TELEPORTATION, GREATER Abjuration",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "24 hours As anticipate teleportation , except that greater anticipate teleportation  identi ﬁ es the type of the arriving creature (and any companions accompanying it) and creates a delay of 3 rounds, providing the recipient with even more warning and preparation time. Focus: A tiny hourglass of platinum and crystal ﬁ lled with diamond dust, costing 1,000 gp. The hourglass must be carried or worn by the spell ’s recipi- ent while the spell is in effect. APPARITION Illusion (Phantasm) [Fear, Mind- Affecting]",
+        "name":  "Duration",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes This spell causes the subject ’s face to take on a horrible and terrifying appearance. You can create nearly any combination of hideous features —blue skin, parrot face, elephantine nose, rotting tusks, or worse —but you cannot duplicate the appearance of any speci ﬁ c creature or person. Any creature (excluding you and your allies) that views the recipient and fails its save becomes shaken.",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No You create natural conductivity between two creatures, and a bolt of electricity arcs between them. This bolt deals 1d6 points of electricity damage per caster level (maximum 15d6) to both creatures and to anything in the line between them. B o t h  c r e a t u r e s  m u s t  b e  i n  r a n g e ,  a n d  y o u  m u s t  b e  a b l e  t o  t a r g e t  t h e m  (as if this spell had them as its targets). Draw the line from any corner in one creature ’s space to any corner in the other ’s space.",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One creature Arc of lightningIllus. by D. Crabapple 620_17925_Chpt4.indd   98 620_17925_Chpt4.indd   98 9/15/04   3:03:53 PM 9/15/04   3:03:53 PM99CHAPTER 4 SPELLS  AND",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No You conjure a number of shining metallic bands out of thin air, encircl- ing a Medium or smaller creature. The victim must succeed on a Re ﬂ ex save o r  b e  i m m o b i l i z e d  ( h e l p l e s s ) .  I f  t h e  saving throw succeeds, the victim is only partially trapped by the bands (treat as entangled). A creature immobilized by the bands can attempt escape as a full-round action, either by bursting free (Strength DC 18) or wriggling out ( Escape Artist DC 1 8 ). An en tan gled creature can use a full-round action to break or disentangle itself with a DC 13 Strength check or a DC 13 Escape Artist check. Large or larger creatures are too big to be captured or impeded by the bands.",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "NoFlames ﬁ ll the area, dealing 1d6 points of ﬁ re damage per caster level (maxi- mum 10d6) to any creature in the area that fails its saving throw. Material Component: A bit of wick soaked in oil. BLINK, GREATER",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes A blazing ball of light is hurled toward the point you designate, erupting into a brilliant hovering sphere. All sighted creatures in the area are dazzled (no save), and the heat from the blistering radiance  deals 2d6 points of ﬁ re damage to all creatures and objects in the area 620_17925_Chpt4.indd   99 620_17925_Chpt4.indd   99 9/15/04   3:04:01 PM 9/15/04   3:04:01 PM100 CHAPTER 4 SPELLS  AND INVOCATIONSeach round on your turn (Fortitude save for half). Like ﬁ reball , blistering radiance  erupts if it strikes any material body or solid barrier before attaining the prescribed range, and you must make a successful ranged touch attack to send the sphere through a narrow opening or passage. Blistering radiance  counters or dispels any darkness spell of equal or lower level. Material Component:  A bit of tinder and a small lens. BODY OUTSIDE BODY Conjuration (Creation)Level:  Wu jen 7",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes You taint a living creature ’s blood with a hot, corrosive infusion, dealing 1d8 points of acid damage and 1d8 points of ﬁ re damage per round. The subject can attempt a Fortitude save each round to negate the damage, but a successful save does not prevent damage in future rounds. Searing pain limits the subject to a single move action in any round when it fails its Fortitude save. Burning blood  does not affect crea- tures of the construct, elemental, ooze, plant, or undead types.",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) This spell alters the coloration of the recipient ’s body and clothing so as to blend in with the surrounding background, granting the creature a +10 circumstance bonus on any Hide checks. In areas where the background changes gradually (such as stepping fr o m  f o r e s t  t o  gr e e n  ﬁ eld), the color- ation shifts quickly enough to grant the bonus while moving at up to one-half normal speed. When the background changes abruptly (from forest to stone wall, for example), the creature loses the circumstance bonus for 1 round while the coloration change takes effect. Material Component:  The shed skin of a small lizard. CLOUD CHARIOT Conjuration (Creation) [Water]Level:  Wu jen 8 (water)",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Your saliva changes into a virulent poison that you then spray forth in a 10-foot cone. Creatures within the cone must make a Fortitude save or take 1d3 points of Constitution damage. The p o i s o n  d o e s  n o t  aff e c t  y o u ,  n o r  d o e s it produce any secondary effects or re-main potent once sprayed. Material Component:  A cobra ’s fang. COMMUNE WITH GREATER SPIRIT Divination",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One spirit As commune with lesser spirit , except this spell can contact any spirit creature regardless of Hit Dice, and you can ask one question per caster level.",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No You contact any local spirit creature with 4 or fewer Hit Dice and can ask it up to one question per two caster levels. You must know the identity of the spirit, and you must be within 10 feet of the spirit ’s location. The spirit ’s knowledge is limited to matters within its immediate area (so that the spirit of a great tree in a village cannot answer questions about events outside the village, for example), and you must ask questions that could typically have one-word answers. “Unclear ” is a legitimate answer, because spirits are not necessarily omniscient, but in cases where a one-word answer would be misleading or contrary to the spirit ’s interests, the DM can respond with a short phrase ( ﬁ ve words or less) instead. If the spirit has been subject to com- mune with lesser spirit  (or commune with greater spirit ) within the past week, this spell fails. As well, if the spirit ’s align- ment is different from yours, it gets a Will save to resist the spell. Unasked questions are wasted if the spell ’s dura- tion expires.",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 min./level (D); see textCloud chariotIllus. by G. Kubic 620_17925_Chpt4.indd   101 620_17925_Chpt4.indd   101 9/15/04   3:04:39 PM 9/15/04   3:04:39 PM102 CHAPTER 4 SPELLS  AND",
+        "name":  "Duration",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "NoThis spell creates an amorphous cloud of inky blackness that you can shape and move as desired. While you con-centrate on it, the darkness can move up to 20 feet per round, either ﬂ oating through air or seeping through the smallest cracks. The cloud stops all light and sound, so creatures within it (or creatures whose sensory organs and vocal apparatus are within it) are treated as being deafened and blinded (including creatures with darkvision), in addition to being unable to speak or c a s t  s p e l l s  w i t h  v e r b a l  c o m p o n e n t s .  As well, creatures entirely within the cloud have total concealment. A moderate wind (11+ mph) disperses the cloud in 5 rounds; a strong wind (21+ mph) disperses it in 2 rounds.",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) As darkvision  ( s e e  p a g e  2 1 6  o f  t h e Player ’s Handbook) , except that all target creatures receive the spell ’s bene ﬁ ts. Unlike with darkvision , recipients of this spell cannot have the ability made permanent with a permanency spell.",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes A cloudy gray sphere of whirl- ing air and howling wind ﬂ ies to attack your enemies and hurl them to the sky. As a move action, you can make the sphere travel up to 30 feet per round and strike the crea- ture or object you indicate as a ranged touch attack. An y  c r e a t u r e  s t ru c k  b y  t h e  sphere takes 3d6 points of damage from the force of its winds. In addition, Medium or smaller creatures must succeed on a Fortitude save or be knocked prone. Creatures that fall prone must then succeed on a second Fortitude save or be swept up by the sphere and driven 1d8 ×10 feet into the air, dropping 1d6 squares from their origi-nal position in a random direction and taking falling damage as normal. If some obstacle prevents the target creature from reaching its expelled height, it takes 1d6 points of damage f o r e v e ry 1 0 f ee t o f m o v e m e n t i t w as unable to complete, so that a creature hurled 50 feet up in a room with a 20-foot ceiling would take 3d6 points of damage from the impact, then take 2d6 points of damage when it falls back to the ground. The sphere can affect a maximum of one creature or object per round, and winks out if it exceeds the spell ’s range.",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 round/level By taking a standard action to con- centrate, you can see the true form of creatures within 60 feet. Each round, you can examine one creature you can see to determine whether it is poly-m o r p h e d ,  d i s g u i s e d ,  o r  t r a n s m u t e d ,  and what its true form is. If you look at a shapechanger in its true form, you immediately sense its shapechanging ability, but you can ’t determine what other forms it might be capable of assuming. For the purpose of this spell, a shapechanger is any creature with the shapechanger type or a supernatural or extraordinary ability that allows it to assume an alternate form. A wizard who knows alter self  is not a shapechanger (since a spell is not a supernatural or extraordinary ability), but a barghest is (since it has the supernatural abil- ity to assume alternate forms, even though its type is outsider).",
+        "name":  "Duration",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "YouDefenestrating sphereIllus. by M. Phillippi 620_17925_Chpt4.indd   103 620_17925_Chpt4.indd   103 9/15/04   3:04:45 PM 9/15/04   3:04:45 PM104 CHAPTER 4 SPELLS  AND",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes With a shout, you strike the ground at your feet and create a bolt of seismic force that causes earth, rock, and sand to ﬂ y into the air, striking creatures along its path. Any creatures caught in the spell ’s area take 1d6 points of damage per caster level (maximum 10d6). This spell functions only if you are standing on dirt, clay, sand, or stone (including stone ﬂ oors), not on wooden ﬂ oors or other surfaces. EARTHEN GRASP Transmutation [Earth]",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes You bring forth from the ground an arm made of dense, compacted earth or soil that can grapple your foes. You can cause the arm to rise out of only earth, mud, grass, or sand, and the spell fails if you attempt to cast it in an area with the wrong materials (including stone). Treated the arm as a Medium crea-ture, with a base attack bonus equal to your caster level and a Strength score of 14 +2 per three caster levels (16  at 3rd level, 18 at 6th level, and so on). The  arm doesn ’t  move from the square it appears in, but can make one grapple attempt per round against any creature in its square or any adjacent square, provoking attacks of opportunity as normal. If the arm can target multiple creatures, the caster chooses one. If the caster is unable to choose a target, the arm attacks a random creature within reach (possibly including the caster ’s allies). Each round that it successfully pins a target, the hand deals 1d6 points of lethal damage (plus its Strength  modi ﬁ er). The earthen arm has AC 15, hardness 4, and 3 hit points per caster level. If reduced to 0 or fewer hit points, it crumbles to dust.",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action EarthboltIllus. by S. Belledin 620_17925_Chpt4.indd   104 620_17925_Chpt4.indd   104 9/15/04   3:04:51 PM 9/15/04   3:04:51 PM105CHAPTER 4 SPELLS  AND",
+        "name":  "Casting Time",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Water pushes out in a ﬁ erce wave, knocking creatures within the area prone unless they make successful Reﬂ ex saves. Creatures get a +4 bonus on their saving throws for each size category they are larger than Medium, or a –4 penalty for each size category smaller than Medium. Exceptionally stable creatures, such as dwarves or creatures with four legs, get an addi-tional +4 bonus. The spell does not noticeably affect the structure or form of the target object. ELEMENTAL WARD",
+        "name":  "Water",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes This spell allows you to drive off elementals of a speci ﬁ c type by utter- ing a fearsome cry. When you cast the spell, any elemental within the spell ’s area must leave the area unless it makes a successful Will save. If you try to force the barrier against an elemental that has failed its saving throw, the spell fails.",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Energy immunity  overlaps protec- tion from energy  and resist energy . So long as energy immunity  is in effect, the other spells absorb no damage. ENHANCE FAMILIAR Universal",
+        "name":  "Note",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 min./level This spell functions like alter self, except that you can take the form of any ﬁ endish creature, demon, or devil that can be summoned by a summon monster I, II, III, or IV spell, regardless of size. You can assume only one form with each use of the spell, but you gain all that form ’s extraordinary, spell-like, and supernatural abilities, and your type changes to outsider. Spells and effects that harm or ward evil outsiders affect you, and any effect that would n o r m a l l y  b a n i s h  a n  o u t s i d e r  t o  i t s home plane instead ends the spell and leaves you staggered for 1 round per caster level. Material Component: A bone from any ﬁ endish creature, half- ﬁ endish creature, demon, or devil. FIERY EYES Evocation [Fire]",
+        "name":  "Duration",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "10 minutes (D) As aiming at the target  ( s e e  p a g e  9 6 ) , except that you no longer need to main- tain conscious concentration on the spell you cast before casting this one. Your unconscious mind maintains the required concentration, allowing you to take other actions (including move-ment, attacks, and even casting more spells) as normal. Short of dying, only mind-affecting spells and conditions (such as feeblemind  and confusion ) can affect your concentration on the other spell, though you might be convinced to willingly dismiss ﬁ nding the center (and the previous spell with it) under the effect of a charm  or suggestion . FIRE BREATH Evocation [Fire]",
+        "name":  "Duration",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action 620_17925_Chpt4.indd   106 620_17925_Chpt4.indd   106 9/15/04   3:04:58 PM 9/15/04   3:04:58 PM107CHAPTER 4 SPELLS  AND",
+        "name":  "Casting Time",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Fireburst  causes a powerful ex- plosion of ﬂ ame to burst from you, damaging anyone with- in 5 feet of you. All creatures and objects within that area, except for you and any crea-tures or objects that share y o u r  s p a c e ,  t a k e  1 d 8  p o i n t s  of ﬁ re damage per caster level (maximum 5d8).",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Burst of ﬁ re extending 10 ft. from you This spell functions like fireburst , except that it affects creatures within 10 feet of you and deals a maximum of 15d8 points of damage to each one. FIST OF STONE Transmutation [Earth]Fist of stone 620_17925_Chpt4.indd   107 620_17925_Chpt4.indd   107 9/15/04   3:05:00 PM 9/15/04   3:05:00 PM108 CHAPTER 4 SPELLS  AND",
+        "name":  "Effect",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes When you cast this spell, you literally strip the ﬂ esh from a corporeal crea- ture ’s body, in ﬂ icting incredible pain and psychological trauma. Each round, the target takes 2d6 points of damage, 1d6 points of Charisma damage, and 1d6 points of Constitution damage. A successful Fortitude save negates the ability damage, reduces the hit point damage by half, and ends the spell. In each round when the target creature is affected, it gets a new save. Flensing has no effect on creatures in gaseous form.",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) As ﬂ y ( s e e  p a g e  2 3 2  o f  t h e  Player ’s Handbook ), except this spell confers the power of ﬂ ight upon all targeted creatures. Each recipient of the spell must remain within 30 feet of at least one other recipient, or the spell ends for the creature that is separated from the others. If only two individuals are affected, the spell ends for both if the distance between them exceeds 30 feet. FORCE WHIP Evocation [Sonic, Mind-Affecting]Level:  Bard 2, wu jen 2",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes You create a ghostly green radiance a n yw h e r e  wi t h i n  r a n g e  t h a t  s h i n e s  with the brightness of a torch and is imbued with unearthly power, causing creatures within 30 feet to become shaken unless they succeed on a Will save. The light can be shaped to any Medium or smaller form, and can move at a speed of 30 feet as long as you maintain concentration on the spell (so that you can shape the effect into a human form and make it seem to walk or ﬂ y, for example). The shape of a ghost light can be changed at any time during the spell ’s duration as a free action. Material Component:  A bit of phos- phorus. GIANT SIZE",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes You create a rain of stones that deals 1d4 points of damage per caster level ( m a x i m u m  5 d 4 )  t o  c r e a t u r e s  a n d objects within the area. Material Component:  A piece of jade worth 5 gp. HEART OF STONE",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes With a sweep of your hand, invisible bolts of force slam into your targets, instantly slaying each target by driving its heart from its body unless it suc-ceeds on a Fortitude save. Heart ripper affects a number of creatures with Hit D i c e  t o t a l i n g  y o u r  c a s t e r  l e v e l ,  n o n e  of which can have more than 4 HD. Creatures with the fewest Hit Dice are affected ﬁ rst, with creatures of equal Hit Dice affected according to which is closest to the spell ’s point of origin. Extra Hit Dice not suf ﬁ cient to affect remaining creatures are wasted. Creatures that don ’t depend on their hearts for survival (such as undead and constructs) and creatures with no anatomy (such as oozes) are unaffected by the spell. ICE BLAST Evocation [Cold]Level:  Wu jen 2 (water)",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes W h e n  y o u  c a s t  t h i s  s p e l l ,  y o u  s p i t forth a cloud of icy crystals that extends outward in a cone. Creatures in the area are covered with a thin layer of ice that deals 1d6 points of damage per two caster levels (maxi-mum 10d6). In addition, creatures are affected by a temporary frostbite c o n d i t i o n ,  m a k i n g  t h e m  f a t i g u e d for 1 minute. A successful Fortitude save negates both the damage and the frostbite effect. Material Component:  A mouthful of water.Giant Size Caster     Nat. AC/Atk Space/Level Size Str Dex Con AC Mod Reach1st–15th Huge (20 ft.) +16 –2 +4 +3 –2 15 ft./15 ft.16th–18th Gargantuan (40 ft.) +24 –2 +8 +7 –4 20 ft./20 ft.19th or higher Colossal (72 ft.) +32 –2 +12 +12 –8 30 ft./30 ft.Illus. by W. O’Connor 620_17925_Chpt4.indd   110 620_17925_Chpt4.indd   110 9/15/04   3:05:07 PM 9/15/04   3:05:07 PMGiant size 620_17925_Chpt4.indd   111 620_17925_Chpt4.indd   111 9/15/04   3:05:13 PM 9/15/04   3:05:13 PM112 CHAPTER 4 SPELLS  AND INVOCATIONSICE KNIFE Conjuration (Creation) [Cold]",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes You create an illusory pit, and each creature entering or within the area is forced to make a Will save or believe the ﬂ oor on which it stands has become a bottomless chasm. On a successful save, creatures suffer a mild case of vertigo and are stunned for 1 round, but those that fail their saves fall prone and are unable to take any action except clawing desperately at the ﬂ oor in the hopes of stopping their apparent fall. An attack on an affected creature frees it from the effect of the illusion but leaves it stunned for 1 round. Likewise, when the spell ends, creatures that believed they were falling are stunned for 1 round. Flying creatures passing over an illusory pit  that succeed on a Will save are unaffected by the spell, but those that fail are stunned for 1 round. IMBUE FAMILIAR WITH SPELL ABILITY Universal",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes This spell creates a deadly raging heat in the internal organs of the targets, causing them to burst into ﬂ ame from within. Targets that fail a Fortitude save die instantly. Those who save success- fully take 6d6 points of ﬁ re damage +1 point per caster level (maximum +20) instead. Focus:  An iron brazier ﬁ lled with red-hot charcoal. IRON SCARF",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No 620_17925_Chpt4.indd   112 620_17925_Chpt4.indd   112 9/15/04   3:05:17 PM 9/15/04   3:05:17 PM113CHAPTER 4 SPELLS  AND INVOCATIONSW h e n  y o u  ca s t  this  sp e ll ,  y o u  ﬂ ick a silk scarf at one creature within range, m a g i c a l l y  p r o p e l l i n g  i t  t o w a r d  t h e target. The scarf assumes an ironlike hardness on the way. You must have line of sight to the target and hit with a normal ranged attack with the scarf. If you hit, the target takes 1d8 points of damage +1 point per caster level (maximum +5). Focus:  The silk scarf. KISS OF THE TOAD Necromancy",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Your touch becomes toxic, poisoning a creature you hit with a successful melee touch attack. The poison deals 1d6 points of Constitution damage immediately and another 1d6 points of Constitution damage 1 minute later. Each instance of damage can be negated with a successful Fortitude save. Focus:  A  t a t t o o  o f  a  t o a d  o n  y o u r skin. LEOMUND’S HIDDEN LODGE Conjuration (Creation)",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No As Leomund ’s secure shelter  (see page 247 of the Player ’s Handbook ), except that the hidden lodge is perfectly camou ﬂ aged to blend in with whatever terrain or surroundings are appropriate. It might appear as a house-sized boulder in a rocky or mountainous area, as a sand dune in the desert, as a densely tangled thicket, a grassy knoll, or even a mighty tree. The hidden lodge also obscures all telltale signs of habitation, including any smoke, light, or sound coming from within. At any distance of more than 30 feet, the lodge is indistinguishable from natural terrain. Any creature approach- ing within 30 feet is entitled to a DC 30 Survival check to spot the hidden lodge as an arti ﬁ cial dwelling and not a natural part of the landscape.",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The focus of an alarm spell (silver wire and a tiny bell), if this bene ﬁ t is to be included in the hidden lodge (see the Leomund ’s secure shelter description for more information). LIGHTNING BLADE Evocation [Electricity]Level:  Wu jen 2",
+        "name":  "Focus",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No An orb of acid about 3 inches across s h o o t s  f r o m  y o u r  p a l m  a t  i t s  t a r g e t ,  dealing 1d6 points of acid damage per caster level (maximum 15d6). You must succeed on a ranged touch attack to hit your target. A creature struck by the orb takes damage and becomes sickened by the acid ’s noxious fumes for 1 round. A successful Fortitude save negates the sickened effect but does not reduce the damage. ORB OF ACID, LESSER Conjuration (Creation) [Acid]Level: Sorcerer/wizard 1, warmage 1",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No An orb of acid about 2 inches across s h o o t s  f r o m  y o u r  p a l m  a t  i t s  t a r g e t , dealing 1d8 points of acid damage. You must succeed on a ranged touch attack to hit your target. For every two caster levels beyond 1st, your orb deals an additional 1d8 points of damage: 2d8 at 3rd level, 3d8 at 5th level, 4d8 at 7th level, and the maximum of 5d8 at 9th level or higher. ORB OF COLD Conjuration (Creation) [Cold]Level: Sorcerer/wizard 4, warmage 4",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Close (25 ft. + 5 ft./2  levels)Minute Form Caster     AC/Atk Space/Level Size Str Dex Con Mod Reach15th–16th Tiny (18 in.) –8 +4 –2 +2 2-1/2 ft./0 ft. 17th–18th Diminutive (9 in.) –10 +6 –2 +4 1 ft./0 ft. 19th or higher Fine (3 in.) –10 +8 –2 +8 1/2 ft./0 ft.Illus. by G. Kubic 620_17925_Chpt4.indd   115 620_17925_Chpt4.indd   115 9/15/04   3:05:28 PM 9/15/04   3:05:28 PM116 CHAPTER 4 SPELLS  AND",
+        "name":  "Range",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No This spell functions like orb of acid, e x c e p t  t h a t  i t  d e a l s  c o l d  d a m a g e .  I n  addition, a creature struck by an orb of cold must make a Fortitude save or be blinded for 1 round instead of being sickened. ORB OF COLD, LESSER Conjuration (Creation) [Cold]Level: Sorcerer/wizard 1, warmage 1",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One orb of cold This spell functions like lesser orb of acid, except that it deals cold damage. ORB OF ELECTRICITY Conjuration (Creation) [Electricity]",
+        "name":  "Effect",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One orb of electricity This spell functions like lesser orb of acid, except that it deals electricity damage.ORB OF FIRE Conjuration (Creation) [Fire]Level: Sorcerer/wizard 4, warmage 4",
+        "name":  "Effect",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No This spell functions like orb of acid, e x c e p t  t h a t  i t  d e a l s  ﬁ re damage. In addition, a creature struck by an orb of ﬁ re must make a Fortitude save or be dazed for 1 round instead of being sickened. ORB OF FIRE, LESSER Conjuration (Creation) [Fire]Level: Sorcerer/wizard 1, warmage 1",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One orb of ﬁ re This spell functions like lesser orb of acid, except it deals ﬁ re damage. ORB OF FORCE Conjuration (Creation) [Force]",
+        "name":  "Effect",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No You create a globe of force 3 inches across, which streaks from your palm toward your target. You must succeed on a ranged touch attack to hit the target. The orb deals a total of 1d6 p o i n t s  o f  d a m a g e  p e r  c a s t e r  l e v e l (maximum 10d6). ORB OF SOUND Conjuration (Creation) [Sonic]",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Fortitude partialSpell Resistance: No This spell functions like orb of acid, except that it deals 1d4 points of sonic damage per level (maximum 15d4). In addition, a creature struck by an orb of sound  must make a Fortitude save or be deafened for 1 round instead of being sickened. ORB OF SOUND, LESSER Conjuration (Creation) [Sonic]Level: Sorcerer/wizard 1, warmage 1",
+        "name":  "Saving Throw",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One orb of sonic energy This spell functions like lesser orb of acid, except it deals 1d6 points of sonic damage, plus an additional 1d6 points of damage per two caster levels beyond 1st: 2d6 at 3rd level, 3d6 at 5th level, 4d6 at 7th level, and the maximum of 5d6 at 9th level or higher. OTILUKE’S DISPELLING SCREEN Abjuration",
+        "name":  "Effect",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels)Poison needlesIllus. by R. Spencer 620_17925_Chpt4.indd   116 620_17925_Chpt4.indd   116 9/15/04   3:05:34 PM 9/15/04   3:05:34 PM117CHAPTER 4 SPELLS  AND",
+        "name":  "Range",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A sheet of ﬁ ne lead crystal. OTILUKE’S GREATER DISPELLING SCREEN Abjuration",
+        "name":  "Material Component",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sorcerer/wizard 7 As Otiluke ’s dispelling screen , except that the maximum caster level bonus on the dispel check is +20. PAIN Necromancy",
+        "name":  "Level",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes The target creatures are struck by wrack- ing pains and agony, giving them a –4 penalty on attack rolls, skill checks, and ability checks. A successful Fortitude save lessens this penalty to –2.",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Y o u  c r e a t e  p h a n t a s m a l  i m a g e s  o f nightmare creatures in the target ’s mind, visible only as shadowy shapes to you and unseen by all others. If the target succeeds on an initial Will save, it recognizes that the images are not real, and the spell fails. If not, the phantasms strike the target, dealing 4 points of Wisdom damage and 4 points of Dexterity damage (2 points each on a successful Fortitude save). If the subject of a phantasmal assailant  succeeds in disbelieving and is wearing a helm of telepathy , the spell can be turned back upon you with the same effect. POISON NEEDLES Transmutation",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes A needle ﬂ icked from your ﬁ ngers multiplies into a hail of needles that drip poison, strik- ing a single target. If you hit with a normal ranged at- tack, the target takes 1d4 points of damage per caster level (maximum 5d4) and expe-riences an effect of your choice from the following.• The target takes 1d8 points of Constitution damage immedi-ately and another 1d8 points of Constitution damage 1 minute later. Each instance of damage can be negated with a separate Fortitude save. • The target is paralyzed for 2d6 min- utes. A successful Fortitude save negates the effect. • The target takes 1d10 points of Dexterity damage immediately and another 1d10 points of Dex-terity damage 1 minute later. Each instance of damage can be negated with a separate Fortitude save.Material Component:  A long metal needle. 620_17925_Chpt4.indd   117 620_17925_Chpt4.indd   117 9/15/04   3:05:40 PM 9/15/04   3:05:40 PM118 CHAPTER 4 SPELLS  AND INVOCATIONSPRISMATIC RAY Evocation",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes A single beam of brilliantly colored light shoots from your outstretched hand. On a successful ranged touch attack, creatures with 6 Hit Dice or fewer are blinded for 2d4 rounds by the prismatic ray  in addition to suffering a ran d o ml y  d e t e rmin e d  e ff e ct  ( s e e  th e  accompanying table). Prismatic Ray Color of  1d6 Beam Effect1 Red 20 points fire   damage (Reflex half)2 Orange 40 points acid   damage (Reflex half)3 Yellow 80 points electricity   damage (Reflex half)4 Green Poison (Kills;   Fortitude partial,   take 1d6 Con   damage instead)5 Blue Turned to stone   (Fortitude negates)6 Indigo Insane, as insanity spell (Will negates) PROGRAMMED AMNESIA Enchantment (Compulsion) [Mind- affecting]",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes You can selectively destroy, alter, or implant memories in the target crea-ture as you see ﬁ t. Casting the spell gives you access to all of the subject ’s thoughts and memories, allowing you to implement as many of the following speci ﬁ c effects as you like.",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can create false memories in the subject ’s mind as you see ﬁ t. Memories of being friends with a hated enemy, events that didn ’t really take place, or betrayals by people the subject regards as friends could all be implanted. Negative Levels:  You can bestow a number of negative levels equal to 1/2 the subject ’s character level or less. This effect represents erasure of class knowledge and training. These nega-tive levels never become permanent level loss, but they cannot be removed by spells such as restoration,  remaining in effect as long as the subject is under the effect of this spell.",
+        "name":  "Memory Implant",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) The recipient of this spell gains a resistance bonus of +1 per three caster levels (maximum +5) on any Will save against charm or compulsion spells or effects. Material Component:  Hair or some other small part of the body of a c r e a t u r e  w i t h  a n  i n n a t e  c h a r m  o r dominate ability (such as a succubus or a vampire). RAIN OF NEEDLES",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes A needle ﬂ icked from your ﬁ ngers multiplies into a hail of needles, rain-ing down on all the targets you select. Y o u  m a k e  a  n o r m a l  r a n g e d  a t t a c k 620_17925_Chpt4.indd   118 620_17925_Chpt4.indd   118 9/15/04   3:05:44 PM 9/15/04   3:05:44 PM119CHAPTER 4 SPELLS  AND INVOCATIONSagainst each target separately, and the needles deal 1d4 points of damage per caster level (maximum 5d4) divided up among the targets. Thus, a 4th-level wu jen can target a single creature with 4d4 points of damage, or two creatures with 2d4 points of damage each, and so forth. Material Component:  A long metal needle. REANIMATION Conjuration (Healing)Level:  Wu jen 7",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One spellcaster, creature, or object; or a 20-ft.-radius burst",
+        "name":  "Target or Area",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No When laying your hand upon a con- struct that has at least 1 hit point remaining, you transmute its structure to repair the damage it has taken. The spell repairs 1d8 points of damage +1 point per caster level (maximum +5). REPAIR MINOR DAMAGE Transmutation",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) As resist energy , except that it affects all targeted creatures. 620_17925_Chpt4.indd   120 620_17925_Chpt4.indd   120 9/15/04   3:05:47 PM 9/15/04   3:05:47 PM121CHAPTER 4 SPELLS  AND INVOCATIONSRESONATING BOLT Evocation [Sonic]",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes You unleash a tremendous bolt of s o n i c  e n e r g y  f r o m  y o u r  o p e n  h a n d , dealing 1d4 points of sonic damage per caster level (maximum 10d4) to each creature within its area. In addition, a resonating bolt deals full damage to objects and can easily shatter or break interposing barriers. If the bolt destroys a bar-rier, it can continue beyond it if its range permits; otherwise, it stops. RING OF BLADES Conjuration (Creation)",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 min./level This spell conjures a horizontal ring of swirling m etal blades around y ou. The ring extends 5 feet from you, into all squares adjacent to your space, and it moves with you as you move. Each round on your turn, starting when you cast the spell, the blades deal 1d6 points of damage +1 point per caster level (maximum +10) to all creatures in the affected area. The blades conjured by a lawful- aligned cleric are cold iron, those conjured by a chaotic-aligned cleric are silver, and those conjured by a cleric who is neither lawful nor chaotic are steel.",
+        "name":  "Duration",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) Using nonverbal means, you can com- municate a simple message to one other intelligent creature within range. By simply waving a hand, placing a scroll on a table, raising an eyebrow, or making any other sign, the spell allows the target to understand any complete thought of twenty- ﬁ ve words or less, so long as you and the target could normally communi- cate. You can ’t send a verbal message if you don ’t speak the target ’s language, but can transmit a simple emotional appeal (such as “help ” or “danger ”) that the recipient knows is from you. You can use this spell even if you are bound and gagged, so long as the focus is on your person. Focus:  A small glass cone. SERVANT HORDE Conjuration (Creation)",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "NoRing of bladesIllus. by M. Phillippi 620_17925_Chpt4.indd   121 620_17925_Chpt4.indd   121 9/15/04   3:06:24 PM 9/15/04   3:06:24 PM122 CHAPTER 4 SPELLS  AND INVOCATIONSThis spell creates a number of unseen servants  (see page 297 of the Player’s Handbook ), up to a maximum of 2d6  +1 servant per level (maximum +15).",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes You cause a multitude of ribbonlike shadows to instantaneously explode outward from the target point. Crea- tures in the area that fail a Will save are dazed for 1 round and are subsequently entangled. Breaking free of the shadow binding requires a DC 20 Strength check or Escape Artist check, taken as a full-round action. Material Component:  A few links of iron chain. SIGN OF SEALING",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "NoYou create a misty ladder up to 10 feet long per caster level, shaped from the smoke given off by a ﬁ re as you cast the spell. A smoke ladder weighs virtually nothing and can be easily handled at any length. Always steady and rigid, the ladder needs no support or object to lean against, but can simply be placed in the desired position and climbed. By casting the spell again on an exist- ing smoke ladder  before it dissipates, you can reset its duration.",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes When you cast this spell, your snake tattoos (the spell ’s focus) transform into real poisonous snakes that ﬂ y from you to the target or targets you select, striking like darts. The snakes always hit, dealing 3d6 points of damage each. The poison each snake carries deals 1d6 points of Constitution damage immediately and another 1d6 points of Constitution damage 1 minute later. E a c h  i n s t a n c e  o f  a b i l i t y  d a m a g e  c a n  be negated by a successful Fortitude save. After striking the targets, the living snakes ﬂ y back to you and must be swallowed before you can cast the spell again. Swallowing the snakes is a  s t a n d a r d  a c t i o n  t h a t  c a u s e s  y o u  n o  harm and does not provoke attacks of opportunity. Once they are swallowed, the tattoos reappear immediately on your arms. Focus:  Two snake tattoos on your skin, usually one coiled around each forearm. 620_17925_Chpt4.indd   122 620_17925_Chpt4.indd   122 9/15/04   3:06:28 PM 9/15/04   3:06:28 PM123CHAPTER 4 SPELLS  AND INVOCATIONSSPHERE OF ULTIMATE DESTRUCTION Conjuration (Creation)",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes This spell functions as lesser planar binding  ( s e e  p a g e  2 6 2  o f  t h e  Player ’s Handbook ), except that it allows you to call and trap a single spirit creature of up to 8 Hit Dice. When you use a calling spell to call an air , chaotic, earth, evil, ﬁ re, good, lawful, or water creature, it becomes a spell of that type. SPIRIT BINDING, GREATER Conjuration (Calling) [see text for lesser spirit binding ]",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes You expel a powerful breath of super- heated steam that extends outward as a cone of scalding mist. Creatures within the cone take 1d6 points of ﬁ re damage per caster level (maximum 10d6). The steam clouds dissipate instantly after the damage is dealt.",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No You conjure a tremendously power- ful creature known as an elemental monolith (see page 156). It appears at the spot you designate and acts imme- diately on your turn, attacking your opponents to the best of its ability. If you speak the elemental monolith ’s language and are close enough to com- municate with it, you can direct it not to attack, to attack particular enemies, or to perform other actions. The monolith can ’t be summoned into an environment hostile to it in any way (for example, you couldn ’t summon a ﬁ re monolith underwater or an earth monolith high in mid-air). When you use a summoning spell to summon an air, earth, ﬁ re, or water creature, it becomes a spell of that type. Arcane Material Component:  A gem worth 100 gp —aquamarine for air, tourmaline for earth, garnet for ﬁ re, or pearl for water. SUMMONING WIND",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No This powerful glamer functions like invisibility,  except that it masks image, scent, and sound alike, concealing the subject from all senses except touch and taste. As with greater invisibility, this spell doesn ’t end if the subject attacks. While invisible, the subject exudes no scent and radiates a silence that absorbs all sound and vibration in a 5-foot radius, pre- venting detection by tremorsense and similar abilities, as well as preventing speech and the casting of spells with somatic components (though the sub-ject remains able to detect scents and can hear as normal). Superior invisibility renders the recipient immune to detection by see invisibility, faerie ﬁ re, glitterdust, invis- ibility purge, dust of appearance, and the b l i n d s e n s e  a b i l i t y ,  t h o u g h  c r e a t u r e s  under the effect of the spell can be detected by true seeing  or the blindsight ability. Certain mundane conditions (such as leaving footprints) can also render a subject detectable. SWIM Transmutation [Water]",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) This spell gives the recipient a swim speed like any aquatic creature (though not the ability to breathe water or hold one’s breath beyond normal l i m i t s ) .  S o  l o n g  a s  t h e creature isn ’t carrying more than a light load, it can swim at its normal speed with- out making Swim checks. It also gains a +8 competence bonus on any Swim checks to perform special actions or Stony graspIllus. by J. Miracola 620_17925_Chpt4.indd   125 620_17925_Chpt4.indd   125 9/15/04   3:06:34 PM 9/15/04   3:06:34 PM126 CHAPTER 4 SPELLS  AND INVOCATIONSavoid hazards, though it still takes the normal penalty for weight carried (–1 per 5 pounds). The recipient can c h o o s e  t o  t a k e  1 0  o n  s w i m  c h e c k s ,  even if rushed or threatened, and can use the run action while swimming if it swims in a straight line. If the creature is carrying more than a light load, it must make Swim checks to move (taking the normal penalty for weight carried), but all other bene ﬁ ts and bonuses of the spell still apply.",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Wu jen 5 (earth) As terra cotta warrior , but the spell ani- mates a statuette of a foo lion (a celestial dire lion) into a Huge animated object (Huge construct, 90 hp, AC 13, hard-n e s s  6 ,  s p e e d  3 0  f t . ,  a t t a c k  s l a m  + 9 , damage 2d6+7). As with terra cotta war- rior, the lion has none of the animated object attack forms given in the Monster Manual .",
+        "name":  "Level",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No This spell turns an innocuous statu- ette of decoration and devotion into a full-sized warrior, ready to ﬁ ght your foes. The statuette becomes a Medium animated object (Medium construct, 35 hp, AC 14, hardness 6, speed 40 ft., attack slam +2, damage 1d6+1) that attacks a speci ﬁ ed target on your turn as directed by you. You can change the designated target as a move action (as if directing an active spell). The statuette can be reused if the terra cotta warrior remains intact at the end of the spell, but if the warrior is reduced to 0 or fewer hit points, it crumbles to powder and the statuette is lost. See page 13 of the Monster Manual for full information on animated objects, but the terra cotta warrior has none of the given attack forms.",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A terra cotta statue of a warrior, up to 6 inches tall and costing 1 gp. 620_17925_Chpt4.indd   126 620_17925_Chpt4.indd   126 9/15/04   3:06:45 PM 9/15/04   3:06:45 PM127CHAPTER 4 SPELLS  AND INVOCATIONSTHORNSKIN Transmutation",
+        "name":  "Focus",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes This spell causes any Medium or smaller humanoids within the area of the spell to become paralyzed. When casting the spell, you must specify a condition that will end it ( “Wait here until the dragon arrives ”), even if that condition can never feasibly be met ( “Stay here until the sun shines at night ”). Subjects in the area that fail their saves immediately become aware of the con- dition, but they cannot communicate it due to their paralyzed state (although someone could use a spell such as detect thoughts  to ascertain the condition). For every hour the creatures are trans ﬁ xed before the condition is met, they are allowed another saving throw to break free of the spell ’s effect. So long as the spell operates, any Me-dium or smaller humanoid that enters its area must make a successful saving throw or become trans ﬁ xed with the same exit conditions (they too become aware of the exit condi- tions on becoming trans ﬁ xed). Likewise, any creatures removed from the area are freed from the spell ’s  effects.",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "YesWhen you cast this spell, you nega- tively in ﬂ uence the randomness of fortune for the target. Whenever the affected creature undertakes an action involving random chance (speci ﬁ cally, whenever any die roll is made for the creature, including attack rolls, damage rolls, and saving throws), two separate rolls are made and the worse result applied. A creature carrying a stone of good luck is immune to the effect of unluck , but the stone ’s effects do not function for the duration of the spell if the creature fails its save.",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Reﬂ ex negates and Re ﬂ ex half; see textSpell Resistance: NoYou conjure a sizzling emerald sphere that drenches all within the area with a potent acid. Affected creatures take 1d4 points of acid damage per caster level (maximum 15d4) and must succeed on a Re ﬂ ex save or risk taking damage in the following 2 rounds (6d4 points of damage in the second round and 3d4 points of damage in the third round). Both rounds of continuing damage are subject to Re ﬂ ex saves for half damage; if an affected creature succeeds on its second Re ﬂ ex save, it takes no acid damage in the third round.",
+        "name":  "Saving Throw",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, M Wall of bonesIllus. by D. Crabapple 620_17925_Chpt4.indd   128 620_17925_Chpt4.indd   128 9/15/04   3:06:56 PM 9/15/04   3:06:56 PM129CHAPTER 4 SPELLS  AND",
+        "name":  "Components",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes You create a barrier of ominous shadow t h a t  o b s c u r e s  v i s i o n  a n d  d e t e r s  p a s - sage. Creatures in squares adjacent to the wall have concealment against attacks from the other side, while creatures more than 1 square away have total concealment. Although the wall is not substantial, a creature with 6 or fewer Hit Dice must succeed on a Will save or be halted at its edge, ending its move action (though a crea- tures can move away from the wall or attempt to move through again if it has a second move action available). A creature can attempt to pass the w a l l  a n y  n u m b e r  o f  t i m e s ,  b u t  e a c h previous failure imposes a cumulative –1 penalty on its Will save. Wall of gloom  counters or dispels any light  spell of equal or lower level.",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No This spell transforms a volume of water into an equal volume of colorless, taste- less, ingested poison with a save DC equal to the spell ’s DC. When ingested, the poison deals 1 point of Constitu- tion damage followed by 1d8 points of Constitution damage 1 minute later. A s u c c e s s ful  W ill  s a v e  can  n e g a t e  e a c h  instance of damage. A single swallow (1 ounce) of poison is enough to affect a single creature; drinking more does not increase the effect.",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Your successful melee touch attack deals 1 point of Strength damage and 1 point of Constitution damage per two cast e r l e v e ls t o th e tar g e t ( m axim um of 15 points each). If you score a criti-cal hit, the subject takes ability drain instead. WOOD ROT",
+        "name":  "Spell Resistance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Speak word of the Dark Speech and shatter objects as the shatter  spell. Beguiling Inﬂ  uence:  Gain bonus on Bluff, Diplomacy, and Intimidate checks.",
+        "name":  "Baleful Utterance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Create a fog cloud  as the spell. Dark One ’s Own Luck:  Gain a luck bonus on one type of save.",
+        "name":  "Breat h of the Night",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Use earthen grasp  as the spell.",
+        "name":  "Earthen Grasp",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Gain see invisibility  as the spell and dark- vision.",
+        "name":  "See the Unseen",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Gain spider climb  as the spell.",
+        "name":  "Spiderwalk",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Use summon swarm  as the spell. LESSER INVOCATIONS",
+        "name":  "Summon Swarm",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Curse one creature as the bestow curse spell, or hinder its attacks.",
+        "name":  "Curse of Despair",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Create undead as the animate dead  spell.",
+        "name":  "The Dead Walk",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Use short-range dimen- sion door  as the spell, and leave behind a major image.",
+        "name":  "Flee the Scene",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Use stony grasp  as the spell.Voidsense:  Gain blindsense 30 feet.",
+        "name":  "Stony Grasp",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Use invisibility  (self only) as the spell.",
+        "name":  "Walk Unseen",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Use wall of gloom  as the spell. GREATER INVOCATIONS",
+        "name":  "Wall of Gloom",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Use Evard ’s black tentacles  as the spell, and deal extra cold damage to creatures in the area.",
+        "name":  "Chilling Tentacles",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Blast ignores spell resistance and deals acid damage for several rounds.",
+        "name":  "Vitriolic Blast",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Create a wall of ﬁ re as the spell, but half the damage from the wall results from super-natural power. Warlock ’s Call:  Use sending  as the spell, but risk damage from recipient. DARK INVOCATIONS",
+        "name":  "Wall of Perilous Flame",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Use foresight  as the spell, and communi- cate telepathically with a close target of the effect.",
+        "name":  "Dark Foresight",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Use shadow walk  as the spell and speed up natural healing.",
+        "name":  "Path of Shadow",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Use greater invisibility  as the spell (self only); deals damage in a burst if dispelled.",
+        "name":  "Re tributive Invisibility",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The skull of a small animal (a bird, mouse, or rat, for example) is enchanted with a single spell. When crushed in one ’s hand or underfoot, the skull talisman releases its stored effect.",
+        "name":  "Skull Talismans",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A complex series of gestures and sounds is completed with a specially prepared gemstone in hand, and the spell stored within it is released when the ﬁ nal words are spoken. Like the parchment on which a scroll is scribed, a gemstone is emptied by cast- ing but can be reused again.",
+        "name":  "Gemstone",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A staff of this type is short and made of brass. Though most date from an earlier era and have only a handful of charges remaining, a rare few are of more recent vintage. It allows the use of the following spells:• Dimensional anchor  (1 charge) • Otiluke ’s resilient sphere  (1 charge) Moderate abjuration; CL 8th; Craft Staff, dimensional anchor, Otiluke ’s resilient sphere;  Price 36,750 gp.",
+        "name":  "Entrapment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This staff is either made of ebony and topped with a skull carved from ivory, or crafted from the thighbone of a giant and topped with a smooth-polished real skull. It allows the use of the following spells: • Animate dead  (1 charge) • Cure light wounds (1 charge) • Inﬂ ict light wounds  (1 charge) • Mass in ﬂ ict light wounds (2 charges) Moderate necromancy; CL 9th; Craft Staff, animate dead, cure light wounds, in ﬂ ict light wounds, mass in ﬂ ict light wounds; Price 39,200 gp.",
+        "name":  "Skulls",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Originally created by a wizard known as Whisper, this staff is mostly hollow (fashioned simply of wire in the shape of a staff), with a mottled brown uncut gemstone at each end. It allows the use of the following spells: • Blink  (1 charge) • Dimension door (1 charge) • Teleport  (2 charges) Moderate transmutation; CL 9th; Craft Staff, blink, dimen- sion door, teleport;  Price 67,500 gp.",
+        "name":  "Transportation",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A wise and powerful bard named Falataer reportedly created the ﬁ rst of these instru- m e n t s ,  u s i n g  t h e m  t o  t e s t  a n d  r e w a r d  t h e  s t u d e n t s  o f  t h e  s e v e n  l e v e l s  o f  h i s  b a r d i c  c o ll e g e .  O t h e r s  h a v e  s i n c e  c o p i e d  the designs, honoring Falataer by keeping the names he gave them. Each instrument has its own set of unique powers that can be activated automatically by anyone with suf ﬁ cient ranks in the appropriate Perform skill, but for a character without the requisite skill, some instruments bestow one negative level as long as the instrument is carried. This negative level never results in actual level loss, but it cannot be overcome in any way (including restoration  spells) while the instrument is held.",
+        "name":  "Instruments of the Bards",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A ﬂ ask of thick green glass, a thought bottle  can be used to store thoughts, memories, experience, or spells. A single bottle can hold ﬁ ve thoughts or memories at a time, or a single creature ’s current experience, or a single spellcaster ’s collection of prepared spells. Any individual that touches the bottle and speaks the command word instantly gains a general knowledge of the bottle ’s contents, but doesn ’t actually access the thoughts, memories, or spells within until she consciously decides to do so. Storing or retrieving anything from a thought bottle requires a full-round action that provokes attacks of opportunity.",
+        "name":  "Thought Bottle",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "An ef ﬁ gy loses all supernatural special attacks, spell-like abilities, and extraordinary special attacks for which a target ’s saving throw is based on the ef ﬁ gy’s Constitution (since the creature no longer has a Con score). It retains any extraordinary special attacks that do not allow a saving throw (such as rake, rend, or constrict) or any for which the target ’s saving throw is based on the creature ’s Strength (such as trample) or Dexterity (such as a howler ’s quills).",
+        "name":  "Special Attacks",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Darkvision 60 ft., elemental traits, immu- nity to acid, spell disruption, tremorsense 30 ft.",
+        "name":  "Special Qualities",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell object or none",
+        "name":  "Treasure",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Blur,  darkvision 60 ft., elemental traits, immunity to ﬁ re, spell disruption, vulnerable to cold",
+        "name":  "Sp ecial Qualities",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell object or none",
+        "name":  "Tr easure",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Darkvision 60 ft., elemental traits, invis- ible, immunity to electricity, spell disruption",
+        "name":  "Special Qualities",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell object or none",
+        "name":  "Treasure",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Darkvision 60 ft., elemental traits, immunity to cold, spell disruption",
+        "name":  "Special Qualities",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell object or none",
+        "name":  "Treasure",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— This foul creature resembles a loose, frigid mass of tainted water encased in a dripping membrane. Streams and pseudopods of liquid ﬂ ail away from its shapeless body, while dark malignant eyespots drift across its surface. Ildriss VardiggIllus. by D. Crabapple 620_17925_Chpt6.indd   155 620_17925_Chpt6.indd   155 9/15/04   11:23:50 AM 9/15/04   11:23:50 AMCHAPTER 6 ARCANE MONSTERS 156Vardiggs (or water grues) are brutish and cruel creatures created from the corruption of elemental water, and they systematically seek out and attack any other being that enters a body of water they have claimed as their own. Vardiggs are about 4 feet in diameter and weigh about 400 pounds. When they bother to, they can speak Aquan in thick, burbling voices. To determine the type of spell-object inside a vardigg, roll d%: 01 –70, resist energy; 71–100, sleet storm. COMBAT Vardiggs usually hide below the surface of a body of water, waiting to attack any who approach. Water Jet (Sp): As a standard action, a water grue can create a tremendously powerful 30-foot line of water. Any creature in the area of the line takes 2d6 points of damage (Reﬂ ex DC 11 negates). A creature failing the saving throw must succeed on a Strength check or a Balance check (DC 5 + damage dealt) or be knocked prone by the force of the blast. This is the equivalent of a 2nd-level spell. Skills: A water grue has a +8 racial bonus on any Swim checks to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered, and can use the run action while swimming, provided it swims in a straight line. ELEMENTAL MONOLITH Like their lesser kin, elemental monoliths are living incarna- tions of the elemental forces that compose the multiverse. They are so powerful that only the mightiest of summoning spells can draw them to the Material Plane and compel their service, and even then the caster dare not take his attention from the monolith ’s control for even a moment. Monoliths are great rulers and princes among their kind, obeyed by even the elder elementals. Only the primal elementals are more powerful. COMBAT Each type of monolith has its own varied combat tactics and abilities, but all share the same elemental qualities. AIR MONOLITH Gargantuan Elemental (Air, Extraplanar)Hit Dice: 36d8+216 (378 hp)",
+        "name":  "Level Adjustment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— This towering creature seems to be a shapeless cloud ringed by powerful currents of air. Distortions in the vapor and wind seem to suggest two eyes and a ragged mouth. Lords of the Elemental Plane of Air, air monoliths seldom leave their home plane unless summoned. They speak Auran, and though they are much less taciturn than other elementals, they still choose their words with care. The voice of an air monolith sounds like the roaring of a tremendous windstorm. Combat Air monoliths ﬁ ght much like other air elementals, but are far stronger. Air Mastery (Ex): Airborne creatures take a –2 penalty on attack rolls and damage rolls against an air monolith. Whirlwind (Su):  An air monolith can transform itself into a whirlwind at will as a standard action and remain in that form inde ﬁ nitely. In this form, the monolith can move through the air or along a surface at its ﬂ y speed. The whirlwind is 10 feet wide at the base, up to 50 feet wide at the top, and up to 80 feet tall. The monolith controls the exact height, but it must be at least 20 feet. The air monolith ’s movement while in whirlwind form does not provoke attacks of opportunity, even if the monolith enters the space another creature occupies. Another creature might be caught in the whirlwind if it touches or enters the whirlwind, or if the monolith moves into or through the creature ’s space. Huge or smaller creatures take damage when caught in a whirlwind and may be lifted into the air. An affected creature must succeed on a DC 39 Re ﬂ e x  s a v e  w h e n  i t  c o m e s  i n t o contact with the whirlwind or take 4d6 points of damage. It must also succeed on a second DC 39 Re ﬂ ex save or be picked up bodily and held suspended in the powerful winds, auto- matically taking the indicated damage each round. A creature that can ﬂ y is allowed a Re ﬂ ex save each round to escape the whirlwind. The creature still takes damage but can leave if the save is successful. The save DC is Strength-based. A creature trapped in a whirlwind cannot move except to go where the air monolith carries it or to escape the whirlwind. 620_17925_Chpt6.indd   156 620_17925_Chpt6.indd   156 9/15/04   11:23:56 AM 9/15/04   11:23:56 AMCHAPTER 6 ARCANE MONSTERS 157It can otherwise act normally, but must succeed on a Concen- tration check (DC 20 + spell level) to cast a spell. Creatures caught in a whirlwind take a –4 penalty to Dexterity and a –2 penalty on attack rolls. A monolith can have only as many creatures trapped inside a whirlwind at one time as will ﬁ t inside the whirlwind ’s volume. An air monolith can eject any carried creatures whenever it wishes, depositing them wherever the whirlwind happens to be. A summoned monolith always ejects trapped creatures before returning to its home plane. If the whirlwind ’s base touches the ground, it creates a swirling cloud of debris. This cloud is centered on the air monolith and has a diameter equal to half the monolith ’s height. The cloud obscures all vision, including darkvision, beyond 5 feet. Creatures 5 feet away have concealment, while those farther away have total concealment. Those caught in the cloud must succeed on a Concentration check (DC 15 + spell level) to cast a spell. An  a ir  m o n o li th  in  w h ir l win d  f o rm  c an n o t  m ak e  s l am  attacks and does not threaten the area around it. EARTH MONOLITH Gargantuan Elemental (Earth, Extraplanar)Hit Dice: 36d8+255 (417 hp)",
+        "name":  "Level Adjustment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— A great, moving heap of earth and rock the size of a small tower lumbers forward on crude, stumplike legs. Two clublike arms studded with jagged stone hang from its shoulders, and its head is a blunt, featureless mass of earth. Masters of the Elemental Plane of Earth, earth monoliths do not normally leave their home plane unless summoned. They are composed of whatever dirt, soil, stone, or rock from which they were conjured, and they speak Terran with voices like the grinding of stone on stone. As leaders of their kind, they are less sullen and silent than other elementals, but have little interest in communicating with creatures other than their own elemental kind. Combat Earth monoliths are nearly unstoppable, using their great strength to crush and destroy their foes. Like other earth ele- mentals, earth monoliths travel through solid ground or rock as easily as humanoids walk on the earth ’s surface. Air monolith Earth monolithIllus. by W. O’Connor 620_17925_Chpt6.indd   157 620_17925_Chpt6.indd   157 9/15/04   11:23:58 AM 9/15/04   11:23:58 AMCHAPTER 6 ARCANE MONSTERS 158They cannot swim, though, and must either walk around a body of water or travel through the ground beneath it. Earth Mastery (Ex): An earth monolith gains a +2 bonus on attack rolls and damage rolls if both it and its foe are touch- ing the ground. If an opponent is airborne or waterborne, the monolith takes a –4 penalty on attack rolls and damage rolls. Push (Ex): An earth monolith can start a bull rush without provoking attacks of opportunity. The combat modi ﬁ ers given in Earth Mastery also apply to the monolith ’s opposed Strength checks. Earth Glide (Ex): An earth monolith can glide through stone, dirt, or almost any other s o r t  o f  e a r t h  e x c e p t  m e t a l  a s  e a s i l y  a s  a  ﬁ sh swims through water. Its burrowing l e a v e s  b e h i n d  n o  t u n n e l  o r  h o l e ,  n o r  does it create any ripple or other signs of its presence. A move earth  spell cast on an area containing a burrowing earth monolith ﬂ ings the creature back 30 feet, stunning it for 1 round unless it succeeds on a DC 15 Fortitude save. FIRE MONOLITH Gargantuan Elemental (Extraplanar, Fire)",
+        "name":  "Level Adjustment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Alternate form, darkvision 60 ft., low- light vision, resistance to acid and electricity 5, scent, spell resistance 13",
+        "name":  "Special Qualities",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bite +5 melee (1d8+3 plus paralysis) and 2 claws +3 melee (1d4+1 plus paralysis) Space/Reach: 5 ft./5 ft. 620_17925_Chpt6.indd   161 620_17925_Chpt6.indd   161 9/15/04   11:24:17 AM 9/15/04   11:24:17 AMCHAPTER 6 ARCANE MONSTERS 162Special Attacks:  Ghoul fever, paralysis, stench, spell-like abilities",
+        "name":  "Full Attack",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A spellstitched creature retains all the special attacks of the base creature and gains the following special attack.Spell-Like Abilities: A spellstitched creature can be imbued with spell-like abilities ac- cording to its Wisdom, as indicated on the ta- ble below. Any spells selected must be from the conjuration, evo- cation, or necromancy school. The number of spell-like abilities is cumulative; for example, a spell-stitched undead with a Wisdom of 12 can cast two 2nd-level spells four times per day and two 1st-level spells four times per day. Caster level equals the creature ’s Hit Dice. Example Spells Times per Wisdom Undead Imbued Day10 Skeleton, zombie Two 1st-level 411–12 Bodak Two 2nd-level 4 13–14 Ghoul, ghast Two 3rd-level 2 15–16 Devourer Two 4th-level 2 17–18 Some liches Two 5th-level 2 19 or higher Nightshade One 6th-level 1 The creator of a spellstitched creature decides how to allocate the spells known against the number of times per day spells of each level can be cast, and once made, this determination cannot be changed. For example, if a spellstitched skeleton has cause fear  usable once per day and shocking grasp usable three times per day imbued as its 1st-level spell-like abili-ties, its creator cannot later change either the spells or how frequently each can be used (to two times per day each, for example).",
+        "name":  "Special Attacks",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spellstitched creatures get a +2 profane bonus on all saving throws.",
+        "name":  "Saves",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You begin play with knowledge of six 1st-level spells plus 1 per point of Intelligence modifier. Each time you gain a wizard level, you may add four spells to your spellbook without additional research. In addition, you gain a +2 bonus on all Knowledge (arcana) checks.",
+        "name":  "Benefit",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1st-level wizards begin play with knowledge of three 1st- level spells, and can add two spells per level to their spellbooks.",
+        "name":  "Normal",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can take this feat only as a 1st-level character.Precocious Apprentice [General] Your master has shown you the basics of a spell beyond the normal limits of your experience and training.",
+        "name":  "Special",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spellcasting ability (Int or Cha) 15, arcane caster level 1st.",
+        "name":  "Prerequisites",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  " The Epic Mage of the Arcane Order An epic mage of the Arcane Order displays a great thirst for arcane knowledge. His associations with his guild and the Spellpool grow to new heights. Hit Die:  d4.",
+        "name":  "Sample Prestige Class Epic Progression",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Quicken Spell, Spellcraft 30 ranks, ability to cast 9th-level arcane or divine spells. Bene ﬁ t: You can cast all 0-level and 1st-level spells as quickened spells without using higher-level spell slots. The normal limit to the number of quickened spells you can cast per round applies. Spells with a casting time of more than 1 full round can ’t be quickened.",
+        "name":  "Prerequisites",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Silent Spell, Spellcraft 24 ranks, ability to cast 9th-level arcane or divine spells. Bene ﬁ t: You can cast all 0-, 1st-, 2nd-, and 3rd-level spells as silent spells without using higher-level spell slots.",
+        "name":  "Prerequisites",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Still Spell, Spellcraft 27 ranks, ability to cast 9th-level arcane or divine spells. Bene ﬁ t: You can cast all 0-, 1st-, 2nd-, and 3rd-level spells as stilled spells without using  higher-level spell slots.",
+        "name":  "Prerequisites",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This site is trapped with a discern lies spell (renewed regularly by Melver; see area 10) that revealsfalsehoods spoken by anyone standing on the stones.False responses to questions produce coruscating colorsin the paving stones that are visible to both those on theoctagon and the guards in the towers.aa",
+        "name":  "Trap",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Should the alarm sound, the high warmaster and the Warmasters’ Council take up posi-tions atop the wall within 5 rounds and bring theirranged attack spells to bear on the intruders. Thestudents gather on the ground inside the compound,ready to attack should the inner doors open without theall-clear signal from their superiors. 3. TOWERS Each of these round towers stands 30 feet high and hasa crenellated top. Each tower top has a stockpile of material components, javelins, and other supplies like those along the wall’swalkway. Access to the tower is via a door inside thecomplex and a spiral staircase. Each of three storiesinside the tower consists of a single round chamberequipped with beds, tables and comfortable chairs foroff-duty guards, plus extra material components andsupplies for the guards on the wall. At any time, eightregular guards (male or female human fighter 1) aresleeping or relaxing inside each tower, and one watchcaptain is inspecting one of the three towers. Students (6): hp 3; see The Order of the Fire Hawk. Guards (24): hp 5; see The Order of the Fire Hawk. Watch Captain (Senior Student): hp 17; see The Order of the Fire Hawk.",
+        "name":  "Development",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Melver, the priest of Heironeous, can be found in this room during the day. He leads all thereligious services for the complex and also provides healing for students and faculty injured during spellpractice and wargames. The priest also offers wiseadvice to Sereda from time to time on matters bothmilitary and mundane.",
+        "name":  "Creatures",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Male halfling expert 5; hp 17. 16. High Warmaster’s Study (EL 0 or 15) The high warmaster uses this chamber to plan thecurriculum for the school. The desk contains a typical assortment of pens, paper, and bottles of ink. The papers atop the desk are sketchesof battle plans that Sereda has made for the next set ofwargames. Also in the desk is a copy of the latestinstructor reports on the students. Three, includingBendrik, seem to be progressing more slowly than theothers, and in fact seem unable to reliably cast all thespells that they should. The books on the shelves covera wide range of military subjects, from history to battle-field tactics.",
+        "name":  "Carlis",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A swift action consumes a very small amount of time—even if it\u0027s not your turn. time but represents a larger expenditure of effort and energy than Using an immediate action on your turn is the same as using a free action. You can perform one swift action per turn without af­ a swift action and counts as your swift action for that turn. If you fecting your ability to perform other actions. In that regard, a swift use an immediate action when it is not your turn, you cannot action is like a free action. However, you can perform only a single perform another immediate action or swift action until after your swift action per turn, regardless of what other actions you take. next turn. (Effectively, using an immediate action before your turn Casting a quickened spell is a swift action, as is casting any spell is equivalent to using your swift action for the coming turn. ) You with a casting time of! swift action (such as iconic manifestation; also cannot use an immediate action if you are flat-footed. divine character in the DUNGEONS \u0026 DRAGONS game The rest of this chapter presents the cleric domains given is unique in one special respect: He has ties to an in the Flayer\u0027s Handbook, also presented here as affiliations. organization from the very beginning. Whether or Each domain can serve as an affiliation in its own right, not he chooses to acknowledge those ties is your or it can be used to form the affiliations for deities in your decision as a player. But even if he does not formally own campaign. embrace the relationship, a church can still affect a divine character\u0027s beliefs and attitudes* THE D\u0026D CHURCHES This chapter details the non-evil churches of the D\u0026D pan­ theon as affiliations, using the affiliation rules introduced in The church descriptions that follow use a simplified version Chapter 7 of the Player\u0027s Handbook II supplement. If you\u0027ve ever of the affiliation format first presented in Flayer\u0027s Handbook wondered what the church would demand of a divine charac­ II. All share the following common elements. ter in a given situation, you should find this material useful. Symbol: The symbol of each church is its deity\u0027s The descriptions also present a few unique bits of doctrine holy symbol, as pictured in Chapter 6 of the Flayer\u0027s relevant to each church, as well as affiliation advancement Handbook. Typically, a church displays its holy symbol and benefit tables. Feel free to use the information presented prominently, but its representatives might choose to in these descriptions to flesh out your character. keep it concealed while traveling through an area hostile to their deity.",
+        "name":  "Swift Action",
+        "source":  "complete_champion.txt",
+        "_id":  "76d922b77dffbab29d28593625766df419e1035e9de98a271e102c3432a9564c"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Members of the Anvil of Cre­ undead. Such creatures are abominations in the sight of Ehlonna ation loathe orcs, goblinoids, giants, and any other creatures and are tracked down and destroyed without hesitation. that regularly threaten the dwarves. A member\u0027s thoughts Scale: 13 (multiregional). center on how best to protect the dwarves and their way of Affiliation Score Criteria: Only good-aligned beings life, and the church keeps careful tabs on the status of its can advance within the church\u0027s ranks. In addition, you must enemies. Since a good defense often involves striking when spend a minimum of 7 days each month in a natural setting enemies are most vulnerable, the church hires small groups (often a forest). or attacks with a larger force when the enemy is weakened. If a goblin tribe has had a bad winter in the mountains, Criterion Affiliation Score Modifier for example, a dwarf army musters under guidance from One-Time the temples of Moradin to wipe them out once and for all. Character level +1/2 levels Until then, the church is willing to bide its time. Missions Knowledge (nature) 5 or more ranks +1 to develop a new resource for a city (dwarf or otherwise) are Handle Animal 5 or more ranks +1 Can cast summon nature\u0027s ally spells +1 likewise favored by the church. Can cast 3rd-level or higher divine spells +1",
+        "name":  "Favored Adventure Types",
+        "source":  "complete_champion.txt",
+        "_id":  "76d922b77dffbab29d28593625766df419e1035e9de98a271e102c3432a9564c"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Benefits and Duties 0 3 or lower None. THE BLESSED BOUNTY 1 4-9 Grove Initiate: Gain a+2 bonus on OF YONDALLA Knowledge (nature) checks relating to plants or animals. Like all halflings, you believe in the virtues represented by 2 10-17 Forest Guardian: Once per day, use Yondalla, deity of the home. As the Nurturing Matriarch, she endure elements as a spell-like ability (caster level equals your character is primarily associated with peace, prosperity, and harmony. level). To the world outside the halfling caravans, her church appears 3 18-24 Knight of Nature: Once per day, grant much the same—and that\u0027s exactly what the halflings would an animal companion, an animal like all others to think. summoned with a summon nature\u0027s In truth, the Church of Yondalla is split, just as the deity ally spell, or a dominated animal a herself is split. The church that welcomes strangers to the number of temporary hit points equal halfling fires is that of Yondalla, the Blessed One, which is the to your character level for 1 minute. only side that nonhalflings ever see. But the church devoted 4 25-29 Slayer of the Despoilers: Gain a +1 to Yondalla\u0027s other personality, the dark Dallah Thaun (CN, bonus on attack rolls against evil Chaos, Knowledge, Luck, Trickery), has a following just as undead enemies. large (see Races of the Wild 52 for a detailed description of 5 30 or higher Heart of the Huntress: Gain a+4 bonus on Survival checks made to Dallah Thaun). track an enemy, and smite a creature The Church of Yondalla has clergy devoted to both aspects (see paladin\u0027s smite evil class of the deity. The clerics of the Nurturing Matriarch tend to feature, PH 44) you have successfully be peaceful and focus on the well-being of the traditional tracked once per day. halfling communities. The clerics of Dallah Thaun\u0027s church are much more active in the world, seeking out both potential Specific Roleplaying Applications threats to the halflings and ways to enrich and empower the",
+        "name":  "Rank Score Title",
+        "source":  "complete_champion.txt",
+        "_id":  "76d922b77dffbab29d28593625766df419e1035e9de98a271e102c3432a9564c"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Followers of Yondalla prefer feats that en­ Affiliation Score Criteria: To gain affiliation benefits, a hance either their ability to protect and serve, or their own member of the Brotherhood of Equals must have at least one defenses (the better to preserve themselves to protect others). neutral alignment component. Augment Healing™, Great Fortitude, Iron Will, and Lightning Reflexes are favored choices. Followers of Dallah Thaun also Criterion Affiliation Score Modifier appreciate feats that can save their lives, but they favor those One-Time that improve their ability to deceive or distract others, such Character level +1/2 eve Is Knowledge (nature) 5-9 ranks +1 as Negotiator and Persuasive. In addition, they often learn Knowledge (nature) 10 or more ranks +2 feats that help them avoid capture or strike quickly, such as Can cast spells that have the air, earth, fire, or Acrobatic, Agile, Improved Feint, and Stealthy. water descriptor +1",
+        "name":  "Favored Feats",
+        "source":  "complete_champion.txt",
+        "_id":  "76d922b77dffbab29d28593625766df419e1035e9de98a271e102c3432a9564c"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "11 (multiregional). spell ready to cast, provided you",
+        "name":  "Scale",
+        "source":  "complete_champion.txt",
+        "_id":  "76d922b77dffbab29d28593625766df419e1035e9de98a271e102c3432a9564c"
+    }
+]

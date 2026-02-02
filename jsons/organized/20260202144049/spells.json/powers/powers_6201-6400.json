@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "spells.json",
+        "description":  "Calls extraplanar creature to fight for you. 7TH-LEVEL CLERIC SPELLS True Resurrection M: As resurrection, plus remains aren’t needed.",
+        "name":  "Summon Monster IX",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35). Air Domain Spells",
+        "name":  "Regenerate",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Kills, confuses, stuns, or deafens nonchaotic 8 Whirlwind: Cyclone deals damage and can pick up creatures. subjects. 9 Elemental Swarm*: Summons multiple elementals. *Cast as an air spell only. 185 SPELLS CHAPTER 11: ANIMAL DOMAIN DESTRUCTION DOMAIN",
+        "name":  "Word of Chaos",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can use speak with animals once per day as a Granted Power: You gain the smite power, the supernatural spell-like ability. ability to make a single melee attack with a +4 bonus on attack rolls Add Knowledge (nature) to your list of cleric class skills. and a bonus on damage rolls equal to your cleric level (if you hit). You must declare the smite before making the attack. This ability is Animal Domain Spells usable once per day. 1 Calm Animals: Calms (2d4 + level) HD of animals. 2 Hold Animal: Paralyzes one animal for 1 round/level. Destruction Domain Spells 3 Dominate Animal: Subject animal obeys silent mental 1 Inflict Light Wounds: Touch attack, 1d8 damage +1/level (max commands. +5). 4 Summon Nature’s Ally IV*: Calls creature to fight. 2 Shatter: Sonic vibration damages objects or crystalline creatures. 5 Commune with Nature: Learn about terrain for 1 mile/level. 3 Contagion: Infects subject with chosen disease. 6 Antilife Shell: 10-ft. field hedges out living creatures. 4 Inflict Critical Wounds: Touch attack, 4d8 damage +1/level 7 Animal Shapes: One ally/level polymorphs into chosen animal. (max +20). 8 Summon Nature’s Ally VIII*: Calls creature to fight. 5 Inflict Light Wounds, Mass: Deals 1d8 damage +1/level to any 9 Shapechange F: Transforms you into any creature, and change creatures. forms once per round. 6 Harm: Deals 10 points/level damage to target. *Can only summon animals. 7 Disintegrate: Makes one creature or object vanish. 8 Earthquake: Intense tremor shakes 5-ft./level radius. CHAOS DOMAIN 9 Implosion: Kills one creature/round.",
+        "name":  "Granted Powers",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You cast chaos spells at +1 caster level. Deities: Moradin, Obad-Hai.",
+        "name":  "Granted Power",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You cast law spells at +1 caster level. GOOD DOMAIN",
+        "name":  "Granted Power",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Corellon Larethian, Ehlonna, Garl Glittergold, Heiro- Law Domain Spells neous, Kord, Moradin, Pelor, Yondalla. 1 Protection from Chaos: +2 to AC and saves, counter mind",
+        "name":  "Deities",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Your speed increases by 10 ft. War Domain Spells",
+        "name":  "Longstrider",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Stops poison from harming subject for 1 hour/level. 1 Obscuring Mist: Fog surrounds you. Fire Trap M: Opened object deals 1d4 +1/level damage. 2 Fog Cloud: Fog obscures vision. Flame Blade: Touch attack deals 1d8 +1/two levels damage. 3 Water Breathing: Subjects can breathe underwater. Flaming Sphere: Creates rolling ball of fire, 2d6 damage, lasts 1 4 Control Water: Raises or lowers bodies of water. round/level. 5 Ice Storm: Hail deals 5d6 damage in cylinder 40 ft. across. Fog Cloud: Fog obscures vision. 6 Cone of Cold: 1d6/level cold damage. Gust of Wind: Blows away or knocks down smaller creatures. 7 Acid Fog: Fog deals acid damage. Heat Metal: Make metal so hot it damages those who touch it. 8 Horrid Wilting: Deals 1d6/level damage within 30 ft. Hold Animal: Paralyzes one animal for 1 round/level. 9 Elemental Swarm*: Summons multiple elementals. Owl’s Wisdom: Subject gains +4 to Wis for 1 min./level. *Cast as a water spell only. Reduce Animal: Shrinks one willing animal. 189 SPELLS CHAPTER 11:",
+        "name":  "Water Domain Spells Delay Poison",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ignores 10 (or more) points of damage/attack from 5TH-LEVEL DRUID SPELLS specified energy type.",
+        "name":  "Resist Energy",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Grants immunity to all death spells and negative",
+        "name":  "Death Ward",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Designates location as holy. 3RD-LEVEL DRUID SPELLS",
+        "name":  "Hallow M",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Immunizes subject against poison, detoxifies venom in or on subject. 6TH-LEVEL DRUID SPELLS",
+        "name":  "Neutralize Poison",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Stores one spell in wooden quarterstaff. 4TH-LEVEL DRUID SPELLS",
+        "name":  "Spellstaff",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Raises or lowers bodies of water. 7TH-LEVEL DRUID SPELLS",
+        "name":  "Control Water",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You and your allies turn vaporous and travel fast. 190 :11 RETPAHC SLLEPS 8TH-LEVEL DRUID SPELLS 3RD-LEVEL PALADIN SPELLS",
+        "name":  "Wind Walk",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Object or location affected by spell repels certain creatures. 4TH-LEVEL PALADIN SPELLS",
+        "name":  "Antipathy",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Subject’s severed limbs grow back, cures 4d8 damage Death Ward: Grants immunity to death spells and negative energy +1/level (max +35). effects.",
+        "name":  "Regenerate",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Restores level and ability score drains. PALADIN SPELLS RANGER SPELLS 1ST-LEVEL PALADIN SPELLS",
+        "name":  "Restoration M",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Allies gain +1 on attack rolls and +1 on saves against fear. 1ST-LEVEL RANGER SPELLS",
+        "name":  "Bless",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Subjects within range cannot lie. Owl’s Wisdom: Subject gains +4 to Wis for 1 min./level. 191 SPELLS CHAPTER 11:",
+        "name":  "Zone of Truth",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Absorb 12 points/level of damage from 1ST-LEVEL SORCERER/WIZARD SPELLS one kind of energy.",
+        "name":  "Protection from Energy",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One creature of 5 HD or less flees for 1d4 SORCERER/WIZARD SPELLS rounds.",
+        "name":  "Necro Cause Fear",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One touch/level deals 1d6 damage and possibly 1 Str damage. 0-LEVEL SORCERER/WIZARD SPELLS",
+        "name":  "Chill Touch",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Dazzles one creature (–1 on attack rolls). 2ND-LEVEL SORCERER/WIZARD SPELLS",
+        "name":  "Flare",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Summons swarm of bats, rats, or spiders. 3RD-LEVEL SORCERER/WIZARD SPELLS",
+        "name":  "Summon Swarm",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Grants ability to walk on walls and ceilings. 4TH-LEVEL SORCERER/WIZARD SPELLS",
+        "name":  "Spider Climb",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Stops 1st- through 3rd- level spell effects.",
+        "name":  "Globe of Invulnerability, Lesser",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Frees object or person from curse. 193 SPELLS CHAPTER 11:",
+        "name":  "Remove Curse",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Makes certain spells permanent. spells or retains one just cast.",
+        "name":  "Univ Permanency X",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Reduces several creatures. 6TH-LEVEL SORCERER/WIZARD SPELLS",
+        "name":  "Reduce Person, Mass",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Frees subjects from enchantments, plus 4th-level spell effects. alterations, curses, and petrification.",
+        "name":  "Abjur Break Enchantment",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sets trigger condition for another spell.",
+        "name":  "Contingency F",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Step into shadow to travel rapidly. Project Image: Illusory double can talk and cast spells.",
+        "name":  "Shadow Walk",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Alters reality—within spell limits.",
+        "name":  "Univ Limited Wish X",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Makes one creature or object vanish. 8TH-LEVEL SORCERER/WIZARD SPELLS Eagle’s Splendor, Mass: As eagle’s splendor, affects one subject/level. Abjur Dimensional Lock: Teleportation and interplanar travel",
+        "name":  "Disintegrate",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Restores petrified creature. 18 HD. Tenser’s Transformation M: You gain combat bonuses. Summon Monster VIII: Calls extraplanar creature to fight for you. 7TH-LEVEL SORCERER/WIZARD SPELLS Trap the Soul M F: Imprisons subject within gem.",
+        "name":  "Stone to Flesh",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Reflect 1d4+6 spell levels back at caster.",
+        "name":  "Spell Turning",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Object or location affected by spell repels Mordenkainen’s Magnificent Mansion F: Door leads to certain creatures. extradimensional mansion.",
+        "name":  "Ench Antipathy",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Traps newly dead soul to prevent resurrection. 9TH-LEVEL SORCERER/WIZARD SPELLS Wail of the Banshee: Kills one creature/level.",
+        "name":  "Soul Bind F",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As limited wish, but with fewer limits. SPELLS The spells herein are presented in alpha- Acid Splash Air Walk betical order (with the exception of those Conjuration (Creation) [Acid] Transmutation [Air] whose names begin with “greater,” “lesser,” Level: Sor/Wiz 0 Level: Air 4, Clr 4, Drd 4 or “mass”; see Order of Presentation, page Components: V, S Components: V, S, DF 181). Casting Time: 1 standard action Casting Time: 1 standard action",
+        "name":  "Univ Wish X",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, M/DF Spell Resistance: No Saving Throw: None",
+        "name":  "Components",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless)",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Enchantment (Compulsion) walker’s normal speed. [Mind-Affecting] A strong wind (21+ mph) can push the Acid fog creates a billowing mass of misty",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, DF its turn each round, the wind blows the air fog spell (page 281). In addition to slowing",
+        "name":  "Components",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Touch wind speed. The creature can, at the DM’s spell’s vapors are highly acidic. Each round",
+        "name":  "Range",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 min./level exceptionally strong or turbulent winds, spell, the fog deals 2d6 points of acid",
+        "name":  "Duration",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) physical damage from being buffeted it.",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Brd 1, Rgr 1, Sor/Wiz 1 evil, lawful, or chaotic spell, respectively. abilities of the new form. Your creature",
+        "name":  "Level",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Target: You lor, hair texture, and skin color) within the",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Animal Trance",
+        "name":  "Transmutation Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Medium (100 ft. + 10 ft./level) this spell is to get an animal to carry a Components: V, S",
+        "name":  "Range",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S skeleton or zombie can’t be animated object (such as a chair) or an equivalent Casting Time: 1 standard action again.) number of larger objects per caster level. A Range: Medium (100 ft. + 10 ft./level) Regardless of the type of undead you Medium object (such as a coat rack) counts Target: One ropelike object, length up to create with this spell, you can’t create more as two Small or smaller objects, a Large 50 ft. + 5 ft./level; see text HD of undead than twice your caster level object (such as a table) as four, a Huge Duration: 1 round/level with a single casting of animate dead. (The object as eight, a Gargantuan object as Saving Throw: None desecrate spell doubles this limit; see page sixteen, and a Colossal object as thirty-two. Spell Resistance: No 218.) You can change the designated target or The undead you create remain under You can animate a nonliving ropelike targets as a move action, as if directing an your control indefinitely. No matter how object, such as string, yarn, cord, line, rope, active spell. many times you use this spell, however, or even a cable. The maximum length The Monster Manual has game statistics you can control only 4 HD worth of assumes a rope with a 1-inch diameter. for animated objects. undead creatures per caster level. If you Reduce the maximum length by 50% for This spell cannot animate objects car- exceed this number, all the newly created every additional inch of thickness, and ried or worn by a creature. creatures fall under your control, and any increase it by 50% for each reduction of the Animate objects can be made permanent excess undead from previous castings rope’s diameter by half. with a permanency spell. become uncontrolled. (You choose which The possible commands are “coil” (form creatures are released.) If you are a cleric, a neat, coiled stack), “coil and knot,” “loop,” any undead you might command by virtue Animate Plants “loop and knot,” “tie and knot,” and the of your power to command or rebuke Transmutation opposites of all of the above (“uncoil,” and undead do not count toward the limit. Level: Drd 7, Plant 7 so forth). You can give one command each",
+        "name":  "You may animate one Small or smaller Components",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A skeleton can be created only Components: V round as a move action, as if directing an from a mostly intact corpse or skeleton. Casting Time: 1 standard action active spell.",
+        "name":  "Skeletons",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels) The rope can enwrap only a creature or skeleton from a purple worm, for example, Targets: One Large plant per three caster an object within 1 foot of it—it does not is not possible. If a skeleton is made from a levels or all plants within range; see text snake outward—so it must be thrown near corpse, the flesh falls off the bones. The Duration: 1 round/level or 1 hour/level; the intended target. Doing so requires a statistics for a skeleton depend on its size; see text successful ranged touch attack roll (range they do not depend on what abilities the Saving Throw: None increment 10 feet). A typical 1-inch- creature may have had while alive. The Spell Resistance: No diameter hempen rope has 2 hit points, AC Monster Manual has game statistics for 10, and requires a DC 23 Strength check to skeletons. You imbue inanimate plants with mobility burst it. The rope does not deal damage,",
+        "name":  "The corpse must have bones, so creating a Range",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A zombie can be created only and a semblance of life. Each animated but it can be used as a trip line or to cause a from a mostly intact corpse. The corpse plant then immediately attacks whomever single opponent that fails a Reflex saving must be that of a creature with a true or whatever you initially designate as throw to become entangled. A creature anatomy, so a dead gelatinous cube, for though it were an animated object of the capable of spellcasting that is bound by example, cannot be animated as a zombie. appropriate size category. You may ani- this spell must make a DC 15 Concen- The statistics for a zombie depend on its mate one Large or smaller plant (such as a tration check to cast a spell. An entangled size, not on what abilities the creature may tree), or an equivalent number of larger creature can slip free with a DC 20 Escape have had while alive. The Monster Manual plants, per three caster levels. A Huge Artist check. has game statistics for zombies. plant counts as two Large or smaller plants, The rope itself and any knots tied in it",
+        "name":  "Zombies",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "See text Components: V, S, M",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Drd 9, Sor/Wiz 8 Saving Throw: None effects, including spells, spell-like abilities,",
+        "name":  "Level",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, M/DF Spell Resistance: No and supernatural abilities. Likewise, it",
+        "name":  "Components",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Gold dust worth 25 is broken, you are killed, astrally and phys- you can determine whether it has any gp. ically. Luckily, very few things can destroy spellcasting or spell-like abilities, whether a silver cord (see the Dungeon Master’s Guide these are arcane or divine (spell-like Arcane Mark abilities register as arcane), and the for more information). When a second body is formed on a different plane, the Universal strength of the most powerful spell or incorporeal silvery cord remains invisibly",
+        "name":  "Material Component",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sor/Wiz 0 spell-like ability the creature currently has attached to the new body. If the second",
+        "name":  "Level",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "0 ft. example, when you use it on a spellcaster on the Material Plane, thereby reviving it",
+        "name":  "Range",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One personal rune or mark, all of who has used up most of his or her daily from its state of suspended animation. which must fit within 1 sq. ft. spell allotment. Although astral projections are able to",
+        "name":  "Effect",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "None with a permanency spell. affect only creatures existing on the Astral",
+        "name":  "Saving Throw",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Plane; a physical body must be material- Arcane Sight, Greater ized on other planes. This spell allows you to inscribe your per- Divination You and your companions may travel sonal rune or mark, which can consist of",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A jacinth worth at reveals the words, if any. The mark cannot be dispelled, but it can be removed by the Necromancy least 1,000 gp, plus a silver bar worth 5 gp caster or by an erase spell. If an arcane mark Level: Clr 9, Sor/Wiz 9, Travel 9 for each person to be affected. is placed on a living being, normal wear Components: V, S, M gradually causes the effect to fade in about Casting Time: 30 minutes Atonement a month. Range: Touch Abjuration",
+        "name":  "Astral Projection Material Component",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You plus one additional willing Level: Clr 5, Drd 5 prior to casting Drawmij’s instant summons creature touched per two caster levels Components: V, S, M, F, DF, XP on the same object (see that spell descrip- Duration: See text Casting Time: 1 hour tion for details). Saving Throw: None Range: Touch",
+        "name":  "Arcane mark must be cast on an object Targets",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Target: Living creature touched",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sor/Wiz 3 body, this spell allows you to project an Spell Resistance: Yes",
+        "name":  "Level",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S astral body onto another plane altogether. You can bring the astral forms of other This spell removes the burden of evil acts",
+        "name":  "Components",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Clr 2 atonement spell on its behalf. desires to it.",
+        "name":  "Level",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A The base chance for receiving a mean- an animal companion, familiar, or special cleric or druid who has lost the ability to ingful reply is 70% + 1% per caster level, to mount. cast spells by incurring the anger of his or a maximum of 90%; the DM makes the roll An awakened tree or animal can speak her deity may regain that ability by seek- secretly. The DM may determine that a one language that you know, plus one ing atonement from another cleric of the question is so straightforward that a suc- additional language that you know per same deity or another druid. If the trans- cessful result is automatic, or so vague as to point of Intelligence bonus (if any). gression was intentional, the casting cleric have no chance of success. If the augury",
+        "name":  "Restore Cleric or Druid Spell Powers",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You may cast (cid:1) Woe (for bad results). Transmutation (cid:1) Weal and woe (for both). Level: Drd 5, Sor/Wiz 5 this spell upon a creature of an opposing (cid:1) Nothing (for actions that don’t have Components: V, S alignment in order to offer it a chance to especially good or bad results). Casting Time: 1 standard action change its alignment to match yours. The",
+        "name":  "Redemption or Temptation",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, DF, XP his or her alignment drastically, suddenly, spell, though it uses the new form\u0027s base",
+        "name":  "Components",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "In addition to your holy symbol or Duration: Instantaneous o The target also retains the ability to normal divine focus, you need a set of Saving Throw: Will negates understand (but not to speak) the langu- prayer beads (or other prayer device, such Spell Resistance: Yes ages it understood in its original form. It as a prayer wheel or prayer book) worth at can write in the languages it understands, least 500 gp. You awaken a tree or animal to humanlike but only the form is capable of writing sentience. To succeed, you must make a in some manner (such as drawing in the 202 :11 RETPAHC SLLEPS dirt with a paw). Barkskin Casting Time: 1 standard action",
+        "name":  "Focus",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Touch Spell Resistance: Yes Enchantment (Compulsion) [Fear, Mind- Target: Living creature touched Affecting] Duration: 10 min./level You place a curse on the subject. Choose",
+        "name":  "Bane Range",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Clr 1 Saving Throw: None one of the following three effects. (cid:1) –6 decrease to an ability score (mini- Components: V, S, DF Spell Resistance: Yes (harmless) mum 1).",
+        "name":  "Level",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Touch This spell functions like Bigby’s interposing",
+        "name":  "Range",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S Components: V, S, M, F/DF 203 SPELLS CHAPTER 11: This spell functions like Bigby’s interposing Large. Its grapple bonus is this same figure, Binding hand, except that the hand can interpose except with a +4 modifier for being Large Enchantment (Compulsion) [Mind- itself, push, or crush one opponent that instead of –1. The hand holds but does not Affecting] you select. harm creatures it grapples. Directing the",
+        "name":  "Components",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sor/Wiz 8 The crushing hand can grapple an oppo- spell to a new target is a move action.",
+        "name":  "Level",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sor/Wiz 5 this casting of binding increases by 1. For Clerics who cast this spell name it for",
+        "name":  "Level",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "None spell’s target is appropriate for a binding",
+        "name":  "Saving Throw",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes spell. Since the assistants’ spells are cast Bigby’s Forceful Hand simply to improve your caster level for the Evocation [Force] Bigby’s Interposing hand creates a Large purpose of the binding spell, saving throws",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, F/DF versions of binding (those with limited Any creature weighing 2,000 pounds or durations), you may cast additional binding less that tries to push past the hand is This spell functions like Bigby’s interposing spells to prolong the effect, since the slowed to half its normal speed. The hand hand, except the hand can also grapple one durations overlap. If you do so, the target cannot reduce the speed of a creature opponent that you select. The grasping gets a saving throw at the end of the first weighing more than 2,000 pounds, but it hand gets one grapple attack per round. Its spell’s duration, even if your caster level still affects the creature’s attacks. attack bonus to make contact equals your was high enough to disallow an initial caster level + your Intelligence, Wisdom, Directing the spell to a new target is a saving throw. If the creature succeeds on or Charisma modifier (for wizards, clerics, move action. this save, all the binding spells it has and sorcerers, respectively), +10 for the Focus: A soft glove. received are broken. hand’s Strength score (31), –1 for being 204 :11 RETPAHC SLLEPS The binding spell has six versions. In addition to the specially made props Dazed: The creature can take no actions Choose one of the following versions suited to the specific type of binding (cost for 1 round, though it defends itself nor- when you cast the spell. 500 gp), the spell requires opals worth at mally.",
+        "name":  "Components",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The subject is confined by least 500 gp for each HD of the target and a Weakened: The creature’s Strength score restraints that generate an antipathy spell vellum depiction or carved statuette of the decreases by 2d6 points for 2d4 rounds. affecting all creatures who approach the subject to be captured. Paralyzed: The creature is paralyzed and subject, except you. The duration is one helpless for 1d10 minutes. year per caster level. The subject of this Blade Barrier Killed: Living creatures die. Undead creatures are destroyed. form of binding is confined to the spot it Evocation [Force] Furthermore, if you are on your home occupied when it received the spell. Level: Clr 6, Good 6, War 6 plane when you cast this spell, nonevil",
+        "name":  "Chaining",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This version causes the subject Components: V, S extraplanar creatures within the area are to become comatose for as long as one year Casting Time: 1 standard action instantly banished back to their home per caster level. The subject does not need Range: Medium (100 ft. + 10 ft./level) planes. Creatures so banished cannot re- to eat or drink while slumbering, nor does it Effect: Wall of whirling blades up to 20 ft. turn for at least 24 hours. This effect takes age. This form of binding is more difficult long/ level, or a ringed wall of whirling place regardless of whether the creatures blades with a radius of up to 5 ft. per two to cast than chaining, making it slightly hear the blasphemy. The banishment effect levels; either form 20 ft. high easier to resist. Reduce the spell’s save DC allows a Will save (at a –4 penalty) to",
+        "name":  "Slumber",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes month per caster level. Reduce the save DC by 2. An immobile, vertical curtain of whirling Bless",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The subject assumes If you evoke the barrier so that it ap- Range: 50 ft. gaseous form, except for its head or face. It pears where creatures are, each creature Area: The caster and all allies within a 50- is held harmless in a jar or other container, takes damage as if passing through the ft. burst, centered on the caster which may be transparent if you so choose. wall. Each such creature can avoid the wall Duration: 1 min./level The creature remains aware of its (ending up on the side of its choice) and Saving Throw: None surroundings and can speak, but it cannot thus take no damage by making a Spell Resistance: Yes (harmless) leave the container, attack, or use any of its successful Reflex save. Bless fills your allies with courage. Each ally powers or abilities. The binding is per- A blade barrier provides cover (+4 bonus gains a +1 morale bonus on attack rolls and manent. The subject does not need to to AC, +2 bonus on Reflex saves) against on saving throws against fear effects. breathe, eat, or drink while metamorphosed, attacks made through it. Bless counters and dispels bane. nor does it age. Reduce the save DC by 4.",
+        "name":  "Metamorphosis",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Flask of water touched You can’t dispel a binding spell with spread centered on you",
+        "name":  "Target",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (object) affects it normally. A bound extraplanar text creature cannot be sent back to its home Spell Resistance: Yes This transmutation imbues a flask (1 pint) plane due to dismissal, banishment, or a of water with positive energy, turning it similar effect. Any nonevil creature within the area of a into holy water (page 128).",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Drd 4, Sor/Wiz 5 typically do not affect the Material Plane. A see invisibility spell does not counteract",
+        "name":  "Level",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, DF While blinking, you take only half the blur effect, but a true seeing spell does.",
+        "name":  "Components",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Touch from those that extend onto the Ethereal ignore the spell’s effect (though fighting",
+        "name":  "Range",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes your target any Dexterity bonus to AC. You take only half damage from falling, since This spell withers a single plant of any size. you fall only while you are material. An affected plant creature takes 1d6 points While blinking, you can step through of damage per level (maximum 15d6) and (but not see through) solid objects. For may attempt a Fortitude saving throw for each 5 feet of solid material you walk half damage. A plant that isn’t a creature through, there is a 50% chance that you (such as a tree or shrub) doesn’t receive a become material. If this occurs, you are save and immediately withers and dies. shunted off to the nearest open space and This spell has no effect on the soil or take 1d6 points of damage per 5 feet so surrounding plant life. traveled. You can move at only three-quar- ters speed (because movement on the Blindness/Deafness Ethereal Plane is at half speed, and you Necromancy spend about half your time there and half",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Fortitude negates instance, your spells against ethereal",
+        "name":  "Saving Throw",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes creatures are 20% likely to activate just as you go material and be lost. You call upon the powers of unlife to An ethereal creature is invisible, incor- render the subject blinded or deafened, as poreal, and capable of moving in any you choose. direction, even up or down. As an incor- poreal creature, you can move through Blink solid objects, including living creatures. Transmutation An ethereal creature can see and hear the",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You force) and abjurations affect you normally. The subject of a blur spell.",
+        "name":  "Target",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Brd 4, Clr 5, Luck 5, Pal 4, Level: Drd 5 This spell functions like bull’s strength, Sor/Wiz 5 Range: Long (400 ft. + 40 ft./level) except that it affects multiple creatures.",
+        "name":  "Level",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 minute This spell functions like call lightning,",
+        "name":  "Casting Time",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Range: 15 ft. Calm Animals",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Cone-shaped burst Enchantment (Compulsion) [Mind- This spell frees victims from enchant- Duration: Instantaneous Affecting] ments, transmutations, and curses. Break Saving Throw: Reflex half Level: Animal 1, Drd 1, Rgr 1 enchantment can reverse even an instanta- Spell Resistance: Yes Components: V, S neous effect, such as flesh to stone. For each",
+        "name":  "Area",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Clr 2, Drd 2, Pal 2, Sor/Wiz 2, at whatever target point you choose within Strength 2 the spell’s range (measured from your Calm Emotions",
+        "name":  "Level",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 min./level immediately; other actions, even spell-",
+        "name":  "Duration",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) round after the first you may use a stan- Area: Creatures in a 20-ft.-radius spread dard action (concentrating on the spell) to Duration: Concentration, up to 1 The subject becomes stronger. The spell call a bolt. You may call a total number of round/level (D) grants a +4 enhancement bonus to bolts equal to your caster level (maximum Saving Throw: Will negates Strength, adding the usual benefits to 10 bolts). Spell Resistance: Yes melee attack rolls, melee damage rolls, and If you are outdoors and in a stormy other uses of the Strength modifier. area—a rain shower, clouds and wind, hot This spell calms agitated creatures. You",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Clr 6, Drd 6, Sor/Wiz 6 This spell functions indoors or under- themselves) or do anything destructive.",
+        "name":  "Level",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels) ground but not underwater. Any aggressive action against or damage 207 SPELLS CHAPTER 11: dealt to a calmed creature immediately Chain Lightning control trees. If the staff-treant is reduced breaks the spell on all calmed creatures. Evocation [Electricity] to 0 or fewer hit points, it crumbles to This spell automatically suppresses (but Level: Air 6, Sor/Wiz 6 powder and the staff is destroyed. does not dispel) any morale bonuses Components: V, S, F Otherwise, the staff returns to its normal granted by spells such as bless, good hope, Casting Time: 1 standard action form when the spell duration expires (or and rage, as well as negating a bard’s ability Range: Long (400 ft. + 40 ft./level) when the spell is dismissed), and it can be to inspire courage or a barbarian’s rage Targets: One primary target, plus one used as the focus for another casting of the ability. It also suppresses any fear effects secondary target/level (each of which spell. The staff-treant is always at full and removes the confused condition from must be within 30 ft. of the primary strength when created, despite any all targets. While the spell lasts, a sup- target) wounds it may have incurred the last time pressed spell or effect has no effect. When Duration: Instantaneous it appeared. the calm emotions spell ends, the original Saving Throw: Reflex half Focus: The quarterstaff, which must be spell or effect takes hold of the creature Spell Resistance: Yes specially prepared. The staff must be a again, provided that its duration has not sound limb cut from an ash, oak, or yew, expired in the meantime. This spell creates an electrical discharge then cured, shaped, carved, and polished (a that begins as a single stroke commencing process requiring twenty-eight days). You from your fingertips. Unlike lightning bolt, cannot adventure or engage in other Cat’s Grace chain lightning strikes one object or strenuous activity during the shaping and Transmutation creature initially, then arcs to other targets. carving of the staff.",
+        "name":  "Range",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes the primary one did (rounded down). For Area: 20-ft.-radius burst example, a 19th-level sorcerer generates a Duration: Instantaneous (1d6 rounds); see The transmuted creature becomes more primary bolt (19d6 points of damage) and text graceful, agile, and coordinated. The spell as many as nineteen secondary bolts (each Saving Throw: Will partial; see text grants a +4 enhancement bonus to Dex- of which deals half as much as the primary Spell Resistance: Yes terity, adding the usual benefits to AC, bolt dealt). Each target can attempt a Reflex saves, and other uses of the Dex- Reflex saving throw for half damage. You You unleash chaotic power to smite your terity modifier. choose secondary targets as you like, but enemies. The power takes the form of a",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A pinch of cat fur. they must all be within 30 feet of the multicolored explosion of leaping, rico- primary target, and no target can be struck cheting energy. Only lawful and neutral Cat’s Grace, Mass more than once. You can choose to affect (not chaotic) creatures are harmed by the Transmutation fewer secondary targets than the max- spell. The spell deals 1d8 points of damage per",
+        "name":  "Material Component",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One creature/level, no two of Focus: A bit of fur; a piece of amber, glass, caster level, maximum 10d6, to lawful which can be more than 30 ft. apart or a crystal rod; plus one silver pin for each outsiders) and slows them for 1d6 rounds. of your caster levels. See the slow spell for effects. This spell functions like cat’s grace, except that it affects multiple creatures. Changestaff Transmutation",
+        "name":  "Targets",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S Range: Touch The spell deals only half damage against",
+        "name":  "Components",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No again (down to one-quarter) with a suc- fewer HD cessful Will save.",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes 24 feet tall. When you plant the end of the Enchantment (Charm) [Mind-Affecting] The affected creature becomes frightened. staff in the ground and speak a special Level: Drd 1, Rgr 1 command to conclude the casting of the Target: One animal If the subject succeeds on a Will save, it is spell, your staff turns into a creature that shaken for 1 round. Creatures with 6 or looks and fights just like a treant (see the This spell functions like charm person, more Hit Dice are immune to this effect. Monster Manual). The staff-treant defends except that it affects a creature of the Cause fear counters and dispels remove you and obeys any spoken commands. animal type. See the Monster Manual for fear. However, it is by no means a true treant; it more information on creature types. cannot converse with actual treants or 208 :11 RETPAHC SLLEPS Charm Monster Chill Metal Chill Touch Enchantment (Charm) [Mind-Affecting] Transmutation [Cold] Necromancy",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (object) A touch from your hand, which glows with",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action On the first round of the spell, the metal Casting Time: 1 standard action",
+        "name":  "Casting Time",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Will negates spell’s duration. During the second (and Duration: Instantaneous",
+        "name":  "Saving Throw",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes also the next-to-last) round, icy coldness Saving Throw: Fortitude negates causes pain and damage. In the third, Spell Resistance: Yes This charm makes a humanoid creature fourth, and fifth rounds, the metal is regard you as its trusted friend and ally freezing cold, causing more damage, as A circle of death snuffs out the life force of (treat the target’s attitude as friendly; see living creatures, killing them instantly. shown on the table below. Influencing NPC Attitudes, page 72). If The spell slays 1d4 HD worth of living the creature is currently being threatened creatures per caster level (maximum 20d4). Metal or attacked by you or your allies, however, Creatures with the fewest HD are affected Round Temperature Damage it receives a +5 bonus on its saving throw. first; among creatures with equal HD, 1 Cold None The spell does not enable you to control those who are closest to the burst’s point of 2 Icy 1d4 points the charmed person as if it were an origin are affected first. No creature of 9 or 3–5 Freezing 2d4 points automaton, but it perceives your words 6 Icy 1d4 points more HD can be affected, and Hit Dice and actions in the most favorable way. You 7 Cold None that are not sufficient to affect a creature can try to give the subject orders, but you are wasted.",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The powder of a must win an opposed Charisma check to Any heat intense enough to damage the crushed black pearl with a minimum value convince it to do anything it wouldn’t creature negates cold damage from the of 500 gp. ordinarily do. (Retries are not allowed.) An spell (and vice versa) on a point-for-point affected creature never obeys suicidal or basis. For example, if the damage roll from Clairaudience/Clairvoyance obviously harmful orders, but a charmed a chill metal spell indicates 5 points of cold Divination (Scrying) fighter, for example, might believe you if damage and the subject plunges through a",
+        "name":  "Material Component",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A small horn (for hearing) unaffected by the spell. To create the duplicate, you must have a or a glass eye (for seeing). Unlike a fog cloud, the cloudkill moves piece of flesh (not hair, nails, scales, or the away from you at 10 feet per round, rolling like) with a volume of at least 1 cubic inch Cloak of Chaos along the surface of the ground. Figure out that was taken from the original creature’s the cloud’s new spread each round based Abjuration [Chaotic] living body. The piece of flesh need not be on its new point of origin, which is 10 feet",
+        "name":  "Arcane Focus",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, F example, by the gentle repose spell). Once where you cast the spell.",
+        "name":  "Components",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action the spell is cast, the duplicate must be Because the vapors are heavier than air,",
+        "name":  "Casting Time",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One creature/level in a 20-ft.- When the clone is completed, the origi- even pouring down den or sinkhole open- radius burst centered on you nal’s soul enters it immediately, if that ings; thus, the spell is ideal for slaying",
+        "name":  "Targets",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Will negates Enchantment (Compulsion) [Language- Divination Dependent, Mind-Affecting] Spell Resistance: Yes Level: Clr 5",
+        "name":  "Saving Throw",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Clr 1 Components: V, S, M, DF, XP This spell allows you some degree of con-",
+        "name":  "Level",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes attack you while the spell lasts. You can try —and ask questions that can be answered to give a subject orders, but you must win by a simple yes or no. (A cleric of no You give the subject a single command, an opposed Charisma check to convince it particular deity contacts a philosophically which it obeys to the best of its ability at its to do anything it wouldn’t ordinarily do. allied deity.) You are allowed one such earliest opportunity. You may select from (Retries are not allowed.) A commanded question per caster level. The answers the following options. plant never obeys suicidal or obviously given are correct within the limits of the",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "On its turn, the subject moves away Range: Close (25 ft. + 5 ft./2 levels) the spell ends. from you as quickly as possible for 1 round. Targets: One undead creature Material Component: Holy (or unholy)",
+        "name":  "Flee",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One day/level water and incense. turn, and it provokes attacks of oppor- Saving Throw: Will negates; see text XP Cost: 100 XP. tunity for this movement as normal. Spell Resistance: Yes",
+        "name":  "It may do nothing but move during its Duration",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The subject stands in place for 1 Commune with Nature This spell allows you some degree of con- round. It may not take any actions but is Divination trol over an undead creature. Assuming not considered helpless. Level: Animal 5, Drd 5, Rgr 4 the subject is intelligent, it perceives your If the subject can’t carry out your com- Components: V, S words and actions in the most favorable mand on its next turn, the spell automati- Casting Time: 10 minutes way (treat its attitude as friendly). It will cally fails. Range: Personal not attack you while the spell lasts. You",
+        "name":  "Halt",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 round/level but it might be convinced that something subjects: the ground or terrain, plants, very dangerous is worth doing (see charm minerals, bodies of water, people, general This spell functions like command, except person). animal population, presence of woodland that up to one creature per level may be A nonintelligent undead creature (such creatures, presence of powerful unnatural affected, and the activities continue as a skeleton or zombie) gets no saving creatures, or even the general state of the beyond 1 round. At the start of each com- throw against this spell. When you control natural setting. For example, you could manded creature’s action after the first, it a mindless being, you can communicate determine the location of any powerful gets another Will save to attempt to break only basic commands, such as “come here,” undead creatures, the location of all major free from the spell. Each creature must “go there,” “fight,” “stand still,” and so on. sources of safe drinking water, and the receive the same command. Nonintelligent undead won’t resist sui- location of any buildings (which register as cidal or obviously harmful orders. blind spots). In outdoor settings, the spell operates in Command Plants Any act by you or your apparent allies a radius of 1 mile per caster level. In Transmutation that threatens the commanded undead natural underground settings—caves,",
+        "name":  "Duration",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V spell.",
+        "name":  "Components",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action Your commands are not telepathic. The to 100 feet per caster level. The spell does",
+        "name":  "Casting Time",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Up to 2 HD/level of plant Material Component: A shred of raw meat replaced by construction or settlement, creatures, no two of which can be more and a splinter of bone. such as in dungeons and towns. than 30 ft. apart 211 SPELLS CHAPTER 11: Comprehend Languages This spell causes the targets to become giving it a –1 penalty on attack rolls, Divination confused, making them unable to inde- damage rolls, and saves. Undead cannot be",
+        "name":  "Targets",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 round The powers reply in a language you understand, but they resent such contact Cone of cold creates an area of extreme cold, This spell causes a single creature to and give only brief answers to your originating at your hand and extending become confused for 1 round. See the con- questions. (The DM answers all questions outward in a cone. It drains heat, dealing fusion spell, above, to determine the exact with “yes,” “no,” “maybe,” “never,” “irrele- 1d6 points of cold damage per caster level effect on the subject. vant,” or some other one-word answer.) (maximum 15d6). You must concentrate on maintaining the",
+        "name":  "Duration",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A very small Consecrate spell (a standard action) in order to ask crystal or glass cone. Evocation [Good] questions at the rate of one per round. A",
+        "name":  "Arcane Material Component",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "All creatures in a 15-ft. radius Spell Resistance: No of the power knowing the answer, as well burst as the probability of the entity answering",
+        "name":  "Targets",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 round/level This spell blesses an area with positive correctly, are likewise increased by moving",
+        "name":  "Duration",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes undead within this area gains a +3 sacred are reached, the power of the deity bonus. Every undead creature entering a contacted determines the effects. (Random consecrated area suffers minor disruption, results obtained from the table are subject 212 :11 RETPAHC SLLEPS Contact Other Plane called on. The companion spell occurs Avoid Int/Cha True Don’t Random based solely on the stated conditions, Plane Contacted Decrease Answer Know Lie Answer regardless of whether you want it to. Elemental Plane DC 7/1 week 01–34 35–62 63–83 84–100 You can use only one contingency spell at (appropriate) (DC 7/1 week) (01–68) (69–75) (76–98) (99–100) a time; if a second is cast, the first one (if Positive/Negative Energy Plane DC 8/1 week 01–39 40–65 66–86 87–100 still active) is dispelled. Astral Plane DC 9/1 week 01–44 45–67 68–88 89–100 Material Component: That of the com- Outer Plane, demideity DC 10/2 weeks 01–49 50–70 71–91 92–100 panion spell, plus quicksilver and an eye- Outer Plane, lesser deity DC 12/3 weeks 01–60 61–75 76–95 96–100 lash of an ogre mage, rakshasa, or similar Outer Plane, intermediate deity DC 14/4 weeks 01–73 74–81 82–98 99–100 spell-using creature. Outer Plane, greater deity DC 16/5 weeks 01–88 89–90 91–99 100 Focus: A statuette of you carved from Avoid Int/Cha Decrease: You must succeed on an Intelligence check against this DC to avoid a elephant ivory and decorated with gems decrease in Intelligence and Charisma. If the check fails, your Intelligence and Charisma scores each (worth at least 1,500 gp). You must carry fall to 8 for the stated duration, and you become unable to cast arcane spells. If you lose Intelligence the focus for the contingency to work. and Charisma, the effect strikes as soon as the first question is asked, and no answer is received. (The entries in parentheses are for questions that pertain to the appropriate Elemental Plane.) Continual Flame",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sor/Wiz 6 Spell Resistance: No be blocked by an act of certain deities or Components: V, S, M, F forces. Casting Time: At least 10 minutes; see A flame, equivalent in brightness to a text torch, springs forth from an object that",
+        "name":  "On rare occasions, this divination may Level",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S You can place another spell upon your Light spells counter and dispel darkness",
+        "name":  "Components",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action person so that it comes into effect under spells of an equal or lower level.",
+        "name":  "Casting Time",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Instantaneous carry the flame. companion spell are cast at the same time.",
+        "name":  "Duration",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes mum total for both castings; if the com- Control Plants panion spell has a casting time longer than Transmutation The subject contracts a disease selected 10 minutes, use that instead. Level: Drd 8, Plant 8 from the table below, which strikes",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, DF immediately (no incubation period). The",
+        "name":  "The spell to be brought into effect by Components",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action the contingency must be one that affects DC noted is for the subsequent saves (use Range: Close (25 ft. + 5 ft./2 levels) your person (feather fall, levitate, fly, teleport, contagion’s normal save DC for the initial Targets: Up to 2 HD/level of plant and so forth) and be of a spell level no saving throw). creatures, no two of which can be more higher than one-third your caster level than 30 ft. apart (rounded down, maximum 6th level).",
+        "name":  "Casting Time",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, M lower water). Spell Resistance: No",
+        "name":  "Components",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Will negates Casting Time: 10 minutes; see text the spell ends or until you choose to alter",
+        "name":  "Saving Throw",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Range: 2 miles your handiwork, which requires con-",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "2-mile-radius circle, centered on centration. You may create an “eye” of calm This spell enables you to command undead you; see text air up to 80 feet in diameter at the center of creatures for a short period of time. You Duration: 4d12 hours; see text the area if you so desire, and you may command them by voice and they Saving Throw: None choose to limit the area to any cylindrical understand you, no matter what language Spell Resistance: No area less than your full limit (for example, a you speak. Even if vocal communication is 20-foot-diameter tornado centered 100 feet impossible (in the area of a silence spell, for You change the weather in the local area. It away). instance), the controlled undead do not takes 10 minutes to cast the spell and an",
+        "name":  "Area",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You may choose one of attack you. At the end of the spell, the additional 10 minutes for the effects to four basic wind patterns to function over subjects revert to their normal behavior. manifest. The current, natural weather the spell’s area. Intelligent undead creatures remember conditions are determined by the DM. You (cid:1) A downdraft blows from the center that you controlled them. can call forth weather appropriate to the outward in equal strength in all direc-",
+        "name":  "Wind Direction",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No weather, such as the direction and inten- levels, you can increase or decrease wind sity of the wind. You cannot control spe- strength by one level. (The categories of Depending on the version you choose, the cific applications of the weather—where wind strength are briefly described below, control water spell raises or lowers water. lightning strikes, for example, or the exact with more detail to be found in the Dun-",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This causes water or similar path of a tornado. When you select a geon Master’s Guide.) Each round on your liquid to reduce its depth by as much as 2 certain weather condition to occur, the turn, a creature in the wind must make a feet per caster level (to a minimum depth weather assumes that condition 10 min- Fortitude save or suffer the effect of being of 1 inch). The water is lowered within a utes later (changing gradually, not in the windy area. squarish depression whose sides are up to abruptly). The weather continues as you Strong winds (21+ mph) make sailing caster level × 10 feet long. In extremely left it for the duration, or until you use a difficult. large and deep bodies of water, such as a standard action to designate a new kind of A severe wind (31+ mph) causes minor deep ocean, the spell creates a whirlpool weather (which fully manifests itself 10 ship and building damage. that sweeps ships and similar craft minutes later). Contradictory conditions A windstorm (51+ mph) drives most downward, putting them at risk and are not possible simultaneously—fog and flying creatures from the skies, uproots rendering them unable to leave by normal strong wind, for example. small trees, knocks down light wooden movement for the duration of the spell. Control weather can do away with structures, tears off roofs, and endangers When cast on water elementals and other atmospheric phenomena (naturally oc- ships. water-based creatures, this spell acts as a curring or otherwise) as well as create Hurricane force winds (75+ mph) de- slow spell (Will negates). The spell has no them. stroy wooden buildings, sometimes uproot effect on other creatures. A druid casting this spell doubles the even large trees, and cause most ships to",
+        "name":  "Lower Water",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This causes water or similar duration and affects a circle with a 3-mile founder. liquid to rise in height, just as the lower radius. A tornado (175+ mph) destroys all non- water version causes it to lower. Boats fortified buildings and often uproots large raised in this way slide down the sides of Control Winds trees. the hump that the spell creates. If the area Transmutation [Air] affected by the spell includes riverbanks, a Level: Air 5, Drd 5 Create Food and Water beach, or other land nearby, the water can Components: V, S Conjuration (Creation) spill over onto dry land. Casting Time: 1 standard action Level: Clr 3",
+        "name":  "Raise Water",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Undead, page 159). feet from any swarm, that swarm remains This spell must be cast at night. stationary, attacking any creatures in its",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Brd 3, Sor/Wiz 4 is just like clean rain water, and it doesn’t spell turns these gems into worthless",
+        "name":  "Level",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S Spell Resistance: Yes",
+        "name":  "Components",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action except that you can create more powerful Range: Close (25 ft. + 5 ft./2 levels) An invisible cone of despair causes great and intelligent sorts of undead: shadows, Effect: Up to 2 gallons of water/level sadness in the subjects. Each affected wraiths, spectres, and devourers (see the Duration: Instantaneous creature takes a –2 penalty on attack rolls,",
+        "name":  "This spell functions like create undead, Casting Time",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Conjuration spells can’t create This spell functions like cure light wounds, Create Undead substances or objects within a creature. except that it cures 4d8 points of damage Necromancy [Evil] Water weighs about 8 pounds per gallon. +1 point per caster level (maximum +20).",
+        "name":  "Note",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Instantaneous Level: Drd 7 This spell functions like mass cure light",
+        "name":  "Duration",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Casting Time: 1 round damage +1 point per caster level (max-",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels)/ 100 imum +40). A much more potent spell than animate ft.; see text dead, this evil spell allows you to create Effect: One swarm of centipedes per two Cure Light Wounds more powerful sorts of undead: ghouls, levels ghasts, mummies, and mohrgs (see the Duration: 1 min./level Conjuration (Healing)",
+        "name":  "Range",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "None Level: Brd 1, Clr 1, Drd 1, Healing 1, Pal 1, all types of undead). The type or types of Spell Resistance: No Rgr 2 undead you can create is based on your Components: V, S caster level, as shown on the table below. When you utter the spell of creeping doom, Casting Time: 1 standard action you call forth a mass of centipede swarms",
+        "name":  "Monster Manual for more information on Saving Throw",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Brd 5, Clr 5, Drd 6, Healing 5 Components: V, S, M as light or dancing lights). Higher level light Components: V, S Casting Time: 1 minute spells (such as daylight) are not affected by",
+        "name":  "Level",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One creature/level, no two of Duration: Instantaneous then placed inside or under a lightproof which can be more than 30 ft. apart Saving Throw: Will negates (object) covering, the spell’s effect is blocked until",
+        "name":  "Target",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Instantaneous Spell Resistance: Yes (object) the covering is removed.",
+        "name":  "Duration",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Will half (harmless) or Darkness counters or dispels any light Will half; see text This spell imbues a flask (1 pint) of water spell of equal or lower spell level.",
+        "name":  "Saving Throw",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) or Yes; with negative energy, turning it into",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A bit of bat see text unholy water. Unholy water damages good fur and either a drop of pitch or a piece of outsiders the way holy water damages coal. You channel positive energy to cure 1d8 undead and evil outsiders. points of damage +1 point per caster level Material Component: 5 pounds of pow- (maximum +25) in each selected creature. dered silver (worth 25 gp). Darkvision Like other cure spells, mass cure light Transmutation wounds deals damage to undead in its area Level: Rgr 3, Sor/Wiz 2 Dancing Lights rather than curing them. Each affected Components: V, S, M Evocation [Light] undead may attempt a Will save for half Casting Time: 1 standard action",
+        "name":  "Arcane Material Component",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless)",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Brd 2, Clr 2, Drd 3, Healing 2, Pal 3, terns or torches (and cast that amount of Darkvision can be made permanent with Rgr 3 light), or up to four glowing spheres of a permanency spell. light (which look like will-o’-wisps), or one",
+        "name":  "Level",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Either a pinch of This spell functions like cure light wounds, faintly glowing, vaguely humanoid shape. dried carrot or an agate. except that it cures 2d8 points of damage The dancing lights must stay within a 10- +1 point per caster level (maximum +10). foot-radius area in relation to each other Daylight but otherwise move as you desire (no Evocation [Light] Cure Moderate Wounds, Mass concentration required): forward or back, up or down, straight or turning corners, or Level: Brd 3, Clr 3, Drd 3, Pal 3, Sor/Wiz 3 Conjuration (Healing) the like. The lights can move up to 100 feet Components: V, S",
+        "name":  "Material Component",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Brd 6, Clr 6, Drd 7 per round. A light winks out if the distance Casting Time: 1 standard action between you and it exceeds the spell’s Range: Touch This spell functions like mass cure light range. Target: Object touched wounds, except that it cures 2d8 points of",
+        "name":  "Level",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "10 min./level (D) damage +1 point per caster level (maxi- with a permanency spell. Saving Throw: None mum +30). Spell Resistance: No Darkness Cure Serious Wounds The object touched sheds light as bright as Evocation [Darkness] Conjuration (Healing) full daylight in a 60-foot radius, and dim",
+        "name":  "Dancing lights can be made permanent Duration",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Object touched except that it cures 3d8 points of damage name, this spell is not the equivalent of",
+        "name":  "Target",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No are damaged or destroyed by bright light Cure Serious Wounds, Mass (such as vampires). If daylight is cast on a Conjuration (Healing) This spell causes an object to radiate small object that is then placed inside or",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Living creature touched light spell of equal or lower level,",
+        "name":  "Target",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) Delay Poison",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Brd 2, Clr 2, Drd 2, Pal 2, Rgr 1",
+        "name":  "The subject is immune to all death spells, Level",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One humanoid creature of 4 HD inflict spells or chill touch). Range: Touch or less This spell doesn’t remove negative Target: Creature touched",
+        "name":  "Target",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes sary 24 hours after gaining a negative level. (harmless)",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) humanoid creature with 4 or fewer Hit other sorts of attacks, such as hit point loss, The subject becomes temporarily immune Dice so that it takes no actions. Human- poison, or petrification, even if those to poison. Any poison in its system or any oids of 5 or more HD are not affected. A attacks might be lethal. poison to which it is exposed during the dazed subject is not stunned, so attackers spell’s duration does not affect the subject get no special advantage against it. Deathwatch until the spell’s duration has expired. Delay",
+        "name":  "This enchantment clouds the mind of a Death ward does not protect against Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One living creature of 6 HD or less Spell Resistance: No This spell functions like fireball, except that This spell functions like daze, but daze Using the foul sight granted by the powers it is more powerful and can detonate up to monster can affect any one living creature of unlife, you can determine the condition 5 rounds after the spell is cast. The burst of of any type. Creatures of 7 or more HD are of creatures near death within the spell’s flame deals 1d6 points of fire damage per not affected. range. You instantly know whether each caster level (maximum 20d6). creature within the area is dead, fragile The glowing bead created by delayed Death Knell (alive and wounded, with 3 or fewer hit blast fireball can detonate immediately if Necromancy [Death, Evil] points left), fighting off death (alive with 4 you desire, or you can choose to delay the",
+        "name":  "Target",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action Deathwatch sees through any spell or spell, and that time cannot change once it",
+        "name":  "Casting Time",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels) and moves the bead within 1 round of its You draw forth the ebbing life force of a detonation, there is a 25% chance that the creature and use it to fuel your own power. This spell functions like sleep, except that it bead detonates while being handled. Upon casting this spell, you touch a living creature that has –1 or fewer hit points. If affects 10 HD of creatures. the subject fails its saving throw, it dies, Demand and you gain 1d8 temporary hit points and Deeper Darkness Enchantment (Compulsion) [Mind- a +2 bonus to Strength. Additionally, your Evocation [Darkness] Affecting] effective caster level goes up by +1, Level: Clr 3 Level: Sor/Wiz 8 improving spell effects dependent on Duration: One day/level (D) Saving Throw: Will partial caster level. (This increase in effective Spell Resistance: Yes 217 SPELLS CHAPTER 11: This spell functions like sending, but the Destruction If a creature falls into more than one message can also contain a suggestion (see category, the spell indicates the weaker of Necromancy [Death] the suggestion spell), which the subject does the two.",
+        "name":  "Range",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action contact itself. The demand, if received, is spell can penetrate barriers, but 1 foot of",
+        "name":  "Casting Time",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes at the time the demand is issued, the animal or plant is present. message is understood but the suggestion is This spell instantly slays the subject and ineffective. consumes its remains (but not its equip- Detect Chaos The demand’s message to the creature ment and possessions) utterly. If the Divination must be twenty-five words or less, include- target’s Fortitude saving throw succeeds, it Level: Clr 1 ing the suggestion. The creature can also instead takes 10d6 points of damage. The give a short reply immediately. only way to restore life to a character who This spell functions like detect evil, except",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration, up to 10 level (D) This spell imbues an area with negative min./level (D) Saving Throw: None energy. Each Charisma check made to turn",
+        "name":  "Duration",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "None Spell Resistance: No undead within this area takes a –3 profane",
+        "name":  "Saving Throw",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No penalty, and every undead creature You can sense the presence of evil. The entering a desecrated area gains a +1 profane You can detect a particular kind of animal amount of information revealed depends bonus on attack rolls, damage rolls, and or plant in a cone emanating out from you on how long you study a particular area or saving throws. An undead creature created in whatever direction you face. You must subject. within or summoned into such an area think of a kind of animal or plant when 1st Round: Presence or absence of evil. gains +1 hit points per HD. using the spell, but you can change the 2nd Round: Number of evil auras (crea- If the desecrated area contains an altar, animal or plant kind each round. The tures, objects, or spells) in the area and the shrine, or other permanent fixture dedi- amount of information revealed depends power of the most potent evil aura present. cated to your deity or aligned higher on how long you search a particular area or If you are of good alignment, and the power, the modifiers given above are dou- focus on a specific kind of animal or plant. strongest evil aura’s power is overwhelm- bled (–6 profane penalty on turning 1st Round: Presence or absence of that ing (see below), and the HD or level of the checks, +2 profane bonus and +2 hit points kind of animal or plant in the area. aura’s source is at least twice your character per HD for undead in the area). Further- 2nd Round: Number of individuals of the level, you are stunned for 1 round and the more, anyone who casts animate dead specified kind in the area, and the spell ends. within this area may create as many as condition of the healthiest specimen. 3rd Round: The power and location of double the normal amount of undead (that 3rd Round: The condition (see below) each aura. If an aura is outside your line of is, 4 HD per caster level rather than 2 HD and location of each individual present. If sight, then you discern its direction but per caster level). an animal or plant is outside your line of If the area contains an altar, shrine, or sight, then you discern its direction but not its exact location. other permanent fixture of a deity, pan- not its exact location. Aura Power: An evil aura’s power de- theon, or higher power other than your Conditions: For purposes of this spell, the pends on the type of evil creature or object patron, the desecrate spell instead curses the categories of condition are as follows: that you’re detecting and its HD, caster area, cutting off its connection with the Normal: Has at least 90% of full normal level, or (in the case of a cleric) class level; associated deity or power. This secondary hit points, free of disease. see the accompanying table. If an aura falls function, if used, does not also grant the Fair: 30% to 90% of full normal hit points into more than one strength category, the bonuses and penalties relating to undead, remaining. spell indicates the stronger of the two. as given above. Poor: Less than 30% of full normal hit For example, as indicated on the table, Desecrate counters and dispels consecrate. points remaining, afflicted with a disease, an evil outsider with 12 HD has an over-",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Brd 0, Clr 0, Drd 0, Sor/Wiz 0 Spell or Object Faint Moderate Strong Overwhelming",
+        "name":  "Level",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S Functioning spell (spell level) 3rd or lower 4th–6th 7th–9th 10th+ (deity-level)",
+        "name":  "Components",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A small piece of nor mechanically complex ones, nor those Range: 60 ft. mirror and a miniature brass hearing that have been rendered safe or inactive. Area: Cone-shaped emanation trumpet. The amount of information revealed Duration: Concentration, up to 1 minute/ depends on how long you study a particu- level (D) Detect Secret Doors lar area. Saving Throw: None Divination 1st Round: Presence or absence of Spell Resistance: No",
+        "name":  "Material Component",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Each round, you can turn to detect the area and the strength of the strongest snares and pits in a new area. The spell can undead aura present. If you are of good You can detect secret doors, compart- penetrate barriers, but 1 foot of stone, 1 alignment, and the strongest undead aura’s ments, caches, and so forth. Only passages, inch of common metal, a thin sheet of strength is overwhelming (see below), and doors, or openings that have been spec- lead, or 3 feet of wood or dirt blocks it. the creature has HD of at least twice your ifically constructed to escape detection are character level, you are stunned for 1 detected by this spell—an ordinary Detect Thoughts round and the spell ends. trapdoor underneath a pile of crates would Divination [Mind-Affecting] 3rd Round: The strength and location of not be detected. The amount of infor- Level: Brd 2, Knowledge 2, Sor/Wiz 2 each undead aura. If an aura is outside your mation revealed depends on how long you Components: V, S, F/DF line of sight, then you discern its direction study a particular area or subject. Casting Time: 1 standard action but not its exact location. 1st Round: Presence or absence of secret Range: 60 ft.",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The strength of an undead doors. Area: Cone-shaped emanation aura is determined by the HD of the 2nd Round: Number of secret doors and Duration: Concentration, up to 1 undead creature, as given on the following the location of each. If an aura is outside min./level (D) table: your line of sight, then you discern its Saving Throw: Will negates; see text direction but not its exact location. Spell Resistance: No",
+        "name":  "Aura Strength",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The mechanism HD Strength or trigger for one particular secret portal You detect surface thoughts. The amount 1 or lower Faint closely examined by you. of information revealed depends on how 2–4 Moderate Each round, you can turn to detect long you study a particular area or subject. 5–10 Strong 11 or higher Overwhelming secret doors in a new area. The spell can 1st Round: Presence or absence of penetrate barriers, but 1 foot of stone, 1 thoughts (from conscious creatures with Lingering Aura: An undead aura lingers inch of common metal, a thin sheet of Intelligence scores of 1 or higher). after its original source is destroyed. If lead, or 3 feet of wood or dirt blocks it. 2nd Round: Number of thinking minds detect undead is cast and directed at such a and the Intelligence score of each. If the location, the spell indicates an aura Detect Snares and Pits highest Intelligence is 26 or higher (and at strength of dim (even weaker than a faint Divination least 10 points higher than your own aura). How long the aura lingers at this",
+        "name":  "Each Additional Round",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S round and the spell ends. This spell does",
+        "name":  "Components",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No must cast detect thoughts again to have another chance. Creatures of animal intel- Each round, you can turn to detect undead You can detect simple pits, deadfalls, and ligence (Int 1 or 2) have simple, instinctual in a new area. The spell can penetrate snares as well as mechanical traps con- thoughts that you can pick up. barriers, but 1 foot of stone, 1 inch of structed of natural materials. The spell Each round, you can turn to detect common metal, a thin sheet of lead, or 3 does not detect complex traps, including thoughts in a new area. The spell can pen- feet of wood or dirt blocks it. trapdoor traps. etrate barriers, but 1 foot of stone, 1 inch of Arcane Material Component: A bit of earth Detect snares and pits does detect certain common metal, a thin sheet of lead, or 3 from a grave. natural hazards—quicksand (a snare), a feet of wood or dirt blocks it. sinkhole (a pit), or unsafe walls of natural",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes two Medium creatures, a Huge creature Spell Resistance: Yes counts as two Large creatures, and so forth. Any nonlawful creature within the area of All creatures to be transported must be in You create a shimmering emerald barrier a dictum spell suffers the following ill contact with one another, and at least one that completely blocks extradimensional effects. of those creatures must be in contact with travel. Forms of movement barred include you. astral projection, blink, dimension door, HD Effect If you arrive in a place that is already ethereal jaunt, etherealness, gate, maze, plane Equal to caster level Deafened occupied by a solid body, you and each shift, shadow walk, teleport, and similar spell- Up to caster level –1 Slowed, deafened creature traveling with you take 1d6 points like or psionic abilities. Once dimensional Up to caster level –5 Paralyzed, slowed, of damage and are shunted to a random lock is in place, extradimensional travel deafened open space on a suitable surface within 100 into or out of the area is not possible. Up to caster level –10 Killed, paralyzed, feet of the intended location. If there is no A dimensional lock does not interfere slowed, deafened free space within 100 feet, you and each with the movement of creatures already in creature traveling with you take an ethereal or astral form when the spell is The effects are cumulative and concurrent. additional 2d6 points of damage and are cast, nor does it block extradimensional No saving throw is allowed against these shunted to a free space within 1,000 feet. If perception or attack forms, such as a effects. there is no free space within 1,000 feet, you basilisk’s gaze. Also, the spell does not pre-",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    }
+]

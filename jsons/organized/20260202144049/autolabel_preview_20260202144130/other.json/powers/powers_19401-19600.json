@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "other.json",
+        "description":  "5 bites +6 melee (1d10+3) 6 bites +8 melee (1d10+3) 7 bites +10 melee (1d10+4)",
+        "name":  "Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5 bites +6 melee (1d10+3) 6 bites +8 melee (1d10+3) 7 bites +10 melee (1d10+4) Space/Reach: 15 ft./10 ft. 15 ft./10 ft.. 15 ft./10 ft.",
+        "name":  "Full Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— — —",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Darkvision 60 ft., fast healing 15, Darkvision 60 ft., fast healing 16, Darkvision 60 ft., fast healing 17, low-light vision, scent low-light vision, scent low-light vision, scent",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +9, Ref +5, Will +3 Fort +10, Ref +6, Will +4 Fort +10, Ref +6, Will +4",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 17, Dex 12, Con 20, Str 17, Dex 12, Con 20, Str 19, Dex 12, Con 20, Int 2, Wis 10, Cha 9 Int 2, Wis 10, Cha 9 Int 2, Wis 10, Cha 9",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Listen +6, Spot +6, Swim +11 Listen +6, Spot +7, Swim +11 Listen +7, Spot +7, Swim +12",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperate marshes Temperate marshes Temperate marshes (Pyro: Warm marshes) (Pyro: Warm marshes) (Pyro: Warm marshes) (Cryo: Cold marshes) (Cryo: Cold marshes) (Cryo: Cold marshes)",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary Solitary Solitary",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4 (normal); 6 (pyro- or cryo-) 5 (normal); 7 (pyro- or cryo-) 6 (normal); 8 (pyro- or cryo-)",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— — —",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "8d10+43(87hp) 9d10+48(97hp) 10d10+53(108hp)",
+        "name":  "HitDice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1 +1 +1",
+        "name":  "Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20ft.(4squares),swim20ft. 20ft.(4squares),swim20ft. 20ft.(4squares),swim20ft.",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "8bites+11melee(1d10+4) 9bites+13melee(1d10+5) 10bites+14melee(1d10+5)",
+        "name":  "Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "8bites+11melee(1d10+4) 9bites+13melee(1d10+5) 10bites+14melee(1d10+5) Space/Reach: 15ft./10ft. 15ft./10ft. 15ft./10ft.",
+        "name":  "FullAttack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— — —",
+        "name":  "SpecialAttacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Darkvision60ft.,fasthealing18, Darkvision60ft.,fasthealing19, Darkvision60ft.,fasthealing20, low-lightvision,scent low-lightvision,scent low-lightvision,scent",
+        "name":  "SpecialQualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort+11,Ref+7,Will+4 Fort+11,Ref+7,Will+5 Fort+12,Ref+8,Will+3",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str19,Dex12,Con20, Str21,Dex12,Con20, Str21,Dex12,Con20, Int2,Wis10,Cha9 Int2,Wis10,Cha9 Int2,Wis10,Cha9",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Listen+7,Spot+8,Swim+12 Listen+8,Spot+8,Swim+13 Listen+8,Spot+9,Swim+13",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperatemarshes Temperatemarshes Temperatemarshes (Pyro:Warmmarshes) (Pyro:Warmmarshes) (Pyro:Warmmarshes) (Cryo:Coldmarshes) (Cryo:Coldmarshes) (Cryo:Coldmarshes)",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary Solitary Solitary",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "7(normal);9(pyro-orcryo-) 8(normal);10(pyro-orcryo-) 9(normal);11(pyro-orcryo-)",
+        "name":  "ChallengeRating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usuallyneutral Usuallyneutral Usuallyneutral",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— — —",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "11d10+58(118hp) 12d10+63(129hp)",
+        "name":  "HitDice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1 +1",
+        "name":  "Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20ft.(4squares),swim20ft. 20ft.(4squares),swim20ft.",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "11bites+16melee(1d10+6) 12bites+17melee(2d8+6)",
+        "name":  "Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "11bites+16melee(1d10+6) 12bites+17melee(2d8+6) Space/Reach: 15ft./10ft. 15ft./10ft.",
+        "name":  "FullAttack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— —",
+        "name":  "SpecialAttacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Darkvision60ft.,fasthealing21, Darkvision60ft.,fasthealing22, low-lightvision,scent low-lightvision,scent",
+        "name":  "SpecialQualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort+12,Ref+8,Will+5 Fort+13,Ref+9,Will+6",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str23,Dex12,Con20,Int2,Wis10,Cha9 Str23,Dex12,Con20,Int2,Wis10,Cha9",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Listen+9,Spot+9,Swim+14 Listen+9,Spot+10,Swim+14",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperatemarshes Temperatemarshes (Pyro:Warmmarshes) (Pyro:Warmmarshes) (Cryo:Coldmarshes) (Cryo:Coldmarshes)",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary Solitary",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10(normal);12(pyro-orcryo-) 11(normal);13(pyro-orcryo-)",
+        "name":  "ChallengeRating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usuallyneutral Usuallyneutral",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— —",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "13d10+20 (91 hp) doing so helps it complete its mission.",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +6, Ref +7, Will +7 Large Construct (Extraplanar, Lawful)",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 14, Dex 13, Con —, Int 10, Wis 17, Cha 16 Hit Dice: 15d10+30 (112 hp)",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Clockwork Nirvana of Mechanus Attack: Slam +22 melee (2d6+12 plus 3d6 sonic or 3d6 electric-",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary ity)",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "12 Full Attack: 2 slams +22 melee (2d6+12 plus 3d6 sonic or 3d6",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None electricity)",
+        "name":  "Treasure",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always lawful neutral Space/Reach: 10 ft./10 ft.",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— abilities",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A marut has a +4 racial bonus on Concentration, Listen, Large Elemental (Air, Extraplanar) and Spot checks. Hit Dice: 8d8+16 (52 hp)",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+8",
+        "name":  "Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "8d10+30 (74 hp) flat-footed 13",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+0 Base Attack/Grapple: +6/+14",
+        "name":  "Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "35 ft. in plate barding (7 squares), fly 40 ft. (average) in Attack: Slam +10 melee (2d6+4) plate barding (8 squares); base speed 50 ft., fly 60 ft. (average) Full Attack: 2 slams +10 melee (2d6+4)",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Spiked chain +10 melee (2d6+5 plus 1d6 electricity) invisibility, improved tracking",
+        "name":  "Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 spiked chains +10 melee (2d6+5 plus 1d6 electric- Saves: Fort +4, Ref +10, Will +4 ity) Abilities: Str 18, Dex 19, Con 14, Int 14, Wis 15, Cha 11 Space/Reach: 10 ft./10 ft. Skills: Listen +13, Move Silently +15, Search +13, Spot +13,",
+        "name":  "Full Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +4, Ref +2, Will +5 Challenge Rating: 7",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 21, Dex 11, Con —, Int 10, Wis 17, Cha 15 Treasure: None",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Diplomacy +4, Listen +9, Search +9, Sense Motive +12, Alignment: Usually neutral Spot +9, Survival +3 (+5 following tracks) Advancement: 9–12 HD (Large); 13–24 HD (Huge)",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Great Fortitude, Ride-By Attack, Spirited Charge Level Adjustment: —",
+        "name":  "Feats",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Clockwork Nirvana of Mechanus",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "9 Air. They sometimes serve wizards and sorcerers, who summon",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None them to perform specific tasks.",
+        "name":  "Treasure",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always lawful neutral A summoned invisible stalker undertakes whatever task the",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "9–16 HD (Large); 17–24 HD (Huge) summoner commands, even if the task sends it hundreds or thou-",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Craft (trapmaking) +2, Hide +6, Listen +2, Move Silently +2, Profession (miner) +2, Search +2, Spot +2",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Alertness",
+        "name":  "Feats",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperate forests",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Gang (4–9), band (10–100 plus 100 noncombat- ants plus 1 3rd-level sergeant per 20 adults and 1 leader of 4th–6th level), warband (10–24 plus 2–4 dire weasels), tribe (40–400 plus 1 3rd-level sergeant per 20 adults, 1 or 2 lieu- tenants of 4th or 5th level, 1 leader of 6th–8th level, and 5–8 dire weasels)",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1/4",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard",
+        "name":  "Treasure",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually lawful evil",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "By character class",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1d8 (4 hp) in bright sunlight or within the radius of a day-",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. (6 squares) Skills: Kobolds have a +2 racial bonus on Craft",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Spear +1 melee (1d6–1/×3) ing ability scores before racial adjustments: Str 13, or sling +3 ranged (1d3) Dex 11, Con 12, Int 10, Wis 9, Cha 8.",
+        "name":  "Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Spear +1 melee Challenge Rating: Kobolds with levels in NPC (1d6–1/×3) or sling +3 ranged (1d3) classes have a CR equal to their character level –3. Space/Reach: 5 ft./5 ft.",
+        "name":  "Full Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— KOBOLD SOCIETY",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Darkvision 60 ft., light sensitivity Kobolds live in dark places, usually underground locations and",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +2, Ref +1, Will –1 overgrown forests. They are good miners and often live in the",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Alertness, Blind-Fight, Expertise, Improved Critical that they have many enemies. (tentacle), Improved Initiative, Improved Trip, Iron Will",
+        "name":  "Their nasty habits and their distrust of most other beings mean Feats",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperate aquatic adults. Organization:Solitary",
+        "name":  "A kobold lair has one noncombatant child and one egg per ten Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually neutral evil",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20d10+180 (290 hp) Krakens strike their opponents with their barbed tentacles, then",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+4 grab and crush with their arms or drag victims into their huge",
+        "name":  "Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Swim 20 ft. (4 squares) jaws. An opponent can make sunder attempts against a kraken’s",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Tentacle +28 melee (2d8+12/19–20) currently grappling a",
+        "name":  "Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 tentacles +28 melee (2d8+12/19–20) and 6 arms target with one +23 melee (1d6+6) and bite +23 melee (4d6+6) tentacle or arm, Space/Reach: 20 ft./15 ft. (60 ft. with tentacle, 30 ft. with arm) it usually uses",
+        "name":  "Full Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Improved grab, constrict 2d8+12 or 1d6+6",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +21, Ref +12, Will +13 a n o t h e r",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 34, Dex 10, Con limb to make 29, Int 21, Wis 20, Cha 20 its attack of oppor-",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2d10 (11 hp) Hit Dice: 2d8+2 (11 hp)",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ranger 1, sorcerer/wizard 1Components: V",
+        "name":  "Level",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 swift action Range: Personal",
+        "name":  "Casting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You",
+        "name":  "Target",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bard 3",
+        "name":  "Level",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, F",
+        "name":  "Components",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates (harmless)",
+        "name":  "Saving Throw",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ranger 2Components: V",
+        "name":  "TransmutationLevel",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 swift actionRange: Personal",
+        "name":  "Casting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You",
+        "name":  "Target",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 1, ranger 1Components: V",
+        "name":  "TransmutationLevel",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard actionRange: Personal",
+        "name":  "Casting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You",
+        "name":  "Target",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cleric 2, druid 2, ranger 1Components: V, S, M",
+        "name":  "DivinationLevel",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action",
+        "name":  "Casting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A small mint leaf. HEALTHFUL REST Conjuration (Healing)Level: Bard 1, druid 1Components: V, S",
+        "name":  "Material Component",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10 minutes",
+        "name":  "Casting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "24 hours",
+        "name":  "Duration",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates (harmless)",
+        "name":  "Saving Throw",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bard 1 Components: V, S",
+        "name":  "Level",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 swift actionRange: 20 ft.Area: 20-ft.-radius burst centered on you",
+        "name":  "Casting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round",
+        "name":  "Duration",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates",
+        "name":  "Saving Throw",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bard 6, sorcerer/wizard 9Components: V, S, M",
+        "name":  "DivinationLevel",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 hour",
+        "name":  "Casting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You sense the events of the past, stretching back one day per caster level. You gain detailed knowledge of the people, conversa-tions, and events that transpired.",
+        "name":  "Days",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You gain a summary of the events of the past, stretching back one week per caster level. Exact wording and details are lost, but you know all the participants and the highlights of the conversations and events that took place.",
+        "name":  "Weeks",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "An hour- glass-shaped diamond worth at least 1,000 gp. HYMN OF PRAISE Evocation [Good, Sonic]Level: Bard 3Components: V, S",
+        "name":  "Material Component",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action",
+        "name":  "Casting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Medium (100 ft. + 10 ft./ level)",
+        "name":  "Range",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A sphere-shaped emanation with a radius equal to the range, centered on you",
+        "name":  "Area",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bard 5Components: V, S, M",
+        "name":  "TransmutationLevel",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action",
+        "name":  "Casting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A pair of dice. INFERNAL THRENODY Evocation [Evil, Sonic]Level: Bard 3Components: V, S",
+        "name":  "Material Component",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round",
+        "name":  "Casting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Medium (100 ft. + 10 ft./ level)",
+        "name":  "Range",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A sphere-shaped emanation with a radius equal to the range, centered on you",
+        "name":  "Area",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bard 2",
+        "name":  "Level",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S",
+        "name":  "Components",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard actionRange: Medium (100 ft. + 10 ft./ level)",
+        "name":  "Casting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates",
+        "name":  "Saving Throw",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Assassin 1, sorcerer/ wizard 1",
+        "name":  "DivinationLevel",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  " V",
+        "name":  "Components",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 swift action Range: Personal",
+        "name":  "Casting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You",
+        "name":  "Target",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round You gain tempo- rary insight into the way your opponent moves and reacts. You gain a +10 insight bonus on the next single Bluff check (if it is made before the start of your next turn) that you make to feint in combat (see Bluff, page 68 of the Player’s Handbook ). INSPIRATIONAL BOOST Enchantment (Compulsion) [Mind-Affecting, Sonic]",
+        "name":  "Duration",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bard 1",
+        "name":  "Level",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S",
+        "name":  "Components",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Assassin 1, sorcerer/ wizard 1",
+        "name":  "DivinationLevel",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, SCasting Time: 1 swift action Range: Personal Target: You Duration: 1 round You can make one Disable Device check or one Open Lock check in this round as a free action. You gain a +2 insight bonus on the check.INSTANT SEARCH Divination",
+        "name":  "Components",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Assassin 1, ranger 1, sorcerer/wizard 1",
+        "name":  "Level",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S",
+        "name":  "Components",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 swift action",
+        "name":  "Ca sting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Personal Target: You",
+        "name":  "Range",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round You can make one Search check in this round as a free action. You gain a +2 insight bonus on the check. INVISIBILITY, SWIFT Illusion (Glamer)",
+        "name":  "Duration",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Assassin 2, bard 2",
+        "name":  "Le vel",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V",
+        "name":  "Components",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 swift action",
+        "name":  "Ca sting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Personal",
+        "name":  "Range",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You",
+        "name":  "Target",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Assassin 2, bard 2, cleric 2Components: V, S, DF",
+        "name":  "Level",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action",
+        "name":  "Casting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 hour/level (D)Saving Throw: Will negates (harmless, object)",
+        "name":  "Duration",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "An hour- glass-shaped diamond worth at least 1,000 gp. HYMN OF PRAISE Evocation [Good, Sonic]Level: Bard 3Components: V, S",
+        "name":  "Material Component",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action",
+        "name":  "Casting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Medium (100 ft. + 10 ft./ level)",
+        "name":  "Range",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A sphere-shaped emanation with a radius equal to the range, centered on you",
+        "name":  "Area",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bard 5Components: V, S, M",
+        "name":  "TransmutationLevel",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action",
+        "name":  "Casting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A pair of dice. INFERNAL THRENODY Evocation [Evil, Sonic]Level: Bard 3Components: V, S",
+        "name":  "Material Component",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round",
+        "name":  "Casting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Medium (100 ft. + 10 ft./ level)",
+        "name":  "Range",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A sphere-shaped emanation with a radius equal to the range, centered on you",
+        "name":  "Area",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bard 2",
+        "name":  "Level",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S",
+        "name":  "Components",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard actionRange: Medium (100 ft. + 10 ft./ level)",
+        "name":  "Casting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates",
+        "name":  "Saving Throw",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Assassin 1, sorcerer/ wizard 1",
+        "name":  "DivinationLevel",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  " V",
+        "name":  "Components",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 swift action Range: Personal",
+        "name":  "Casting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You",
+        "name":  "Target",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round You gain tempo- rary insight into the way your opponent moves and reacts. You gain a +10 insight bonus on the next single Bluff check (if it is made before the start of your next turn) that you make to feint in combat (see Bluff, page 68 of the Player’s Handbook ). INSPIRATIONAL BOOST Enchantment (Compulsion) [Mind-Affecting, Sonic]",
+        "name":  "Duration",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bard 1",
+        "name":  "Level",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S",
+        "name":  "Components",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Assassin 1, sorcerer/ wizard 1",
+        "name":  "DivinationLevel",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, SCasting Time: 1 swift action Range: Personal Target: You Duration: 1 round You can make one Disable Device check or one Open Lock check in this round as a free action. You gain a +2 insight bonus on the check.INSTANT SEARCH Divination",
+        "name":  "Components",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Assassin 1, ranger 1, sorcerer/wizard 1",
+        "name":  "Level",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S",
+        "name":  "Components",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 swift action",
+        "name":  "Ca sting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Personal Target: You",
+        "name":  "Range",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round You can make one Search check in this round as a free action. You gain a +2 insight bonus on the check. INVISIBILITY, SWIFT Illusion (Glamer)",
+        "name":  "Duration",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Assassin 2, bard 2",
+        "name":  "Le vel",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V",
+        "name":  "Components",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 swift action",
+        "name":  "Ca sting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Personal",
+        "name":  "Range",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You",
+        "name":  "Target",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Assassin 2, bard 2, cleric 2Components: V, S, DF",
+        "name":  "Level",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action",
+        "name":  "Casting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 hour/level (D)Saving Throw: Will negates (harmless, object)",
+        "name":  "Duration",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bard 1Components: S",
+        "name":  "AbjurationLevel",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard actionRange: 10 ft.",
+        "name":  "Casting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10-ft.-radius emanation, cen - tered on you",
+        "name":  "Area",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Concentration; see textSaving Throw: None",
+        "name":  "Duration",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action",
+        "name":  "Casting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The pair of coins. LISTENING LORECALL",
+        "name":  "Focus",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 2, ranger 2, sorcerer/ wizard 2",
+        "name":  "DivinationLevel",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bard 1, sorcerer/wizard 1Components: V, F",
+        "name":  "DivinationLevel",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 swift action",
+        "name":  "Casting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    }
+]

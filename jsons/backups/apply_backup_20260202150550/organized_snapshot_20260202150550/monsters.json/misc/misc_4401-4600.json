@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The creature rips with a sharp appendage, 1 point of Charisma. Only objects have no Charisma dealing piercing and slashing damage. score, and an object that has no Charisma score also has",
+        "name":  "Claw or Talon",
+        "source":  "monster_manual_v.txt",
+        "_id":  "42a7d81895bba8b01765316e4cb94035598298e9ff073e9abbe0d22edde155db"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The creature spears the opponent with an antler, no Wisdom score. horn, or similar appendage, dealing piercing damage.",
+        "name":  "Gore",
+        "source":  "monster_manual_v.txt",
+        "_id":  "42a7d81895bba8b01765316e4cb94035598298e9ff073e9abbe0d22edde155db"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The creature batters opponents with an Obyrith Subtype: A number of demons belong to the appendage, dealing bludgeoning damage. primeval race of evil outsiders known as the obyriths.",
+        "name":  "Slap or Slam",
+        "source":  "monster_manual_v.txt",
+        "_id":  "42a7d81895bba8b01765316e4cb94035598298e9ff073e9abbe0d22edde155db"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Any creature that can physically manipulate —Form of Madness (Su): Obyriths are so noxious and other objects has at least 1 point of Strength. A creature horrific that their presence produces madness. When an that has no Strength score can’t exert force, usually because obyrith comes within 60 feet of a creature, that creature it has no physical body or because it doesn’t move. The must succeed on a Will save (DC 10 + 1/2 the obyrith’s HD + creature automatically fails Strength checks. If the creature its Cha modifi er) or fall victim to a form of permanent insan- can attack, it applies its Dexterity modifi er to its base attack ity as indicated in the specifi c obyrith’s description. The bonus instead of a Strength modifi er. insanity is permanent until cured by greater restoration, heal,",
+        "name":  "Strength",
+        "source":  "monster_manual_v.txt",
+        "_id":  "42a7d81895bba8b01765316e4cb94035598298e9ff073e9abbe0d22edde155db"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Any living creature has at least 1 point Ooze Type: An ooze is an amorphous or mutable creature, of Constitution. A creature that has no Constitution has usually mindless. no body or no metabolism. It is immune to any effect Features: An ooze has the following features. that requires a Fortitude save unless the effect works —10-sided Hit Dice; no good saving throws. on objects or is harmless. The creature is also immune —Base attack bonus equal to 3/4 total Hit Dice (as to ability damage, ability drain, and energy drain, and cleric). automatically fails Constitution checks. A creature that —Skill points equal to (2 + Int modifi er, minimum 1) per has no Constitution cannot tire and is thusly immune to Hit Die, with quadruple skill points for the fi rst Hit Die, if fatigue and exhaustion. the ooze has an Intelligence score. However, most oozes are",
+        "name":  "Constitution",
+        "source":  "monster_manual_v.txt",
+        "_id":  "42a7d81895bba8b01765316e4cb94035598298e9ff073e9abbe0d22edde155db"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A tanar’ri possesses the following traits. the indicated number to the creature’s Hit Dice total. For —Telepathy. example, a forest haunt has 12 Hit Dice and +2 turn resis- —Immunity to electricity and poison. tance. Attempts to turn, rebuke, command, or bolster treat —Resistance to acid 10, cold 10, and fi re 10. the forest haunt as though it had 14 Hit Dice, though it is a —Summon (Sp): Tanar’ri share the ability to summon 12 HD creature for any other purpose. others of their kind.",
+        "name":  "Traits",
+        "source":  "monster_manual_v.txt",
+        "_id":  "42a7d81895bba8b01765316e4cb94035598298e9ff073e9abbe0d22edde155db"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Vermin have the following features. of Water. Creatures that have the water subtype have swim —8-sided Hit Dice; good Fortitude saves. speeds and can move in water without making Swim checks. —Base attack bonus equal to 3/4 total Hit Dice (as A water creature can breathe underwater and can usually cleric). breathe air as well. 222 YRASSOLG pqqqqqqqqqqqqqqqqqqqqrs MONSTERS BY TYPE (AND SUBTYPE) (Good): Arcadian avenger.",
+        "name":  "Features",
+        "source":  "monster_manual_v.txt",
+        "_id":  "42a7d81895bba8b01765316e4cb94035598298e9ff073e9abbe0d22edde155db"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creature touched. Level: Sor/Wiz 1.",
+        "name":  "Targets",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "None. Targets: One living humanoid creature.",
+        "name":  "Saving Throw",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creature touched. Arcane Material Components: A piece of cloth and a",
+        "name":  "Targets",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creatures viewing target.",
+        "name":  "Targets",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A sock or handful of beauties/studs all drawn from the desires and needs rags suitably placed. hidden in the subject’s mind. Each creature viewing the room sees something according to their own HHHHHyyyyypppppnnnnnoooootttttiiiiiccccc RRRRRuuuuummmmmppppp preferences, which can lead to some interesting situations when there is an incompatibility between Enchantment (Charm) two viewers ideas.",
+        "name":  "Arcane Material Component",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creatures of correct orientation with line of such time as it dissipates, which can lead to some sight to buttocks. awkward moments and some expensive dry",
+        "name":  "Effect",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One living creature.",
+        "name":  "Targets",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One living creature. Range: Touch.",
+        "name":  "Targets",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One living creature.",
+        "name":  "Targets",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One creature. and immediately left on an expedition, knowing his",
+        "name":  "Targets",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1 day per level. does not work against non-humanoid monsters or",
+        "name":  "Duration",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "None. any creature not intending their proximity to",
+        "name":  "Saving Throw",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Crushed flower petals SSSSSooooofffffttttt FFFFFooooocccccuuuuusssss that are sprinkled in a three-foot circle around the Illusion (Phantasm) creature to be warded.",
+        "name":  "Arcane Material Component",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Brd 0, Sor/Wiz 0. Targets: Self or one humanoid creature.",
+        "name":  "Level",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One dressed target. sexual act to take place. The creature summoned",
+        "name":  "Targets",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One or more summoned creatures, no two of SSSSSuuuuummmmmmmmmmooooonnnnn SSSSSeeeeexxxxx PPPPPaaaaarrrrrtttttnnnnneeeeerrrrr IIIII which can be more than 30 ft. apart. Conjuration (Summoning) [see text] As summon sex partner I except you can summon",
+        "name":  "Effect",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One or more summoned creatures, no two of Conjuration (Summoning) [see text] which can be more than 30 ft. apart.",
+        "name":  "Effect",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One or more summoned creatures, no two of As summon sex partner I except you can summon which can be more than 30 ft. apart. one partner from the 3rd level list, 1d3 partners of the same type from the 2nd level list or 1d4+1 partners of As summon sex partner I except you can summon the same type from the 1st level list. one partner from the 8th level list, 1d3 partners of the same type from the 7th level list or 1d4+1 partners of SSSSSuuuuummmmmmmmmmooooonnnnn SSSSSeeeeexxxxx PPPPPaaaaarrrrrtttttnnnnneeeeerrrrr IIIIIVVVVV the same type from a lower level list. Conjuration (Summoning) [see text]",
+        "name":  "Effect",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One or more summoned creatures, no two of Conjuration (Summoning) [see text] which can be more than 30 ft. apart.",
+        "name":  "Effect",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One or more summoned creatures, no two of As summon sex partner I except you can summon which can be more than 30 ft. apart. one partner from the 4th level list, 1d3 partners of the same type from the 3rd level list or 1d4+1 partners of As summon sex partner I except you can summon the same type from a lower level list. one partner from the 9th level list, 1d3 partners of the same type from the 8th level list or 1d4+1 partners of SSSSSuuuuummmmmmmmmmooooonnnnn SSSSSeeeeexxxxx PPPPPaaaaarrrrrtttttnnnnneeeeerrrrr VVVVV the same type from a lower level list. Conjuration (Summoning) [see text]",
+        "name":  "Effect",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One or more summoned creatures, no two of Enchantment (Compulsion) which can be more than 30 ft. apart.",
+        "name":  "Effect",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One creature. the same type from a lower level list.",
+        "name":  "Target",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One or more summoned creatures, no two of to expedite a speedier end to romantic encounters which can be more than 30 ft. apart. leaving them more time free to devote to serious research. As summon sex partner I except you can summon one partner from the 7th level list, 1d3 partners of the",
+        "name":  "Effect",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Same as the base creature. irresponsible.",
+        "name":  "Speed",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A lust element creature retains any SSSSShhhhhuuuuuddddddddddeeeeerrrrr QQQQQuuuuuaaaaakkkkkeeeeesssss of the special attacks of the base creature and in Occasionally a moaning wind howls across the addition gains the supernatural ability to induce lust plane, rustling the trees and blowing a spicy scent in those creatures around it. All creatures within 30 across the inhabitants, it is soon followed by a ft. must make a Will save (DC 10 + ½ creatures hit trembling in the ground as though the land itself dice + Charisma modifier) or give in to their lusts, were having an orgasm. The shudders vary in immediately stopping what they were doing and intensity but never do more than throw people from engaging in intimate and passionate relations with their feet. Only the most ramshackle of dwellings is the nearest viable candidate. ever knocked over.",
+        "name":  "Special Attacks",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Same as the base creature. SSSSSuuuuuggggggggggeeeeessssstttttiiiiivvvvveeeeennnnneeeeessssssssss",
+        "name":  "Special Qualities",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Same as the base creature. Absolutely everything on the plane of lust is suggestive. The fruit and flowers resemble sexual",
+        "name":  "Saves",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Increase from the base creature as follows: organs if you so much as squint slightly at them, the Str +0, Dex +2, Con +2, Int +0, Wis +0, Cha +4. clouds form a tableau of suggestive images in the All lust element creatures are extremely dextrous, sky that would make a wench blush and the towers enduring, attractive, well proportioned and gifted of polyamora ‘jut proudly into the air, erect and with prodigious sexual characteristics. firm.’ The hills form images that look like giant naked figures lying on the ground and springs do",
+        "name":  "Abilities",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A creature of lust has 8 skill points, plus its not bubble – they spurt. Even the trees look like Intelligence modifier, per Hit Die. Treat skills from naked bodies twined together (and with dryads they the base creature’s list as class skills and other skills often are). as cross-class. If the creature has a class, it gains skills for class levels normally. If there is the slightest opportunity for something to take on an even partial sexual connotation, it will.",
+        "name":  "Skills",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A creature of lust has 1 feat for every 4 full hit dice it possesses or the base creature’s number of",
+        "name":  "Feats",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creature feats, whichever is greater. In addition, all creatures of Lust of lust possess the Endurance and Bedroom Proficiency feats for free. Creatures of lust dwell on the plane of lust, appearing as well endowed and energetic creatures Climate/Terrain: Same as the base creature. similar to their counterparts on the material world, Organisation: Same as the base creature. but tend to be reddish or pinkish in colour. Their Challenge Rating: Same as the base creature +1. eyes are always deep and soulful and they are always Treasure: Half standard. extremely randy. Alignment: Usually chaotic neutral.",
+        "name":  "Template",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "17th; Weight: 5 lb. cannot be removed without the loss of another 1d6 permanent hit points. The eye confers the following abilities upon its user, all cast as if by a 15th level wizard. 46 CREATURES OF LUST Creatures surrounding waters, then releases them, usually with a crushed foot. of Lust The clam steals the money to lay as bait around its position as fish are attracted to the coins as they glitter in the sun. A pretty face or an offer of sex has been the downfall of many a hero – not all of the Bearded clams are a prized gourmet food and are hazards lust presents are confined to considered to be an aphrodisiac; they have a footpads waiting in an alley for you and the saucy delicate flavour with a slight ‘electric zing’ to the harlot you just picked up to come stumbling down taste. One clam in ten contains a pearl worth 10d10 over the rubbish. gp and requires a Search check (DC 20) to find. There are monsters that lure using sex, monsters that CCCCCooooommmmmbbbbbaaaaattttt propagate themselves in symbiosis with sex and The clam is not a malicious or intelligent creature it monsters that are just rude sounding and suggestive. operates purely by reflex. Here then is but a small selection to terrorise and titillate. Improved Grab (Ex): If the clam is successful in its first attack it clamps hold of the victims leg and does BBBBBeeeeeaaaaarrrrrdddddeeeeeddddd CCCCClllllaaaaammmmm automatic damage each round until it has either Small Vermin taken all of their money or been killed.",
+        "name":  "Caster Level",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Str 10, Dex 14, Con 12 Int -, Wis 12, Cha Colossal Beast 2.",
+        "name":  "Abilities",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Listen +11, Spot +11, Perform (sing) +11. nutrients and feeling around with the tentacles of their beard-like fringe for movement. When they Climate/Terrain: Warm forest, hill, plains and sense a creature walking through the water they marsh. open up and lay out their ‘beard,’ waiting for it to",
+        "name":  "Skills",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Chaotic neutral. the poor person has lost all their money to the 47 CREATURES OF LUST",
+        "name":  "Alignment",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Improved grab, constrict (1d6+1 plus acid). 48 CREATURES OF LUST Spurt (Ex): By expending one of its hit points the giant crab on someone, they will up stakes and move creamy ooze can move in a sudden spurt in addition on to new pastures, after all ‘the pubes are always to its normal movement. This enables it to move an greener on the other side’. The migratory nature of additional 20 ft. per round and if this would move it the bugs means that one of the best, though onto an area occupied by another creature it gains a antisocial, methods of getting rid of them is to ‘sleep free additional attack. around’. GGGGGiiiiiaaaaannnnnttttt CCCCCrrrrraaaaabbbbbsssss CCCCCooooommmmmbbbbbaaaaattttt Fine Vermin Giant crabs are content to live peacefully if left",
+        "name":  "Special Attacks",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Bite 1 + disease, claw 1 blooded living creature. Face/Reach: ½ ft. by ½ ft./0 ft.",
+        "name":  "Damage",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Str 1, Dex 14, Con 14, Int -, Wis 10, Cha 2. While monsters that carry the crabs are tough, foul",
+        "name":  "Abilities",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "½-1 HD (Diminutive) 4 -3 8 -4 Giant crabs, lobsters, bard’s bane, the dreaded knob 16+ -5 nobbler, these vermin go by many names and are spoken of in horror by any who have had a case of *This penalty applies to a character’s AC, attack them, and terrified awe by those who have not yet rolls, ability checks and skill checks. had ‘the pleasure’. Disease (Ex): The giant crabs are carriers of a Enormous pubic lice, the giant crabs are an inch horrible disease know as minge rot, knob dropper, long with large front pincers and a pointed proboscis rotten rod and foul flaps. The disease causes the used for piercing the skin to drink blood. Their person’s john thomas or love tunnel to become armoured carapace and speedy movement makes covered in large, stinking, weeping sores not unlike them hard to catch and kill. Crushing them with chicken pox spots. This disease is transmitted your thumb simply does not work. though the crab’s bite, has an incubation period of 1d3 days and causes 1d3 points of Charisma damage Giant crabs reproduce rapidly, doubling in number unless the character makes a successful Fortitude every week until they reach their maximum colony save (DC 10 + 1/5 crabs infesting a host). size of 20 on a medium-size creature, increasing or decreasing by half for each size category up or OOOOOnnnnneeeee-----EEEEEyyyyyeeeeeddddd TTTTTrrrrrooooouuuuussssseeeeerrrrr SSSSSnnnnnaaaaakkkkkeeeee down. Giant crabs are often carried by goblinoids Fine Animal and ogres, and can make a nasty post-mortem",
+        "name":  "Advancement",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Spit +14 ranged. and migrate to the other partner. If there is only one 49 CREATURES OF LUST",
+        "name":  "Attacks",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Slam 2d10+8. Face/Reach: 5 ft. by 5 ft./10 ft. The one-eyed trouser snake is a remarkable creature.",
+        "name":  "Damage",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "None. creatures that might attack it.",
+        "name":  "Treasure",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Str 18, Dex 12, Con 14, Int -, Wis 13, Cha flower must first hit with its slam attack. 11. Climate/Terrain: Temperate and warm forest, jungle Implant Seedpod (Ex): A siren flower can attempt to and underground. implant a seedpod into the anus of any creature with",
+        "name":  "Abilities",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The step from the nezumi\u0027s scavenging have long snouts,pinkears,andpronouncedincisors,likeordi- lifestyle to the life of an adventurer is not a large one, and nary rodents.Theirbodies arecoveredwith roughfur, ranging nezumi adventurersareusuallymotivatedbythesimple desire+\u0027 in shadefrom whitethrough gray and brownto black, some- to makethemostoftheirshortlivesthat they can. timessolidandsometimespatterned.Furpatterns tend to run in ratlingfamilies. NEZUMI RACIAL TRAITS The nezumi have five-fingered hands, opposable thumbs, \" +2 Constitution, -2 Charisma. Nezumi are hale and hardy and sharpclaws.Theirlong tails aremostly hairless and have thesamepink colorationas theirearsandpalms.Theirlegs are butrathercrudebyhumanstandards. bent like thoseofrats andhave only threetoes. Medium-size: As Medium-size creatures, nezumi have no Like humanbarbarians,nezumi oftenwearearrings in their specialbonusesorpenaltiesdueto size. Nezumi base speedis 40feet. piercedears,necklacesmade ofboneorteeth, andsimilarorna- mentationthat humans usuallyconsidersavage. Low-lightVision:Nezumi canseetwiceasfaras ahumanin",
+        "name":  "Adventurers",
+        "source":  "oriental_adventures.txt",
+        "_id":  "e8785e92755d28629c91c552122643ce5fdb032c3649f42a3805f41ebbf4ba58"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Nezumi have a better sense of smell than world, andneverfeel completely at home in themundanelife humans do,and are oftenmore able to distinguishhumans ofahumanvillage. fromeach otherbyscentthanby sight. Asafeat,anezumi As spirits, spiritfolkoftengetalongwell with hengeyokai, with aWisdom of 11 or highercantake Scent.This feat lets andthey mayhavefriendsandallies amongotherspirit races anezumidetect approachingenemies, sniffouthiddenfoes, as well. andtrackbysenseofsmell. Alignment:Perhapsbecauseoftheirstrong tiesto thenatu- Anezumi with the Scent feat candetect opponents by ralworld, spirit folk tend to seek balance betweenextremes. senseofsmellasafree action,generallywithin 30feet.Ifthe Theytend toward neutralalignments. opponentis upwind,therangeis 60feet.Ifit is downwind, Spirit Folk Lands: Spirit folk live among humans, but therange is 1s feet. The nezumi can detect strong scents, usuallynearregionsofuntouchedwilderness-uncutbamboo such as smokeor rottinggarbage, at twicetheseranges.The groves,pure streamsandrivers,anddeepoceanwaters.Unlike nezumicandetectoverpoweringscents,such as skunkmusk hengeyokai, they are more tightly integrated into human ortroglodyte stench,atthreetimestheseranges. communities,boundbyfamilyties.Theydonotusuallyjoinin The nezumi detects anothercreature\u0027s presence butnot communitieswith otherspiritfolk. its specific location. Noting the direction ofthe scent is a Religion: Spirit folk share the religious habits ofhumans, move-equivalent action. If he moves within s feet of the veneratingahost ofspiritsandFortunes.They typicallyvener- scent\u0027ssource,thenezumicanpinpointthat source. atetheirhumanancestorsas wellas theirspirit forebears.",
+        "name":  "Keen Scent",
+        "source":  "oriental_adventures.txt",
+        "_id":  "e8785e92755d28629c91c552122643ce5fdb032c3649f42a3805f41ebbf4ba58"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Spirit folk speak Common in their human making aWisdom checktofindorfollowatrack.Thetypical communities,butcanalso converseintheSpiritTonguethatis DC for a fresh trail is 10. The DC increases or decreases used amongspirit creatures. dependingonhowstrongthequarry\u0027sodoris,thenumberof Names:Spiritfolkusuallyhave humannames,thoughtheir creatures, andtheageofthetrail.Foreachhourthatthetrail givennamesoftenreflecttheirancestry. is cold,the DCincreasesby2.The abilityotherwise follows Adventurers: Some spirit folk feel their difference from therulesfortheTrackfeat.Nezumi trackingbyscentignore theirhumanneighborsmore acutelythan othersoftheirkind, theeffectsofsurfaceconditions andpoor visibility. andtake upthelife ofan adventurerinordertofindtheirown Nezumi with the Scent feat can identify familiar odors way in theworld. Sometimes, sheerwanderlust drives aspirit justas humansdofamiliar sights. folkto exploretheworld. Water, particularly runningwater, ruinsatrail. False, powerful odors caneasily mask other scents.The SPIRIT FOLK RACIAL TRAITS presence of such an odor completely spoils the ability to Theseabilitiesarecommon toallthreesubraces ofspirit folk. properly detect or identify creatures, and thebase Wilder- Medium-size:Asmedium-sizecreatures,spirit folk have no ness Lore DC to trackbecomes20ratherthan 10. specialbonusesorpenaltiesdueto size.",
+        "name":  "Anezumiwith theScentfeatcanfollowtracks bysmell, Language",
+        "source":  "oriental_adventures.txt",
+        "_id":  "e8785e92755d28629c91c552122643ce5fdb032c3649f42a3805f41ebbf4ba58"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "AsdescribedinthePlayer\u0027sHandbook,adventur- samuraiclass, and mercenaries, includingmanymembersof ing is thebestwayforabarbariancharacter-whatever his theYoritomofamily. origin-tofind aplacein civilizedsociety.Though fewbarbar- Fighters in othercampaign settings generallyfollow the ians will ever earn therecognitionofa daimyoor anykind of guidelinesinthePlayer\u0027s Handbook. socialstatus,withanadventuringpartyabarbariancanfeellike Races:In Rokugan, humans arethemostcommon fighters, anequalamong samuraiandshugenjas. Forsome barbarians, butnezumiandShadowlandscreaturescanbecomefighters as thatis enough;othersquestaftertheimpossible,hopingbythe well.Aratlingfighteris unusuallywell trainedforhisspecies, greatnessoftheirdeedstowinaplaceamongthenobility. andmayhave studiedwithaCrabsamurai,forexample.",
+        "name":  "Adventures",
+        "source":  "oriental_adventures.txt",
+        "_id":  "e8785e92755d28629c91c552122643ce5fdb032c3649f42a3805f41ebbf4ba58"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Ronins fallinto twocategories:\"Clanronins\" are raised bythemonks, heimin or hininpeasants, samurai are members ofthegreatclanswhohavefallen outoffavor nobles,retiredgenerals,spirit folk andhengeyokai, andeven with theirlord.Themostcommon reasonforthis is somehow therare ratling,korobokuru,or vanara allmaydedicate their allowingthelord to die-eitherin battle or underan assassin\u0027s livesto enlightenmentandlearnthespiritualandphysicaldis- blade. Clanronins clingto the hope of regaining theirlost ciplines ofamonk.Whatever theirsocial or racial origin, honor. \"Trueronins\"have neverbelonged to oneoftheclans, monksdevote theirwholeloyaltytothepathofenlightenment, usuallycomingfromaroninfamily. claiming kinshiponlywithothermonks, notwith clan or Otherfighters in Rokuganinclude some Scorpion bushi, family.In theCelestialOrderof Rokugan\u0027ssociety, monksare whousuallydonotmeetthealignmentrestrictionofthe equalto thefarmerheimins, whatevertheirbirth. ThemonksofRokuganarevigilantchampionsofenlighten- is generallyunderstood in DUNGEONS \u0026DRAGONS.Rangersare ment,opponentsofthedarkness-whether that darkness is morelikelythan anyothercharactertoventureintothewilder- manifested in theShadowlandsor in simple ignorance. Since ness fortheexpresspurposeofkillingmonsters.Also, they theBattleofOblivion\u0027sGate,themonksofRokuganhavecome work with armies ofsamurai and warriors, leading them to realize that theirphilosophy ofwithdrawal from theworld throughdangerousterrainand scouting outenemypositions. wasnotsufficientto protecttheworldfromdarkness,andthey Background:AmongtheCrabclanofRokugan, theskills of have adoptedamore aggressive strategy ofteachingtheclans rangersaretaught in aformal school, whichprides itselfon thetruths oftheTao.As a result,theranks ofthemonksare being anintegral part ofthe Empire\u0027s defense againstthe swelling,andmanysamuraiandshugenjasarelearning at least Shadowlands. Otherrangers undergomore informal training, thebasicteachingsofShinsei. oftenundertheguidanceofamentororparent.",
+        "name":  "Background",
+        "source":  "oriental_adventures.txt",
+        "_id":  "e8785e92755d28629c91c552122643ce5fdb032c3649f42a3805f41ebbf4ba58"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "d12. tionalability,whichhe canusewhen hehitswithaclawattack. Hisface becomes5feetby10feet. TABLE 3-3:THE BEAR WARRIOR .. Class Base Fort Ref Will Level Attack Bonus Save Save Save Special 1st +1 +2 +0 +2 Bearform (block) 1/day 2nd +2 +3 +0 +3 3rd +3 +3 +1 +3 Scent 4th +4 +4 +1 +4 Bearform (brown) 2/day 5th +5 = - +4 +1 +4 Extraraging 6th +6 +5 +2 +5 8th +8 +6 +2 +6 Bearform (dire) 3/day 9th +9 +6 +3 +6 10th +10 +7 +3 +7 Extra raging At8thlevel,thebearwarriorcanassumebearform threetimes eachday(while in a rage,fury, or hi frenzy)andcan choose betweenblack, brown,anddirebearforms.Indire bearform,the bearwarrior\u0027sStrengthincreasesby+20, hisDexterityby+2,and hisConstitutionby +8. He gains a+7naturalAC bonus, and becomes size Large. Hisclaw attacksdeal 2d4points ofdamage plus hisStrengthbonus, andhisbite attack deals2d8points of damageplusone-halfhisStrengthbonus.He gainstheimproved grabexceptionalability,whichhecanusewhenhehitswith aclaw attack.Hisface becomes10feetby20feet,andhisreachis 10feet. Scent(Ex):At3rdlevel, abearwarriorgainsthescentspecial ability.This allows thecharacterto detect opponentsbysenseof smellasafreeaction,generallywithin 30feet.Iftheopponentis upwind,therangeis 60feet.Ifit is downwind,therangeis 15 feet.Thebearwarriorcandetectstrongscents,suchas smokeor rottinggarbage, at twicethese ranges.The bear warriorcan detect overpowering scents,such as skunkmusk or troglodyte stench,atthreetimestheseranges. Thebear warriordetectsanothercreature\u0027s presence butnot itsspecificlocation.Notingthedirectionofthescentis amove- equivalent action. Ifhe moveswithin 5feet ofthescent\u0027s source,thebearwarriorcanpinpointthatsource. The bearwarrior canfollow tracks by smell, making a Wisdom checkto find or follow atrack.ThetypicalDC for afresh trailis 10.TheDC increasesordecreasesdependingon howstrong thequarry\u0027s odoris,thenumber of creatures,and theageofthetrail.Foreach hourthat the trailis cold, theDC increasesby2.Theabilityotherwise followstherulesforthe Trackfeat.Bearwarriors trackingbyscentignore theeffectsof surfaceconditions andpoor visibility. Bear warriors canidentify familiar odorsjust as normal humans dofamiliar sights.Water, particularly runningwater, ruinsatrail. False, powerful odorscaneasily mask otherscents.Thepres- ence ofsuch an odorcompletely spoils theabilityto properly detect or identify creatures,and thebase Wilderness Lore DC to trackbecomes20 rather than 10.",
+        "name":  "Hit Die",
+        "source":  "oriental_adventures.txt",
+        "_id":  "e8785e92755d28629c91c552122643ce5fdb032c3649f42a3805f41ebbf4ba58"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Yougain a+2bonusonDisguise andGather infor- Creatures that are immune to stunning attacksarealso mation checks. immunetothisfeat,as areanycreaturesthataremore thanone size categorylargerthan thefeatuser. LUCK OF HEROES [ANCESTOR] You aredescendedfrom the quick-footed andquick-witted POWER ATTACK - IAIJUTSU Hiruma,thearchetypalhunter andscout. [ANCESTOR]",
+        "name":  "Benefit",
+        "source":  "oriental_adventures.txt",
+        "_id":  "e8785e92755d28629c91c552122643ce5fdb032c3649f42a3805f41ebbf4ba58"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Crab. featagainstacreature withtheShadow-",
+        "name":  "Clan",
+        "source":  "oriental_adventures.txt",
+        "_id":  "e8785e92755d28629c91c552122643ce5fdb032c3649f42a3805f41ebbf4ba58"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Aflashpowdergrenadeis effectiveonly when Eggshell grenade, pepper _ 10gp throwninto afiresource,whereit explodes in abrilliantflashof Eggshell grenade, poison smoke 150gp light.Anycreature within 10feet mustmakeasuccessfulForti- Flashpaper (square) \" 5gp tude save(DC10)orbeblindedfor1d4rounds.Thereisnoeffect jade powder (flask) 100gp ifthegrenademisses thefire (thoughthegrenadeis ruined). Liquid smoke(flask) 20gp",
+        "name":  "Flashpowder",
+        "source":  "oriental_adventures.txt",
+        "_id":  "e8785e92755d28629c91c552122643ce5fdb032c3649f42a3805f41ebbf4ba58"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Defi ant. . . . . . . . . . . . . . . . . 44 Anarchic Creature. . . . . . . . . . . . . . . . . . . . . . 107 Encounter Level 8 Sites. . . . . . . . . . . . . . . 165 The Doomguard. . . . . . . . . . . . . . . . . . . . . . . . . . 46 Creating an Anarchic Creature. . . . . . . . 108 Encounter Level 9 Sites. . . . . . . . . . . . . . . 168 Lore of the Doomguard. . . . . . . . . . . . . . . . 47 Astral Kraken. . . . . . . . . . . . . . . . . . . . . . . . . . . 109 Encounter Level 10 Sites. . . . . . . . . . . . . . 171",
+        "name":  "Prestige Class",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Doomlord. . . . . . . . . . . . . . 47 Axiomatic Creature. . . . . . . . . . . . . . . . . . . . . 110 Encounter Level 11 Sites. . . . . . . . . . . . . . 174 The Fated. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49 Creating an Axiomatic Creature . . . . . . 111 Encounter Level 12 Sites. . . . . . . . . . . . . . 178 Lore of the Fated. . . . . . . . . . . . . . . . . . . . . . 50 Dharculus. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112 Encounter Level 13 Sites. . . . . . . . . . . . . . 182",
+        "name":  "Prestige Class",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A bariaur’s name is given to him by his parents. like abilities. It is usually a simple, one- or two-syllable name (the easier • Skills: Bariaurs have keen senses, giving them a +2 racial to be shouted across the hills of Ysgard). Within the fl ock, bonus on Listen and Spot checks. he denotes his parentage by adding “buck of” his father’s • Automatic Languages: Celestial, Common. Bonus Lan- name (or “doe of” the mother’s name, if female); outside guages: Abyssal, Infernal. Bariaurs commonly learn the the fl ock, he relies instead on a fl ock name to indicate the languages of fi endish creatures to better prepare them- extended family to which he belongs. Flock names typi- selves against such threats. cally describe the environments favored by the fl ock, and • Favored Class: Ranger. can change over time. • Level adjustment +1.",
+        "name":  "Names",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Buommans communicate with one the extraplanar subtype when not on another by means of their low, throaty songs, but the Astral Plane. the concepts they convey appear to be more abstract than • Medium: As Medium creatures, buommans have no spe- informational. Contrary to rumor, a buomman does not cial bonuses or penalties due to their size. constantly sing, but instead sings as part of rituals that • A buomman’s base land speed is 30 feet. mark his daily life. The buommans have a song for arriving, • Low-Light Vision: A buomman can see twice as far as a a song for leaving, a song for waking, a song for sleeping, a human in starlight, moonlight, torchlight, and similar song for eating, and countless other songs for far less con- conditions of poor illumination. He retains the ability to crete concepts. Except for these songs, buommans choose distinguish color and detail under these conditions. not to speak any recognizable language, though they are • Skills: +2 racial bonus on Listen and Perform (sing) checks. capable of learning any language they choose. The average All buommans have uncanny hearing and an innate sense buomman, for example, understands Common; he simply of tone and pitch. never speaks it. • Buommans take a vow against speech at an extremely",
+        "name":  "Language",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A water mephling resembles a small, fi sh-scaled Scholarly lore contains two different origin stories for the human with black, bulbous eyes. mephlings. In one, mephlings are planetouched offshoots of Mephlings do not reach adulthood until they are more long-ago unions between mephits and an indeterminate race than 50 years old. The longest-lived members of the race can of humanoids. The other is a darker tale of a megalomaniacal reach an age of well over 200 years. mage seeking to imprint his essence on another race. Relations: Mephlings fi t in equally oddly in virtually all What is true is that a mephling will occasionally be born societies. At best, one is regarded as an exotic curiosity. At to mephit parents. Weaker than their mephit ancestors, worst, one is seen as a friendly stranger, perhaps with a suspi- mephlings are put out of mephit communities as undesir- cious touch of devil, demon, or elemental blood—whatever able runts. They’re left to the mercies of the inhospitable is least welcome by a given culture. Mephlings get along planes. Mephit parents revolted by their humanoid child best with others of their race who have had similar experi- will leave the babe on a hostile plane. Kindly parents will ences. Mephlings also have good relations with halfl ings, place the child on a habitable plane where it will easily be especially those who have traveled widely or who frequently found by other creatures. Sometimes other creatures adopt consort with outsiders. the abandoned baby and it grows to reach adulthood. Alignment: Mephlings tend to have a neutral component",
+        "name":  "Water",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Neraphim cannot afford to be as incon- in this practice. sistent as the plane they inhabit and the game they Religion: Giving some credence to the theory that the hunt—only stern discipline within each neraph house neraphim are a subspecies of slaad, a few neraphim houses keeps its members from succumbing to poverty and worship less bloodthirsty and less insane aspects of the starvation. Each house consists of a bonded group of entities Ssendam and Ygorl (who are normally considered neraphim made up of several related families and one to be, if not slaadi deities, at least very powerful slaadi matriarch. In the time between their Festivals of Spawn- worthy of respect). ing, the various neraphim houses meet only rarely, and Language: Neraphim speak their own language and then often in conflict over disputed hunting grounds. Slaad. Some learn Common, which allows them to better hcaoR .D yb .sullI 620_17920_PlanarHandbook2.indd 12 5/20/04, 11:11:15 AM 13 RACES CHAPTER 1 communicate with creatures of other planes, and some learn • Leap (Ex): Neraphim are natural jumpers. They have a +5 Abyssal and Celestial. racial bonus on Jump checks.",
+        "name":  "Personality",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Tiefl ings WILDREN share no common language. Some learn Infernal or Abys- Over time, the petitioners sal, although since most (spirits of the departed) who have no idea where their arrive in the Wilderness bloodline comes from, of the Beastlands acquire as often as not they choose animal traits, eventually becom- the wrong racial language. A ing celestial beasts or animals. tiefl ing usually learns the lan- Some instead mingle with the guage of her parents as well. beasts they will one day become,",
+        "name":  "Language",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "As a rule, tiefl ings creating new races that are perpetu- use human names until such ally half-animal, half-humanoid. time as they seek to differen- Prominent among these are the tiate themselves from their wildren, beings descended from parents. At that point, they the union of partially trans- often take names that hint at formed dwarf petitioners and their fi endish heritage. Some celestial badgers. choose words of Infernal or Prowling the darkest forests Abyssal that sound menac- of Karasuthra, the Beastlands’ ing, occasionally without even lowest layer, wildren build elabo- knowing the words’ defi nitions. rate underground burrows, which they",
+        "name":  "Names",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The average wildren is chaotic good, tending • Wildren have the scent ability. See page 314 of the Monster toward neutral good. A few are neutral or chaotic neutral. Manual for details.",
+        "name":  "Alignment",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "d6. portal from the bard’s side of the portal, or creatures that would other- Requirements wise arrive at the bard’s location To take a bard planar substitution through the portal, instead arrive level, a character must be about to take at the endpoint of another portal his 3rd, 6th, or 12th level of bard. chosen by the bard this round. The portal to which the bard redirects travelers continues to Class Skills connect to its original destination; if a redirected creature Bard planar substitution levels have the class skills of the attempts to go back through the bard-infl uenced portal, standard bard class. it doesn’t return to the bard’s location, but instead to that",
+        "name":  "Hit Die",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Knowledge (the you can cast. (Work with the planes) 2 ranks. DM to select creatures appro-",
+        "name":  "Prerequisite",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Choose any planar touchstone for which you in the same way as a normal familiar. The familiar uses the have previously fulfilled the higher-order recharge condi- basic statistics for a creature of its kind, as given in the tion (see page 154); this is now your personal touch stone. Monster Manual or this book, except as noted below.",
+        "name":  "Benefit",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You can take this feat more than once. Each good-aligned plane.” He couldn’t apply it to a summoned time, you gain the base ability to retain one more planar celestial lion (chaotic good), since the lion’s alignment touchstone location in addition to your previous ability. has at least one component (chaotic) that is opposed to You also gain the capacity to retain uses of one more planar the alignment traits of the Seven Mounting Heavens of touchstone’s higher-order ability. Thus, you could retain Celestia (lawful). the base abilities for both the Breaching Obelisk and Echo- lost (planar touchstone locations described in Chapter 7), as Water Heritage [Heritage] well as both sites’ higher-order uses, simultaneously. If you You are descended from creatures native to the Elemental then visit a third planar touchstone and fulfi ll its recharge Plane of Water. You share some of your ancestors’ natural condition, unless you have taken this feat three times, you aquatic talents. must choose which of your two previous touchstone site Benefi ts: You gain a swim speed of 20 feet, or your exist- abilities to lose when you gain the abilities of the third ing swim speed increases by 20 feet. touchstone site. Also, you gain a +4 bonus on Constitution checks made to hold your breath. Shadow Heritage [Heritage] Special: A creature with a swim speed also gains a You are descended from creatures native to the Plane of +8 racial bonus on Swim checks made to perform some Shadow. You share some of your ancestors’ natural stealth, special action or avoid a hazard, and can take 10 on a but only in areas of dim or no illumination. Swim check even if distracted or endangered. It can use",
+        "name":  "Special",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Wing is capable of learning two tricks in cess with never-ending vigor. According to “takers” (as addition to any that Cado might choose to teach it (see members of the Fated are called), anyone can be great, but the Handle Animal skill, page 74 of the Player’s Handbook). greatness is not guaranteed. Hard work must come fi rst, These bonus tricks don’t require any training time or and follow after. Handle Animal checks, and they don’t count against the Takers belong to the Fated faction, which advocates, normal limit of tricks known by the creature. Cado has among other things, survival of the fi ttest. Some interpret selected guard and fetch as bonus tricks and often uses the takers’ philosophy as “If you can take it and keep it, you Wing to retrieve his annulats. were meant to have it,” but others see that as a simplistic Evasion (Ex): If Wing is exposed to any effect that view. Takers believe that success is not just the accumula- normally allows it to attempt a Reflex saving throw tion of physical comforts and conquering enemies by force. for half damage, it takes no damage with a successful More than that, success is partly determined by the respect saving throw. of others. With respect, simple happiness is a measure of 620_17920_PlanarHandbook2.indd 49 5/20/04, 12:48:10 PM 50 3 RETPAHC EGITSERP SESSALC success. For some, this road is reached by kindness without NPC fatemakers can be found at the heads of successful weakness, compassion without cowardice; for others with a ventures or scrambling to reach the head. Others fi nd suc- more heartless outlook, happiness is gained only by depriv- cess in maintaining collections, doing deeds of good (or ing others of it. bad), or as important functionaries in government.",
+        "name":  "Bonus Tricks",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Not traditional mounts, elsewhales are Vehicles related to seagoing whales. An elsewhale has the ability to Why settle for a chariot when you can purchase an ethereal slip between planes, as long as the original plane and the tunneler or a gate zeppelin? By using the vehicles described destination plane have suitable bodies of water in which here, characters can go anywhere—assuming they have the the elsewhale can swim. cash to pay for such an extravagance. Travelers do not ride on elsewhales; they ride within, Refer to the sidebar in this section for details in the creature’s mouth. The mouth cavity of an adult on how to read a vehicle’s statistics block. elsewhale is large enough to hold 1 Large, 4 Medium, or Astral Skiff: Huge vehicle; Pro- 16 Small creatures in the dark, cramped, and somewhat fession (sailor) +0; Spd fly 120 ft. moist environment. (average); Overall AC 3; Section hp 40 A “stable” housing even (hardness 10); Section AC 3; Ram 4d8; a single elsewhale requires Face 15 ft. by 5 ft.; Height 10 ft.; SA ram- access to the sea or ocean. ming; Crew 1 (carries 3); Cargo 1 ton",
+        "name":  "Elsewhale",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The size of the vehicle, using the same size categories followed by the section hit points and hardness of the vehicle as for creatures. itself. Large or smaller vehicles do not have sections and lack a",
+        "name":  "Size",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Some enterprising wealthy mer- ture with anarchic water only if he is adjacent to it. Doing chant guilds or consortiums have established pairings of so is a ranged touch attack that does not provoke attacks planar ring gates. These lead from one well-guarded loca- of opportunity. tion in a planar metropolis to a similarly protected spot A direct hit by a fl ask of anarchic water deals 2d4 points in another. On occasion, the owner of a pair of planar ring of damage to a lawful outsider. Each such creature within 5 gates may move them to a requested location, provided that feet of the point where the fl ask hits takes 1 point of damage the task is easily done and that the new environment is from the splash. safe. The larger the risk, the larger the cost. Antitrait Grease: Antitrait grease is made in four",
+        "name":  "Planar Ring Gates",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This 2-inch-diameter metallic orb and Tumble checks. The creature also gains damage reduc- resembles an eye, though streamlined and idealized. tion 1/adamantine. These eyes are purportedly salvaged from secret grave- Elementals with the earth subtype that are exposed to yard cogs on Mechanus, where a demolished race who this pure element gain a +2 enhancement bonus to Con- once claimed the plane now lies forgotten. Anyone look- stitution. Elementals with the air subtype take 2d6 points ing through a Mechanus eye gains a +1 competence bonus of damage (this effect overcomes the damage reduction of on Search checks. such creatures).",
+        "name":  "Mechanus Eye",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One creature of 5 HD or fewer flees for 5 Break Enchantment: Frees subjects from enchantments, 1d4 rounds. alternations, curses, and petrifi cation. 2 Bull’s Strength: Subject gains +4 to Strength for 1 Summon Monster V: Calls extraplanar creature to fi ght min./level. for you (CG creatures only).",
+        "name":  "Cause Fear",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Calls extraplanar creature to for you (LG creatures only). fi ght for you (LE creatures only). 6 Blade Barrier: Wall of blades deals 1d6/level damage. 4 Deeper Darkness: Object sheds supernatural shadow in Bear’s Endurance, Mass: As bear’s endurance, affects one 60-ft. radius. subject/level.",
+        "name":  "Summon Monster III",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Calls extraplanar creature to fi ght for you (LG creatures only). fi ght for you (LE creatures only). ELYSIUM 8 Demand: As sending, plus you can send suggestion.",
+        "name":  "Summon Monster VII",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Calls extraplanar creature to fi ght Granted Power: You gain the supernatural ability to for you (LE creatures only). smite evil with a single melee attack once per day. You add your Charisma bonus (if any) to your attack roll and deal CELESTIA an extra 1 point of damage per class level. This smite attack",
+        "name":  "Summon Monster IX",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Damages and sickens good creatures. Otto’s Irresistible Dance: Forces subject to dance. 5 Crushing Despair: Subject take –2 on attack rolls, 9 *Perinarch, Planar: Gain control over a small area of any damage rolls, saves, and checks. divinely morphic plane.",
+        "name":  "Unholy Blight",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+4 bonus against attacks by good creatures. ShapechangeF: Transforms you into any creature; change 6 Mind Fog: Subjects in fog get –10 to Wisdom and Will forms once per round. checks. MECHANUS",
+        "name":  "Dispel Good",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Hide a color pool on the Astral Plane from Attune Form: Grant target creature temporary protection view. against overtly damaging planar traits.",
+        "name":  "Cloak Pool",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Summon an Elysian thrush, Devil Blight: Damage and confuse baatezu; damage other which accelerates natural healing. lawful and evil creatures.",
+        "name":  "Summon Elysian Thrush",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "While on the Astral Plane, open a portal to Planar Exchange, Greater: Trade places with one of three a demiplane so natural healing can occur. greater planar creatures (your choice).",
+        "name":  "Astral Hospice",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Paralyze creature with your glare. cheat time.",
+        "name":  "Evil Glare",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Provides long-term protection against Beastland Ferocity: Subject fi ghts without penalty while overtly damaging planar traits. disabled or dying.",
+        "name":  "Planar Tolerance",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Your body explodes when you die. Attune Form: Grant target creature temporary protection",
+        "name":  "Death Throes",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Kill evil creatures with a look, or make against overtly damaging planar traits. them very afraid. Babau Slime: Secrete a body-covering acid that damages",
+        "name":  "Opalescent Glare",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Trade places with one of three planar Planar Tolerance: Provides long-term protection against creatures (your choice). overtly damaging planar traits.",
+        "name":  "Planar Exchange",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You gain an overview of the geography Necro Evil Glare: Paralyze creature with your glare. around you. Trans Attune Form: Grant target creature temporary",
+        "name":  "Lay of the Land",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One or more living by the energy of a major positive- creatures touched dominant plane and automati-",
+        "name":  "Target",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1 standard action Target: Creature touched Range: Touch",
+        "name":  "Casting Time",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creature touched",
+        "name":  "Transmutation Target",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Flask of water touched Saving Throw: None vive inherent in every creature. The",
+        "name":  "Target",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Living creature or creatures Conjuration (Calling) [Lawful] deny the grave. The inevitable does touched (up to one/level) Level: Cleric 7, sorcerer/wizard 7 not ask for any payment for the task.",
+        "name":  "Target",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A small vial of table does not ask for any payment for (though you might get a different smoke. the task. After seven days, or if asked creature, anyway). to do something nonlawful, frivolous, You may ask the zelekhut to per- Bodak’s Glare or not focused on its lawful objective, form one duty for you. The task must Necromancy [Death, Evil] the kolyarut will leave. be in harmony with its lawful objec-",
+        "name":  "Material Component",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One living creature Level: Cleric 9, sorcerer/wizard 9 ment. The inevitable does not ask",
+        "name":  "Target",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "V, S destroyed in an explosion of energy Target: Living creature",
+        "name":  "Components",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Living creature touched foot-radius burst. Saving Throw: None or Will partial;",
+        "name":  "Target",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One color pool Duration: 1 min./level The creatures obey you explicitly",
+        "name":  "Target",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Four drops of though only once per round, as a Range: Touch colored ink. free action. Unattended objects fall, Target: Living creature touched as normal. Duration: 1 min./level",
+        "name":  "Material Component",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Living creature his personal gravity. A character fall- By touching a living creature and",
+        "name":  "Target",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Two or more summoned crea- later, 1d4 chain devils appear. Ten Level: Cleric 9 tures, no two of which can be more minutes after that, one bone devil Components: V, S than 30 ft. apart appears. Each creature has maximum Casting Time: 1 minute",
+        "name":  "Effect",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "None creatures appear, they serve you for level)",
+        "name":  "Saving Throw",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "V, S, M/DF of your language). The pack fi ends and never attack you, even if someone Casting Time: 1 standard action are treated as trained hunting beasts, else manages to gain control over Area: 20-ft. radius, centered on you so you can command them to track if them. You do not need to concentrate Duration: 1 round/level (D) you so choose. to maintain control over the creatures. Saving Throw: None",
+        "name":  "The creatures obey you explicitly Components",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creature touched tion are ruined. Target: 1 living creature",
+        "name":  "Target",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Instantaneous on your turn, every living creature Saving Throw: None (object) and",
+        "name":  "Duration",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "V, S the effect. Illus. by E. Fiegenschuh 620_17920_PlanarHandbook2.indd 103 5/20/04, 1:05:47 PM 104 5 RETPAHC SLLEPS Precipitate Complete Breach The warded creature gains partial pro- You can permanently seal an inter- Conjuration (Teleportation) tection against positive energy effects. planar portal or gate. If cast on a",
+        "name":  "Components",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Living creature touched Target: Creature touched Range: Close (25 ft. + 5 ft./2 levels)",
+        "name":  "Target",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "10 min./level Duration: 10 min./level Target: One creature",
+        "name":  "Duration",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Undead creature touched Casting Time: 1 action Effect: One summoned babau demon",
+        "name":  "Target",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Pipes, smite law ANARCHIC CREATURE",
+        "name":  "Special Attacks",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Damage reduction 5/cold iron, Anarchic creatures dwell in planes of chaos, the realms of dis- darkvision 60 ft., fast healing 1, immunity to poly- order. Although they may resemble creatures from the Mate- morph and petrifi cation, low-light vision, resistance rial Plane, they appear less fi nished, their features more rough to acid 5, cold 5, electricity 5, fi re 5, and sonic 5 and uneven, their fur or scales blotched and tattered, their Saves: Fort +2, Ref +5, Will +5 appearance more ragged and horrifi c. They are also called the Abilities: Str 10, Dex 13, Con 12, Int 12, Wis 13, Unfi nished, and some say they were fi rst drafts, abandoned Cha 13 to the roiling planes of chaos by forgotten creators. Skills: Bluff +9, Diplomacy +3, Disguise +1 (+3 acting), Hide +13, Intimidate +3, Knowledge SAMPLE ANARCHIC CREATURE (nature) +9, Listen +15, Move Silently +13, Per- form (wind instruments) +9, Spot +15, Survival Anarchic Satyr +1 (+3 above ground) Medium Fey (Extraplanar) Feats: AlertnessB, Dodge, Mobility",
+        "name":  "Special Qualities",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Standard ANARCHIC CREATURE",
+        "name":  "Treasure",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Satyrs have a +4 racial bonus on Hide, Listen, —Immunity to polymorph and petrifi cation. Move Silently, Perform, and Spot checks. —Fast healing (see the table below). pqqqqqqqqqqqqqqqqqqqqrs MONSTERS BY TYPE (AND SUBTYPE)",
+        "name":  "Skills",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "anarchic satyr, astral kraken, axiomatic dragonne, Elysian thrush, gaspar, Limbo stalker, pack fiend, ur’Epona. dharculus, dwarf (frost), elementite swarm, elsewhale, Elysian Ooze: shadow jelly, void ooze. thrush, energon, entropic ogre mage, gaspar, gnome (fire), Outsider: energon, entropic ogre mage, lesser nightmare, Limbo stalker, nightmare (lesser), pack fiend, shadow jelly, unraveler, vivacious dire tiger. unraveler, ur’Epona, vivacious dire tiger, void ooze. (Swarm): elementite swarms. (Evil): lesser nightmare, pack fiend. (Water): water elementite swarm. pqqqqqqqqqqqqqqqqqqqqrs smaR .V yb .sullI 620_17920_PlanarHandbook2.indd 108 5/20/04, 1:06:05 PM Astral kraken 109 THE PLANES CREATURES OF CHAPTER 6",
+        "name":  "Extraplanar",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Same as the base creature, but Intelligence is at reaches out with segmented tentacles, feeling the air around least 3. it for prey.",
+        "name":  "Abilities",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Up to 3 HD, same as the base crea- ture; 4 HD to 7 HD, same as the base creature +1; 8 or more HD, same as the base creature +2.",
+        "name":  "Challenge Rating",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "40 ft. (8 squares), fl y 30 ft. An axiomatic creature uses all the base creature’s statis-",
+        "name":  "Speed",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Fort +9, Ref +8, Will +4 Smite Chaos (Su): Once per day, the creature can make a",
+        "name":  "Saves",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Blind-Fight, Combat Refl exes, Improved Initiative, Special Qualities: An axiomatic creature retains all the Track special qualities of the base creature and also gains the fol-",
+        "name":  "Feats",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Double standard If the creature has 12 or more Hit Dice, these resistances",
+        "name":  "Treasure",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+8 (cohort) (maximum 25). —Linked Minds (Ex): Axiomatic creatures of the same kind Combat within 300 feet of one another are in constant communica- Linked Minds (Ex): Axiomatic dragonnes within 300 tion. If one is aware of a particular danger, they all are. If feet of one another are in constant communication. If one one in the group is not fl at-footed, none of them are. No is aware of a particular danger, they all are. If one in the axiomatic creature in the group is considered fl anked unless group is not flat-footed, none of them are. No axiomatic all of them are. dragonne in the group is considered flanked unless all of If the base creature already has one or more of these spe- them are. cial qualities, use the better value. Pounce (Ex): If an axiomatic dragonne charges, it can Abilities: Same as the base creature, but Intelligence is make a full attack in the same round. at least 3. Roar (Su): An axiomatic dragonne can loose a devastat- Environment: Any lawful-aligned plane. ing roar every 1d4 rounds. All creatures except dragonnes Challenge Rating: Up to 3 HD, as the base creature; 4 within 120 feet must succeed on a DC 15 Will save or to 7 HD, as the base creature +1; 8 or more HD, as the base become fatigued. Those within 30 feet who fail their saves creature +2. become exhausted. Alignment: Always lawful (any). Smite Chaos (Su): Once per day, an axiomatic drag- Level Adjustment: As the base creature +4. onne can make a normal attack to deal extra damage equal to its Hit Dice (maximum 20 points) against a cha- otic opponent.",
+        "name":  "Level Adjustment",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A light load for an axiomatic drag- onne is up to 348 pounds; a medium load, 349–699 pounds; and a heavy load, 700–1,050 pounds. Illus. by A. Swekel 620_17920_PlanarHandbook2.indd 111 5/20/04, 1:06:20 PM Dharculus 112 6 RETPAHC FO SERUTAERC SENALP EHT DHARCULUS The dharculus is a creature from an alternate reality far Medium Aberration (Extraplanar) from the Material Plane, and perhaps beyond the planar",
+        "name":  "Carrying Capacity",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+6 these creatures are dependent on some element from their",
+        "name":  "Initiative",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "9 a standard action. Creatures",
+        "name":  "Challenge Rating",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "9–11 the dharculus. Because HD (Large); 12–24 the monster is dual- HD (Huge) planar and therefore",
+        "name":  "Advancement",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Fort +2, Ref +7, Will +2 Elementite swarms have very little intelligence. Like all Abilities: Str 10, Dex 15, Con 10, Int 2, Wis 11, Cha 11 swarms, they attack by moving into an opponent’s space, Skills: Hide +10, Listen +7, Spot +7 provoking an attack of opportunity. An elementite swarm Feats: Alertness, Dodge, Improved Initiative can occupy the same space as an opponent of any size, but it Environment: Elemental Plane of Air remains a creature with a 10-foot space. Swarms never make Organization: Solitary, cloud (2–4 swarms), thunderhead attacks of opportunity. (7–12 swarms) Unlike other creatures with a 10-foot space, an elemen- Challenge Rating: 4 tite swarm is shapeable. It can occupy any four contiguous Treasure: None 5-foot squares, and it can squeeze through any space large Alignment: Usually neutral enough to contain a Tiny creature. Advancement: —",
+        "name":  "Saves",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Swarm (2d6) roll over terrain and creatures, pulverizing anything in Space/Reach: 10 ft./0 ft. the way.",
+        "name":  "Full Attack",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Distraction Distraction (Ex): Any living creature vulnerable",
+        "name":  "Special Attacks",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Str —, Dex 17, Con 12, Int 7, Wis 10, Cha 18 Xac-yels target fur-covered or large creatures before attack-",
+        "name":  "Abilities",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Incorporeal touch +7 melee (1d6 plus 2d6 acid) or This creature looks like a fireball with two eyes peering out of it energy ray +7 ranged touch (1d8 acid) and fiery tentacles trailing behind it.",
+        "name":  "Attack",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "4 incorporeal touches +7 melee (1d6 plus 2d6 acid) or energy ray +7 ranged touch (1d8 acid) The xac-yel prefers an exceptionally hot, dry environ- Space/Reach: 5 ft./5 ft. ment. This fi re-based energon and its cold-based cousin, Special Attacks: — the xor-yost, tend to be the most social of all energons. If nitraM .D yb .sullI 620_17920_PlanarHandbook2.indd 120 5/20/04, 1:07:00 PM 121 THE PLANES CREATURES OF CHAPTER 6",
+        "name":  "Full Attack",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Diplomacy +6, Hide +9, Knowledge (the planes) +6, The air around this jellyfishlike creature crackles and pulses with electrical energy. Search +6, Sense Motive +8, Spot +8, Survival +8 (+10 on other planes)",
+        "name":  "Skills",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "4 incorporeal touches +8 melee (1d6 plus 2d6 A xac-yij focuses its attacks on smaller creatures fi rst, before sonic); or energy ray +8 ranged touch (1d8 sonic) attacking larger ones. Space/Reach: 5 ft./5 ft.",
+        "name":  "Combat Full Attack",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Fort +10, Ref +4, Will +4 ENTROPIC CREATURE",
+        "name":  "Saves",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Hide +8, Knowledge (the planes) +6, Search +6, Sense Entropic creatures dwell on the Negative Energy Plane. In Motive +8, Spot +8, Survival +8 (+10 on other planes) addition to large quantities of undead, entropic creatures",
+        "name":  "Skills",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "5 CREATURE",
+        "name":  "Challenge Rating",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "6–9 HD (Medium); mage as the base creature. 10–15 HD (Large)",
+        "name":  "Advancement",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Str 21, Dex 10, Con 19, CREATURE Int 14, Wis 14, Cha 19",
+        "name":  "Abilities",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Negative Energy Plane or vermin (referred to hereafter as the base creature).",
+        "name":  "Environment",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Solitary An entropic creature uses all the base creature’s statistics",
+        "name":  "Organization",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Double standard Size and Type: Unless the creature was undead, its",
+        "name":  "Treasure",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Usually lawful evil type changes to outsider. Do not recalculate the creature’s",
+        "name":  "Alignment",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+9 The creature also gains the extraplanar subtype.",
+        "name":  "Level Adjustment",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Increase from the base creature as follows: Constitution +2, Charisma +2. Intelligence is at least 3.",
+        "name":  "Abilities",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The Negative Energy Plane or same as the base creature.",
+        "name":  "Environment",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "3 HD or fewer, as the base creature +1; 4 to 7 HD, as the base creature +2; 8 or more HD, as the base creature +3.",
+        "name":  "Challenge Rating",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Gore +20 melee (2d8+8) and 4 lesser gores +15 A wide rack of antlers crowns the head of this massive, staglike beast. Four lesser sets of antlers protrude from its shoulders and melee (2d6+8) and 2 hooves +15 melee (1d6+8) hips, giving it impressive protection. Space/Reach: 15 ft./10 ft.",
+        "name":  "Full Attack",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Fort +17, Ref + 11, Will +4 Wilderness of the Beastlands.",
+        "name":  "Saves",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Wilderness of the Beastlands species, and most creatures leave them alone. If harassed or",
+        "name":  "Environment",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Always neutral evil has concealment against creatures 5 feet away Advancement: 9–12 HD (Large); 13–16 HD (Huge) and total concealment against creatures 10 feet Level Adjustment: — or farther away. The smoke does not obscure the nightmare’s vision at all. This vicious beast looks like a cross between a wolf and a cockroach. Its sleek, elongated head sports",
+        "name":  "Because of the smoke it gives off, a nightmare Alignment",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Pack fi ends gain a +4 racial bonus on Hide, Move COMBAT Silently, and Survival checks. Shadow jellies lurk in the darkest of dark places, waiting TRAINING A PACK FIEND for living prey to happen by. On the Plane of Shadow, they Trained pack fi ends are highly valued as hunting beasts. gravitate toward the darklands, from where they originate. A pack fi end requires training before it can hunt on com- When prey presents itself, a shadow jelly lurches forward mand. Training a pack fi end requires six weeks of work and out of hiding, seeking to get a grip on its opponent. Once a DC 25 Handle Animal check. it has caught a foe, a shadow jelly withdraws to its hiding place, even if it is still under attack. It changes tactics only if it loses its grip on its foe. SHADOW JELLY Strength Damage (Su): The touch of a shadow jelly deals Large Ooze (Extraplanar) 1d6 points of Strength damage to a living foe. A creature",
+        "name":  "Skills",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— This creature resembles a pool of undulating darkness—a patch of mobile gloom. Illus. by D. Martin 620_17920_PlanarHandbook2.indd 129 5/20/04, 1:08:03 PM Unraveler 130 6 RETPAHC FO SERUTAERC SENALP EHT UNRAVELER creature manages to control the effect (see below), it unrav- Large Outsider (Extraplanar, Incorporeal, Lawful) els over the course of 2d4 rounds, until it has decomposed",
+        "name":  "Level Adjustment",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "9 an affl icted creature but fi xes its form for the",
+        "name":  "Challenge Rating",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Solitary vermin (referred to hereafter as the base creature).",
+        "name":  "Organization",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "11 A vivacious creature uses all the base creature’s statistics",
+        "name":  "Challenge Rating",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Always neutral Size and Type: The creature’s type changes to outsider.",
+        "name":  "Alignment",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— type. Do not recalculate the creature’s Hit Dice, base attack bonus, or saves. Size is unchanged.",
+        "name":  "Level Adjustment",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  " Combat A vivacious creature A vivacious dire tiger’s retains all the special higher-than-animal attacks of the base intelligence makes creature, although those it aware of the deadly relying on physical contact power of its positive do not affect nonethereal energy ray and positive energy creatures. It also gains the aura when used against hale following special attack. and hearty foes. Positive Energy Ray (Su): Against an ethe- A vivacious creature can fi re a real opponent, a positive energy ray once every 1d4 dire tiger attacks by rounds with a range of 60 feet. running at its prey, With a successful ranged touch attack, leaping, and clawing the vivacious creature infuses a target with positive energy and biting as it rakes equal to 1d4 + its Cha modifi er. This attack damages undead with its rear claws. and heals living creatures. Creatures that exceed their full Improved Grab (Ex): To use this ability, a dire tiger must normal hit points from this effect need to make Fortitude hit with its bite attack. It can then attempt to start a grapple as saves as if in a positive-dominant environment. a free action without provoking an attack of opportunity. If it Special Qualities: A vivacious creature has all the spe- wins the grapple check, it establishes a hold and can rake. cial qualities of the base creature. In addition, it gains the Pounce (Ex): If a dire tiger charges, it can make a full following special qualities. attack, including two rake attacks. Fast Healing (Ex): Vivacious creatures regain hit points at a Rake (Ex): Attack bonus +18 melee, damage 2d4+4. rate of 5 hit points per round.",
+        "name":  "Special Attacks",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Increase from the base creature as follows: Environment: Negative Energy Plane Constitution +2, Charisma +2. Intelligence is at least 3. Organization: Solitary, midnight (2–7)",
+        "name":  "Abilities",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "8 Strength score. Treasure: None",
+        "name":  "As an incorporeal creature, a vivacious creature has no Challenge Rating",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "3 HD or fewer, as the base creature Level Adjustment: — +1; 4 to 7 HD, as the base creature +2; 8 or more HD, as the base creature +3. An area of darkness blacker than black seems to absorb light. It vaguely resembles a great flying black slug.",
+        "name":  "Challenge Rating",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "It’s a good idea for characters Upper Planes or Lower Planes may not allow alcohol, public to get to know one location fairly well. The city of Sigil provides gatherings, interspecies fraternization, or the unlicensed com- the friendliest starting point and is the most hospitable to those missioning of work for hire. new to the planes. Tu’narath and the City of Brass provide other Give each plane its own flavor, and appreciate it for the place interesting destinations, as the three cities all offer very differ- it is. Also, bear in mind that different areas on the same plane ent experiences. Union (described in the Epic Level Handbook) can be substantially different. One glance at the diversity of the makes an ideal location for high-level epic play. Material Plane is enough to demonstrate that. pqqqqqqqqqqqqqqqqqqqqrs 620_17920_PlanarHandbook2.indd 136 5/20/04, 1:08:43 PM TTToooppp VVViiieeewww ssshhhooowwwiiinnnggg mmmaaaiiinnn ppplllaaannnaaarrr rrreeelllaaatttiiiooonnnssshhhiiipppsss KKKeeeyyy MMMaaattteeerrriiiaaalll PPPlllaaannneee 111))) MMMaaattteeerrriiiaaalll PPPlllaaannneee TTTrrraaannnsssiiitttiiivvveee PPPlllaaannneeesss 222))) EEEttthhheeerrreeeaaalll PPPlllaaannneee*** 333))) PPPlllaaannneee ooofff SSShhhaaadddooowww*** 444))) AAAssstttrrraaalll PPPlllaaannneee IIInnnnnneeerrr PPPlllaaannneeesss 555))) PPPooosssiiitttiiivvveee EEEnnneeerrrgggyyy PPPlllaaannneee 666))) EEEllleeemmmeeennntttaaalll PPPlllaaannneee ooofff FFFiiirrreee DDD\u0026\u0026\u0026DDD CCCooosssmmmooolllooogggyyy::: 777))) EEEllleeemmmeeennntttaaalll PPPlllaaannneee ooofff EEEaaarrrttthhh 888))) NNNeeegggaaatttiiivvveee EEEnnneeerrrgggyyy PPPlllaaannneee TTThhheee GGGrrreeeaaattt 999))) EEEllleeemmmeeennntttaaalll PPPlllaaannneee ooofff WWWaaattteeerrr 111000))) EEEllleeemmmeeennntttaaalll PPPlllaaannneee ooofff AAAiiirrr WWWhhheeeeeelll OOOuuuttteeerrr PPPlllaaannneeesss 111111))) CCCeeellleeessstttiiiaaa 111222))) BBByyytttooopppiiiaaa 111333))) EEElllyyysssiiiuuummm 111444))) TTThhheee BBBeeeaaassstttlllaaannndddsss 111555))) AAArrrbbbooorrreeeaaa 111666))) YYYsssgggaaarrrddd 111777))) LLLiiimmmbbbooo 111888))) PPPaaannndddeeemmmooonnniiiuuummm 111999))) TTThhheee AAAbbbyyyssssss 222000))) CCCaaarrrccceeerrriii SSSiiidddeee VVViiieeewww 222111))) TTThhheee GGGrrraaayyy WWWaaasssttteee 222222))) GGGeeehhheeennnnnnaaa ssshhhooowwwiiinnnggg OOOuuutttlllaaannndddsss cccooonnnnnneeecccttteeeddd 222333))) TTThhheee NNNiiinnneee HHHeeellllllsss tttooo aaallllll ooottthhheeerrr ooouuuttteeerrr ppplllaaannneeesss 222444))) AAAccchhheeerrrooonnn 222555))) MMMeeeccchhhaaannnuuusss 222666))) AAArrrcccaaadddiiiaaa 222777))) TTThhheee OOOuuutttlllaaannndddsss *** TTThhheee EEEttthhheeerrreeeaaalll PPPlllaaannneee aaannnddd ttthhheee PPPlllaaannneee ooofff SSShhhaaadddooowww aaarrreee cccoooeeexxxiiisssttteeennnttt wwwiiittthhh ttthhheee MMMaaattteeerrriiiaaalll PPPlllaaannneee... 137 SITES PLANAR CHAPTER 7 620_17920_PlanarHandbook2.indd 137 5/20/04, 1:08:45 PM 138 7 RETPAHC RANALP SETIS even the existence of these extradimensional spaces is stomach the moral perversity of the City of Brass should constantly changing. steer clear. Those new to the city should ask after Melchoir the Mer- Union chant (LE male efreeti, expert 3). Melchoir, a wily creature A trading city located on a demiplane named Union, formed who puts business fi rst despite his personal hobbies, knows eighty years ago, has become known for the extreme volume that all contacts have a seed of potential for future lucrative of trade moving through its streets, as well as for the excep- contracts. He sees foreign travelers who are enterprising tional abilities of many of its citizens. Union is described at and brave enough to visit the fabled City of Brass as likely length in the Epic Level Handbook. to continue their travels and exploits, perhaps gaining great fame and wealth in the process. And Melchoir makes a GEOGRAPHY OF THE PLANES point of staying friends with the wealthy and famous. It’s The Dungeon Master’s Guide provides a cogent description all about business. of all the planes, which serves as the perfect springboard To this end, he offers lavish accommodations and meals for utilizing the information in this book. However, if you in his mansion for the meager price of 2 gp per day or per really desire to plumb the depths of all things planar, see meal. He provides travelers with contacts and additional tips Manual of the Planes for an exhaustive treatment of planar concerning the City of Brass, though he will never stick his topics from a DM’s perspective. neck out for his guests should they anger the Grand Sultan or the Sultan’s agents. PLANAR METROPOLISES Entering and Exiting the City of Brass From a player’s perspective, adventuring on the planes Several interplanar portals connect various parts of the City may at fi rst seem a daunting undertaking. While it is true of Brass to other planar locations, though most of these por- that lower-level adventurers rarely possess the resources to tals are privately controlled. If players can locate any land- branch out to the planes, other-planar explorations are in ing on the Infi nite Staircase (see the sidebar), a technique some ways limited more by ignorance than ability. This that often proves useful for fi nding the City of Brass is to section seeks to give characters a few starting points from follow the staircase that leads in the warmest direction. which they can get a toehold on the planes. Though simplistic, some enchantment laid on the Infi nite Staircase grants this method validity, and eventually a land- THE CITY OF BRASS ing will spit travelers out on the Elemental Plane of Fire, The City of Brass, home to powerful efreet lords, is found on with the towers of the City of Brass visible across the fi re- the Elemental Plane of Fire. Cradled in a brass hemisphere cracked plain. Unfortunately for them, travelers must cross 40 miles across, the city fl oats above a plate of cracked the plane before entering the city proper. obsidian. Here, trade fl ourishes among the Inner Planes. In addition, travelers and merchants from every corner of the City of Brass (Metropolis): Conventional; AL LE; 300,000 multiverse conduct business. The Grand Sultan rules from gp limit; Assets 750,000,000 gp; Population: 500,000 free his Charcoal Throne in the Burning Palace of the Grand residents (40% efreet, 15% salamanders [flamebrothers, Sultan of All the Efreet at the center of the city. average, noble], 15% mephits [fi re, magma, and steam], 15% The city has normal gravity and time. The fi re-dominant humanoids [humans, elves, halfl ings, and so on], 3% azer, trait is suppressed by the will of the ruler, the Grand Sultan. 3% magmin, 1% thoqqua, 8% other) and 1,000,000 slaves Traveler’s Tip: Located on the Elemental Plane of Fire, (25% elementals, 18% mephits [fire, magma, and steam], the City of Brass is an artifi cial island free of the plane’s 15% humanoids [humans, elves, halfl ings, and so on], 12% fi re-dominant trait. Here, travelers and traders can conduct thoqqua, 7% azer, 7% magmin, 6% salamanders [fl amebroth- business, and efreet can grant audiences to those not hard- ers or average], 1% efreet, 9% other). ened against the fi res. Of course, all travelers need to keep Authority Figures: Marrake al-Sidan al-Hariq ben Lazan, in mind the lawful evil nature of the place—those who can’t Grand Sultan of All the Efreet (LE male efreeti, sorcerer pqqqqqqqqqqqqqqqqqqqqrs THE INFINITE STAIRCASE in radiant space, where no two steps share the same gravita- The Infinite Staircase is a mystery. It leads to all places, tional orientation. It is said that a traveler can find her heart’s though the trick is finding an exit. When one finds an open- desire somewhere on the Infinite Staircase if each landing is ing onto the staircase, the journey usually begins on a small searched long enough. landing with a nondescript stairway leading off. Travelers on The origin and purpose behind the Infinite Staircase remain a the Infinite Staircase see its appearance vary from simple mystery. It is unknown whether the staircase is truly infinite or stairs of wood or stone to a chaotic jumble of stairs hanging just unimaginably large. pqqqqqqqqqqqqqqqqqqqqrs 620_17920_PlanarHandbook2.indd 138 5/20/04, 1:08:53 PM CCiittyy ooff BBrraassss SSeeaa ooff FFiirree NNaavvaall YYaarrddss KKrraakk aall--ZZiinnaadd KKrraakk aall--NNaayyyyiirraann CCiinnddeerrsswweeeeppss TThhee PPlluummee CChhaarrccooaall PPaallaaccee AArrcchheess SSeeaa ooff FFiirree TThhee FFuurrnnaaccee ee aa llee tt SS AAvveenncciinnaa ff oo tt ee ee rr TThhee FFoouunnddrryy tt SS CChhaarr aall nn aa CC GGrreeaatt CCaannaall RRii qq aa qq PPyyrraaccuulluumm SS ttrreeeett ooff tthh ee CC KKrraakk aall--TTaawwiill MMaarrllggaattee rraaffttssmm eenn TThhee OOccttaaggoonn IIsskkaallaatt AAsshhllaarrkkss ((DDoocckkss)) GG rree aa tt CC aa nn aa ll ee nn VVii KKeeffffiinnssppiirreess RRooookkeerryy ooff ee eett TThhee rr SStt HHaarrbboorr ee hh TT SSaahhhhaarr CCaannaall MMaaggmmaa GGaattee SSeeaa ooff FFiirree lleeeettSS ffoo tteeeerrttSS City of Brass Sea of Fire Naval Yards Krak al-Zinad Krak al-Nayyiran Cindersweeps The Plume Charcoal Palace Arches Sea of Fire aall nn Avencina The Furnace e a le t S f o NN aa rr aa nnjj CC aa t e e r The Foundry t S Char al n a C Great Canal Ri q a q Pyraculum aall nn S treet of th e C MM uu nn hh aa nnii CC aa Krak al-Tawil Marlgate raftsm en The Octagon Iskalat Ashlarks (Docks) G re a t C a n GGoollddeenn TToowweerr aall a l nn Keffinspires Rookery hh aa nnii CC aa of Vi n e MM uu nn r e et The St Harbor e h T Sahhar Canal Magma Gate 00 11 mmiillee Sea of Fire leetS fo teertS al n a C nj a r a N al n a C ni a h n u M Golden Tower al n a C ni a h n u M 0 1 mile 139 SITES PLANAR CHAPTER 7 620_17920_PlanarHandbook2.indd 139 5/20/04, 1:08:59 PM 140 7 RETPAHC RANALP SETIS 20); Jamal Kala’un, Grand Vizier (LE male efreeti, cleric 10); History Jasmine al-Hyan, Master of Secrets (LE female efreeti, rogue The City of Brass is the capital of the efreet civilization. 8/assassin 5). The Sultan or Sultana rules from the Charcoal Palace.",
+        "name":  "Establish a Base of Operations",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Roll on the Empyrea Mere encoun- Subsequent Encounters: Once the characters clear out ter table when the characters visit the site for the fi rst time, the lake, on subsequent visits the chance of an encounter is or for the fi rst time in over a year. The creatures encoun- only 10%. If the PCs fail to visit the location for more than tered are initially suspicious of those seeking the Mere, but a year, they must roll for encounters as if they had never diplomacy may turn their hostile attitudes to a less aggres- visited the site. sive posture. Base Ability: You gain a +2 bonus on Swim checks and add +10 to your swim speed.",
+        "name":  "Initial Encounters",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Drink of the Mere from a silver ENCOUNTER LEVEL 5 SITES chalice. Higher-Order Ability: Once per day, your touch upon The Burning Rift the target creature can wipe away one of the following ail- The Burning Rift is situated upon a solidifi ed plain of free- ments or conditions: ability damage, blinded, confusion, fl oating magma on the Elemental Plane of Fire, some 200 dazed, dazzled, deafened, disease, exhaustion, fatigue, feeble- feet above the infi nite expanse of fi re and ash below. The mindedness, insanity, nausea, sickness, stun, poison (ongo- fl oating plain is bisected, forming a great rift from which ing), or hit point damage (up to 90 points). Your touch has no wells up a great river of fi re called the Rift River. The Rift effect on undead creatures. River fl ows out along the rift and into empty space, creating Higher-Order Uses: 4. a magnifi cent cascade of fi re. The “headwaters” of the Rift River are a magnet to native creatures.",
+        "name":  "Recharge Condition",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Once the characters clear out 16–35 1 wraith the area, on subsequent visits the chance of an encounter is 36–60 1 shadow owlbear* 61–85 1d4 dusk beasts* only 10%. If the PCs fail to visit the location for more than 86–100 1 shadow gray render* a year, they must roll for encounters as if they had never * From Manual of the Planes visited the site. Once Arthenmyr has been defeated, reroll any result of 81–100.",
+        "name":  "Subsequent Encounters",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Roll on the Library of Ignorance encounter table when the characters visit the site for the fi rst time, or for the fi rst time in over a year. Some of the encounters are with creatures that wander the frozen waste; others are with visitors who come to torment Dreschm. No matter when one visits the library, Dreschm will be there, sitting at his table, either writing or tearing out a page to feed into the stove. ability to sunlight; AL CE; SV Fort +5, Ref +7, Will +9; Str 13, Library of Ignorance Encounters Dex 16, Con 17, Int 16, Wis 5*, Cha 14*. d% Encounter * Adjusted due to madness. 01–17 2 imps",
+        "name":  "Initial Encounters",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You gain a +4 bonus on saving throws Mimshan’s Curtain Encounters against cold effects. d% Encounter Recharge Condition: Submerge yourself in the super- 01–12 1 celestial unicorn chilled water (which deals 5d6 points of cold damage). 13–31 2 fi endish lions Higher-Order Ability: Once per day, you can create an 32–56 2 formian warriors 57–82 1 arrowhawk area of intense cold around yourself—in effect, you ema- 83–100 5th-level lillend monk nate a 20-foot-radius burst of cold. All creatures within the affected area take 1d6 points of cold damage for each of your",
+        "name":  "Base Ability",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Roll on the Blazing Forge encoun- Location: The Plane of Shadow. ter table when the characters visit the site for the fi rst Initial Encounters: Roll on the Blinding Tower encoun- time, or for the fi rst time in over a year. None of the beings ter table when the characters visit the site for the fi rst time, encountered are particularly happy to see armed intruders or for the fi rst time in over a year. All of the beings encoun- arriving to take up their valuable time with the forge, but tered attack intruders. the dwarves and the gnomes are at least willing to negotiate, rather than rush right into battle. Blinding Tower Encounters d% Encounter Blazing Forge Encounters 01–10 1 shadow jelly 11–40 2 shadow mastiffs d% Encounter 41–60 4 shadows 01–10 6th-level dwarf expert and 4 2nd-level 61–80 2 wraiths dwarf warriors 81–100 1 bodak 11–20 5th-level dwarf cleric and 2 1st-level dwarf fi ghters 21–30 5th-level dwarf fighter and 5th-level dwarf Subsequent Encounters: Once the characters rid the cleric area of creatures, on subsequent visits the chance of an 31–40 4 3rd-level dwarf fi ghters encounter is only 50%. If the PCs fail to visit the location 41–50 6th-level gnome expert and 4 2nd-level for more than a year, they must roll for encounters as if they gnome warriors 51–60 5th-level gnome wizard and 2 1st-level had never visited the site. gnome fi ghters Base Ability: You gain darkvision out to 60 feet, or your 61–70 5th-level gnome fighter and 5th-level existing darkvision distance increases by 30 feet. gnome wizard",
+        "name":  "Initial Encounters",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The Blazing Forge never sits +10), with the usual effects against undead creatures. Using unattended for long. No matter whether the characters this ability against an unwilling target requires a successful negotiated or fought to gain access to it, the forge is in ranged touch attack. someone else’s hands every time the characters return. Roll Higher-Order Uses: 6. on the encounter table again.",
+        "name":  "Subsequent Encounters",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Roll on the Fountain of Screams The Blinding Tower encounter table when the characters visit the site for the The rumors of a “shining citadel” of color and light, located first time, or for the first time in over a year. Though at the very heart of the Plane of Shadow, may be fueled by each creature encountered is thoroughly evil, they are 620_17920_PlanarHandbook2.indd 162 5/20/04, 1:27:56 PM 163 SITES PLANAR CHAPTER 7 less interested in combat than in the spectacle of some- Location: The Elemental Plane of Water. one bathing in the Fountain of Screams. In their excite- Initial Encounters: Roll on the Ice Catacombs encoun- ment, they might even attempt to help someone into the ter table when the characters visit the site for the fi rst time, fountain sooner than that person is ready—perhaps even or for the fi rst time in over a year. Most of the mephits and holding that person under to ensure immersion for the ice paraelementals claim the site as their home, but the “full duration.” greater ice paraelemental considers the Ice Catacombs its personal palace, and defends it aggressively. Remember Fountain of Screams Encounters that entering an ice pocket on the Elemental Plane of Water d% Encounter deals 1d6 points of cold damage each minute to any creature 01–20 1 babau within the area. 21–50 8 dretches 51–75 1 babau and 2 dretches Ice Catacombs Encounters 76–90 1 succubus 91–100 1 vrock d% Encounter 01–40 4 water mephits 41–60 4 ice mephits",
+        "name":  "Initial Encounters",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Because a great many creatures 61–80 4 Medium ice paraelementals* of the Abyss make this vast acid sea their home, the chance 81–95 2 Large ice paraelementals* of an encounter on every subsequent visit is 60%. If the PCs 96–100 1 Huge ice paraelemental* fail to visit the location for more than a year, they must roll * From Manual of the Planes for encounters as if they had never visited the site.",
+        "name":  "Subsequent Encounters",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Karasuthra, third layer of the Beastlands. for up to 9 hours. Changing back to your normal form ends",
+        "name":  "Location",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Roll on the Were Glade encounter the effect and counts as one use. While in your alternate table when the characters visit the site for the fi rst time, or form, you retain full control of your actions and gain most for the fi rst time in over a year. If a werewolf lord is encoun- of the benefi ts of the lycanthrope template; however, you tered, it is attempting to establish a lair. cannot pass on the curse of lycanthropy. Once you’ve made your fi rst visit to the Were Glade, you permanently retain Were Glade Encounters the shapechanger subtype, even if you’ve exhausted all d% Encounter your uses of the higher-order ability. For full details of the 01–10 1 weretiger template, see Creating a Lycanthrope and associated text on 11–50 2 werebears page 175 of the Monster Manual. 51–75 3 wereboars 76–97 4 werewolves Higher-Order Uses: 2. 98–100 1 werewolf lord 620_17920_PlanarHandbook2.indd 164 5/20/04, 1:28:01 PM 165 SITES PLANAR CHAPTER 7 ENCOUNTER LEVEL 8 SITES",
+        "name":  "Initial Encounters",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Stay within the tunnel hollow for Initial Encounters: Roll on the Catalogues of Enlight- at least 1 hour, breathing in the lost breath of Threphocris. enment encounter table when the characters visit the site Higher-Order Ability: Once per day, you can breathe for the fi rst time, or for the fi rst time in over a year. The forth a cone of air that is charged with positive energy. The functionaries of the fortress do not mind allowing seekers cone can be as short as 10 feet or as long as 60 feet. This cures of knowledge access to the libraries, but they are adamant 1d8+9 points of damage to all creatures in the cone or deals that only the most learned and wise should gain access the same to undead, though they may attempt a Will save to the fortress’s greatest secrets, such as the higher-order (DC 15 + your Wis modifi er) for half damage. abilities granted by the Catalogues. Thus, whoever seeks Higher-Order Uses: 3. access must debate the nature of the multiverse with a phi- losopher. If the supplicant can defeat the philosopher in an",
+        "name":  "Recharge Condition",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+2 ring of protection, wand of ice- storm (10 charges). The Metacube Nearly hidden among the buildings, arches, and doorways of Sigil sits a cube, 10 feet on a side and composed entirely of mithril. Unlike practically every other structure in the city, this cube has no doors, windows, or other speed of 5 feet. You cannot charge or run while burrow- portals. It’s simply a solid block of metal with no fi ligree or ing. You do not leave behind tunnels that other creatures adornments—with one bizarre exception. can use because the material you tunnel through fills in Anyone who looks at the cube long enough will see behind you, but you can bring one other creature with what at first appears to be a shadow or reflection moving you ahead of the fill whose size is equal to or smaller than across its surface. Closer inspection will reveal that this your own. is actually a sequence of numbers and letters that carve Higher-Order Uses: 5. themselves into the mithril—a great equation that pro- gresses across the face of the cube. The equation devel-",
+        "name":  "Possessions",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Once the characters clear out a great insight into himself and his relationships with all the area, on subsequent visits the chance of an encounter is other creatures. only 10%. If the PCs fail to visit the location for more than As in a carnival’s hall of mirrors, all the refl ections make a year, they must roll for encounters as if they had never it diffi cult to move around in the Cavern of the Self. Anyone visited the site. within the cave takes a –4 penalty on all attack rolls, Refl ex",
+        "name":  "Subsequent Encounters",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You gain a +1 bonus on Spot checks. saving throws, and Dexterity-based skill checks. Creatures",
+        "name":  "Base Ability",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Roll twice on the Breaching Obe- relatively quickly, but from time to time, a squall will fl are lisk encounter table when the characters visit the site for the into a psychic tempest that ravages the astral landscape for fi rst time. Because the Breaching Obelisk serves as such a decades or even centuries. handy way to travel, a wide variety of creatures can be found, Tempest Gu’n’ragh is the largest and longest-lived psychic sometimes existing in harmony, other times at each other’s storm ever recorded. It has been raging for well over 2,500 necks, according to their natures. years and shows no signs of abating. During that time, Gu’n’ragh has wandered over a huge area, wreaking damage Breaching Obelisk Encounters on dozens of githyanki communities and even shattering d% Encounter the remains of several smaller dead deities. 01–15 1d3 noble djinn Although Tempest Gu’n’ragh is incredibly destructive, like 16–25 1d3 mind fl ayers a terrestrial hurricane, it whirls around a calm center, known 26–40 1 night hag and 1 nightmare 41–50 1d4 efreet as its “eye.” Unlike terrestrial storms, though, a psychic tem- 51–65 1 devourer pest is roughly spherical in shape, so it is impossible to see 66–75 10th-level human cleric and 10th-level this eye or approach it from a relatively safe angle. However, goblin rogue some have braved the ravages of the storm to fi nd and enter 76–90 1 young adult red dragon the eye. They report that it is the most transcendently 91–100 1 astral deva peaceful place they have ever visited and that they experi-",
+        "name":  "Initial Encounters",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You gain a +1 bonus on saving throws against evil creatures or effects.",
+        "name":  "Base Ability",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Roll on the Densahl’s Challenge in the least. encounter table when the characters visit the site for the For years that stretched into decades and eventually into fi rst time, or for the fi rst time in over a year. The creatures centuries, she and her followers defended their chosen they meet may well be arrogant or belligerent, but they will home against attacks from the nearby bastion of evil. not be evil. The PCs have a relatively good chance of nego- Wave after wave of Hextorites threw themselves against tiating these encounters peacefully—or at least without the fortress, only to be driven back by Restyn’s righteous serious injury (contests of strength or martial prowess may fury. However, no defense is impenetrable, and the tide take the place of actual battle). of opponents was never-ending. Restyn and her followers eventually fell. Densahl’s Challenge Encounters Although they crushed the planetar and the forces of d% Encounter good at her command, the Hextorites were unable to lay 01–18 3 avoral guardinals claim to the cube. Every time they tried, a force of Heiro- 19–46 1 leonal guardinal* nean angels drove them back to Scourgehold. The angels, 47–72 1 astral deva 73–88 1 trumpet archon it seemed, now considered the cube sacred ground, hal- 89–100 1 old brass dragon lowed by the determination and blood of Restyn and her * From Manual of the Planes. followers. They would now pay any price to keep it free from Hextor and his followers. The irony of this fact is",
+        "name":  "Initial Encounters",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Overcome one encounter. Then Location: Shurrock, one of the layers of Bytopia. place on Restyn’s monument a single stone bearing the blood of one creature that fought in the encounter. 620_17920_PlanarHandbook2.indd 184 5/20/04, 1:29:34 PM 185 SITES PLANAR CHAPTER 7",
+        "name":  "Recharge Condition",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You gain the ability to shrug off some spot because it is so closely attuned to death. They believe that amount of injury from any source of damage. Subtract 1 from seeing it and feeling its power will focus their resolve to resist the damage you take from any source. This ability works in the inevitable, withering end that waits for all creatures. conjunction with other sources of damage reduction. Location: The Negative Energy Plane.",
+        "name":  "Base Ability",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Roll on the Bleak Tower from massive damage. It cannot be raised, and resurrec- Encounter Table below when the characters visit the tionworks only if it is willing. site for the first time, or for the first time in more than Possessions: None. a year. THE CUSP OF THE TRYST (EL 14) Bleak Tower Encounter Table The 148th layer of the Abyss is a rocky, wind-blasted d% Encounter plain named Torrent. Dark blue and green clouds roil 01–20 1 dread wraith endlessly through the sky, and bolts of lightning strike 21–35 6 balor skeletons* the ground incessantly. Only creatures made of light- 36–60 1 lich 61–85 1 elite vampire, 13th-level half-elf monk/shadowdancer ning—or those with immunity to its effects—can live 86–100 1 mature adult black dragon in this dismal place. Any creature standing on the surface of Torrent will",
+        "name":  "Initial Encounters",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Once the characters Subsequent Encounters:Once the characters clear out the area, the chance of an encounter is only clear out the area, the chance of an encounter is only 20% on each subsequent visit. If the PCs fail to visit the 50% on each subsequent visit. If the PCs fail to visit the location for more than a year, they must roll for location for more than a year, they must roll for encounters as if they had never visited the site. The encounters as if they had never visited the site. The chance of a lightning strike does not change. creatures of the sentinel grove resent constant intru-",
+        "name":  "Subsequent Encounters",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The first layer of the Beastlands. assume one of the following animal traits for 1 minute",
+        "name":  "Location",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The Deeping Pool serves as a watering hole for all manner of wildlife. PCs ABOUT THE AUTHOR who make an effort to clear the area of monsters find it Skip Williams keeps busy with freelance projects just as busy each time they visit. If they make a con- for several different game companies, and he was certed effort to clear out the bigger predators in the Dragon Magazine’s Sage for eighteen years. Skip was area, however, treat an encounter with dire animals or a codesigner of the D\u0026D 3rd edition game and the giant crocodiles as no encounter during subsequent chief architect of the Monster Manual. When not visits. If the characters don’t visit for a year or more, go devising swift and cruel deaths for player characters, back to using the regular encounter table. Skip putters in his kitchen or garden. (His borscht",
+        "name":  "Subsequent Encounters",
+        "source":  "planar_handbook_a_players_guide_to_the_planes.txt",
+        "_id":  "39fb2b7de0cad97b8523ea07ef1dfd1228e3720f0273f1529d63a57dab94b1e9"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Human lands are usually in flux, with new ideas, names are truly typical. Some human parents give their children social changes, innovations, and new leaders constantly coming to dwarven or elven names (pronounced more or less correctly). the fore. Members of longer-lived races find human culture exciting Adventurers: Human adventurers are the most audacious, but eventually a little wearying or even bewildering. daring, and ambitious members of an audacious, daring, and Since humans lead such short lives, their leaders are all young ambitious race. A human can earn glory in the eyes of her fellows by compared to the political, religious, and military leaders among the amassing power, wealth, and fame. Humans, more than other other races. Even where individual humans are conservative people, champion causes rather than territories or groups. traditionalists, human institutions change with the generations, adapting and evolving faster than parallel institutions among the HUMAN RACIAL TRAITS elves, dwarves, gnomes, and halflings. Individually and as a group, (cid:1) Medium: As Medium creatures, humans have no special bonuses humans are adaptable opportunists, and they stay on top of changing or penalties due to their size. political dynamics. (cid:1) Human base land speed is 30 feet. Human lands generally include relatively large numbers of (cid:1) 1 extra feat at 1st level, because humans are quick to master nonhumans (compared, for instance, to the number of non-dwarves specialized tasks and varied in their talents. See Chapter 5: Feats. who live in dwarven lands). (cid:1) 4 extra skill points at 1st level and 1 extra skill point at each",
+        "name":  "Human Lands",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Dwarves are slow to laugh or jest renowned for their courage and loyalty, and they are well rewarded and suspicious of strangers, but they are for their virtues. generous to those few who earn Religion: The chief deity of the dwarves is Moradin, the their trust. Dwarves value gold, Soul Forger. He is the creator of the dwarves, and he gems, jewelry, and art objects expects his followers to work for the betterment of the made with these precious dwarf race. materials, and they have Language: Dwarves speak Dwarven, which has its been known to succumb own runic script. Dwarven literature is marked by to greed. They fight comprehensive histories of kingdoms and wars neither recklessly nor through the millennia. The Dwarven alphabet is also timidly, but with a care- used (with minor variations) for the Gnome, Giant, ful courage and tenacity. Goblin, Orc, and Terran languages. Dwarves often Their sense of justice is speak the languages of their friends (humans and strong, but at its worst it can gnomes) and enemies. Some also learn Terran, the turn into a thirst for ven- strange language of earth-based creatures such as geance. Among gnomes, who xorn. get along famously with Names: A dwarf’s name is granted to him by his clan dwarves, a mild oath is “If I’m elder, in accordance with tradition. Every proper dwarven lying, may I cross a dwarf.” name has been used and reused down through the genera-",
+        "name":  "Personality",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Because orcs are the sworn enemies of dwarves and (cid:1) Medium: As Medium- creatures, half-orcs have no special bonuses elves, half-orcs can have a rough time with members of these races. or penalties due to their size. For that matter, orcs aren’t exactly on good terms with humans, (cid:1) Half-orc base land speed is 30 feet. halflings, or gnomes, either. Each half-orc finds a way to gain (cid:1) Darkvision: Half-orcs (and orcs) can see in the dark up to 60 feet. acceptance from those who hate or fear his orc cousins. Some half- Darkvision is black and white only, but it is otherwise like normal orcs are reserved, trying not to draw attention to themselves. A few sight, and half-orcs can function just fine with no light at all. demonstrate piety and good-heartedness as publicly as they can (cid:1) Orc Blood: For all effects related to race, a half-orc is considered (whether or not such demonstrations are genuine). Others simply an orc. Half-orcs, for example, are just as vulnerable to special try to be so tough that others have no choice but to accept them. effects that affect orcs as their orc ancestors are, and they can use",
+        "name":  "Relations",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Use the base statistics for a creature of the companion’s kind, as given in the Monster Manual, but make the ALTERNATIVE ANIMAL COMPANIONS following changes. As explained in the text on page 35, a druid of sufficiently high level can",
+        "name":  "Animal Companion Basics",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Wolf (see the Monster into a plant creature, such as a shambling mound, with the Tordek Manual for details). same size restrictions as for animal forms. (A druid can’t use",
+        "name":  "Animal Companion",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A ranger often accepts their training as part of special military the role of protector, aiding those who teams, but most learned their skills from live in or travel through the woods. In solitary masters who accepted them as addition, a ranger carries grudges students and assistants. The rangers of a against certain types of creatures and particular master may count themselves as looks for opportunities to find and cohorts, or they may be rivals for the status destroy them. He may adventure for all of best student and thus the rightful heir the reasons that a fighter does. to their master’s fame.",
+        "name":  "Adventures",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Rangers get along well with druids and to some extent enemy (for instance, devils are both evil outsiders and lawful with barbarians. They are known to bicker with paladins, mostly outsiders), the ranger’s bonuses do not stack; he simply uses because they often share goals but differ in style, tactics, approach, whichever bonus is higher. See the Monster Manual for more infor- philosophy, and esthetics. Since rangers don’t often look to other mation on types of creatures. people for support or friendship, they find it easy to tolerate people who are quite different from themselves, such as bookish wizards Table 3–14: Ranger Favored Enemies and preachy clerics. They just don’t care enough to get upset about others’ differences. Type (Subtype) Examples",
+        "name":  "Classes",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "If you have 5 or you and the target. Creatures unaware of more ranks in Bluff, you get a +2 you cannot be bluffed.",
+        "name":  "A bluff requires interaction between Synergy",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Rather than teaching an of any such check increases by 5. Such creatures have the animal individual tricks, you can simply train it for a same limit on tricks known as animals do. The Monster general purpose. Essentially, an animal’s purpose represents Manual provides information on teaching or training a preselected set of known tricks that fit into a common other kinds of creatures as appropriate. scheme, such as guarding or heavy labor. The animal must A druid or ranger gains a +4 circumstance bonus on meet all the normal prerequisites for all tricks included in Handle Animal checks involving her animal the training package. If the package includes more than three companion. In addition, a druid’s or ranger’s animal tricks, the animal must have an Intelligence score of 2. companion knows one or more bonus tricks, which don’t count An animal can be trained for only one general purpose, though if against the normal limit on tricks known and don’t require any the creature is capable of learning additional tricks (above and training time or Handle Animal checks to teach. beyond those included in its general purpose), it may do so. Training If you have the Animal Affinity feat, you get a +2 bonus on an animal for a purpose requires fewer checks than teaching Handle Animal checks. individual tricks does, but no less time. At your DM’s option, you Synergy: If you have 5 or more ranks in Handle Animal, you get a may be able to train an animal for a purpose that isn’t mentioned +2 bonus on Ride checks and wild empathy checks. here. Untrained: If you have no ranks in Handle Animal, you can use a Combat Riding (DC 20): An animal trained to bear a rider into Charisma check to handle and push domestic animals, but you can’t combat knows the tricks attack, come, defend, down, guard, and teach, rear, or train animals. A druid or ranger with no ranks in heel. Training an animal for combat riding takes six weeks. You may Handle Animal can use a Charisma check to handle and push her animal companion, but she can’t teach, rear, or train other also “upgrade” an animal trained for riding to one trained for combat nondomestic animals. riding by spending three weeks and making a successful DC 20 Handle Animal check. The new general purpose and tricks completely replace the animal’s previous purpose and any tricks it HEAL (WIS) once knew. Warhorses and riding dogs (see the Monster Manual) are Use this skill to keep a badly wounded friend from dying, to help already trained to bear riders into combat, and they don’t require any others recover faster from wounds, to keep your friend from suc- additional training for this purpose. cumbing to a wyvern’s sting, or to treat disease. Fighting (DC 20): An animal trained to engage in combat knows Check: The DC and effect depend on the task you attempt. the tricks attack, down, and stay. Training an animal for fighting takes three weeks. Task Heal DC Guarding (DC 20): An animal trained to guard knows the tricks First aid 15 attack, defend, down, and guard. Training an animal for guarding Long-term care 15 Treat wound from caltrop, spike growth, or spike stones 15 takes four weeks. Treat poison Poison’s save DC Heavy Labor (DC 15): An animal trained for heavy labor knows Treat disease Disease’s save DC the tricks come and work. Training an animal for heavy labor takes two weeks.",
+        "name":  "Train an Animal for a Purpose",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Optional, but not recommended because retries penalty on Hide checks depending on its size category: Fine +16, usually do not work. Even if the initial check succeeds, the other Diminutive +12, Tiny +8, Small +4, Large –4, Huge –8, Gargantuan – character can be intimidated only so far, and a retry doesn’t help. If 12, Colossal –16. the initial check fails, the other character has probably become more You need cover or concealment (see pages 150–152) in order to firmly resolved to resist the intimidator, and a retry is futile. attempt a Hide check. Total cover or total concealment usually (but Special: You gain a +4 bonus on your Intimidate check for every not always; see Special, below) obviates the need for a Hide check, size category that you are larger than your target. Conversely, you since nothing can see you anyway. take a –4 penalty on your Intimidate check for every size category If people are observing you, even casually, you can’t hide. You can that you are smaller than your target. 76 :4 RETPAHC SLLIKS A character immune to fear (such as a paladin of 3rd level or High Jump Distance1 Jump DC2 higher) can’t be intimidated, nor can nonintelligent creatures. 1 foot 4 If you have the Persuasive feat, you get a +2 bonus on Intimidate 2 feet 8 checks. 3 feet 12",
+        "name":  "A creature larger or smaller than Medium takes a size bonus or Try Again",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    }
+]

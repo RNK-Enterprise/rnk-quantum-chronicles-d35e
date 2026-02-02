@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "other.json",
+        "description":  "16 (+1 size, +3 Dex, +2 natural), touch 14, flat- footed 13 Base Attack/Grapple:+1/–3",
+        "name":  "AC",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +3 melee",
+        "name":  "Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +3 melee",
+        "name":  "Full Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite 1d4+1 plus 1d6 fire plus poison Face/Reach: 5 ft./5 ft.",
+        "name":  "Damage",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "8d10+16 (60 hp) Measuring 7 feet long and 3–4 inches in diameter, they are",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+4 intimidating specimens. The only other significant differ-",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "40 ft., climb 20 ft. ence is the spike of hardened bone that grows from the",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +13 snake, the lesser ones are melee, or magma the least commonly used spit +12 ranged as household guards, de- touch spite the relative rarity",
+        "name":  "Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite of greater flame snakes, +13 melee and tail because they are more spike +9 melee, or vicious and cruel than magma spit +12 the other varieties. ranged touch Most would-be em-",
+        "name":  "Full Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "opportunity. In groups, Constrict they use fairly so- 2d6+3 plus phisticated tactics 2d6 fire, fiery that include form- poison, heat, ing crude ranks of magma spit melee combatants,",
+        "name":  "Special Attacks",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "behind which more Darkvision 60 ft., flame snakes launch fast healing 3, fire their globs of fiery spittle. They subtype, low-light vision, usually use their constrict ability scent, uncanny dodge only between spit attacks.",
+        "name":  "Special Qualities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +8, Ref +10, Will +4 Constrict (Ex): With a successful grapple check, a",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 15, Dex 18, Con 15, Int 8, Wis 14, Cha 13 lesser flame snake can constrict a grabbed opponent, deal-",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Climb +10, Hide +7, Listen +5, Move Silently +7, ing 2d6+3 points of bludgeoning damage and 2d6 points Spot +4 of fire damage.",
+        "name":  "Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary, pair, or clutch (4–7) In addition, if the save fails, the lesser flame snake’s poison",
+        "name":  "Organization",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "7 burns its victim from the inside as it courses through the",
+        "name":  "Challenge Rating",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard coins, 50% goods opponent’s body. Each round the poison remains in a",
+        "name":  "Treasure",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually evil (any) victim’s blood stream (maximum 10 rounds), it deals 2",
+        "name":  "Alignment",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "17d10+85 (178 hp) ence radiates the sort of evil usually associated only with",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+7 the dark denizens of Baator and the Abyss.",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "60 ft., climb 50 ft. Greater flame snakes speak Infernal in addition to Ignan.",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +24 melee often. They are also constantly hungry and make frequent",
+        "name":  "Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Darkvision 60 ft., DR 15/+2, fast Constrict (Ex): With a successful grapple check, a healing 5, firesubtype, low-light vision, scent, SR 27, greater flame snake can constrict a grabbed opponent, deal- uncanny dodge ing 4d6+12 points of bludgeoning damage, 1d6 points of fire",
+        "name":  "Special Qualities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +15, Ref +13, Will +7 damage, and 1d6 points of negative energy damage.",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 27, Dex 17, Con 20,Int 11, Wis 14, Cha 16 Death Throes (Ex):When slain, a greater flame snake",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Climb +16, Hide –5, Listen +14, Move Silently explodes in a blinding flash of fiery light that deals 30 points +13, Search +10, Spot +14 of damage (15 points fire, 15 points negative energy) to",
+        "name":  "Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "16 of a greater flame snake automatically takes 1d6 points of",
+        "name":  "Challenge Rating",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard fire damage.",
+        "name":  "Treasure",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually evil (any) FieryPoison (Ex):A greater flame snake delivers its",
+        "name":  "Alignment",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "8d8+32 (68 hp) Acid Spray (Ex):An armadon can spray a 20-foot burst of",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+5 acid from glands in its tail, dealing 3d8 points of acid",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "40 ft. damage to everything in the area. Once an armadon uses",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "25 (–1 size, +1 Dex, +15 natural), touch 10, flat- this ability, it can’t use it again for 1d4 rounds. A successful footed 24 Reflex save (DC 17) halves the damage. Base Attack/Grapple:+8/+18 Augmented Critical (Ex): An armadon’s bite attack",
+        "name":  "AC",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +13 melee threatens a critical hit on a natural attack roll of 17–20",
+        "name":  "Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite 2d6+6/17–20/×3, claw 1d8+3, bite, an armadon deals triple damage. sting 2d4+3 Poison (Ex):An armadon Face/Reach: 10 ft./5 ft. delivers its poison (Fort DC 18",
+        "name":  "Damage",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Acid spray, negates) with each success- augmented critical, hive mind, ful sting attack. Initial and poison secondary damage are the same (1d6 Str).",
+        "name":  "Special Attacks",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Acid immunity, immunities, outsider traits, resistances, SR 20 OBSERVER",
+        "name":  "Special Qualities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +10, Ref +7, Will +7 Medium-Size Outsider (Extraplanar,",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 22, Dex 13, Con 19, Int 10, Wis 12, Lawful) Cha 11 Hit Dice: 9d8+18 (58 hp)",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Balance +12, Climb +17, Hide +8, Jump Initiative: +6 +17, Listen +12, Move Silently +12, Spot +12, Speed: 40 ft. Survival +12 AC:17 (+2 Dex, +5 natural), touch",
+        "name":  "Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Improved Critical (bite), Improved 12, flat-footed 15 Initiative, Multiattack Base Attack/Grapple:+9/+10 Climate/Terrain:Any land and Attack:Sting +10 melee underground(Mechanus) Full Attack:Sting +10 melee",
+        "name":  "Feats",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary, team (2–4), Damage: Sting 2d4+1 or troop (6–11) Face/Reach: 5 ft./5 ft.",
+        "name":  "Organization",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— Special Qualities:All-around vision, evaluation,",
+        "name":  "Treasure",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always lawful immunities, outsider traits, resistances, SR 23, neutral telepathy 250 ft.",
+        "name":  "Alignment",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "9–12 HD Saves: Fort +8, Ref +8, Will +10 (Large); 12–24 (Huge) Abilities: Str 12, Dex 15, Con 14,Int 18, Wis 19, Cha 17",
+        "name":  "Advancement",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always lawful neutral",
+        "name":  "Alignment",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5d6+15 (32 hp) rivers. This mating produces more fossergrims, who appear",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+7 as normal humans until maturity, at which point they seek",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft., swim 60 ft. out a waterfall of their own.",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "True as it walks across strike(in water only)",
+        "name":  "Special Attacks",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fast healing 5 (in splashing water only), low-light vision, SR 15 (in splashing water only), waterfall dependency",
+        "name":  "Special Qualities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +4, Ref +7, Will +6",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 15, Dex 17, Con 16, Int 12, Wis 15, Cha 18",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Diplomacy +13, Heal +9, Hide +10, Knowledge (nature) +10, Sense Motive +9, Spot +9, Survival +9 (+11 in aboveground natural environments), Swim +17",
+        "name":  "Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "–1 months, a fossergrim falls into a deep torpor inside the Speed:40 ft. frozen cascade of ice. It is still aware of its surroundings, AC:22 (–1 size, –1 Dex, +14 natural), touch 8, flat-footed 22 however, and emerges from the ice to protect its river Base Attack/Grapple:+9/+21 from harm. Attack:Gore +16 melee Fossergrims speak Common and Sylvan. Full Attack:Gore +16 melee and 2 hooves +11 melee",
+        "name":  "When its waterfall freezes during the cold winter Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Gore 1d10+8, hoof 1d6+4 COMBAT Face/Reach10 ft./5 ft.",
+        "name":  "Damage",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Diplomacy +6, Hide +16, Jump +18, Listen +9, Move Because they can breathe underwater, bog giants prefer to Silently +8, Sense Motive +7, Spot +9 surprise their enemies by swimming close before striking. Feats: Alertness, Cleave, Combat Reflexes, Improved They take advantage of their natural camouflage in swamp Initiative, Point Blank Shot, Power Attack, Precise Shot areas to ambush their prey. Some bog giants emulate croco- Climate/Terrain:Any land and underground. diles by grappling an opponent and dragging it under the Organization:Solitary, pair, or family (2–8 plus 35% water to drown. noncombatants plus 1 sorcerer of 7th–10th level)",
+        "name":  "Combat Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bog giants have a +8 racial bonus on any Swim Challenge Rating: 18 check to perform some special action or avoid a hazard and Treasure: Double standard can always choose to take 10 on Swim checks, even if dis- Alignment: Usually lawful evil tracted or endangered. A bog giant has a +4 racial bonus on Advancement: By character class Hide checks. *In swamp areas, a bog giant’s racial bonus on Hide checks rises to +8. Among the crude and simple- minded giant races, shadow",
+        "name":  "Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  " Bog giants are found exclusively in swamps and marshes. subtlety. They are feared and They spend most of their time hunting, gathering, and scav- hated even by other giants, enging rotting meat. They build crude, temporary shelters since they have a reputation in the fallen logs and vines. for being murderers, thieves, Bog giants both venerate and hunt crocodiles, alligators, and assassins against their and other large reptiles. Most tribes keep “pet” crocodiles own kind. They dwell in par- on tethers around their encampments. Bog giants are on ticularly dark areas, in- friendly terms with lizardfolk, although sometimes the two cluding those that are races come into conflict when food resources are low. Bog known to border the giants despise trolls and attack them on sight. Plane of Shadow. A shadow giant Bog Giant Characters stands around A bog giant’s favored class is ranger. Many groups of bog 20 feet tall and giants include both druids and rangers. weighs around 4,000 pounds. It SHADOW GIANT is thin and wiry, Huge Giant with gaunt fea-",
+        "name":  "Bog Giant Society giants possess a unique aspect",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "18d8+144 (225 hp) tures. However,",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+7 despite",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "50 ft.",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "28 (–2 size, +3 Dex, +17 natural),touch 11, flat-footed 25 Base Attack/Grapple:+13/+34",
+        "name":  "AC",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Blindsight 60 ft., hide in plain sight, light sensitivity, low-light vision, rock catching",
+        "name":  "Special Qualities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +19, Ref +9, Will +8",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "8",
+        "name":  "CONSTRUCTION Challenge Rating",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "It simply BLOOD GOLEM OF HEXTOR lashes out at its foes with its heavy flails, which are actually Large Construct parts of its body. It is a cruel and malicious combatant, in",
+        "name":  "A blood golem is straightforward in combat",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10d10+30 (130 hp if supplied with blood) that it apparently derives satisfaction from slaying enemies",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "–1 despite its lack of true intelligence.",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 ft. (can’t run) Blood Siphon (Su):A blood golem can suck the blood out",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Masterwork heavy flail +13 melee, or slam +12 maximum before filling its reservoirs so that it can remain at melee (see text) full strength.) Both the golem and the victim must remain",
+        "name":  "Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 masterwork heavy flails +13 melee, or 2 motionless. Priests of Hextor often provide blood golems with slams +12 melee (see text) bound or unconscious victims for this very purpose.",
+        "name":  "Full Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Blood siphon, whirlwind of death Whirlwind Attack feat. In the round after the golem performs",
+        "name":  "Special Attacks",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 22, Dex 8, Con —, Int —, Wis 10, Cha 1 points per day, regardless whether it is engaged in physical",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— activity or merely stands motionless for the entire day. If the",
+        "name":  "Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Listen +11, Spot +12",
+        "name":  "Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Alertness, Cleave, Power Attack, Skill Focus (Listen), Skill Focus (Spot) Climate/Terrain: Any underground",
+        "name":  "Feats",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary",
+        "name":  "Organization",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10",
+        "name":  "Challenge Rating",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "—",
+        "name":  "Treasure",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always lawful evil",
+        "name":  "Alignment",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam +27 melee, or tail lash +27 melee fulfill their desires. Full Attack:Slam +27 melee and claw +29 melee, or tail A brain golem appears as a burly humanoid, about 8 feet lash +27 melee tall and 5 feet wide, with an oversized brain serving as its Damage: Slam 2d6+10, claw 2d6+12/19–20, tail lash entire head. In fact, the whole body is made up of brain 1d6+10 plus daze tissue that is covered with a thin film of slimy skin. Face/Reach: 15 ft./15 ft. (25 ft. with tail)",
+        "name":  "A creation of the mind flayers, a brain golem exists purely to Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "24d10+40 (172 hp) Unlike most golems, a demonflesh golem is reasonably",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+3 intelligent, and it speaks and understands Abyssal.",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "50 ft., fly 100 ft. (average)",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20d10+30 (140 hp) flames, suffusing the golem’s frame for 2d4 rounds, but it",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+2 actually only halves the damage from its hellfire (negating",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "40 ft. the fire damage). A cold effect that deals more than 20",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam +22 melee order’s wrath orunholy blight) breaks any sloweffect on the",
+        "name":  "Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 slams +22 melee golem and cures 1 point of damage for each 3 points of",
+        "name":  "Full Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +8, Ref +8, Will +7 ial Plane can be driven back to its home plane by a dispel evil",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Climb +30, Jump +30, Spot +24 it is not affected by banishmentordismissalsince they are not",
+        "name":  "Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary of Baator or another lawful infernal plane (in the D\u0026D cos-",
+        "name":  "Organization",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "17 mology, this would include Acheron and Gehenna; see",
+        "name":  "Challenge Rating",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— Manual of the Planes). The body is formed from special clays",
+        "name":  "Treasure",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always lawful evil found only on such planes, and it is suffused with unholy",
+        "name":  "Alignment",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4d6+4 (18 hp) at least one or more distinctive attribute, such as wings,",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+8 jeweled or knotty skin, or hair made of flowers.",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "50 ft., fly 100 ft. (good) Half-fey never truly fit into any mortal society, being con-",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Half-fey traits",
+        "name":  "Special Qualities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +2, Ref +8, Will +3 COMBAT",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 18, Dex 16, Con 13, Int 8, Wis Half-fey centaurs are usually bel- 15, Cha 15 ligerent and swaggering combatants,",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hide +10, Listen +9, Move Silently combining the capriciousness of fey +10, Spot +9, Survival +9 with the bravery of centaurs.",
+        "name":  "Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4 At will—charm person;",
+        "name":  "Challenge Rating",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard 3/day—detect law;1/day—",
+        "name":  "Treasure",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always chaotic (any) enthrall, faerie fire, hypnotism.",
+        "name":  "Alignment",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "By character class Caster level 12th; DC 12 +",
+        "name":  "Advancement",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Extract, improved grab, mind blast, psionics 1–2 Charm personat will, hypnotism1/day, faerie fireorglitter- Special Qualities: Darkvision 60 ft., hold breath, SR 12, dust1/day telepathy 100 ft. 3–4 Detect law3/day, sleeporenthrall1/day",
+        "name":  "HD Abilities Special Attacks",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Gang (2–3), band (6–10 plus 50% 15–16 Geas/questormass suggestion 1/day 17–18 Insanityormass charm 1/day noncombatants and 1 leader of 3rd–6th level), or cult 19+ Otto’s irresistible dance 1/day (6–10 plus 1–4 mind flayers)",
+        "name":  "Organization",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually evil (any). ability to shrug off damage; its superior strength, quickness,",
+        "name":  "Alignment",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "6d8+24 (51 hp)",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1 COMBAT",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "40 ft. Half-troll barbazus are feral, unfettered by excessive reason-",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "22 (+1 Dex, +11 natural), touch 11, flat-footed 21 ing. They simply love to tear things apart, and focus all their Base Attack/Grapple:+4/+9 abilities to that end.",
+        "name":  "AC",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Glaive +10 melee, or claw +9 melee Beard (Ex):If a half-troll barbazu hits a single opponent",
+        "name":  "Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Glaive 1d10+7 plus wounding, claw 1d4+5, bite 17) or be infected with the disease called devil chills (incu- 1d6+2, beard 1d8+5 plus disease bation period 1d4 days, damage 1d4 Strength). Once it takes Face/Reach:5 ft./5 ft. (10 ft. with glaive) hold, the disease deals damage each day until the victim suc-",
+        "name":  "Damage",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Acid resistance 10, cold resistance 10, Rage (Ex):Twice per day a half-troll barbazu can fly into a DR 10/+1, fast healing 5, fire immunity, low-light vision, frenzy, raging like a barbarian. For 9 rounds, the half-troll bar- poison immunity, scent, see in darkness, SR 23, telepathy bazu gains a +4 bonus to Strength, a +4 bonus to Constitution, 100 ft. and a +2 morale bonus on Will saves, but takes a –2 penalty to",
+        "name":  "Special Qualities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 21, Dex 13, Con 19, Int 4, Wis 10, Cha 8 the rage lasts: HD 6d8+36 (63 hp); AC 20, touch 9, flat-footed",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Listen +5, Spot +4 19; Base Attack/Grapple +6/+11; Full Attack glaive +12 melee,",
+        "name":  "Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary plus disease; SV Fort +11, Will +7; Str 25, Con 23. At the end",
+        "name":  "Organization",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "9 of its rage, the half-troll barbazu is not fatigued.",
+        "name":  "Challenge Rating",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard Rend (Ex): If a half-troll barbazu hits with both claw",
+        "name":  "Treasure",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always lawful evil attacks, it latches onto the opponent’s body and tears the",
+        "name":  "Alignment",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "7–9 HD (Medium-size); 10–18 HD (Large) flesh. This attack automatically deals an additional 2d4+7",
+        "name":  "Advancement",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually chaotic neutral or chaotic evil. must make a saving throw each day thereafter or take",
+        "name":  "Alignment",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "–1 Turn Resistance (Ex):A huecuva is treated as an undead",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "DR 15/silver, turn resistance +2, light wounds,potion of blur, potion of levitate, potion of fly, cloak undead traits of resistance +1.",
+        "name":  "Special Qualities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +5, Ref +3, Will +9",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 15, Dex 9, Con —, Int 4, Wis 19, Cha 14 THE HUECUVA TEMPLATE",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Increase to d12. Damage Reduction (Ex): A huecuva has damage",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard.",
+        "name":  "Treasure",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "16d12 (104 hp) underground. Remote mountain passes, dark bogs, and",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "–1 ancient forests also serve as suitable homes for this",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "60 ft. undead monstrosity.",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "27 (–2 size, –1 Dex, +20 natural), touch 7, flat-footed 27 Standing 20 feet high at the shoulder, a hullathoin walks Base Attack/Grapple:+8/+26 on four long, powerful legs. It has a skeletal head with a",
+        "name":  "AC",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +17 melee massive maw. The most distinctive aspect of a hullathoin is",
+        "name":  "Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +17 melee and 2 stamps +14 melee and 2 that its mottled gray and black body seems to carry some tentacles +14 melee sort of wasting illness. Angry, red, pus-filled sores that pulse",
+        "name":  "Full Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite 2d8+10/19–20, stamp 1d8+5, tentacle 1d6+5 and weep cover its flesh. Buzzing insects surround the crea- plus poison ture at all times and feast off its rotting body. Face/Reach:15 ft./10 ft. (20 ft. with tentacles) A hullathoin is nearly always accompanied by a ragtag",
+        "name":  "Damage",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Blindsight 60 ft., cold immunity, DR but because it can command undead, mummies, ghasts, 20/+2, electricity immunity, fast healing 8, fire resistance ghouls, zombies, or even mohrgs or spectres might be 15, scent, sonic resistance 15, SR 26, undead traits found in its company.",
+        "name":  "Special Qualities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +7, Ref +4, Will +13 Hullathoins speak Common and, curiously, Draconic.",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 30, Dex 8, Con —, Int 12, Wis 16, Cha 12",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Balance +18, Climb +29, Listen +22, Spot +22, COMBAT Swim +29 A hullathoin has an impressive level of control over its",
+        "name":  "Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary any living thing within range. A hullathoin",
+        "name":  "Organization",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "15",
+        "name":  "Challenge Rating",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard",
+        "name":  "Treasure",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral evil",
+        "name":  "Alignment",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4d8+19 (37 hp) Organization:Solitary",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "–1 Challenge Rating: 3",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 ft., fly 40 ft. (good) Treasure: —",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "14 (+2 size, –1 Dex, +3 natural),touch 11, flat-footed 14 Alignment: Always lawful evil Base Attack/Grapple:+4/–4 Advancement: 5–12 HD (Tiny)",
+        "name":  "AC",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +7 melee",
+        "name":  "Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +7 melee Because most inhabitants of the Nine Hells cannot cast cure",
+        "name":  "Full Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +8, Ref +3, Will +5 and stubby fingers, bloodbag imps stand only 2 feet tall,",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 10, Dex 9, Con 18,Int 11, Wis 12, Cha 13 but they are almost as wide. A bloodbag imp has two pow-",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+2 euphoric bliss that they can take no actions (but defend",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 ft., fly 50 ft. (perfect) themselves normally).",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Euphoric imps have a +8 racial bonus on Craft Combat (alchemy) checks. Filth imps prefer harassment and heckling to open battle. When threatened, however, they generally turn invisible FILTH IMP so that they can position themselves nearest the majority Tiny Outsider (Evil, Extraplanar, Lawful) of their enemies and make liberal use of their diabolical",
+        "name":  "Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2d8+6 (15 hp) stench.",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "15 (+2 size, +3 natural),touch 12, flat-footed 15 Diabolical Stench (Su):Three times per day, a filth Base Attack/Grapple:+2/–6 imp can emit an invisible cloud of sickening gas in a 20-",
+        "name":  "AC",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 claws +4 melee make a Fortitude save (DC 14) or become nauseated for",
+        "name":  "Full Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Claw 1d4 plus disease 1d6 rounds. The cloud dissipates at the end of the round Face/Reach: 2 1/2 ft./0 ft. in which it was released, though an unpleasant odor",
+        "name":  "Damage",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +8, Ref +3, Will +4 must succeed on a Fortitude save (DC 14) or contract filth",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 11, Dex 10, Con 17,Int 16, Wis 13, Cha 4 fever. The incubation period is 1d3 days, and the disease",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Great Fortitude Climate/Terrain: Any land and underground (Nine Hells) INDRICOTHERE",
+        "name":  "Feats",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary",
+        "name":  "Organization",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 Huge Animal",
+        "name":  "Challenge Rating",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— Hit Dice:16d8+112 (177 hp)",
+        "name":  "Treasure",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always lawful evil Initiative:+4",
+        "name":  "Alignment",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "3–6 HD (Tiny) Speed:40 ft.",
+        "name":  "Advancement",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "18d10+20 (119 hp) involving time. In place of a head, it has a continually",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+5 flowing hourglass. Sometimes the sand inside the hour-",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "50 ft. glass seems to be flowing up; no quarut has ever explained",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 slams +18 melee plays havoc with the universe and risks all beings. How-",
+        "name":  "Full Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Construct traits, DR 40/+4, fast healing 15,SR 28 Combat",
+        "name":  "Special Qualities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +6, Ref +7, Will +9 Quaruts try to end a combat as",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 20, Dex 13, Con quickly as possible by using —,Int 14, Wis 17, Cha 20 their temporal stasis ability",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary geas/quest,plane shift. Caster",
+        "name":  "Organization",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "17 level 18th; save DC 15 +",
+        "name":  "Challenge Rating",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always lawful neutral Fast Healing (Ex):A quarut",
+        "name":  "Alignment",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "22d10+30 (151 hp) locate person, true seeing;3/day—forcecage, limited wish, mark",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+6 of justice, teleport without error(self plus maximum load of",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "50 ft., fly 50 ft. (good) objects only), time stop; 1/day—geas/quest, meteor swarm,",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam +21 melee at the rate of 20 per round. Fast healing does not restore",
+        "name":  "Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 slams +21 melee hit points lost from starvation, thirst, or suffocation, and",
+        "name":  "Full Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam 2d10+6 it does not allow a varakhut to regrow or reattach lost Face/Reach: 10 ft./10 ft. body parts.",
+        "name":  "Damage",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Construct traits, DR 50/+5, fast healing IRON COBRA 20,SR 30",
+        "name":  "Special Qualities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +9, Ref +11, Will +13 Medium-Size Construct",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 22, Dex 15, Con —,Int 18, Wis 19, Cha 22 Hit Dice:2d10+20 (31 hp)",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary Special Qualities:Construct traits, DR 10/+1, stalk victim,",
+        "name":  "Organization",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "19 stealth, SR 19",
+        "name":  "Challenge Rating",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— Saves:Fort +0, Ref +3, Will +0",
+        "name":  "Treasure",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always lawful neutral Abilities:Str 12, Dex 17, Con —, Int —, Wis 11, Cha 1",
+        "name":  "Alignment",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "23–33 HD (Large); 34–66 HD (Huge) Skills:Hide +13, Move Silently +13",
+        "name":  "Advancement",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "An iron cobra is immune to mind- Special Attacks:Attach, engulf, illness, tendrils, wounding affecting effects, poison, sleep,paralysis, stunning, disease, Special Qualities:Acid resistance 10, cold immunity, DR death effects, necromantic effects, and any effect that 20/+3, electricity immunity, plant traits, sonic resistance requires a Fortitude save unless it also works on objects. 10, SR 30",
+        "name":  "Construct Traits",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ironmaws receive skills as though they were fey. An ironmaw has a +8 racial bonus on Listen and Spot checks. *In wooded areas, an ironmaw has a +15 racial bonus on Hide checks. JACKAL LORD Medium-Size Monstrous Humanoid",
+        "name":  "Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "8d8+16 (52 hp)",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+2",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "40 ft. as jackal; 30 ft. as humanoid or hybrid Sleep Gaze (Su):Anyone within 30 feet of a jackalwere",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +5 melee as jackal or hybrid; scimitar two primary forms that it can shift between at +5 melee as humanoid will. One of these appears as a Small jackal,",
+        "name":  "Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +5 melee as jackal; bite +5 melee while the other is a Medium hybrid form. The and scimitar +0 melee as hybrid; scimitar +5 cstatistics for these forms appear above. In melee as humanoid addition, a jackalwere can take the form of",
+        "name":  "Full Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    }
+]

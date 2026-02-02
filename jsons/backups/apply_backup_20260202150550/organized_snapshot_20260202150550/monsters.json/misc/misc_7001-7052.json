@@ -1,0 +1,366 @@
+﻿[
+    {
+        "origin_file":  "monsters.json",
+        "description":  " closest ghouls fi rst, then the farthest ghoul, and then the ghast. ASPECT OF NATURE Jozan makes the fi rst turning check. A ghoul has 2 HD, but it also has +2 turn resistance, so it is treated as a 4 HD creature. Af- Instead of taking animal form, a druid with this variant form of ter adding the ghoul’s +1 Charisma modifi er, the turning check wild shape takes on one or more aspects of nature when she uses DC is 15. Jozan rolls a 12, which, with his three cleric levels and her wild shape ability. +1 Charisma modifi er, gives him a result of 16, so the nearest At 5th level, a druid may take on one aspect from those de- ghoul is halted in place. (If Jozan wants to maintain the effect, scribed below. At 8th level, the druid can take on up to two as- he’ll have to continue to concentrate on it in later rounds.) He pects simultaneously. At 11th level, she can take up on to three has successfully turned 4 HD worth of creatures, leaving him aspects simultaneously, and at 15th level the limit in creases to its with 5 HD. This is enough to affect another ghoul, so he makes maximum of four simultaneous aspects. (Some aspects can only another turning check against the next closest ghoul. Jozan rolls be combined with certain other aspects, as indicated in their a 6 against the second ghoul, for a result of 10, so the ghoul is descriptions.) Each aspect taken on counts as one daily use of the unaffected. Against the third ghoul, his roll is 16 for a result of druid’s wild shape ability. Multiple versions of the same aspect 20, which beats the DC by at least 5, so Jozan can turn the ghoul don’t stack. Taking on one or more aspects is a standard action if he wishes to do so. Since he knows he can’t affect the ghast on (which does not provoke attacks of opportunity), and the effect this turning attempt—it has 4 HD and +2 turn resistance, and lasts for 1 minute per druid level. Jozan has only 1 HD of turning left—he chooses to paralyze Some aspects, as noted in their descriptions, have a minimum the third ghoul rather than sending it scurrying back into its druid level as a prerequisite. burrow where it can gather more allies. (Even if Jozan had failed A druid may take on one aspect per day for every daily use of to affect the third ghoul, he would only have 5 HD left—not wild shape she is entitled to. For instance, a 5th-level druid could enough to affect the ghast thanks to its +2 turn resistance.) On normally use wild shape once per day, so she could assume an as- his next turn, Jozan can choose to continue holding the ghouls pect once per day. A 10th-level druid could take on four aspects in place or, if his allies have already destroyed the three ghouls, per day and can choose to take on two aspects simultaneously use another turning attempt against the ghast (which requires a (which would use up two of the druid’s daily uses). DC 19 turning check). Unless otherwise noted in an aspect’s description, a druid who assumes an aspect of nature retains her own type and",
+        "name":  "WILD SHAPE VARIANT",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The druid’s body bursts into fl ame. While in Druid level 12th. this form, the druid has immunity to fi re, poison, sleep, paralysis, Poison: The druid gains a bite attack that deals bludgeoning, and stunning. In addition, any creature struck by the druid in piercing, and slashing damage equal to a dagger of the druid’s pqqqqqqqqqqqqqqqqqqqqrs pqqqqqqqqqqqqqqqqqqqqrs nospmohT .B yb .sullI",
+        "name":  "Elemental Fire",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The druid gains the scent ability, as described on page Virtually all characters who become prestige bards are already 314 of the Monster Manual. multiclass characters, usually mixing rogue and wizard or rogue",
+        "name":  "Scent",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "INJURY (represented by fi ve different sizes of Hit Dice), there are only This variant reduces the minutiae of combat bookkeeping (since two (classes with good Fortitude saves, such as barbarians, characters don’t need to track their hit point total). Still, since clerics, and fighters, and classes with poor Fortitude saves, the system ties survivability to a character’s saving throw, higher- such as bards and wizards). level characters are better at surviving injuries than lower-level Bonuses on Fortitude saves become immensely important to characters. That said, creatures or effects that deal large quan- characters, making options such as the Great Fortitude feat very tities of damage can turn a battle very quickly, since a single attractive. Multiclassing between classes with good Fortitude unlucky save can put a character out of commission. saves can create abusive situations: You might choose to rule In this system, a character’s class Hit Die becomes less that no character can get the 2-point “bump” in a good saving important than his Fortitude save bonus in terms of his abil- throw more than once (after that, a good save starts at +0 and ity to withstand damage. This factor reduces the difference goes up 1 point every even-numbered level), thus limiting the between classes—instead of having fi ve shades of ruggedness potential for extensive abuse. pqqqqqqqqqqqqqqqqqqqqrs 620_88156_UnearthedArcana2.indd 114 12/11/03, 2:15:37 PM 115 ADVENTURING CHAPTER 4 A creature with fast healing may add its fast healing value An object that takes any lethal hits has a cumulative –1 pen- to Fortitude saves made to become stable when dying. A dying alty on its future saves to resist injury from lethal damage, just vampire spawn, for example, gets a +2 bonus on its Fortitude as with characters. An object that is rendered disabled is broken saves to become stable. or destroyed instead.",
+        "name":  "BEHIND THE CURTAIN",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Reserve points can also reduce a Regardless of the variant you use, each player should record character’s nonlethal damage total. For each reserve point that his character’s massive damage threshold somewhere on the converts to a hit point, a character also subtracts 1 point from his character sheet (to avoid mid-battle calculations), and the DM nonlethal damage. In addition, a character can take a standard may want to add massive damage threshold values to monster action to “spend” a number of reserve points equal to or less than and NPC statistics blocks for the same reason. his HD to reduce his nonlethal damage an equal amount. (If a ALTERNATE THRESHOLD LEVELS character has the Endurance feat, the DM might choose to make this a move action, to refl ect the fact that such characters can The 50-point threshold in the standard D\u0026D rules can be al- more easily persevere through exhausting situations.) tered in several different ways. Constitution-Based Threshold: A character’s massive dam- age threshold is equal to his Constitution score. Whenever he pqs takes damage from a single hit that equals or exceeds his current",
+        "name":  "Nonlethal Damage",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "DEATH AND DYING and that it will probably deal enough damage to send him well This variant system increases a character’s chance of surviv- below –10 hit points. ing in combat against monsters that deal out tremendous This variant also reduces some of the swing factor of massive amounts of damage per attack, since any character brought to damage, since a single blown save won’t make the difference 0 hit points against such a creature has a chance of survival. be tween life and death. In fi ghts against monsters who can rou- It eliminates the fear that every high-level character has faced: tinely deliver 50 or more points of damage per hit—not terribly taking damage from a creature’s attack that knocks him down uncommon at higher levels—this keeps combat from being a close to 0 hit points, knowing that a second attack is coming grim game of “Who will be the fi rst to roll a natural 1?” pqqqqqqqqqqqqqqqqqqqqrs 620_88156_UnearthedArcana2.indd 121 12/11/03, 2:31:07 PM 122 4 RETPAHC GNIRUTNEVDA For example, Lidda is smashed by a hill giant’s club for 26 standard action, he must make another DC 22 Fortitude save to points of damage, but she only has 14 hit points left. She is remain disabled after taking that action. If he fails that save, or reduced to 0 hit points. She must immediately attempt a DC 14 if he takes even a single point of lethal damage, he is rendered Fortitude save (base DC 10, +4 because the damage dealt was at unconscious and begins dying (or may be slain outright). least 20 points but less than 30 points). She rolls a 5, so she is unconscious and dying. (Had she rolled any worse, the attack ACTION POINTS would have killed her outright.) On her next turn, she must succeed on a DC 10 Fortitude Action points give characters the means to affect game play in save to become stable. She rolls a 13, which is enough to remain signifi cant ways, by improving important rolls or unlocking dying but not good enough to become stable. Next round, the special abilities. Each character has a limited number of action DC increases to 11, and she rolls a 16. Since that result exceeds points, and once an action point is spent, it is gone for good. the DC by at least 5 points, Lidda becomes stable but remains ACQUIRING ACTION POINTS unconscious. Assuming that she isn’t healed by her friends (or slain by her enemies) in the meantime, she must succeed on a A beginning (1st-level) character starts the game with 5 action DC 10 Fortitude save 1 hour later to remain stable. points. A character above 1st level starts the game with a number of action points equal to 5 + 1/2 his current character level. MASSIVE DAMAGE Every time a character advances, he gains a number of action If a single attack deals suffi cient damage to force a saving throw points equal to 5 + 1/2 his new character level. Some prestige against massive damage (typically 50 points, though if you use classes might allow a faster rate of accrual, at the DM’s option. a variant system—see Massive Damage Thresholds and Results, above—that amount may vary dramatically), the target of the Action Points and Existing Games attack makes a Fortitude save as normal. If the save fails, the Adding action points to an existing campaign is easy, since target’s hit point total is reduced to 0, and he must immediately characters don’t need to make any special changes. Each char- attempt a second Fortitude save (DC 10, +2 per 10 points of dam- acter simply gains a number of action points equal to 5 + 1/2 his age dealt by the attack or effect) to determine if he is dead, dying, current character level. or merely disabled (as outlined above). For example, Tordek is blasted by the fi ery breath of an old red NPCs and Action Points dragon. Failing his Refl ex save, he takes 88 points of fi re dam- Most NPCs probably shouldn’t have action points, due to the age. Thankfully, Tordek wears a major ring of fi re resistance, which added complexity this would create. In the case of important reduces this damage by 20 points to 68. This number is far lower villains or other signifi cant characters, however, the DM may than his current hit points, but is enough damage to trigger a DC award them an appropriate number of action points to use 15 Fortitude save due to massive damage (according to the rules against the player characters. A number of action points equal in the Player’s Handbook). Unfortunately, Tordek rolls a natural 1 to 1/2 the NPC’s level is a good baseline. on the saving throw and is reduced to 0 hit points. He must now USING ACTION POINTS attempt a Fortitude save to see if he is merely disabled, dying, or if this attack slays him outright. The DC is 22 (base 10, +12 because You can spend 1 action point either to add to a single d20 roll, to the damage dealt is at least 60 points but not 70 points). This take a special action, or to improve the use of a feat. time Tordek rolls a 23, which is good enough to remain disabled. You can spend 1 action point in a round. If you spend a point Tordek remains conscious, but may attempt only a standard action to use a special action (see below), you can’t spend another one or a move action (plus free actions) each round, and if he takes a in the same round to improve a die roll, and vice versa. pqqqqqqqqqqqqqqqqqqqqrs",
+        "name":  "BEHIND THE CURTAIN",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "As you move, you can freely change your COMBAT FACING facing, rotating your miniature before you step into each new The combat rules in the Player’s Handbook intentionally ignore square. In addition, you can change facing at the end of your the direction a creature faces. The rules assume that creatures move. These rules do not apply if your movement is limited to a are constantly moving and shifting within their spaces, look- 5-foot step; see below. ing in all directions during a fi ght. In this variant, facing—the If you do not move during your turn, or if your movement direction your head and body are pointing—makes a big differ- is limited to a 5-foot step, you may change facing once, at any ence in how you move and fi ght. point during your turn, as a free action. You can turn to face This variant makes combat more complex, but it opens up new any direction you like, but you cannot change facing more than strategic options for PCs and monsters alike. It’s a good choice if once. (You can also change facing as a move action, however, if your group relishes the tactical complexity of D\u0026D combat and you aren’t using your move action to do something else.) doesn’t mind spending a lot of time duking it out with the bad Normal Movement: You can move into any square in your guys. It won’t change the power level of your game. front area at the normal movement cost. As you move, you may This variant supersedes the standard rules for fl anking and cre- change your facing as you enter each new square. Make it clear ates new conditions for the rogue’s use of the sneak attack ability. which way you’re facing as you move, if it matters (such as when enemies are near), and set your miniature’s facing when you’re FACING DIRECTION done moving. (If your miniature is on a square base, the corners",
+        "name":  "Changing Facing",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "the direction to the of the base may extend beyond the miniature’s space. That’s adjacent square the character or creature is pointing toward. okay, but remember that regardless of your facing, the size and This means that a Medium creature standing in a given square shape of your space never actually changes.) has eight possible facings. The three squares a Small or Medium Moving Backward or Sideways: In general, you’ll usually turn character is pointing toward are its front area. The three squares your character in the direction of movement before making a move. behind it are its rear area. The squares to its left and right are (As described above, you may freely make such changes in facing its fl anks. Larger characters have more squares to deal with, but during movement.) However, sometimes you’ll want to move with- they still face toward one of eight directions. Their front areas out changing your facing, to avoid exposing your fl ank or rear area remain the squares in front of them (including those on the to an attack of opportunity while you move. It costs two squares of front corners); their rear areas remain the squares behind them movement to enter a square on your fl ank or in your rear area. pqqqqqqqqqqqqqqqqqqqqrs",
+        "name":  "All PCs and most monsters have a facing",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Tentacles. OTHER CONSIDERATIONS",
+        "name":  "Displacer Beast",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Tentacles.",
+        "name":  "Faceless Creatures Kraken",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Tentacles. and perceive foes equally well in every direction. All elementals Roper: Strands. and oozes are faceless. Also, the following monsters are faceless: Squid, Giant: Tentacles. lantern archon, assassin vine, chaos beast, darkmantle, violet Scorpion, Monstrous: Sting. fungus, gibbering mouther, mimic, phasm, will-o’-wisp, xorn, and octopus (including giant octopus). Rear Attacks Faceless creatures can move or attack into any adjacent square, Some monsters have attacks and abilities that emerge from or and they can’t be fl anked or attacked from the rear be cause they attack into rear squares, not front squares. These creatures take don’t have fl anks or rears. no penalty for making these attacks into rear squares.",
+        "name":  "Some creatures have no real facing because they can move, attack, Otyugh",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Electricity ray. Tiny and smaller creatures don’t have facing. They can move or Beholder/Gauth: Maximum of three eye rays (beholder) or attack in any direction and are otherwise treated as faceless. two eye rays (gauth) into rear area.",
+        "name":  "Tiny and Smaller Creatures Arrowhawk",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creature touched",
+        "name":  "Target",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One creature/three levels, no SAVE SCORES two of which can be more than 30 ft. apart With this variant, NPCs and other opponents no",
+        "name":  "Target",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "fey, outsider. To create a variant list, simply start with the list of monsters in",
+        "name":  "First Column",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The incantation affects the caster rather than the and cruelty. intended target. Material Component: Forty-two mystic symbols inscribed around the perimeter of the focus doorway (requiring materials costing SAMPLE INCANTATIONS 500 gp). As described above, these symbols gradually disappear The following incantations are among the better-known incanta- during the time the incantation is in effect. tions in existence—which means that no more than a few eldritch Focus: An open doorway large enough to allow a Medium scholars know about them. Characters can learn of their existence creature to pass through it. during the course of an adventure by making a Knowledge (ar- XP Component: 400 XP. cana) check (see Discovering Incantations, above). Backlash: After speaking with the Dweller on the Threshold, the caster is exhausted.",
+        "name":  "Reversal",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Six required; they chant choruses and supplica- tation’s other targets as well as the caster. Any creature inside the tions to various dark deities throughout the incantation. hut must make a Fortitude save every 10 minutes or suffer the",
+        "name":  "Extra Casters",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "DC 30; Range: Close; Target: One creature; Dura- Caster reduced to –1 hp –3 tion: Hours (Instantaneous for teleportation subschool); Saving Caster infected with disease –4",
+        "name":  "Conjuration",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Losing more than a few Sanity points may Sanity loss values for encountering creatures, based on their type cause a character to go insane, as described below. If a character’s and size. These are only default values—the DM can and should Sanity score drops to 0 or lower, she begins the quick slide into adjust individual monsters he deems more or less horrible than oth- permanent insanity. Each round, the character loses another ers of their size. An aasimar, for instance, hardly presents a Sanity- point of Sanity. Once a character’s Sanity score reaches –10, she shaking sight, and should probably be treated as a humanoid rather is hopelessly, incurably insane. The Heal skill can be used to than an outsider. On the other hand, a vargouille—a Small outsider stabilize a character on the threshold of permanent insanity; see appearing much like a fl ying, bat-winged head—might provoke a The Heal Skill and Mental Treatment, below, for details. much more visceral reaction than other Small outsiders. A DM’s description of a Sanity-shaking situation should al- In addition, certain types of monstrous behavior might force ways justify the threat to a character’s well-being. Thus, a horde of additional Sanity checks, much like those described under Se- frothing rats is horrifying, while a single ordinary rat usually is vere Shocks, below. For instance, a mind fl ayer is an unnerving not (unless the character has an appropriate phobia, of course). sight, but watching one consume the brain of your best friend should certainly force another check, with losses appropriate to Maximum Sanity the situation. Ranks in the Knowledge (forbidden lore) skill simulate a charac- In most D\u0026D games, no character should need to make a San- ter’s comprehension of aspects of the dark creatures at the edges of ity check when encountering an elf, dwarf, or other standard reality. Once gained, this horrible knowledge is never forgotten, humanoid race from the Player’s Handbook, or for encountering and the character consequently surrenders mental equilibrium. A domesticated or otherwise commonplace animals. In some character’s Sanity weakens as his comprehension of these hidden cases, even humanoid races such as orcs and goblins might be truths increases. Such is the way of the universe. so common as to not cause Sanity loss either. A character’s current Sanity can never be higher than 99 Specifi c Monsters and Sanity: Some monsters have addi- minus the character’s ranks in the Knowledge (forbidden lore) tional or variant special abilities when using the Sanity variant. skill. This number (99 minus Knowledge [forbidden lore] ranks) Allip: The allip’s madness ability causes the loss of 2d6 Sanity is the character’s maximum Sanity. points rather than the normal effect.",
+        "name":  "Going Insane",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "INSANE INSIGHT At the DM’s option, a character who has just gone insane may awareness is up to the DM, but it may include something about have an insight into the situation or entity that provoked the a creature’s origin or a fact about its nature (feeding habits, natu- insanity. The player needs to make a DC 15 Wisdom check to ral habitat, weakness), a clue to the identity of a murderer at a gain the insight. Information provided by this sudden burst of murder scene, or some hint at a location of great importance. pqqqqqqqqqqqqqqqqqqqqrs 620_88156_UnearthedArcana2.indd 201 12/11/03, 3:11:46 PM 202 6 RETPAHC SNGIAPMAC",
+        "name":  "VARIANT RULE",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "n/a. Drugs in the D\u0026D game follow many of the same rules as poi- Overdose: n/a. sons, allowing the imbiber saving throws to resist their initial and secondary effects. Delay poison, neutralize poison, and similar effects Mertoran Leaf negate or end a drug’s effects, but they do not restore hit points, When mertoran leaf is dried, treated, and chewed, it provides ability damage, or other damage caused by the substance. appropriate alchemical treatment for personality disorders, and A creature that willingly takes a drug automatically fails both substance abuse disorders. saving throws. It is not possible to intentionally fail the initial Initial Effect: 1 point of Dexterity damage. save but attempt to save against the secondary effect, or vice Secondary Effect: The user becomes more confi dent, gaining a versa. Save DCs are provided for situations in which a character +2 alchemical bonus to Charisma for 1 hour. is unwillingly drugged. Side Effect: While the drug is in effect and for 12 hours there- Drugs also have some uses in treating insanity. The drugs after, mertoran leaf relieves the most severe symptoms of the described below all affect a character’s Sanity to some extent. listed disorders.",
+        "name":  "Drugs and Sanity Side Effect",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The character fl ees from home or work Phagophobia eating and cannot recall her past. Once the fl ight halts, the character Phonophobia noise, including one’s own voice may assume an entirely new identity. Pyrophobia fi re Dissociative Identity Disorder (Multiple Personality Disor- Scotophobia darkness der): The character appears to harbor more than one personal- Spectrophobia mirrors ity, each of which is dominant at times and has its own distinct Taphephobia being buried alive behavior, name, and even gender. The player needs to keep track Teratophobia monsters of the character’s different personalities. (Each one has the same Thalassophobia the sea ability scores and game statistics, but different goals, outlooks, Tomophobia surgery and attitudes.) 620_88156_UnearthedArcana2.indd 206 12/11/03, 3:14:36 PM 207 CAMPAIGNS CHAPTER 6 Eating Disorders delusion, decreased need for sleep, being easily distracted, These disorders can be incredibly debilitating and even lead willingness for dangerous or imprudent activities such as reck- to starvation. They are conditions that may continue for many less driving, delusions, hallucinations, and bizarre behavior. years, sometimes continually endangering the patient. All attack rolls, saves, and checks take a –4 morale penalty A",
+        "name":  "Pediphobia children Dissociative Fugue",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "individual mixed groups of monsters. Rather than combining monsters monster design and encounter design. Because you’re assigning of different CRs, then consulting a table to fi gure out what the specifi c XP awards to monsters, you don’t have to restrict yourself Encounter Level (EL) is, simply add up the XP award for each to the numbers that appear on the table. If you think a monster monster until you reach the XP total you want. For example, if you you’ve designed is CR 7-1/2, you can simply give out 4,200 XP for want to create an average encounter for 15th-level characters, put defeating it. At higher levels, the numbers on the table should suf- enough monsters in the encounter to total roughly 58,000 XP (the fi ce because it’s hard to discern a meaningful difference between amount the PCs would earn for a single CR 15 monster). a CR 18 monster and a CR 18-1/2 monster. But at lower levels, As with the standard experience point system, the DM should the fl exibility is potent because you can fi ll in the gap between CR closely watch the experience awards for large numbers of weak 1 and CR 2 (which otherwise represents a 100% power increase) creatures, which often provide little or no meaningful challenge and between CR 2 and CR 3 (a 50% power increase). to characters. pqqqqqqqqqqqqqqqqqqqqrs 620_88156_UnearthedArcana2.indd 215 12/11/03, 3:18:09 PM 216 :DROWRETFA SDLROW NEHW EDILLOC",
+        "name":  "DMs who use this variant gain fl exibility in two areas",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One creature Metacreativity",
+        "name":  "Target",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One creature change part of your name, behavior, clothing, or other",
+        "name":  "Target",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One creature CLASS FEATURES",
+        "name":  "Target",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You deduct the listed number Senses: The Senses entry indicates whether the of power points from your daily pool. The values are creature has darkvision, low-light vision, scent, cumulative. tremorsense, blindsense, blindsight, or some",
+        "name":  "Power Point Loss",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This word or phrase identifies the creature. Immune: Any immunities the creature has are Sometimes a number is given with the name to indi- indicated here. This includes immunity to specific cate how many creatures appear in the encounter. types of energy as well as specific immunities (such",
+        "name":  "Name",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This value is the Challenge Rating of an indi- as immunity to poison or to sleep effects). vidual creature of this kind. Resist and SR: If the creature has resistance to",
+        "name":  "CR",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The one- or two-letter abbreviation energy type and the number of points resisted per that appears here denotes the creature’s alignment. attack (acid 10, for example). This information is",
+        "name":  "Alignment",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This value is the creature’s modifier on initia- resistance, if any, appears after the other resistances tive checks. on the same line. 26 3 RETPAHC FO SMETI YCAGEL",
+        "name":  "Init",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This entry gives the creature’s Base Atk: The Base Atk entry gives the creature’s saving throw modifiers. base attack bonus without any modifiers.",
+        "name":  "Fort, Ref, Will",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The creature’s ability scores appear here in the customary order (Str, Dex, Con, Int, Roleplaying Hook Wis, Cha). When appropriate, a Hook entry appears at the end",
+        "name":  "Abilities",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Any special qualities not presented earlier in of a statistics block, set off in its own section. This is the statistics block appear here. These entries are often a tidbit of information to help you run the creature class features or other abilities that are not generally in a fl avorful or memorable way. Generally, this relevant in combat. information is present only if the statistics block",
+        "name":  "SQ",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This entry lists all the feats the creature describes a unique named character. It might be a possesses, including those that appear elsewhere in quote or a battle cry, or an indication of the kind of the statistics block. characters the creature is most likely to attack. If",
+        "name":  "Feats",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This entry shows all the skill modifiers the descriptive text that accompanies a creature’s or for skills in which the creature has ranks. Modifiers character’s statistics block includes facts about the are also provided for skills to which racial modi- individual’s behavior or outlook that could serve as a fiers, bonuses from synergy, or other modifiers roleplaying hook, the Hook entry is omitted. Such is apply, whether or not the creature has ranks in the case for the NPCs in the adventure seeds in this those skills. chapter—information that would normally appear",
+        "name":  "Skills",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You must defeat a creature with ture with the earth subtype within 60 feet. You must the earth subtype in personal combat. The creature’s concentrate (a standard action) to do so. The hammer Challenge Rating must be equal to or greater than ignores any damage reduction an earth-subtype crea- your character level. Cost: 2,200 gp. Feat Granted: Least ture possesses. Legacy (Bloodcrier’s Hammer). Pathbreaker (Su): Beginning at 7th level, once per",
+        "name":  "Trial By Earth",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Once per day, while wearing the gauntlets, you can learn the most commonly used name of any one creature by looking that creature in the eyes. The target gets a Will save (DC 10 + 1/2 your HD + your Wisdom bonus) to negate the effect. This is a divina- tion effect (caster level 3rd). HISTORY Pelt was the scrawny, illegitimate child of a prostitute, and a target Bullybasher’s Gauntlets for every bully in his turned a tormented weakling into a champion town. He earned his of the downtrodden keep by cleaning shop and smelting metal for these matches only to a local blacksmith. The save enough gold to leave older boys of the streets the city, but he drew the hunted poor Pelt down ev- attention of a powerful local ery day, but the boy refused to cower crime gang called the Green to anyone. It didn’t matter how much the other Daggers. The gang wanted Pelt to muscle their “tax” kids ganged up on him, he heeded his mother’s words from the neighborhood businesses. Most storekeepers and never fought back. Pelt didn’t throw a single punch, paid into the protection racket without complaint, but his unwillingness to be intimidated earned him a except for a solitary blacksmith—the same one who regular beating. While Pelt was healing from one par- had raised Pelt after his mother died. Pelt defi ed the ticularly bad thrashing, his mother caught a seasonal gang and defended his adoptive father. He proceeded to virus. The impoverished woman couldn’t afford medi- take out every leg-breaker and assassin sent after him. cine while Pelt was incapacitated, and the gang that Taking this as a sign of weakness, the other gangs in the skimmed her profi ts wouldn’t help either. She died, and local underworld made quick work of the remaining the blacksmith took Pelt in. When he recovered, Pelt Green Daggers. (DC 25; Call Them Out) took a pair of discarded metal gloves from the black- It was around this time that the local shop owners smith and began wearing them in public. These gloves approached Pelt and offered to pay him for his protec- came to be known as Bullybasher’s Gauntlets.(DC 15) tion. Pelt accepted. The community was too large for The oversized gauntlets made Pelt a target right away, one man to look after, so Pelt recruited deputies from which was exactly what he wanted. He watched the among the townsfolk who used to bully him when faces of the street kids contort into ugly expressions they were children. With their help, he organized of greed as they rushed him. Outnumbered as usual, a militia to resist the new gangs that had formed Pelt fought back this time. He kept throwing punches when the Green Daggers were dismantled. Without until each attacker had been fl attened in turn, sending realizing it, Pelt had decided to stay put. The city had boy after boy sprawling on the cobblestones. Pelt had somehow become more appealing, and Pelt now felt taken his thumps over the years, but he had learned like he belonged. Under his stewardship, the com- from each one. (DC 20; Knock Them Down) munity prospered. Pelt used much of his own wealth It wasn’t long before Pelt’s skills as a pugilist attracted an to fi nance a hospital for the poor, so poverty would unscrupulous merchant who organized bouts against the never again make the difference between one of them young man for entertainment and profi t. Pelt fought in living or dying. (DC 30; Build Them Up) Illus. by D. Crabapple 44 3 RETPAHC FO SMETI YCAGEL Table 3–6: Bullybasher’s Gauntlets ——————— Personal Costs ——————— Wielder Attack Skill Check Hit Point Skill Point Level Penalty Penalty Loss Loss Abilities 5th — — — — Sturdy grip 6th — — 2 4 Knock silly 2/day 7th –1 — — — Solitary warrior 8th — — — — Cheat death 1/day 9th — — — — — 10th — –1 2 2 Power of one +2 11th — — — — Rough and tumble 12th — — — 2 +2 gauntlets 13th –2 — — — Giant bearing 14th — — 2 — Power of one +4 15th — — — 2 Stone gathering 16th — –2 — — +3 gauntlets 17th — — — — Frightful presence 18th — — 2 2 No wound too big, power of one +6 19th — –3 — 2 Lightning punch 20th — — — 2 +4 gauntlets LEGACY RITUALS Sturdy Grip (Su): At 5th level, while wearing Bully- Three rituals are required to unlock all the abilities basher’s Gauntlets, you gain a +4 bonus on opposed of Bullybasher’s Gauntlets. grapple checks to establish a hold (but no other",
+        "name":  "Omen",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You must defeat in personal Dolphin’s Breath (Su): Beginning at 6th level, combat a hostile creature with the aquatic subtype you can go an entire hour without needing to take a and a CR equal to your level or higher (maximum breath. However, if you don’t get a breath after that CR 10). Cost: 1,200 gp. Feat Granted: Least Legacy hour elapses, you must hold your breath or begin (Coral’s Bite). to drown (see Drowning, page 304 of the Dungeon",
+        "name":  "Hero of the Pod",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Silver holy symbol of In the span of one night, strategies were concoct- resistance +1; Cost 1,550 gp; Weight 1 lb. If you have ed, forming first, second, and third lines of defense, the ability to turn undead, all language-speaking always keeping the mountains at the united army’s creatures within 30 feet can understand you when back. Carthid gathered all the holy persons around you speak, regardless of language. This does not give him the next morning and meditated before battle. you any ability to understand others’ languages. When the undead arrived, Divine Spark became the",
+        "name":  "Nonlegacy Game Statistics",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Divine Spark transforms into your focal point for every consecrated person present, preferred holy symbol while you carry it. allowing them to channel their turning abilities through Carthid and raise his pow- HISTORY er by a degree based on all who Divine Spark was created when remained in their circle. They a great swelling evil threat- were unstoppable together, cutting ened to overrun the world and a swath through the undead wher- extinguish all human life. The ever they moved. If one cleric most powerful necromancers of was slain, all the others’ the known realms formed turning abilities were im- an unholy pact, creat- mediately refreshed. No ing armies of ghouls, death was in vain. It quickly skeletons, wights, and became obvious the overconfi- zombies that wiped out dent necromancers had stretched entire regions, adding the slain to themselves too thin. That day, their numbers. Church leaders in the tide of battle shifted with- the land could not afford to let out any divine intervention. bickering and religious differ- The members of the human na- ences come between them any tions survived by saving themselves. longer. One man united them— Carthid disappeared into obscurity Carthid Ufander. Carthid did not Divine Spark brought together those of shortly thereafter, but he has long believe in any deity, for what god pure heart to resist overwhelming evil been remembered as the man who would allow so many people to suf- single-handedly, though only briefly, fer at the hands of rabid, amoral creatures that made united all religions. (DC 25; Belief in Kin) feasts out of human flesh? Carthid did believe in some- LEGACY RITUALS thing greater than himself, however—the resilience of humanity. To him, nothing was more divine than Two rituals are required to unlock all the abilities of this one truth. (DC 15) Divine Spark.",
+        "name":  "Omen",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You are required to defeat in Marked Target (Su): At 5th level and higher, on personal combat a creature with the fi re subtype and command, you can cock and fi re the empty Flamecast- a CR equal to or greater than your level (maximum er’s Bolt to launch a harmless bolt of energy. With a CR 10). Cost: 4,500 gp. Feat Granted: Least Legacy successful ranged touch attack, the bolt strikes a single (Flamecaster’s Bolt). target up to 400 feet away, with no range increment",
+        "name":  "Suffer the Flames",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  " You have to take something from three different strang- ers, without them noticing, using Sleight of Hand. If even one of these Sleight of Hand checks fails, or a creature notices even one attempt, the ritual is unsuccess- The wearer of Ghostfolly’s Gloves is ful. Cost: 3,700 gp. Feat Granted: Least superbly garbed for missions Legacy (Ghost folly’s Gloves). of infi ltration",
+        "name":  "Test of Tenaciousness",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+1 longspear; Cost the triton hero Oceaneid, bore the Notched Spear into 2,305 gp. When set against a charge, Notched Spear battle against the great shark-fiend. The clash lasted for deals an extra 1d6 points of damage on a successful three tides. In the end, the shark swallowed Oceaneid attack against a charging creature (on top of the whole even as the triton’s spear pierced its gullet and normal double damage). killed it. The monster’s carcass, along with the body",
+        "name":  "Nonlegacy Game Statistics",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You must kill a foe with Lash, you can heal yourself for 3d8+10 hit points as a a Challenge Rating of 18 or higher, again fastening swift action. This ability also eliminates any fatigue or the slain creature’s skull to Skull Lash. Cost: 40,500 gp. exhaustion you currently suffer. Caster level 10th.",
+        "name":  "Rite of the Third Skull",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The skull of any animal grants a set of abilities enhancing your savage nature. At 7th level, you gain a +5 bonus on Survival checks. At 13th level, you gain the scent ability (see page 314 of the Monster Manual). At 19th level, you gain a +6 enhancement bonus to Constitution.",
+        "name":  "Animal Skull",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You have to defeat an outsider Stalker’s Insight (Su): At 18th level and higher, once in personal combat. The creature’s CR must be equal per day on command, you gain a +10 insight bonus on to or greater than your character level. Cost: 40,500 gp. Hide, Listen, Move Silently, Spot, and Survival checks",
+        "name":  "Trial of the Outsider",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You must locate a dead tree ever Stormchaser’s Cudgel delivers a critical hit against struck by lightning. By dealing yourself 4 points of a humanoid creature with 4 or fewer Hit Dice, that slashing or piercing damage, you must then water the creature must succeed on a Will save or be dazed for tree’s roots with your blood, dealing an additional 1 round. The save DC is 10, or 10 + your Charisma 6 points of damage to yourself. Cost: 12,500 gp. Feat modifier, whichever is higher. Caster level 5th.",
+        "name":  "Ancestral Roots",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "hp 32 (see page 257 of the Monster Manual). Secret Hideout This mossy cavern is underneath a pond and has been reinforced with stout beams. Almost half of the cavern fl oor is covered with water. 166 3 RETPAHC FO SMETI YCAGEL THANIFEX Thanifex became instrumental in making Javen’s dark Thanifex (sometimes called the “Spear of the Erst- pledge possible. (DC 15) while”) is a long, broad-bladed spear constructed from As the years churned by, more slaves were always a sheer, black metal that defies detailed examination. brought to the city. Javen rose through the ranks of It has been surmised the greatspear is fashioned slavery, finally becoming a master stonecutter. While from pure “void.” he enjoyed the benefits of his skilled position,",
+        "name":  "Suldan Kabrel, Wraith",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Elemental Plane of Fire MONSTERS",
+        "name":  "Environment",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— IRONHEART, SERVANT OF FIRE Ironheart was a fairly typical This example uses a fiendish azer azer cleric, worshiping Therme- cleric as the base creature. khûl (the dwarven patron of fire and battle; see Races of Stone, page Ironheart 19) and guiding his kin through their Medium Outsider (Extraplanar, duties in life. When his community was Fire) threatened by invading yugoloths from Male Azer Cleric 3 the Bleak Eternity of Gehenna, he",
+        "name":  "Level Adjustment",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Lawful evil Omen: All creatures within 15 feet of Shuluth",
+        "name":  "Alignment",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    }
+]

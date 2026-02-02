@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "spells.json",
+        "description":  "These wooden goggles have a thin usually water, although oil and holy water are com- horizontal slit in the middle. They grant a +2 circum- monly used as well (acid is a poor choice, as it eats stance bonus on saves to resist blinding effects, away the container in a few rounds). When pumped (a including snow blindness, extremely bright light, or standard action) the sprayer creates a dense cloud of spells that target vision indirectly (such as sunburstbut vapor 10 feet long. Because the particles are so fine, the not blindness). While wearing snow goggles, you incur cloud lasts for only a moment and does not drift to a û4 circumstance penalty on Spot and Search checks. adjacent squares. The drum contains enough liquid to",
+        "name":  "Snow Goggles",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "An extremely potent clear alcohol. weather outfit described in the PlayerÆs Handbook.If Rumors of bottles spontaneously catching fire when worn by itself, it grants a +1 circumstance bonus exposed to sunlight have never been proven. Anyone on Fortitude saving throws against exposure to with the rage class ability must make a Will save (DC cold weather (see Cold Dangers in Chapter 3 of the 15) to resist flying into a rage after drinking a tankard DUNGEONMASTERÆSGuide). of this liquor. If you have already expended all your Helmet, MinerÆs:This metal pot helm has a small rages for the day, then frenzywater has no additional enclosure on the front, similar to a bullseye lantern. effect other than making you irritable and surly. (For- It can hold one candle, which illuminates a cone 10 titude save DC 15.) feet long. The candle is commonly imbued with a Frostwine: This delicate white wine is created from lightor continual flame spell. an exotic blend of grapes that grow only in extreme",
+        "name":  "Winter fullcloth is considered part of the cold Frenzywater",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A vehicle with good maneuverability the driverÆs initiative count, turning as the driver uses up 5 feet of its speed to start moving backward. wishes. The driver is free to attack, cast a spell, or per- No matter what their maneuverability is, wind-pow- form another standard action in addition to driving. ered vehicles canÆt go in reverse. Dray creatures move Most vehicles have a maximum speed. This is the backward at a speed of 10 feet or their normal speed, greatest distance it can cover in a single move; an whichever is less. Oar-powered vehicles move back- undamaged vehicle can make a double move as easily ward at half speed. as a single move.",
+        "name":  "Reverse",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spellcasters aboard a moving another vehicle at an angle that is neither head-on, vehicle must succeed on Concentration checks to perpendicular, nor the same, treat the collision as if cast spells. The check DC is 10 + spell level for all the angle were the nearest 90-degree angle. In other land vehicles and for air or water vehicles in words, a collision counts as head-on (adding the speeds inclement weather. The check DC is 15 + spell level together) even if one vehicle is moving north and the aboard an air or water vehicle in a storm, and 25 + other vehicle is a bearing a few degrees off south. If itÆs spell level in a powerful storm. Aboard a big air or exactly a 45-degree angle (one vehicle is going east and water vehicle, a spellcaster can reduce the check DC the other is going northeast, for instance), use the by 5 by going belowdecks. most damaging category. Thus, if a vehicle going east",
+        "name":  "Casting a Spell",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As above, but the pas- everything within 24 hoursÆ travel at the vehicleÆs cur- senger quarters are cushioned and decorated. Each rent maximum speed. If the bearer then specifies a ton of cargo space can accommodate one passenger at destination, it draws the most direct physical route to this level of comfort. that destination. Like the find the path spell, the charts",
+        "name":  "Passenger Spaces, Fancy",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Handle Animal to train a creature under the influence of a mind- tive. These creatures defend them- 8 ranks. affecting spell that causes it to befriend or obey the selves if attacked, however.",
+        "name":  "Prerequisite",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "5,000 gp. dimensional travel, as the di- young and adult creatures, the market mensional anchor spell, for as price for one egg or young of the crea- Gargoyle long as it wears the collar. The ture, and a trainerÆs charge to rear or Gargoyles are excellent guardians, but only for as collar expands or contracts to train the creature. long as they choose to be. They are best left in places fit any size creature. The DC that the owner does not expect to visit very often, to break or slip out of the Blink Dog since they can be antagonistic toward even the collar is 40. Blink dog packs try to prevent it, but person who placed them.",
+        "name":  "Animal check DCs for training both Training Cost",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "30,000 gp; Weight:1 lb. Being both intelligent and lawful good, while they wait in place. Geasor questspells also work blink dogs trained in such an environ- well. Gargoyles do not submit to training. ment are reluctant guards, but like slaves raised in DC Young/Adult: ù/ù; Young Price: ù; Training captivity, they are too beaten and ignorant of free- Cost:ù. dom to disobey orders. On rare occasions, a pack of blink dogs serve as Hell Hound guardians and friends for a tribe of wild elves or a Hell hounds are aggressive hunters that get restless if lawful good person who has done a great service to enclosed and left alone to protect some place or the pack. In these instances, the blink dogs require object. Evil masters can use them as guardians, but no training and act of their own volition. At no time, they must let the hounds roam and hunt as they however, are they considered domesticated or tame. please. One or two hell hounds can serve as personal DC Young/Adult: 22/29; Young Price: 10,000 gp; guards, or packs can be kept in infernal kennels for",
+        "name":  "Price",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Unlike most predators, thudhunters are loud and obvious. Hunting in packs, they keep their 77 shovel-noses close to the ground. Their footfalls thunder for a quarter-mile or more through the air, and farther underground, as they attempt to flush620_88159_001_A\u0026E Guide2.qxd 1/10/03 1:06 PM Page 78 CHAPTER 4: HIRELINGS AND CREATURES out their quarry. Once a burrowing creature sur- Care and Feeding faces, the nearest thudhunters attack with their Mounts vary so widely that it is impractical to create claws and grapple to keep it from escaping while a single rule for determining how much one eats or others burrow underneath. Together, the pack claws how much attention it needs from a stablehand. and bites its prey to death. Many DMs donÆt even worry about details of mount Improved Grab (Ex): If a thudhunter hits with a care and feeding, and for good reasonùitÆs boring. claw, it deals normal damage and attempts to start However, some guidelines are worth considering. a grapple as a free action without provoking an Exotic mounts need exotic care. In civilized areas, attack of opportunity. It has the option to conduct stable, feed, and grooming for a horse or riding dog the grapple normally, or simply use that claw to costs 5 sp per day. If a mount is larger, is oddly hold the opponent (û20 on grapple checks, but the shaped, or has an unusual diet, a stablemaster might thudhunter is not considered grappled). Each suc- double or quadruple that price. If the creature eats cessful grapple check it makes during successive something difficult to obtain, the owner must be rounds automatically deals the damage given for prepared to provide it. the claw attack. In the wilderness or underground, assume that the Thud (Ex): Their thick, stumpy legs loudly stomp owner must spend about an hour each day on various the ground when thudhunters prowl. Creatures with ômount maintenanceö tasks. If there are no unusual tremorsense within 120 feet are driven to distraction considerations, the character is assumed to take care by the disruptive vibrations, and are forced to surface of these tasks during the time that wizards and clerics unless they succeed on a Will save (DC 16). Once prepare their spells for the day. Otherwise, having a they do surface, they must succeed on a second Will dedicated hireling to handle the mount is a smart save (DC 16) or be stunned for 1 round. consideration. For animal mounts, the wage of 15 cp",
+        "name":  "Combat",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "100 lb. tens itself around a phantom steed, as the spell cast by",
+        "name":  "Weight",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Light 2,400 lb., medium 4,800 lb., they walk but can gallop tirelessly, moving at a full heavy 7,200 lb.; DC Young/Adult: 27/ù; Seed Price: run for an entire day (180 miles per day with a light 3,000 gp; Training Cost: 2,000 gp. load). Because the golem doesnÆt flex with the rider, however, riding one all day at a gallop is sore work. Wyvern Riders who attempt to ride longer than 8 hours per Despite its claws and wicked sting, a wyvern is a day begin to feel the effects as if under a forced far safer mount than one of its more intelligent march (see Chapter 9 of the PlayerÆs Handbook). cousins. Once caught and tamed, a wyvern behaves Since these mounts are constructs, they need no predictably and follows relatively standard train- training. They simply do what their masters tell them ing procedures. to the best of their ability. Though reputedly stupid, wyverns are better de- Combat: An equine golem attacks as a warhorse, scribed as ôtactically challenged.ö When properly leading with hoof attacks against whatever its master disciplined and cared for, a wyvern can learn many points out. It can fight while carrying a rider, but the different commands and follow complex orders, rider cannot also attack unless he or she succeeds on even away from its master. However, if it is confused a Ride check. or hurt without a master to issue orders, it reverts Shatter(Sp):Three times per day, an equine golem to instinct and attacks the source of its discomfort. can emit an ear-splitting whinny, which acts as a shat- A wyvern can never be domesticated. terspell cast by a 10th-level sorcerer.",
+        "name":  "Carrying Capacity",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This +1 daggercan hold any one ioun concealment, including effects such as blurand invisi- stone in a special socket in its pommel. As long as bility, but not miss chances from other conditions thewielder holds the ioun blade, any stone held in the such as incorporeality or the blink spell. Although the pommel affects her as if it were spinning around her kama of pure aim can potentially remove the miss head normally. Placing or removing an ioun stone chance from an invisible foe, the attacker must still from the socket is a move-equivalent action that target the correct space. The wielder does not auto- provokes an attack of opportunity. matically know which space an invisible or otherwise",
+        "name":  "Ioun Blade",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "18,312 gp; Cost to Create: 9,312 gp + 720 XP. an additional arcane focus when casting a ray spell,",
+        "name":  "Price",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "38,301 gp; Cost to Create: 19,301 gp + 1,532 XP. Potions function like spells cast on the imbiber. A",
+        "name":  "Market Price",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "18th; Prerequisites:Forge Ring, spell turn- from elements; Market Price: 144,000 gp. ing, wish;Market Price:16,000 gp.",
+        "name":  "Caster Level",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This plain silver band is nonde- Heavens of Celestia is made of precious metals and script and unadorned. The wearer is under a contin- includes images of archons, while one keyed to the uous misdirection effect, redirecting Divination Ever-Changing Chaos of Limbo is almost amorphous, spells that reveal auras cast upon him. Such spells resembling an elongated ooze, though careful exam- automatically target their caster rather than the ination reveals the likenesses of slaadi lightly etched ringÆs wearer. into its surface.",
+        "name":  "Misdirection",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "12th; Prerequisites: Craft Rod, animate work. The staff of the artisan allows use of the follow- objects, bestow curse (greater rod only), EvardÆs black ing spells: tentacles, slow(lesser rodonly); Market Price: 21,000 gp (lesser rod) or 57,000 gp (greater rod). ò Minor creation(1 charge)",
+        "name":  "Caster Level",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Appearing to be little more than a rustic walking-stick, this staff allows use of the fol- Caster Level: 12th; Prerequisites: Craft Staff, insect lowing spells: plague, poison, spider climb, summon swarm, web; Market",
+        "name":  "Liberation",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "42,600 gp. ò Remove fear(1 charge) Undying Staff: This staff is constructed from ò Remove paralysis(1 charge) humanoid bones wired together into a single piece. It ò Remove curse(1 charge) allows use of the following spells: ò Freedom of movement(2 charges) ò Break enchantment(2 charges) ò Animate dead(1 charge) ò Create undead(2 charges)",
+        "name":  "Price",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "13th; Prerequisites:Craft Staff, fire storm, tion, the holder can produce a healing circle three flame strike;Market Price:60,000 gp. This price assumes times a day. All these effects are as the spells from a the staff is created by a druid. 9th-level caster.",
+        "name":  "Caster Level",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This plain but sturdy-looking 14 (touch 10, flat-footed 13); Atk +5 melee (1d8+6, cloak provides excellent protection against wind, bite); Face/Reach 5 ft. by 10 ft./5 ft.; SQ Vermin, dark- cold, sun, and rain. On command, the cloak turns vision 60 ft.; AL N; SV Fort +4, Ref +2, Will +2; Str 18, itself into a 4-person tent. This tent includes an alarm Dex 12, Con 13, Int û, Wis 12, Cha 12. spell (as if cast by a 7th-level sorcerer) but is other- Skills: Hide û3, Intuit Direction +7, Spot +7. wise normal. Once per day, the cloak can turn into a Vermin: Immune to all mind-influencing effects. small lodge, as LeomundÆs secure shelter. 131",
+        "name":  "Cloak of Shelter",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "These wooden goggles have a thin usually water, although oil and holy water are com- horizontal slit in the middle. They grant a +2 circum- monly used as well (acid is a poor choice, as it eats stance bonus on saves to resist blinding effects, away the container in a few rounds). When pumped (a including snow blindness, extremely bright light, or standard action) the sprayer creates a dense cloud of spells that target vision indirectly (such as sunburstbut vapor 10 feet long. Because the particles are so fine, the not blindness). While wearing snow goggles, you incur cloud lasts for only a moment and does not drift to a û4 circumstance penalty on Spot and Search checks. adjacent squares. The drum contains enough liquid to",
+        "name":  "Snow Goggles",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "An extremely potent clear alcohol. weather outfit described in the PlayerÆs Handbook.If Rumors of bottles spontaneously catching fire when worn by itself, it grants a +1 circumstance bonus exposed to sunlight have never been proven. Anyone on Fortitude saving throws against exposure to with the rage class ability must make a Will save (DC cold weather (see Cold Dangers in Chapter 3 of the 15) to resist flying into a rage after drinking a tankard DUNGEONMASTERÆSGuide). of this liquor. If you have already expended all your Helmet, MinerÆs:This metal pot helm has a small rages for the day, then frenzywater has no additional enclosure on the front, similar to a bullseye lantern. effect other than making you irritable and surly. (For- It can hold one candle, which illuminates a cone 10 titude save DC 15.) feet long. The candle is commonly imbued with a Frostwine: This delicate white wine is created from lightor continual flame spell. an exotic blend of grapes that grow only in extreme",
+        "name":  "Winter fullcloth is considered part of the cold Frenzywater",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A vehicle with good maneuverability the driverÆs initiative count, turning as the driver uses up 5 feet of its speed to start moving backward. wishes. The driver is free to attack, cast a spell, or per- No matter what their maneuverability is, wind-pow- form another standard action in addition to driving. ered vehicles canÆt go in reverse. Dray creatures move Most vehicles have a maximum speed. This is the backward at a speed of 10 feet or their normal speed, greatest distance it can cover in a single move; an whichever is less. Oar-powered vehicles move back- undamaged vehicle can make a double move as easily ward at half speed. as a single move.",
+        "name":  "Reverse",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spellcasters aboard a moving another vehicle at an angle that is neither head-on, vehicle must succeed on Concentration checks to perpendicular, nor the same, treat the collision as if cast spells. The check DC is 10 + spell level for all the angle were the nearest 90-degree angle. In other land vehicles and for air or water vehicles in words, a collision counts as head-on (adding the speeds inclement weather. The check DC is 15 + spell level together) even if one vehicle is moving north and the aboard an air or water vehicle in a storm, and 25 + other vehicle is a bearing a few degrees off south. If itÆs spell level in a powerful storm. Aboard a big air or exactly a 45-degree angle (one vehicle is going east and water vehicle, a spellcaster can reduce the check DC the other is going northeast, for instance), use the by 5 by going belowdecks. most damaging category. Thus, if a vehicle going east",
+        "name":  "Casting a Spell",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As above, but the pas- everything within 24 hoursÆ travel at the vehicleÆs cur- senger quarters are cushioned and decorated. Each rent maximum speed. If the bearer then specifies a ton of cargo space can accommodate one passenger at destination, it draws the most direct physical route to this level of comfort. that destination. Like the find the path spell, the charts",
+        "name":  "Passenger Spaces, Fancy",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Handle Animal to train a creature under the influence of a mind- tive. These creatures defend them- 8 ranks. affecting spell that causes it to befriend or obey the selves if attacked, however.",
+        "name":  "Prerequisite",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "5,000 gp. dimensional travel, as the di- young and adult creatures, the market mensional anchor spell, for as price for one egg or young of the crea- Gargoyle long as it wears the collar. The ture, and a trainerÆs charge to rear or Gargoyles are excellent guardians, but only for as collar expands or contracts to train the creature. long as they choose to be. They are best left in places fit any size creature. The DC that the owner does not expect to visit very often, to break or slip out of the Blink Dog since they can be antagonistic toward even the collar is 40. Blink dog packs try to prevent it, but person who placed them.",
+        "name":  "Animal check DCs for training both Training Cost",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "30,000 gp; Weight:1 lb. Being both intelligent and lawful good, while they wait in place. Geasor questspells also work blink dogs trained in such an environ- well. Gargoyles do not submit to training. ment are reluctant guards, but like slaves raised in DC Young/Adult: ù/ù; Young Price: ù; Training captivity, they are too beaten and ignorant of free- Cost:ù. dom to disobey orders. On rare occasions, a pack of blink dogs serve as Hell Hound guardians and friends for a tribe of wild elves or a Hell hounds are aggressive hunters that get restless if lawful good person who has done a great service to enclosed and left alone to protect some place or the pack. In these instances, the blink dogs require object. Evil masters can use them as guardians, but no training and act of their own volition. At no time, they must let the hounds roam and hunt as they however, are they considered domesticated or tame. please. One or two hell hounds can serve as personal DC Young/Adult: 22/29; Young Price: 10,000 gp; guards, or packs can be kept in infernal kennels for",
+        "name":  "Price",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Unlike most predators, thudhunters are loud and obvious. Hunting in packs, they keep their 77 shovel-noses close to the ground. Their footfalls thunder for a quarter-mile or more through the air, and farther underground, as they attempt to flush620_88159_001_A\u0026E Guide2.qxd 1/10/03 1:06 PM Page 78 CHAPTER 4: HIRELINGS AND CREATURES out their quarry. Once a burrowing creature sur- Care and Feeding faces, the nearest thudhunters attack with their Mounts vary so widely that it is impractical to create claws and grapple to keep it from escaping while a single rule for determining how much one eats or others burrow underneath. Together, the pack claws how much attention it needs from a stablehand. and bites its prey to death. Many DMs donÆt even worry about details of mount Improved Grab (Ex): If a thudhunter hits with a care and feeding, and for good reasonùitÆs boring. claw, it deals normal damage and attempts to start However, some guidelines are worth considering. a grapple as a free action without provoking an Exotic mounts need exotic care. In civilized areas, attack of opportunity. It has the option to conduct stable, feed, and grooming for a horse or riding dog the grapple normally, or simply use that claw to costs 5 sp per day. If a mount is larger, is oddly hold the opponent (û20 on grapple checks, but the shaped, or has an unusual diet, a stablemaster might thudhunter is not considered grappled). Each suc- double or quadruple that price. If the creature eats cessful grapple check it makes during successive something difficult to obtain, the owner must be rounds automatically deals the damage given for prepared to provide it. the claw attack. In the wilderness or underground, assume that the Thud (Ex): Their thick, stumpy legs loudly stomp owner must spend about an hour each day on various the ground when thudhunters prowl. Creatures with ômount maintenanceö tasks. If there are no unusual tremorsense within 120 feet are driven to distraction considerations, the character is assumed to take care by the disruptive vibrations, and are forced to surface of these tasks during the time that wizards and clerics unless they succeed on a Will save (DC 16). Once prepare their spells for the day. Otherwise, having a they do surface, they must succeed on a second Will dedicated hireling to handle the mount is a smart save (DC 16) or be stunned for 1 round. consideration. For animal mounts, the wage of 15 cp",
+        "name":  "Combat",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "100 lb. tens itself around a phantom steed, as the spell cast by",
+        "name":  "Weight",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Light 2,400 lb., medium 4,800 lb., they walk but can gallop tirelessly, moving at a full heavy 7,200 lb.; DC Young/Adult: 27/ù; Seed Price: run for an entire day (180 miles per day with a light 3,000 gp; Training Cost: 2,000 gp. load). Because the golem doesnÆt flex with the rider, however, riding one all day at a gallop is sore work. Wyvern Riders who attempt to ride longer than 8 hours per Despite its claws and wicked sting, a wyvern is a day begin to feel the effects as if under a forced far safer mount than one of its more intelligent march (see Chapter 9 of the PlayerÆs Handbook). cousins. Once caught and tamed, a wyvern behaves Since these mounts are constructs, they need no predictably and follows relatively standard train- training. They simply do what their masters tell them ing procedures. to the best of their ability. Though reputedly stupid, wyverns are better de- Combat: An equine golem attacks as a warhorse, scribed as ôtactically challenged.ö When properly leading with hoof attacks against whatever its master disciplined and cared for, a wyvern can learn many points out. It can fight while carrying a rider, but the different commands and follow complex orders, rider cannot also attack unless he or she succeeds on even away from its master. However, if it is confused a Ride check. or hurt without a master to issue orders, it reverts Shatter(Sp):Three times per day, an equine golem to instinct and attacks the source of its discomfort. can emit an ear-splitting whinny, which acts as a shat- A wyvern can never be domesticated. terspell cast by a 10th-level sorcerer.",
+        "name":  "Carrying Capacity",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This +1 daggercan hold any one ioun concealment, including effects such as blurand invisi- stone in a special socket in its pommel. As long as bility, but not miss chances from other conditions thewielder holds the ioun blade, any stone held in the such as incorporeality or the blink spell. Although the pommel affects her as if it were spinning around her kama of pure aim can potentially remove the miss head normally. Placing or removing an ioun stone chance from an invisible foe, the attacker must still from the socket is a move-equivalent action that target the correct space. The wielder does not auto- provokes an attack of opportunity. matically know which space an invisible or otherwise",
+        "name":  "Ioun Blade",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "18,312 gp; Cost to Create: 9,312 gp + 720 XP. an additional arcane focus when casting a ray spell,",
+        "name":  "Price",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "38,301 gp; Cost to Create: 19,301 gp + 1,532 XP. Potions function like spells cast on the imbiber. A",
+        "name":  "Market Price",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "18th; Prerequisites:Forge Ring, spell turn- from elements; Market Price: 144,000 gp. ing, wish;Market Price:16,000 gp.",
+        "name":  "Caster Level",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This plain silver band is nonde- Heavens of Celestia is made of precious metals and script and unadorned. The wearer is under a contin- includes images of archons, while one keyed to the uous misdirection effect, redirecting Divination Ever-Changing Chaos of Limbo is almost amorphous, spells that reveal auras cast upon him. Such spells resembling an elongated ooze, though careful exam- automatically target their caster rather than the ination reveals the likenesses of slaadi lightly etched ringÆs wearer. into its surface.",
+        "name":  "Misdirection",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "12th; Prerequisites: Craft Rod, animate work. The staff of the artisan allows use of the follow- objects, bestow curse (greater rod only), EvardÆs black ing spells: tentacles, slow(lesser rodonly); Market Price: 21,000 gp (lesser rod) or 57,000 gp (greater rod). ò Minor creation(1 charge)",
+        "name":  "Caster Level",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Appearing to be little more than a rustic walking-stick, this staff allows use of the fol- Caster Level: 12th; Prerequisites: Craft Staff, insect lowing spells: plague, poison, spider climb, summon swarm, web; Market",
+        "name":  "Liberation",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "42,600 gp. ò Remove fear(1 charge) Undying Staff: This staff is constructed from ò Remove paralysis(1 charge) humanoid bones wired together into a single piece. It ò Remove curse(1 charge) allows use of the following spells: ò Freedom of movement(2 charges) ò Break enchantment(2 charges) ò Animate dead(1 charge) ò Create undead(2 charges)",
+        "name":  "Price",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "13th; Prerequisites:Craft Staff, fire storm, tion, the holder can produce a healing circle three flame strike;Market Price:60,000 gp. This price assumes times a day. All these effects are as the spells from a the staff is created by a druid. 9th-level caster.",
+        "name":  "Caster Level",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This plain but sturdy-looking 14 (touch 10, flat-footed 13); Atk +5 melee (1d8+6, cloak provides excellent protection against wind, bite); Face/Reach 5 ft. by 10 ft./5 ft.; SQ Vermin, dark- cold, sun, and rain. On command, the cloak turns vision 60 ft.; AL N; SV Fort +4, Ref +2, Will +2; Str 18, itself into a 4-person tent. This tent includes an alarm Dex 12, Con 13, Int û, Wis 12, Cha 12. spell (as if cast by a 7th-level sorcerer) but is other- Skills: Hide û3, Intuit Direction +7, Spot +7. wise normal. Once per day, the cloak can turn into a Vermin: Immune to all mind-influencing effects. small lodge, as LeomundÆs secure shelter. 131",
+        "name":  "Cloak of Shelter",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Most players think of fights in one Many DMs are wary of making puzzles. Others are direction, the one where they close to meet the com- too comfortable making them, sometimes without batants. PCs attacked from several sides are automat- realizing the complexity some puzzles require. To ically at a disadvantage, because they must choose find the right level of comfort, identify a puzzle type where their area spells go, worry about being flanked, you can create and then practice until you create a and separate to attack multiple foes. memorable one.",
+        "name":  "Box Them In",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A herein, and keep trying them until you conclude that mid-level party seeing three iron golems coming at you would like to solve the puzzle if another DM pre- it will have a panic attack. But a hill giant sorcerer sented it to you. could easily cover two cronies and himself with illu- Try to personalize your puzzles. They need to sions that make them appear as iron golems—and he make sense in the world your PCs inhabit. Don’t may stop the PCs from casting spells on them, since give them a puzzle about rock music or cars, because the PCs will falsely believe they’re useless against the the PCs have never heard of either. Instead, use ref- “constructs.” Deception only needs to last a few rounds erences to NPCs, cities in your world, or monsters to be meaningful. A self-censoring party is a far less the PCs might face. dangerous one. Before you give your puzzles to the PCs, write a list",
+        "name":  "Show Them One Thing, Give Them Another",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Many chal- traps appear side by side, This book requires significant adaptability on the lenges in here impede the characters’ they are given a CR rating for players’ part. A key component of that is their spell ability to move freely. Being able to each individual trap, then one selection. Walking into these atypical environs fight normally underwater, in webs, or for the entire group. This gives armed with nothing but fireballs and lightning bolts in other difficult surroundings counters you the maximum XP the may make for frequent trips to the local purveyor of the natural advantages of the creatures party gets for dealing with raise dead spells. and traps in these encounters. that group of traps.",
+        "name":  "Freedom of Movement",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This spell has two purposes here. The to win the respect of his peers). first is jostling small objects and traps. The second is Hampering monsters the same way a DM ham- discovering when this isn’t possible, since mage hand pers characters can be less work for the same moves only unattended objects of 5 pounds or less. reward. Perhaps an ettin has lost his greatclubs or a Thus, if mage hand can’t move a small object, the titan no longer has his warhammer. Creatures with caster knows the object is not what it seems. Telekin- limited use abilities, such as the gorgon or the man- esisand unseen servant do this more effectively, as can ticore, may have already used some or all of them summoning a creature that can understand the caster for the day. This tactic works as long as the players and thus do more than simply attack. can be made aware of the limitation. Maybe an ogre",
+        "name":  "Mage Hand",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The correct solution is the curse and the cure are to press the “S” in the fifth row, turning spells rather than words for the word “CURSE” into the word words’ sake. “CURE.” This letter is not trapped; when pushed, it depresses with an audi- ble click and remains in the depressed position. The rest of the blocks then extend outward several inches on narrow iron rods. This configuration grants free access to the lock behind the blocks, allowing Open Lock checks with no penalty (and inflicting no damage on a failed Open Lock check).",
+        "name":  "The Solution",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This inky liquid may be used in two stronger incentive for unraveling such The characters may not have ways. When a vial is thrown onto a surface and breaks, an elaborate puzzle. time to make exact maps be- it acts as a darkness spell. If poured carefully onto an object (requiring a full-round action), it radiates a mag- Ivy Maze tween the hit-and-run tactics of the beasts. ical field for one day that temporarily negates any Where the characters begin in the maze light spells (of 3rd level or lower) brought within 20 determines the specific description you feet of it. The field also renders darkvision useless should use at the start of the encounter. A generic within its area. description is provided below, which the DM can",
+        "name":  "Oil of Night",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Normally, a trapdoor covers this pit. After the Like the other traps, this one has already been trap resets, any character stepping in the marked sprung. A Spellcraft check (DC 23) indicates that the space triggers the pit. (It is currently disabled.) singe marks came from a fireball. aPit Trap (80 ft. deep):CR 4; no attack roll nec-",
+        "name":  "Trap",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  " at area 7. A successful Spellcraft check (DC 18) identi- Search DC 27; Disable Device DC 27. What Disabling a fies this effect and determines that the bolt came 9. Spiked Pit Trap (EL 5) Device Means from farther along the corridor. Anyone searching this area may find (Search DC So, you have made your Dis- A deep open pit fills the passage at 20) small shards of glass, possibly from one or more able Device check against a this point. potion vials, littering the floor. trap. What does that do to it?",
+        "name":  "Variant",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Anyone passing through this space triggers a result below. A 15-foot-long section of this pas- scarespell that affects all creatures within 15 feet. (It is 7–9:You really broke it. The sage floor is studded with round currently disabled.) trap won’t go off again until blades protruding from the floor. aScareTrap:CR 3; scare, 3rd-level wizard, Will DC someone repairs it using the 13 negates; Search DC 27; Disable Device DC 27. Craft (trapmaking) skill. If you A Search check (DC 15) determines that don’t wish to destroy the trap 7. Lightning BoltTrap (EL 4) the blades are stained with a substance mechanism, you can voluntar- other than blood. A detect poison spell ily avoid doing so. The scorch marks continue down the length of registers it as poison, after which the 10+: You can either break the passage to the corner, where the corridor caster may attempt a Wisdom check or the trap as above or add a turns left again. Alchemy check (DC 20) to identify it as bypass element. This latter purple worm poison. option enables you to either",
+        "name":  "Trap",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "When a character steps into get past the trap without trig- trap. A successful Spellcraft check (DC 18) identifies the southernmost marked space, gering it or avoid its effect. For this effect and determines that the bolt came from whirling poisoned blades protrude example, you could disable a somewhere in the corner of the passage. (This can from the floor in each of the three narrow path through the also be determined by the fact that the scorch marks marked spaces. (It is currently dis- pressure plates that trigger don’t continue around the corner.) abled.) Opening a hidden lock in the poison darts from the wall, or",
+        "name":  "The scorch marks are the result of the lightning bolt Trap",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Any character entering the marked space wall (Search DC 25, Open Lock DC 30) note the tiny niche in the wall triggers a lightning bolt spell. A 5-foot-wide bolt disables the trap. that provides refuge from the heads west down the passage, filling it entirely. (It is aWhirling Poisoned Blades: CR rolling boulder. currently disabled.) 6; +10 melee (1d4+4/19–20 plus poison, See Song and Silence:A aLightning Bolt Trap: CR 4; lightning bolt, 5th- dagger); poison (purple worm poison, Guidebook to Bards and Rogues level wizard, Reflex DC 14 half, 5d6 electricity; Fortitude DC 24 resists, 1d6 Str/1d6 Str; for more rules on traps and Search DC 28; Disable Device DC 28. multiple targets (one target in each of trapmaking. three 5-ft.-by-5-ft. squares); Search DC 8. BaneTrap (EL 3) 20; Disable Device DC 20.",
+        "name":  "Trap",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Any good-aligned character entering the 11. Curse Trap (EL 4) marked space triggers an extended bane spell affect- ing all good-aligned characters within 50 feet. (It is You detect the sickening smell of burnt flesh from currently disabled.) The effect lasts for 6 minutes. 33 around the corner. aExtended Bane Trap: CR 3; extended bane, 620_88168 Bk of Challenge2d.qxd 4/18/02 10:39 AM Page 34 ENCOUNTER (EL 6) The smell comes from the dead rogue in area 12. masterwork arrows. The remnants of four broken",
+        "name":  "Trap",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Since the animated wandering where they should not. objects are the result of the ravid’s powers, you Finally, populate your maze with dangers and wouldn’t normally award XP for defeating them (just denizens, including the obvious minotaurs. Incorpo- as you don’t award XP for defeating summoned real creatures are not bound by such trivialities as monsters—the XP is reflected in the summoning walls. Traps can punish those who wander off course monster’s CR). However, the fact that the characters or stand in the way of those who find the true path. may encounter many of these animated objects Worst of all, you can impose barriers that separate before meeting the ravid itself means that it’s not characters scouting ahead from those lingering really the same as encountering just the ravid. behind, transforming the task from finding the exit You have two options for awarding extra experience. to finding the lost PCs. The first is to award some small amount of XP for each of the animated objects defeated in areas A through H. FIRE AND WATER (EL 7) Twenty-five percent of the normal award per object is probably appropriate. A second option is to reward This insidious antechamber features a simple logic characters who make it all the way through the maze puzzle, along with a few creatures to keep things and defeat the ravid itself by awarding 200% of the lively. It also presents a chance for characters to talk normal XP for defeating the ravid (a CR-5 monster). their way out of a fight. Groups that attack first and talk later should have a more difficult time than Mazes groups that only fight when they must. Of course, the This is a very simple maze, but you can use the princi- PCs have a better chance for a successful negotiation ples behind it to design much bigger and more if at least one of them has a decent Charisma score. involved labyrinths. When designing a maze, grab some graph paper and use the following guidelines. 1. Antechamber (EL 4) Start by figuring out the purpose you want your You enter a long, narrow room with a low, maze to serve. Do you want a small maze or a large vaulted ceiling. A row of levers runs down the one? Do you want to trap someone or something center of the floor. Each of the five levers points inside, or do you want to perplex those entering the to the right, and each one is a different color. maze? Do you wish to puzzle low-level adventurers or Starting with the lever farthest from you, you high-level adventurers? Do you want a simple puzzle see red, yellow, green, blue, and purple. A pair of or a deathtrap with monsters roaming the corridors? gratings has been set in the floor at each end of These answers should help you define the basics of the row of levers, and several grilles have been your maze. added to the ceiling above them. To the right of For a quick maze such as this one, start with a 10- the levers, portcullises block two archways. The square-by-10-square grid. For a longer maze, you can go remains of two badly charred corpses lie nearby. up to 20 by 20, or even larger. You can even make the From their position, it looks like they fell while maze in multiple dimensions or on multiple floors. running away from the archways. If you want to trap your PCs inside a maze, start by defining a central area with lots of exits. If you want to befuddle those entering, add multiple entrances, or The antechamber’s vaulted ceiling peaks at 18 feet, offer multiple paths near a single entrance. sloping down to 8 feet at the north and south walls. For low- to mid-level adventurers, extend the maze The masonry walls are crumbling slightly (Climb DC from your starting point (or points) into a true path— 15), but are otherwise intact. Sufficient handholds the “right” way through the maze. The true path allow skilled climbers to gradually make their way should lead in a zigzagging manner to your exit. Once across the sloping ceiling (Climb DC 25). you have defined a true path, extend false paths off The grates cover 2-foot-by-2-foot vertical shafts your true path, and even more false paths off your that drop 30 feet to a drain below. The 3-foot-by-3- false paths, until you have filled every path in the foot drain connects to the pyramid in area 2 (see maze. Make sure you have left only one true path, and diagram) and eventually leads to an underground verify that it still leads to the end. lake or magma chamber. 41 For higher-level adventurers, you’ll need to sGrates: 2 in. thick; hardness 10; hp 60; AC 6; reckon with passwall, find the path, disintegrate, and break DC 25. 620_88168 Bk of Challenge2d.qxd 4/18/02 10:41 AM Page 42 ENCOUNTER (EL 7) its corresponding niche. The levers are slightly stiff, so it takes aStrength check (DC 13) to move one. Until the PCs pull the red lever, none of the other levers move at all. The red lever unlocks the blue and purple levers. Each time it is moved, it sounds the gong. The blue lever unlocks the yellow and green levers and empties the contents of the moat (but not the pyramid) in area 2 into the drain passage. Draining the moat requires 4 rounds, but during this time, a character can stop the process by pulling the blue lever again. Unless the red lever has been pulled, the blue lever remains locked. One minute after the blue lever is pulled, it automati- cally returns to its original position (which relocks the yellow and green levers and closes the drain from the moat). Each time the blue lever moves, it blows the horn. The purple lever raises or lowers the portcullises. Unless the red lever has been pulled, the purple lever remains locked. Each time the purple lever is moved, it bangs the drum. The yellow lever opens and closes the sluices leading from the pyramid to the moat in area 2. Unless the blue lever has been pulled, the yellow lever remains locked. Each time the yellow lever is The south wall of the antechamber has five grille- moved, it rings the bell. covered niches about 16 feet from the floor, each The green lever empties the lava from the pyra- holding a musical instrument (from west to east: a mid (but not the moat) into the vertical drain pas- bell, a drum, a gong, a horn, and a whistle) hooked sage, as indicated in the diagram. Emptying the up to an apparatus capable of playing the instru- pyramid takes 1 minute. Unless the blue lever has ment. Five grilles are set in the vault south of the been pulled, the green lever remains locked. Each peak, about 16 feet off the ground. time the green lever is moved, it blows the whistle. sGrilles: 1 in. thick; hardness 10; hp 30; AC 6; If the water and the lava ever end up in the same break DC 23. place (either the moat or the drain), one of the two The portcullises are locked in place. Each is 10 trap effects below occurs. To get at the treasure, the feet wide and 12 feet high. Throwing the purple PCs must move the water into the drain and the lever (see the Traps section) raises both portcullises. lava into the moat. The portcullises have widely spaced bars. Tiny or The optimal order of operation of the levers is as smaller creatures can pass freely through the bars. A follows: red (unlocks blue and purple), purple (opens Small creature could use a move action to wiggle portcullises), blue (unlocks yellow and green and through them. Medium-size or larger creatures empties the water from the moat), and yellow after must break though the bars. The portcullises do not the moat drains close (empties the lava from the block spell effects, but if any attack passes through pyramid into the moat). This gives the PCs access to a portcullis (such as a ray attack), the target gains the treasure concealed within the pyramid. However, one-quarter cover (+2 cover bonus to AC, +1 cover it is unlikely that the characters stumble upon this bonus on Reflex saves). the first time through (see Treasure, below, for some sIron Portcullis: 2 in. thick; hardness 10; hp hints that might help them). 60; AC 4; break DC 28; lift DC 28 (or DC 38 when Hints: An Intelligence check (DC15) suggests locked). the puzzle is a logic puzzle of some sort. A Search As soon as the PCs make any noise or begin check (DC 15) indicates that the levers cause parts throwing levers in area 1, the mephits living in area of the moat and pyramid to move; a dwarf’s stone- 2 come to the portcullises to investigate (see Area cunning ability adds +2 to this check. A Disable 2, Tactics). Device check (DC 20) determines that some levers 42 The Puzzle: The levers constitute both a puzzle will not move until others do. and a trap. Each lever operates a feature in one of Trap: If the PCs pull the yellow lever while the these rooms, as well as “playing” an instrument in moat contains water, a cloud of vapor belches forth, 620_88168 Bk of Challenge2d.qxd 4/18/02 10:41 AM Page 43 ENCOUNTER (EL 7) spreading 20 feet from the moat and throwing up bits of debris and chunks of hardened lava. On the first round, it deals 2d6 points of bludgeoning damage to anyone caught in the blast. Each round FFiirree aanndd WWaatteerr thereafter, the cloud spreads an additional 10 feet and deals an additional 2d6 points of fire damage. This cloud stops expand- The Scroll ing and fades away 1 round after lava A secret compartment under stops pouring into the moat (when the the lava holds the ring of PCs throw the yellow lever again or Hawrence de Rasor. after 1 minute). aLava Trap: CR 4; no attack roll To unlock the levers, throw ss necessary (20 ft. spread plus 10 the one that rings the gong. Drain the moat before ft./round; 2d6 points of bludgeoning moving the lava. damage first round, +2d6 points of fire The blue lever drains the damage each additional round); Reflex moat and sounds the horn. DC 15 half. The red and purple levers",
+        "name":  "Ad Hoc XP Adjustment",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The charred bodies are all that’s left of a pair of adventurers who tried to tackle the trap a little over a year ago without first dealing with the mephits in area 2. The mephits have looted the SSccaallee iinn FFeeeett bodies, but one of the corpses is clutching a scroll containing a few notes (see sidebar). These form a 55 logic puzzle that might allow characters to deter- mine what the levers do and in what order they should be thrown. 43 22..55 According to the scroll, a secret compartment under the lava holds a ring once owned by Hawrence 620_88168 Bk of Challenge2d.qxd 4/18/02 10:41 AM Page 44 ENCOUNTER (EL 7) de Rasor. A successful bardic knowledge or Knowl- wandering in to drain off the lava. They spend most edge (arcana) check (DC 25) reveals that he was a of their time floating on their backs in the lava pool. fairly obscure wizard who wrote several treatises The pool has a rim about 6 inches high. The charac- on logic. ters can’t see the mephits from area 1 or from floor The corpses are just complete enough to allow a level in this chamber. speak with dead spell to work. However, they know Over the years, the mephits have discovered the nothing except what’s on their list of clues (the trapdoor at the bottom of the lava pool, but they scroll). A treasure map they found had directions to have never been able to open it with the lava still in this room and the list of clues. If asked about their place. They also suspect (correctly) that opening the deaths, the corpses warn the PCs about the “vile fire trapdoor and letting in the lava would probably creatures” living in the pyramid. destroy anything stored underneath the door. dFire Mephit:hp 13; see Monster Manual. 2. Pyramid Chamber (EL 6) dMagma Mephit:hp 13; see Monster Manual.",
+        "name":  "SSiiddee VViieeww Treasure",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Alchemy +4, Climb +2, Craft (metal- Chuk carries the key). working) +4, Listen +5, Move Silently +6, Spot +5; Chuk has 1d3–1 of each of the following potions Alertness, Brew Potion, Scribe Scroll, Still Spell. for sale: charisma, enlarge, intelligence, jump, reduce, and",
+        "name":  "Skills and Feats",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Grants master Alertness feat wisdom. Chuk makes his potions with a twist: each (when within 5 ft.), master can share spells, master contains a fungus that heightens mental acuity, has empathic link. giving a +2 alchemical bonus on Will saves if the",
+        "name":  "Familiar Benefits",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Each image on the trapped area of floor is capable of recognizing patterns. Foolhardy charac- embossed with a glyph of warding that replicates the ters risk damage, disease, energy drain, and other effect of a special attack from the depicted monstros- catastrophes. ity. The mosaic bears 49 glyphs of warding and greater Euphraia, the necromantic spellcaster in The Tow- glyphs of warding; each is set to go off when a ering Dead (an EL 19 encounter later in this book) humanoid (other than the creator) traverses that 10- could set up the trap. If you want to use the two foot-by-10-foot space in any way. Any nonethereal encounters together in a campaign, you may need movement that crosses the space (walking, flying, or to adjust the EL of one of them (or perhaps both of any other such movement) triggers the glyph. Mislead, them) considerably. polymorph, and nondetection can fool a glyph, but The PCs should enter this room through either invisibility spells do not. door. Solid walls border the sides of the mosaic. Once a glyph is triggered, the space can be tra- versed without further peril. The image under the glyph remains, however. Glyphs of warding are hard A grotesque mosaic of enormous undead faces to detect and disable. A rogue can use the Search covers almost every inch of the walls, floor, and skill to find a glyph and the Disable Device skill to ceiling of this room. Ghouls threaten to pounce, thwart it. Since multiple abjuration spells (the while vampires bare their deadly fangs. An exit glyphs) have been active within 10 feet of one lies on the other side of the room. another for 24 hours or more, the DC to find them VV LL ZZ KK HH MM GG HH ZZ LL VV ZZ LL HH WWaarrddiinngg GG VV KK MM GG KK MM ooff tthhee KK ZZ HH LL ZZ HH LL DDeeaadd GG M M VV KK GG MM ZZ VV HH LL KK HH KK VV H M G M Z L G H M G M Z L G VV==VVaammppiirree GG==GGhhoouull 55 SSccaallee iinn FFeeeett LL==LLiicchh HH==SShhaaddooww ZZ==ZZoommbbiiee MM==MMuummmmyy 22..55 KK==SSkkeelleettoonn 53 620_88168 Bk of Challenge2d.qxd 4/18/02 10:43 AM Page 54 ENCOUNTER (EL 9) with the Search skill drops by 4 due to barely visible Scaling the Challenge energy fluctuations. Raising the EL of this encounter is best accom- A Light in the Dark aGlyph of Warding(Skeleton):CR 1/2; inflict minor plished by adding one or more monsters to the wounds (1 point of damage); Will DC 14 negates; room. Have a monster or monsters chase the PCs Search DC 24; Disable Device DC 28. into this room, or have monsters attack once the aGlyph of Warding (Zombie): CR 1; inflict light heroes are in here. Characters herded onto the A wounds (1d8+5); Will DC 14 half; Search DC 24; Dis- mosaic face a very dangerous battleground. Without able Device DC 28. the freedom to move, the PCs are vulnerable to aGlyph of Warding(Shadow):CR 3; ray of enfeeble- ranged attacks and spells, and they should have ment (enhancement penalty of 1d6+5 to Str for 7 trouble closing the distance. On the other hand, Statues Side View minutes); Fort DC 14 negates; Search DC 24; Dis- creatures standing on spaces surrounded by active Cages able Device DC 28. glyphs should face few melee attacks, especially aGlyph of Warding (Ghoul): CR 3; hold person (11 troubling sneak attacks. minutes), Will DC 14 negates; Search DC 24; Disable Thematically, the best monsters to bring out here Device DC 28. are undead, such as vampires and even liches. Even aGlyph of Warding (Mummy): CR 4; contagion lower-level undead such as spectres can become dan- (filth fever, 1d3 Dex and 1d3 Con); Fort DC 14 gerous threats for high-level PCs in here. Of course, T T negates; Search DC 24; Disable Device DC 28. undead are subject to turning, so you might consider A T T B aGreater Glyph of Warding(Vampire):CR 5; ener- outsiders, elementals, or other nonhumanoids. T T vation (1d4 negative levels for 11 hours); no save; Humanoids set off the glyphs, so avoid using them in Search DC 27; Disable Device DC 31. this room, except to attack from a distance. aGreater Glyph of Warding (Lich): CR 6; flame EL 10:Add a spectre and the sample vampire from strike centered on triggering character (11d6, half the Monster Manual. Plan View Scale in Feet 5 fire); Reflex DC 19 half; Search DC 27; Disable EL 14:Add two spectres and the sample lich from Device DC 31. the Monster Manual. 2.5",
+        "name":  "This elaborate puzzle rewards cautious characters Trap",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Alchemy +13, Concentration +12, Then the ends open again into short passages. Craft (woodworking) +13, Knowledge (arcana) +13, Behind is a darkened chamber, while a light Listen +3, Speak Language (Common, Dwarven, beckons ahead. A mad, cackling laugh echoes Elven), Spellcraft +13, Spot +3; Alertness, Blind- through the corridor. Fight, Combat Casting, Craft Wand, Scribe Scroll, The sound of shuffling feet soon accompanies Spell Focus (Necromancy), Spell Penetration. the mad laughter. Dressed in tattered robes, a",
+        "name":  "Skills and Feats",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Grants master Alertness feat gaunt, unshaven, man steps out from the lit room. (when within 5 ft.), master can share spells, master His voice is uneven and rough, as if the walls have has empathic link. been his sole companions for many, many years.",
+        "name":  "Familiar Benefits",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ragged wool clothes, wand of fear (28 “Look, my pets!” he cries. “You will eat well charges; caster level 4th), 2 daggers, spellbook (see tonight!” As he breaks into maniacal laughter, a below), and three empty leather pouches. herd of tremendous rats swarms around his feet Spells Prepared(5/6/5/4/2; base DC 13 + spell level and charges toward you. or 15 + spell level for necromancy spells): 0—daze, disrupt undead*, flare, ghost sound, prestidigitation;1st—",
+        "name":  "Possessions",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The corridor’s floor is a single counter- the remaining two attack the bulk of the party. weighted piece that swings on a pivot at the center of Unless the PCs spot the spiders before they attack the intersection (see diagram). Anyone weighing 20 (most likely with see invisibilityor true seeing), the spi- pounds or more who moves more than 5 feet from the ders surprise the party. They attack once, catching center of the passage triggers the trap. As one side the PCs flat-footed, then roll for initiative. swings down, the other side swings up with equal If struck and damaged, a phase spider shifts back force. Anyone on the downward slope tumbles into the to the Ethereal Plane. Thereafter, it makes hit-and- pit (suffering 2d6 points of damage from a fall of 20 run attacks, moving between the Material Plane and feet) and ends up prone in area C, under the trap doors the Ethereal Plane. Its usual pattern is to move next (see Holding Cells, below). A Reflex save (DC 20) to its foe while still ethereal. The following round it allows a character to avoid being dumped into the pit. enters the Material Plane (as a free action), attacks, The upward-swinging floor at the other end then moves back to the Ethereal Plane; this does subjects climbing characters to a similar fate. If a not provoke an attack of opportunity. character is in the last 10-foot-long section of the Should multiple characters fall into the pit, two upward-swinging side of the hallway (whether on spiders attack the majority of the characters, wher- foot, climbing, or flying), the floor crushes him ever they might be. A lone spider attacks the lesser against the ceiling for 4d6 points of damage (Reflex number of characters. Should exactly half the party DC 20 half). fall into a pit, one spider attacks the fallen charac- 63 The seesaw floor resets 1 round after it is trig- ters while the others harass the characters who did gered unless weight remains on it. A character can not fall. 620_88168 Bk of Challenge2d.qxd 4/18/02 10:44 AM Page 64 ENCOUNTER (EL 10) south lever to the east causes the pit top to tip east, while throwing it west causes the pit top to tip west. If the pit is locked, both south levers are locked in their current positions. They cannot be moved until the trap is unlocked. C. Holding Cells Characters who fall into the pit trap at area A end up here. The dwarves who built this trap used the arrow slits on the south walls to deal with foes who survived the fall. The chamber’s exit doors are barred from the outside. Open Lock checks won’t open the doors, but casting knock spells or bashing them in works just fine. sStone Doors: 4 in. thick; hardness 8; hp 60; break DC 28. Scaling the Challenge You can change the number of phase spiders to adjust the challenge. EL 7:One phase spider. The spider always attacks the lesser number of characters. EL 8: Two phase spiders. One spider attacks trapped characters while the other harasses the rest of the party. EL 10: Four phase spiders. The spiders work in The PCs might not blunder into the trap; in fact, pairs. One pair attacks trapped characters while the they may actually discover it before entering the cor- other pair harasses the rest of the party. ridor. If this is the case, the spiders wait until the PCs begin dealing with the trap, then attack. If two PCs CAVE OF THE SNAKE (EL 10) of about equal weight venture into the corridor (as described in the Traps section, above), a spider moves Yuan-ti are geniuses, and they fight as such. Deep in in behind one of them to trigger the trap, in hopes of underground caverns, they plot and scheme, using dumping its prey into the pit. (A phase spider weighs their fearsome intelligence to devise terrible evils about 300 pounds). they can unleash on their enemies. With the guide- The spiders also love attacking characters who have lines in this section, the DM can prepare cunning managed to cling to the tilting floor without falling tactics for these monsters. in. See the Fighting while Climbing sidebar. The Cave of the Snake contains more creatures than you may be used to running. While adding crea- B. Guard Posts tures to an encounter creates more work for the DM, These chambers have been abandoned for a long many gaming groups enjoy large battles. If yours isn’t time. The levers in the center operate the pit trap in one of them, adjust the encounter so that the yuan-ti area A. The levers are stiff from disuse, so moving attack more often, but in smaller groups. one requires a Strength check (DC 18). The DM should be familiar with the dangers of pro- The north lever in each guard post locks or longed exposure to heat, as described in Chapter 3 of unlocks the trap. Both currently point to the west the DUNGEONMASTER’s Guide. (the unlocked position). If the levers in both rooms are thrown to the east, the pit trap is locked in its Cave Entrance current position. Once the trap is locked, either The entrance to the yuan-ti’s lair is a natural cave lever can be thrown to unlock the trap again. The mouth. A 5-foot-wide passage turns and slopes down- phase spiders who lurk in this area are smart enough ward, quickly leaving the sunlight behind. As the to know this. If they discover the trap is locked, they characters follow the path deeper underground, try to unlock it again. anyone who makes a successful Wisdom check (DC 64 The south lever in each pair operates the trap. Both 15) feels a gradual increase in temperature. are currently pointing straight up (the neutral posi- When you are ready to reveal the first signs of tion). When the trap is unlocked, throwing either yuan-ti, read the following text. 620_88168 Bk of Challenge2d.qxd 4/18/02 10:45 AM Page 65 ENCOUNTER (EL 10) dYuan-Ti, Pureblood (5):hp 27 each; see Monster Two thin stone columns stand before you, one on Manual. each side of the passage ahead. The columns brace",
+        "name":  "Traps",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "If possible, the adventurers cast spells on lier). If you have already used that encounter, you themselves before the PCs arrive, as noted below. can assume that this one merely takes place in a sim- When the PCs approach, Arleth and Remmick greet ilar chamber, or you can assume that the shambling them as fellow adventurers and offer themselves as mounds moved in after your PCs encountered the allies in the characters’ current quest. If this decep- lizards. For a really nasty encounter, combine the tion fails, they attack. If not, they accompany the shambling mounds with the shocker lizards (see PCs as far as their next major battle, then turn on Scaling the Challenge, below). them, attempting to slay them and loot the bodies. If Remmick is able to prepare spells before the char- 73 You see a chamber where a dozen natural lime- acters arrive, he casts mirror image. In the first round of stone pillars support a ceiling perhaps twice as combat, Remmick casts charm monster on a character, 620_88168 Bk of Challenge2d.qxd 4/18/02 10:46 AM Page 74 ENCOUNTER (EL 10) apply the result (modified for distance) to each high as a human. The fluted crowns and bases of shambler she might see. the pillars give the place the look of a woodland The shambling mounds prefer to wait until an thicket. Deep green moss and varicolored fungi unwary creature comes within 10 feet of at least one grow on the pillars. Four long cracks in the ceiling of them. If the victim has not spotted the nearest admit variegated light into the chamber. A deep shambler, it lashes out and makes a trip attack. (The carpet of moss, twigs, and fallen leaves carpets shambler would rather use its slam attacks so that it most of the chamber’s floor. A damp, woody smell can bring its improved grab ability into play. But to do pervades the air. You can hear the slow drip of so, it must hit with both of its slam attacks, and it’s water from somewhere within. allowed only one attack during a surprise round.) When the shambler makes a Strength check to trip The shambling mounds (shamblers) have hauled in an opponent, it has a bonus of +9 (from +5 Strength armfuls of foliage from the surface and piled it up and +4 size; see the Trip section in Chapter 8 of the in here to create an abode more to their liking. The Player’s Handbook). Meanwhile, the second shambler pool shown on the map is covered in floating debris moves toward its prey, skirting the pool. and completely concealed. Essentially, Once the PCs spot the shambling mounds, the the pool is a water-filled pit trap (see shamblers move in and try to attack the smallest Cover and Trap, below). and weakest-looking characters they can reach. If Spread Effects The chamber’s natural stone walls and they manage to grab anyone, they haul victims to Spread effects, such as fire- pillars are rough, but damp (Climb DC the pool and jump in. (They avoid the pool’s west balls, can reach around most 20). Moving across the uneven floor end, as described in the Trap section.) The sham- forms of cover. As long as the forces a Balance check (DC 10), with a –5 blers are ungainly and they know it, so they don’t spread effect can reach your penalty if you move at more than half bother to run or charge. If one of them ever has to position, you can’t claim speed. Running or charging is impossible. make a single attack against an opponent (such as better than one-half cover The clefts in the ceiling are wide when it must move and attack), it tries to trip that from the effect (+2 cover enough to admit light and bits of detri- opponent instead, hoping to get a full attack on the bonus on Reflex saves). tus from the surface, but not much else. following turn. Against burst effects, or other",
+        "name":  "Tactics",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Advanced gray render; CR 11; or resurrected (though a wish or miracle spell can CR by 3 or 4; however, you’ll Huge beast; HD 30d10+210; hp 281 restore life). still need to evaluate the re- (wounded from normal total of 375); Init Xorn Qualities: Fire and cold immunity, electric- sulting creature to decide +0; Spd 30 ft.; AC 18, touch 8, flat-footed ity resistance 10, half damage from slashing weap- which value is more appropri- 18; Atk +26 melee (2d8+6, bite), +21 ons, all-around vision, tremorsense 60 ft. ate. These two creatures pro- melee (1d8+3, 2 claws); Face/Reach 10 ft. All-Around Vision (Ex): Xorns’ symmetrically vide good examples of mon- by 10 ft./15 ft.; SA Improved grab, rend placed eyes allow them to see in all directions, ster advancement. (3d8+9); SQ Low-light vision, darkvision bestowing a +4 racial bonus on Spot and Search The xorn began as a simple 60 ft., scent; AL N; SV Fort +24, Ref +17, checks (already figured into the statistics given CR 8, 15-HD monster from Will +11; Str 23, Dex 10, Con 24, Int 3, above). Xorns can’t be flanked. the Monster Manual. Applying Wis 12, Cha 8. Tactics: Allow the characters to roll initiative as the monster advancement",
+        "name":  "DGrey",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Valencia Wis 14, Cha 20. and Falessel, two vam- Undead Traits: Im- pires mounted on mune to mind-affecting nightmares, lead a effects, death effects, pack of four fiendish necromantic effects, winter wolves through poison, sleep, paralysis, this area. They seek stunning, and disease. living creatures to Not subject to critical chase down, and hits, subdual damage, they kill for ability damage, pleasure. ability drain, DFiendish Winter energy drain, or Wolves (4): hp 54, 52, death from mas- 50, 48; as winter wolf sive damage. except CR 6; cold Skills and Feats: and fire re- Bluff +13, Hide sistance 10, DR +12, Knowledge 5/+1, SR 12, (religion) +3, Lis- and smite good ten +12, Move Si- 1/day for +6 lently +4, Ride damage; see Monster (horse) +12, Search Manual. +9, Sense Mo- DNightmares tive +12, Spot 93 (2): hp 47, 43; see +17; Alertness, Monster Manual. Cleave, Combat 620_88168 Bk of Challenge2d.qxd 4/18/02 10:50 AM Page 94 ENCOUNTER (EL 13) Reflexes, Improved Initiative, Lightning Reflexes, Blackguard Spells Prepared (base DC 12 + spell level): Mounted Combat, Power Attack, Sunder. 1st—inflict light wounds. Blackguard Spells Prepared (base DC 11 + spell level): Ranger Spells Prepared (base DC 12 + spell level): 1st—inflict light wounds. 1st—pass without trace, resist elements.",
+        "name":  "Creatures",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The secret door is trapped with a greater Our Villains glyph of warding (cast by Seldara) that unleashes a Seldara was once a well-respected drow cleric of slay living spell on the first character attempting to Lolth. She took a talented drow wizard named pass through it.",
+        "name":  "Trap",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "CR 7; slay living; Fort turned him into a drider. Garem instantly became an DC 21 (3d6+12); Search DC 31; Disable Device DC 31. outcast to the drow community. Because Seldara still As the characters pass through the secret door, read loved him, she followed him into exile. She hated the following text. Lolth for turning her beloved into such a loathsome creature. Seldara turned from worshiping Lolth to You can see a 20-foot-by-30-foot area immedi- serving Vecna. ately in front of the door. Beyond it, a sheet of The two outcasts found a large limestone cavern webs covers the area from floor to ceiling. You with a pool of drinkable water to serve as their haven. can see a cavern beyond it, but thick webbing Seldara used the stone shape spell to make some obscures its details. improvements, hollowing out living quarters and separating this 60-foot-tall cavern from the rest of the tunnels with a secret door. Webs spun by monstrous spiders are normally diffi- Seldara also built an altar to Vecna and desecrated cult to see, but right in front of the door, they’re so the area around it with unhallow. The spell’s effect is thick and pervasive in this cavern that they’re obvi- centered on the altar, covering the entire cavern and ous. Elsewhere in the cavern, the webs require a Spot extending into the passageway. The spell has the fol- check (DC 20) to notice. Opening the secret door lowing effects: leading into this area disturbs the webs and almost • Subjects attacked by a good creature get a +2 certainly alerts the occupants of the cavern (Spot DC deflection bonus to AC and a +2 resistance bonus 10 to notice the disturbance). on saves. Creatures:Two shadows lurk here as guards. They • Good creatures cannot be summoned or conjured flee to the living quarters (see below) as soon as any in the area. character enters. • A nonevil summoned or conjured creature with dShadows (2):hp 22, 20; see Monster Manual. spell resistance cannot enter the area if Seldara’s caster level check (1d20 + her caster level of 12th) The Cavern (EL Variable) meets or exceeds its spell resistance. If the characters clear the webs away, or if they have • Turning checks to turn undead suffer a –4 penalty. some way to look around, read the following text. Turning checks to rebuke undead gain a +4 profane bonus. This area is a large limestone cavern with a high • She also tied an invisibility purgespell to the unhal- ceiling. Intermittently along the wall, stalactites 98 loweffect. This only affects creatures of faiths other and stalagmites meet to form elaborate floor-to- than Vecna (including the shadows and monstrous ceiling columns. Water trickles down the far wall spiders). 620_88168 Bk of Challenge2d.qxd 4/18/02 10:50 AM Page 99 ENCOUNTER (EL 14) 5/day; SQ Drow traits; AL NE; SV Fort +7, Ref +5, to form a sizable pool, adjacent to an archway that Will +12; Str 8, Dex 15, Con 10, Int 12, Wis 20, leads out of the cavern. Cha15.",
+        "name":  "Garem as her consort, but her deity judged him and aGreater Glyph of Warding",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration +10, Heal +14, The water is fresh and suitable for drinking. The pool Knowledge (religion) +10, Listen +7, Ride (monstrous is easily large enough for a person to bathe in. The spider) +6, Search +3, Spellcraft +7, Spot +7; Combat archway leads into Seldara and Garem’s living quar- Casting, Mounted Combat, Ride-By Attack, Trample. ters (see below). Drow Traits: Immune to sleep spells and effects;",
+        "name":  "Skills and Feats",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Two Colossal monstrous spiders hang +2 racial bonus on Will saves against enchantment from the 60-foot-high ceiling. In addition, two more spells or effects; darkvision 120 ft.; SR 22; +2 racial shadows lair there, keeping watch on the area. bonus on Will saves against spells or spell-like abili- dMonstrous Spiders, Colossal (2):hp 268, 260; ties; spell-like abilities (1/day—dancing lights, dark- see Monster Manual. ness, and faerie fireas Sor11); light blindness (blinded dShadows (2):hp 19, 16; see Monster Manual. for 1 round by abrupt exposure to bright light, –1",
+        "name":  "Creatures",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As soon as the shadows spot any intruders, circumstance penalty on all attack rolls, saves, and they immediately flee to the living quarters (see checks while operating in bright light). below) to alert Seldara. The spiders don’t attack Cleric Spells Prepared (6/8/6/6/5/4/2; base DC 15 + except in self-defense. spell level): 0—create water, cure minor wounds (2),",
+        "name":  "Tactics",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As soon as the statue finishes its speech for relief. It has an open mouth and two glittering, the first time, a wall of forcesprings up in front of the gemstone eyes. door leading to the staircase at A. Behind you, the room’s walls resemble a saw- aWall of ForceTrap: CR 6; Search DC 30; Disable toothed arrow point, with a total of eleven alcoves Device DC 30. lining the wall. Each alcove contains a massive At the same time, the gas vents in the stairwell copper-clad statue. All the figures are slightly dif- open, flooding the chamber with toxic, flammable ferent, but each is as big as a giant. Each one gas. An Alchemy check (DC 15) can identify the gas’s resembles a scholar or spellcaster. Rubble chokes deadly nature. If the character has already recognized the alcove at the tip of the room, directly behind the composition of the floor as flint, he can appreciate the staircase, but you can see a statue’s hand stick- the danger of a single spark. A character may hold his ing out from under the debris. breath to avoid the poison (see The Drowning Rule sidebar in the DUNGEON MASTER’s Guide for details on The floor is made of flint, identified with a Knowl- holding your breath). edge (nature) or Alchemy check (DC 15). The scat- After 2 rounds of gas spewing from the vents, any tered remains in the tomb are all that’s left of spark or open flame in the room causes the gas to previous visitors who couldn’t solve the puzzle. A combust, inflicting 6d12 points of fire damage (Reflex fair amount of treasure still lies about the chamber DC 20 half) to all in the area. The iron golems’ feet (see Treasure, below). against the flint floor can ignite the gas as well—each A Search check (DC 20) on any statue (or golem) round a golem is active, there is a 25% chance per reveals that it has articulated joints. A successful golem of igniting the gas. Remember that fire damage Spellcraft check (DC 25) reveals whether a statue is a heals an injured golem (1 hit point per 3 points it golem (4, 6, 8, 9, and 10) or just an articulated statue would otherwise deal). The fire also burns away most (1, 2, 3, 5, 7, and 11). of the toxic gas in the room, meaning that characters 114 Each iron statue has a hollow area beneath its feet, can breathe safely for a single round (before the completely concealed from view. Each of the statues poison gas returns). The vents continue to spew gas 620_88168 Bk of Challenge2d.qxd 4/18/02 10:53 AM Page 115 ENCOUNTER (EL 18) for 10 minutes (unless disabled). After that, they require 24 hours to reset. aGas Trap: CR 10; Poison gas (inhaled DC 18, 1d6 Str/1d6 Str) plus 6d12 fire (Ref DC 20 half); Search DC 25; Disable Device DC 35. Each 5-foot section of stairwell has a separate hidden vent. Characters must make separate Search and Disable Device checks for each vent. A wall of force, wall of stone, or similar effect could shut off multi- ple vents.",
+        "name":  "Traps",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The statues that don’t hide keys (4, 6, 8, 9, and 10) are iron golems placed here by Potor al-Jalur to make the puzzle more challenging. All five immedi- ately attack if the characters touch any golem, attack the force field, tinker with a keyhole (except to insert a key), turn a key too far, or damage anything in the tomb or stairwell. The golems also attack 2 minutes after the first statue speaks, no matter what the PCs do. Note that the golem at location #6 is buried under rubble. It can attempt a Strength check (DC 28) each round to escape. If it hasn’t freed itself by the time fighting stops, it returns to its dormant state (but activates again if the PCs perform any of the actions mentioned above). dIron Golems (5): hp 100 each; see Monster spell can turn one keyhole’s mechanism a single turn Manual. (meaning that most keyholes require multiple checks",
+        "name":  "Creatures",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Knowledge (arcana) +11, Knowl- edge (religion) +11, Listen +4, Scry +11, Spellcraft +11, Spot +5; Combat Casting, Extra Turning, Silent Spell, Spell Focus (Necromancy). ZZ ZZ",
+        "name":  "Skills and Feats",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "When flying or jumping, Alia can land on smoke twists into the cloud darkened sky. A lone opponents of up to Medium-size. The crush attack nomad stands near the edge. At your arrival, he affects as many creatures as can fit under the dragon’s nods and moves to walk back to the huts. body and deals 4d6+18 points of damage. Creatures in the affected area must make a Reflex save (DC 30) or The fissure is 200 feet deep, with a ledge at the be pinned under the dragon, taking an additional 100-foot mark, upon which the PCs can just make 4d6+18 points of damage each round the dragon out another nomad standing. It doesn’t extend maintains the crush (as a grapple). straight down, instead twisting and turning, with Frightful Presence (Ex): This ability takes effect large chunks of rock jutting from the walls and ice automatically when the dragon attacks, charges, or 119 crystals blowing from above. At any given point in flies overhead. It only affects opponents within 240 620_88168 Bk of Challenge2d.qxd 4/18/02 10:54 AM Page 120 ENCOUNTER (EL 20) feet with fewer hit dice or levels than the dragon has. to convince one to stay on the ledge to “protect” her The affected creature must make a successful Will or even carry her back to the surface. Of course, once save (DC 24) or become shaken. Success indicates she is alone with a PC, she immediately attacks. that the target is immune to the dragon’s frightful On the other hand, should the characters discover presence for one day. her ruse (Spot DC 25 to see through the disguise), she Spell-Like Abilities: 8/day—locate object; 3/day— attempts to fly up the fissure and escape, only turning suggestion. back to fight once she has reached the safety of the",
+        "name":  "Crush",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "P’Cku is immune to poison, sleep, paral- work normally). P’Cku moves silently (cannot be heard ysis, stunning, disease, death, effects, necromantic effects, with Listen checks unless desired). mind-influencing effects, and any effect requiring a Forti- Low-Light Vision: P’Cku can see twice as far as a tude save unless it also works on objects. She is not sub- human in starlight, moonlight, torchlight, and similar ject to critical hits, subdual damage, ability damage, abil- low-light conditions. ity drain, or energy drain. Negative energy heals her, and Manifestation (Su): As an ethereal creature, P’Cku she is not at risk of death from massive damage but is cannot affect or be affected by anything in the material destroyed at 0 hit points or less. She cannot be raised, world. When manifest, she becomes visible but and resurrection works only if she is willing. remains incorporeal. In this state, she has no attacks available except her frightful moan and her malevo- d P’Cku (manifested): P’Cku: Female half-gold- lence. While manifested, she remains on the Ethereal dragon half-minotaur ghost; CR 8; Large undead (incor- Plane but can be attacked by opponents on both the poreal); HD 6d12; hp 39; Init +0; Spd 30 ft., fly 30 ft. Material and Ethereal planes. (perfect); AC 11, touch 11, flat-footed 11; Atk —; Natural Cunning (Ex): P’Cku’s minotaur heritage Face/Reach 5 ft. x 5 ft./10 ft.; SA frightful moan, malev- gifted her with innate cunning, which renders her olence; SQ darkvision 60 ft., immunities , incorporeal immune to mazespells, prevents her from ever becom- subtype, low-light vision, manifestation, natural cun- ing lost, and enables her to track enemies. Further, she ning, rejuvenation, scent, turn resistance +4, undead is never caught flat-footed. traits; AL N; SV Fort +4, Ref +5, Will +5; Str 27, Dex 10, Rejuvenation (Su): It’s difficult to destroy P’Cku Con –, Int 9, Wis 10, Cha 14. through simple combat: Her “destroyed” spirit restores",
+        "name":  "Undead Traits",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Favored of the Companions, Holy Sub- mitted an evil act cannot simply obtain an atonement spell and dual, Knights of Stars, Nymph’s Kiss, Sacred Strike, Sanctify carry on as if nothing had happened. She must first make Martial Strike, Servant of the Heavens. amends for her actions, at least trying to repair any damage she",
+        "name":  "Exalted Feat Choices",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "celestial mystic, exalted arcanist, to bear might be different as well. However, if an adventure prophet of Erathaol, risen martyr, sentinel of Bharrai, trouba- doesn’t speak to their motivations, they might take it in a com- dour of stars, wonderworker. pletely different direction than the DM intended. Likewise, a campaign needs to address what matters to the characters, offer THE EXALTED WIZARD them opportunities to shine (in terms of both using the powers An exalted wizard appears as a awe-inspiring figure swathed in they have acquired and demonstrating their heroic righteous- white robes, glowing with celestial energy, and radiating right- ness), and provide them with truly evil opponents to face. This eous fury. Like sorcerers, many exalted wizards claim to have section, more than any other in this book, is designed with the received their spells not from celestial ancestry, but from the Dungeon Master in mind. Nothing here need be off-limits to libraries of the heavenly powers, so that they might use those players’ eyes, but DMs in particular will find specific advice spells in battle against evil. Their spell preferences echo those of about how to craft adventures and campaigns that feature exalted sorcerers. exalted characters to best effect.",
+        "name":  "Prestige Class Options",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "5th; Market Price Equivalent:30,000 gp. from distilled joy, ambrosia is celestial food, the heavenly suste- Saint’s Fingerbone:This small charm grants the character nance of Celestia. Created by means of the distilled joy spell, carrying it a +1 resistance bonus on all saving throws. ambrosia can be used as a special spell component, in addition",
+        "name":  "Caster Level Equivalent",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "5th; Market Price Equivalent:2,000 gp. to the other uses mentioned in the spell description. Saint’s Thighbone:The bone of a saint known for battling As an optional component, ambrosia automatically increases the undead, this powerful relic acts as a holy disruption light mace, the effective caster level of a single good spell by +2. This though it has no enhancement bonus. increase doesn’t stack with previous applications of distilled joy",
+        "name":  "Caster Level Equivalent",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This sacred icon depicts a saint and is known only to angels themselves, the radiance of an angel is a located in a site where the saint lived for an extended period, potent component. Used as a component for a banishmentor dis- performed an important deed, or died. On certain occasions (no missalspell, or a dispel evilspell used to drive a fiend back to its more than once a month, often only once a year, on the anniver- home plane, a phial of angel radiance increases the saving throw sary of a special event), tears form in the eyes of the image, drip- DC by +1. It also grants the caster a +1 bonus on her caster level ping slowly down the image and onto the floor below. The tears check to overcome the target’s spell resistance. Angel radiance are holy water, and the image typically produces enough to fill sheds light as a torch. a flask each time the tears manifest. While the image is weeping Blink Dog Tooth:A spell to which this component is applied (over a period of perhaps 8 hours), any character who touches it has a 50% chance to confer the ghost touch ability and negate receives the benefit of a healspell. miss chances due to blur, displacement, entropy, or phasing",
+        "name":  "Weeping Image",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A spell to which this component is Aurorum has the same hit points per inch of thickness and applied has a 10% chance to remain prepared even after being hardness as regular steel. cast. Casters who do not prepare spells gain no advantage from Frystalline:This mineral grows in the icy mountain caves of this component. Eronia, the second layer of the Blessed Fields of Elysium. Its",
+        "name":  "Phoenix Feather",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A spell you modify with this feat gains the good Asperi5 Neutral good 7th (–6) descriptor. Furthermore, if the spell deals damage, half that Giant eagle Neutral good 7th (–6) damage (rounded down) results from divine power and can’t be Giant owl Neutral good 7th (–6) reduced by resistance or immunity to energy-based attacks. For Pegasus Chaotic good 7th (–6) example, if a consecrated lightning boltcast by a 7th-level wizard Unicorn Chaotic good 7th (–6) deals 24 points of damage, 12 points of that is electricity damage 1 A ranger’s effective druid level, for purposes of this feat, is and the other 12 points is not. Thus, a nongood creature immune half his ranger level. to electricity still takes 12 points of damage if it fails its Reflex save. 2 Subtract the number in parentheses from the druid’s level (or the ranger’s effective druid level) for purposes of deter- A consecrated spell uses up a spell slot one level higher than mining the companion’s characteristics and special abilities the spell’s actual level. as shown on page 36 of the Player’s Handbook. 3 Apply the celestial creature template to a potential animal CONSECRATE SPELL-LIKE ABILITY companion listed in the Player’s Handbook. [GENERAL] 4 Subtract an extra –1 from the druid’s level (or the ranger’s You can channel holy power into your spell-like abilities. effective druid level) for purposes of determining the",
+        "name":  "Benefit",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A fighter may select Holy Subdual as one of his You can modify a spell that uses energy to deal damage to deal fighter bonus feats. nonlethal damage instead.",
+        "name":  "Special",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Base attack bonus +1. fire, or sonic. You can modify a spell with the chosen designator",
+        "name":  "Prerequisites",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Add +2 to the Difficulty Class for all saving throws Special:A fighter may select Subduing Strike as one of his 46 against your spells with the good descriptor. fighter bonus feats. :4 RETPAHC STAEF 620_88026_ExaltedDeeds2a.qxd 8/25/03 5:10 PM Page 46 TOUCH OF GOLDEN ICE [EXALTED] have targets and require saving throws (including detect thoughts Your touch is poisonous to evil creatures. and discern lies), and even Necromancy spells such as waves of",
+        "name":  "Benefit",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You gain a +4 perfection bonus on ally takes a –1 morale penalty on his Will saving throws against charm and phantasm attack rolls for 1 hour per your charac- spells and effects. ter level. For each helpless foe slain, the",
+        "name":  "Benefit",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You gain a +4 perfection bonus on Will saving your character level. See Voluntary Poverty in Chapter 2 for details. throws against compulsion spells and effects. Special:To fulfill your vow, you must not own or use any",
+        "name":  "Benefit",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Craft (alchemy) 5 ranks, Knowledge (arcana) 3 ranks, Spellcraft 3 ranks.",
+        "name":  "Skills",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ancestral Relic. CLASS SKILLS The anointed knight’s class skills (and the key ability for each skill) are Climb (Str), Concentra- tion (Con), Craft (al- chemy) (Int), Heal (Dex), Jump (Str), Knowledge Applying the oil is a ceremony that takes 8 hours. Once the oil (arcana) (Int), Knowledge (reli- is applied, the anointed knight permanently gains a new super- gion) (Int), Knowledge (the planes) natural ability chosen from the accompanying list. Her level (Int), Ride (Dex), and Spellcraft (Int). See Chapter 4 of the plus Charisma modifier determines the choices available to her Player’s Handbookfor skill descriptions. (the highest-numbered choice possible, or any lower one). An",
+        "name":  "Feats",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "An apostle of peace has the ability to powerful fiend he can censure. Roll 2d6 cast a number of divine spells. To cast an apostle + the apostle of peace’s level + his Charisma of peace spell, the apostle must have a Wisdom modifier for censuring damage. Using both score of at least 10 + the spell’s level, so an apos- the apostle’s character level and his class level tle with a Wisdom of 10 or lower cannot cast in this manner means that he is more likely to these spells. Apostle of peace bonus spells are affect a single powerful fiend, but unlikely to based on Wisdom, and saving censure more than one of them. throws against these spells have a A censured fiend is stunned by the apos- DC of 10 + spell level + the tle’s holy power for 1d4+1 rounds. If an apos- apostle of peace’s Wisdom tle of peace attacks a censured fiend, the modifier. When the apostle of stunning ends immediately and the fiend peace gets 0 spells per day of a can act normally on its next turn. given spell level (for instance, If the apostle of peace’s character level is 2nd-level spells for a 2nd-level at least twice the fiend’s Hit Dice, he ban- apostle), he gains ishes the affected fiend back to its home only the bonus plane. An apostle of peace can make a number of spells he would censuring attempts per day equal to 3 + his be entitled to Charisma modi- based on his fier. These at- Wisdom score for tempts are separate from any attempts to that spell level. The turn undead. apostle of peace’s spell list appears below. An apostle of peace prepares and casts spells just as a Apostle of Peace Spell List cleric does. Apostles of peace choose their spells from",
+        "name":  "Spells",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Affected creatures act as if subject to an enthrall make new saving throws each day for a total of seven days. If the spell for as long as you continue to speak and for 1d3 rounds emissary is not present at the time a creature makes its save, it thereafter. For the duration of the effect and for 1 day afterward, receives a +1 circumstance bonus on the saving throw, and this affected creatures take a –1 penalty on Will saves related to bonus increases by 1 for each additional saving throw for which redemption (see Chapter 2). the emissary is not present.",
+        "name":  "Enthralled",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "At 3rd level, and again at 5th level, an Alignment:Lawful good. exalted arcanist gains a bonus feat. This feat must be chosen Base Attack Bonus: +6. from the exalted feats that appear in Chapter 4. Skills: Diplomacy 5 ranks, Knowledge (religion) 5 ranks. Faster Purify (Ex):At 4th level, an exalted arcanist can spon- Feats:Power Attack, Servant of the Heavens. taneously cast spells with the Purify Spell feat without extend- Spells:Able to cast divine favor. ing the spells’ casting time.",
+        "name":  "Bonus Exalted Feat",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "d8. Detect Evil(Sp):At will, an initi- ate of Pistis Sophia of 2nd level or REQUIREMENTS higher can use detect evil, as the spell. To qualify to become an initiate Smite Evil (Su):Once per day, an initiate of Pistis of Pistis Sophia, a character must Sophia may attempt to smite evil with one normal fulfill all the following criteria. unarmed strike. She adds a +4 bonus to her attack",
+        "name":  "Hit Die",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "At 4th level, and again at 7th level and 10th fails. level, an initiate of Pistis Sophia gains a bonus feat selected from Celestial Transformation (Ex): When she reaches 10th the following list: level, an initiate of Pistis Sophia transcends her mortal origins Vow of Abstinence, Vow of Chastity, Vow of Nonviolence, and becomes a creature of the heavens. Her type changes to out- Vow of Obedience, Vow of Poverty, or Vow of Purity. sider (native), and she gains damage reduction 10/unholy. LION OF TALISID The undisputed ruler of the guardinals, Talisid the Celestial Lion is an enormously powerful force for good—and good alone, undiluted by concerns of law or chaos. He is also a mighty druid, and his mortal and guardinal champions are druids and rangers who share both his fierce hatred of evil and his passion- ate love of the natural world and its creatures. Called the lions of Talisid, these protectors of nature and champions of good emu- late their celestial patron in more concrete ways: adopting feline animal com- panions, assuming great cat forms with their wild shape ability, and eventually roaring like a leonal. Druids and rangers most commonly become lions of Talisid, and only a character with an animal companion can enter the class. Multiclass druid/rangers also com- monly adopt the class, and less commonly, fighter/druids or cleric/rangers. Like their guardinal patron, lions of Talisid usually work alone or in small groups of close companions, rarely with other lions. NPC lions of Talisid can be found wandering the wilder- 65 Illus. by R. Spencer CLASSES PRESTIGE CHAPTER 5: 620_88026_ExaltedDeeds2a.qxd 8/26/03 9:16 AM Page 65 A lion of Talisid Table 5–12: The Lion of Talisid Base Fort Ref Will Level Attack Bonus Save Save Save Special Spells per Day 1st +0 +2 +0 +2 Animal companion, lion’s courage +1 level of existing class 2nd +1 +3 +0 +3 Scent +1 level of existing class 3rd +2 +3 +1 +3 Wild shape (1/day) +1 level of existing class 4th +3 +4 +1 +4 Exalted Companion, wild shape (2/day) +1 level of existing class 5th +3 +4 +1 +4 Lion’s pounce, wild shape (3/day) +1 level of existing class 6th +4 +5 +2 +5 Wild shape (Large) +1 level of existing class 7th +5 +5 +2 +5 Lion’s swiftness +1 level of existing class 8th +6 +6 +2 +6 Wild shape (4/day) +1 level of existing class 9th +6 +6 +3 +6 Wild shape (Tiny) +1 level of existing class 10th +7 +7 +3 +7 Leonal’s roar +1 level of existing class ness, fighting any who would defile the natural world with evil. A lion of Talisid who is also a druid can add his lionof Talisid They are particularly concerned with areas where some evil level –2 to his druid levels to determine his wild shape ability. presence corrupts nature itself, manifesting evil weather and For example, an 8th-level druid/6th-level lion of Talisid can wild vile corrupted creatures. shape as a 12th-level druid, and can thus assume plant forms as",
+        "name":  "Sacred Vow",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Knowledge (nature) 9 ranks, Survival 9 ranks. isid can act as if under the effects of a hastespell for a total of 1",
+        "name":  "Skills",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Able to cast summon nature’s ally II. tive.",
+        "name":  "Spells",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The character must have an animal companion as a Leonal’s Roar (Su):Three times a day, a 10th-level lion of Tal- class feature. isid can issue a roar that duplicates the effects of the leonal’s roar spell (new spell described in Chapter 6 of this book). The saving CLASS SKILLS throw DC is 20 + the lion of Talisid’s Charisma modifier. The lion of Talisid’s class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Diplomacy (Cha), Handle PROPHET OF ERATHAOL Animal (Cha), Heal (Wis), Listen (Wis), Knowledge (nature) (Int), Ride (Dex), Spellcraft (Int), Spot (Wis), Survival (Wis), and The prophet of Erathaol is a seer and visionary, a medium of the Swim (Str). See Chapter 4 of the Player’s Handbook for skill heavenly will, pronouncing judgment on corruption and evil in descriptions. the world, speaking words of comfort to the oppressed and",
+        "name":  "Special",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "At each level, a lion of Talisid gains new when they want to know whether to launch a business enter- spells per day as if he had also gained a level in a divine spell- prise, start a war, or win someone’s favor—too often prophets casting class to which he belonged before adding the prestige give answers that people don’t really want to hear. Lawful good class level. He does not, however, gain any other benefit a char- kings do sometimes take on prophets as advisors, but even the acter of that class would have gained. If the character had more most well-intentioned ruler has a hard time following a true than one divine spellcasting class before becoming a lion of Tal- prophet’s advice all the time. Most prophets, with no one seek- isid, the player must decide to which class to add each lion of ing out their words, make themselves a nuisance in palaces, in Talisid level for the purpose of determining spells per day. marketplaces, or on city streets, proclaiming celestial judgment Scent (Ex):At 2nd level, a lion of Talisid gains the scent spe- to whoever listens. cial quality. He can detect approaching enemies, sniff out Hit Die: d6. hidden foes, and track by sense of smell. Wild Shape (Su):At 3rd level, a lion of Talisid gains the abil- REQUIREMENTS ity to turn himself into any Small or Medium animal and back To qualify to become a prophet of Erathaol, a character must ful- again once per day. This works exactly as the druid’s wild shape fill all the following criteria. ability. Lions of Talisid prefer the shape of great cats (cheetahs or Alignment:Lawful good. leopards at lower levels), but are not limited to such forms. Skills:Knowledge (arcana) 5 ranks, Spellcraft 10 ranks.",
+        "name":  "Spells per Day",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sacred Vow, Servant of the Heavens, Spell Focus (Div- 4th, 5th, and 8th level, as noted on Table 5–12. In addition, he ination), Vow of Chastity. gains the ability to take the shape of a Large animal at 6th level, Spells:Able to cast 4th-level arcane or divine spells. and a Tiny animal at 9th level. 66 :5 RETPAHC EGITSERP SESSALC 620_88026_ExaltedDeeds2a.qxd 8/26/03 9:16 AM Page 66 CLASS SKILLS • an enthrallspell (the prophet can continue speaking on her The prophet of Erathaol’s class skills (and the key ability for own after the 1 round of ecstasy, continuing the effect) each skill) are Concentration (Con), Craft (Int), Heal (Wis), • a good hopespell Intimidate (Cha), Knowledge (arcana) (Int), Knowledge (the • an atonementspell planes) (Int), Knowledge (religion) (Int), Profession (Wis), and • like a phylactery of faithfulness, allowing the prophet to identify Spellcraft (Int). See Chapter 4 of the Player’s Handbookfor skill evil creatures and avoid evil acts descriptions. • if the prophet sacrifices 500 XP, a communespell",
+        "name":  "The lion of Talisid can use this ability more times per day at Feats",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "d4. that has special effects on celestials. If he is lawful, he is also considered an archon. If he is chaotic, he is also considered an REQUIREMENTS eladrin. If he is neutral, he is also considered a guardinal. If he is To qualify to become a sentinel of Bharrai, a character must ful- a spellcaster, he can cast spells that have the Celestial, Archon, fill the following criteria: Guardinal, or Eladrin components, as appropriate. Alignment:Any good.",
+        "name":  "He is considered a celestial for the purpose of any spell or effect Hit Die",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "4 + Int modifier. though using the Quicken Spell feat. Use the sentinel of Bhar- rai’s character level to determine the number of lightning bolts CLASS FEATURES and the spell’s duration. All of the following are class features of the sentinel of Bharrai Nature’s Veil (Su):At 5th level, as a standard action, the sen- prestige class. tinel of Bharrai can attempt to hide in the outdoors. The sentinel",
+        "name":  "Skill Points at Each Level",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Mounted Combat, either Mounted Archery or Ride- beyond those he receives from the prestige class, and so on), By Attack, one exalted feat. except for an increased effective level of spellcasting. If a char-",
+        "name":  "Feats",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "d6. Domiel prepares and casts spells just as a cleric does (though a slayer cannot spontaneously cast curespells). REQUIREMENTS Death Touch (Su): A slayer of Domiel can slay living evil To qualify to become a slayer of Domiel, a character must fulfill opponents with a single touch. She must succeed on a melee all the following criteria. touch attack against the target. When she touches, she rolls 1d6",
+        "name":  "Hit Die",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Hide 8 ranks, Move Silently 8 ranks. source (such as rogue levels), the extra damage stacks. Feats:Alertness, Favored of the Companions, Track. Divine Grace (Su):A 2nd-level slayer of Domiel applies her Charisma bonus as a bonus on all saving throws. CLASS SKILLS Improved Evasion (Ex): At 6th level, a slayer of Domiel’s The stalker of Kharash’s class skills (and the key ability for each evasion ability improves. When subjected to an attack that nor- skill) are Climb (Str), Concentration (Con), Handle Animal mally allows a Reflex saving throw for half damage, the slayer (Cha), Heal (Wis), Hide (Dex), Jump (Str), Knowledge (geogra- takes no damage if she makes a successful saving throw and half phy) (Int), Knowledge (nature) (Int), Listen (Wis), Move damage if the saving throw fails. Silently (Dex), Ride (Dex), Search (Int), Spot (Wis), Survival (Wis), Swim (Str), and Use Rope (Dex). See Chapter 4 of the SLAYER OF DOMIEL SPELL LIST Player’s Handbookfor skill descriptions.",
+        "name":  "If a slayer of Domiel gets a sneak attack bonus from another Skills",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "d8. not, however, gain any other benefit a character of that class would have gained. If the character was both a druid and a REQUIREMENTS ranger before becoming a swanmay, she must decide to which To qualify to become a swanmay, a character must fulfill all the class she adds each swanmay level for the purpose of determin- following criteria. ing spells per day.",
+        "name":  "Hit Die",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Able to cast speak with animals. ranger class. The swanmay does not choose this favored enemy",
+        "name":  "Spells",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Knowingly or not, a character must perform a great their home region. service for another swanmay before she can join the order. Low-Light Vision (Su):At 3rd level, a swanmay gains low- light vision. CLASS SKILLS Charm Person (Sp): At 4th level, a swanmay can use charm The swanmay’s class skills (and the key ability for each skill) are person, as the spell, three times per day. Her caster level is equal Concentration (Con), Craft (Int), Handle Animal (Cha), Heal to her swanmay level, and the saving throw DC is equal to 13 + (Wis), Hide (Dex), Knowledge (geography) (Int), Knowledge her Charisma modifier. (nature) (Int), Listen (Wis), Profession (Wis), Ride (Dex), Search Speak With Animals(Sp):At 5th level, a swanmay can use speak (Int), Spellcraft (Int), Spot (Wis), Survival (Wis), and Swim (Str). with animals, as the spell, at will. Her caster level is equal to her See Chapter 4 of the Player’s Handbook for skill descriptions. swanmay level.",
+        "name":  "Special",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "4 + Int modifier. Speak With Plants(Sp):At 6th level, a swanmay can use speak with plants, as the spell, at will. Her caster level is equal to her CLASS FEATURES swanmay level. All of the following are class features of the swanmay prestige Charm Monster(Sp):At 7th level, a swanmay can use charm class. monster, as the spell, two times per day. Her caster level is equal",
+        "name":  "Skill Points at Each Level",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Once she reaches 2nd level, a troubadour of check result proves to be better. Using the Words of Creation stars can cast spells as if she were an eladrin. Specifically, the with this ability increases the morale bonus to +4 and deals troubadour can learn and cast any spell described in Chap- 11d4 points of nonlethal damage to the trou- ter 6 that has a celestial or eladrin component, as long as badour. Song of hope is a sonic, mind-affect- she can otherwise cast the spell (it appears on her ing ability. spell list, it is of a level of spells that she can cast, and Sanctified Spells: A 6th-level trouba- she has a sufficient ability score to cast spells of dour of stars can use sanctified spells as that level). though they were among her spells Spells per Day/Spells Known:At each even- known. numbered troubadour of stars level, the char- Eladrin Form(Sp):At 7th level, a trou- acter gains new spells per day and spells badour of stars gains the ability to use known as if she had eladrin form,as the spell (see Chapter 6), also gained a level once per day. Her caster level is equal to in an arcane spell- her class level. casting class to Celestial Symphony (Su): A 9th-level which she belonged troubadour of stars with 15 or more ranks in before adding the Perform can, as an additional bardic prestige class level. The class must music effect, create an effect that spontaneously cast spells (as a duplicates the holy word spell. sorcerer or bard does). She Nongood creatures within 30 does not, however, gain any other feet of the troubadour are affected benefit a character of that class would have gained (bardic as though by the spell. The trouba- music abilities, improved familiar abilities, and so on). If dour’s caster level is equal to her the character had more than one arcane spellcasting class class level. Using the Words of Cre- before becoming a troubadour of stars, she must decide ation with this effect grants the trou- to which class she adds each troubadour level for badour a +4 bonus on her the purpose of determining spells per caster level check to day and spells known. overcome spell resistance Starmantle (Sp): At 3rd and deals 15d4 points of level, a troubadour of stars gains nonlethal damage to the ability to use starmantle, as the spell the troubadour. Celestial symphony is a sonic effect. 79 Illus. by R. Guay-Mitchell CLASSES PRESTIGE CHAPTER 5: 620_88026_ExaltedDeeds2a.qxd 8/26/03 9:21 AM Page 79 A troubadour of stars Table 5–21: The Troubadour of Stars Base Fort Ref Will Level Attack Bonus Save Save Save Special Spells per Day 1st +0 +0 +2 +2 Bardic music, detect evil — 2nd +1 +0 +3 +3 Holy cacophony, celestial spells +1 level of existing class 3rd +2 +1 +3 +3 Starmantle — 4th +3 +1 +4 +4 +1 level of existing class 5th +3 +1 +4 +4 Song of hope — 6th +4 +2 +5 +5 Sanctified spells +1 level of existing class 7th +5 +2 +5 +5 Eladrin form — 8th +6 +2 +6 +6 +1 level of existing class 9th +6 +3 +6 +6 Celestial symphony — 10th +7 +3 +7 +7 Celestial ascension +1 level of existing class Celestial Ascension (Ex): At 10th level, a troubadour of stars queen. A vassal of Bahamut even deigns to cooperate with neu- is so attuned to the ways of the eladrins that she becomes a mag- tral characters on missions against evil dragons, although he ical creature. Her type changes to outsider (native) and she might belittle them for their lack of convictions. The only time gains damage reduction 10/unholy. Unlike other outsiders, the a vassal of Bahamut works with evil characters is if he is infil- troubadour can still be brought back from the dead. trating their group and trying to bring down an evil dragon or one of Tiamat’s agents. Because vassals of Bahamut are few in number and wide- VASSAL OF BAHAMUT spread, it is highly unlikely that two vassals of Bahamut ever Most of Bahamut’s emissaries and champions are dutiful and meet face-to-face. mighty metallic dragons. Occasionally, however, Bahamut Hit Die: d10. finds a nondraconic champion whose reverence of good dragons is unshakable, and whose hatred of evil dragons rivals REQUIREMENTS that of the purest gold dragons—a force of good so strong To qualify to become a vassal of Baha- that Bahamut feels moved to offer this champion a place mut, a character must fulfill all the in his court. following criteria.",
+        "name":  "Celestial Spells",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One exalted feat, plus either Favored the sum of her psychic warrior level and her of the Companions, Knight of Stars, or Ser- wonderworker level. If a wonderworker has vant of the Heavens. two spellcasting or psionic classes already,",
+        "name":  "Feats",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Able to cast 3rd-level arcane or he must give the bonus spell or power divine spells, or to manifest 3rd-level points to a class in which he can cast at least psionic powers. 3rd-level spells or manifest at least 3rd-level powers. If more than one class meets that CLASS SKILLS requirement, he must choose which previous The wonderworker’s class skills (and the class gains the bonus. He cannot split key ability for each skill) are Concentration bonus spells or power points between (Con), Craft (Int), Diplomacy (Cha), Heal (Wis), two different spellcasting or psionic Knowledge (arcana) (Int), Knowledge (nature) classes. For example, a 5th-level (Int), Knowledge (religion) (Int), Profession (Wis), cleric/5th-level wizard takes one level of Sense Motive (Wis), and Spellcraft (Int). See Chapter wonderworker. He can either take 2 bonus 4 of the Player’s Handbookfor skill descriptions. cleric spells or 1 bonus wizard spell, but he",
+        "name":  "Spells",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Curtain of light deals 2d4 damage to evil creatures out to 10 ft. and 1d4 damage out to 20 ft. SPELL LISTS Passing through curtain deals 2d6 +1/level damage to evil This section begins with a list of sanctified spells, which are creatures. available to any class that prepares spells rather than casting NecroSicken Evil: Evil creatures are sickened by your pres- them spontaneously. Following the sanctified spells are lists of ence. new spells for the bard, cleric, druid, paladin, ranger, sorcerer, and wizard classes. Each spell’s effect is summarized here, with 6th-Level Sanctified Spells all the details provided in the spell descriptions that follow. AbjurExalted Raiment:Wearer gains +1 sacred bonus to AC An Mor F appearing at the end of a spell’s name in the spell per five caster levels, damage reduction 10/evil, SR 5 + lists denotes a spell with a material or focus component, respec- caster level, and immunity to Con damage and Con drain. tively, that is not normally included in a spell component Conj Valiant Steed:Calls a pegasus or unicorn, which serves pouch. An Xdenotes a spell with an XP component paid by the caster for up to 1 year. caster. Evoc Storm of Shards:Evil creatures are blinded for 1 round; evil outsiders and undead also take 1d6 damage/level. SANCTIFIED SPELLS 1st-Level Sanctified Spells 7th-Level Sanctified Spells",
+        "name":  "Evoc Curtain of Light",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Target gains +3 sacred bonus on move, and takes 3d6 nonlethal damage per round. attack rolls against evil creatures. Rain of Embers:Rain of divine fire deals 10d6 damage per round to evil creatures. 2nd-Level Sanctified Spells NecroPhoenix FireF: Evil creatures take 2d6 damage/caster",
+        "name":  "Div Divine Inspiration",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Caster receives divine guidance from a higher power. 9th-Level Sanctified Spells",
+        "name":  "Div Path of the Exalted",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Allies gain +2 to Strength and Dexterity, +5 ft. of speed. Blood of the Martyr:You heal a target at range and take a like Faerinaal’s Hymn: Up to one creature/level cannot take amount of damage. attacks of opportunity. Celestial Brilliance: Object sheds brilliant light to 120 feet, hurts undead and evil outsiders. 3rd-Level Bard Spells Greater Status:As status,but cast some spells through bond.",
+        "name":  "Elation",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Tiny starbursts each deal 1d8 damage (half 4th-Level Bard Spells nonlethal), or 1d8 damage (all lethal) to evil creatures.",
+        "name":  "Stars of Arvandor",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Creates clouds of flickering light (1 10-ft. cube/level) that dazes creatures. 5th-Level Cleric Spells",
+        "name":  "Dolorous Motes",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Allies within 40 ft. gain +2 insight bonus on Chaav’s Laugh: Good creatures gain +2 on attack rolls and ranged attack rolls. saves against fear, plus 1d8 temporary hp +1/level (max. +20). Evil creatures take –2 on attack rolls and saves 5th-Level Bard Spells against fear.",
+        "name":  "Inspired Aim",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Aura burns evil outsiders, undead, and fey for 6th-Level Bard Spells 2d6 points of damage/round.",
+        "name":  "Crown of Flame",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You know status of subject and can teleport CLERIC SPELLS or scry without error. 1st-Level Cleric Spells Telepathy Block:Blocks all telepathic communication within",
+        "name":  "Sacred Guardian",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Evil creature is dazed for 1 round. 6th-Level Cleric Spells",
+        "name":  "Vision of Heaven",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Summons 1d4 lantern archons, coure 2nd-Level Cleric Spells eladrins, or musteval guardinals.",
+        "name":  "Call Faithful Servants",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Allies gain +2 to Strength and Dexterity, +5 ft. of speed. poison, and damage reduction 10/evil. Estanna’s StewF:Conjures stew that heals 1d6+1 per serving. Crown of BrillianceM:Holy light blinds or dazzles foes, repels Lastai’s CaressM: Intense feelings of good leave evil subject light-sensitive creatures, and damages undead. cowering, frightened, nauseated, or shaken. Quickshift:Caster can use teleportor greater teleportspell-like",
+        "name":  "Elation",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Evil auras become visible to you. Vengeance Halo:Any creature that slays the spell’s recipient",
+        "name":  "Blessed Sight",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Entraps and harms evil extraplanar creatures. per day. Gain a +2 competence bonus on Diplomacy checks. 8th-Level Cleric Spells Community Domain Spells",
+        "name":  "Tomb of LightM",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Evil creatures are struck dead and sent to 3 Prayer:Allies gain +1 on most rolls, and enemies take –1. Lower Planes. 4 Greater Status: As status, but cast some spells through",
+        "name":  "Last Judgment",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Targets immune to pain and mind-influenc- ENDURANCE DOMAIN ing effects, and take half damage from melee and ranged Deities:Phieran. attacks. Granted Power: You can perform a feat of endurance, which is the supernatural ability to gain an enhancement bonus to Con- stitution equal to one-half your level. Activating the power is a CLERIC DOMAINS free action, the power lasts 1 minute, and it is usable once per day. The new domains here use some of the spells in this book as well as many of the spells in the Player’s Handbook.The deities men- Endurance Domain Spells tioned include several celestial paragons. Ordinary, these celes- 1 Endure Elements:Exist comfortably in hot or cold envi- tials do not grant spells, but one may act as a patron for a cleric ronments. with the given domain, whether or not that cleric worships a 2 Bear’s Endurance: Subject gains +4 Con for 1 minute/ specific deity. level. The Community and Glory domains originally appeared as 3 Refreshment: Cures creatures of all nonlethal damage. prestige domains in Defenders of the Faith.They are presented 4 SustainM:Recipients need no food or drink for 6 hours/ here as standard domains, in some cases altered in the interests level. of better play balance. 5 StoneskinM:Stops blows, cuts, stabs, and slashes. 6 Mass Bear’s Endurance: As bear’s endurance, affects one CELESTIAL DOMAIN subject/level.",
+        "name":  "Sublime Revelry",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You gain the supernatural ability to smite evil 8 Spell Turning: Reflect 1d4+6 spell levels back at caster. once per day. Add a +4 bonus to your melee attack roll and your 9 Iron Body:Your body becomes living iron. cleric level to your damage. You must declare the smite before making the attack, and the attempt is wasted if the target is not FEY DOMAIN evil. Deities:Valarian",
+        "name":  "Granted Power",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Gain a +4 bonus on saving throws against the Celestial Domain Spells spell-like abilities of feys (such as dryads, nymphs, and sprites). 1 Vision of Heaven:Evil creature is dazed for 1 round. 2 ConsecrateM: Fills area with positive energy, making Fey Domain Spells undead weaker. 1 Faerie Fire:Outlines subject with light, canceling blur,con- 3 Blessed Sight:Evil auras become visible to you. cealment, etc. 4 Lesser Planar AllyX:Exchange services with a 6 HD extra- 2 Charm Person:Makes one person your friend. planar creature. 3 Inspired Aim:Allies within 40 ft. gain +2 insight bonus on 5 Heavenly Lightning: Arcs of radiant lightning deal 3d6 ranged attack rolls. damage to one target per two caster levels. 4 Blinding Beauty:You become as beautiful as a nymph, and 6 Call Faithful Servants: Summons 1d4 lantern archons, can blind humanoids who look at you. coure eladrins, or musteval guardinals. 5 Tree Stride:Step from one tree to another far away. 7 Heavenly Lightning Storm:Arcs of radiant lightning deal 6 Heroes’ Feast:Food for one creature/level cures and blesses. 5d6 damage to one target per level. 7 Liveoak:Oak becomes treant guardian. 8 Holy AuraF:+4 AC, +4 resistance, and SR 25 against evil 8 Unearthly Beauty:As blinding beauty,but creatures must spells. save or die. 9 GateX:Connects two planes for travel or summoning. 9 Summon Nature’s Ally IX:Calls creature to fight. 86 :6 RETPAHC CIGAM 620_88026_ExaltedDeeds2a.qxd 8/26/03 9:44 AM Page 86 GLORY DOMAIN 6 Heroism, Greater: Gives +4 bonus on attacks, damage,",
+        "name":  "Granted Power",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Intimidate is a class skill. You gain a +4 sacred to Charisma for 1 minute/level. bonus on Diplomacy and Intimidate checks. 6 Celestial BloodM: Grant energy resistance, +4 on saves against poison, and damage reduction 10/evil. Herald Domain Spells 7 Empyreal Ecstasy: Targets immune to pain and mind- 1 Comprehend Languages:Understand all spoken and writ- influencing effects, and take half damage from melee and ten languages. ranged attacks; –4 to skill checks. 2 Enthrall:Captivates all within 100 ft. + 10 ft./level. 8 Spread of ContentmentM:Calms hostile creatures within 3 Tongues:Speak any language. 10-ft./level radius. 4 Sending:Delivers short message anywhere, instantly. 9 Sublime Revelry:Targets are immune to pain and mind- 5 Greater Command:As command,but affects one subject/ influencing effects, and take half damage from melee and level. ranged attacks. 6 Dream:Sends message to anyone sleeping. 7 Aspect of the Deity:As lesser aspect,but you get celestial WRATH DOMAIN qualities. Deities:Kharash. 8 Crown of GloryM:Aura inspires awe. Granted Power:Once per day, you may make a free attack of 9 Greater Aspect of the Deity:As lesser aspect,but gain wings, opportunity against any opponent that damages you with a enhanced ability scores, and various resistances and melee attack. This ability does not allow you to make more than immunities. one attack of opportunity in a round. JOY DOMAIN Wrath Domain Spells",
+        "name":  "Granted Power",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Call your special mount, even if you have already 1st-Level Druid Spells called it today.",
+        "name":  "DRUID SPELLS Call Mount",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Cures target of drug addictions. flanking the same opponent; mount gains bonus on attack rolls. 3rd-Level Druid Spells Smite Heretic:You gain a +2 sacred bonus on attack roll and",
+        "name":  "Remove Addiction",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Transforms potion into a grenade that deals against an evil creature that can cast divine spells. energy damage in a 10-ft.-radius burst. 4th-Level Paladin Spells 4th-Level Druid Spells Blood of the Martyr:You heal a target at range and take a like",
+        "name":  "Energize PotionM",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Target gains +2 sacred bonus to AC and retains 5th-Level Druid Spells Dex bonus to AC when flat-footed; you can heal target",
+        "name":  "Sacred Haven",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As blinding beauty,but creatures must save or die. 4th-Level Ranger Spells",
+        "name":  "Unearthly Beauty",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You become as beautiful as a nymph, and can 9th-Level Druid Spells blind humanoids who look at you.",
+        "name":  "Blinding Beauty",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Tiny starbursts (one/level) deal 1d4 points 1st-Level Paladin Spells of damage (2d4 against evil creatures).",
+        "name":  "PALADIN SPELLS Stars of Arvandor",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Target gains the equivalent of the Endurance 88 feat for 1 hour/level. :6 RETPAHC CIGAM 620_88026_ExaltedDeeds2a.qxd 8/26/03 9:44 AM Page 88 SORCERER/WIZARD SPELLS 5th-Level Sorcerer/Wizard Spells 1st-Level Sorcerer/Wizard Spells AbjurTelepathy Block:Blocks all telepathic communication",
+        "name":  "Second Wind",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Summons 1d4 lantern archons, 2nd-Level Sorcerer/Wizard Spells coure eladrins, or musteval guardinals.",
+        "name":  "Conj Call Faithful Servants",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Creatures within 30-foot cone cower for 1d4 Ench Wages of Sin:Evil creatures attack other evil creatures. rounds. Trans Quickshift:Caster can use teleportor greater teleport spell-",
+        "name":  "Warcry",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You take up to 1d6 points of damage/2 7th-Level Sorcerer/Wizard Spells levels and heal target that amount. Evoc Amber SarcophagusM:Target is trapped in stasis inside",
+        "name":  "NecroHealing Touch",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Your gaze attack kills evil creatures 4th-Level Sorcerer/Wizard Spells with less than 5 HD, causes fearin others.",
+        "name":  "NecroRighteous Glare",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Energy strands deal 1d6/level non- 8th-Level Sorcerer/Wizard Spells lethal damage plus entangles evil creatures for 1d6 NecroLast Judgment:Evil creatures are struck dead and sent rounds. to Lower Planes.",
+        "name":  "Dancing WebM",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The caster must have the Level: Cleric 3, druid 3, The new spells described in this book are archon subtype to cast this spell. sorcerer/wizard 4, Wrath 3 good spells, sanctified spells, or spells Celestial: The caster must be an out- Components: V, S that deal directly with other topics in this sider with the good subtype to cast this Casting Time: 1 standard action book (such as exorcism). The spells are spell. Range: Touch presented in alphabetical order by name. Eladrin: The caster must have the Target: Evil creature touched",
+        "name":  "Archon",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "In addition to the eladrin subtype to cast this spell. Duration: Instantaneous standard components defined in the Guardinal:The caster must have the Saving Throw: Fortitude negates Player’s Handbook,some of the spells here guardinal subtype to cast this spell. Spell Resistance: Yes have the following special components. Location:The caster must be standing",
+        "name":  "Components",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes You infuse an amber sphere with magi- cal power and hurl it toward the target. If you succeed on a ranged touch attack, the amber strikes the target and envelops it in coruscating energy that hardens immediately, trapping the target within a translucent, immobile amber shell. The target is perfectly pre- served and held in stasis, unharmed yet unable to take any actions. Within the amber sarcophagus, the target is protected against all attacks, including purely mental ones. The amber sarcophagushas hardness 5 and 10 hp per caster level (maximum 200 hp). If it is reduced to 0 hp, it shat- ters and crumbles to worthless amber dust, at which point the target is released from stasis (although it is flat- footed until its next turn). Left alone, the amber sarcophagustraps the target for the duration of the spell, then disappears before releasing the target from captive stasis.",
+        "name":  "Spell Resistance",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 character level. +2 Dex, +4 Con, +2 Int, +4 Wis, +4 ture in the group is considered flanked Cha. unless they all are. Aspect of the Deity The target also gains darkvision with Transmutation [Good] Aspect of the Deity, Lesser a range of 60 feet, spell resistance equal",
+        "name":  "Sacrifice",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Apostle of peace 9, exalted arcan- native to the Material Plane Spell Resistance: Yes ist 9, Herald 9 Duration: Permanent",
+        "name":  "Level",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action You gain the physical beauty of a cure woundsspell and cannot gain more",
+        "name":  "Casting Time",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "20-ft.-radius spherical emanation accompaniment. All humanoids within excess points are lost. This spell transfers centered on you 60 feet of you who look directly at you only actual hit points, not temporary hit",
+        "name":  "Area",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You must fast Duration: 1 hour/level on a ranged touch attack to strike your for 24 hours before casting this spell. Saving Throw: None target. A creature struck takes varying",
+        "name":  "Abstinence Component",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No damage, depending on its nature and",
+        "name":  "Spell Resistance",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 minute/level (D) ing an utterdark spell, is temporarily Brilliant Emanation negated, so that the otherwise prevailing Evocation [Good]",
+        "name":  "Duration",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sanctified 3 white light and allows you to see evil areas of effect. Components: Sacrifice auras within 120 feet of you. The effect is Arcane Material Component:A polished Casting Time: 1 standard action similar to a detect evil spell, but does not rod of pure silver. Range:100 ft. + 10 ft./level require concentration and discerns aura Area:100-ft.-radius emanation + 10-ft. location and strength more quickly. Blood of the Martyr radius per level You know the location and strength of Necromancy (Healing) [Good] Duration: 1d4 rounds all evil auras within your sight. An aura’s Level: Apostle of peace 4, champion of Saving Throw:Fortitude partial strength depends on the type and Hit Gwynharwyf 4, cleric 4, paladin 4 Spell Resistance:Yes",
+        "name":  "This spell makes your eyes glow with light conditions exist in the overlapping Level",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S description of the detect evilspell in the Casting Time: 1 standard action This spell causes a divine glow to radiate Player’s Handbook. Range: Medium (100 ft. + 10 ft./level) from any reflective objects worn or car-",
+        "name":  "Dice of any evil creature, as noted in the Components",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Instantaneous Evil creatures within the spell’s area are Transmutation [Good] Saving Throw: None blinded unless they succeed on a Forti-",
+        "name":  "Blinding Beauty Duration",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Beloved of Valarian 4, bard 4, Spell Resistance: Yes tude saving throw. Nonevil characters druid 4, Fey 4, ranger 4 perceive the brilliant light emanating",
+        "name":  "Level",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No dered. Eyes of the You call 1d4 lawful good lantern Firre: Red flames archons from Celestia, 1d4 chaotic fill the target’s eyes. good coure eladrins from Arborea, or Once per round, as a 1d4 neutral good musteval guardinals standard action, the from Elysium to your location. They target can deal 2d6 serve you for up to one year as guards, points of fire damage to soldiers, spies, or whatever other holy any single creature or object purpose you have. within 60 feet, simply by gazing No matter how many times you cast at it (no attack roll required). this spell, you can control no more than Horns of the Cervidal: Ramlike 2 HD worth of celestials per caster level. horns sprout from the target’s head. The If you exceed this number, all the newly target can charge an opponent with its called creatures fall under your control, deadly horns. In addition to the normal and any excess servants from previous benefits and hazards of a charge, this castings return to their home plane. tactic allows the creature to make a",
+        "name":  "Spell Resistance",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The character single gore attack that deals 1d8 points must abstain from casting Conjuration of damage plus 1-1/2 times the target’s spells for 3 days prior to casting this Strength modifier. Any summoned or spell. called creature struck by the horns is dismissed instantly.",
+        "name":  "Abstinence Component",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Saving Throw:Fortitude negates itself as a celestial, consult the Player’s (harmless); see text Handbook for the appropriate Disguise",
+        "name":  "Spell Resistance",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Apostle of peace 6, cleric 6, Plea- Mind-Affecting] regardless of any remaining duration on sure 6 Level: Cleric 5, Joy 5 the channel celestialspell.",
+        "name":  "Level",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Touch Range: 40 ft. 24 hours before casting this spell. You",
+        "name":  "Range",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 minute/level you spell at the time you cast this spell. You",
+        "name":  "Duration",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) Saving Throw: Will negates (see text) damage, ability drain, or energy drain at",
+        "name":  "Spell Resistance",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes the time you cast this spell, including You channel holy power to grant the the effects of any previously cast sancti- subject some of the protection enjoyed You release a joyous, boisterous laugh fied spell. by celestial creatures. The subject gains that strengthens the resolve of good Sacrifice: 1d3 points of Strength and resistance 10 to acid, cold, and electric- creatures and weakens the resolve of Dexterity damage. ity, a +4 bonus on saving throws against evil creatures. poison, and damage reduction 10/evil. Good creatures within the spell’s area Channel Greater Celestial",
+        "name":  "Spell Resistance",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A vial of holy gain the following benefits for the dura- Transmutation [Good] water, with which you anoint the sub- tion of the spell: a +2 morale bonus on Level: Sanctified 9 ject’s head. attack rolls and saves against fear effects, plus temporary hit points equal to 1d8 + As channel celestial,but the celestial you Celestial Brilliance caster level (to a maximum of 1d8+20 at channel may have up to 24 HD. Evocation [Good, Light] caster level 20th). Abstinence Component: You must ab-",
+        "name":  "Material Component",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Cleric 4, Glory 4, Evil creatures within the spell’s area stain from intoxicants and stimulants sorcerer/wizard 4 that fail a Will save take a –2 morale for one week before casting this spell.",
+        "name":  "Level",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action fear effects for the duration of the spell. spell at the time you cast this spell. You",
+        "name":  "Casting Time",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Object touched laugh to be affected by the spell. Crea- damage, ability drain, or energy drain at",
+        "name":  "Target",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 day/level (D) tures that are neither good nor evil are the time you cast this spell, including",
+        "name":  "Duration",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No fied spell.",
+        "name":  "Spell Resistance",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1d2 points of Strength drain. (such as vampires) must make a Will Creatures who make successful save if they are within the area of the saving throws are not awed by you and Convert Wand spell. Creatures that fail their saving can continue their actions normally. Transmutation throws must move outside the area. Creatures with more than 8 HD are im-",
+        "name":  "Sacrifice",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Cleric 5 Undead within the area take 1d6 points mune to the effect of the spell.",
+        "name":  "Level",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Wand touched least 100 gp, carried on your person spell. (If it is shattered prematurely, the",
+        "name":  "Target",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 minute/level through the duration of the spell. The spell ends.)",
+        "name":  "Duration",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "None opal shatters upon completion of the This spell first appeared in Defenders of",
+        "name":  "Saving Throw",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 minute/level Spell Resistance:No 1st Wand of cure light wounds Saving Throw:None 2nd Wand of cure moderate",
+        "name":  "Spell Level New Wand Type Duration",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1d4 points of Strength Level: Joy 3, sorcerer/wizard 3 limited precognitive ability that enables damage. Components: V, S, F the spell’s recipient to circumvent the",
+        "name":  "Sacrifice",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Touch the spell gains a +3 sacred bonus on all Evocation [Good] Target: One living creature attack rolls made against evil creatures.",
+        "name":  "Dancing Web Range",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, M/DF (harmless) Sacrifice: 1d2 points of Strength 96 Casting Time: 1 standard action Spell Resistance: Yes (harmless) damage. :6 RETPAHC CIGAM 620_88026_ExaltedDeeds2a.qxd 8/26/03 9:47 AM Page 96 Divine Sacrifice Dragon Cloud Ease Pain Necromancy Conjuration (Calling) [Air] Conjuration (Healing)",
+        "name":  "Components",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Spell Resistance: Yes (harmless) You can sacrifice life force to increase the damage you deal. When you cast the You must cast this spell outdoors, in a Ease painimmediately removes any lin- spell, you can sacrifice up to 10 of your place where clouds are visible. It calls gering effects of pain, including penal- hit points. For every 2 hp you sacrifice, forth a spirit of elemental air, binds it to ties imposed by symbol of pain,angry ache, on your next successful attack you deal a nearby cloud (either a normal cloud or and similar spells. It does not heal any +1d6 damage, to a maximum of +5d6 on storm cloud), and gives it a dragonlike damage or other effects not directly that attack. Your ability to deal this extra form. Upon forming, the dragon-shaped related to pain. damage ends when you successfully cloud swoops toward you, arriving in 1 If the target creature is under some attack or when the spell duration ends. minute regardless of the actual distance effect that causes continuing damage, the Sacrificed hit points count as normal from you. (The time it takes to reach you pain is eased only for a moment. Ease pain lethal damage, even if you have the counts toward the spell’s duration.) cannot bypass the need for a Concentra- regeneration ability. Once it arrives, you can command the tion check to cast a spell under such cir- dragon cloud like a summoned creature cumstances, nor can it allow a creature Dolorous Motes (see the summon nature’s ally Ispell in the subject to death by thornsto act normally Enchantment (Compulsion) [Mind- Player’s Handbookfor details). The dragon (since the spell’s damage is ongoing). Affecting] cloud speaks Auran.",
+        "name":  "Spell Resistance",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bard 4, sorcerer/wizard 3 At the end of the spell’s duration, the Eladrin Form",
+        "name":  "Level",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, DF Enchantment [Mind-Affecting] similar spells. It neither prevents Casting Time:1 standard action",
+        "name":  "Elation imposed by symbol of pain,angry ache,and Components",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action The spell also induces a pleasurable discharged",
+        "name":  "Casting Time",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Allies in an 80-ft.-radius spread additional effects: Spell Resistance: Yes (harmless) of you First, empyreal ecstasy renders its tar-",
+        "name":  "Targets",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Will negates (harmless) and effects for the spell’s duration, but damage into healing power. First, it ren-",
+        "name":  "Saving Throw",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action Affecting] This spell does not convert nonmagi-",
+        "name":  "Casting Time",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Area: 80-ft.-radius emanation, centered Transmutation on you Level: Cleric 3, druid 3,",
+        "name":  "Spell Resistance",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Casting Time: 1 standard action releasing a coruscating pulse of green Range: Close (25 ft. + 5 ft./2 levels) light. Neutral creatures within the burst This spell creates an invisible aura of Effect: 10-ft.-radius burst are dazed for 1 round. Evil creatures divine power around the caster. All Duration: Instantaneous within the burst are stunned for 1d4 intelligent creatures within the spell’s Saving Throw: Reflex half rounds. Good creatures within the burst area suddenly become aware that any Spell Resistance: Yes are unaffected. hostile actions they take will be met",
+        "name":  "The gemstone explodes on impact, Spell Resistance",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, DF spell is cast. Creatures with multiple ify the energy type (acid, cold, elec-",
+        "name":  "Components",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 round attacks take the damage after every tricity, fire, or sonic) when the spell is",
+        "name":  "Casting Time",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One creature/level Targets outside the area of the spell The potion deals 1d6 points of dam-",
+        "name":  "Target",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Will negates without taking damage from this spell. per spell level of the potion (maximum",
+        "name":  "Saving Throw",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes 3d6). For example, a potion of displace- Energetic Healing ment transformed by this spell deals Like the ease pain spell, empyreal ecstasy Conjuration (Healing) 3d6 points of damage. An energized immediately removes any lingering Level: Apostle of peace 5, cleric 5, potion set to deal fire damage ignites 98 effects of pain, including penalties druid 5 :6 RETPAHC CIGAM 620_88026_ExaltedDeeds2a.qxd 8/26/03 9:48 AM Page 98 combustibles within the spell’s burst Exalted Raiment Targets:Up to one evil creature/level radius. Abjuration Duration:Concentration",
+        "name":  "Spell Resistance",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, DF, Sacrifice Spell Resistance:Yes Estanna’s Stew Casting Time: 1 standard action Conjuration (Healing) Range:Touch This gentle hymn clouds the minds of",
+        "name":  "Components",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, F touched spell to forgo attacks of opportunity for",
+        "name":  "Components",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 round Duration:1 minute/level the spell’s duration. A target must be",
+        "name":  "Casting Time",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Fills pot with healing stew (1 object) the spell. serving/2 levels) Spell Resistance: Yes (harmless,",
+        "name":  "Effect",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) outfit of regular clothing with divine Components:V, S, DF power. The spell bestows the following Casting Time: 1 standard action",
+        "name":  "Spell Resistance",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    }
+]

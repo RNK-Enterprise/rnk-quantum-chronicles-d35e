@@ -1,0 +1,106 @@
+﻿{
+    "by_category":  [
+                        {
+                            "count":  49,
+                            "category":  "armor"
+                        },
+                        {
+                            "count":  35,
+                            "category":  "powers"
+                        },
+                        {
+                            "count":  2,
+                            "category":  "monsters"
+                        }
+                    ],
+    "samples":  [
+                    {
+                        "category":  "armor",
+                        "examples":  [
+                                         {
+                                             "name":  "Description",
+                                             "_id":  "b52f2ec282237ced256fa631237d2f49b802b02389d0a28694835b2d980f4191",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Skills and Feats",
+                                             "_id":  "2c61f0d74a7fa62caa32567aa028a968c002e87fe7d35c2303c15b7f7cd80ecb",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Caster Level",
+                                             "_id":  "bc99cbf2651cf187ea3b0807b2e27e07bcdc7e9d1e967a0a5b359fdf987277e7",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "AC",
+                                             "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Damage",
+                                             "_id":  "e3dc8037fb581147eb9f4b66b67256a70a90e4ca7407f4ca628bc3df8b122cc5",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         }
+                                     ]
+                    },
+                    {
+                        "category":  "powers",
+                        "examples":  [
+                                         {
+                                             "name":  "Possessions",
+                                             "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Creatures",
+                                             "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Armor Class",
+                                             "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Armor Class",
+                                             "_id":  "2001fa5e4e4e3c8cb8a522d03d7e8fe74c828de8e5ec4f68ef3cc8eeddb5743c",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Caster Level",
+                                             "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         }
+                                     ]
+                    },
+                    {
+                        "category":  "monsters",
+                        "examples":  [
+                                         {
+                                             "name":  "Spell Focus",
+                                             "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6",
+                                             "auto_category":  "monsters",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "As a final note",
+                                             "_id":  "2364c2bde0370bb5262856c2cc4173481135d40cb5f1173e79430ad90e12efdd",
+                                             "auto_category":  "monsters",
+                                             "confidence":  "strong"
+                                         }
+                                     ]
+                    }
+                ],
+    "total_merged":  86
+}

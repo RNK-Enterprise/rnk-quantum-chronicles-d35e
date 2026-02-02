@@ -1,0 +1,772 @@
+﻿[
+    {
+        "origin_file":  "spells.json",
+        "description":  "30-ft. -radius burst Once you cast imbue familiar with spell ability on your",
+        "name":  "Area",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Instantaneous familiar, you cannot prepare a new 6th-level spell to",
+        "name":  "Duration",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Reflex half replace it until the familiar uses the transferred spells or is",
+        "name":  "Saving Throw",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A chunk of ice or a single pearl. from your total when the familiar casts the spell. 91 CHAPTER 5: SPELLS",
+        "name":  "Material Component",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Touch Spell Resistance: Yes",
+        "name":  "Range",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes must succeed at a ranged touch attack to hit your target. If you miss, there is no splash damage. This spell drains emotion from the creature touched. For every two levels of experience past 1st, you gain The subject becomes immune to fear and compulsion an additional orb that you shoot at the same time. You effects of 2nd level or lower and gains a +4 circumstance have two at 3rd level, three at 5th level, four at 7th level, modifier on saving throws against fear or compulsion and the maximum of five orbs at 9th level or higher. If effects of 3rd level or higher. Furthermore, morale you shoot multiple orbs, you can have them strike a single bonuses or penalties do not affect the subject while the creature or several creatures. A single orb can strike spell lasts. However, the subject’s lack of emotion imposes only one creature. You must designate targets before a -4 circumstance penalty on Charisma checks. you roll for SR or roll damage. If the subject already is under a fear or compulsion effect when receiving this spell, a failed saving throw Lesser Cold Orb ends that effect and leaves the subject dazed for 1 round. Evocation [Cold]",
+        "name":  "Spell Resistance",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 action Level: Sor/Wiz 1 92 CHAPTER 5: SPELLS As lesser acid orb, except lesser electric orb deals electricity As teleport, except as noted above. You do not have to damage. teleport yourself when you cast a mass teleport spell. Lesser Fire Orb Mordenkainenís Private Sanctum Evocation [Fire] Abjuration",
+        "name":  "Casting Time",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No As lesser acid orb, except lesser sonic orb deals sonic damage. This spell insures privacy. Anyone looking into the area Mass Darkvision from outside sees only a dark, foggy mass. Darkvision Transmutation cannot penetrate it. No sounds, no matter how loud, can",
+        "name":  "Spell Resistance",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) and those outside (because it blocks sound), but it does not prevent other sorts of communication, such as sending As darkvision, except that all creatures in the area at the or message spells, or empathic communication between a time of casting receive the spell’s benefits. master and a familiar. Nor does it prevent creatures or objects from moving into and out of the area.",
+        "name":  "Spell Resistance",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S all targeted creatures. Once a creature receives the spell, Casting Time: 1 action it must remain within 30 feet of at least one other Range: Close (25 ft. +5 ft./2 levels) recipient, or the spell is broken for that creature. (If only Effect: 20-ft.–radius burst two individuals are affected, the one moving away from Duration: Instantaneous the other loses the ability to fly. If both are moving away Saving Throw: Will half (see text) from each other, they both become unable to fly when Spell Resistance: Yes the distance between them exceeds 30 feet.) You release a silent burst of negative energy from a point Mass Resist Elements you indicate. Abjuration The burst deals 1d8 points of damage to living crea-",
+        "name":  "As fly, except this spell confers the power of flight upon Components",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One creature/level, no two of which can be 1d8+10). A successful Will save reduces damage by half. more than 30 ft. apart Since undead are powered by negative energy, this spell cures them of a like amount of damage, rather than As resist elements, except that it affects multiple creatures. harming them. Mass Teleport Negative Energy Ray Transmutation [Teleportation] Necromancy",
+        "name":  "Targets",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Instantaneous 93 CHAPTER 5: SPELLS",
+        "name":  "Duration",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A sheet of fine lead crystal. spell cures them of a like amount of damage, rather than harming them. Otilukeís Greater Dispelling Screen",
+        "name":  "Since undead are powered by negative energy, this Material Component",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sor/Wiz 7 Negative Energy Wave Necromancy As Otiluke’s dispelling screen, except that the maximum",
+        "name":  "Level",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Range:Touch",
+        "name":  "Spell Resistance",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 hour/level body. Saving Throw: Will negates (harmless) You can affect up to 1d6 HD worth of undead creatures Spell Resistance: Yes (harmless) per level (maximum 15d6). Those closest to you are affected first; among equidistant undead creatures, The transmuted creature becomes wiser. The spell grants weaker ones are affected first. The spell can have one of an enhancement modifier to Wisdom of 1d4+1 points, two effects, which you select when you cast it. adding the usual benefits to Wisdom-related skills.",
+        "name":  "You release a silent burst of negative energy from your Duration",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The undead creatures cower as if in awe. (Treat Clerics, druids, paladins, and rangers who receive owl’s them as stunned.) The effect lasts 10 rounds. wisdom do not gain extra spells, but the save DCs for",
+        "name":  "Rebuked",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Undead creatures gain turn resistance of 1d4 their spells increase. +your Charisma modifier (minimum +1). The effect lasts Arcane Material Component: A few feathers, or a pinch 10 rounds. of droppings, from an owl. Otilukeís Dispelling Screen Polymorph Other Abjuration Transmutation",
+        "name":  "Bolstered",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 minute/level (D) Spell Resistance: Yes",
+        "name":  "Duration",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) Necromancy",
+        "name":  "Spell Resistance",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, M least 1 hit point remaining, you transmute its structure Casting Time: 1 action to repair damage it has suffered. The spell repairs 1d8 Effect: Wall whose area is up to one 10-ft. square/ points of damage +1 point per caster level (up to +5). level or a sphere or hemisphere with a radius of up to 1 ft./level",
+        "name":  "When laying your hands upon a construct that has at Components",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sor/Wiz 0 Spell Resistance: No As repair light damage, except repair minor damage repairs This spell creates an immobile, swirling mass of greenish- only 1 point of damage. white forms that look like tortured spirits. One side of the wall, selected by you, emits a low groaning that causes Repair Moderate Damage creatures within a 60-foot spread to make a Will save or Transmutation flee in panic for 1d4 rounds (this is a sonic fear effect).",
+        "name":  "Level",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Jesse Decker and It’s handy for comparing the new spells from Tome and LLaaww..+2 AC and saves, counter mind Julia Martin Bloodwith the traditional fare from the Player’s Hand- control, hedge out elementals and",
+        "name":  "Editing",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  ": Concentration 4+ ranks, Perform 3+ ranks spell each round as a free action. (dance, sing, + any 1 other), Tumble 3+ ranks",
+        "name":  "SSkkiillllss",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Amaneuverisaspecific,one-shoteffectthata atecentere-d. martialadeptinitiates.Inthisway,amaneuverisfunctionally Initiate;Amarttaladeprusesamartialmaneuverbvtnitiat similar10 aspell.However,amartial adept usuallydoesn\u0027t ingu.Soinsteadofcastingaspellor manifestingapower.a use upor expend maneuversJuringthecourseofaday of characterinitiatesamaneuver. adventuringthewayaspellcasterdoes.Heheginseachnew",
+        "name":  "Maneuver",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A warblade can choose any alignment, alTecledbyspellresistance,and youdo nOIproi..ekeattacks thoughmany preferchaotico....erlawful.Afterall,awarblade ofopportunitywhenyouImuareone, set\u0027k~10 winglory through individualdeedsoiprowess, Youlearnadduionalmaneuvers31higherlevels,asshown su he IS unlikely 10adopt a personal code emphasizing on Table 1-]. Youmust meet a maneuver\u0027s prerequisite to obedienceoverfreedom[0improvise.Good warbladesare learnit,\u0027sl\u0027l\"Tabll\u0027 :\\·1,pagt\u0027]\u003cJ,lodClerminethehight\u0027l\u0027t-k....el champions of{he weak and downtrodden; evil ones are maneuversyoucan learn. \"lCIOUS warlords whoexult in rhe defeat and humiltaucn Upon reaching ·\"h level.andate\\\u0027ery even-numbered ottheirfoes. warbladelevelafll\u0027r thar(Mh,srh. 10th,andsoon),youcan SlartingCold;5d4\u003e\u003c10(125gp). choosetolearnanewmaneuver in placeofone youalready",
+        "name":  "Alignment",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can rake thisfut upto threetimes.Each Yourma~lcryoftheShadowHanddisciplineletsyouaugment nme you rake it afterthe first.vou gainone oftwo ben your illusion spellswiththestuffofshadow. efus.You canchooseanew drsciplme.gaming oneofi:s Prere-quisite:Casterlevelrn,ant\"shadowHand srnke maneuvers and its key ~klil asaclass skill, as described n~nefit:WhileyouIre-in3ShadowHand\u0027Itancr,thesave ebcve. :\\ht\"rnatively: you can choose a maneuver from DCforanyIllusionspell youcast increasesbv2 .1 drsctpltne 10 which )\"OU have alreedv gained access Youal~ogama..2bonuson damage rolls when makmg;l by meansofthis fut. In eithercase.you must meet the sneakauack•asuddensrriketseetheninjaclassdescnpnon. mantu\"er~ prerequisite. pageBofComplrl\u003cAJl\u0027nltl4rn).orwhenyouflankyourtarget.",
+        "name":  "Special",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A swifl action consumes avery small amountoftime,butrepresentsalargerexpenditureofeffort andenergy thanafreeaction, Youcanperform oneswift actionperturn withoutaffectingyourabilitytoperform 01her actions. In rhat regard,aswift action is like a free action.However,youcanperformonlyasingleswiftaction perturn.regardlessofwhatotheractionsyoutake.YOIlcan takeaswiftactionanytime}\"Ouwouldnormallybeallowed to rakeafreeaction. Casting aquickened spellor manifesting aquickened powerisaswiftacnon,so}\"OUcan\u0027tinitiateamaneuverwuh anininanonactionof1swiftactioninthesameroundthat youcastaquickenedspellor useaquickenedpower,",
+        "name":  "Swifl Action",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Strike-Allies make fret\" Devc StrikeofRighteousVitality:Srrfke-c-Successful snacks againsl:lfoeyoustrike. snackgrmlSht\u0027,,1spell.",
+        "name":  "Swarming Assault",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Stance oorfewer hit points. Ifyou take such y(lllh.ukmf(l)Uurfix\u0027sltgS.farrmglusmOl.\u0027t damage,youcanmakeaFortitudesavt IIltlllloSllll\\\u0027llllJ hl!rtsO!Ulllllllll{,IfIn with a DCequal to your negauve hit pointtotal,Ifyoufailthissave,youthe orfallunccnsctous(asappropriate,.If As pan of this maneuver. you thissaveissuccessful.youaresnll make a melee attack agamst an opponent.Youranackdealsan aliveandconscious,with I hu extra 2d6 POintsofdamage. pcinrremaining, Thisstanceprovidesno In addmon. if your arrack protectrcn against effecr, hits,yoururgel\\speed1S reducedby10feeluntil rhar sl:ayyouwithoutdeal rheendofItSnextturn, ing hil point damage. or whichmighrpH\u0027VC\u0027ntit orher effects that pelrify, from moving ennrelv, paralyze,and so forth.You This pen3lty applies10 can still beslain by acoup 311 movement moot\u0027s. degraceifaspellor effect Aflyingcreaturewitha rendersyou helpless. flyspeedof0feerfalls10 Aftl\"fYOUanemprthree the ground (and takes saving rhrcws to aVOId fallingdamageappropri deaborunconsciousness. alely)ifitissubjecttoIbis rhtsstance\u0027automalically effectwhilein theair, ends. You can acnvate Iragain on your turn as FOEHAMMER normal.Eventheroughest De\"OII\"JSpirit(Strtke] crusadercanendureonlyso level;Crusader2 much punishment.",
+        "name":  "Duration",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Onecreature Range:Personal maneuver,chaoncalignment Target;You InitiationAcrion:I full-roundaction ,0\\\\)1.lllr(II\u003c\u0027myruJsJmlll\\\u0027Ollrllllglll),rIoII\u0027. Durarion:stance Rangl\u0027;Melee mack .111 ,rlh\u0027 rlt\u0027arby IS\u0027Imlllf\u003cJllr(lu~y Il(altJ Targl·t:Onecreature .:m,l cJrallstdoJlIs....\u0027ullll, h Iht J\u0027l\u0027wt\"r rOilmullllama(llrrlulgu.mlu\u0027)tIllstarrh Duranon: t round ollt\u0027tur{IIi/h. for.::n)\u0027guf\u0027SIIIvouronunml\u0027iult\u0027art\u0027rl(\u0027Ss. [viIIllus1lgllkllmOll(prot\\llw.:lsllllglnj.! TlltI~,u\u0027(rof(ham:SWIrlSkll\\llmJ\\\"11,ltnd· When you make rhts strike, you 01 (ounlirfromyou. II1gslYt\u0027llgtllllJycrurull.uluasl\"l1c.:IslYOlir oneallrwithin 10fl\u0027etofyougainsthe (aIr \u0027\" III(wIllms\u0027-\u0027fluck. benefitofah(,dspellcastasaclericoi \\X\u0027hile you art\u0027 m this stance. any vourcharacter level Togain the ben 0rponenl vouthreaten Ihar rakes any You must make a charge arrack :IS efit Ithis maneuver.rou must srnkc son ofmovemem. including a s·foo[ pari of Ihlli maneuver. If tilt-target 1~ an enemy creature whose alignrnent ~tep,PfO\\\u0027OKeSanalue.kofopponurutv lawful-ahgned.youguna\"\u0027Sbonuson has at least one component drfferem fromyou,\u0027lourfoesprovokeIhlSansck yourarI¥k (inaddilion to rbe charge (romvours.This£01\"must POS\\\"athreat be-foreleaving the area you threaten. bonus amIvouranackdealsanextra .wt. to you or your allies in some direct. Your opponents also canner me rhe perms ofdamage. In addition If Immediate\"\u00272)\u0027. wirhdraw acnon PH H3 10 treat I~ rcharge anackhnsand the target squareIht\u0027VstanInasnolengerthrear ~ bwfuhligncd )\"OU becomewreathed THICKET OF BLADES erredbvvee. m anarchic energy \\ou gain rota n~ redSpiril(Sunce nu..almenr gamS! all snacks th rar!!lI vonuntilthebegtnrnngof\"our Rang(\u0027:Mt\u00271et\u0027 :lll:ll k As parr of ,hIS maneuver,you mak J nexrrum Target:Onecreature meleearrackagainstanopponenryou threaten If this allack hils all your \\Al\u0027GUARD STRIKE YOll b.!Uir.lIlde )\u0027our(r.·1J~fwwswrfll iJ alllC\u0027S gain a-+4bonus on ranged and DevotedSpiril(Sm ke) l\u0027I(IOU\u0027i,ol\u0027tTwhrlllllflj:\",IIfoJI\u0027k,1(11VIII!:\"111m melecauacksagainst Ihal targcr unnl level:Crusader1 1\u00271I1ninlblt toyour..U,~s\u0027M(lII\u0027S. rbeSlat!ofyournext rurn.",
+        "name":  "Target",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Stance orsuffera20\u0027\\misschanceon.111melee Black.IJlaJ,,\",ytlllTg}\u0027(Ol-\u0027(TS)\u0027tJUr1l,mJi andranged amcksfor I rounJ.Asue ,mJ{ttl,1I110ll\u0027rtIg}tlll10 ~Ultll11(\"10\u003e\\/h A. YOll mOIit\u0027,SIt\"J(lI\u003c\u0027ilIu/ftr\"nJm\u0027o1nu c.....sful save negatesthe muschance, lI\u0027allsanJwIlligI,letaIIIri:mgspdtr. arolmJ )011.[W\" IInJtrIht bnghlJ(k\u0027rl bUInOIthe extra damage. 11111,WIIlin\u0027 ,1Iffi(1l1r10 This maneuver IS :I supernatura] Whileyouareinthisstance,yougaina ,pol LIS 10llgIII rou .1bthl)·. benefitSimilar tothe\u0027spWtrchmbspell n\u0027rth11n mmonon. (PII 283).Yougainacltmbspeedof20 ftort Youdo nOIneedtomakeaClimb As an rrunate of check [0 traverse .1 vertical or hon rhe Shadow Hand zcnralsurface. even ifyou auempt 10 school,youlearn mcceacross aceiling.Youretainyour tochanneland Dexterirvbonus10ACwhikclimbing. control dark, and you must have OIl 1t\u00273St one hand shadowy ener free 10 support yourself whil.. you glt\"S.l1m t\u0027nt\u0027l\u0027ID\u0027 climb,You do not rakeany penal flews around lit\u0027S, nor do yourcpponenrsgain youlikeacon anv bonus when attacking cealmgrobe, you, while you climb hiding you You cannottakearun from your action while climb opponents as ingin thismanner tht\u0027}\u0027JI{CmpIIO srrikeyou. DEATH IN If you move OIl THE DARK least 10f\"t,tduringyour Shadow Hand [urn,yougainconcealment (Strike) against all melee and ranged Level:Swcrdsage7 attacks unrilrhe start ofyour next IniriationAction:I~Ian- turn.Youalsogain rhestandardben ,ArrtnJlsmilSah.ljli,,!.nn,JJa!.t dardaction efirsofconcealment,bUIyou cannot .si,,!.fixchiJJ ofsh.JJI1\u0027»\u0027Sssa\"u Range:Meleeanack use rhrsstance 10 hide in plain sight; Target:One creature you mustsnll usesome etherterrain CLOAKOF DECEPTION SavingThrow-Fortitudepartial featurethat normallyallowsyoutous\u003c\u0027 Shadow Hand(Boo~l) theHideskill.TheIluuermgshadows Level:Swcrdsage 2 YOIItallh)tlllfioe 1IIIIII\\\u0027IIn\u0027,,dl\"wlIlg)\u0027111.1 makeirdifficult tospectficallv targel InitiationAcrion:Iswiflacuon /0Jilil .1sltlglt,Jtll,lIrdnkf filII\u0027 ,lilt\u0027S vou, bUIyour enemies are aware of Range:Persona: Jltr1I1llllnllr, yourpcstuon. Target:You",
+        "name":  "Durarton",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Swcrdsage2 or spt\u0027C1.:11 abilnies). Additionally, :a Onasuccessfulsave.the targetignores Prerequisite; One Shadow Hand spelleasrerlosesonespellor spell5101 any specialeffC\u0027Ctfromtheattackand maneuv r fromherhighesravailablelevel.N~;.. takeshalfIhC\u0027indicatedabilirvdama",
+        "name":  "Level",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "lndingonrheground,your 10 rumble and shake briefly. Anyone enough,youcanrush yourlargelback attack alsodropsrhelarger\u0027sspeed100 su ndingonthegroundin thismaneu more than 5feel(n normalforabull fl.el\\(oralllT1O\\\u0027rmc:\"n1I}~)(ortround. ver\u0027s3R\u0027Jmustmake01successfulRdln rush,bUIwuhourhaving tofollow) IIcanXInomullyinallotherways. save(DC IS • yourSUmodlfienorbe Thismaneuverfunctionsonlyagainst knockedprone.Anycreature standing COLOSSUSSTRIKE opponentssti1:1dingon Ihe ground.A on the groundin rhtsUC\u0027o1 th.lll iscur tone Dragon(Strike flyingcreatureoralevnanoglargC\u00271is rentlycasrlngaspellmust succeedon",
+        "name":  "AssumingyourStrengthcheckishigh youhuissl",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "lnNISspell.andso forth. This maneuver functions only",
+        "name":  "It",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Nearlyallnairvan rakshasasarebornand animportantfigure.orumightbuildasupportorganization 11\\t\"on thl\u0027 l\\lJrerialPlane,making them nativeourstders. fromthegroundup.NailY.111rakshasasdo1\u0027101possessrhe Theylive in 3ny erwironmenr where humanoids can be spellcasringpoWt\u0027rs ofcrhertypesofrakshasasand sorely found living. upon decepucn and their fIghnngskill 10 achievetheir",
+        "name":  "Environment",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You must place a gem about the 5 rounds. size of a human tooth or eye in the center of Acererak’s seal. Speak with Dead: You can question the dead at will as though This gem is not used up in the summoning process, nor using the speak with dead spell (caster level equals your effec- does it move from where you placed it, despite the manner tive binder level; save DC 10 + 1/2 your effective binder level in which Acererak manifests (see Manifestation, below). + your Cha modifi er).",
+        "name":  "Special Requirement",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You gain a wracking cough that spews dust and small consumed by wrath. He grants those who summon him his stones from your mouth. This coughing prevents you from sight, his fi ery breath, and his powerful charge. casting any spells that have verbal components. While bound Legend: Scholars claim that Amon is what remains of the to Agares, you can resist the urge to cough for a number of personality of a god who died of neglect millennia ago. Once rounds equal your Constitution score. Thereafter, you cough worshiped by thousands, Amon eventually lost his faithful to for a round and then can try to resist the urge again. more responsive deities. His will was strong enough, though,",
+        "name":  "Sign",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Dwarven legends depict Aym as the greediest ponent to break into uncontrollable laughter. This ability dwarf queen who ever lived. Modern-day dwarves still spit at functions like a Tasha’s hideous laughter spell (caster level the mention of her name. Not long after Moradin fi rst forged equals your effective binder level), except that an affected the dwarves, Aym arose as a great leader among them. Greed creature can make an additional saving throw at the end of brought her to power, and greed consumed her while she each of its turns to end the effect. Once you have used this ruled. Dwarves mined furiously in response to Aym’s constant ability, you cannot do so again for 5 rounds. demand for more gems and precious metals, and her people",
+        "name":  "Legend",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Buer grants you healing powers, the undead, several powerful individuals eventually joined forces ability to ignore toxins and ailments, and skills that help you to fi ght it. Three were great heroes, and four were powerful navigate the natural world. villains. Four of these seven—one of the heroes and three of 26 the villains— Ethereal Watcher: At will as a move action, you can become CCHHUUPPOOCCLLOOPPSS were ghosts; the ethereal (as if using the ethereal jaunt spell; caster level equals rest were living. your effective binder level). You can remain on the Ethereal This group set Plane indefi nitely if you take no actions, but you return to out to murder the Material Plane immediately after taking a move action, Chupoclops and a standard action, or a full-round action. Once you have thus accomplish returned to the Material Plane, you cannot use this ability what deities again for 5 rounds. could not. The Ghost Touch: Your melee attacks can strike incorporeal furious battle creatures, and their normal 50% chance to avoid damage does lasted for seven not apply to your melee attacks. days, and each Poison Bite: You gain a natural bite attack that deals damage day ended with according to your size, as given on the table below.",
+        "name":  "Granted Abilities",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Binders know little of distraction to extreme focus and back how Dantalion came to be. The most again. Sometimes you stare blankly common legend of his origin presents off into space, and at other times you him not as one spirit, but as a conglom- gaze intently at the person or task eration of the souls of a royal line whose at hand. Since Dahlver-Nar dislikes members were cursed not to join their any task that requires more than deities in the afterlife. This ancient 1 round of concentration (such as imperial line is not now connected to some spellcasting, concentration on any living leaders. Supposedly, however, an effect, or any action that requires",
+        "name":  "Legend",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Dantalion appears in a fl ash of red light of his selfi sh powers. as a 10-foot-tall humanoid, resplendent in crimson and gold 28 dnalgnE .W yb .sullI robes. His head any hostile action, such as making an attack roll or casting DDAANNTTAALLIIOONN is a massive con- an offensive spell against the affected creature or its allies, glomeration of the effect ends. Once you have used this ability, you cannot dozens of human do so again for 5 rounds. faces—male and Dantalion Knows: While bound to Dantalion, you have a female, young +8 bonus on Knowledge checks. This ability does not allow and old. A gold you to make Knowledge checks untrained. crown as big Read Thoughts: At will as a full-round action, you can around as a bar- attempt to read the surface thoughts of any creature you can rel rests on the see, as long as it is within 5 feet per effective binder level you brow of his enor- possess. If the target makes a successful Will save, you cannot mous cranium. read its thoughts for 1 minute. Dantalion car- Creatures of animal intelligence (Int 1 or 2) have simple,",
+        "name":  "Manifestation",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "At will, you can move on liquid as if it were for as long as it remains adjacent to you. You can suppress or fi rm ground. This ability functions like the water walk spell, activate this ability as a standard action. Aura of sadness is a except that it affects only you. mind-affecting ability. Focalor’s Breath: As a standard action, you can exhale toward a single living target within 30 feet. That target is blinded FOCALOR, PRINCE OF TEARS for 1 round unless it succeeds on a Fortitude save. Once you Focalor has power over storms and seas. He gives those who have used this ability, you cannot do so again for 5 rounds. bind him the power to drown souls in sadness and sink ships",
+        "name":  "Water Dancing",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can see perfectly in darkness of any ways hungered for the souls of those who had lost their faith, kind, even that created by a deeper darkness spell. You cannot and Geryon’s powerful soul made a fi ne meal. use this ability if you do not show Geryon’s sign.",
+        "name":  "See in Darkness",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can confuse by touch. The target of that they overlooked no means of escape, they captured and your touch attack must succeed on a Will save or become enslaved the gnomes who had designed them. Through a confused for 1 round per three effective binder levels you combination of threats and rewards, they forced the gnomes possess. When you attain an effective binder level of 19th, to make these prisons even more effective. this ability functions as a maze spell. Once you have used this Many gnome architects chose to die rather than help ability, you cannot do so again for 5 rounds. the hobgoblins, and others secretly used their positions to",
+        "name":  "Confusing Touch",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can imprison a foe deep in the earth with Plane and cloaked their work sites in illusions to hide the only a touch. As a standard action, you can make a melee truth. In the last months of his life, Haures brought many touch attack to imprison your target. If you hit, the target living and undead servants to his foggy realm, as well as all must make a Fortitude saving throw or be imprisoned. This the comforts to which he had become accustomed. ability functions like the imprisonment spell, except that the For some time after his demise, Haures spent time on both imprisonment lasts for a number of rounds equal to your the Material and Ethereal Planes. As a ghost, he would cloak effective binder level. If you miss with the touch attack, you the decaying castle on the Material Plane in bright illusions can use this ability on the following round, but if a target so that he could throw lavish parties for the travelers attracted makes its save, you must wait 1d4 rounds before using it to its warm glow. Then he would end the party suddenly, again. You cannot imprison a creature while you already have leaving his guests alone in the chilly ruins of his castle and another imprisoned from the use of this ability. delighting in their terror. As the years passed, fewer folk dared",
+        "name":  "Imprison",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As a standard action, you can cause a fl at, vertical enter his home, and Haures began to throw illusory parties for iron wall to spring into being. It functions as a wall of iron himself to alleviate his boredom. As his sanity deteriorated, spell, except that it disappears after 1 minute. Once you have he became unable to distinguish between the Material and used this ability, you cannot do so again for 5 rounds. the Ethereal Planes, and even between his illusions and his",
+        "name":  "Iron Wall",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "At will as a standard action, you can bring a own imagined experiences. At some point, Haures lost all sturdy stone building into being at any point on the ground sense of the difference between reality and dreams, illusion within 60 feet of you, as long as the space can accommodate its and imagination, and even life and undeath. This complete dimensions. This ability summons a tower like that produced dissolution of these barriers propelled him into existence as by the Leomund’s secure shelter spell. You cannot summon this a vestige. tower if you already have one standing. You can dismiss the Manifestation: Haures initially manifests as a ghostly ti- structure as a standard action, but you cannot summon it ger stalking out of thin air, but his appearance rapidly changes again for 5 rounds after dismissing it. to that of a handsome and well-dressed middle-aged man who appears alive and healthy. A moment later, that form de- cays before his summoner’s eyes, rotting into a zombielike HAURES, THE DREAMING DUKE state, then fading into ghostly incorporeality and chang- Haures grants his summoners the power to create illusions, ing again, this time into a skeletal tiger wearing a shining protect their thoughts, and move through objects like a crown and pur- ghost. ple robe. This",
+        "name":  "Secure Shelter",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You are protected from any effort to mission his focus, but the fact that he now exists as a ves- detect, infl uence, or read your emotions or thoughts, and you tige lends credence to the idea that he discovered what he have immunity to any mind-affecting spells and abilities, as sought. if you were protected by a mind blank spell. You can suppress Special Requirement: Ipos refuses to answer the call of or activate this ability as a standard action. any summoner who, in his judgment, has not taken a serious",
+        "name":  "Inaccessible Mind",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This ability functions like the phantasmal strike the ground in emphasis than as an aid in walking. He killer spell except for the range and save DCs (the ability still keeps his other requires a Will save, and possibly a Fortitude save) to resist. paw hidden in You can target any single creature within 10 feet per binder one of the long IIPPOOSS level you possess. Once you have used this ability, you cannot sleeves of his do so again for 5 rounds. robes, but from time to time, an observer can see IPOS, PRINCE OF FOOLS him extending its Binders call Ipos the Prince of Fools because of the crown he long, black claws. wears and the sad legend of his transformation into a vestige. Despite his rust- He grants his summoners cold iron claws with which to rend ing crown and foes, the power to see creatures and objects as they are, and tattered cloak, a fraction of his charisma. Ipos presents an",
+        "name":  "Phantasmal Killer",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  ": 2266 voice and bale- gives confl icting accounts of Ipos’s race and nation of origin, ful glare add the legends agree that he was a mighty spellcaster with the SSppeecciiaall",
+        "name":  "BBiinnddiinngg DDCC",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  " Tiny 1d3 Karsus refuses Small 1d4 Medium 1d6 to answer the call of a binder who attempts to summon him Large 1d8 within the area of an active spell. In addition, he appears only Huge 2d6 to a summoner who has at least 5 ranks in either Knowledge Gargantuan 2d8 (arcana) or Spellcraft. He also hates Amon for some unknown Colossal 4d6 reason and will not answer your call if you are already bound to that vestige. If you already had claw attacks with your hands, use the claw",
+        "name":  "Requirement",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As a swift action, you gain a true seeing effect volume of his voice. (as the spell) for a duration of 1 round. Once you have used",
+        "name":  "Flash of Insight",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As a full-round action, you can make yourself heart and the loss of his soul. invisible (as with the invisibility spell). Making an attack 39 ends the invisibility (as normal), but otherwise, the rebelled against their devilish cap- effect lasts a number of rounds equal to your effective tors—intending not to escape or binder level. You can invoke this ability take control, but to attack Marchosias. as a standard action at 5th level, as a Although the devils were loath to allow move action at 10th level, and as a such lawlessness, they let the swift action at 15th level. Once you souls of the damned fi ght it out, return to visibility, you cannot use thinking to step in and punish all this ability again for 5 rounds. the spirits when the battle was",
+        "name":  "Invisibility",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can assume the form of a smoke cloud at out of invisibility as a three-headed hound to feast upon the will. This ability functions like the gaseous form spell, except crane. He speaks hoarsely from whichever dog head isn’t that you can remain gaseous for as long as you wish. Although eating at the moment. Despite his terrible appearance and you lose your supernatural abilities while gaseous, you do raucous voice, Naberius somehow manages to seem amiable not lose the ability to remain in gaseous form. Vestiges you and eloquent. have bound remain so for the normal duration. Since you lose Sign: Your voice deepens and acquires a gravelly, growling your supernatural death attack ability, however, you cannot tone. study an opponent for the purpose of making your death Infl uence: While you are infl uenced by Naberius, you attack while in smoke form. You can suppress or activate this love the sound of your own voice and are constantly pleased ability as a standard action. Once you have returned to your by your cleverness. Whenever you are presented with a normal form from smoke form, you cannot do so again for 5 pulpit, a stage, a talking stick, or any other place or object rounds. designed to give a speaker the fl oor, Naberius requires that",
+        "name":  "Smoke Form",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  ": 88tthh spell. A successful Will save negates the effect. When your sense, Orthos",
+        "name":  "VVeessttiiggee LLeevveell",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  ": 3355 effective binder level reaches 14th, your words become even is eerily extant, more persuasive and this ability functions like the suggestion SSppeecciiaall and its presence spell. Once you have used this ability, you cannot do so again RReeqquuiirreemmeenntt:: YYeess can be felt by for 5 rounds. even the dumb-",
+        "name":  "BBiinnddiinngg DDCC",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "At will as a standard action, you can send cat’s eye with an explosive rush of wind. The howling grows a message on the wind as though using the whispering wind so loud that it pains the ear while the seemingly nonexis- spell (caster level equals your effective binder level). 42 OTIAX, THE KEY TO THE GATE entitled to additional air blast attacks each round when you The alien Otiax gives its summoners the power to open what make a full attack. You can also make attacks of opportunity is closed, to walk among the clouds, and to strike foes with with your air blast. You cannot use this ability if you do not fog that lands like a hammer. show Otiax’s sign.",
+        "name":  "Whispering Wind",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "When Otiax manifests, a locked golden ability if you do not show Otiax’s sign. gate appears within its seal. Blue fog curls out in wispy ten- Open Portal: At will as a swift action, you can open (but not drils from between the bars, obscuring what lies beyond. close) a door, chest, box, window, bag, pouch, bottle, barrel, After a moment of silence, some unseen force crashes against or other container as though using the open/close spell. This the barrier. Then the gate shakes and rattles loudly, as though ability has a range of 10 feet per effective binder level you some creature is desperate to open it. Ragged breathing possess. becomes audible, and the fog swirls around some indistinct Unlock: As a full-round action, you can unlock a single yet terrible form. At last the raging stops, and the azure vapor lock that you can touch, provided that its Open Lock DC is passes through the gate. The sound of the tumblers turning less than or equal to twice your effective binder level. For in the lock becomes audible, then the gate creaks open. example, a 10th-level binder can use this ability to open any",
+        "name":  "Manifestation",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ronove’s infl uence makes you think that Feather Fall: You automatically fall as though under the others doubt your abilities and competence. Despite what infl uence of a feather fall spell. You can suppress or activate anyone says, you feel the constant need to prove your worth. this ability as a standard action. In addition, Ronove requires that you consume neither food Ronove’s Fists: You gain the benefi t of the Improved nor beverages (including potions) for the entire time you Unarmed Strike feat. Your unarmed strikes deal damage as remain bound to her. those of a monk of a level equal to your effective binder level.",
+        "name":  "Infl uence",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can cloak an area in shadows as though attained it. Slain and resurrected by a surge of negative using the deeper darkness spell (caster level equals your effec- energy, the corpulent demon arose as the gaunt Tenebrous, tive binder level), with the following exceptions. The effect a god of darkness and undeath. For a time he traveled the is always centered on you, it has an unlimited duration, and planes in this form, slaying other gods in his quest to gain you can shift the range of the emanation (within the normal more power. His ultimate goal was to reincarnate himself range) up or down 10 feet as a move action. You can suppress yet again because he wished to be a god as Orcus, not or activate this ability as a standard action. Tenebrous. Some say he was thwarted by a band of mortal",
+        "name":  "Deeper Darkness",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can see perfectly through darkness of heroes, but whatever the cause, his grand plan failed. Orcus any kind, even that created by a deeper darkness spell (or your did indeed rise again, but as the demon prince he once was, deeper darkness ability). not as a god.",
+        "name":  "See in Darkness",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ability to cast 2nd-level arcane spells duration of the pact.",
+        "name":  "Spellcasting",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "VESTIGEWRACK SACRED SEAL After a few failed attempts at binding vestiges, anima mages The binder class is the easiest path into the knight of the devised the spell known as vestigewrack. This spell briefl y sacred seal prestige class, since binders have Knowledge (the inundates vestiges with the sensations of a physical form, planes) as a class skill plus the required soul binding class thereby making the spirits more amenable to binding. Much feature. Multiclass binders, especially those with levels in to their surprise, the anima mages discovered that the spell paladin or bard, also make good knights of the sacred seal, also affected other incorporeal creatures, such as ghosts though such combinations limit the character’s options for and wraiths. binding powerful vestiges. Charisma (for contacting vestiges), Strength (for melee combat), and Constitution (for hit points) are key abilities for a knight of the sacred seal. 54 Entry Requirements Patron Vestige (Su): When you become a knight of the",
+        "name":  "NEW SPELL",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "60 ft. Ranger Spells Prepared (CL 2nd):",
+        "name":  "Range",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Usually chaotic evil seem to draw any power from this worship. They mark their Advancement: 11–20 HD (Medium) territory by scoring trees and stones with Paimon’s seal, and Level Adjustment: — troupes of them sometimes gather to engage in week-long revelries. During such events, they dance together in compli- An object that resembles a severed giant’s head tangled in its own cated patterns designed to scribe Paimon’s seal across a large hair unexpectedly fl ips upside down. Its long tresses twine together clearing. Although they have the ability to draw Paimon’s to form ropy tentacles, which it uses to lift itself off the ground. seal, none of them seem to be binders. 81 Illus. by W. England Grinning through rotted lips, it rises on these hair tentacles to the its mount, and control its mount in battle, and the dominated height of a man. creature is considered a war-trained mount. A spellcaster of 15th to 17th level can create a deathshead by Binders don’t like to admit it, but deathsheads were probably casting a create undead spell on the severed head of a drowned fi rst created by a binder necromancer who had an affi nity giant with long hair. for the vestige called Shax. Now, the creatures come into Dominating Contact (Su): When in a grapple, a deaths- being through the depraved actions of evil spellcasters and head can dominate its foe as if using the dominate monster a ritual that involves the drowning of a giant. Initially, the spell (caster level equal to its Hit Dice; Will DC 19 negates) as spellcasters who used this ritual were also giants, but over a standard action. Only the sustained contact of a grapple is the years, wicked members of other races have learned the suffi cient for the deathshead to establish dominance, a simple practice and come to understand its value. touch attack has no effect. The save DC is Charisma-based. Deathsheads are valuable to necromancers because they A deathshead can control a dominated creature only so possess great knowledge about all subjects and can act as long as it maintains physical contact with it. Doing so usually oracles. In fact, a deathshead shows great ability with all requires the deathshead to remain in the dominated creature’s qualities associated with the head. For example, each pos- square and either ride on or be carried by its victim. Thus, sesses keen perception and a silver tongue in addition to deathsheads typically attempt to dominate very strong or great knowledge. While these qualities make a deathshead large individuals that can support them easily unless they invaluable, its powerful mind can also endanger a careless intend to gain a brief benefi t—such as forcing a spellcaster creator, since it can dominate other creatures simply by touch- to use some spells against his allies. A deathshead can stand ing them. A deathshead often climbs onto a dominated foe next to a dominated creature and simply hold it with a ten- and rides it as though it were a mount. tacle, but such an arrangement is risky in combat. Deathsheads most often serve powerful spellcasters, but Improved Grab (Ex): To use this ability, a deathshead must some escape control or survive after their masters’ deaths. hit an opponent with a hair lash attack. It can then attempt When not under anyone’s control, a deathshead usually seeks to start a grapple as a free action without provoking an attack to dominate either the most powerful creature in the area or of opportunity. If it wins the grapple check, it establishes a the leader of a powerful group of creatures. Although most hold and can try to dominate the opponent in the following living creatures fi nd undead disturbing, many communities round. (even those of ostensibly good-aligned creatures) willingly A deathshead has a +10 racial bonus on grapple checks, submit to the rule of a deathshead to benefi t from its great which is included in the statistics above. knowledge. Once in power, a deathshead does everything it Freedom of Movement (Su): A deathshead has a continu- can to maintain and increase that power, including disguis- ously active freedom of movement ability, as the spell (caster ing its infl uence. level equals your effective binder level).",
+        "name":  "Deadly dancers revere Paimon as a deity, although none Alignment",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Gore +9 melee (1d6+4) and bite +8 melee (1d4+4 and dominate a spellcaster so that it can fi nish off the others plus poison); or bite +8 melee (1d4+4) and bite +8 melee or escape. Because a deathshead usually rides foes without a (1d4+4 plus poison) saddle, it takes a –5 penalty on Ride checks for riding bare- Space/Reach: 5 ft./5 ft. back. A deathshead that dominates its mount automatically",
+        "name":  "Full Attack",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Standard they attempt to take up the path of a spellcaster, or when vio-",
+        "name":  "Treasure",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "3 • Spell Healing (Su): Whenever",
+        "name":  "Challenge Rating",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "None a karsite’s spell resistance",
+        "name":  "Treasure",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Neutral prevents a spell from affect-",
+        "name":  "Alignment",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "5–8 HD (Medium); ing him, he heals 2 points of 9–12 HD (Large) damage per spell level. Thus, Roving mauler",
+        "name":  "A d vancement",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Two guards quickly converge on intrud- ers and question them about their business, while the other two move to protect the double doors at the end of the hall. The guards attack anyone not authorized to enter the tower, regardless of align- ment and intent, because the tower and its purpose must be kept secret. The guards use nonlethal means unless they detect evil among the PCs or one of their number dies in battle. Loud noises, such as combat, spellcasting, or shouting draw more guards from the barracks (area 2) and the mess hall (area 4). Guards coming from the mess arrive in 4 rounds, but those from the barracks take only 1 round. 2. BARRACKS (EL 10) These rooms are barracks for the guards. Read or paraphrase the following when the PCs enter any one. This spartan chamber contains three bunk beds and six footlockers. The room is uninteresting and somber. The trunks are unlocked and contain personal effects for the guards, including a few changes of clothes.",
+        "name":  "Tactics",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "At any given time, two Seropaenean guards are relaxing or praying here. Seropaenean Guards (2): hp 60 each; see area 1 for statistics. 3. HALL OF CONTEMPLATION A chapel of sorts, the Hall of Contemplation serves as a place for the guards to worship, meditate, and confess. An altar stands at the far end of this room. Inscribed on a banner hanging behind it is a strange symbol. On either side of the altar stand iron braziers filled with sweet-smelling incense. Near the door is a bundle of rolled prayer rugs. The symbol is that of the Order of Seropaenes. Contemplating the Tower of Woe 101 Illus. by B. Hagan 4. MESS HALL (EL 10–13) Holy Watchers (10) CR 6 Here the guards can relax, unwind, play cards, and take their Advanced sanctified gargoyles meals, which are typically provided by the offi cers through CG Large monstrous humanoid (earth) Init +2; Senses darkvision 60 ft.; Listen +4, Spot +4 liberal uses of create food and water spells. The chamber is Aura menace (20 ft., DC 11) furnished with many tables and benches. Languages Common, Terran",
+        "name":  "Creatures",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "interact with mastery of darkness itself—the ability to turn the very corporeal, fast healing 1, extra attack, or cold damage +1d8. shadows into their agents and allies. These are the masters At 5th level, you can grant your shadow servant a special of shadow, commanders of soldiers as dark and insubstantial ability for 1 round by taking only a move action rather than as night itself. For those with the force of will to enter their a standard action. You can choose to use two move actions ranks, the very shadows serve at their beck and call. in the same turn to grant it two abilities. Additional move actions granted by spells, class features, or the like can also be used to further enhance your shadow servant. BECOMING A MASTER OF SHADOW At 10th level, you can grant your shadow servant a special Shadowcasters are the most common masters of shadow, since ability for 1 round by taking only a swift action rather than they can most easily enter the class. Sorcerers, wizards, clerics, a move action. You can still use move actions to give it addi- and even the occasional druid can multiclass just enough to Table 2–4: The Master of Shadow Hit Die: d8 Base Attack Fort Ref Will Level Bonus Save Save Save Special Mysteries/Spellcasting 1st +0 +2 +0 +2 Shadow servant, master’s bidding (standard action) — 2nd +1 +3 +0 +3 Resistance to cold 5 +1 level of existing casting class 3rd +1 +3 +1 +3 — +1 level of existing casting class 4th +2 +4 +1 +4 Resistance to cold 10 +1 level of existing casting class 5th +2 +4 +1 +4 Master’s bidding (move action) +1 level of existing casting class 6th +3 +5 +2 +5 Resistance to cold 20 +1 level of existing casting class 7th +3 +5 +2 +5 — +1 level of existing casting class 8th +4 +6 +2 +6 — +1 level of existing casting class 9th +4 +6 +3 +6 — +1 level of existing casting class 10th +5 +7 +3 +7 Immunity to cold, master’s bidding (swift action), +1 level of existing casting class rapid shadow Class Skills (2 + Int modifier per level): Concentration, Craft, Intimidate, Knowledge (arcana), Knowledge (religion), Knowledge (the planes), Profession, Sense Motive, Spellcraft, Spot. 121 tional abilities. Thus, a 10th-level master of shadow who does class before becoming a master of shadow, you must decide to nothing else in a round can choose to give his shadow servant which class to add each level for the purpose of determining three special abilities (using one swift action and two move spells per day, caster level, and spells or mysteries known. actions). Rapid Shadow (Su): After you reach 10th level, if your Resistance to Cold (Su): At 2nd level, the shadow in your shadow servant dies you can summon a replacement 10 essence provides resistance to cold 5. This resistance increases minutes later. to 10 at 4th level and 20 at 6th level. At 10th level, you have immunity to cold damage. PLAYING A MASTER OF SHADOW Mysteries/Spellcasting: At 2nd level and every level Most NPC masters of shadow become domineering individu- thereafter, you gain new mysteries or spells per day and an als who care little for their former allies as they come to rely increase in caster level (and mysteries or spells known, if more and more on their dark servant. As a master of shadow applicable) as if you had also gained a level in a casting class player character (assuming you do not wish to alienate your to which you belonged before adding the prestige class level. companions), you should be careful not to carry this trait You do not, however, gain any other benefi ts a character of that to the extreme. You do become greatly confi dent—possibly class would have gained. If you had more than one casting SHADOW SERVANT A master of shadow’s servant is an unquestionably loyal, de- Size Increase (Ex): A 3rd-level master of shadow’s servant voted companion. As the master increases in power, the shadow grows to Large size. It never increases beyond Large, regardless servant also becomes tougher, gaining Hit Dice and special of its Hit Dice. abilities. A master of shadow can focus his power and will upon Deliver Touch Spells (Su): If its master is 5th level or higher, a a servant and make it do his bidding. shadow servant can deliver touch mysteries or spells for him. If the master and the servant are in contact at the time the master Bonus Dex Master’s casts a touch mystery or spell, he can designate his servant as Level HD Adj. Special Bidding the “toucher.” The servant can then deliver the touch mystery 1st +0 — — Interact with or spell just as the master could. As usual, if the master casts corporeal, another mystery or spell before the touch is delivered, the des- fast healing 1 ignated mystery or spell dissipates. 2nd +1 — Resistance Extra attack Immunity to Cold (Ex): The servant of a 10th-level master of to cold 5 shadow has immunity to cold. 3rd +2 — Size becomes Large — 4th +3 — Resistance Cold damage MASTER’S BIDDING to cold 10 +1d8 A master of shadow can shape the essence of his shadow ser- 5th +4 +2 Deliver touch spells — vant, granting it special abilities and qualities. In this way, the 6th +5 — Resistance — master customizes his servant to his needs of the moment. to cold 20 At first, enhancing a servant in this manner is a standard 7th +6 +4 — Reach +5 ft. action, but higher-level masters eventually reduce the effort to 8th +7 — — DR 5/– a move action and finally a swift action. Even when a master of 9th +8 +6 — Speed +20 ft. shadow has the ability to bid his servant to gain multiple abili- 10th +9 — Immunity to cold — ties, any single ability can only be gained once. Interact with Corporeal (Su): When you grant your shadow",
+        "name":  "Some driven or domineering souls seek nothing less than servant any of the following special abilities",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Use the base statistics for a Medium servant this bidding, it can perform simple tasks at your com- shadow elemental as given on page 165, but make the following mand, in a manner identical to the unseen servant spell, except changes. that it retains its own hit points.",
+        "name":  "Shadow Servant Basics",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Once per day, you can apply the effect of the now even more potent. Empower Spell feat to any mystery you cast. All variable, Prerequisite: Path Focus. numeric effects of an empowered mystery increase by one- Benefi t: You function at +1 caster level when casting half. mysteries of the path you select. Additionally, add +1 to the Casting an empowered mystery is a full-round action. Diffi culty Class of all saving throws against mysteries from",
+        "name":  "Benefi t",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Once per day, you can alter a mystery with a range of close, medium, or long to increase its range by 100%. This functions in most respects as the Enlarge Spell feat. LINE OF SHADOW [METASHADOW]",
+        "name":  "Benefi t",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Once per day, you can apply the effect of the have line of sight or line of effect. The target must still be Extend Mystery feat to any mystery you cast. An extended within the spell’s maximum range, and you must have had mystery lasts twice as long as normal. line of sight and line of effect within a number of rounds Casting an extended mystery is a full-round action. equal to your Intelligence modifi er. The target gains a bonus",
+        "name":  "Benefi t",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ability to cast mysteries or a spell with the Benefi t: Once per day, you can cast a mystery as a swift darkness descriptor. action. This feat functions in most respects as the Quicken",
+        "name":  "Prerequisite",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You function at +1 caster level when casting mysteries of this path. Additionally, add +1 to the DC of all SHADOW CAST saving throws against mysteries from this path. Your shadow shimmers as you cast a spell and you seem to",
+        "name":  "Benefi t",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Designate a square adjacent to you. If no one threatens that square, you do not provoke an attack of oppor- tunity when you cast a spell or use a spell-like ability. 137 SHADOW FAMILIAR MYSTERIES AND PATHS Noctumancers developed this feat in order to gain a mystical companion. Mysteries are formed out of power drawn from the Plane of",
+        "name":  "Benefi t",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "If you gain access to an alternative familiar, such and 7th-, 8th-, and 9th-level mysteries the master paths. as through the Improved Familiar feat, it also gains the dark Mysteries function as spells, spell-like abilities, or super- template. natural abilities, depending on the category of the path and the knowledge of the mystery user. All mysteries have the following characteristics, unless otherwise noted in a specifi c SHADOW REFLECTION description. Your shadow fl ickers and moves in an aggressive, inde- pendent manner, enabling you to avoid some attacks of • Can be cast once per day if functioning as an arcane spell, opportunity. two times per day if functioning as a spell-like ability,",
+        "name":  "Special",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Wis 15, ability to cast the bend perspective • Requires a standard action to cast. or truth revealed mystery. • Requires somatic components if cast as an arcane spell.",
+        "name":  "Prerequisites",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No 7 Truth Revealed: As the spell true seeing, with additional, Reality seems to tear open, but possibly misleading, revealing a dark rift. From information. the blackness, a shadow 8 Far Sight: As the elemental emerges. The fi rst spell greater scrying, in of many, it is ready to serve. conjunction with the mystery truth revealed. This mystery functions 9 Refl ections of Things like the spell summon to Come: Gain limited monster I, except as noted insight into the future. here. You can summon one elder, two greater, four Afraid of the dark brings forth a shadowy duplicate HEART AND SOUL that attacks your enemy’s will Huge, or eight Large shadow 7 Dark Soul: Compel a subject to elementals. attack a target of your choice. 8 Soul Puppet: As the spell dominate monster. ARROW OF DUSK 9 Shadow Surge: As the spell dominate monster, but affects Fundamental multiple targets for 1 round. Level/School: 1st/Evocation",
+        "name":  "NIGHT SKY Spe ll Resistance",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No damage/round. 9 Army of Shadow: Summon shadow elementals to serve A bolt of shadow springs from your hand, draining vitality where you. it strikes. AFRAID OF THE DARK You must succeed on a ranged touch attack to deal 2d4 points Apprentice, Umbral Mind of nonlethal damage to the target. If you score a critical hit, Level/School: 3rd/Illusion (Mind-Affecting, Shadow) triple the damage. 141 Illus. by F. Vohwinkel AURA OF SHADE You draw on extraplanar shadow or banish existing shadows to Initiate, Elemental Shadows let in the light. Level/School: 4th/Abjuration [Cold]",
+        "name":  "Spell Resistance",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Touch This mystery functions like the spell light or the spell darkness.",
+        "name":  "Range",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) BLACK FIRE Apprentice, Dark Terrain The environment grows immediately more comfortable as you Level/School: 2nd/Evocation [Cold] surround yourself with an aura of protective shadow.",
+        "name":  "Spell Resistance",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) a bird’s-eye view of your area, and the like. Essentially, you shift your perspective as though you were located at any spot By linking the creature touched and the Plane of Shadow, you in range to which you have line of effect. temporarily trade some of its traits for more potent ones belonging You can switch back and forth between your own eyes to creatures of that shady realm. and your alternate viewpoint as a swift action. You can move your alternate perspective, as in the spell arcane eye. Its speed You grant the subject 5 temporary hit points for each of its is only 10 feet per round, however, and every round of such Hit Dice (maximum 75). For the duration of the effect, the movement decreases the mystery’s duration by 1 minute (if subject’s shadow grows larger than normal, and its movements you move the perspective in the last minute of the duration, are very slightly uncoordinated with those of the subject. An you gain a few seconds of vision at the new position before observer can notice this characteristic by making a DC 20 the effect expires). Spot check. BLACK CANDLE CARPET OF SHADOW Fundamental Apprentice, Dark Terrain Level/School: 1st/Evocation [Light or Darkness] Level/School: 1st/Conjuration (Creation)",
+        "name":  "Spell Resistance",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No",
+        "name":  "Spell Resistance",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No 142 The ground becomes rough and hazardous, the real fl oor superim- Target: One living creature whose exact location is known to posed with irregular terrain of the Plane of Shadow. you, or one living creature you know well whose approxi- mate location (within 100 ft.) is known to you",
+        "name":  "Spell Resistance",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes CLINGING DARKNESS You reach out and peel the subject’s shadow away, then wrap it Apprentice, Dark Terrain inside your own. Level/School: 3rd/Conjuration (Creation)",
+        "name":  "Spell Resistance",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes this state for 1 round per level, and then dies again. Shadow oozes out of the fl oors, the walls, even the air, fi lling the area with wisps of writhing blackness. Creatures within the area CURTAIN OF SHADOWS become coated in these clinging shadows. Initiate, Veil of Shadows Level/School: 5th/Transmutation",
+        "name":  "Spell Resistance",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 minute/level (D) attempt a new saving throw to end the condition. Because Saving Throw: None of the subject’s condition, this save is a full-round action (but Spell Resistance: No does not provoke attacks of opportunity). If an immobilized subject succeeds on its save, it still needs to save again at the You create a wall of frigid shadow that blocks vision and wracks start of its next turn in order to avoid succumbing to the all who pass through it with cold. darkness again. You create a wall of shadow that completely blocks line of sight. Any creature passing through the wall takes 1d6 points CONGRESS OF SHADOWS of cold damage per caster level (maximum 15d6). Apprentice, Ebon Whispers Level/School: 2nd/Divination [Mind-Affecting]",
+        "name":  "Each round on its turn, an immobilized subject can Duration",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) Saving Throw: Will negates; see text",
+        "name":  "Spell Resistance",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes; see text You draw the shadows around yourself or other subjects, where they waver and shift, partially obscuring form. You open the subject’s mind to the Plane of Shadow, altering its personality. You grant subjects concealment. If you cast this mystery on a single subject, the shadows are thicker, and the subject gains You turn the dark energies from the Plane of Shadow upon total concealment. The spell see invisibility and the mystery another creature, compelling it to act in ways that it normally piercing sight do not negate these miss chances, but the spell would not. While this effect is active, you can use a standard true seeing and the mystery truth revealed do. action to focus the shadow energies on one living creature within 30 feet that you select. The creature must succeed on a Will saving throw (DC 17 + your Cha modifi er) or immediately DARK AIR OR WATER make a melee attack against one target within its reach. Initiate, Elemental Shadows Level/School: 5th/Transmutation [Air or Water] DUSK AND DAWN Reaching out with your mind to the darkness attached to your soul, Apprentice, Shutters and Clouds you infuse nature with shadow and compel it to do your will. Level/School: 1st/Evocation",
+        "name":  "Spell Resistance",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels) This mystery functions like the spell control water or con- Area: 20-ft.-radius emanation centered on a point in space trol winds. You decide which version to use at the time of Duration: 10 minutes/level (D) casting. Saving Throw: None",
+        "name":  "Range",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Repeat a previously cast spell or mystery Range: See text",
+        "name":  "Effect",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "See text Saving Throw: Will negates",
+        "name":  "Spell Resistance",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Even as you recoil from your enemy’s spell, you reach into the Plane of Shadow and draw forth the spiritual refl ection of that You alter your perceptions to see through any shadow, anywhere. spell. With a grin, you manifest it in the physical world and hurl it back at him. Far sight is similar to the spell greater scrying, with the modi- fi cations described here. This mystery allows you to see the You can “echo” a mystery or spell cast by anyone other than subject’s true essence, as with the truth revealed mystery. yourself, causing it to remanifest under your control. Both the caster and the effect must have been within echo spell’s range, FEIGN LIFE and the entire casting must have occurred in the previous Initiate, Dark Refl ections round. You choose the mystery or spell’s target, and make any Level/School: 5th/Transmutation other choices involved in casting it. You cast the mystery or",
+        "name":  "Spell Resistance",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Medium (100 ft. + 10 ft./level) spell using your mystery user level (use your Cha modifi er",
+        "name":  "Range",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One Small object per caster level; see text to determine the mystery or spell’s DC; its duration, saves,",
+        "name":  "Target",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 round/level (D) and the like are as normal for that spell). You cannot echo",
+        "name":  "Duration",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "None a mystery or spell of a higher level than the highest-level",
+        "name":  "Saving Throw",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No FLESH FAILS You detach your own shadow and animate it with extraplanar Apprentice, Touch of Twilight energies, creating a dark-hued, hazy duplicate of yourself. Level/School: 2nd/Necromancy",
+        "name":  "Spell Resistance",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Touch This mystery functions like the spell project image, except",
+        "name":  "Range",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "None of a daylight spell.",
+        "name":  "Saving Throw",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes EPHEMERAL STORM You open your enemy to the darkness, trading his physical attributes Master, Breath of Twilight for weaker abilities belonging to creatures of shadow. Level/School: 9th/Evocation",
+        "name":  "Spell Resistance",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes",
+        "name":  "Spell Resistance",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes This mystery functions like the mystery fl esh fails, except that you can affect multiple subjects, and you deal either 6 Your eyes turn black and shoot forth a shadowy cone of punish- points of Strength damage, 6 points of Dexterity damage, ment. or 4 points of Constitution damage. You must deal the same kind of ability damage to all subjects. Creatures within a cone of killing shadows take 1d8 points of damage per caster level (maximum 10d8), or half that amount FLICKER on a successful Will save. Apprentice, Ebon Whispers Level/School: 3rd/Conjuration (Teleportation) LANGUOR",
+        "name":  "Spell Resistance",
+        "source":  "tome_of_magic_oef.txt",
+        "_id":  "d2c9717cda8c44cc9eff27d6d092942039795215a8b03d1d32227f9c9af14baa"
+    }
+]

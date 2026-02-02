@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "other.json",
+        "description":  "1d20 + base save bonus + Constitution ROUNDS modifier Combat occurs in rounds. In every round, each combatant gets to do Reflex Saving Throw: 1d20 + base save bonus + Dexterity something. A round represents 6 seconds in the game world. modifier",
+        "name":  "Fortitude Saving Throw",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1d20 + base attack bonus + Strength modifier attacks of opportunity when you leave that square. + size modifier. (cid:1) If your entire move for the round is 5 feet (a 5-foot step), oppo-",
+        "name":  "Melee Attack Roll",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Many other factors modify your AC. Base save bonus + ability modifier",
+        "name":  "Other Modifiers",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Even if you can’t take actions (for instance, if you defense to attack her for free. These free attacks are called attacks of become paralysed or unconscious), you retain your initiative score opportunity (see the diagram on the next page).",
+        "name":  "Inaction",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You threaten all squares into which you for the duration of the encounter. For example, when paralysed by a can make a melee attack, even when it is not your action. Generally, ghoul, you may miss one or more actions, but once the cleric casts that means everything in all squares adjacent to your space remove paralysis on you, you may act again on your next turn. (including diagonally). An enemy that takes certain actions while in a threatened square provokes an attack of opportunity from you. If SURPRISE you’re unarmed, you don’t normally threaten any squares and thus When a combat starts, if you are not aware of your opponents and can’t make attacks of opportunity (but see Unarmed Attacks, page they are aware of you, you’re surprised. 139).",
+        "name":  "Threatened Squares",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "If some but not all of the combatants are An attack of opportunity “interrupts” the normal flow of actions aware of their opponents, a surprise round happens before regular in the round. If an attack of opportunity is provoked, immediately rounds begin. Any combatants aware of the opponents can act in the resolve the attack of opportunity, then continue with the next surprise round, so they roll for initiative. In initiative order (highest character’s turn (or complete the current turn, if the attack of to lowest), combatants who started the battle aware of their opportunity was provoked in the midst of a character’s turn). opponents each take a standard action during the surprise round",
+        "name":  "The Surprise Round",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "If you have (see Standard Actions, page 139). You can also take free actions the Combat Reflexes feat (page 92), you can add your Dexterity during the surprise round, at the DM’s discretion. If no one or modifier to the number of attacks of opportunity you can make in a everyone is surprised, no surprise round occurs. round. This feat does not let you make more than one attack for a",
+        "name":  "Combat Reflexes and Additional Attacks of Opportunity",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You retain your Dexterity bonus to AC while casting. take damage from an attack of opportunity, you must make a",
+        "name":  "Note",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Even if you have lots of hit points, a dagger through the eye is a dagger through the eye. When a character is helpless, meaning that he can’t avoid damage or deflect blows somehow, he’s in trouble (see Helpless Defenders, page 153).",
+        "name":  "Damaging Helpless Defenders",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "One hour after a tended, dying character hit points, Jozan can cure those lost points and get him back to 37. If becomes stable, roll d%. He has a 10% chance of becoming con- Krusk is so wounded at the end of his rage that he only has 5 hit scious, at which point he is disabled (as if he had 0 hit points). If he points left, then when he loses his 6 extra hit points, he drops to –1 remains unconscious, he has the same chance to revive and become hit points and is dying. disabled every hour. Even if unconscious, he recovers hit points naturally. He is back to normal when his hit points rise to 1 or NONLETHAL DAMAGE higher. Sometimes you get roughed up or weakened, such as by getting",
+        "name":  "Recovering with Help",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A severely wounded character left clocked in a fistfight or tired out by a forced march. This sort of alone usually dies. He has a small chance, however, of recovering on trauma won’t kill you, but it can knock you out or make you faint. his own. Even if he seems as though he’s pulling through, he can If you take sufficient nonlethal damage, you fall unconscious, but still finally succumb to his wounds hours or days after originally you don’t die. Nonlethal damage goes away much faster than lethal taking damage. damage does. A character who becomes stable on his own (by making the 10%",
+        "name":  "Recovering without Help",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Certain attacks deal nonlethal roll while dying) and who has no one to tend to him still loses hit damage, such as a normal human’s unarmed strike (a punch, kick, or points, just at a slower rate. He has a 10% chance each hour of head butt). Other effects, such as heat or being exhausted, also deal becoming conscious. Each time he misses his hourly roll to become nonlethal damage. When you take nonlethal damage, keep a conscious, he loses 1 hit point. He also does not recover hit points running total of how much you’ve accumulated. Do not deduct the through natural healing. nonlethal damage number from your current hit points. It is not “real” Even once he becomes conscious and is disabled, an unaided damage. Instead, when your nonlethal damage equals your current character still does not recover hit points naturally. Instead, each hit points, you’re staggered, and when it exceeds your current hit day he has a 10% chance to start recovering hit points naturally points, you fall unconscious. It doesn’t matter whether the nonlethal (starting with that day); otherwise, he loses 1 hit point. damage equals or exceeds your current hit points because the Once an unaided character starts recovering hit points naturally, nonlethal damage has gone up or because your current hit points he is no longer in danger of naturally losing hit points (even if his have gone down. current hit point total is negative).",
+        "name":  "Dealing Nonlethal Damage",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ability damage is temporary, just as they had before going unconscious. hit point damage is. Ability damage returns at the rate of 1 point per",
+        "name":  "Healing Ability Damage",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Difficult terrain, obstacles, or poor vis- ibility can hamper movement (see Terrain and Obstacles, below, and Hampered Movement, page 163).",
+        "name":  "Hampered Movement",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You can’t move through a square occupied by an op-",
+        "name":  "Opponent",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You can move through a square occupied by a friendly character, unless you are charging (page 154). When you move through a square occupied by a friendly character, that character doesn’t provide you with cover (see page 150). 147 COMBAT CHAPTER 8: obstacle even when helpless. In such cases, each square you move through counts as 2 squares.)",
+        "name":  "Friend",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "During your movement, but not a charge, you can attempt to move through a square occupied by an opponent (see Overrun, page 157).",
+        "name":  "Overrun",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A trained character can attempt to tumble through a square occupied by an opponent (see the Tumble skill, page 84).",
+        "name":  "Tumbling",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You can’t execute an attack cover against ranged attacks, giving you a +4 bonus to AC. However, of opportunity against an opponent with cover relative to you. such soft cover provides no bonus on Reflex saves, nor does soft",
+        "name":  "Cover and Attacks of Opportunity",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A lance deals double damage if must be made on or before your next turn. employed by a mounted character in a charge. Feinting in this way against a nonhumanoid is difficult because",
+        "name":  "Lances and Charge Attacks",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "While grappling, you can deal damage To start a grapple, you need to grab and hold your target. Starting a to your opponent equivalent to an unarmed strike. Make an opposed grapple requires a successful melee attack roll. If you get multiple grapple check in place of an attack. If you win, you deal nonlethal attacks, you can attempt to start a grapple multiple times (at damage as normal for your unarmed strike (1d3 points for Medium successively lower base attack bonuses). attackers or 1d2 points for Small attackers, plus Strength modifiers). Step 1: Attack of Opportunity. You provoke an attack of oppor- If you want to deal lethal damage, you take a –4 penalty on your tunity from the target you are trying to grapple. If the attack of grapple check. opportunity deals damage, the grapple attempt fails. (Certain mon-",
+        "name":  "Damage Your Opponent",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Monks deal more damage on an unarmed strike than sters do not provoke attacks of opportunity when they attempt to other characters, and the damage is lethal. However, they can grapple, nor do characters with the Improved Grapple feat.) If the choose to deal their damage as nonlethal damage when grappling attack of opportunity misses or fails to deal damage, proceed to Step without taking the usual –4 penalty for changing lethal damage to 2. nonlethal damage (see Dealing Nonlethal Damage, page 146). Step 2: Grab. You make a melee touch attack to grab the target. If",
+        "name":  "Exception",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You can escape a grapple by winning an Step 3: Hold. Make an opposed grapple check as a free action. If opposed grapple check in place of making an attack. You can make you succeed, you and your target are now grappling, and you deal an Escape Artist check in place of your grapple check if you so damage to the target as if with an unarmed strike. desire, but this requires a standard action. If more than one oppo- If you lose, you fail to start the grapple. You automatically lose an nent is grappling you, your grapple check result has to beat all their attempt to hold if the target is two or more size categories larger individual check results to escape. (Opponents don’t have to try to than you are. hold you if they don’t want to.) If you escape, you finish the action In case of a tie, the combatant with the higher grapple check by moving into any space adjacent to your opponent(s). modifier wins. If this is a tie, roll again to break the tie.",
+        "name":  "Escape from Grapple",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You can move half your speed (bringing all others engaged Step 4: Maintain Grapple. To maintain the grapple for later in the grapple with you) by winning an opposed grapple check. This rounds, you must move into the target’s space. (This movement is requires a standard action, and you must beat all the other individual free and doesn’t count as part of your movement in the round.) check results to move the grapple. Moving, as normal, provokes attacks of opportunity from",
+        "name":  "Move",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You can hold your opponent immobile for Grappling Consequences 1 round by winning an opposed grapple check (made in place of an While you’re grappling, your ability to attack others and defend attack). Once you have an opponent pinned, you have a few options yourself is limited. available to you (see below).",
+        "name":  "Pin Your Opponent",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You don’t threaten any squares while Break Another’s Pin: If you are grappling an opponent who has grappling. another character pinned, you can make an opposed grapple check",
+        "name":  "No Threatened Squares",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You lose your Dexterity bonus to AC (if in place of an attack. If you win, you break the hold that the you have one) against opponents you aren’t grappling. (You can still opponent has over the other character. The character is still use it against opponents you are grappling.) grappling, but is no longer pinned.",
+        "name":  "No Dexterity Bonus",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "If your mount falls, you have to Joining a Grapple succeed on a DC 15 Ride check to make a soft fall and take no If your target is already grappling someone else, you can use an damage. If the check fails, you take 1d6 points of damage. attack to start a grapple, as above, except that the target doesn’t get",
+        "name":  "If Your Mount Falls in Battle",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You may make a trip attack 1–3 Cleric’s level – 3 against a mounted opponent. The defender may make a Ride check 4–6 Cleric’s level – 2 in place of his Dexterity or Strength check. If you succeed, you pull 7–9 Cleric’s level – 1 the rider from his mount. 10–12 Cleric’s level",
+        "name":  "Tripping a Mounted Opponent",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A character can lift as much as his or her 15 feet 20 feet 30 feet 40 feet maximum load over his or her head. One Round (Tactical)1 A character can lift as much as double his or her maximum load Walk 15 ft. 20 ft. 30 ft. 40 ft. off the ground, but he or she can only stagger around with it. While Hustle 30 ft. 40 ft. 60 ft. 80 ft. overloaded in this way, the character loses any Dexterity bonus to Run (×3) 45 ft. 60 ft. 90 ft. 120 ft. Run (×4) 60 ft. 80 ft. 120 ft. 160 ft. AC and can move only 5 feet per round (as a full-round action). One Minute (Local) A character can generally push or drag along the ground as much Walk 150 ft. 200 ft. 300 ft. 400 ft. as five times his or her maximum load. Favorable conditions (such as Hustle 300 ft. 400 ft. 600 ft. 800 ft. being on smooth ground or dragging a slick object) can double these Run (×3) 450 ft. 600 ft. 900 ft. 1,200 ft. numbers, and bad circumstances (such as being on broken ground Run (×4) 600 ft. 800 ft. 1,200 ft. 1,600 ft. or pushing an object that snags) can reduce them to one-half or less. One Hour (Overland)",
+        "name":  "Lifting and Dragging",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A character can walk without a problem on the local scale. (cid:1) Overland, for getting from place to place, measured in miles per",
+        "name":  "Walk",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A character can hustle without a problem on the local hour or miles per day. scale. See Overland Movement, below, for movement measured in miles per hour.",
+        "name":  "Hustle",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "While moving at the different move-",
+        "name":  "Modes of Movement",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A walk represents unhurried but purposeful move- minute or two before having to rest for a minute (see Run, page ment at 3 miles per hour for an unencumbered human. 144).",
+        "name":  "Walk",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Difficult ter- rain, obstacles, or poor visibility can hamper movement. When movement is hampered, each square moved into usu- ally counts as two squares, effectively reducing the distance that a character can cover in a move. For example, a character moving through difficult terrain (such as undergrowth) pays 2 squares of movement per square moved into (double the normal cost). If more than one condition applies, multiply together all additional costs that apply. (This is a specific exception to the normal rule for doubling; see page 304.) For instance, a character moving through diffi- cult terrain in darkness would pay 4 squares of movement per square moved into (double cost times double cost is quadruple cost). In some situations, your movement may be so hampered that you don’t have sufficient speed even to move 5 163 Illus. by J. Jarvis ADVENTURING CHAPTER 9: Table 9–5: Terrain and Overland Movement Run: A character can’t run for an extended period of time. Terrain Highway Road or Trail Trackless Attempts to run and rest in cycles effectively work out to a hustle. Desert, sandy ×1 ×1/2 ×1/2 Terrain: The terrain through which a character travels affects Forest ×1 ×1 ×1/2 how much distance he or she can cover in an hour or a day (see Hills ×1 ×3/4 ×1/2 Table 9–5: Terrain and Overland Movement). Travel is quickest on a Jungle ×1 ×3/4 ×1/4 highway, not quite as fast on a road or trail, and slowest through Moor ×1 ×1 ×3/4 trackless terrain. A highway is a straight, major, paved road. A road is Mountains ×3/4 ×3/4 ×1/2 typically a dirt track. A trail is like a road, except that it allows only Plains ×1 ×1 ×3/4 single-file travel and does not benefit a party traveling with vehicles. Swamp ×1 ×3/4 ×1/2 Trackless terrain is a wild area with no paths. Tundra, frozen ×1 ×3/4 ×3/4",
+        "name":  "Hampered Movement",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "See Table 9–6: Mounts and Vehicles Keelboat (rowed)2 1 mile 10 miles for speeds for water vehicles. Rowboat (rowed)2 1-1/2 miles 15 miles Sailing ship (sailed) 2 miles 48 miles Warship (sailed and rowed) 2-1/2 miles 60 miles EXPLORATION Longship (sailed and rowed) 3 miles 72 miles Galley (rowed and sailed) 4 miles 96 miles Adventurers spend time exploring dark caverns, cursed ruins, cat- 1 Quadrupeds, such as horses, can carry heavier loads than characters acombs, and other dangerous and forbidding areas. A little careful can. See Carrying Capacity, above, for more information. forethought can help the characters in their adventures. 2 Rafts, barges, keelboats, and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles PREPARATIONS per hour) to the speed of the vehicle. In addition to 10 hours of",
+        "name":  "Waterborne Movement",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "DC Substance Hardness Hit Points Break down simple door 13 Paper or cloth 0 2/inch of thickness Break down good door 18 Rope 0 2/inch of thickness Break down strong door 23 Glass 1 1/inch of thickness Burst rope bonds 23 Ice 0 3/inch of thickness Bend iron bars 24 Leather or hide 2 5/inch of thickness Break down barred door 25 Wood 5 10/inch of thickness Burst chain bonds 26 Stone 8 15/inch of thickness Break down iron door 28 Iron or steel 10 30/inch of thickness Mithral 15 30/inch of thickness Condition DC Adjustment1 Adamantine 20 40/inch of thickness Hold portal +5 Arcane lock +10 provide their full normal bonus to AC. Damaged (but not destroyed) 1 If both apply, use the larger number. objects can be repaired with the Craft skill (see page 70).",
+        "name":  "Strength Check to",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Someone should keep a map of places you explorer so that and then north back to the door. There’s a door on the sixth square of you know where you’ve been and where you have yet to explore. The the north wall and on the fourth square of the east wall.” responsibility for mapping can be rotated from person to person, if more",
+        "name":  "Mapping",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Lidda, a rogue, can’t pick the lock on other while they are moving (who is in front of or next to whom). the big treasure chest that Mialee, the elf, just found behind a secret Arrange your miniature figures on the battle grid to represent the door, so Krusk, the barbarian, volunteers to open it in a more PC’s relative locations. You can change the marching order as the straightforward manner. The chest, made of wood, has hardness 5, party enters different areas, as characters get wounded, or at other so the chest takes only 5 points of damage from his attack. The wood times for any reason. is 1 inch thick, so it had 10 hit points. Now it has 5. Krusk has In a marching order, the sturdiest characters, such as barbarians, gouged the wood but not yet broken the chest open. On his second fighters, and paladins, usually go in front. Wizards, sorcerers, and attack, he deals 4 points of damage. That’s lower than the chest’s bards often find a place in the middle or back of the party, where hardness, so the chest takes no damage at all—a glancing blow. His they are protected from direct attack. Clerics and druids are good third blow, however, deals 12 points of damage (which means the choices for rear guard. They’re tough enough to withstand a rear chest takes 7), and the chest breaks open. attack, and they’re important enough as healers that it’s risky to put",
+        "name":  "Example of Breaking an Object",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Split treasure evenly among the characters on Strength checks to break open doors as follows: Fine –16, who participated. Some characters may be of higher level than Diminutive –12, Tiny –8, Small –4, Large +4, Huge +8, Gargantuan others, or some might happen to have done more on a particular +12, Colossal +16. adventure than others did, but the simplest, fastest, and best policy is to split treasure up evenly. 167 Illus. by J. Foster Lidda savors the rewards of opening the treasure chest. ADVENTURING CHAPTER 9:",
+        "name":  "Splitting Treasure",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "No saving throw is allowed. a saving throw. It simply is dealt the appropriate damage.",
+        "name":  "None",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The term “Hit Dice” is used synonymously with Light: Object shines like a torch. “character levels” for effects that affect a number of Hit Dice of",
+        "name":  "Hit Dice",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5-pound telekinesis.",
+        "name":  "Mage Hand",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Makes minor repairs on an object. which is defined as the caster’s class level for the purpose of casting a",
+        "name":  "Mending",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Whispered conversation at distance. Pyrotechnics: Turns fire into blinding light or choking smoke. Open/Close: Opens or closes small or light things. Rage: Gives +2 to Str and Con, +1 on Will saves, –2 to AC.",
+        "name":  "Message",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject gains +1 on saving throws. Silence: Negates sound in 15-ft. radius.",
+        "name":  "Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Summons one instrument of the caster’s Sound Burst: Deals 1d8 sonic damage to subjects; may stun them. choice. Suggestion: Compels subject to follow stated course of action.",
+        "name":  "Summon Instrument",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Speak any language. Alarm: Wards an area for 2 hours/level.",
+        "name":  "Tongues",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sends a short message 1 mile/level.",
+        "name":  "Whispering Wind",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Makes a rope move at your command.",
+        "name":  "Animate Rope",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cures 1d8 damage +1/level (max +5). Clairaudience/Clairvoyance: Hear or see at a distance for 1",
+        "name":  "Cure Light Wounds",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Reveals hidden doors within 60 ft. min./level.",
+        "name":  "Detect Secret Doors",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Changes your appearance. Confusion: Subjects behave oddly for 1 round/level.",
+        "name":  "Disguise Self",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Your speed increases by 30 ft. saves, and checks.",
+        "name":  "Expeditious Retreat",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cures 3d8 damage +1/level (max +15).",
+        "name":  "Cure Serious Wounds",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Makes 10-ft. square or one object slippery.",
+        "name":  "Grease",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "60-ft. radius of bright light.",
+        "name":  "Daylight",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Attacks miss subject 50%.",
+        "name":  "Displacement",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject becomes insubstantial and can fly slowly.",
+        "name":  "Gaseous Form",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Masks object against scrying.",
+        "name":  "Obscure Object",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Commands subject of 7 HD or less.",
+        "name":  "Geas, Lesser",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Suppresses fear or gives +4 on saves against fear for one subject + one per four levels. Glibness: You gain +30 bonus on Bluff checks, and your lies can",
+        "name":  "Remove Fear",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Conceals alignment for 24 hours. Illusory Script M: Only intended reader can decipher.",
+        "name":  "Undetectable Alignment",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Invisible force obeys your commands. Invisibility Sphere: Makes everyone within 10 ft. invisible.",
+        "name":  "Unseen Servant",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sends a Tiny animal to a specific place. Scrying F: Spies on subject from a distance.",
+        "name":  "Animal Messenger",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fascinates 2d6 HD of animals. Sculpt Sound: Creates new sounds or changes existing ones. Blindness/Deafness: Makes subject blind or deaf. Secret Page: Changes one page to hide its real content.",
+        "name":  "Animal Trance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cures 2d8 damage +1/level (max +10). attack rolls.",
+        "name":  "Cure Moderate Wounds",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20-ft. radius of supernatural shadow. Speak with Animals: You can communicate with animals.",
+        "name":  "Darkness",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Stops poison from harming subject for 1 hour/ level.",
+        "name":  "Delay Poison",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Captivates all within 100 ft. + 10 ft./level. ations, curses, and petrification. Fox’s Cunning: Subject gains +4 to Int for 1 min./level. Cure Critical Wounds: Cures 4d8 damage +1/level (max +20).",
+        "name":  "Enthrall",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Gives +2 on attack rolls, saves, skill checks. Dimension Door: Teleports you short distance.",
+        "name":  "Heroism",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Paralyzes one humanoid for 1 round/level. Dominate Person: Controls humanoid telepathically.",
+        "name":  "Hold Person",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject is invisible for 1 min./level or until it attacks. iments.",
+        "name":  "Invisibility",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Senses direction toward object (specific or type). Hallucinatory Terrain: Makes one type of terrain appear like",
+        "name":  "Locate Object",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As silent image, plus some sound. another (field into forest, or the like).",
+        "name":  "Minor Image",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Immunizes subject against poison, detoxifies",
+        "name":  "Neutralize Poison",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Creates 2 gallons/level of pure water. venom in or on subject.",
+        "name":  "Create Water",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cures 1 point of damage.",
+        "name":  "Cure Minor Wounds",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Insects, spiders, and other vermin stay 10 ft. away.",
+        "name":  "Repel Vermin",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Mimics conjuring below 4th level, but only",
+        "name":  "Shadow Conjuration",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1 on one attack roll, saving throw, or skill check. 20% real.",
+        "name":  "Guidance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch attack, 1 point of damage.",
+        "name":  "Inflict Minor Wounds",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Deafens all within cone and deals 5d6 sonic damage.",
+        "name":  "Shout",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Object shines like a torch.",
+        "name":  "Light",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You can talk to normal plants and plant crea-",
+        "name":  "Speak with Plants",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Makes minor repairs on an object. tures.",
+        "name":  "Mending",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Purifies 1 cu. ft./level of food or water.",
+        "name":  "Purify Food and Drink",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Keeps eavesdroppers from overhearing conver- Resistance: Subject gains +1 on saving throws. sations.",
+        "name":  "Zone of Silence",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cures 1d8 damage +1/level for many",
+        "name":  "Cure Light Wounds, Mass",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Allies gain +1 on attack rolls and saves against fear.",
+        "name":  "Bless",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Makes holy water.",
+        "name":  "Bless Water M",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sends message to anyone sleeping.",
+        "name":  "Dream",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fools scrying with an illusion.",
+        "name":  "False Vision M",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "One subject obeys selected command for 1 round.",
+        "name":  "Command",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Gives +4 bonus on attack rolls, saves, skill",
+        "name":  "Heroism, Greater",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You understand all spoken and written checks; immunity to fear; temporary hp. languages.",
+        "name":  "Comprehend Languages",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subjects in fog get –10 to Wis and Will checks.",
+        "name":  "Mind Fog",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cures 1d8 damage +1/level (max +5).",
+        "name":  "Cure Light Wounds",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As hallucinatory terrain, plus structures.",
+        "name":  "Mirage Arcana",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Makes unholy water.",
+        "name":  "Curse Water M",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Turns you invisible and creates illusory double.",
+        "name":  "Mislead",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Reveals how near death subjects within 30 ft. are.",
+        "name":  "Deathwatch",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As major image, but no concentration required. of selected alignment.",
+        "name":  "Persistent Image",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Changes appearance of one person per two levels. Detect Undead: Reveals undead within 60 ft.",
+        "name":  "Seeming",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Mimics evocation of lower than 5th level, but Divine Favor: You gain +1 per three levels on attack and damage only 20% real. rolls.",
+        "name":  "Shadow Evocation",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Step into shadow to travel rapidly. Doom: One subject takes –2 on attack rolls, damage rolls, saves, and",
+        "name":  "Shadow Walk",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Forces targets to attack each other. checks.",
+        "name":  "Song of Discord",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As suggestion, plus one subject/level. Endure Elements: Exist comfortably in hot or cold environments.",
+        "name":  "Suggestion, Mass",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Objects attack your foes.",
+        "name":  "Animate Objects",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fog surrounds you. Cat’s Grace, Mass: As cat’s grace, affects one subject/level. Protection from Chaos/Evil/Good/Law: +2 to AC and saves,",
+        "name":  "Obscuring Mist",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cures 2d8 damage +1/level for",
+        "name":  "Cure Moderate Wounds, Mass",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1 on attack rolls and saves against fear, 1d8 temporary hp bonuses. +1/level (max +10). Otto’s Irresistible Dance: Forces subject to dance.",
+        "name":  "Aid",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Includes sight, sound, and smell.",
+        "name":  "Permanent Image",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Learns whether an action will be good or bad.",
+        "name":  "Augury M F",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As major image, plus triggered by event. Bear’s Endurance: Subject gains +4 to Con for 1 min./level.",
+        "name":  "Programmed Image M",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As scrying, but faster and longer.",
+        "name":  "Scrying, Greater",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Devastating yell deals 10d6 sonic damage; stuns",
+        "name":  "Shout, Greater",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cures 2d8 damage +1/level (max +10).",
+        "name":  "Cure Moderate Wounds",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Deals 2d10 damage/round to freestanding",
+        "name":  "Sympathetic Vibration",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20-ft. radius of supernatural shadow. structure.",
+        "name":  "Darkness",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Stops poison from harming subject for 1 hour/level. Water Breathing: Subjects can breathe underwater.",
+        "name":  "Delay Poison",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Notice traps as a rogue does.",
+        "name":  "Find Traps",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject treads on air as if solid (climb at 45-degree angle).",
+        "name":  "Air Walk",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Preserves one corpse.",
+        "name":  "Gentle Repose",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Raises or lowers bodies of water.",
+        "name":  "Control Water",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Paralyzes one humanoid for 1 round/level.",
+        "name":  "Hold Person",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cures 4d8 damage +1/level (max +20).",
+        "name":  "Cure Critical Wounds",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch attack, 2d8 damage +1/level",
+        "name":  "Inflict Moderate Wounds",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Repairs an object. effects. Owl’s Wisdom: Subject gains +4 to Wis for 1 min./level. Dimensional Anchor: Bars extradimensional movement.",
+        "name":  "Make Whole",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ignores 10 (or more) points of damage/attack from Divination M: Provides useful advice for specific proposed actions. specified energy type. Divine Power: You gain attack bonus, +6 to Str, and 1 hp/level.",
+        "name":  "Resist Energy",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Deals 1d8 sonic damage to subjects; may stun them. Inflict Critical Wounds: Touch attack, 4d8 damage +1/level (max",
+        "name":  "Sound Burst",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Conceals alignment for 24 hours. venom in or on subject.",
+        "name":  "Undetectable Alignment",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Insects, spiders, and other vermin stay 10 ft. away.",
+        "name":  "Repel Vermin",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Creates undead skeletons and zombies.",
+        "name":  "Animate Dead M",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Restores level and ability score drains.",
+        "name":  "Restoration M",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "–6 to an ability score; –4 on attack rolls, saves, and",
+        "name":  "Bestow Curse",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Delivers short message anywhere, instantly. checks; or 50% chance of losing each action.",
+        "name":  "Sending",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Infects subject with chosen disease.",
+        "name":  "Contagion",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Speak any language.",
+        "name":  "Tongues",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Makes a permanent, heatless torch.",
+        "name":  "Continual Flame M",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cures 3d8 damage +1/level (max +15).",
+        "name":  "Cure Serious Wounds",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "60-ft. radius of bright light. Atonement F X: Removes burden of misdeeds from subject.",
+        "name":  "Daylight",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Object sheds supernatural shadow in 60-ft. Break Enchantment: Frees subjects from enchantments, alter- radius. ations, curses, and petrification.",
+        "name":  "Deeper Darkness",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Inscription harms those who pass it. Commune X: Deity answers one yes-or-no question/level.",
+        "name":  "Glyph of Warding M",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ghostly hand leads subject to you. Cure Light Wounds, Mass: Cures 1d8 damage +1/level for many",
+        "name":  "Helping Hand",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Masks object against scrying. Plane Shift F: As many as eight subjects travel to another plane.",
+        "name":  "Obscure Object",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Allies +1 bonus on most rolls, enemies –1 penalty. Raise Dead M: Restores life to subject who died as long as one",
+        "name":  "Prayer",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Frees object or person from curse. Slay Living: Touch attack kills subject.",
+        "name":  "Remove Curse",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Corpse answers one question/two levels. pain.",
+        "name":  "Speak with Dead",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Designates location as unholy.",
+        "name":  "Unhallow M",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Creates a stone wall that can be shaped.",
+        "name":  "Wall of Stone",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Objects attack your foes. devourers.",
+        "name":  "Animate Objects",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Intense tremor shakes 5-ft./level radius. Bull’s Strength, Mass: As bull’s strength, affects one subject/level.",
+        "name":  "Earthquake",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Deals 1d6/level fire damage.",
+        "name":  "Fire Storm",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Create ghouls, ghasts, mummies, or mohrgs.",
+        "name":  "Create Undead",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cures 2d8 damage +1/level for",
+        "name":  "Cure Moderate Wounds, Mass",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Deals 4d8 damage +1/level to",
+        "name":  "Inflict Critical Wounds, Mass",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Deals 10 points/level damage to target. insane.",
+        "name":  "Harm",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Deals 2d8 damage +1/level to",
+        "name":  "Inflict Moderate Wounds, Mass",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As lesser planar ally, but up to 12 HD. Etherealness: Travel to Ethereal Plane with companions.",
+        "name":  "Planar Ally X",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Destroys 1d4 HD/level undead (max 20d4). Miracle X: Requests a deity’s intercession.",
+        "name":  "Undeath to Death M",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You and your allies turn vaporous and travel fast. Soul Bind F: Traps newly dead soul to prevent resurrection.",
+        "name":  "Wind Walk",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Teleports you back to designated place. Storm of Vengeance: Storm rains acid, lightning, and hail.",
+        "name":  "Word of Recall",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Kills, paralyzes, weakens, or dazes nonevil subjects.",
+        "name":  "Blasphemy",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Changes weather in local area. CLERIC DOMAINS",
+        "name":  "Control Weather",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Kills subject and destroys remains.",
+        "name":  "Destruction F",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Kills, paralyzes, slows, or deafens nonlawful subjects. Deity: Obad-Hai.",
+        "name":  "Dictum",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fully restore dead subject. angle).",
+        "name":  "Resurrection M",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As scrying, but faster and longer. 5 Control Winds: Change wind direction and speed.",
+        "name":  "Scrying, Greater",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ehlonna, Obad-Hai. Deities: St. Cuthbert, Hextor.",
+        "name":  "Deities",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Corellon Larethian, Erythnul, Gruumsh, Kord, Olidam- mara. EARTH DOMAIN",
+        "name":  "Deities",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Nerull, Wee Jas.",
+        "name":  "Deities",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You may use a death touch once per day. Your EVIL DOMAIN death touch is a supernatural ability that produces a death effect.",
+        "name":  "Granted Power",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Obad-Hai. Deities: Boccob, Vecna.",
+        "name":  "Deity",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Pelor. reroll, even if it’s worse than the original roll.",
+        "name":  "Deity",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Boccob, Vecna, Wee Jas. Deities: St. Cuthbert, Gruumsh, Kord, Pelor.",
+        "name":  "Deities",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ehlonna, Obad-Hai.",
+        "name":  "Deities",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Corellon Larethian, St. Cuthbert, Fharlanghn, Garl TRAVEL DOMAIN Glittergold, Moradin, Yondalla.",
+        "name":  "Deities",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Creates 2 gallons/level of pure water.",
+        "name":  "Create Water",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Boccob, Erythnul, Garl Glittergold, Olidammara, Nerull. Cure Minor Wounds: Cures 1 point of damage.",
+        "name":  "Deities",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Calms (2d4 + level) HD of animals.",
+        "name":  "Calm Animals",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Makes one animal your friend.",
+        "name":  "WAR DOMAIN Charm Animal",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Corellon Larethian, Erythnul, Gruumsh, Heironeous, Cure Light Wounds: Cures 1d8 damage +1/level (max +5). Hextor. Detect Animals or Plants: Detects kinds of animals or plants.",
+        "name":  "Deities",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject gets bonus on Jump checks.",
+        "name":  "Jump",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Obad-Hai. Animal Messenger: Sends a Tiny animal to a specific place.",
+        "name":  "Deity",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cold metal damages those who touch it.",
+        "name":  "Chill Metal",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "One animal/two levels doubles in size.",
+        "name":  "Animal Growth",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Removes burden of misdeeds from subject. ability damage.",
+        "name":  "Atonement",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Animal or tree gains human intellect.",
+        "name":  "Awaken X",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Turns stone to clay or dirt to sand or mud.",
+        "name":  "Soften Earth and Stone",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Transforms subject into harmless animal.",
+        "name":  "Baleful Polymorph",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Grants ability to walk on walls and ceilings.",
+        "name":  "Spider Climb",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Learn about terrain for 1 mile/level.",
+        "name":  "Commune with Nature",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Summons swarm of bats, rats, or spiders.",
+        "name":  "Summon Swarm",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Change wind direction and speed.",
+        "name":  "Control Winds",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You look exactly like a tree for 1 hour/level.",
+        "name":  "Tree Shape",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cures 4d8 damage +1/level (max +20).",
+        "name":  "Cure Critical Wounds",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bends wood (shaft, handle, door, plank).",
+        "name":  "Warp Wood",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Rearranges wooden objects to suit you. energy effects.",
+        "name":  "Wood Shape",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Calls down lightning bolts (3d6 per bolt) from sky. Stoneskin M: Ignore 10 points of damage per attack.",
+        "name":  "Call Lightning",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    }
+]

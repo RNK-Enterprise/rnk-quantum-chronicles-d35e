@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "spells.json",
+        "description":  "Block of ice falls from sky, dealing 20d6",
+        "name":  "SPELLS Evoc Iceberg",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Subject gains SR 18 against fi re damage and burying subjects. spells and effects. Illus Ice AssassinMX: Creates duplicate of creature with",
+        "name":  "Abjur Glacial Ward",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Creates webs of coldfi re that entangle Table 5–1: Player’s Handbook Cold Spells and deal 1d6 frostburn damage/round. Chill Metal: Cold metal damages those who touch it.",
+        "name":  "Ice WebC",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Deals 5d6 cold damage, 1d4 Int damage. damage. Polar Ray: Ranged touch attack deals 1d6/level cold damage. 5TH-LEVEL SORCERER/WIZARD Ray of Frost: Ray deals 1d3 cold damage. SPELLS Resist Energy [Cold or Fire]: Ignores first 10 (or more) points of damage/attack from specified energy type.",
+        "name":  "Necro Mindfrost",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Subject takes –4 penalty on attacks, hemisphere can trap creatures inside. AC, and Str- and Dex-related checks, 50% failure of spells with somatic components. SPELLS",
+        "name":  "Necro Gelid Blood",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sculpts ice into any shape. The spells herein are presented in alphabetical order (with",
+        "name":  "Ice Shape",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "In addition to the standard components",
+        "name":  "SPELLS Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Gaze freezes subjects in place. defi ned in the Player’s Handbook, some of the spells here have",
+        "name":  "Ench Freezing Glance",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The caster must be stand- object. For details, see the Animated ing in a frostfell site to cast this spell Object entry, page 13 of the Monster A bank of fog composed entirely of (to determine if a particular area is Manual. The animated snow can tiny, razor-sharp ice shards billows considered a frostfell site, see Chap- assume any basic shape you wish, and out from the targeted point. The fog ter 1). Frostfell components are not it attacks as directed by your vocal obscures all sight, including darkvi- consumed during the casting of the commands. Animated snow objects sion, beyond 5 feet. A creature 5 feet spell unless otherwise noted. possess the Blind and Trample spe- away has concealment (20% miss cial attacks as detailed in the Monster chance). Creatures farther away have Algid Enhancement Manual entry for animated objects. In total concealment (50% miss chance, Transmutation [Cold] addition, they have the cold subtype, and the attacker can’t use sight to",
+        "name":  "Frostfell",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No a glacier. the fog in 4 rounds; a severe wind (31+ mph) disperses the fog in 1 You energize cold creatures with a Anticold Sphere round. Dispersing the fog in this surge of coldfi re. Creatures with the Abjuration manner, however, causes damage to cold subtype affected by this spell Level: Sorcerer/wizard 5 those within its area as the icy shards gain a +1 defl ection bonus to AC, +1d8 Components: V, S whip past. A strong wind causes 4 temporary hit points, a +1 enhance- Casting Time: 1 standard action points of damage per round (half ment bonus on attack rolls, and a +2 Range: 10 ft. cold); a severe wind causes 8 points bonus on saving throws against fi re Area: 10-ft.-radius emanation, centered of damage (half cold). effects. Each of these enhancements on you increases by +1 for every three caster Duration: 10 min./level (D) Aura of Cold, Greater levels. So a 12th-level caster grants a Saving Throw: None Transmutation [Cold] +5 defl ection bonus to AC, an extra Spell Resistance: Yes Level: Cleric 7, druid 7 1d8+4 temporary hit points, a +5 Range: 10 ft. enhancement bonus on attack rolls, You bring into being a mobile, spheri- Area: 10-ft.-radius spherical emana- and a +6 resistance bonus on saving cal energy fi eld that protects against tion, centered on you throws against fi re effects. cold. All creatures within the area of This spell has no effect on creatures the spell are granted immunity to This spell functions exactly like lesser not of the cold subtype. cold. In addition, the sphere prevents aura of cold, except it deals 2d6 points",
+        "name":  "Spell Resistance",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One ounce of the entrance of any creature with of cold damage to all creatures within coldfi re. the cold subtype. The effect hedges 10 feet. out such creatures in the area when Animate Snow it is cast. Aura of Cold, Lesser Transmutation [Cold] This spell may be used only defen- Transmutation [Cold]",
+        "name":  "Coldfi re Component",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action that the spell keeps at bay collapses Components: V, S, DF",
+        "name":  "Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Conjuration (Creation) [Cold] Duration: 1 round/level (D)",
+        "name":  "Spell Resistance",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Cleric 2, druid 2, sorcerer/ Spell Resistance: Yes Binding Snow wizard 3 Transmutation [Cold] Components: V, S You create a strong blast of arctic air",
+        "name":  "Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One 10-ft. square/level Spell Resistance: Yes similar protected or unprotected",
+        "name":  "Area",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Refl ex negates You must cast this spell on a snow fires (such as bonfires, a blacksmith’s",
+        "name":  "Saving Throw",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes field. You corrupt an area of fallen coals, or even a house fire) have a snow, imbuing it with negative 50% chance to be extinguished by This spell must be cast on a snow fi eld. energy. Each round, a creature in the boreal wind. Forest or grassland That snow fi eld instantly freezes, contact with blood snow must suc- fires are too large to be extinguished impeding movement through the ceed on a Fortitude save or take by this spell. area. A creature caught within the 1d2 points of Constitution drain. All creatures caught in the area take area can move only at half its normal In addition, anyone failing a saving 1d4 points of cold damage per caster speed. By making a DC 20 Strength throw is nauseated for the duration level (maximum 15d4). A successful check or a DC 25 Escape Artist of the spell. Fortitude saving throw negates the check, the creature can move at its gust’s effects. Those that fail the save normal speed for that round. A crea- Bone Chill are pushed away from the caster a ture that succeeds on a Refl ex save is Necromancy distance of 3 feet per caster level. Crea- not impeded. Level: Sorcerer/wizard 2 tures that remain in the area past the",
+        "name":  "Spell Resistance",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Long (400 ft. + 40 ft./level) Spell Resistance: No and blow down small huts, scuttle a",
+        "name":  "Range",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No 10 feet thick; hardness 16; hp 160; break DC 90; Climb This spell may only be DC 30. cast outside. Immediately Arcane Material Compo- upon completion of the nent: A 2-inch rod of ice. spell, an avalanche of ice and snow falls out of the Cometstrike sky, dealing 8d6 points Conjuration (Creation) [Cold] of crushing damage and potentially A 9th-level caster buries Large Level: Druid 9 burying Large or smaller creatures or smaller creatures. At 12th level, the Components: V, DF within the area. Creatures making maximum size of a creature increases Casting time: 1 standard action their Refl ex saving throws take half to Huge. At 15th, Gargantuan crea- Range: Medium (100 ft. + 10 ft./level) damage and are not buried. Those tures are also buried, and at 18th level, Target: Three different creatures or that fail their saves are buried and take a creature of up to Colossal size is objects an additional 1d6 points of nonlethal buried by the snow. Duration: 3 rounds damage per minute while still buried. Saving Throw: Refl ex partial",
+        "name":  "Spell Resistance",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No while buried, it must make a DC 15 Conjuration (Creation) [Cold] Constitution check. If that check Level: Druid 3, sorcerer/wizard 4 This spell may only be cast in an fails, it takes 1d6 points of lethal Components: V, S, M outdoor area; it fails if cast indoors damage each minute thereafter until Casting Time: 1 standard action or underground. When you cast this freed or dead. Range: Close (25 ft. + 5 ft./2 levels) spell, you cause three frozen comets to",
+        "name":  "If such a creature falls unconscious Column of Ice Spell Resistance",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "None than 30 ft. apart This spell functions like conjure ice",
+        "name":  "Saving Throw",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action new temperature on creatures and Spell Resistance: No",
+        "name":  "Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No through crunchy snow. Crack Ice Depending on the version you choose, Evocation [Force] Death Hail the control snow and ice spell raises or Level: Sorcerer/wizard 3 Conjuration (Creation) [Cold, Death] lowers ice or snow. Components: V, S, M Level: Druid 6, Winter 6",
+        "name":  "Spell Resistance",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This causes Casting Time: 1 standard action Components: V, S, DF snow and ice to sink away to a mini- Range: Close (25 ft. + 5 ft./2 levels) Casting Time: 1 round mum depth of 1 inch. The depth can Area or Target: 10-ft.-radius/level Range: Medium (100 ft. + 10 ft./level) be lowered by up to 2 feet per caster spread; or one ice creature Area: Cylinder (40-ft radius, 20 ft. high) level. The snow and ice is lowered Duration: Instantaneous Duration: 1 round/level within a squarish depression whose Saving Throw: Fortitude half (see Saving Throw: Fortitude half sides are up to 10 feet long per caster text) Spell Resistance: No level. In extremely large and deep Spell Resistance: Yes (creature only) snow and ice fi elds, such as a glacier, You call into being an intense storm the spell creates a crevasse that sweeps You create a sudden explosive burst of death hail in the area you designate. creatures downward (without dealing that shatters ice bridges, breaks up Creatures in the area must succeed on damage), rendering them unable to river ice, opens frozen ponds, or dam- a Fortitude save or take 1d2 points of leave by normal movement for the ages an icy creature. The ice broken Strength and Constitution damage. duration of the spell. They can climb covers a 10-foot radius per caster level, out of a crevasse, as normal with a DC and a 1-foot depth per level. Ice thicker Defile Snow and Ice 18 Climb check. When cast on ice ele- than the spell’s depth is cracked and Evocation [Cold, Evil] mentals and other ice-based creatures, weakened, but not broken all the way Level: Cleric 3 this spell acts as a slow spell. The spell through. Weakened ice is treated as Components: V, S has no effect on other creatures. one category thinner than it really is Casting Time: 1 standard action",
+        "name":  "Lower Snow and Ice",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This causes snow (see Table 1–2, page 11). Range: Medium (100 ft. + 10 ft./ and ice to rise in height, just as the Creatures dropped from a bridge, level) lower snow and ice version causes it to through lake or river ice, or off a gla- Area: 10 ft./level radius spread lower. Creatures and objects on top of cier or iceberg take normal falling Duration: 1 min./level the snow or ice are raised along with and cold water damage. Creatures Saving Throw: None the top level of snow. on a glacier will have a crevasse Spell Resistance: Yes For either version, the character open under them equal to the depth may reduce one horizontal dimension of the spell. You imbue an area of ice or fallen snow by half and double the other horizon- Targeted against an ice creature of with negative energy, granting all tal dimension. any weight (such as an ice golem, win- undead within the area a +4 profane terspawn, or entombed), crack ice deals bonus against turning attempts. Control Temperature 1d6 points of damage per caster level In addition, all cold creatures gain Transmutation [Cold, Fire] (maximum 10d6), with a Fortitude spell resistance 15 against fi re effects.",
+        "name":  "Raise Snow and Ice",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "20 cu. ft./level emanation, cen- Crunchy Snow tered on you Transmutation [Cold] This spell functions like detect evil",
+        "name":  "Area",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Cleric 9, druid 8, sorcerer/ subtype are detected with a heat aura in a block of ice, suffocating them. The wizard 8, Winter 9 strength of faint only, regardless of spell entraps the targets with a thick Components: V, S, XP level or Hit Dice. layer of ice from head to toe. Those that Casting Time: 10 minutes (see text) make a successful Fortitude saving Range: 1 mile/level Dispel Cold throw can shake off the ice immedi- Area: 1 mile/level radius, centered Abjuration [Fire] ately, though they still take 6d6 points on you",
+        "name":  "Living beings without the fire An entomb spell traps living creatures Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No (see page 222 of the Player’s Handbook), per the drowning rules (see page 304 except that you are surrounded by of the Dungeon Master’s Guide). In addi- You change the weather to a state constant, blue-white cold energy, and tion, the creature takes 2d12 points of of permanent winter, or strengthen the spell affects cold creatures and cold damage and 1 point of Constitu- winter conditions already present. It spells rather than evil ones. tion damage per round from contact takes 10 minutes to cast the spell and with the ice. an additional 10 minutes for the effects Dispel Fire Other than attempting to escape, to manifest themselves. The current, Abjuration [Cold] creatures entombed can perform natural weather conditions are deter-",
+        "name":  "This spell functions like dispel evil and immediately begins to suffocate Spell Resistance",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Cleric 5 actions that only require mental or mined by the DM. You then choose verbal activity. what wintry conditions you want to This spell functions like dispel evil Escaping from the ice block requires manifest; the strength of the winter (see page 222 of the Player’s Handbook), a DC 20 Strength check or the applica- depends on the existing climate and except that you are surrounded by con- tion of 20 points of fi re damage. season of the area. stant red, orange, and yellow fl ames, Material Component: A clear gemstone and the spell affects fi re creatures and with a minimum value of 500 gp. Season Possible Weather spells rather than evil ones. Spring Frequent snowfall, nightly frost Evergreen Summer Light snow, hailstorms, Ease of Breath Transmutation [Fire] cold rain, cloudy Necromancy [Cold] Level: Druid 2 Autumn Frequent snowfall, frost",
+        "name":  "Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "10-ft. square/level Spell Resistance: Yes listed below. In addition, it suffers a –6",
+        "name":  "Area",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Transmutation [Cold]",
+        "name":  "Spell Resistance",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Level: Cleric 5 Spell Resistance: Yes",
+        "name":  "Spell Resistance",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action Cold energy spreads out in all direc- destroy the spark of life in those who Range: Close (25 ft. + 5 ft./2 levels) tions from the point of origin, dealing you meet your stare. Each round you Target: One creature/2 levels, no two of 3d12 points of frostburn damage +1 may target a single living creature. It which can be more than 30 ft. apart point per caster level (maximum +20) must make a Will saving throw or be Duration: Instantaneous to nearby enemies. Like other frost- frozen in place. Saving Throw: Fortitude half burn spells, mass frostburn cures cold",
+        "name":  "Your eyes become wintry tombs that Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Touch Target: Creature touched the spell. Snow accumulates only if",
+        "name":  "Range",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Will negates (harm- Spell Resistance: Yes Living creatures caught within the less, object) area when the spell is cast instantly",
+        "name":  "Saving Throw",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No When laying your hand upon a crea- turn to ice (as per the fl esh to ice spell). ture, you channel cold energy that If a creature successfully saves, frostfell deals 1d12 points of frostburn damage deals 1d6 points of frostburn damage 96 5 RETPAHC EHT FO CIGAM LLEFTSORF per caster level (maximum 20d6). Components: V, S, M Components: V, S, M, Coldfi re",
+        "name":  "Spell Resistance",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action Casting Time: 1 standard action spell has been cast do not take this Range: Close (25 ft. + 5 ft./2 levels) Range: 10 ft. damage; however, all creatures in the Target: One creature Area: 10-ft.-radius spherical emanation, area are subject to the normal effects Duration: 1 round/level centered on you of cold, snow, and ice for the duration Saving Throw: Fortitude partial Duration: 1 round/level (D) of the spell. Spell Resistance: Yes Saving Throw: None",
+        "name":  "Creatures entering the area after the Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "None this spell lasts 1 hour per level. Transmutation [Cold]",
+        "name":  "Saving Throw",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Level: Cleric 5, druid 4",
+        "name":  "Spell Resistance",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, Frostfell When you cast this spell, you bring Necromancy [Cold] Casting Time: 1 round into existence 20-foot cubes of ani- Level: Sorcerer/wizard 6 Range: Personal mated glacial ice (one per two caster Components: V, S, M Target: You levels, to a maximum of ten glaciers Casting Time: 1 standard action Duration: Instantaneous at 20th level), which need not appear Range: Close (25 ft. + 5 ft./2 levels) Saving Throw: Fortitude half adjacent to one another, but must Target: One creature (harmless) be placed on a horizontal surface. Duration: Instantaneous Spell Resistance: Yes (harmless) Glaciers placed in the air or on nonho- Saving Throw: Fortitude partial rizontal surfaces do not appear, but are Spell Resistance: Yes You absorb slush, snow, and ice, deducted from the number of glaciers channeling the cold energy stored the caster may conjure. You encase the heart of the target within to cure 10 points of damage The glaciers remain stationary creature in a block of ice. The target per caster level, to a maximum of 150 unless commanded, attacking any becomes immediately exhausted and points at 15th level. The spell melts creatures within 5 feet with a +15 dies in 1d3+2 rounds. The subject is all slush, snow, and ice within 10 feet slam attack that deals 2d8+4 points entitled to a Fortitude saving throw of the caster. of damage, plus 3d6 points of cold to survive the attack. If the target damage. succeeds on the save, it instead takes Hibernate As a standard action, you may 5d8 points of cold damage and is not Necromancy command any number of glaciers exhausted. (The target might die from Level: Cleric 5, druid 5 to move at a speed of 10 feet. You damage even if it succeeds on the Components: V, S, DF cannot command any glacier to saving throw.) A character attempt- Casting Time: 1 standard action move more than 100 feet away from ing to save the victim of a heartfreeze Range: Touch you, and if you move more than 100 spell must use a healing spell or effect Target: One living creature feet from any glacier, that glacier on the victim as well as succeed on a Duration: 1 week/level (D) remains stationary, attacking any DC 26 caster level check, otherwise Saving Throw: Will negates creatures in its area (but it can be the victim will succumb to the heart- Spell Resistance: Yes commanded again if you move with in freeze and die. 100 feet). A creature immune to critical hits You put a creature into a state of A glacier has 20 hit points per caster and sneak attacks is unaffected by suspended animation, slowing its level and a hardness of 0. Creatures heartfreeze. life functions to almost impercep- can hit the glacier automatically. Material Component: A strip of dried tible levels and allowing a creature Fire, including a fi reball spell and red humanoid sinew. to survive for weeks without food or dragon breath, can melt a glacier, and water. This suspension of life func- it deals full damage to the ice (instead Heat Leech tions automatically stabilizes a dying of the normal half damage taken by Necromancy [Cold] creature, and it can save starving or objects). Suddenly melting a glacier Level: Sorcerer/wizard 2 dehydrated creatures from death. creates a great cloud of steamy fog that Components: V, S, M Creatures affected by a hibernate spell lasts for 10 minutes. Casting Time: 1 standard action have a slower metabolism, healing",
+        "name":  "Heartfreeze Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action Spell Resistance: Yes the spell; a failure allows the target",
+        "name":  "Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No the round during which you cast the spell), the target must succeed on a Ice Assassin You jam a locking mechanism with ice, Fortitude saving throw or take 1d8 Illusion (Shadow) raising its Open Lock DC by 10 and points of cold damage. Level: Sorcerer/wizard 9 the lock’s hardness by 5. Fire attacks Material Component: A leech and a Components: V, S, M, XP against the lock deal double damage. pinch of snow. Casting Time: 8 hours 98 5 RETPAHC EHT FO CIGAM LLEFTSORF",
+        "name":  "Spell Resistance",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Touch An ice assassin has no ability to 2. Ice slick spells triggered an",
+        "name":  "Range",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Instantaneous increase its level or abilities. Damage Saving Throw: See text. Spell Resis-",
+        "name":  "Duration",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No repaired only via a complex process 3. Obscuring snow in any cor- requiring 1 day, 100 gp per hit point, ridors or rooms, obscuring all sight, The ice assassin spell is in many ways and a fully equipped laboratory. If including darkvision, beyond 5 feet. an improved version of simulacrum. the ice assassin is reduced to 0 hit A creature within 5 feet has conceal- Developed by powerful frost mages points by any damage except for fi re ment (attacks have a 20% miss chance). who have more than their fair share damage, it explodes into a burst of Creatures father away have total con- of enemies to fi ght, an ice assassin is icy shrapnel in a 20-foot radius that cealment (50% miss chance, and the an effective way to destroy an enemy causes 1d6 points of cold damage for attacker cannot use sight to locate the without putting yourself at risk. every two caster levels you possess; a target). Saving Throw: None. Spell",
+        "name":  "Spell Resistance",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Each creature stand- Abjuration your fi ngertip. You may fi re one dart, ing in the area must make a DC 15 Level: Druid 5, sorcerer/wizard 4 plus one additional dart for every two Refl ex save or fall down. Fissures Components: V, S, M, Coldfi re levels beyond 3rd (to a maximum of open in the ice, and every creature on Casting Time: 1 standard action fi ve darts at 11th level). Each dart the ice has a 25% chance to fall into Range: Touch requires a ranged touch attack to hit one (Refl ex DC 20 to avoid a fi ssure). Target: Creature touched and deals 2d4 points of damage, half At the end of the spell, all fi ssures Duration: 1 min./level of which is cold damage. grind shut, killing any creatures still Saving Throw: Will negates (harmless) trapped within. Spell Resistance: Yes (harmless)",
+        "name":  "A sharp, transparent icicle shoots from Open Glacier",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, M/DF Characters who fall into a fi ssure are The spell prevents a total of 10 points",
+        "name":  "Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "40-ft.-radius spread (S) from the frigid water. At the end of spell, the creature also has vulnerabil-",
+        "name":  "Area",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 round the spell, all rents in the ice grind ity to fi re and takes half again as much",
+        "name":  "Duration",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No water beneath (for additional rules on effect, regardless of whether a saving characters in cold water, see Hypo- throw is allowed, or if the save is a suc- When you cast ice rift, an intense but thermia, page 10). cess or failure. highly localized tremor rips through Arcane Material Component: A bit of The duration increases to 10 min- the ice. The shock knocks creatures earth and a pinch of snow. utes per level when in a frostfell down, collapses structures, opens environment. cracks in the ice, and more. The effect Ice Shape Material Component: A pinch of lasts for 1 round, during which time Transmutation [Cold] sleet. creatures on the ice can’t move or Level: Cleric 3, druid 3, sorcerer/ Coldfi re Component: Five ounces of attack. A spellcaster on the ice must wizard 5 coldfi re. make a Concentration check (DC 20 Components: V, S, M/DF + spell level) or lose any spell he or Casting Time: 1 standard action Ice Ship she tries to cast. The ice rift affects Range: Touch Conjuration [Creation] all terrain, vegetation, structures, Area: Ice touched, up to 10 cu. ft. + 1 Level: Sorcerer/wizard 4 and creatures in the area. The spe- cu. ft./level Components: V, S, M cifi c effect of an ice rift spell depends Duration: Instantaneous Casting Time: 1 standard action on the nature of the terrain where it Saving Throw: None Range: Close (25 ft. +5 ft./2 levels) is cast. Spell Resistance: No Effect: Creates ship of ice",
+        "name":  "Spell Resistance",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ice rift causes a forth with ice shape, fine detail isn’t 80 mph over any level ice, such as a glacier’s edge to crumble, creating a possible. There is a 30% chance that lake, river, or ocean pack ice. It can landslide that travels horizontally as any shape including moving parts carry one Medium creature per caster far as it fell vertically. An ice rift cast simply doesn’t work. level, and it cannot move against the 100 5 RETPAHC EHT FO CIGAM LLEFTSORF prevailing winds (though it can move Saving Throw: See text Ice Web at right angles to the wind). Large Spell Resistance: No Conjuration (Creation) [Cold] creatures cannot fi t on an ice runner. Level: Sorcerer/wizard 4 This form has 40 hit points and a An ice slick spell covers a solid surface Components: V, S, Coldfi re hardness of 3. with a layer of slippery ice. Any crea- Casting Time: 1 standard action",
+        "name":  "Edge of a Glacier",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This sailing vessel can ture entering the area or caught in Range: Medium (100 ft. + 10 ft./level) move against the wind at a steady pace it when the spell is cast must make Effect: Webs of coldfi re in a 20-ft.- of 5 mph, or with the wind at 10 mph. a successful Balance check or slip, radius spread It carries three Medium creatures per skid, and fall. Those that succeed Duration: 10 min./level (D) caster level, or one Large creature per on the skill check can move at half Saving Throw: Refl ex negates; see text level. This form has 60 hit points and speed across the surface, or can skate Spell Resistance: No a hardness of 5. or glide normally. However, those If the ship is created in an area of that remain in the area must each Ice web creates a many-layered mass of temperature above freezing, it imme- make a new skill check every round strong, frigid strands of pure coldfi re. diately begins to melt, taking 1d12 to avoid falling and be able to move. These masses must be anchored to points of damage per hour. Both forms The DM should adjust skill checks two or more solid and diametrically begin to melt or crack slowly during by circumstance. For example, a opposed points—fl oor and ceiling, the last hour of the spell regardless creature charging down a hill that opposite walls, or the like—or else of temperature, and disappear into is suddenly iced has little chance to the ice web collapses upon itself and puddles or splinters of ice at the end avoid the effect, but its ability to exit disappears. Creatures caught within of the spell’s duration. the affected area is almost assured the ice web become entangled in the",
+        "name":  "Ice Galleon",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sorcerer/wizard 5 through the spell’s area takes 1d6",
+        "name":  "Transmutation Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Touch Target: One frozen creature or a area when the spell is cast must make",
+        "name":  "Range",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) (object); see text below). If the save fails, the creature",
+        "name":  "Spell Resistance",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S Saving Throw: None this spell can be removed by a limited",
+        "name":  "Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action Spell Resistance: No wish or wish. 102 5 RETPAHC EHT FO CIGAM LLEFTSORF",
+        "name":  "Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action Spell Resistance: Yes Spell Resistance: Yes",
+        "name":  "Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You This spell freezes the mental pathways A sphere of intense cold energy rolls",
+        "name":  "Target",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Creatures Range: Touch take 1d8 points of damage Target: Creature touched per two caster levels Duration: 1 round/level (D) (maximum 10d8) and Saving Throw: Yes (harm- an additional 1d6 points less) of cold damage per two Spell Resistance: Yes caster levels. Creatures (harmless) who fail their saves are also buried (as described The transmuted creature is in Avalanches, page 90 able to pass through ice or of the Dungeon Master’s snow as easily as water, but Guide). All squares within not through stone or frozen 20 feet of the center point mud. The creature moves at are covered in heavy snow a speed of 15 feet and can (see page 94 of the Dun- Obscuring Snow rise or sink into ice at a rate geon Master’s Guide), which persists Conjuration (Creation) [Air, Cold] of 5 feet per round. as long as ordinary snow would. Level: Cleric 2, druid 2, sorcerer/ When a pass through ice spell Between 20 Feet and 40 Feet of the wizard 2 ends, the affected creature is ejected",
+        "name":  "Center Point",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Creatures take half Components: V, S out to the nearest ice surface. If as much damage from the impact Casting Time: 1 standard action someone dispels pass through ice or of the avalanche as the creatures Range: 30 ft. you dismiss it while a creature is nearer the center point took (Reflex Effect: Cloud spreads in 30-ft.-radius still in the ice, the creatures may be save negates). Creatures who fail from you, 30 ft. high trapped in the ice unless they can their saves must also resist the force Duration: 1 hour/level reach the nearest surface within a of the snow moving past them as Saving Throw: None single round of movement. Crea- if they were being bull rushed. Spell Resistance: No tures trapped act as if caught in an The snow has a +13 bonus (+5 for entomb spell. effective Strength of 20 and +8 for A swirling snow vapor arises around effectively being Huge) on the bull you, and follows you from that point Raise Ice Forest rush check, and it pushes charac- on. The snow obscures all sight, Conjuration (Creation) [Cold] ters away from the center point of including darkvision, beyond 5 Level: Druid 7 the spell. All squares in the 20-foot feet. A creature 5 feet away has con- Components: V, S, DF, Frostfell to 40-foot ring are covered in light cealment (attacks have a 20% miss Casting Time: 1 round snow, which persists as long as ordi- chance). Creatures farther away have Range: Long (400 ft. + 40 ft./level) nary snow would. total concealment (50% miss chance, Area: 20-ft. square of snow/level",
+        "name":  "Center Point",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Creature touched Spell Resistance: No",
+        "name":  "Target",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Snow Wave Components: V, S, DF Conjuration [Cold] Casting Time: 1 standard action",
+        "name":  "Spell Resistance",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Druid 6 Range: Touch delivers a bitter chill to the target, Components: V, S Target: Creature touched causing it to shiver uncontrollably for Casting Time: 1 round Duration: 1 hour/level the duration of the spell. Shivering Range: 30 ft. Saving Throw: None characters take 1d6 points of Dexter- Area: Cone-shaped burst Spell Resistance: Yes (harmless) ity damage. Duration: Instantaneous",
+        "name":  "Your successful melee touch attack Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Fortitude half and The subject gains the ability to see immune to the effects of lesser shiver- Refl ex negates; see text to the normal limits of its vision ing touch. Spell Resistance: No even in whiteout conditions, and ig- nores all penalties due to snow glare Snow Walk You create a wave of snow that knocks and snow blindness. Snowsight is no Transmutation creatures in its path prone and deals better than normal vision. During",
+        "name":  "Creatures with the cold subtype are Saving Throw",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "30 ft. Spell Resistance: No of a suppress fl ame spell. A caster can",
+        "name":  "Range",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes where you designate and act imme- spells. A new caster level check must diately, on your turn. The giants be made for each spell cast.",
+        "name":  "Spell Resistance",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ten ounces of snowfall that melts and evaporates on their ability. If you speak Giant, you coldfi re. contact with anything solid. When can direct the giants not to attack, you cast the spell, you must designate to attack particular enemies, or to Thaw all creatures in the area as either allies perform other actions. Summoned Transmutation [Earth, Fire] or enemies. giants act normally on the last round Level: Druid 2",
+        "name":  "Snowsong fi lls the area with a soft attack your opponents to the best of Coldfi re Component",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 round Necromancy [Cold] leaves scabs and angry welts when Range: Medium (100 ft. + 10 ft./level) Level: Cleric 2, druid 2, sorcerer/ it lands their skin. They perceive Area: 10-ft. cube/level (S) wizard 3 the music as a discordant jangle of Duration: 1 hour/level Components: V, S crashes, scrapes, and howls. As long Saving Throw: None Casting Time: 1 standard action as they remain in the area, they suffer Spell Resistance: No Range: Medium (100 ft. + 10 ft./level) a 20% chance of spell failure (for Area: 30-ft.-radius emanation both divine and arcane spells) when You imbue an area with a combination Duration: 1 min./level casting any spells with a verbal com- of cold and negative energies that sup- Saving Throw: Fortitude negates ponent. Enemies can resist the effects presses fl ame. Illumination emitted Spell Resistance: No of a snowsong with a successful Will by fi re (torches, continual fl ame, and saving throw. so on) is reduced by half. For example, This spell thins the oxygen in the area, These benefi ts remain in place as a hooded lantern within the area of a causing creatures caught therein to long as the spell persists and as long as suppress fl ame spell clearly illuminates suffer the effects of extreme altitude the target remains in the spell’s area. a 15-foot radius (instead of a 30-foot sickness. Subjects failing their saves If a creature leaves the spell’s area, all radius) and provides shadowy illumi- take 1 point of damage to all ability effects end for that creature until it nation in a 30-foot radius (instead of a scores because of altitude sickness (see returns to the snowsong’s area. 60-foot radius). page 90 of the Dungeon Masters Guide). In addition, all damage caused Characters acclimated to high altitude Summon Giants by fi re, including all fi re spells and receive a +4 competence bonus on Conjuration (Summoning) spell-like effects, is reduced to 1 their saving throws. Creatures that do",
+        "name":  "To them, the snow is bitterly cold and Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, F/DF a 10th-level wizard would deal 10 of the spell. 106 5 RETPAHC EHT FO CIGAM LLEFTSORF",
+        "name":  "Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, Coldfi re Spell Resistance: Yes Components: V, S",
+        "name":  "Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Opaque sheet of coldfire creatures with the fi re subtype in the Area: One creature up to 20 ft. long/level or a ring of spell’s area shaken for the duration of Duration: 1 round/level coldfire with a radius of up to 5 the spell. Any creature with the cold Saving Throw: Fortitude negates ft. per two levels; either form 20 subtype caught in the area of this Spell Resistance: Yes ft. high spell loses its immunity to cold for the",
+        "name":  "Effect",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration + 1 round/ duration of the spell. Whether or not Winter’s embrace covers the victim level a creature makes its saving throw, it with sheets of ice and lumps of",
+        "name":  "Duration",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes of this spell for 24 hours. its Fortitude save, the ice and snow",
+        "name":  "Spell Resistance",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Two ounces of instantly slough from its body, caus- An immobile, opaque curtain of coldfi re. ing a mere 1d4 points of cold damage frosty coldfi re springs into existence. and ending the effect. If the subject One side of the wall, selected by you, Whiteout fails its saving throw, the ice and sends forth waves of cold, dealing Conjuration (Creation) [Cold] snow cling tenaciously to its body 2d4 points of cold damage to crea- Level: Druid 7 and cause 1d8 points of cold damage tures within 10 feet and 1d4 points of Components: V, S each round. On the subject’s action cold damage to those past 10 feet but Casting Time: 1 standard action each round, it can attempt a new For- within 20 feet. The wall deals this Range: Long (400 ft. + 40 ft./level) titude saving throw to avoid taking damage when it appears and on your Effect: Cloud centered on target damage that round. If a creature turn each round to all creatures in spreads 120 ft. and is 20 ft. high takes damage twice from a single the area. In addition, the wall deals Duration: 1 hour/level casting of winter’s embrace, it becomes 2d6 points of frostburn damage +1 Saving Throw: None (see text) fatigued. The fourth time a creature point of frostburn damage per caster Spell Resistance: No takes damage from the same spell, it level (maximum +20) to any creature becomes exhausted. passing through it. A swirling snow and a strong wind If you evoke the wall so that it arise around you or a creature you Zone of Glacial Cold appears where creatures are, each designate, and follows you or the crea- Conjuration [Cold] creature takes damage as if passing ture from that point on. Characters in Level: Druid 2, ranger 2, sorcerer/ through the wall. whiteout conditions take a –2 penalty wizard 2",
+        "name":  "Coldfi re Component",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, M grants concealment (20% miss chance) AC, move at half speed, and take a Casting Time: 1 standard action against attacks made from the opposite –4 penalty on Dexterity-based skill Range: Medium (100 ft. + 10 ft./level) side of the wall. If any 5-foot length of checks, as well as Search, Spot, and Effect: 20-ft. radius wall takes 20 points of fi re damage or any other checks that rely on vision. Duration: 1 round/level more in 1 round, that length goes out. The character also gains total con- Saving Throw: Fortitude half (Do not divide fi re damage by 4, as for cealment (50% miss chance). These Spell Resistance: No normal objects.) effects end when the character leaves Wall of coldfi re can be made per- the area of whiteout. Whiteout condi- You create a zone of icy cold within manent with a permanency spell. tions stack with wind and snowfall. the spell’s area, dealing 1d6 points of A permanent wall of coldfi re that is Visibility is 5 feet. cold damage per round. extinguished by fi re damage becomes In addition, any creature trying to Arcane Material Component: A snow- inactive for 10 minutes, then reforms move within the effects of this spell ball. at normal strength. must make a Survival check (DC 10",
+        "name":  "The opaqueness of the coldfire to AC, lose any Dexterity bonus to Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Three ounces of + caster level) every move action or EPIC SPELLS coldfi re. wander lost inside the whiteout. A crea- Epic-level characters in the frostfell can ture that fails can’t leave the area, but choose spells from the following list. Waves of Cold can move around within it. Groups of Spells with the coldfi re factor require Necromancy [Cold] creatures roped or otherwise physi- coldfi re as a component and their DCs",
+        "name":  "Coldfi re Component",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, Coldfi re creature’s Survival check and stay fi re needed to cast the spell.",
+        "name":  "Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action together. A new check can be made E: This spell originally appeared in",
+        "name":  "Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "50 perish as a result of the blast are then area (+400 DC). Mitigating factor:",
+        "name":  "Spellcraft DC",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Instantaneous of this spell, but other means that cold to a radius of 1,000 feet for 20",
+        "name":  "Duration",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes for controlled undead work just points of cold damage per round",
+        "name":  "Spell Resistance",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "93 constant snowfall and wind. The",
+        "name":  "Spellcraft DC",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, Coldfi re snow and wind produce a blizzard your enemies in a coldball that deals Casting Time: 1 standard action effect within the area. 10d6 points of cold damage to each Range: 300 ft. XP Cost: 10,000 XP. one. Up to twenty of those victims Area: 40-ft.-radius hemisphere burst that perish as a result of the blast are Duration: Instantaneous Ice Age then instantly animated as Medium Saving Throw: Refl ex half Transmutation [Cold] skeletons. These skeletons serve you Spell Resistance: Yes Spellcraft DC: 323 indefi nitely. You cannot exceed the To Develop: 837,000 gp; 17 days; Components: V, S normal limit for controlling undead 33,480 XP. Seed: energy (emanate Casting Time: 1 minute through use of this spell, but other 2d6 cold in 10-ft. radius) (DC 19). Range: 0 ft. means that allow you to exceed the Factor: 1-action casting time (+20 Area: 20-mile-radius emanation normal limit for controlled undead DC), increase area by 100% (+4 DC), Duration: Permanent work just as well with undead created increase damage to 40d6 (+60 DC), Saving Throw: None with animus blast. coldfi re component (–10 DC). Spell Resistance: No",
+        "name":  "When this spell is cast, you can engulf Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "2,907,000 gp; 59 days; Animus BlizzardE You blast all creatures in the spell’s 116,280 XP. Seed: transform (DC Evocation [Cold] area with unusually intense cold, deal- 21). Factor: change target to area (+2",
+        "name":  "To Develop",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "78 ing 40d6 points of frostburn damage DC), 100 times increase in base area",
+        "name":  "Spellcraft DC",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Spellcraft DC: 319 forth). The temperature drops by 100",
+        "name":  "Spell Resistance",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "702,000 gp; 15 days; Components: V, S, XP degrees (or to 0° F, whichever results 28,080 XP. Seeds: energy (DC 19), Casting Time: 1 minute in the lower temperature). All water animate dead (DC 23). Factors: Range: 1,000 ft. in the air instantly freezes, creating increase damage to 20d6 (+40 DC), Area: 1,000-ft.-radius emanation a blizzard that lasts until ice age is set undead type to wight (–4 DC). Duration: 20 hours dispelled. This can only be done with",
+        "name":  "To Develop",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "None asuperb dispelling spell (see page 87 of",
+        "name":  "Saving Throw",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No the Epic Level Handbook). engulf your enemies in an unusu- To Develop: 2,871,000 gp; 58 days; XP Cost: 10,000 XP. ally powerful burst of cold that 114,840 XP. Seed: energy (emanate 108 5 RETPAHC EHT FO CIGAM LLEFTSORF 6th-Level Psion/Wilder Powers PSIONICS",
+        "name":  "When this spell is cast, you can Spell Resistance",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This clear crystal ring seems slightly on a spell at a time. Normal rods of piercing cold can be used cold when worn. As long as this ring is worn, you fl oat upon with spells of 6th level or lower. Lesser rods of piercing cold can any liquid or similar surface, and cannot swim below the be used with spells of 3rd level or lower, while greater rods of surface. If you are underwater when you put this ring on, piercing cold can be used with spells of 9th level or lower. you rise toward the surface at a speed of 30 feet. Strong (no school); CL 17th; Craft Rod, Piercing Cold; Price Faint transmutation; CL 1st; Forge Ring, float; Price 21,430 gp (lesser), 29,300 gp (normal), 42,800 gp (greater); Cost 2,000 gp. 10,500 gp + 840 XP (lesser), 14,500 gp + 1,160 XP (normal),",
+        "name":  "Ring of Floating",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Fort +13, Ref +9, Will +14 orcs and dragons have walled in branta herds by blocking Abilities: Str 28, Dex 17, Con 24, Int 5, Wis 14, Cha 19 off mountain valleys to trap them. Branta fl esh is a tight, Skills: Concentration +13, Intimidate +9, Listen +10, light-hued, nourishing meat. Found wandering in all but Spot +10 the rockiest or most dense forest terrain, brantas prefer to Feats: Alertness, Cleave, Great Cleave, Improved InitiativeB, munch on high vegetation, where their raised heads can Multiattack, Power Attack, Quicken Spell-Like Ability survey their surroundings. (wall of ice), Snowrunner",
+        "name":  "No one has succeeded in domesticating brantas, but both Saves",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Double standard Spell-Like Abilities: At will—detect fi re, frostfell slide,",
+        "name":  "Treasure",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "For all effects related to race, a Midgard simply avoiding battle, they use their formidable spells and dwarf is considered a dwarf. special abilities to attack at range, viewing melee combat as",
+        "name":  "Dwarven Blood",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Unlike most outsiders, Mid gard clairaudience/clairvoyance, contact other plane, detect thoughts dwarves can be raised or resurrected normally. They have dark- (DC 18), discern location, fi nd the path, foresight, greater scrying vision out to 60 feet. (DC 23), legend lore, locate creature, locate object, tongues, vision. Caster level 18th. 126 6 RETPAHC EHT FO SRETSNOM LLEFTSORF Searching Gaze (Su): A weird continually has the ben- Chill (Ex): In addition to its normal slam damage, an ice efi ts of the analyze dweomer and true seeing spells. weird deals an extra 1d6 points of cold damage with a suc- cessful melee attack. ICE WEIRD Elemental Command (Su): An ice weird can attempt to Large Elemental (Cold, Extraplanar, Water) gain control over any elemental with the cold or water sub-",
+        "name":  "Native Outsider Traits",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Chill, elemental command, spells, expires. It obeys the ice weird explicitly, even if ordered to summon elementals attack the being who originally summoned it. The weird",
+        "name":  "Special Attacks",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Fort +14, Ref +9 (+11 with foresight), Will +11 Typical Sorcerer Spells Known (6/8/8/7/7/7/7/6/5/3 per",
+        "name":  "Saves",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Alertness, Dodge, Empower Spell, Great Fortitude, scorching ray (+12 ranged touch), whispering wind; 3rd—dis- Improved Initiative, Lightning Refl exes placement, lightning bolt (DC 19), protection from energy,",
+        "name":  "Feats",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Always neutral 23), project image, spell turning; 8th—demand (DC 24), polar",
+        "name":  "Alignment",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— Summon Elementals (Sp): Three times per day, an ice weird can summon forth water elementals from its elemen- This creature looks like a large, beautiful woman sculpted out tal ice pool. It can choose to summon 3 Huge, 2 greater, or of pure, transparent ice. Her eyes glow with white fi re and misty 1 elder elemental through this portal. This functions like vapors pour off her body, evaporating into the air. Below her summon monster IX, caster level 20th. torso, her body becomes a shifting column of ice blocks that con- Elemental Ice Pool (Su): An ice weird dwells within nect her to the icy surface beneath her. a large patch or pool of churning, grinding elemental ice, anything from a frozen pool to an iceberg or even Owing to their rigid structure and their constant fear of a glacier. melting, ice weirds have become predictors of the unending Any nonelemental creature entering a weird’s pool battle between chaos and law. They foresee which of these without the weird’s permission must succeed on a DC 23 primal forces will dominate future events. Fortitude save each round or be irrevocably transformed An ice weird’s lair is usually situated within a glacier, ice- into ice. Creatures granted access to the pool by the weird berg, or surprisingly often within special chambers fi lled are not subject to transformation. However, creatures with freezing cold created by wizards of chaos or law who allowed to enter a pool must still provide their own protec- wish to take advantage of the ice weird’s prognostications. tion from cold and ice, as well as the means to breathe and Ice weirds speak Aquan, Auran, Common, and Ice Weird. move normally. Otherwise, they take 2d6 points of damage They also benefi t from their tongues spell-like ability. and 2d6 points of cold damage per round from the churn- ing blocks of ice, and may drown. Combat An ice weird is physically tied to its pool and cannot leave Ice weirds refrain from combat unless they or the ele- except to return to its native plane. mental ice in which they dwell are attacked. In addition Elemental Traits: An ice weird has immunity to poison, to the abilities shared by all weirds, ice weirds have the sleep effects, paralysis, and stunning. It is not subject to following powers. extra damage from critical hits or fl anking. It cannot be Weirds Snow weird Ice weird 127 FROSTFELL MONSTERS OF THE CHAPTER 6 raised, reincarnated, or resurrected (though a limited wish, Environment: Elemental Plane of Air wish,miracle, or true resurrection spell can restore life). It has Organization: Solitary, pair, or charm (3–4) darkvision out to 60 feet. Challenge Rating: 15 Heat Sense (Su): An ice weird can automatically Treasure: Double standard sense heat sources within 60 feet, as the spell detect fire. Alignment: Usually neutral",
+        "name":  "Level Adjustment",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Slam +15 melee (2d6+5 plus 1d6 cold) their tongues spell-like ability.",
+        "name":  "Attack",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Chill, elemental combat unless it or the el- command, spells, summon elementals emental snow in which it",
+        "name":  "Special Attacks",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Chill, frostbite, spell-like of cold damage with a successful abilities melee attack.",
+        "name":  "Special Attacks",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +12, healed by any means. The save Con centration +13, DC is Constitution-based. Diplomacy +16, Dis- Spell-Like Abilities: At guise +2 (+4 acting), will—endure elements, invisibil- Escape Artist +13, Intimi- ity (self only); 3/day—cone of cold date +14, Listen +12, Move (DC 17), ice storm; 1/day—create Silently +12, Sense Motive +12, food and water, gaseous form (up Spellcraft +12, Spot +12, Use to 1 hour), major creation (created Rope +3 (+5 with bindings) vegetable matter is permanent),",
+        "name":  "Skills",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Solitary, pair, company like the spider climb spell but applies to all (3–4), or band (6–15) icy surfaces. A qorrashi can move normally on",
+        "name":  "Organization",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Always lawful neutral reincarnated, or resurrected (though a limited wish, Illus. by D. Crabapple Frostfell ghost 132 6 RETPAHC EHT FO SRETSNOM LLEFTSORF wish,miracle, or true resurrection spell can restore life). It has Full Attack: Frigid touch +3 melee (2d6 frostburn) or ethe- darkvision out to 60 feet. real dagger +0 melee (1d4–1/19–20) Plane Shift (Sp): Like other genies, a qorrashi can enter Space/Reach: 5 ft./5 ft. any of the elemental planes, the Astral Plane, or the Mate- Special Attacks: Frigid touch, horrifi c appearance, mani- rial Plane. This ability transports the qorrashi and up to six festation, spells other creatures, provided they all link hands with the genie. Special Qualities: +4 turn resistance, darkvision 60 ft., immu- It is otherwise similar to the spell of the same name. nity to cold, incorporeal traits, rejuvenation, undead traits Telepathy (Su): A qorrashi can communicate telepathi- Saves: Fort +1, Ref +3, Will +3 cally with any creature within 100 feet that has a language. Abilities: Str 8, Dex 14, Con —, Int 12, Wis 10, Cha 19",
+        "name":  "Alignment",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Combat Casting, Improved Initiative, Scribe Scroll in the frostfell, particularly those slain by supernatural Environment: Any cold phenomena such as blood snow, lightning pillars, or the Organization: Solitary terrible storm known as the Howl of the North. Frost- Challenge Rating: 5 fell ghosts are much like ghosts elsewhere (see Treasure: None Ghost, page 116 of the Monster Manual), but they Alignment: Any often possess unusual abilities not commonly Level Adjustment: +5 encountered in ghosts elsewhere. A frostfell ghost usually resembles a frozen This creature appears to be a human version of the form it possessed in life, its wearing snow-covered furs over a tattered robe. Its skin is pale and body covered in frost, snow, and chunks of covered in a layer of frost, and its ice. Limbs may appear to be broken, the face is lined with rivulets of frozen skin covered in bruises, blood oozing from blood and covered in dark bruises. the nostrils—whatever conditions existed at The image is hazy and translucent, the time of the creature’s death. suggesting something not natural. A frostfell ghost cannot leave the site of its demise, refusing to travel on- Combat ward into the afterlife. Some remain This ghost attacks with its hor- in the material world to prevent others rifi c appearance and frigid from suffering the doom that overtook touch attacks fi rst, turning to them, appearing to warn travelers of its spells only if its opponents the perils ahead. However, most seem to have the upper hand. frostfell ghosts are driven to take Frigid Touch (Su): This from the living the warmth and ghost deals 2d6 points of life that they lack, while others, frostburn damage with a driven into madness by the touch attack. transition to undeath, spite- Horrific Appearance fully seek to lure travelers (Su): Any living creature into the same death that within 60 feet who views befell them. this ghost must succeed on a DC 15 Fortitude save or SAMPLE FROSTFELL immediately take 1d4 points GHOST of Strength damage, 1d4 points This example ghost uses a 3rd-level of Dexterity damage, and 1d4 points of human sorcerer as the base creature. Constitution damage. A creature that success- fully saves against this effect cannot be affected by Ghost 3rd-level Human Sorcerer this ghost’s horrifi c appearance for 24 hours. Medium Undead (Incorporeal) Manifestation (Su): A ghost dwells on the Ethereal Plane",
+        "name":  "Ghosts are the spectral remains of intelligent beings killed Feats",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Standard Special Attacks: Rock throwing, spell-like abilities",
+        "name":  "Treasure",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Fort +3, Ref +3, Will +9 bonus to AC. Abilities: Str 20, Dex 11, Con —, Int 11, Wis 14, Cha 12 Toads also have improved grab with their bite attacks. Skills: Concentration +14, Hide +13, Move Silently +13, To use this ability, the ice toad must hit with its bite Spot +15 attack, either after dragging an opponent to its mouth Feats: Cleave, Power Attack, Silent Spell, Toughness or simply as a normal melee attack. If it gets a hold, it can Environment: Cold mountains swallow whole. Organization: Solitary, pair, or tomb (3–8) Sphere of Cold (Su): As a standard action, an ice toad can Challenge Rating: 6 exude a sphere of numbing cold in a 10-foot radius from its Treasure: Standard body. Creatures within this radius take 3d6 points of cold Alignment: Usually neutral evil damage (Fortitude DC 15 half). The save DC is Constitution- Advancement: 11–20 HD (Medium) based. An ice toad can activate this sphere of cold every Level Adjustment: — other round, starting in the fi rst round of combat. Illus. by M. Cotie Icegaunt 142 6 RETPAHC EHT FO SRETSNOM LLEFTSORF COMBAT In combat, icegaunts prefer to attack by surprise, lurching up from shallow pits dug in snow or ice, or appearing out of a summoned storm of obscuring snow. Like mummies, they are intelligent and fear fi re. Constitution Drain (Su): Living creatures hit by an icegaunt’s slam attack must succeed on a DC 16 Fortitude save or take 1d4 points of Constitution drain. The save DC is Charisma-based.On each successful drain, the icegaunt gains 5 temporary hit points. Temporary hit points gained in this manner last for up to 1 hour. Create Spawn (Su): Any humanoid slain by an ice- gaunt rises as an icegaunt at the next midnight. Spawn are under the command of the icegaunt that created them and remain enslaved until its death. They do not possess any of the abilities they had in life. Frost Touch (Su): An icegaunt deals an extra 1d6 points of cold damage with each successful slam attack.",
+        "name":  "The target is considered grappled, and loses any Dexterity Saves",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Icegaunts cast spells as 5th-level druids. They can never prepare or cast fi re spells.",
+        "name":  "Spells",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "An icegaunt is immune to mind- affecting spells and abilities, poison, sleep effects, paralysis, stunning, disease, death effects, and any effect that requires a Fortitude save unless it also works on objects or is harmless. It is not subject to extra damage from critical hits, nonlethal damage, ability damage to its This aged human has deeply tanned skin furrowed by count- physical ability scores, ability drain, energy drain, fatigue, less wrinkles. He wears weather-beaten furs, and his eyes are exhaustion, or death from massive damage. It cannot be dark and cold. raised, and resurrection works only if it is willing. It has darkvision out to 60 feet. Over long winters or on high mountain peaks, human remains become freeze-dried husks with perfectly pre- MALASYNEP served hair, clothes, and skin, but without any liquid remaining in their fl esh. When animated, these corpses Huge Aberration (Aquatic, Cold) become icegaunts, intelligent undead tied to alpine glaciers Hit Dice: 8d8+35 (71 hp) and vast polar ice caps. Initiative: +2",
+        "name":  "Undead Traits",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A malasynep has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line. Illus. by S. Belledin Marzanna 144 6 RETPAHC EHT FO SRETSNOM LLEFTSORF Combat MALASYNEP MINDMAGE This malasynep mindmage possesses all the abilities of the Malasynep 6th-Level Sorcerer malasynep (see above), but also casts spells as a 6th-level Huge Aberration (Aquatic, Cold) sorcerer.",
+        "name":  "Skills",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "8d8+51 plus 6d4+36 (138 hp) Typical Sorcerer Spells Known (6/8/7/4 per day; caster level",
+        "name":  "Hit Dice",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bite +15 melee (2d6+8) and slam +10 melee *New spell described in Chapter 5. (1d6+4) Space/Reach: 15 ft./10 ft. MARZANNA",
+        "name":  "Full Attack",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Improved grab, psi-like abilities, spells, swallow whole Medium Monstrous Humanoid (Cold)",
+        "name":  "Special Attacks",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration +17, Intimidate +17, Knowl- Base Attack/Grapple: +8/+13 edge (arcana) +12, Knowledge (any Attack: Claw +13 melee (1d6+5) one) +14, Listen +17, Spellcraft +12, Full Attack: 2 claws +13 melee Spot +17, Swim +16 (1d6+5)",
+        "name":  "Skills",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Combat Casting, Empower Spell, Space/Reach: 5 ft./5 ft.",
+        "name":  "Feats",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Dreadful eye, Toughness rend 2d6+7, spell-like abilities",
+        "name":  "Great Fortitude, Lightning Refl exes, Special Attacks",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Cold Special Qualities: Darkvision 90 aquatic ft., immunity to cold, spell resis-",
+        "name":  "Environment",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Frost touch, rimefire bolt, spell-like physical vestiges of an ancient deity, they carry about abilities them an almost palpable aura of sadness and anger. The",
+        "name":  "Special Attacks",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +21, Concentration +18, Diplomacy +25, Dis- these icebergs serve as excellent protection against min- guise +6 (+8 acting), Intimidate +8, Knowledge (nature) ions of Iborighu, who to this day seek to track down and +17, Knowledge (religion) +17, Listen +18, Sense Motive destroy rimefi re eidolons. +18, Spot +18, Survival +3 (+5 in aboveground natural A rimefi re eidolon uses its spell-like abilities to carve environments) complex networks of tunnels and chambers within one",
+        "name":  "Skills",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Absorb cold, damage reduction 15/epic, A shivhad has an uncanny knowledge of languages and darkvision 60 ft., glacier bond, immunity to cold, spell can speak all the tongues native to its area. A shivhad that resistance 34, vulnerability to fi re acquires additional languages speaks them perfectly, with-",
+        "name":  "Special Qualities",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Poison, spell-like abilities their regeneration to recover, while their intended prey",
+        "name":  "Special Attacks",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A snow spider is immune to all mind- Advancement: 3 HD (Medium); 4–6 HD (Large) affecting spells and abilities (charms, compulsions, Level Adjustment: — phantasms, patterns, and morale effects). It also has dark- vision out to 60 feet. Silent and intelligent, this ghostly wolf seems to glow with an",
+        "name":  "Vermin Traits",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Against ethereal creatures, a spirit animal uses to be. the base creature’s damage. Against nonethereal creatures, Manifestation (Su): A spirit animal dwells on the Ethereal a manifested spirit animal’s attacks use the base creature’s Plane. As an ethereal creature, it cannot affect or be affected damage, but all damage dealt is nonlethal (and no Strength by anything in the material world. When a spirit animal modifi er is applied to the damage). manifests (usually at the request of a powerful spellcaster), xoC .E yb .sullI Tlalusk 157 FROSTFELL MONSTERS OF THE CHAPTER 6 it partly enters the Material Plane and becomes visible but Treasure: None incorporeal on the Material Plane. Alignment: Usually neutral",
+        "name":  "Damage",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Darkvision 60 ft., fast healing 5, immunity to cold, low-light vision, scent, spell resistance 20, vulnerability to fi re",
+        "name":  "Special Qualities",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Frosty touch, spell-like abilities —–2 Strength, +2 Constitution, +2 Wisdom.",
+        "name":  "Special Attacks",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Fort +8, Ref +8, Will +9 sight spell.",
+        "name":  "Saves",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Lose the coming lost. The character cannot way, paralyzing glance, even fi nd her way out of a clos- spell-like abilities et without assistance, though",
+        "name":  "Special Attacks",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +15, Diplomacy those merely looking at her are not af- +6, Disguise +4 (+6 acting), fected. Anyone the yuki-on-na targets Hide +12, Intimidate +15, must succeed on a DC 18 Will save or be Listen +15, Move Silently affected as though by a hold monster spell cast +12, Perform (dance) +15, by an 8th-level sorcerer. The ability has a range Spot +15 of 30 feet. The save DC is Charisma-based.",
+        "name":  "Skills",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Alertness, Improved Spell-Like Abilities: At will—disguise Initiative self, comprehend languages, detect thoughts",
+        "name":  "Feats",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "CR 6; Large outsider (chaotic, extra- rounds directing imaginary simulacra to attack them before planar, evil, tanar’ri); HD 5d8+35; hp 57; Init +2; Spd 30 ft., fl y he himself charges in to join the battle. A quick-witted party 50 ft. (average); AC 22, touch 11, fl at-footed 20; Base Atk +5; Grp might be able to distract or even calm the insane simula- +15; Atk +10 melee (2d6+6, claw); Full Atk +10 melee (2d6+6, crum enough to avoid a battle (requiring a Diplomacy check 2 claws) and +8 melee (1d8+3, bite) and +8 melee (1d6+3, 2 to adjust its attitude from hostile to at least indifferent). talons); SA spell-like abilities (caster level 6th), spores, stun- Even if they do calm the creature, it is hopelessly mad and ning screech (DC 19), summon tanar’ri; SQ damage reduction has little to say. You can use conversations with the beast to 10/good, darkvision 60 ft., immunity to electricity and poison, provide the PCs with a fragmentary history of the Iceforge, resistance to acid 10, cold 10, and fi re 10, spell resistance 17, if you wish. As a simulacrum, the dragon turns into snow telepathy 100 ft.; AL CE; SV Fort +11, Ref +6, Will +7; Str 23, if slain. Dex 15, Con 25, Int 14, Wis 16, Cha 16. Near the southern wall is a long-dead corpse of a horribly",
+        "name":  "Simulacrum Vrock",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Uzradin is immune to mind-affecting 29 half. effects, poison, sleep effects, paralysis, stunning, disease, Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- death effects, and any effect that requires a Fortitude save nents take 2d8+13 points of bludgeoning damage and must unless it also works on objects or is harmless. He is not sub- succeed on a DC 29 Refl ex save or be pinned. ject to extra damage from critical hits, nonlethal damage, Freezing Fog (Sp): 3/day; as solid fog cast by an 8th-level ability damage to his physical ability scores, ability drain, caster except that slippery ice forms in the cloud, creating a energy drain, fatigue, exhaustion, or death from massive grease effect (DC 23 Refl ex save to avoid falling). damage. He cannot be raised, and resurrection works only if Frightful Presence (Ex): 240-ft. radius, HD 23 or fewer, Uzradin is willing. He has darkvision out to 60 feet. Will DC 23 negates. Spell-Like Abilities: 3/day—gust of wind (DC 13); 1/day— 11. Anoxiel’s Lair (EL 15) fog cloud. Caster level 8th.",
+        "name":  "Undead Traits",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "If Irius is brought below 20 hit palms upon the icy surface of the table can shape the ice (as points, a dimension door spell activates on her. if using an ice shape spell) to make highly detailed images and",
+        "name":  "Contingency Effect",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Male qorrashi genie sorcerer 6; CR 12; Large outsider (cold, extraplanar, lawful); HD 7d8+28 plus 6d4+24; hp 98; Init +9; Spd 30 ft., fly 60 ft. (perfect); AC 23, touch 16, flat-footed 18; Base Atk +10; Grp +18; Atk +13 melee(1d8+4 plus 1d6 cold, slam); Full Atk +13 melee (1d8+4 plus 1d6 cold, 2 slams); Space/Reach 10 ft./10 ft.; SA chill, frostbite, spell-like abilities; SQ darkvision 60 ft., icewalking, immunity to cold, lawful subtype, outsider traits, plane shift, telepathy, vulnerability to cold; AL CN; SV Fort +11, Ref +12, Will +13; Str 18, Dex 21, Con 18, Int 18, Wis 16, Cha 21.",
+        "name":  "Jusii",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Appraise +4 (+6 when appraising calligraphy, paintings, or sculpture), Bluff +15, Concentration +14, Craft (calligraphy) +13, Craft (painting) +13, Craft (sculpting) +13, Diplomacy +19, Escape Artist +15, Hide +1, Intimidate +17, Knowledge (arcana) +13, Knowledge (nature) +9, Listen +13, Move Silently +15, Search +9, Sense Motive +13, Spellcraft +16, Spot +13; Combat Reflexes, Dodge, Empower Spell-Like Ability (cone of cold), Heighten Spell, Improved Initiative.",
+        "name":  "Skills and Feats",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Auran, Celestial, Common, Draconic, Giant, Ignan. Chill (Ex): In addition to his normal slam damage; Jusii deals an extra 1d6 points of cold damage with a successful melee attack. Frostbite (Ex): A creature that sustains any cold damage from Jusii\u0027s melee attacks must make a DC 17 Fortitude save or become frostbitten. Creatures suffering from frostbite are fatigued (cannot run or charge; -2 penalty to Strength and Dexterity). These penalties end when the cold damage is healed by any means. Spell-Like Abilities: At will -- endure elements, invisibility (self only); 3/day -- cone of cold (DC 20), ice storm; l/day -- create food and water, gaseous form (up to 1 hour), major creation (created vegetable matter is permanent), persistent image (DC 20), wind walk. Caster level 14th. Icewalking (Ex): This ability works like the spider climb spell but applies to all icy surfaces. Jusii can move normally on any icy surface.",
+        "name":  "Languages",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Any effect that depends on alignment affects Jusii as if he has a lawful alignment, despite his neutral alignment. Plane Shift (Sp): Jusii can enter any of the elemental planes, the Astral Plane, or the Material Plane. This ability transports him and up to six other creatures, provided they all link hands with Jusii. It is otherwise similar to the spell of the same name. Telepathy (Su): Jusii can communicate telepathically with any creature within 100 feet that has a language.",
+        "name":  "Lawful Subtype",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As repulsive, but the creature’s wounds blackguard levels (the character does not have to con- are the stuff of nightmares: people who have had their vert any eidolon levels if she doesn’t want to). This brains extracted by a mind flayer, who have been tor- allows, for example, a Sor4/Eidolon3 who is raised to tured to death by malevolent sadists, who died from instantly become a Sor5/Eidolon2, Sor6/Eidolon1, or aggressive diseases such as mummy rot, or who were a Sor7. When this occurs, all class abilities from the the targets of an implosionspell. Such ghosts are often converted eidolon levels are lost, and the character mistaken for incorporeal undead and usually travel in gains that many levels in another class. These levels do disguise to avoid being attacked on sight. NPCs inter- not revert back to eidolon levels if the character acting with a character in this category can never start becomes a ghost again; the character has sacrificed the with an attitude better than Unfriendly. Gruesome eidolon levels to advance in another area of study. The characters take a –10 penalty on Bluff, Diplomacy, life epiphany allows a character to balance her eidolon Gather Information, Perform, and Charisma checks to levels with her other class levels in order to stave off influence NPC attitudes. They gain a +10 bonus on the Calling. Of course, if the character chooses to keep Intimidate checks. any ghost levels, some of her ghost abilities acquired from feats may be useless while she is alive. ADVENTURING AND GHOST LEVELS Because of the potential for a life epiphany, a char- A creature that is a ghost can adventure and acquire acter who gains levels in the eidolon class should keep experience points just like any living character. How- track of hit points, skill ranks, base attack bonuses, ever, a ghost can only gain levels in the eidolon or saving throw bonuses, and feats acquired on a level-by- eidoloncer class (described later in this chapter). This level basis. Doing this makes it easier to remove the means that adventuring ghosts develop their super- eidolon levels (and the benefits of those levels) and natural abilities rather than their spellcasting, fight- reconfigure the character with levels in another char- ing, or any other class abilities from standard classes. A acter class. character who advances too far in the eidolon class For example, Valarn (a Sor4/Eidolon3) is raised risks succumbing to the Calling (see below). from the dead and decides to convert two levels of For the purpose of character advancement in the eidolon to levels of sorcerer. When he acquired those Ghostwalkcampaign, characters should not gain levels two eidolon levels (2nd and 3rd class levels), he during the course of an adventure until they have gained 2 ranks in Concentration and Intimidate, the 12 :1 RETPAHC TUOBA LLA STSOHG 620_88566_Ghostwalk3.qxd 4/3/03 4:33 PM Page 12 pqqqqrs",
+        "name":  "Gruesome",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Although possessing amazing abil- class can gain levels in a normal class. The eidolon class ities, an eidolon must sometimes rely upon the skills allows most characters willing to dabble in ghost of others. Eidolons are decent fighters, but lack the powers to do so, while still advancing their base attack specific training of a fighter. Their spellcasting ability bonus and providing a reasonable selection of skills. does not improve after death, so a live spellcaster of However, spellcasters are hurt the most by advancing equal experience is usually their better. While an as eidolons, and players of these characters may eidolon might be sneaky when incorporeal, a mani- become frustrated by the stifled spell progression. For fested eidolon is no match for the quiet and skill of a these characters, the optional eidoloncer class is a true rogue. much better option. An eidoloncer follows all the same rules as an eido-",
+        "name":  "Other Classes",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Most eidoloncers enjoy being following certain paths. ghosts as another aspect of existence and Other Classes: Eidoloncers tend to pursue the same interests and studies fulfill the same roles as whatever they had when alive. Others become spellcasting class they are advanc- eidoloncers only temporarily, for the ing while ghosts. same reason people advance as eidolons.",
+        "name":  "Adventures",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Eidoloncers are Game Rule Information poor fighters and have few skills. Their Eidoloncers have the following game greatest gift is to advance their spell- statistics. casting ability, although they gain a few Abilities: An eidoloncer’s most ghost feats as well. important ability scores depend",
+        "name":  "Characteristics",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Eidoloncers may be of upon what spellcasting class the any alignment and have the same eidoloncer is practicing. habits and morals as their living Alignment:Any. counterparts and other characters Hit Die:d6. of their spellcasting class.",
+        "name":  "Alignment",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Eidoloncers follow the Class Skills same religious habits as their living The eidoloncer’s class skills spellcaster counterparts. (and the key ability for",
+        "name":  "Religion",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "All eidoloncers origi- each skill) are Concentra- nate in the same manner: A person tion (Con), Knowledge spends enough time as a ghost and even- (arcana) (Int), Knowl- tually gains levels in the eidoloncer class. edge (nature) (Int), Knowl- Eidoloncers are part of the same commu- edge (the planes) (Int), nity as eidolons and make friends in that Knowledge (religion) (Int), community for the same reasons Scry (Int), and Spellcraft (Int). eidolons do.",
+        "name":  "Background",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "d8. by a vampire and decides to use her undead channel ability to absorb the creature’s energy drain attack. She Requirements later slays the vampire and hunts down Tellon the To qualify to become a Deathwarden chanter, a char- enchanter, with whom she has an old grudge. Finding acter must fulfill the following criteria. him, she activates the latent energy drain within her Race:Dwarf. and makes a successful touch attack. Tellon immedi- Alignment:Any lawful. ately gains two negative levels, just as if the vampire Base Attack Bonus:+4. had struck him personally. Skills: Concentration 5 ranks, Knowledge (ghost lore) 3 ranks, Knowledge (the planes) 3 ranks, Knowl- Bone Collector Spell List edge (religion) 5 ranks, Perform (sing).",
+        "name":  "For example, Shelda the bone collector is attacked Hit Die",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Alertness plus either Ghost Fighting or Incorporeal Spell Targeting.",
+        "name":  "Feats",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can make a touch attack that deals 1d4 You may not possess corporeal undead with this abil- points of temporary ability damage to the selected abil- ity. You use the corpse’s physical ability scores, modi- ity score of a target. When you are manifested fully or fied as follows: Str –2, Dex –4, Con — (the corpse has attacking incorporeal opponents, you add your no Constitution score). The corpse does not get a Strength modifier to attack rolls. When you are incor- saving throw to resist your possession attempt unless poreal, you add your Dexterity modifier to attack rolls. it is being held by another creature. You are still sub- If the attack scores a critical hit, the damage is doubled ject to the time limit of the Ghost Ride feat. (ghosts are not subject to critical hits). Only one kind Possessing a corpse allows you to use its natural abil- of damage or effect from the path of the corrupter ities, but not any other abilities it had in life that applies from each attack. You may use this attack once required special knowledge or skill, including feats, per day per character level. skills, spells, or extraordinary, spell-like, or supernatu- You do not have to use this ability when you touch ral abilities. The body gains no benefit from any of its another creature, and creatures that touch you do not character levels (so possessing a human corpse results take this ability damage. in a body with 1 Hit Die). It has hit points equal to the",
+        "name":  "Benefit",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Divine spellcaster with Galaedros as a good alignment. patron deity. Benefit: Add a +1 bonus to the DC for all sorcerer",
+        "name":  "Prerequisite",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "All Knowledge skills are class skills for you. spell dimension door. You get a +1 bonus on all skill checks with any two Knowledge skills of your choosing. Expanded Possession[Ghost, Dominator]",
+        "name":  "Benefit",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can make a touch attack that bestows one negative level upon a creature. When you are manifested fully or attack- ing incorporeal opponents, you add your Strength modifier to attack rolls. When you are incorporeal, you add your Dex- terity modifier to attack rolls. If the attack scores a critical hit, the number of negative levels is doubled (ghosts are not subject to critical hits). Bestowing nega- tive levels does not heal you. Only one kind of damage or effect from the path of the corrupter applies from each attack. Negative levels remain until 24 hours have passed or until removed with a spell such as restoration.At that time, the afflicted opponent must attempt a Fortitude save (DC 10 + 1/2 your HD + your Cha modi- fier). On a success, the negative level goes away with no harm to the creature. On a failure, the negative level goes away, but the creature’s level is also reduced by one. A separate saving throw is required for each negative level. 31 GHOSTS ALL ABOUT CHAPTER 1: 620_88566_Ghostwalk3.qxd 4/4/03 8:25 AM Page 31 use Ghost Ride on humanoids or giants. Choosing a Special:You can take this feat multiple times, gain- creature type that is not affected by mind-affecting ing two additional regular wild shapes and one addi- abilities (such as constructs, oozes, and undead) has tional elemental wild shape (if you have this no effect. capability) each time.",
+        "name":  "Benefit",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spellcaster level 4th. Improved Critical feat.",
+        "name":  "Prerequisite",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can gain this feat multiple times. Each bull rush against that opponent as if you had not used time, you gain an extra spell slot at one level lower your melee attack to hit the opponent with your staff. than the highest-level spell you can cast. If you have multiple attacks, you may attack before This feat first appeared in Tome and Blood. and after the bull rush, as long as you did not move more than 5 feet. If you move more than 5 feet in a Extra Wild Shape [General] round, you cannot follow up an attack with a bull rush You can use wild shape more frequently than you nor- in this manner. mally could. For example, Jelana of Kreel is an 8th-level monk",
+        "name":  "Special",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can exert force upon an unattended Frightful Presence [Ghost, Haunt] object as if using the mage hand spell, except that the Your very presence can cause others to be stricken range of this ability is touch, and it does not require with fear. concentration. You can hold or move only one",
+        "name":  "Benefit",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "When you turn or rebuke undead, you may Benefit: Your ghost fly speed increases by 10 feet, choose a number no higher than your cleric level. Add and you can use the run action when you fly. 35 GHOSTS ALL ABOUT CHAPTER 1: 620_88566_Ghostwalk3.qxd 4/4/03 8:26 AM Page 35 Improved Poltergeist Hand [Ghost, Poltergeist] Incorporeal Spell Targeting [General] You can move a large object at a distance when you are You know how to cast your spells so they’re more a ghost. likely to affect incorporeal creatures.",
+        "name":  "Benefit",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ghost Hand, Poltergeist Hand, Benefit: Every time a spell, spell-like ability, or Cha 13. supernatural ability fails to affect an incorporeal crea-",
+        "name":  "Prerequisites",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As the Ghost Ride feat, except that you do 13. control the host. A creature that saves against this abil- Benefit: You can move creatures or objects as if ity is immune to your attempts to use any feat on the using the violent thrust version of the telekinesisspell. path of the dominator for one day. Each time you use Your caster level is equal to your Hit Dice. A creature this ability, you deal 2 points of Charisma damage to can resist being thrown with a successful Will saving yourself. throw (DC 10 + 1/2 your HD + your Cha modifier). Each time you use this ability, you deal 2 points of Natural Spell [General] Charisma damage to yourself. You can cast spells while in wild shape or shifted form.",
+        "name":  "Benefit",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You gain a +4 bonus on all saving throws against ghost powers. 37 GHOSTS ALL ABOUT CHAPTER 1: 620_88566_Ghostwalk3.qxd 4/4/03 8:26 AM Page 37 Saddleback [Fighter, General] Benefit: For the purpose of determining bonus You were raised among people who are as comfortable spells and the save DCs of spells you cast as a sorcerer, riding as walking. treat your Charisma as 2 points higher than its actual",
+        "name":  "Benefit",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "If used successfully on a ghost, this spell D\u0026D rules work differently in the Ghostwalk cam- sends it to the True Afterlife. paign setting. Etherealness:This spell can be used to reach the True Afterlife, but none who have done so have returned.",
+        "name":  "The nature of ghosts means that some aspects of the Dismissal",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This spell can be used to reach the True Some of the standard classes have additional fea- Afterlife, but none who have done so have tures, as follows. returned.",
+        "name":  "CLASSES Gate",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Knowledge (ghost lore) is a class skill. Greater Planar Binding:This spell and other spells",
+        "name":  "Bard",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A druid who is a ghost can use wild regardless of what plane the ghost is on. shape to take the form of an animal or an ele- Gentle Repose: A gentle repose spell used on the mental. A druid’s animal form has the ghost tem- remains of a slain ghost preserves it as if it were a plate, but an elemental form does not. normal corpse. Its ectoplasm does not decay into",
+        "name":  "Druid",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Rangers may select ghost as a subtype nothingness as long as the spell is in effect. The of outsider for their favored enemy. They may spell can also be used to preserve an object made also select yuan-ti as a favored enemy, with their of ectoplasm, affecting a single target of up to 50 bonus applying to yuan-ti of all kinds. pounds in weight.",
+        "name":  "Ranger",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ghost is an acceptable creature type for Major Creation:Ectoplasm counts as vegetable matter this spell. for the purpose of this spell.",
+        "name":  "Antipathy",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A living creature can use this spell to Make Whole: This spell can keep an ectoplasmic appear as a semitransparent ghost. A ghost can use this object from decaying for 1 hour. spell to appear as a normal living creature. Mending:This spell can keep an ectoplasmic object",
+        "name":  "Change Self",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This spell can create a clone of a ghost, but if from decaying for 1 minute. the original is still alive (whether as a ghost or a living Minor Creation: Ectoplasm counts as vegetable creature), the clone is merely ectoplasm that fades matter for the purpose of this spell. after 10 minutes unless preserved. Passwall:This spell can create a passage through an",
+        "name":  "Clone",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This spell can be used to create ectoplasmic barrier. ectoplasm instead of food. It creates 1 cubic foot of ec- Permanency: Several spells in this book are affected toplasm per level of the cleric. One cubic foot of ecto- by the permanencyspell. plasm weighs approximately 100 pounds. The following spell can be made permanent on the",
+        "name":  "Create Food and Water",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "If this spell is cast on the body of a creature that is a ghost, the ghost has no special aware- Minimum ness of the violation of its body. If the undead creature Spell Level XP Cost is destroyed, the remains may still be used as the Detect ghost 9th 500 XP ghost’s body when being restored to life.",
+        "name":  "Create Undead",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Although this spell draws on the ebbing The following spells can be made permanent on the life force of a creature, it does not prevent the creature caster, another creature, or an object (as appropriate). 40 :1 RETPAHC TUOBA LLA STSOHG 620_88566_Ghostwalk3.qxd 4/4/03 8:27 AM Page 40",
+        "name":  "Death Knell",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This spell may be cast upon a newly Ghost companion 11th 1,500 XP formed ghost as long as it has spent no more than 1 Iron bones 12th 2,000 XP round per caster level on the Material Plane (time Pleasant visage 9th 500 XP spent in transition on the Ethereal Plane does not Stone bones 10th 1,000 XP Undead torch 11th 1,500 XP count toward this time limit).",
+        "name":  "Spell Level XP Cost Soul Bind",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This spell does not work on living The following spells can be made permanent on areas. ghosts, but works normally if cast upon a slain ghost’s ectoplasmic remains.",
+        "name":  "Speak with Dead",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This spell can be used to reach the True Bag of Holding:Because it does not need to breathe or Afterlife, but none who have done so have returned. eat, a ghost can live indefinitely within the nondi-",
+        "name":  "Plane Shift",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The people of Tereppek have Body Housing:This is the cost for a ghost to have her developed a method of making paper from vegetable dead body kept cold in storage so that it does not decay pulp, which is cheaper and faster than the cloth-fiber and she can be raised later. It does not include the use of paper created elsewhere. A single piece of paper is a gentle reposespell; any church charges 60 gp for such, about four times the size of a single page from a and it lasts only three days, but it does not require the spellbook. body to remain undisturbed in a cold basement.",
+        "name":  "Tereppekian Paper",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Incorporeal creature mani- fests fully. 0-Level Bard Spell",
+        "name":  "BARD SPELLS Forced Manifestation",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Reveals ghosts within 60 ft. CLERIC SPELLS 1st-Level Bard Spells 0-Level Cleric Spells (Orisons)",
+        "name":  "Detect Ghost",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Makes gruesome ghost appear normal and unwounded. 1st-Level Cleric Spells",
+        "name":  "Pleasant Visage",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Warded creature can- Create Ectoplasm:Create 1 lb./level of raw ectoplasm. not be possessed or mentally controlled. Painless Death: Willing creature dies instantly and painlessly. 2nd-Level Bard Spells Pleasant Visage. Makes gruesome ghost appear normal",
+        "name":  "Protection from Possession",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sonic energy harms an incorporeal creature. 2nd-Level Cleric Spells",
+        "name":  "Incorporeal Disharmonics",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As glyph of warding, except chan- 5 Contingent Spell Lock: You store prepared spells or neling positive or negative energy. slots to use immediately if you become a ghost.",
+        "name":  "Glyph of Turning",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As hold person,but also affect- 6 Undeath to Death:As circle of death,but affecting only ing ghosts. undead. 7 Repel Ectoplasm: As repel wood, but affecting only 4th-Level Cleric Spells ectoplasm.",
+        "name":  "Hold Person or Ghost",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Forces possessing creature out of its host body. Repose Domain Spells 1 Deathwatch: See how near death subjects within 6th-Level Cleric Spells 30 ft. are.",
+        "name":  "Dispel Possession",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You store prepared spells or 2 Gentle Repose: Preserves one corpse or keeps slots to use immediately if you become a ghost. ectoplasm from dissolving.",
+        "name":  "Contingent Spell Lock",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As circle of death,but affecting only 3 Speak with Dead: Corpse answers one question/ undead. two levels. 4 Death Ward:Grants immunity to death spells and 8th-Level Cleric Spell effects.",
+        "name":  "Undeath to Death",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As locate creature,but 1 hour/level.",
+        "name":  "DRUID SPELLS I Smell Your Fear",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As camouflage, but affects all in 0-Level Druid Spell range.",
+        "name":  "Mass Camouflage",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Reveals ghosts within 60 ft. 1st-Level Druid Spell",
+        "name":  "Detect Ghost",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+10 bonus on Hide checks. 2nd-Level Druid Spell",
+        "name":  "Camouflage",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Animal companion, familiar, or special mount temporarily becomes a ghost. 3rd-Level Druid Spell",
+        "name":  "Ghost Companion",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As poison,except affecting ectoplasm. 47 GHOSTS ALL ABOUT CHAPTER 1: 620_88566_Ghostwalk3.qxd 4/4/03 8:48 AM Page 47 SORCERER/WIZARD SPELLS 3rd-Level Sorcerer/Wizard Spells",
+        "name":  "Ghost Venom",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Delays creature from 0-Level Sorcerer/Wizard Spells (Cantrips) manifesting as a ghost if killed.",
+        "name":  "Abjur Delay Manifestation",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Prevents ectoplasm from for you. fading away. Wall of Ectoplasm:Creates plane or hemisphere of ectoplasm. 1st-Level Sorcerer/Wizard Spells Ench Persuade to Manifest: Target dead creature gains",
+        "name":  "Trans Preserve Ectoplasm",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Incorporeal creature 2nd-Level Sorcerer/Wizard Spells manifests fully.",
+        "name":  "Forced Manifestation",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As alarm,but sensing only the Ethereal Plane. 4th-Level Sorcerer/Wizard Spells",
+        "name":  "Abjur Ethereal Alarm",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Summons undead to This spell causes the target to assume some of the qual- fight for you. ities of the yuan-ti tainted one template, which pro- vides several benefits. First, the target gains the 6th-Level Sorcerer/Wizard Spells Alertness feat. Second, the target’s Constitution score Abjur Anti-Ectoplasm Shell: As antilife shell, but increases by 2. Third, the target becomes completely affecting ectoplasm. immune to snake venom and yuan-ti poison. The",
+        "name":  "Conj Summon Undead V",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As dominate per- sidered a yuan-ti for the purposes of all spells and son,but also affecting ghosts. effects (such as being subject to a ranger’s favored",
+        "name":  "Ench Dominate Person or Ghost",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You store prepared This spell was created by the yuan-ti to temporarily spells or slots to use immediately if you be- bolster their ranks with followers in a short period come a ghost. of time. Most other clerics would never consider cast-",
+        "name":  "Trans Contingent Spell Lock",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Allows unborn child ing this spell. The spell is normally used on willing to select special sorcerer or monk feat. victims, since it grants the caster no control over the target.",
+        "name":  "Sherem Transformation",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A few drops of the mixture that The spells herein are presented in alphabetical order. yuan-ti use to create tainted ones, which the target of the spell must swallow. Anti-Ectoplasm Shell Abjuration [Ectomancy] Bonerattle",
+        "name":  "SPELL DESCRIPTIONS Material Component",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Clr 2 Spell Resistance:Yes",
+        "name":  "Level",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 action This spell creates a deep resonating vibration that dam-",
+        "name":  "Casting Time",
+        "source":  "ghostwalk.txt",
+        "_id":  "c9b9f933eb4237bf5b1a9eda65a59b67c834dd67efb5f12318638e8f2fea9aa5"
+    }
+]

@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "other.json",
+        "description":  "1d8 (4 hp) Hit Dice: 10d12 (65 hp)",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+6 Initiative: +1",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 ft. Speed: 30 ft.",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— Special Qualities: Acid immunity, electricity resistance",
+        "name":  "Special Attacks",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Change self, halfling traits, outsider 15, fast healing 4, fire resistance 15, turn resistance +2, traits undead traits",
+        "name":  "Special Qualities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +3, Ref +5, Will +3 Saves: Fort +3, Ref +4, Will +9",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 8, Dex 14, Con 11, Int 13, Wis 11, Cha 10 Abilities: Str 16, Dex 13, Con —, Int 13, Wis 14, Cha 15",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bluff +4, Climb +5, Disguise + 4, Hide +10, Jump +5, Skills:Climb +16, Hide +14, Listen +14, Move Silently Listen +6, Move Silently +8, Search +5, Spot +4 +18, Search +8, Spot +14",
+        "name":  "Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary Climate/Terrain:Underground",
+        "name":  "Organization",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1/2 Organization:Solitary, pair, or gang (3–6)",
+        "name":  "Challenge Rating",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard Challenge Rating:7",
+        "name":  "Treasure",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually evil (any) Treasure:—",
+        "name":  "Alignment",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "By character class Alignment: Always chaotic evil",
+        "name":  "Advancement",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Rilmani are immune to electricity and rebuke, command, or bolster attempts. poison, and they have acid and sonic resistance 20.",
+        "name":  "Hit Dice than it actually has for the purposes of turn, Rilmani Traits",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "16d8+112 (184 hp) Combat",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+4 An aurumach rarely initiates combat, since it prefers to use",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "50 ft. physical confrontation as a last resort. When it does enter",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "36 (–1 size, +1 Dex, +12 +4 full plate,+14 natural), touch melee, it is a formidable foe that is capable of dealing great 10,flat-footed 35 damage with each deadly swing of its halberd. An aurumach Base Attack/Grapple:+16/+26 often flies above a foe and makes trip attempts, and it with-",
+        "name":  "AC",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Huge+3 halberd+25 melee holds the use of its antithesis ability and the full fury of its",
+        "name":  "Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Huge+3 halberd+25/+20/+15/+10 melee attacks until it becomes clear the foe won’t relent.",
+        "name":  "Full Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 23, Dex 19, Con 24,Int 23, Wis 24, Cha 26 alignment would take an extra 4d6 points of damage (2d6",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary or envoy (2–4) load of objects only);3/day—dismissal, fly, forbiddance, heal,",
+        "name":  "Organization",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "17 mind blank, prismatic spray, true seeing.Caster level 17th; save",
+        "name":  "Challenge Rating",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral Summon Rilmani(Sp): Once per day, an aurumach can",
+        "name":  "Alignment",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "17–32 HD (Large); 33–48 HD (Huge) automatically summon 2d4 ferrumachs or 1d2 cuprilachs",
+        "name":  "Advancement",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "12d8+60 (114 hp) vidual or small group, cuprilachs are sent in to take care of it.",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+7 Hairless like an aurumach, a cuprilach in its natural form",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "40 ft., climb 20 ft. looks like a lithe and somewhat gaunt person with copper",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "DR cuprilachs speak Abyssal, Celes- 20/+2, hide in plain sight, tial, and Infernal. outsider traits, rilmani traits, SR 25, summon Combat rilmani, trap sense, Cuprilachs vary what tac- uncanny dodge tics they use depending",
+        "name":  "Special Qualities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +13, Ref upon the nature and +15, Will +12 urgency of their mission.",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 19, Dex Most cuprilachs prefer 24, Con 20,Int 18, simple “seek and destroy” Wis 19, Cha 23 missions that allow",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "13–24 HD (Medium-size); 25–36 HD Summon Rilmani(Sp): Once per day, a cuprilach can (Large) summon 1d3 ferrumachs with a 75% chance of success",
+        "name":  "Advancement",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cuprilachs have a +8 racial bonus on Climb checks the ferrumachs form a phalanx of their own and make cer- and can always choose to take 10 on Climb checks, even if tain the war ends the way the rilmani want or that it contin- rushed or threatened. ues for as long as the aurumachs wish. In addition to Rilmani, Common, and Undercommon, FERRUMACH ferrumachs speak Sylvan. Medium-Size Outsider (Extraplanar)",
+        "name":  "Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "8d8+72 (108 hp) Combat",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1 Although the most martial and aggressive of the rilmani,",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "DR 10/+1, outsider traits, rilmani traits, that makes a successful saving throw against the effect SR 20 cannot be affected again by that ferrumach’s fear aura for",
+        "name":  "Special Qualities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 24, Dex 13, Con 28, Int 15, Wis 13, Cha 20 chooses are immune to its fear aura.",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Mounted Combat, Ride-By Attack, Spirited Charge summon 1d2 ferrumachs with a 35% chance of success Climate/Terrain:Any land or underground (Outlands) (result of 66–100 on d%). 143 RILMANI RUKANYR of spikes and jagged spines. The numerous smaller branches Large Aberration end in grasping claws. Three large, stalked maws filled with",
+        "name":  "Feats",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "7d8+49 (80 hp) teeth are arrayed at the thing’s base, amid a tangled mess of",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "–2 thick insectoid legs. One large, lidless black eye stares out",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "40 ft., climb 20 ft. from the thing’s “front” side.",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "22 (–1 size, –2 Dex, +15 natural), touch 7, flat-footed 22 It is thought that the kaortis created the first rukanyrs Base Attack/Grapple:+5/+14 by exposing monstrous scorpions to energy from the Far",
+        "name":  "AC",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam + 9 melee Realm. In fact, the kaortis were a bit too successful with",
+        "name":  "Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam 3d6+5, claw 1d6+2, bite 1d8+2 exist in natural settings makes it an ideal guard for the Face/Reach:10 ft./10 ft. regions surrounding a kaorti enclave, though; a concentra-",
+        "name":  "Damage",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Poison, stunning strike, sundering roar tion of rukanyrs almost always means that just such an",
+        "name":  "Special Attacks",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Darkvision 60 ft., fast healing 5, enclave is nearby. reflexive sunder, sonic immunity, stability Rukanyrs can speak Common.",
+        "name":  "Special Qualities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +9, Ref +0, Will +1",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 21, Dex 7, Con 24, Int 15, Wis 2, Cha 2 COMBAT",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Climb +23, Listen +6, Search +12, Spot +6 A rukanyr starts any combat with a sundering roar directed",
+        "name":  "Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Improved Sunder, Multiattack, Power Attack at the best-equipped of its enemies, then quickly wades into Climate/Terrain:Any land or underground the midst of melee and lashes out at any target within reach",
+        "name":  "Feats",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary, pair, or band (3–8) of its attacks.",
+        "name":  "Organization",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "9 Poison (Ex):A rukanyr delivers its poison (Fort DC 20",
+        "name":  "Challenge Rating",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— negates) with each successful bite attack. Initial and second-",
+        "name":  "Treasure",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually neutral evil ary damage are the same (2d6 Dex).",
+        "name":  "Alignment",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Climb +17, Hide +5, Jump +24, Search +20, Spot +19, Survival +19 (+21 following tracks) SARKRITH",
+        "name":  "Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "15d8+135 (202 hp)",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+4",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "40 ft.",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "11d8+99 (148 hp) or attack action once during a round. A thane can use this",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+0 ability a number of times per day equal to its Constitution",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. (masterwork full plate); base 40 ft. bonus (9 for an average thane).",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "12d12+60 (138 hp) compared to losing everything to pirates or slavers.",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+4 No one knows for sure what a sea drake does with its",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "15 ft., swim 60 ft. treasure, but some presume that it hides the swag in secret",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "26 (–4 size, +20 natural), touch 6, flat-footed 26 caves and grottoes on the sea floor. This treasure, com- Base Attack/Grapple:+12/+36 bined with the booty from pirate ships and merchant",
+        "name":  "AC",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +20 melee, or tail smash +20 melee ships sunk by the sea drake, makes a sea drake’s territory",
+        "name":  "Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +20 melee, or bite +20 melee and 2 tail rich pickings for adventurers with the wherewithal to go smashes +15 melee, or 2 tail smashes +20 melee after the prize.",
+        "name":  "Full Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite 2d8+12, tail smash 1d8+6 Face/Reach:20 ft./15 ft. COMBAT",
+        "name":  "Damage",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Constrict ship, crushing blow, Against enemies in the water, swallow whole a sea drake can bite or slap",
+        "name":  "Special Attacks",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Dragon traits, with its tail. ink cloud, regeneration 2 Constrict Ship (Ex):",
+        "name":  "Special Qualities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +15, Ref +10, Instead of crushing a ship Will +11 with its tail, a sea drake",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 35, Dex can wrap its serpentine 10, Con 21, Int 11, body around all but the Wis 12, Cha 18 largest ships and crush",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Appraise +15, them or drag them below Knowledge (local) the waves automatically. +15, Knowledge This can be done to a (nature) +15, Listen rowboat (1 round), keel- +18, Spot +18, boats (3 rounds), long- Swim +35 ships (5 rounds), and sail-",
+        "name":  "Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Alertness, ing ships (10 rounds). Great Fortitude, Warships and galleys are Improved too large for a sea drake to Initiative, Iron affect in this way. Will, Lightning Crushing Blow (Ex): Reflexes A sea drake can use its tail Climate/Terrain: flukes to smash a boat to Any aquatic splinters. The ship is hit",
+        "name":  "Feats",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "automatically once every Solitary 10 rounds, taking tail smash",
+        "name":  "Organization",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "15 damage (between attacks the",
+        "name":  "Challenge Rating",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Double standard sea drake is submerged). The ship’s",
+        "name":  "Treasure",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually neutral pilot must make a Reflex saving throw (DC 20) after each",
+        "name":  "Alignment",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sea drakes have a +8 racial bonus on any Swim Selkies feel a deep curiosity about land dwellers that check to perform some special action or avoid a hazard and often leads to marriage. The union of a human and a selkie can always choose to take 10 on Swim checks, even if dis- rarely ends happily, however, since the selkie partner is tracted or endangered. eventually overcome with longing to return to the sea, abandoning the human partner and any children of the 148 EIKLES Selkie union. Half-selkies are human in every significant respect, Climate/Terrain:Any mountain and forest but may have slightly webbed hands and feet. Organization:Solitary, flight (2–5), or flock (11–20) Selkies speak Common and Aquan. Challenge Rating:3",
+        "name":  "Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "—",
+        "name":  "Treasure",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "3d10+12 (28 hp)",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+4",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft., fly 60 ft. (average)",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "15 (+3 Dex, +2 natural), touch 13, flat-footed 12 Base Attack/Grapple:+3/+13",
+        "name":  "AC",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +8 melee",
+        "name":  "Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +8 melee, or 2 claws +8 melee",
+        "name":  "Full Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite 1d8+9, claw 1d6+6 Face/Reach:10 ft./10 ft. COMBAT",
+        "name":  "Damage",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Darkvision 60 ft., low-light vision, scent before retreating to safety. They typically strafe an opponent a",
+        "name":  "Special Qualities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +7, Ref +6, Will +2 few times before closing into melee. When they do, they latch",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 22, Dex 16, Con 19, Int 9, Wis 13, Cha 16 on with both claws and rend, dealing terrible damage.",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "3d6 (10 hp) stant pain, making them vicious. Their willingness to",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+3 commit acts of cruelty and violence has increased with",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. each generation.",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +2, Ref +7, Will +4 shadar-kai have little trouble making sure that combat",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 10, Dex 16, Con 11, Int 11, Wis 10, Cha 9 occurs on their terms.",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary, patrol (3–6), or raid (7–12) with sneak attack damage from other sources, such as",
+        "name":  "Organization",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 rogue levels.",
+        "name":  "Challenge Rating",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1 gal-ralan plus standard Hide in Plain Sight (Su):Shadar-kai can use the Hide",
+        "name":  "Treasure",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually neutral evil skill even while being observed. As long as they are not",
+        "name":  "Alignment",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1d10+2 (7 hp) tombs they’re set to guard, emerging to bite from the walls,",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+5 floors, and even ceilings. They prefer to bite and",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft., climb 10 ft. then flee, instinctively aware that their venom",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "19 (+2 size, +5 Dex, +2 natural), takes time to work, then returning to strike touch 17, flat-footed 14 and flee again. They are often accompanied Base Attack/Grapple:+1/+9 in battle by the shadows of slain",
+        "name":  "AC",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +8 melee intruders of the past.",
+        "name":  "Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +8 melee Create Spawn (Su): A",
+        "name":  "Full Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "but it is bound to the Create spawn, area, usually a tomb or poison crypt, as a guardian,",
+        "name":  "Special Attacks",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "unable to stray more Darkvision 60 than 100 feet from ft., incorporeal the spot where it was form, low-light first spawned. vision Poison (Ex): A",
+        "name":  "Special Qualities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +4, shadow asp delivers Ref +7, Will +1 its poison (Fort",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 7, Dex 21, DC 12 negates) Con 15, Int 4, Wis 12, Cha 10 with each success-",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Climb +6, Hide +16, Listen ful bite attack. Initial and +7, Move Silently +6, Spot +7 secondary damage are the same (1d6 Str).",
+        "name":  "Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "9d10+27 (76 hp) faded into history; the shedim do not speak of their",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+0 crowns to anyone.",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft., fly 60 ft. (average) Lawful good clerics sometimes call to the shedim, asking",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "14 (–1 size, +5 natural), touch 9, flat-footed 14 for council on matters of planar import or to guard their Base Attack/Grapple:+ 9/+17 temples during important events such as the selection of a",
+        "name":  "AC",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam +12 melee new leader or the delivery of a messianic child. Shedim",
+        "name":  "Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 slams +12 melee have detail-oriented brains of superior construction—",
+        "name":  "Full Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam 1d6+4 their immunity to mind control and their ability to focus Face/Reach:10 ft./5 ft. on specific tasks without distraction make them excellent",
+        "name":  "Damage",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +9, Ref +6, Will +7 hooves, shedim make poor physical combatants against",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2d8 (9 hp)",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+2",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft.",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "12 (+2 Dex), touch 12, flat-footed 10 Base Attack/Grapple:+1/+1",
+        "name":  "AC",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "—",
+        "name":  "Special Attacks",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Innate nondetection, peerless camouflage, trackless path",
+        "name":  "Special Qualities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +0, Ref +5, Will –1",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 11, Dex 14, Con 11, Int 11, Wis 8, Cha 6",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hide +22, Move Silently +15",
+        "name":  "Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary or coterie (2–8)",
+        "name":  "Organization",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "6d8+12(39 hp) with an attempt to summon more slaadi. If faced with odds",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+6 they find overwhelming, they try to cower or feign death.",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +9 melee in fear. This is a mind-affecting effect. Any opponent",
+        "name":  "Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +9 melee and 2 claws +7 melee attempting to strike or otherwise directly attack the cring-",
+        "name":  "Full Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cringe, disease, sonic screech, summon normally and is immune to the effect of that mud slaad’s slaad cringing for 24 hours. If the save fails, the opponent can’t",
+        "name":  "Special Attacks",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fast healing 3, feign death, outsider follow through with the attack, that part of the attacker’s traits, resistances, sonic immunity action is lost, and the attacker can’t directly attack the mud",
+        "name":  "Special Qualities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +7, Ref +7, Will +3 slaadi for as long as it continues to cringe. If the mud slaad",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 17, Dex 15, Con 15, Int 6, Wis 6, Cha 8 stops cringing and then cringes again, the opponent may",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Dodge, Improved Initiative, Multiattack attack must succeed on a Fortitude save (DC 15) or be Climate/Terrain:Any land and underground (Limbo) infected with a disease that transforms the victim over the",
+        "name":  "Feats",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "6 throw off the infection.",
+        "name":  "Challenge Rating",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— Sonic Screech (Su):Once per day,",
+        "name":  "Treasure",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always chaotic neutral a mud slaad can emit a tremendous",
+        "name":  "Alignment",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "8d8+32 (68 hp) plus 1d4 Dex; secondary damage is 2d6 Con.",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+2 Wing Slash (Ex): If a slasrath charges, it can end the",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10 ft., fly 50 ft. (perfect) charge with a wing slash attack. The slasrath makes a +9",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Poison, wing slash",
+        "name":  "Special Attacks",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Darkvision 60 ft. SPECTRAL LURKER",
+        "name":  "Special Qualities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +6, Ref +4, Will +6",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 21, Dex 14, Con 19, Int 1, Wis 10, Cha 10 Huge Aberration (Incorporeal)",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Listen +8, Spot +7 Hit Dice:16d8+80 (152 hp)",
+        "name":  "Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Alertness, Improved Sunder, Power Attack Initiative:+12 Climate/Terrain:Any land or underground (Hades) Speed:50 ft., fly 40 ft. (perfect)",
+        "name":  "Feats",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary AC: 20 (–2 size, +8 Dex, +4 deflection), touch 20, flat-",
+        "name":  "Organization",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "7 footed 12",
+        "name":  "Challenge Rating",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— Base Attack/Grapple:+12/+20",
+        "name":  "Treasure",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral Attack:Tentacle +18 melee",
+        "name":  "Alignment",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "9–16 HD (Large); 17–24 HD (Huge) Full Attack:2 tentacles +18 melee, bite +16 melee",
+        "name":  "Advancement",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Tentacle 2d6, bite 2d8, constrict 2d6 The slasrath was originally a nearly mindless wormlike Face/Reach:15 ft./10 ft. predator until a nameless sorcerer discovered how to trans- Special Attacks:Constrict, Dexterity drain, ghost touch form them into the flying horrors that they are today. attacks, improved grab, incorporealize",
+        "name":  "Damage",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary as corporeal or incorporeal at any given time, whichever is",
+        "name":  "Organization",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard Improved Grab (Ex):If a spectral lurker hits an oppo-",
+        "name":  "Treasure",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually neutral evil nent that is at least one size category smaller than itself with",
+        "name":  "Alignment",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "11d10+33 (93 hp) A spirit of the air’s mouth sports two tusks that curl up",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft., climb 40 ft., then out toward its cheeks. fly 60 ft. (average) In its long, prehensile tail",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "26 (–1 size, +5 Dex, is typically clutched a +12 natural), touch 14, heavy mace. flat-footed 21 Spirits of the air claim Base Attack/Grapple: windy areas as their terri- +11/+19 tories. Due to their remark-",
+        "name":  "AC",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1 heavy mace able mobility, these terri- +15 tories sometimes stretch",
+        "name":  "Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1 heavy mace slights and rush to attack 1d8+5, bite 1d6+2, wing interlopers. buffet 1d4+2 Spirits of the air speak Face/Reach:10 ft./10 ft. Auran, Draconic, and Giant.",
+        "name":  "Damage",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +10, Ref +12, are not particularly success- Will +6 ful, they resort to their whirl-",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 19, Dex 20, wind attack. Con 17, Int 14, Wis 17, Air Mastery (Ex):A spirit of Cha 16 the air gains a +1 bonus on its",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5d6+5 (22 hp) 5d6+20 (37 hp)",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+9 +7",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 ft. 30 ft.",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "19 (+1 size, +4 Dex, +4 chain shirt), 16 (–1 size, +3 Dex, +4 chain shirt), touch 15, flat-footed 15 touch 12, flat-footed 13 Base Attack/Grapple: +2/–2 +2/+10",
+        "name":  "AC",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Low-light vision, size change Low-light vision, size change",
+        "name":  "Special Qualities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +2, Ref +9, Will +3 Fort +5, Ref +7, Will +3",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 10, Dex 20, Con 12, Int 11, Wis 9, Cha 11 Str 18, Dex 16, Con 18, Int 11, Wis 9, Cha 11",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Climb +5, Disable Device +7, Hide +14, Climb +9, Disable Device +4, Hide +4, Listen +6, Move Silently +10, Listen +6, Move Silently +8, Open Lock +10, Open Lock +12, Sleight of Hand +10 Sleight of Hand +8",
+        "name":  "Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary or pack (3–12) Solitary or pack (3–12)",
+        "name":  "Organization",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "3 3",
+        "name":  "Challenge Rating",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard Standard",
+        "name":  "Treasure",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually chaotic (any) Usually chaotic (any)",
+        "name":  "Alignment",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "By character class By character class",
+        "name":  "Advancement",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Spriggans have a +4 racial bonus on Climb, Dis- Attack: Bite +19 melee able Device, Move Silently, Open Lock, and Sleight of Full Attack: Bite +19 melee and 2 claws +17 melee Hand checks. Damage: Bite 2d6+7/19–20, claw 2d4+3 Face/Reach: 10 ft./5 ft.",
+        "name":  "Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary, pair, or pride (6–10)",
+        "name":  "Organization",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "13",
+        "name":  "SPRIGGAN Challenge Rating",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "14",
+        "name":  "Challenge Rating",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard",
+        "name":  "Treasure",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually chaotic neutral",
+        "name":  "Alignment",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Swarm, or spit acid +16 ranged touch",
+        "name":  "COMBAT Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Abyssal ant swarms have a +8 racial bonus on Vermin Traits: A plague ant swarm is immune to all Climb checks and can always choose to take 10 on Climb mind-affecting effects (charms, compulsions, phantasms, checks, even if rushed or threatened. patterns, and morale effects). It also has darkvision (60- foot range).",
+        "name":  "Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10d8+20 (65 hp) even if rushed or threatened.",
+        "name":  "Hit Dice",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+3",
+        "name":  "Initiative",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft., climb 20 ft. CRANIUM RAT SWARM, LESSER PACK",
+        "name":  "Speed",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Swarm Hit Dice: 6d10+12 (45 hp)",
+        "name":  "Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Swarm Initiative: +3",
+        "name":  "Full Attack",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Swarm 2d6 plus disease Speed: 40 ft., climb 20 ft. Face/Reach: 5 ft./0 ft. AC: 14 (+3 Dex, +1 natural),touch 13, flat-footed 11",
+        "name":  "Damage",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Disease, distraction (DC 17), wounding Base Attack/Grapple:+6/—",
+        "name":  "Special Attacks",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Swarm traits, vermin traits Attack: Swarm",
+        "name":  "Special Qualities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +9, Ref +6, Will +3 Full Attack: Swarm",
+        "name":  "Saves",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 1, Dex 16, Con 14,Int—, Wis 11, Cha 7 Damage: Swarm 2d6",
+        "name":  "Abilities",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Climb +3 Face/Reach: 5 ft./0 ft.",
+        "name":  "Skills",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— Special Attacks: Distraction (DC 15), mind blast Climate/Terrain: Warm land and underground Special Qualities: Darkvision 60 ft., hive mind, low-light",
+        "name":  "Feats",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary or army (3–8 swarms) vision, merge swarms, swarm traits",
+        "name":  "Organization",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5 Saves: Fort +7, Ref +8, Will +6",
+        "name":  "Challenge Rating",
+        "source":  "fiend_folio.txt",
+        "_id":  "4351082a9f68ae1e917b3995e66fbd6ad04f6af23492c79e5dc2af0fff3ac886"
+    }
+]

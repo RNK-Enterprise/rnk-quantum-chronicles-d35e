@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "other.json",
+        "description":  "These major thoroughfares are not found in every city. They average 25 feet wide, allowing carriages and wagons to pass in both directions while providing walkways for pedestrians on either side, and are normally paved with cobblestones. These roadways usually provide a c cess t o ci ty g a t es, m a j o r g o v e rnm e n tal an d r e li gi o us centers, and large marketplaces. SURFACES AND FOOTING The size and width of a street can be of secondary impor- tance to its quality.",
+        "name":  "Avenues",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "An unpaved road that sees substantial use might be rutted from wagon wheels or could develop holes after a strong rain, becoming uneven. An uneven dirt road qualifies as light rubble, increas- ing Balance and Tumble check DCs by 2. During a heavy rain, a dirt road might turn to mud. In such terrain, each square of movement costs 2 squares, much like shallow bog. Packed Dirt:  A  d i r t  r o a d  t h a t  i s  k e p t  i n  d e c e n t repair does not deteriorate readily, so it does not impose penalties on Balance and Tumble checks as does a rough road. It still can become mud during a storm, though. Broken Cobblestones:  Even a city that can afford to pave its streets might not be able to afford to maintain them. Over time, cobblestones break or become dis-lodged, and the road becomes rougher. Treat this kind of terrain as light rubble, increasing the DCs of Balance and Tumble checks by 2. A surface of broken cobblestones never becomes muddy in rain.",
+        "name":  "Rough Dirt",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A well-maintained paved road remains smooth and firm, regardless of weather, and imposes no penalties on movement. 620_95386_Ch1.indd   28620_95386_Ch1.indd   28 8/21/06   4:48:01 PM8/21/06   4:48:01 PM29CHAPTER 1 THE SCOPE OF",
+        "name":  "Cobblestones",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Many poor communities, particularly those with ineffective or uncaring gov- ernments, have no disposal systems. People dump trash and waste into al-leys and even onto main streets, where it sits and festers. In addition to smell-ing horrific, these areas are breeding grounds for disease. The DC of the ini-tial Fortitude save to avoid nausea is 15. See the Hazards of Poor Sanitation sidebar. Drainage Ditch- es: These are a series of small ditches dug beside city streets. Some angle down-hill, allowing their contents to empty into a nearby body of water, or at least to ﬂ ow beyond the city borders. Others do not move the waste anywhere but simply keep it out of the main roads. The DC of the initial Fortitude save to avoid nausea in such areas is 10. See the Hazards of Poor Sanitation sidebar. Char- acters who take damage risk ﬁ  lth fever only if they are standing in, or directly beside, a drainage ditch when they are injured.",
+        "name":  "No Sewers",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The simplest true sewer system consists of a series of drains and grates in streets, alleyways, and some people’s homes. Drains empty directly into an underground river or cistern, or simply deposit waste in a pit. The drains themselves smell bad, but the city does not present a health hazard.",
+        "name":  "Drains",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slime-slick halls of stone or brick, en- closing clay or metal pipes sealed with bars, permit both waste and rain water to ﬂ  ow off the city’s streets. Most sewer systems empty into a nearby body of water. Their pas- sageways are large enough to allow for maintenance, but they can be confusing— even mazelike. A city (or portion of a city) that has a sewer system presents no health hazards except to those who enter the sewers. Such charac-ters are subject to the usual hazards of poor sanitation: The DC of the initial Fortitude save to avoid nausea is 15. Combat in the sewers is especially dangerous, with a DC 15 Fortitude save required to avoid ﬁ  lth fever after becoming injured.",
+        "name":  "Sewer Pipes",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hardness 5, 15 hp, break DC 18. Simple wooden barriers are most common around towns and villages, but some larger communities can afford no better. A fence is usually 5 to 10 feet in height.",
+        "name":  "Wood Fence",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hardness 5, 45 hp, break DC 28. This is a heavy wall of logs or thick lumber. Wooden bulwarks are cheaper and easier to put up than stone walls, but they do not offer the same level of protection. (They are also, of course, vulnerable to ﬁ  re.) These walls are usually 8 to 15 feet in height. Rammed Earth Wall:  Hardness 6, 60 hp, break DC 28. These structures are heaps of earth, piled up and packed. Rammed earth walls are quick to build but are not hard to break through, nor are they difﬁ  cult to climb. (Treat a rammed earth wall as a rough surface for the purpose of Climb checks.) As well, heavy rain can severely weaken or wash out such structures. Rammed earth walls stand only 5 to 10 feet tall—much higher and they risk collapse.",
+        "name":  "Wooden Bulwark",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hardness 8, 180 hit points, break DC 45. Consisting of slabs of granite or similar stone, these walls are difficult to construct but more effec- tive than anything made of wood or dirt. They are roughly 1 foot thick on average and stand 8 to 15 feet tall.",
+        "name":  "Stone Wall",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hardness 8, 450 hp, break DC 55; or hardness 8, 1,170 hp, break DC 70. Resembling the popular image of a castle wall, a layered wall is many feet thick, consisting of two layers of stone with earth packed in the space between. Such fortifications are exceedingly difficult to break through. Typical layered walls stand from 20 to 30 feet tall and are 10 feet thick. Larger examples are up to 40 feet in height and 15 feet thick.",
+        "name":  "Layered Wall",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Depending on its situation, a city might build up or out. Most cities tend toward one direction or the other, but rarely both. Depending on its method of expansion, a city’s buildings might be either tall spires or squat blocks. CITY HAZARDS As with any other terrain, the urban environment has its own dangers. Some are obvious and easy to avoid, at least for natives, while others can trap or harm even the most wary individuals. NATURAL HAZARDS In addition to the hazards presented below, a city’s road conditions and level of sanitation might increase the danger.",
+        "name":  "Sprawl",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "This entry offers a brief adventure sugges- tion to involve PCs who visit the district. CIVIC",
+        "name":  "Plot Hook",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Upper.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always—conventional (town council).",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Council hall, bureaucratic ofﬁ  ces, monu- ment/memorial, guard post, temple (Heironeous, Pelor, St. Cuthbert), ﬁ  ne lodging (5%), ﬁ  ne food (10%), exotic trades (15%), ﬁ  ne trades (23%), average trades (23%), ﬁ  ne services (23%). Description: The civic district, or noble quarter, is the seat of government (or at least bureaucracy). Nearly everyone who works in the district earns a living from the government, either directly or by serving the needs of city ofﬁ  cials. Although adventurers must come here to meet ofﬁ  cials who have posted job offers and rewards, guards and local inhabitants frown on the presence of “rough and tumble” types. Those who obviously do not belong (especially the poor, and perhaps even the PCs) are advised not to loiter. Fancy garb at the height of fashion is common, crafted from the finest materials. The streets are crowded with carriages and couriers both on foot and horseback. The hum of conversation fills the air, punctuated by the occasional trumpet calling some assembly to order. Workers keep the streets relatively clean, so the district has a better odor than most. Plot Hook:  The PCs have come to the civic district to answer a call for adventurers. The mission is typical, perhaps clearing out a nest of wererats in the city, or driving a tribe of goblins from the neighboring farmland. Upon arriving, they discover that the noble who was to have hired them has been murdered, and they are now suspects. Was the death coincidental? Is it tied into the job they were about to take? Or was the job offer merely a lure to frame them? ELF NEIGHBORHOOD",
+        "name":  "Buildings",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Upper.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Often—nonstandard (elders). Buildings:  Temple (Corellon Larethian), druid grove, fine lodging (10%), fine food (8%), exotic trades (5%), fine trades (20%), fine services (10%), fine resi-dences (44%). Description: Elf neighborhoods can be places of natural beauty or grotesque parodies, depending on the city. Communities with true respect for elves, and sufﬁ  cient resources, allow them to build as they wish. In these instances, structures within the city incorpo-rate and work with natural elements, just as in true elf cities. Elsewhere, these neighborhoods suffer from the grossest human stereotypes of elves, full of impractical tree houses and the like. Sometimes the elves must make do with human-style structures. Regardless, the 620_95386_Ch1.indd   35620_95386_Ch1.indd   35 8/21/06   4:49:13 PM8/21/06   4:49:13 PM36 CHAPTER 1 THE SCOPE OF THE CITYinhabitants of these districts display a grace of manner and adornment that always impresses visitors. Colors tend toward greens, golds, and earth tones. The air seems ﬁ lled with melody, due in part to the prevalence of the Elven language, and the district smells faintly of loam and growing things. Plot Hook:  Elves on the edges of their district have been targeted by what appear to be racially motivated assaults. If the perpetrators are not uncovered soon, the elves will take matters into their own hands, potentially leading to an all-out race war in the city. EMBASSY “I hate patrolling embassy row. Break up the wrong ﬁ  stﬁ  ght, and you might ﬁ  nd yourself at war with a realm you’ve never even heard of.” —Cholak, city watch rookie",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Upper.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Often—nonstandard (foreign nobles). Buildings:  Embassies (10%), diplomatic residences (20%), ﬁ  ne lodging (14%), ﬁ  ne food ( 17% ), exotic trades (7%), ﬁ  ne trades (15%), ﬁ  ne residences (15%).",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Most foreigners in a city dwell in the poorer quarters, limited by both local prejudice and lack of understanding of other customs—but few governments want to risk angering other nations. Thus, ambassadors, ofﬁ  cials, and visiting nobles from abroad are often housed in an embassy district, if insufﬁ  cient room is available in other upper-class neighborhoods. In some cities, the buildings here are of ﬁ  ne quality, but still designed in the local style. Particularly in cities that deal most often with one or two nations, builders make some effort to design in speciﬁ  c foreign styles, The ambient sound of the area is noticeably different from the rest of the city, due to the unusual languages and accents of the inhabitants, and exotic clothes and fashions abound. Embassy districts are well guarded, and people without legitimate business in the area are brusquely escorted elsewhere. Plot Hook:  An emissary of a country hostile to the PCs (or perhaps to a family member or ancestor of one of the PCs) has taken up residence in the embassy district. Since his or her arrival, the characters have encountered substantial political difﬁ  culty and have been the targets of increasing “random” attacks in the streets. Is this the work of the foreign ambassador? And if it is, what can the PCs do about it? Even if he is proven guilty, the emissary might claim diplomatic immunity.FINE SHOPS",
+        "name":  "Description",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Upper.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Often—nonstandard (plutocrats). Buildings:  Banks (2%), ﬁ  ne lodging (6%), ﬁ  ne food (8%), exotic trades (14%), ﬁ  ne trades (40%), ﬁ  ne resi- dences (28%). Description: While the general marketplace is cha- otic and boisterous, this district is genteel. The shops still see heavy trafﬁ  c and vigorous haggling, but their well-dressed clients arrive in carriages. Negotiations are conducted softly and politely. The shops are clean and neat, with lettered signs and tasteful decorations. The air has a light scent of perfume, and armed guards patrol the streets.",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Upper.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always—conventional (noble).",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Manor house, bureaucratic ofﬁ  ces, servants’ quarters (12%), garrison post, chapel (Heironeous, St. Cuthbert), average trades (85%).",
+        "name":  "Buildings",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Upper.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Upper.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Often—conventional (noble). Buildings:  Estates (100%).",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Noble estates are places of green lawns, well-tended gardens, and sprawling manor houses that feature every luxury imaginable. Statues and ornate fountains adorn street corners or private yards. Servants or slaves ﬁ  ll the streets, running errands for their masters. Wide roads allow carriages to pass easily through the district. Many of the estates are fenced, their entrances patrolled by private guards. In cities with insufﬁ  cient space for sprawling grounds, noble estates might instead be luxurious townhouses or apart- ments, or could occupy wings of the same castle, keep, or palace in which the local lord resides. The sights and sounds of the district are much like those of the lord’s keep, except that the ensigns of many different noble houses are displayed. Plot Hook:  Two members of rival noble houses have fallen in love. They have decided to wed despite the objections of their relatives, and they have just enough support in their respective families to make the marriage happen. The PCs have been hired as private security for preparations and for the wedding itself. They must deal with mean-spirited but nonlethal interference by the two houses, harassment by the guard and other city ofﬁ cials, and much more dangerous attempts at sabotage and murder. A mysterious ﬁ  gure seems to have a personal stake in the matter. PARK",
+        "name":  "Description",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Upper.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Never.",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Parks (one large or multiple small), temple (Corellon Larethian, Ehlonna, Obad-Hai, Yondalla), druid circle, ﬁ  ne food (9%), exotic trades (7%), ﬁ  ne trades (12%), ﬁ ne services (25%), ﬁ  ne residences (45%).",
+        "name":  "Buildings",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Here, the sights of the city (if not necessarily the sounds and smells) fade away, affording visitors a few minutes of peace in an idyllic pastoral setting. Only the wealthier cities can afford parks, which offer open ﬁ  elds of grass, orchards of trimmed and tended trees, running brooks, small hills, rocky outcroppings, and perhaps even forest animals. Many parks are fenced, partly to keep vagrants out at night, but also to keep animals in. The district smells of greenery, e v e n  if  i t  i s  t ain t e d  b y  th e  o d o r  o f  sw e a tin g  l a bo r e r s  working nearby. Other than during special occasions, only the moneyed elite can take the time to frequent the park, so most people encountered here are nicely dressed and well groomed. 620_95386_Ch1.indd   37620_95386_Ch1.indd   37 8/21/06   4:49:30 PM8/21/06   4:49:30 PM38 CHAPTER 1 THE SCOPE OF",
+        "name":  "Description",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Something is eating the various animals— deer, rabbits, birds, and the like—that populate the city’s park. At ﬁ  rst, ofﬁ  cials assumed that a wolf or a similar predator had made its way inside, but the culprit has so far eluded expert hunters—in an area smaller than one square mile. Someone needs to catch this thing, whatever it is, before it empties the park of animals or, worse, begins attacking people. UNIVERSITY",
+        "name":  "THE CITY Plot Hook",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Upper.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Often—nonstandard (academic guild).",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Upper.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Middle.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Never. Buildings:  Fine residences (10%), average residences (78%), poor residences (10%). Description: The houses here are smaller than those in the wealthy portions of town, as are the lots o n  w h i c h  t h e y  s t a n d .  S o m e  h a v e  g o o d - s i z e d  y a r d s , while others encroach on their neighbors, with barely 2 feet of alleyway between houses. Apartment-style dwellings are somewhat cramped, the buildings less cared for than in nicer districts. The people here are far from poverty-stricken, but broken fences, cracked cobblestones, and the occasional drifter appear here and there. The scents of sweat and horse dung are noticeable at the end of the day, and styles are more utilitarian than fashionable. Plot Hook:  A recent influx of moderate but acces- sible wealth—perhaps the discovery of a rich vein in a local mine—has spurred a rise in the city’s middle-class population. Many of the beneficiaries of this good fortune are attempting to move into better- quality homes. Not only is there insufficient room in the average residential district, but many members of the middle class refuse to accept these former paupers as equals. The situation is threatening to turn ugly, but the city watch is concerned only with keeping any violence from spreading to the wealthier parts of town. A local thieves guild is taking advantage of the distraction to “redistribute” some of the newly acquired wealth. 620_95386_Ch1.indd   38620_95386_Ch1.indd   38 8/21/06   4:49:38 PM8/21/06   4:49:38 PM39CHAPTER 1 THE SCOPE OF THE CITY COLISEUM/ARENA",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Middle.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Often—nonstandard (famous gladia- tors or powerful stable owners).",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Coliseum/arena/hippodrome, associated buildings (5%; gladiators’ barracks, stables, and so on), temple (Heironeous, Hextor, Kord), average lodging (7%), average food (22%), exotic trades (3%), average trades ( 19% ), poor trades ( 7% ), average services ( 1 4% ), average residences (21%).",
+        "name":  "Buildings",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The arena dominates this district, tower- ing ov er ev erything that stands nearby . This structure is typically oval, sometimes circular, designed to seat thousands of spectators and to host all manner of sports and competition. District services cater to the needs of gladiators and audience alike. The smells of sand, sweat, and blood permeate the area, and people from all walks of life throng the streets.",
+        "name":  "Description",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The coliseum has been the scene of a series of murders. These were not legitimate deaths in the ring, but attacks against both gladiators and arena workers. The gladiatorial stable owners have posted rewards for the capture of the perpetrators. Investigating the crimes might require the PCs to go undercover, posing as gladi-ators themselves. DWARF NEIGHBORHOOD",
+        "name":  "Plot Hook",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Middle.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Middle.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Often—nonstandard (military leaders).",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Garrison building, temple (Heironeous, Kord, St. Cuthbert), average lodging (5%), poor lodging (2%), ﬁ  ne food (2%), average food (5%), poor food (3%), ﬁ ne trades (5%), average trades (9%), poor trades (2%), average services (11%), average residences (43%), poor residences (11%).",
+        "name":  "Buildings",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The sounds of barked orders, march- ing boots, clacking hooves, and clanging metal dominate this neighborhood. This is the home and practice ground of the city’s watch, its soldiers, or both. Most of the buildings here are traditional in style, matching those found elsewhere in the city, but the garrison itself resembles a fortress. Built of stone, it has narrow windows and flat roofs with crenella- tions to cover defending archers. Patrols move in and out of the garrison on a regular basis, usually during shift changes. Plot Hook:  Crime has skyrocketed in the city. Oddly enough, most members of the watch seem suddenly lethargic and apathetic to this turn of events. They do not show up for work, or they patrol listlessly. They often take no action when they do spot a crime, and ﬁ  ght poorly if they do intervene. Have these people been poisoned? Enchanted? Replaced? Someone must investigate—but the watch itself cannot. GNOME NEIGHBORHOOD",
+        "name":  "Description",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Middle.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Often—conventional (local council).",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Middle.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always—nonstandard (guild). Buildings:  Guildhalls (3%), average lodging (5%), average food (11%), ﬁ  ne trades (5%), average trades (17%), poor trades (5%), ﬁ  ne services (5%), average services (11%), poor services (3%), average residences (33%). Description: These areas look much like market- places or average residential districts, but a few larger structures dominate the streets. These guildhalls contain both individual offices and large meeting chambers capable of holding hundreds of people at once. Some were built specifically for this purpose, while others are converted warehouses or taverns. All types of people are visible here, for guild member-ship includes rich and poor alike. W agons are more common than carriages, and the streets smell of sweating workers.",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A powerful crime organization has recently expanded into the city. The criminals are pressuring several of the legitimate guilds to aid in smuggling, m o v i n g  f u n d s ,  a n d  e v e n  m o r e  s e ri o u s  c ri m e s  s u c h  a s  kidnapping. The guilds have so far refused, resulting in the murder of several guild members and harassment of some of the guilds’ customers. The guildmasters seek assistance in removing the criminals without creating a public spectacle. 620_95386_Ch1.indd   40620_95386_Ch1.indd   40 8/21/06   4:49:59 PM8/21/06   4:49:59 PM41CHAPTER 1 THE SCOPE OF THE CITYHALFLING  NEIGHBORHOOD",
+        "name":  "Plot Hook",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Middle.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Often—nonstandard (elders).",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Council hall, temple (Yondalla), average lodging (4%), average food (9%), average trades (17%), average services (12%), average residences (56%).",
+        "name":  "Buildings",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Halﬂ  ing districts somehow never seem permanent, even when the structures are of wood and stone. Bright decorations change frequently, and the roads are full of ponies, riding dogs, and small carts at all times. Much space is devoted to greenery, both yards and vegetable gardens. Windows are large and unglazed. M a n y  o f  t h e  r e s i d e n c e s  h o u s e  m u l t i p l e  f a m i l i e s  w i t h  s e p a r a t e  b e d c h a m b e r s  a r o u n d  c o m m o n  r o o m s .  A s  i n  gnome neighborhoods, most of the buildings are sized for halﬂ  ings, making human visitors feel out of place and ungainly. The air is ﬁ  lled with the babble of voices, and often the scent of pipe smoke.",
+        "name":  "Description",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A new criminal organization (perhaps the same one described in the guildhall district plot hook) has moved into the city. The group is led by a cabal of halﬂ  ings who hide in plain sight—a fact unknown even to most of its own members, They live among others of their kind in the halﬂ  ing neighborhood, appearing completely normal and cheerful. Identifying and tracing the criminal leaders would be extremely difﬁ  cult, and the members of the halﬂ  ing community would demand absolute proof of anyone’s guilt before surrendering one of their kind to human authorities. MARKETPLACE “I like to think of pickpocketing as an ‘impromptu welfare tax.’ And I’ve been taxing the market square heavily lately.” —Syretare, guild thief",
+        "name":  "Plot Hook",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Middle.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Never.",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Open-air market, temple (any), average lodging (2%), average food (12%), exotic trades (3%), f i n e  t r a d e s  ( 1 2 % ) ,  a v e r a g e  t r a d e s  ( 3 5 % ) ,  p o o r  t r a d e s  (10%), fine services (5%), average services (15%), poor services (5%). Description: The busiest district in any city, the marketplace is ﬁ  l l e d  w i t h  p e o p l e  f r o m  a l l  w a l k s  o f life, buying, selling, haggling, arguing, browsing, and otherwise passing the day in commerce. Some market-places are open-air bazaars, their shops little more than wooden stands. Others consist of rows of buildings whose storefronts display various wares. Many market districts contain both sorts of places. People are clothed in a riot of colors and styles, and the air smells of cooking food, perfume, ripening fruits, sweat, and animal dung. The din of voices cannot entirely drown out the calls and tunes of street performers hoping to earn a few coppers by entertaining passersby. Plot Hook:  Pickpockets and cutpurses are nothing new in the marketplace. What authorities do not yet realize, however, is that the latest wave of theft is actually beneﬁ  ting a powerful wizard. She has hired thieves to bring her personal possessions to help her better scry on various citizens of the city, particularly the rich and powerful. By observing their behavior, she will soon be in a position to dominate various markets and anticipate legal decisions. Whether she intends merely to proﬁ  t from this spying, or illicitly change the course of city politics, is yet unknown. TEMPLE",
+        "name":  "Buildings",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Middle.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Lower.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Never.",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temple (Fharlanghn, foreign deities), aver- age lodging (4%), poor lodging (14%), average food (9%), poor food (29%), average trades (8%), poor trades (12%), average services (8%), poor services (14%). 620_95386_Ch1.indd   41620_95386_Ch1.indd   41 8/21/06   4:50:13 PM8/21/06   4:50:13 PM42 CHAPTER 1 THE SCOPE OF",
+        "name":  "Buildings",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Here, caravans that have traveled to the city gather until the merchants can move their goods to the marketplace or reload their wagons for the outward journey. This district has its own atmosphere, and it is not a pleasant one. The mingled aromas of road dirt, humanoid sweat, horse dung, and stretched leather make other neighborhoods seem beautifully fragrant by comparison. Food and drink are passable at best, and often overpriced. People from many different regions congregate here, and frequent brawls erupt from the mix of disparate customs and tempers frayed thin by long travel. Plot Hook:  On the roads outside the city, bandits are attacking caravans with increasing frequency. The attack- ers seem to know which caravans are hauling worthwhile goods, and even which speciﬁ  c wagons to hit. Whoever is feeding the bandits information must be haunting the caravan district, where teamsters and guards do most of their drinking and talking. FISHERS’ WHARF/ WATERFRONT",
+        "name":  "THE CITY Description",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Lower.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Never. Buildings:  T e m p l e  ( F h a r l a n g h n ) ,  p o o r  l o d g i n g (5%), poor food (10%), average trades (2%), poor trades (12%), average services (3%), poor services (7%), poor residences (59%). pqqqqqqqqqqqqqqqqqqqqrs pqqqqqqqqqqqqqqqqqqqqrs20 CITY SIGHTS The following examples provide bits of flavor, descriptions that play no part in a story but simply showcase the variety of life in the city. Feel free to create vignettes similar to these to suit your own city. 1  An acrobat, juggler, musician, fire-eater, or other street performer entertains a small crowd of commoners. 2  A small animal—dog, cat, or the like—lies dead at the side of a small street, apparently having been hit by a cart. 3  A lamppost stands empty, its light either stolen or removed for repair. 4  A slovenly man lies snoring in a doorway or alleyway, the odor of alcohol on his breath discernible even from several feet away. 5  With a splattering sound and a horrific stench, someone empties a chamber pot or a garbage can out of an upstairs window in an alley. 6  A merchant runs across the street, arms outstretched, a few feathers clinging to his sleeves. He is chasing a chicken that appears to have escaped the coop. 7  A young beggar wanders along the roadside, cup out- stretched toward anyone who appears to have money. 8  Bits of splintered wood, torn canvas, and a broken wagon wheel lie in a heap beside an avenue, haphazardly pushed out of the way of traffic following an accident. 9  A patrol of the city watch passes by, walking at a rapid pace, expressions determined. The soldiers, focused on their destination, pay little attention to what’s around them. 10  A man shuffles down the street, wearing ostentatious wizardly garb with belt pouches stuffed with strange components. His beard is singed, and his robe occasionally bulges and rustles as though something is moving under it. 11  An attractive woman in a revealing dress sidles up to a well-dressed gentleman and begins flirting heavily. 12  Two giggling children race past, darting nimbly through the throng, while an irate fat man trundles after them, howling. 13  A man staggers from a nearby alley holding the back of his head, his clothes disheveled, his pockets turned inside out.14  Several youngsters stand in a circle around something out of sight, pointing and laughing, or simply staring. 15  A member of an exotic humanoid race walks by, balancing an enormous bundle. 16  Two strangers’ mounts confront each other in the street, their owners struggling to keep control. 17  A monumental sculpture serves as a perch for birds, such as pigeons or crows, that glower at passersby. 18  An ornate litter, carried by four strong humanoid bearers, pushes its way through a crowd. 19  The children of a street vendor announce the family wares at regular intervals while their mother handles an exchange. 20  A party of obvious adventurers passes by, its members casting glances at the PCs that range from warm to mocking.Illus. by C. Frank 620_95386_Ch1.indd   42620_95386_Ch1.indd   42 8/21/06   4:50:24 PM8/21/06   4:50:24 PM43CHAPTER 1 THE SCOPE OF",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The smell of fresh ﬁ  sh, rotten ﬁ  sh, ﬁ  sh on ice, and fried ﬁ  sh permeates the wharf district, along with the tang of sea air and hardworking, unwashed people. The buildings here are in relatively poor repair, and many of the shops are simple stalls or wagons. Those who come to do business can’t afford to send a servant or are servants themselves, and street crime is rampant. The slap of the waves, the calls of dockworkers, and the thump of unloading ﬁ  sh mingle with the cries of seagulls and other scavengers. The waterfront district has larger docks to accommo-date cargo ships. Guards and nobles are more common here, petty criminals less so, and the taverns are slightly cleaner. Otherwise, it resembles the ﬁ  shers’ wharf.",
+        "name":  "THE CITY Description",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Human body parts are showing up with alarming frequency in the bellies of ﬁ  sh, with no cor- responding upsurge in missing persons. Some corpses wear jewelry or bits of clothing that have been out of style for generations. Where are they coming from? And why is the city government buying the silence of the ﬁ  shers who make these gruesome discoveries? GOBLINOID NEIGHBORHOOD",
+        "name":  "Plot Hook",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Lower.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Often—nonstandard (chieftain). Buildings:  Temple (Maglubiyet, sometimes Gru- umsh or Kurtulmak), poor lodging (1%), poor food (8%), poor trades (20%), poor services (10%), poor residences (59%).",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "While most such districts are populated by goblinoids alone, some also contain other brutish humanoids such as orcs, and the racial tensions often result in ﬁ  ghts. The area reeks: Streets are cluttered with trash, and the sewer grates (if any) are often backed up. Buildings are squalid and cramped. The guttural sounds of Goblin (and sometimes Orc) contribute to the harsh atmosphere. The city watch rarely bothers to patrol here, being more interested in making sure the district’s inhabitants don’t make trouble in other areas, so the crime rate is high.",
+        "name":  "Description",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A street war has erupted between orcs and goblinoids in the district. The city watch has mobilized, but only to ensure that the violence does not spill over into other districts. Both warring sides have offered the PCs riches in exchange for their aid in wiping out the other side. The PCs could simply accept either offer (or both, playing the two sides against each other), or instead investigate what caused the struggle in the ﬁ  rst place, in hopes of restoring peace.INN/TAVERN",
+        "name":  "Plot Hook",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Lower.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Never. Buildings:  Temples (2%), average lodging (8%), poor lodging (25%), average food (5%), poor food (20%), average trades (5%), poor trades (15%), average services (5%), poor services (15%).",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually located near city gates or main entrances, the inn district features row upon row of establishments dedicated to the needs of travelers. A few city governments have the foresight to keep these areas clean and relatively free of crime, in order to create a good impression on visitors. Most, however, leave the inns and their patrons to fend for themselves (truly important visitors stay in the upper-class dis-tricts). Travelers bring a wide variety of accents and languages to the streets but also make good prey for criminals, since they probably don’t or can’t stay long enough to file a complaint. Adventurers often lodge in such districts. Reducing the percentage of lodging slightly and increasing the percentage of food services transforms an inn district into a tavern district. Such an area focuses more on cheap entertainment than cheap rooms. Tavern districts can be found anywhere within a city, since they serve locals as well as foreigners.  Plot Hook:  Two rival adventuring companies are staying in the same inn and harassing each other. If the PCs are one of these groups, they might be the targets of pranks or sabotage. If not, the characters might need to step in before innocent people get hurt. NECROPOLIS “Promise me this: Don’t bury me with jewelry when I die. Grave robbers are an awfully creepy lot.” —Syretare, guild thief",
+        "name":  "Description",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Lower.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Never.",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Mortuaries (12%), crypts/mausoleums ( 80% ) , poo r se rvi ces ( 3% ) , poo r r esi d e n ces ( 2% ) , t e m p l e (Vecna, Wee Jas).",
+        "name":  "Buildings",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Some cities have graveyards scattered throughout their districts, but most restrict such grim sites to a speciﬁ  c location called the necropolis, which is often walled or fenced off. The district might be a literal city of the dead, with ranks of graves or crypts laid out in “streets.” Sometimes it consists of underground catacombs or rolling ﬁ  elds of graves with simple stone markers. Often plain dirt plots entomb the poor, while the rich and powerful rest in mausoleums or catacombs, often within private family plots. Such graves might be 620_95386_Ch1.indd   43620_95386_Ch1.indd   43 8/21/06   4:50:33 PM8/21/06   4:50:33 PM44 CHAPTER 1 THE SCOPE OF THE CITYlocated on private property or be set aside in restricted portions of the necropolis. The sounds of the city seem muted within the district, and the air smells earthy with a faint hint of decay. Carriages and wagons carry corpses and the bereaved to gravesites.",
+        "name":  "Description",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Someone has been digging up graves and desecrating bodies, and seemingly random murders are being committed nearby. The obvious conclusion is that a necromancer is animating the corpses, but in fact criminals have been hiding the bodies of their rivals inside other, already occupied coffins. They dig up other graves to explain away the disturbed earth, and kill at random to lead investigators to the wrong conclusion.PRISON",
+        "name":  "Plot Hook",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Lower.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Lower.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Often—nonstandard (guild). Buildings:  Temple (Olidammara), average lodging (2%), poor lodging (17%), average food (5%), poor food ( 2 0% ) , poo r tra d es ( 1 9% ) , poo r se rvi c es ( 3 5%; g am b lin g halls, festhalls, pawn shops, brothels).",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A succubus has joined the district’s prosti- tutes and is slowly building up a sizable force of besotted and charmed  minions. The ﬁ  end’s motives are unclear, and tracking it down will be difﬁ  cult, since its polymorph ability allows it to blend in with the other inhabitants of the district. SHANTYTOWN",
+        "name":  "Plot Hook",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Lower.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Never. Buildings:  Poor residences (98%).",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Here dwell the poorest of the poor. Many who reside here cannot afford even a simple room in a flophouse. They squat in broken-down build- ings, or pitch lean-tos against overcrowded apartment houses, and simply attempt to survive from day to day. No shops exist here beyond the occasional street- corner vendor. The inhabitants wear whatever rags they can scrounge up. The streets are in poor repair, drains (if they exist) back up frequently, and the district is choked with the stink of waste, unwashed bodies, and even rotting flesh. Plot Hook:  The inhabitants of a shantytown make the perfect prey for a vampire. They have few defenses, city officials rarely listen to their complaints, and no one cares about unclaimed corpses lying along the road or in gutters. The PCs might become involved when an acquaintance or relative becomes the latest victim, or when a champion of the district’s poor comes to them with her suspicions. SLAVE QUARTER",
+        "name":  "Description",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Lower.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Never.",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Overseer’s station, poor services (5%), poor residences (93%).",
+        "name":  "Buildings",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A clan of doppelgangers has taken human form and arranged to be sold into slavery. After they take up roles as slaves within the households of the city’s rich and powerful, the doppelgangers plan to take the place of those nobles, instantly and irrevocably cementing their power within the community. SLUM/TENEMENT",
+        "name":  "THE CITY Plot Hook",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Lower.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Never. Buildings:  Temple (Olidammara), poor lodging (1%), poor food (3%), poor trades (11%), poor services (6%), poor residences (77%).",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "In these run-down shacks, row houses, and cramped apartments, the majority of the city’s poor live as best they can. Some dwell in rooms that, while small and in poor condition, are relatively clean. Others shelter in rotting slums, infested with rats and roaches, whose buildings threaten to collapse around them. Unless seeking cheap labor, or cutting across to some other part of the city, the rich never come through here. The filthy streets are filled with common laborers, beggars, and others who can barely make ends meet. Plot Hook:  Some sort of natural disaster—a ﬁ  re, a ﬂ ood, a plague, or the like—is ravaging the city. The richer neighborhoods have been protected or evacuated to the best of the city’s ability, but the poor must fend for themselves. PCs who want to assist the disadvantaged residents might help them evacuate, ferry supplies, defend the injured from criminals or predators, and the like. TANNERY “I hate patrolling the tanneries. I’m tempted to cut off my own nose just to make the smell go away.” — Cholak, city watch rookie",
+        "name":  "Description",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Lower.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Never.",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temple, poor lodging (2%), poor food (7%), poor trades (60%; tanners, dyers, other trades with associated bad smells), poor services (30%).",
+        "name":  "Buildings",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "This neighborhood looks like any other poor district, though one with a high proportion of workshops, but its stench sets it apart. Here are collected the city’s most odiferous businesses, such as tanning, dyeing, and certain alchemical practices, downwind of richer neighborhoods. Nobody comes to this district without specific business, and most who In the undercity (page 48), a fair deal is one that doesn’t get you killed immediatelyIllus. by R. Horsley 620_95386_Ch1.indd   47620_95386_Ch1.indd   47 8/21/06   4:50:57 PM8/21/06   4:50:57 PM48 CHAPTER 1 THE SCOPE OF THE CITYare not accustomed to the smell linger as short a time as possible. A character entering this dustrict for the ﬁ  rst time must succeed on a DC 10 Fortitude save or become sickened for 2d20 minutes.",
+        "name":  "Description",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Lower.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Never.",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Theaters (4%), temple (Boccob), poor lodg- ing (10%), poor food (20%), poor trades (20%), poor services (29%), poor residences (15%). Description: Depending on the wealth and culture of the city, a public theater might be anything from an open-air orchestra surrounded by a semicircle of raised seats to a grand opera house. Rich and poor alike attend the performances, but the neighborhood around the theater is shabby. Acting is often seen as a low-class profession, and the living conditions for those who would work in the theater reﬂ  ect such cultural attitudes. During performances, the city watch and hired guards patrol the district, but the crime rate at other times is relatively high. The area has an odd smell, a combination of makeup and food. Plot Hook:  A recent series of murders mimics the death scenes in a popular play. The investigation has focused on the play’s performers but has turned up no leads. A relative of one of the victims, exasperated with the lack of progress, has hired the PCs to investigate the matter. UNDERCITY",
+        "name":  "Buildings",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Lower.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Lower.",
+        "name":  "Social Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The city’s many inns offer various levels of comfort for the weary traveler. A ﬂ eabag costs 2 sp per night, something clean but austere costs 5 sp, and a nice private room in an inn can cost 2 gp per night. Elegant accommodations might run even more. Accommodations, Permanent: Not much building space exists within the city walls, so most who want a per-manent home must purchase or rent an existing residence. Choices range from warrenlike tenement apartments (1d4 gp per month to rent, 1d4×100 gp to buy) to larger apart-ments above shops or freestanding cottages on the city outskirts (1d4×10 gp/month to rent, 1d4×1,000 gp to buy) to noble villas and manor houses (2d8×10 gp/month to rent, 2d8×1,000 gp to buy). In addition to buying or renting a residence, characters might wish to purchase a business or other building in a city. A poor shop (for trades or services) typically costs 2d4×100 gp, including rough shelves, a sales counter, and a back room for storage. An average shop costs 2d4×1,000 gp, including polished wood ﬂ  oors, handsome shelves, a picture window, and glass cases. A ﬁ  ne shop costs 4d8×1,000 gp and has marble ﬂ  oors, locked display cases, leather chairs, and various other luxuries. A character who is determined to build her own home usually must purchase, then demolish a structure. Even so, the city government has the authority to prevent the construction of a building it would ﬁ  nd threatening or out of place. Just because you buy a tenement and summon an earth elemental to destroy it doesn’t neces-sarily mean you can build a massive wizard’s tower in its place. Banking: Government-afﬁ  liated banks or powerful merchant guilds offer basic banking services, holding money and valuables for later withdrawal. Individuals generally can’t get loans unless they have connections to the nobility (and thus have vast tracts of land as collateral). Most lending takes place between big institutions such as guilds, governments, and churches. (And D\u0026D isn’t a game of interest rates and return on investment.) But if the PCs need a safe place to keep their wealth, the city’s major guilds are a good place to start.",
+        "name":  "ADVENTURER Accommodations, Temporary",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A trip to the local tavern is covered in the interlude on pages 44–45. Drinks cost anywhere from 4 cp for a tankard of ale to 10 gp or more for a bottle of ﬁ  ne wine. Most lower- and middle-class taverns cost nothing to enter (although some might charge a silver coin if they offer live entertainment). The social clubs of the upper classes, on the other hand, can cost 1 gp or more just to get in the door, or they might require the purchase of “memberships” for hundreds of gold pieces.  Companionship: You’ll never be so close to so many NPCs from all walks of life as when you visit the big city, and you’re likely to try befriending some of them for one purpose or another.  Most city residents have an initial attitude of indiffer-ent. If you improve their attitude to friendly by means of a Diplomacy check ( PH 72), they converse pleasantly with you and are otherwise sociable as they go about their daily routines. If you improve an NPC’s attitude to helpful, you’ve forged the beginning of a friendship that will last beyond your initial meeting. All sorts of circumstance modiﬁ  ers might apply to this interaction, based on the techniques we all use to judge others: dress, perceived social station, and demeanor, for example. Delivery/Messenger Services: A letter or small parcel can be delivered to any address in the city for a fee ranging from 1 sp, if you don’t mind a street urchin as your letter carrier, to 15 sp for a liveried messenger.",
+        "name":  "Carousing",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Quick food from a street vendor can cost as little as 10 cp, or 15 cp if you want to wash it down with cheap ale. A hearty meal and a tankard of decent ale can be had at a variety of inns for 30 cp. For those with heavy pockets, a fancy dinner costs 1 gp or more, including wine.  Education: If your campaign uses the rules for train- ing to learn skills and feats ( DMG  197), characters can ﬁ nd tutors in the city. Academic skills such as Knowledge and Profession are taught in universities and guildhalls, while skills such as Forgery, Hide, and Bluff are learned from less savory sources. Children who live in middle- or upper-class neighbor- hoods typically attend some sort of community school or take part in a general apprenticeship with a guild. Those in poorer districts learn basic arithmetic and literacy from their parents.",
+        "name":  "Dining",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bawdy, vaudeville-style variety shows can be found in many lower-class neighborhoods that can promise visitors at least a modicum of safety. Five coppers will get you entrance into such a show, although an actual seat isn’t guaranteed. Middle-class neighborhoods often have small theaters for dramatic works, while music is performed largely as entertainment in taverns. A typical play costs 3 sp (but at least you get to sit down). Music can be had in taverns either for free or for a token admission price. Operas, large-scale orchestral works, and dance perfor- mances are the province of upper-class neighborhoods. Admission ranges from 5 sp to 1 gp, or even more for particularly gifted performances. Most cities receive periodic visits from traveling carni- vals and circuses. General admission is inexpensive—a few coppers at most—but specific performances and areas within the carnival cost extra.",
+        "name":  "Entertainment",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You can hire a local to show you around, warn you about dangerous neighborhoods, and otherwise make it easier to ﬁ  nd things in the city. Hiring a 1st-level com- moner for this task costs 1 sp per day. Be warned: Some of these “guides” actually work for the local thieves guild and look for rich marks to ﬂ  eece. And almost all of them 620_95386_Ch2.indd   50620_95386_Ch2.indd   50 8/22/06   9:13:21 AM8/22/06   9:13:21 AM51CHAPTER 2 THE URBAN ADVENTURERsteer visitors toward favored shops and inns in exchange for kickbacks from the proprietors.",
+        "name":  "Guides",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cha 11. Beneﬁ  t: Your maximum number of contacts increases by four. Normal: Without this feat, a character is normally limited to a number of contacts equal to his Charisma modiﬁ  er (minimum 1).",
+        "name":  "Prerequisite",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You can take the Extra Contacts feat multiple times. Its effects stack. Each time you take the feat, you add another four to your maximum number of contacts. FAVORED You are an active and valued member of your guild, church, or other organization. Prerequisites:  Membership in a guild, church, or other organization. If selecting this feat for a church, you must also be a true member, not merely a congregant (as described on page 105). Beneﬁ  t: Select one of your organization’s associated skills. As long as you remain a member of that organization, you gain a +2 competence bonus on checks made with that skill. Additionally, you gain one special beneﬁ  t depending on your speciﬁ  c guild, church, or organization. These are described as “favored beneﬁ  ts” in the guild, organization, and church entries, beginning on page 84.",
+        "name":  "Special",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "This feat cannot be taken more than once. If the primary contact associated with this feat dies or is otherwise removed from the campaign, the DM can, at his discretion, either replace that contact with a new contact from the same organization or allow you to name one of your other contacts as your primary contact. In either event, you do not gain the bonus skill rank a second time, but neither do you lose it just because your contact has left the campaign. ROOF-JUMPER [TACTICAL] You can make use of the features of the city as handholds and footholds, defying the pull of gravity.",
+        "name":  "ADVENTURER Special",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Balance 5 ranks, Jump 5 ranks, Dodge, Mobility. Beneﬁ  t: The Roofwalker feat enables the use of three tactical maneuvers. Fleet of Feet:  You can walk across a precarious surface more quickly than normal. You can move at your full speed without taking a –5 penalty on your Balance check.",
+        "name":  "Prerequisites",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Characters without this feat can use Gather Information to ﬁ  nd out about speciﬁ  c individuals, but each check takes 1d4+1 hours and doesn’t allow for effec- tive trailing.",
+        "name":  "Normal",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Summons swarm of urban animals and vermin. 5th Level",
+        "name":  "Summon Pest Swarm",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Earthen ground and cobblestones crack and shift, hampering foes. 4th Level",
+        "name":  "Impeding Stones",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Summons swarm of urban animals and vermin. 5th Level",
+        "name":  "Summon Pest Swarm",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bard 1, cleric 1, Ebonmar inﬁ ltrator 1*, hexblade 1, paladin 1, sorcerer/wizard 1 * See page 79.Components:  V, S",
+        "name":  "DivinationLevel",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action",
+        "name":  "Casting Time",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels)",
+        "name":  "Range",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cone-shaped emanation",
+        "name":  "Area",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Concentration, up to 10 min./level (D)",
+        "name":  "Duration",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "Saving Throw",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 1, ranger 1",
+        "name":  "TransmutationLevel",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, DF",
+        "name":  "Components",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action",
+        "name":  "Casting Time",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Medium (100 ft. + 10 ft./level)",
+        "name":  "Range",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "B ri c k ,  s t o n e ,  o r  e arth e n  s ur - face in a 40-ft.-radius spread",
+        "name":  "Area",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 min./level (D)",
+        "name":  "Duration",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Reﬂ  ex partial; see text",
+        "name":  "Saving Throw",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bard 4, sorcerer/wizard 4",
+        "name":  "Level",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M",
+        "name":  "Components",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10 minutes",
+        "name":  "Casting Time",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels)",
+        "name":  "Range",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A full-sized carriage and phantom horses",
+        "name":  "Effect",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 hour/level (D)",
+        "name":  "Duration",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "Saving Throw",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A few splinters of gold-painted oak, several strands of horse hair, and a strip of leather. PEACEBOND",
+        "name":  "Material Component",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cleric 1, paladin 1, hexblade 1, sorcerer/wizard 1",
+        "name":  "TransmutationLevel",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, F",
+        "name":  "Components",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action",
+        "name":  "Casting Time",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels)",
+        "name":  "Range",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10 min./level (D)",
+        "name":  "Duration",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates (object)",
+        "name":  "Saving Throw",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Assassin 1, bard 1, blackguard 1, Ebonmar inﬁ  ltrator* 1, sorcerer/ wizard 1 * See page 79.Components:  V, S, M",
+        "name":  "Level",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard actionRange:  Touch",
+        "name":  "Casting Time",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10 min./level (D)",
+        "name":  "Duration",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates (harm- less, object)",
+        "name":  "Saving Throw",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A thin black cloth.SUMMON PEST SWARM Conjuration (Summoning)Level:  Cleric 4, druid 4, sorcerer/ wizard 4",
+        "name":  "Material Component",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M",
+        "name":  "Components",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round",
+        "name":  "Casting Time",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Long (400 ft. + 40 ft./level)",
+        "name":  "Range",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "One pest swarmDuration:  1 round/level (D)",
+        "name":  "Effect",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "Saving Throw",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A hand- ful of teeth, claws, and mandibles from urban pests (such as crows, rats, cats, and cockroaches). ZONE OF PEACE",
+        "name":  "Arcane  Material Component",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cleric 5, sorcerer/wizard 5",
+        "name":  "TransmutationLevel",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, F",
+        "name":  "Components",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 minute",
+        "name":  "Casting Time",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Aristocrat. Chamberlain On the national level, a chamberlain is a personal advisor and confidant to a titular ruling head or heads; a similar position exists at the local level as well. Chamberlains—named in part for their practice of giving advice behind closed doors, in private chambers—give counsel and lend expertise to executives and policy-makers. In some cities, the chamberlain has direct, personal authority in various proceedings, in order to ensure a more efﬁ  cient government.",
+        "name":  "Associated Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Steward.",
+        "name":  "Alternate Title",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Aristocrat.Chancellor Cities have extensive bureaucracies, including the various branches, agencies, courts, and civil services necessary to keep things running smoothly. The chancellor stands at the head of each such operation: beholden to the mayor in terms of the running of the city, but otherwise serving as a functionary of the local government. Alternate Title: Secretary.",
+        "name":  "Associated Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Aristocrat or warrior. Justice Every social system requires a means of trying criminals and hearing civil appeals; the justice (often “justice of the peace”) presides over such matters. In some cultures, justices must come from the ranks of the local nobility, while in others, even the lowliest peasant can attain the position (given time and hard work). Alternate Title:  Judge.",
+        "name":  "Associated Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Aristocrat or expert. Speaker Sometimes a government maintains an advisory council or legislative body separate from its ruler(s). This body is usually referred to as a parliament or council, its members known as lords or members of parliament. Their duties range from simply advising the ruler to legislating city law and policy. Alternate Title:  Councilor.",
+        "name":  "Associated Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Aristocrat. Alderman Most urban centers are divided into districts or wards, each of which usually needs a provincial governor, called an alderman. Aldermen are commonly elected by the residents of their ward to lend an ear to any grievances and to settle minor disputes and offenses in their court (which is often called a “ward moot”). In rare cases, the city’s parliament or city council is composed of the col-lected aldermen from the various wards. Alternate Title:  Magistrate.",
+        "name":  "Associated Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fighter. POLITICAL BODIES Below is an overview of the types of political bodies found in urban fantasy centers. Each discussion includes a sample contact upon whom the PCs can call for favors if the DM wishes. The information at the end of each sample contact entry represents the number of times such a contact can be called upon for the type of favor described. As always, the names and details can be modi- ﬁ ed to suit your campaign. Mayor’s Office The mayor might be a single individual, but in commu- nities larger than a small town, he or she needs various assistants and aides de camp to properly function; the larger the city, the more help the mayor needs. The mayor’s ofﬁ  ce in a metropolis might have a small army of adjuncts working to keep the governing machine well-oiled. Associated Skills:  Bluff, Diplomacy, Knowledge (local), Profession (scribe), Sense Motive.",
+        "name":  "Associated Class",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fulven Nuptoose (aristocrat 1/expert 3). As an aide working in the mayor’s office, Nuptoose can get the PCs some “face time” with His Eminence, if the situation warrants a personal visit. Once every two months (or more often, depending on the party’s reputation). Parliament Even in cities under an autocratic system, the local ruler usually maintains a body of advisors. It might be known by any number of names, though “parliament” and “city council” are the most common. Each speaker or councilor who sits on this body, whether elected or appointed, is a true insider with opportunities to inﬂ  uence how the city is run.",
+        "name":  "Sample Contact",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bluff, Diplomacy, Gather Information, Knowledge (local), Sense Motive. Sample Contact: Arla Dinlow (expert 5). Arla is the personal aide to a city councilor, and as such, can arrange to have her boss bring up a topic when parliament is in session. Twice every six months. The Courts Beneath the mayor sit the various city courts. Most are classified according to the topics they hear, and they typically include courts of chancery, courts of common pleas, husting courts (for disputes involving com-merce and trade), and the courts martial (for offenses involving soldiers or disputes between nobles). They normally include the court of the exchequer as well, but since the exchequer is a separate body, its court operates independently of the rest. (See below for more on the exchequer.)",
+        "name":  "Associated Skills",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Craft (any), Decipher Script, Profession (any), Sense Motive. Sample Contact:  Gadwick Fen (expert 2). As a scribe in the husting courts, Gadwick can provide information about past or pending suits between city merchants and tradespeople. Twice per month. The Exchequer The city’s ﬁ  nancial department, the exchequer is one of the most powerful and troubled institutions in an urban fantasy setting. It has its own court (creatively titled the court of the exchequer), which hears accounts and judicial pleas relating to ﬁ  nes owed the city (or vice versa). It is to the exchequer—and to its head, speciﬁ  cally the Chancel- lor of the Exchequer (who is one of the most powerful individuals in the city)—that the bailiff presents his ﬁ ndings and funds.",
+        "name":  "Associated Skills",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Appraise, Craft, Diplomacy, Knowledge (local), Knowledge (nobility and royalty), Profession.",
+        "name":  "Associated Skills",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Craft, Knowledge (nobility and royalty), Perform, Profession, Speak Language.",
+        "name":  "Associated Skills",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Appraise, Bluff, Forgery, Gather Information, Intimidate, Knowledge (local).",
+        "name":  "Associated Skills",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Decipher Script 4 ranks, Hide 8 ranks, Move Silently 8 ranks, Search 4 ranks, Sense Motive 4 ranks.",
+        "name":  "Skills",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "All PC classes.",
+        "name":  "Associated Classes",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Adept, artificer ( EBERRON Campaign Setting ), expert, sorcerer, warlock ( Complete Arcane ), wizard.",
+        "name":  "Associated Classes",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "B a r d ,  f i g h t e r ,  r o g u e ,  s c o u t (Complete Adventurer ).",
+        "name":  "Associated Classes",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bluff, Disable Device, Forgery, Hide, Move Silently, Open Lock, Sleight of Hand.",
+        "name":  "Associated Skills",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Depends on the speciﬁ  c depart- ment, but often includes aristocrat, cleric, expert, and fighter. Associated Skills:  Depends on the speciﬁ  c depart- ment, but often includes Bluff, Diplomacy, Gather Information, Intimidate, Knowledge (nobility and royalty), and Sense Motive. Duties:  Each member of a government guild must spend at least 10 hours a week working for the guild. Favored Beneﬁ  ts: The character gains a +1 bonus on Diplomacy and Intimidate checks with members of any guild. (When dealing with members of his own guild, these bonuses stack with the standard guild bonuses.) Sample Contact:  Sarruel Thorp (human aristocrat 3/expert 3). Sarruel knows how to pull the right strings and can exempt the PCs from paying one speciﬁ  c fee to the city, be it a ﬁ  ne for minor criminal activity or a tax on a large treasure haul. Once per year. LABORERS GUILDS Another relatively small but growing phenomenon, laborers guilds are associations of unskilled, low-paid, physical laborers who have banded together for mutual support. Usually, such groups organize in the hope that sufﬁ cient numbers might grant them some of the inﬂ  u- ence and authority they lack individually. The guild not only provides laborers with a place to gather and share their grievances, it attempts to negotiate with employers and the city government for wages and working condi-tions. No single laborer has any real clout, but a few of the larg er laborers guilds hav e garnered a fair amoun t of respect. Many laborers guilds must weather assaults—usually economic and political, but in some cases literal—from businesses or even government departments. Most employers, after all, dislike it when their workers band together and insist on higher wages. Although a great many laborers guilds are entirely legitimate, a portion of them have allied with criminal organizations as a means of protecting themselves from government or business reprisals. Laborers guilds still require dues from their members, but the cost is normally lower than other guilds. It varies from guild to guild, but a fee of 1 or 2 gp per level, rather than 5, is standard. Entry fees (when they are not waived) average 5 to 10 gp. Examples:  Dockworkers guild, teamsters guild.",
+        "name":  "Associated Classes",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Commoner, warrior.",
+        "name":  "Associated Classes",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None. Common and untrained laborers are the primary members of these guilds. Duties:  Members are required to support their guild and their fellow members in all confrontations. This can mean joining in demonstrations, or even going on strike (regardless of the ﬁ  nancial hardship it causes) when asked to do so. Favored Benefits:  Members gain a +1 bonus on Diplomacy and Intimidate checks when negotiating with potential employers. When performing basic physical labor, members can expect to be paid 5% to 10% more than the standard value for those services. Sample Contact:  Colson of Archer Street (human commoner 5). Colson serves as a foreman and can arrange for a labor crew to perform simple physical tasks, such as carrying goods or driving wagons, for 1d3 days. Once every 2 months. MERCANTILE GUILDS Mercantile guilds are the most common form of guild in most fantasy cities. Each is typically devoted to a single craft or profession, or at most a small group of closely related trades. A mercantile guild provides its members a place to meet and discuss business with fellow trades-folk, protection from fraud and theft, and in the case of more powerful guilds, safety from criminal guilds or excessive taxation by the government. The richest guilds might even offer loans for a member to start up or expand a business. 620_95386_Ch3.indd   89620_95386_Ch3.indd   89 8/22/06   9:20:34 AM8/22/06   9:20:34 AM90 CHAPTER 3 POLITICS AND POWER A few larger mercantile guilds oversee not a speciﬁ  c craft, but an entire market. These guilds accept all artisans and tradesfolk as members, and they have an enormous amount of political clout. On the other hand, they often require merchants to join before allowing them to set up shop in “their” city, and can often force independents out by undercutting prices, intercepting shipments, and the like.",
+        "name":  "Associated Skills",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Carpenters guild, smiths guild, the Dragon- port Merchants’ Consortium. Associated Classes:  Expert, rogue.",
+        "name":  "Examples",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "to gain the protection, respect, and authority they cannot acquire as individuals. A performers guild promotes entertainment events and combines members with complementary talents (such as grouping dancers with musicians, or actors with bards who can create illusory backdrops and special effects). The guild aids its members in ﬁ  nding taverns or theaters in which to ply their trade, or—if the guild maintains a headquarters large enough to double as a theater—draws patrons to them. The guild also provides areas to rehearse and other performers who can aid in practice or critique performances.",
+        "name":  "P e rf o rm e r s  b a n d  t o g e t h e r  i n  gu i l d s  b o t h  t o  e n a b l e  them to put on larger and more spectacular shows, and for the same reasons common laborers do",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Acting troupe, minstrels’ society, travel- ing circus. Associated Classes:  Bard, expert, rogue, wizard (illusionist). Associated Skills:  Balance, Disguise, Diplomacy, Escape Artist, Perform (any one), Sleight of Hand, Tumble. (Additionally, Handle Animal is common in circuses.)",
+        "name":  "Examples",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Members must perform their chosen services in support of other guild members as necessary. This normally requires 1d4–1 days (4 hours/day) each week. Favored Benefits:  In any city wherein the guild maintains a guildhouse, the member can substitute a Perform or Profession check for a Diplomacy or Gather Information check by offering her services for free. In addition, she earns twice the normal income when using her Perform or Profession skill to earn money. These uses of Perform or Profession must match those with which the character has earned guild member- 620_95386_Ch3.indd   90620_95386_Ch3.indd   90 8/22/06   9:20:37 AM8/22/06   9:20:37 AM91CHAPTER 3 POLITICS AND POWERship. For example, a character who joined the guild as an actor cannot apply this beneﬁ  t to Profession (black- smith) checks.",
+        "name":  "Duties",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Gerdi Tindertwig (halﬂ  ing bard 3/expert 3). Gerdi will provide performers and entertain- ment for a special occasion. Once per year. PSIONIC GUILDS A psionic guild is dedicated to exploring the secrets of the mind, making new discoveries, and enhancing the power of its members through shared resources and techniques. Psions make up the bulk of its members, but other psionic classes—and even the occasional enchantment-focused arcanist—are often welcome. Although their trappings are very different, psionic guilds often resemble arcane guilds in their general setup and methods of operation. Examples:  College of psychics, soothsayers guild.",
+        "name":  "Sample Contact",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Psion ( Expanded Psionics Handbook ), wilder ( Expanded Psionics Handbook ).",
+        "name":  "Associated Classes",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Aryn Lhal (maenad psion [telepath] 6). Aryn will use read thoughts  on a captured foe. Once per month. RACIAL GUILDS Unlike most other guilds, racial guilds are united not by common interest or a common business, but by common heritage. They allow members of a minority race—such as elves or halflings in a human city—to interact, speak their own tongue, exchange offers of employment, share news from home, and simply relax in a place designed to accommodate them. In cities where prejudice and oppression exist, these guilds also ﬁ ght for the rights of their members. In most cases, this activity means putting political and economic pressure on local merchants and, if at all possible, the govern-ment. Tales even exist of racial guilds taking up arms against the leaders of a city in open revolt. Alas, most such tales end in defeat; such guilds are not particularly powerful organizations. In the overwhelming majority of cases, only members of the race to which the guild is dedicated can join. In a select few instances, the guild allows members from other races, if they are truly devoted to helping create a better world for the guild’s primary race. Examples:  Elves’ Consortium, the Goblin Libera- tion Front. Associated Classes:  Varies by race, but always includes the race’s favored class.",
+        "name":  "Sample Contact",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Varies by race, but always includes any skills on which the race gains a racial bonus. Duties:  Members must do their best to advance the cause of the guild’s race. Wherever possible, they must buy goods and services from members of that race, and support political candidates of that race. Favored Benefits:  Members gain a +1 bonus on Diplomacy and Gather Information checks involving any member of that race who knows of the guild’s existence. Sample Contact:  Dugal Ruunahuun (dwarf ﬁ  ghter 5). Dugal will accompany the PC on a single adventure, so long as it promises to involve a conﬂ  ict with orcs, goblinoids, or giants. Once only. RELIGIOUS GUILDS A religious guild is either an association of followers of the same faith, or a multidenominational organization allowing membership from a select group of religions. In either case, a religious guild is not the same thing as a sect or cult. Such guilds might be secret orders within the larger conﬁ  nes of a church; an assembly of people with a particular goal (such as protecting the faith from enemies or proselytizing to the masses); or even a gathering of religious individuals belonging to a speciﬁ  c profession, such as a society of priests or a group of temple guards. Any sort of intrachurch orga-nization, such as an order of holy warriors or a group of scholars dedicated to researching ancient myths, might also qualify as a guild, though less formalized or smaller groups might be better portrayed as organiza-tions (see below). Examples:  Knightly order, secret order devoted to forbidden research. Associated Classes:  Cleric, expert, favored soul (Complete Divine ), paladin.",
+        "name":  "Associated Skills",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sages guild, secret society, university.",
+        "name":  "Examples",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Aristocrat, bard, expert, wizard. Associated Skills:  Decipher Script, Gather Informa- tion, Knowledge (any four), Speak Language.",
+        "name":  "Associated Classes",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Members must contribute constantly to the guild’s knowledge and lore. They must spend at least 10 hours a week in study, writing, research, and discourse with other members. A successful DC 25 Diplomacy check allows a PC to count time spent adventuring toward this requirement, if the purpose of the adven-ture is to recover some ancient lore or unearth some great secret. Favored Benefits:  To its favored members, a scho- lastic guild offers complete access to its many libraries and troves of research. A favored member who is in the guildhouse and is making use of both the library and other guild members for research purposes can take 20 on any single Knowledge skill in which he has at least 1 rank. Such painstaking research is time- consuming, however, requiring 2d4 days (8 hours per day) to complete.",
+        "name":  "Duties",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Professor Tibor Wadsworth (gnome expert 7). He will help research a specific topic (+2 bonus on the PC’s Knowledge check). Once per month. SLAVERS GUILDS A slavers guild is an odd organization. In most civilized realms, it is a subset of the criminal guild—either a branch of a larger organization, or another form of guild frowned upon by local law enforcement. In particularly vile or corrupt regions, slavers guilds operate openly, and in slaver cities, such guilds might hold more political and local power than the nominal government. Although a slavers guild is usually based in a particular city, it must operate throughout a much larger area in order to gather sufﬁ  cient “merchandise” to function. Slavers guilds purchase prisoners from the city or other legal slave-owners where possible, but most have no compunctions about kidnapping foreigners or even poor citizens to meet their quotas. Loan sharks and crime lords often sell clients to a slavers guild if the poor souls cannot repay their debts. Associated Classes: Fighter, rogue, scout ( Complete Adventurer ), sorcerer, wizard.",
+        "name":  "Sample Contact",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bluff, Diplomacy, Escape Artist, Gather Information, Intimidate, Search, Sense Motive, Spot, Use Rope. Duties:  Members must spend at least four days out of every month in direct service to the guild. In some instances, this might simply involve arranging sales and meeting with clients. For characters with levels in adven- turing classes, however, these duties more likely involve capturing new slaves or guarding and transporting those already under the guild’s whip. Favored Benefits:  Favored members of the guild can purchase slaves at a 20% discount. Further, if a favored member needs a few hours of physical labor performed, the guild provides the temporary loan of slaves, free of charge.",
+        "name":  "Associated Skills",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Durland Galth (human expert 3/ rogue 3). Durland will aid the PCs in tracking the sale of any slaves provided by the guild, or in discovering where said slaves might have originated. Once every 2 months. CRIMSON SCOURGE “Don’t worry. I’ll see that the package is delivered unharmed. Well . . . mostly unharmed.” —Geddrik the Whip In the fantasy world as well as the real world, the reach of the law sometimes isn’t enough. When a criminal is on the loose, or a prisoner has escaped, professional bounty hunters offer their services to bring in the fugi-tive. Additionally, in some urban fantasy settings, the slave trade is just an accepted fact of life. And just as a rancher sends herders after stray cattle, so too must a slaver hire specialists to track down and recover lost or escaped slaves. Whether they are independent crime-ﬁ  ghters assisting the law or grim mercenaries who hunt living property, such trained specialists are called crimson scourges. These fearsome trackers are known not only for their 620_95386_Ch3.indd   92620_95386_Ch3.indd   92 8/22/06   9:20:45 AM8/22/06   9:20:45 AM93CHAPTER 3 POLITICS AND POWERefﬁ ciency, but for their zealous commitment to the task at hand. Crimson scourges are dedicated—at least to the handsome sums they earn. BECOMING A CRIMSON SCOURGE The crimson scourge is a tough and efﬁ  cient tracker who specializes in dealing painful but ultimately nonlethal wounds. Scourges hail almost exclusively from the ranks of barbarians, ﬁ  ghters, and rangers, though the occasional dedicated warrior might join their ranks as well. Druids can qualify almost as quickly, but most ﬁ  nd a scourge’s work distasteful or unfulﬁ  lling. All other classes either cannot meet the alignment and/or skill requirements, or must reach higher levels before qualifying to become a crimson scourge. Entry Requirements",
+        "name":  "Sample Contact",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any nongood.",
+        "name":  "Alignment",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+4.",
+        "name":  "Base Attack Bonus",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+3.",
+        "name":  "Base Fort Save",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The Arcane Order, the Circle of Eight, the Red Wizards of Thay. Associated Classes:  Adept, archivist ( Heroes of Horror ), bard, expert, monk, sorcerer, warlock ( Complete Arcane ), wizard.",
+        "name":  "Examples",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Barbarian, bard, ﬁ  ghter, warrior, ranger, rogue. Associated Skills:  Appraise, Bluff, Disable Device, Disguise, Escape Artist, Forgery, Gather Information, 620_95386_Ch3.indd   98620_95386_Ch3.indd   98 8/22/06   9:21:10 AM8/22/06   9:21:10 AM99CHAPTER 3 POLITICS AND POWERHide, Intimidate, Move Silently, Open Lock, Sense Motive, Sleight of Hand, Tumble.",
+        "name":  "Associated Classes",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    }
+]

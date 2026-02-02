@@ -1,0 +1,51 @@
+﻿[
+    {
+        "origin_file":  "weapons.json",
+        "description":  " It’s not possible to overrun as part of a charge. This ability is the equivalent of a spell of a level equal to Delete “or as part of a charge” from the first sentence of one-third the paladin’s class level. the first paragraph. Rogue Proficiency In the “Step 3” paragraph, delete the sentence that refers to making the overrun as part of a charge. Player\u0027s Handbook, page 50 Add “sap” to the list of weapons with which a rogue is Blasphemy proficient. Player\u0027s Handbook, page 205",
+        "name":  "After the first sentence of the second paragraph, insert",
+        "source":  "players_handbook_errata.txt",
+        "_id":  "fa4664f1d3ecdb18f8d268d5ac285f613bb32d79f6c36c8cdaf593980730e1cf"
+    },
+    {
+        "origin_file":  "weapons.json",
+        "description":  " Range and area figures are inconsistent. . . . plus the hand crossbow, rapier, sap, shortbow, and Change range from 30 ft. to 40 ft. short sword. Chaos Hammer Listen Player\u0027s Handbook, page 208 Player\u0027s Handbook, page 78 The slowed effect is described differently here from Under the “Listen DC Modifier” header, the last two what’s said in the slow spell. numbers are wrong. Player\u0027s Handbook v.3.5 Errata 09/07/2004 Version 09072004 ©2004 Wizards of the Coast, Inc., a subsidiary of Hasbro, Inc. All rights reserved. Delete the two sentences beginning with “A slowed you normally channel positive energy) or damage creature.” reduction 3/good (if you normally channel negative Insert the following text just before the end of the first energy). At 12th level this damage reduction becomes sentence of this paragraph: 6/evil or 6/good, and at 15th level it becomes 9/evil or (see the slow spell) 9/good (the maximum). Darkvision Scrying Player\u0027s Handbook, page 216 Player\u0027s Handbook, page 274 Stat block contains two Saving Throw entries. Descriptive text contradicts itself on whether the spell Delete “Saving Throw: None” allows hearing as well as vision. Change “If the save fails, you can see (but not hear)” Area Dispel to Player\u0027s Handbook, page 223 “If the save fails, you can see and hear” The area affected by an area dispel use of dispel magic is Shapechange given as a 20-ft.-radius burst in one place and a 30-ft.- radius in another. Player\u0027s Handbook, page 277 In the middle column, about halfway down, change “30- Second sentence of spell description is in error. foot radius” to “20-foot radius.” Change “more than twice your caster level in Hit Dice” to “more than your caster level in Hit Dice.” Also, Divine Favor change “50” to “25” Player’s Handbook, page 224 Spell Turning Changes to the spell’s description are noted in boldface type: Player\u0027s Handbook, page 282 Calling upon the strength and wisdom of a deity, you The example used in the spell description is incorrect, gain a +1 luck bonus on attack and weapon damage rolls because it makes use of a touch-range spell (inflict for every three caster levels you have (at least +1, critical wounds). maximum +3). The bonus doesn’t apply to spell In the fourth paragraph of the spell description, change damage. the text to read as follows: “. . . targeted by a magic missile spell heightened to 4th level, you would turn . . .” Glibness Player\u0027s Handbook, page 236 Stone Shape In second paragraph of description, “divination” is Player\u0027s Handbook, page 284 incorrect because zone of truth (mentioned as an example The level of stone shape as a Sor/Wiz spell is of a divination) is not a divination spell. inconsistent here with where the spell is located on the",
+        "name":  "Change text to read as follows",
+        "source":  "players_handbook_errata.txt",
+        "_id":  "fa4664f1d3ecdb18f8d268d5ac285f613bb32d79f6c36c8cdaf593980730e1cf"
+    },
+    {
+        "origin_file":  "weapons.json",
+        "description":  "Breath weapon, trip",
+        "name":  "Reference Special Attacks",
+        "source":  "the_slayers_guide_to_winter_wolves.txt",
+        "_id":  "5bece2501e04ebf556de844b5b53aa35ef1cc425d1fdacb341ea3f8aa880dccd"
+    },
+    {
+        "origin_file":  "weapons.json",
+        "description":  "8d10+32 (76 hp) Special Attacks: Breath weapon, trip",
+        "name":  "Hit Dice",
+        "source":  "the_slayers_guide_to_winter_wolves.txt",
+        "_id":  "5bece2501e04ebf556de844b5b53aa35ef1cc425d1fdacb341ea3f8aa880dccd"
+    },
+    {
+        "origin_file":  "weapons.json",
+        "description":  "Breath weapon, trip Feats: Alertness, Improved Initiative",
+        "name":  "Special Attacks",
+        "source":  "the_slayers_guide_to_winter_wolves.txt",
+        "_id":  "5bece2501e04ebf556de844b5b53aa35ef1cc425d1fdacb341ea3f8aa880dccd"
+    },
+    {
+        "origin_file":  "weapons.json",
+        "description":  "7d10+21 (59 hp) Special Attacks: Breath weapon, trip",
+        "name":  "Hit Dice",
+        "source":  "the_slayers_guide_to_winter_wolves.txt",
+        "_id":  "5bece2501e04ebf556de844b5b53aa35ef1cc425d1fdacb341ea3f8aa880dccd"
+    },
+    {
+        "origin_file":  "weapons.json",
+        "description":  "Breath weapon (5 ft. cone, 2d6 damage), trip Challenge Rating: 2",
+        "name":  "Special Attacks",
+        "source":  "the_slayers_guide_to_winter_wolves.txt",
+        "_id":  "5bece2501e04ebf556de844b5b53aa35ef1cc425d1fdacb341ea3f8aa880dccd"
+    }
+]

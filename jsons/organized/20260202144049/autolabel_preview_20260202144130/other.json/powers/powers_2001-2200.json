@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "other.json",
+        "description":  "hostile. Unf: unfriendly. Indif: indifferent. Friend: friendly.",
+        "name":  "Hos",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "helpful. Climb",
+        "name":  "Help",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "In addition to the attitudes listed in the DUNGEON otherwise un- MASTER\u0027s Guide, the attitude of fanatic is added here. In climbable surfaces. addition to the obvious effects, any NPC whose attitude DC Surface is fanatic gains a +2 morale bonus to Strength and Con- 70 A perfectly smooth, stitution scores, a +1 morale bonus on Will saves, and a –1 flat, vertical surface penalty to AC whenever fighting for you or your cause. 100 A perfectly smooth, This attitude will remain for one day plus one day per flat, overhang or ceiling point of your Charisma bonus, at which point the NPC\u0027s attitude will revert to its original attitude (or indifferent,",
+        "name":  "You can climb Fanatic",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You can climb your speed as a move- if no attitude is specified). equivalent action, or double your speed as a full-round Treat the fanatic attitude as a mind-affecting enchant- action (requiring two Climb checks), but you take a –20 ment effect for purposes of immunity, save bonuses, or penalty on your check. being detected by the Sense Motive skill. Because it is",
+        "name":  "Rapid Climbing",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "This allows you to find a gap of You can greatly speed a patient\u0027s recovery of hit points. weakness in a wall of force (or similar force effect) and squeeze through it. Task DC Quicken recovery 50 Forgery Perfect recovery 100 You can forge handwriting that you haven\u0027t even seen. Quicken Recovery: You can allow a character to regain hit points in a single hour as if you had provided long-term Condition Reader\u0027s Check Modifier care for a full day (2 or 3 hit points per level, based on Forge document without sample +50 activity). You can quicken the recovery of up to six",
+        "name":  "Pass through Wall of Force",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You can forge a document patients at a time. No character\u0027s recovery can be quick- without having seen a similar document or having a ened more than once per day (even by different healers). sample of the handwriting to be copied. Perfect Recovery: You can allow a character to regain hit points in a single hour as if you had provided long-term Gather Information care for a full week (2 or 3 hit points per level per day, You can gather information without eliciting suspicion. based on activity). You can use perfect recovery on up to six patients at a time. No character\u0027s recovery can be per- Task Check Modifier fected more than once per day, nor can perfect recovery Avoid suspicion –20 and quicken recovery both be used on the same patient in",
+        "name":  "Forge Document without Sample",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "By accepting a –20 penalty on your the same day (even by different healers). Gather Information check, you can avoid any suspicions that might otherwise be aroused by someone pursuing Hide sensitive information. You can hide others as well as hiding yourself. Task Check Modifier Hide another –30",
+        "name":  "Avoid Suspicion",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "This allows you to stand on your You can discern a target\u0027s alignment and even detect sur- mount\u0027s back even during movement or combat. You take face thoughts. no penalties to actions while doing so.",
+        "name":  "Stand on Mount",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As a free action, you can attempt Task DC to control a light horse, pony, or heavy horse while in Discern partial alignment 60 Discern full alignment 80 combat. If you fail, you control the mount as a move- Detect surface thoughts 100 equivalent action. You do not need to roll for warhorses or warponies.",
+        "name":  "Unconscious Control",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "This use of the skill lets you sion (but you must be able to see it). determine both components of a target\u0027s alignment. You can\u0027t retry the check. The target must be visible and Swim within 30 feet of you. You can swim up vertical surfaces, or swim much faster",
+        "name":  "Discern Full Alignment",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You can splice two ropes together as a Wisdom modifier. The temporary hit points move-equivalent action. persist until lost. You cannot check for temporary",
+        "name":  "Quick Splicing",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You can tie a knot that only you know hit points more than once per day. Temporary hit points gained through Autohypnosis do not how to untie. This doesn\u0027t affect any Escape Artist checks stack with temporary hit points gained through made to escape your bindings (since knots aren\u0027t the only any other source part of bindings).",
+        "name":  "Tie Unique Knot",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A minimum ability score, another feat, a minimum base attack bonus, a skill, a class feature, or some other ability that a character must have in order to acquire this feat. This entry is absent if a feat has no prerequisite. Many feats have more than one prerequisite.",
+        "name":  "Prerequisite",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "What the feat enables you (the character) to do. If you have the same feat more than once, its ben- efits do not stack unless indi- cated otherwise in the de- scription. In general, having a feat twice is the same as having it once.",
+        "name":  "Benefit",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "What a character who does not have this feat is limited to or restricted from doing. If not having the feat causes no particular drawback, this entry is absent.",
+        "name":  "Normal",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Dodge, Mobility, Point Blank Shot.",
+        "name":  "Prerequisites",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Dex 25, slippery mind class feature. Benefit: Choose a type of energy (acid, cold, electric-",
+        "name":  "Prerequisites",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ability to wild shape into a Huge animal. if the same type of energy is chosen, the effects stack.",
+        "name":  "Prerequisite",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Dex 25, Dodge, Tumble 30 ranks, im- Epic Reputation [Epic] proved evasion, defensive roll class feature. Your reputation provides great bonuses on interactions",
+        "name":  "Prerequisites",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Once per round, when struck by an attack with others. from an opponent you have designated as the object of Benefit: You gain a +4 bonus on Bluff, Diplomacy, your dodge, you may automatically avoid all damage Gather Information, Intimidate, and Perform checks. from the attack. Epic Skill Focus [Epic] Epic Endurance [Epic] Choose a skill, such as Move Silently. You have a leg- You are capable of legendary feats of stamina. endary knack with that skill.",
+        "name":  "Benefit",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Con 25, Endurance. Prerequisite: 20 ranks in the skill selected.",
+        "name":  "Prerequisites",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Whenever you make a check for performing a Benefit: You gain a +10 bonus on all skill checks with physical action that extends over a period of time (run- that skill. ning, swimming, holding your breath, and so on), you get Special: You can gain this feat multiple times. Its a +10 bonus on the check. effects do not stack. Each time you take the feat, it applies to a different skill. Epic Fortitude [Epic] You have tremendously high fortitude. Epic Speed [Epic]",
+        "name":  "Benefit",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You gain a +4 bonus on all Fortitude saving You can move much more quickly than a normal person throws. Prerequisites: Dex 21, Run.",
+        "name":  "Benefit",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Con 25. Benefit: Your Intelligence increases by 1 point.",
+        "name":  "Prerequisite",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "This feat may be taken multiple times. Its Your smite attacks are much more powerful than normal. effects stack. Prerequisites: Cha 25, smite ability (from class feature or domain granted power). Fine Wild Shape [Wild] [Epic] Benefit: Whenever you make a successful smite You can wild shape into animals of Fine size. attack, add twice the appropriate level to damage (rather",
+        "name":  "Special",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You can use your wild shape to take the shape effects stack. Remember that two doublings equals a of a Fine animal. tripling, and so forth.",
+        "name":  "Benefit",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You can gain this feat multiple times. Its components. This feat does not affect the need for a focus effects stack. or divine focus. *This feat is presented in the Nonepic Feats section at Great Wisdom [Epic] the end of this chapter. Your willpower and insight are greater than normal.",
+        "name":  "Special",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Your Wisdom increases by 1 point. Improved Alignment-Based Casting [Epic]",
+        "name":  "Benefit",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The number of allies you can affect with your Special: This benefit overrides (does not stack with) inspire competence or inspire greatness bardic music the granted powers of the Chaos, Evil, Good, and Law ability doubles. When inspiring competence in multiple domains. allies, you can choose different skills to inspire for dif- You may select this feat multiple times. Its effects do not ferent allies. stack. Each time you take the feat, it applies to a different",
+        "name":  "Benefit",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A character can gain this feat multiple times. alignment-based domain to which you have access. Its effects stack. Remember that two doublings equals a tripling, and so forth. Improved Arrow of Death [Epic]",
+        "name":  "Special",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Deafening Song, Perform 27 ranks, This feat may be taken multiple times. Its effects stack. bardic music class feature.",
+        "name":  "Prerequisite",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Smite evil class feature, any good ranks. alignment. Benefit: You don\u0027t incur attacks of opportunity for",
+        "name":  "Prerequisites",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Darkvision. Prerequisite: Low-light vision.",
+        "name":  "Prerequisite",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "This feat may be taken multiple times. Its Special: This feat may be taken multiple times. Its effects stack. Remember that two doublings equals a effects stack. Remember that two doublings equals a tripling, and so on. tripling, and so on. Improved Death Attack [Epic] Improved Manifestation [Epic]",
+        "name":  "Special",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Death attack class feature, sneak attack You can manifest psionic powers more powerful than the +5d6. normal limits of manifestation.",
+        "name":  "Prerequisites",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Add +2 to the DC of your death attack. Prerequisite: Ability to manifest powers of the normal",
+        "name":  "Benefit",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "This feat may be taken multiple times. Its maximum level in at least one psionic class. effects stack. Benefit: When you select this feat, your metapsionic power point cost limit is increased by +2. For example, if Improved Elemental Wild Shape [Wild] [Epic] you select this feat at 21st level, you could use meta- You can take the form of a greater variety of elementals psionic feats in conjunction with other powers so that than normal. you could spend a total of 22 power points on any single",
+        "name":  "Special",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Wis 25, ability to wild shape into an ele- power. However, in order to manifest the power, your key mental. ability score must be equal to or higher than the total",
+        "name":  "Prerequisites",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Without this feat, you may only wild shape Additionally, you gain 19 power point when first taking into a Small, Medium-size, or Large air, earth, fire, or this feat. water elemental. Normal: Without this feat, a power altered by meta- | psionic feats cannot cost more power points than the Improved Favored Enemy [Epic] manifester\u0027s level minus 1 (minimum 1).",
+        "name":  "Normal",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Five or more favored enemies. Special: You can gain this feat multiple times. Each",
+        "name":  "Prerequisite",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Add +1 to the bonus on Bluff, Listen, Sense time this feat is gained, your power point cost limit is Motive, Spot, and Wilderness Lore checks and damage increased by an additional +2 and you gain a number of power rolls against all your favored enemies. points equal to you previous benefit + 2.",
+        "name":  "Benefit",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Wis 21, Ki strike +3. you only apply precision-based damage (such as sneak",
+        "name":  "Prerequisites",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Add +1 to the effective enhancement bonus attack damage or the ranger\u0027s favored enemy bonus) of your unarmed attacks. once. If you score a critical hit, only one of the arrows",
+        "name":  "Benefit",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You can gain this feat multiple times. Its deals critical damage (your choice); all others deal effects stack. normal damage.",
+        "name":  "Special",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cha 25, Epic Leadership, Leadership, Prerequisite: Sneak attack +8d6, crippling strike class Diplomacy 30 ranks, must rule own kingdom and have feature. a stronghold. Benefit: Any time you deal damage with a sneak",
+        "name":  "Prerequisites",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Jump 24 ranks. Benefit: You can use your normal wild shape ability to",
+        "name":  "Prerequisite",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ride 24 ranks. You can activate a staff without using a charge.",
+        "name":  "Prerequisite",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Wis 25, Track, Knowledge (nature) 30 to lose a 3rd-level prepared slot in order to active lightning ranks, Wilderness Lore 30 ranks. bolt from the staff, but you can\u0027t use this feat to emulate a",
+        "name":  "Prerequisites",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You gain a +10 bonus on all grapple checks. find a wand of lightning bolt with 3 charges, you can expend",
+        "name":  "Benefit",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 21, Con 21, greater rage class feature. unleash a burst of negative energy.",
+        "name":  "Prerequisites",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "While in a defensive stance, you may take one levels. The Fortitude save DC to remove these levels one 5-foot adjustment each round without losing the benefits day later is equal to 10 + 1/2 your effective turning level + the stance. your Charisma modifier.",
+        "name":  "Benefit",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "AN ALTERNATIVE [EPIC] components, so you may choose to require that a true As written, the Planar Turning feat stresses the good-versus- neutral character select one of the four alignment compo- evil axis of alignment. However, there are two alternative nents that he will treat as part of his alignment for the versions of this feat that allow it to work differently. purposes of this feat (much as a lawful neutral, neutral, or If your campaign stresses the law–chaos axis of alignment, chaotic neutral cleric must decide whether he turns or you can allow a character to select a lawful or chaotic version rebukes undead). of this feat. A lawful version would turn (or destroy) all chaotic For example, a lawful good cleric using the second alter- outsiders and rebuke (or command) all lawful outsiders, while native version of this feat would turn (or destroy) all the chaotic version would turn (or destroy) all lawful outsiders outsiders who had either “chaotic” or “evil” in their align- and rebuke for command) all chaotic outsiders. The character ment (CG, CN, CE, NE, LE) and would rebuke (or command) must be of the alignment that he chooses (you must be lawful all outsiders who had neither “chaotic” nor “evil” in their to select the lawful version, and you must be chaotic to choose alignment (LG, NG, LN, N). A chaotic neutral cleric using the chaotic version). this version of the feat would turn (or destroy) all outsiders A second alternative is to say that anyone using this feat who had “lawful” in their alignment (LG, LN, LE) and would turns (or destroys) all outsiders who have at least one align- rebuke (or command) all outsiders who did not have ment component opposed to one of your alignment compo- “lawful” in their alignment (NG, N, NE, CG, CN, CE). A nents (good versus evil, law versus chaos) and rebukes (or neutral cleric would rebuke (or command) all outsiders commands) all outsiders who have no alignment compo- (unless the DM required that he choose an alignment nents opposed to yours. For the purposes of this version of component, in which case he would be treated as being LN,: the feat, neutral is opposed to none of the other alignment NG, CN, or NE for the purposes of this feat). 64 :1 RETPAHC ,SRETCARAHC STAEF \u0026 SLLIKS If you can turn undead, you turn (or destroy) all evil equal to or less than your effective cleric level minus 10 outsiders and rebuke (or command) all nonevil out- (and automatically destroys undead with Hit Dice equal siders. If you can rebuke undead, you rebuke (or com- to or less than your effective cleric level minus 20). For mand) all evil outsiders and turn (or destroy) all example, a 22nd-level cleric would automatically turn nonevil outsiders. any nearby wights or wraiths and would automatically destroy any Medium-size skeletons or zombies that came Plant Wild Shape [Wild] [Epic] near him, but would have to turn nightshades and the You can wild shape into plant form. like normally.",
+        "name":  "PLANAR TURNING",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You can use your normal wild shape ability to take the form of a plant. The size limitation is the same as Ranged Inspiration [Epic] your limitation on animal size. You can use your bardic music at a greater range than normal. Polyglot [Epic] Prerequisite: Bardic music class feature, Perform 25 You can speak, read, and write all languages. ranks.",
+        "name":  "Benefit",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Int 25, Speak Language (five languages). Benefit: Double the range of any bardic music abil-",
+        "name":  "Prerequisites",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cha 25, ability to turn undead, ability doesn’t change regardless of any extended range the to cast dispel evil. bard’s ability may have.)",
+        "name":  "Prerequisites",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Combat Reflexes, Perform 30 ranks, scrolls. bardic music class feature.",
+        "name":  "Prerequisite",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Without this feat, you can only use counter- Special: This feat may be taken multiple times. Each song on your turn. time it is taken, the miss chance increases by 10% to a maximum of 50% after it has been taken five times. Reflect Arrows [Epic] You reflect ranged attacks back upon the attacker. Shattering Strike [Epic]",
+        "name":  "Normal",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Wis 19, Improved Unarmed Strike, attacks of opportunity. You can’t use Shattering Strike to Stunning Fist, any lawful alignment. escape bonds (unless you are so bound as to allow you to",
+        "name":  "Prerequisites",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 25, Power Attack, Sunder, rage Benefit: Any attack of opportunity you make is con- 5/day. sidered a sneak attack.",
+        "name":  "Prerequisites",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Combat Reflexes. Swarm of Arrows [Epic]",
+        "name":  "Prerequisite",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Intimidate 25 ranks, rage 5/day.",
+        "name":  "Prerequisites",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 25, rage 5/day. Prerequisites: Smite good class feature, any evil",
+        "name":  "Prerequisites",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Search 25 ranks, Spot 25 ranks, ability 24 ranks, wild shape 6/day. to find traps as a rogue. Benefit: You can use your normal wild shape ability to",
+        "name":  "Prerequisites",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fly speed, Flyby Attack, Dodge, Mobility. you apply precision-based damage (such as sneak attack damage",
+        "name":  "Prerequisite",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "468,000 gp; 10 days; 18,720 XP. Seed: life (DC Animus Blast 27). Factor: activates when subject is slain (+25 DC). Evocation [Cold]",
+        "name":  "To Develop",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ritual, V, S, XP vermin (ad hoc +2 DC). Mitigating factor: change",
+        "name":  "Components",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "100 days, 11 minutes range to personal (–2 DC).",
+        "name":  "Casting Time",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "0 ft.",
+        "name":  "Range",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "One living vault, 50 ft. by 50 ft. by 10 ft. When you “don” a crown of vermin, one thousand ven-",
+        "name":  "Effect",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous omous, biting and stinging spiders, scorpions, beetles,",
+        "name":  "Duration",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None and centipedes apparently erupt from the very air around",
+        "name":  "Saving Throw",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, XP slowly today!”). The ghoul serves you indefinitely. You",
+        "name":  "Components",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 action cannot exceed the normal limit for controlling undead",
+        "name":  "Casting Time",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous (20 hours for compulsion) to exceed the normal limit for controlled undead work",
+        "name":  "Duration",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates (see text) just as well with undead created with demise unseen.",
+        "name":  "Saving Throw",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1,000-ft.-radius emanation",
+        "name":  "Area",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2,000 XP. ards section in Chapter 3 of the DUNGEON MASTER’s Guide).",
+        "name":  "XP Cost",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10,000 XP. 76 :2 RETPAHC SLLEPS CIPE Dragon Knight (Ritual) Conjuration (Summoning) [Fire]",
+        "name":  "XP Cost",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, Ritual",
+        "name":  "Components",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 action",
+        "name":  "Casting Time",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "75 ft.",
+        "name":  "Range",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "One summoned adult red dragon",
+        "name":  "Effect",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 rounds (D)",
+        "name":  "Duration",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None (see text)",
+        "name":  "Saving Throw",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, Ritual, XP",
+        "name":  "Components",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 action",
+        "name":  "Casting Time",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "75 ft.",
+        "name":  "Range",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ten summoned adult red dragons",
+        "name":  "Effect",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 rounds (D)",
+        "name":  "Duration",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None (see text)",
+        "name":  "Saving Throw",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2,000 XP (per caster). Dreamscape Transmutation [Teleportation]",
+        "name":  "XP Cost",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S",
+        "name":  "Components",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch spread mass into paper-thin disk (ad hoc +2 DC), keep",
+        "name":  "Range",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous (D) burn 4,000 XP (–40 DC).",
+        "name":  "Duration",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Yes (harmless) (see text)",
+        "name":  "Saving Throw",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, XP then the eidolon would have more character levels than",
+        "name":  "Components",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10 minutes she does.",
+        "name":  "Casting Time",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "200 miles Treat the duplicate as yourself with a number of nega-",
+        "name":  "Range",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5-mile radius, centered on you tive levels conferred that would lower you to the charac-",
+        "name":  "Area",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Up to 8 hours (D) ter level of the eidolon. Your eidolon is considered fresh",
+        "name":  "Duration",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, M, XP, Ritual",
+        "name":  "Components",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "75 ft. Conjuration (Creation) [Force]",
+        "name":  "Range",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Permanent Components: V, S",
+        "name":  "Duration",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates Casting Time: 1 minute",
+        "name":  "Saving Throw",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, Ritual, XP Saving Throw: Will negates (harmless)",
+        "name":  "Components",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch To Develop: 405,000 gp; 9 days; 16,200 XP. Seed: fortify",
+        "name":  "Range",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Permanent ing factor: two additional casters contributing 6th-level",
+        "name":  "Duration",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "7,500 XP. Range: 12,000 ft.",
+        "name":  "XP Cost",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous",
+        "name":  "Abjuration Duration",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 minute To Develop: 531,000 gp; 11 days; 21,240 XP. Seed: destroy",
+        "name":  "Casting Time",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch (DC 29). Factors: increase damage to 35d6 (+30 DC), 1-",
+        "name":  "Range",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Permanent 2,000 XP (–20 DC).",
+        "name":  "Duration",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates",
+        "name":  "Saving Throw",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous",
+        "name":  "Duration",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "400 XP. Let Go of Me Kinetic Control Transmutation",
+        "name":  "XP Cost",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S Casting Time: 1 free action",
+        "name":  "Components",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 minute Range: Touch (see text)",
+        "name":  "Casting Time",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "12 hours or until discharged Saving Throw: Fortitude half",
+        "name":  "Duration",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None tion (ad hoc –20 DC), 1-action casting time (+20 DC).",
+        "name":  "Components",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 action Mitigating factors: 12d6 backlash (–12 DC), burn 1,000",
+        "name":  "Casting Time",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "300 ft. or 150 ft. XP (–10 DC).",
+        "name":  "Range",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Reflex half larva’s body physically replaces yours, though the dream",
+        "name":  "Saving Throw",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "495,000 gp; 10 days; 19,800 XP. Seed: trans- Lord of Nightmares form (DC 21). Factors: change target to area of 20-ft. Conjuration (Summoning) hemisphere (+10 DC), increase area by 100% (+4 DC), 1-",
+        "name":  "To Develop",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, XP",
+        "name":  "Components",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 action Culled from the repertoire of the legendary wizard Miko,",
+        "name":  "Casting Time",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 rounds their mental faculties, including personality, Intelligence,",
+        "name":  "Duration",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None Wisdom, and Charisma scores, level and class, hit points",
+        "name":  "Saving Throw",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None 1d4 rounds. Whether or not the save is successful, that crea-",
+        "name":  "Components",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 quickened action ture cannot be affected again by that mummy’s despair abil-",
+        "name":  "Casting Time",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "300 ft. ity for one day.",
+        "name":  "Range",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous titude save (DC 20), incubation period 1 day; damage",
+        "name":  "Duration",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fortitude partial (see text) 1d6 temporary Constitution. Unlike normal diseases,",
+        "name":  "Saving Throw",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M, XP half damage to mummies. Apply this effect before",
+        "name":  "Components",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 action damage reduction.",
+        "name":  "Casting Time",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch Fire Vulnerability (Ex): A mummy takes double",
+        "name":  "Range",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Two 18-HD mummies damage from fire attacks unless a save is allowed for half",
+        "name":  "Effect",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous damage. A successful save halves the damage and a failure",
+        "name":  "Duration",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None doubles it.",
+        "name":  "Saving Throw",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Specially prepared mummy dust range from touch (+4 DC), 1-action casting time (+20 (10,000 gp). DC). Mitigating factor: burn 1,000 XP (–10 DC).",
+        "name":  "Material Component",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1,000 XP. Range: 0 ft.",
+        "name":  "XP Cost",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1,000-ft.-radius hemisphere",
+        "name":  "Area",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Achaierai (Ritual) Duration: Instantaneous Conjuration (Creation, Healing) Saving Throw: Fortitude negates",
+        "name":  "Origin of Species",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, DF, Ritual, XP To Develop: 936,000 gp; 19 days; 37,440 XP. Seed: afflict",
+        "name":  "Components",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "100 days, 11 minutes (DC 19). Factors: change target to area (+10 DC),",
+        "name":  "Casting Time",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "0 ft. change 20-ft. radius to 1,000-ft. radius (+200 DC), dis-",
+        "name":  "Range",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Permanent tors: casting time increased by 9 minutes (–18 DC), two",
+        "name":  "Duration",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S This potent and terrible ritual might be perpetrated upon a",
+        "name":  "Components",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 minute small rural farming community, spreading in every direction",
+        "name":  "Casting Time",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Personal and afflicting crops, orchards, farm animals and residents alike in",
+        "name":  "Range",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You devastating fashion. Or it could be cast in the middle of a bustling",
+        "name":  "Target",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S Ruin",
+        "name":  "Components",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 minute Transmutation",
+        "name":  "Casting Time",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2-mile-radius emanation Components: V, S, XP",
+        "name":  "Area",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 hours Casting Time: 1 full round",
+        "name":  "Duration",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Reflex negates (see text) Range: 12,000 ft.",
+        "name":  "Saving Throw",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "450,000 gp; 9 days; 18,000 XP. Seeds: energy nonliving matter (fire) (DC 19), energy (weather) (DC 19). Factor: change Duration: Instantaneous rain to wisps of flame (ad hoc +12 DC). Saving Throw: Fortitude half",
+        "name":  "To Develop",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, Ritual, XP Casting Time: 1 minute",
+        "name":  "Components",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "65 days, 11 minutes Range: Touch",
+        "name":  "Casting Time",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "100-ft.-radius hemispherical island Duration: Contingent until expended, then 1 round of",
+        "name":  "Area",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Permanent safe time",
+        "name":  "Duration",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None Saving Throw: None",
+        "name":  "Saving Throw",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10 minutes During this time, your own body remains in a trance-",
+        "name":  "Casting Time",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "See text like state. If the subject takes damage, you sense the",
+        "name":  "Range",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 minutes (D) any ill effects. If the subject is knocked unconscious or",
+        "name":  "Duration",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10 minutes action, but it does not draw an attack of opportunity. It is",
+        "name":  "Casting Time",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "See text a purely mental exercise not obvious to observers.",
+        "name":  "Range",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 minutes (D) Summon Behemoth",
+        "name":  "Duration",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates Conjuration (Summoning)",
+        "name":  "Saving Throw",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None Your future self has all the resources you have at the",
+        "name":  "Saving Throw",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S Round Three: You rejoin the time stream. You arrive in",
+        "name":  "Components",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 action the same location and condition that your future self",
+        "name":  "Casting Time",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "300 ft. ended with at the end of the first round. Any resources",
+        "name":  "Range",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous round one are gone for real. Record them now.",
+        "name":  "Duration",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S",
+        "name":  "Components",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 action Transmutation [Teleportation] Range: 12,000 ft.",
+        "name":  "Time Duplicate Casting Time",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S nonliving matter in line of sight",
+        "name":  "Components",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 free action Duration: Instantaneous",
+        "name":  "Casting Time",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You Saving Throw: Fortitude half",
+        "name":  "Effect",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None (harmless) To Develop: 3,771,000 gp; 76 days; 150,840 XP. Seed:",
+        "name":  "Saving Throw",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "639,000 gp; 13 days; 25,560 XP. Seed: trans- DC), 1-action casting time (+20 DC). Mitigating factor: port (to move future you back in time 1 round) (DC 27). 200d6 backlash (–200 DC).",
+        "name":  "To Develop",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 minute seeds and connecting pieces called factors. Every epic",
+        "name":  "Casting Time",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, Ritual, XP pile, if you want a version of vengeful gaze of god that deals",
+        "name":  "Components",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10 minutes less backlash damage, you are free to develop it.",
+        "name":  "Casting Time",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1,500 ft.",
+        "name":  "Range",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1,000-ft.-radius hemisphere TABLE 2–1: EPIC SEEDS",
+        "name":  "Area",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Permanent Base Base",
+        "name":  "Duration",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "ANIMATE",
+        "name":  "SEED",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S ilar undead as a basis for comparison.",
+        "name":  "Components",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 minute",
+        "name":  "Casting Time",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "One or more corpses touched Undead DC Modifier Undead DC Modifier Skeleton –12 Wraith –2",
+        "name":  "Target",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous Zombie –12 Mummy +0",
+        "name":  "Duration",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None Ghoul –10 Spectre +2",
+        "name":  "Saving Throw",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "BANISH SEED: CONCEAL Abjuration Illusion (Glamer)",
+        "name":  "SEED",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S Components: V, S",
+        "name":  "Components",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 minute Casting Time: 1 minute",
+        "name":  "Casting Time",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "75 ft. Range: Personal or touch",
+        "name":  "Range",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous Saving Throw: None or Will negates (harmless, object)",
+        "name":  "Duration",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, M this displacement effect does not prevent enemies from",
+        "name":  "Components",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 minute targeting him normally.",
+        "name":  "Casting Time",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "75 ft. The conceal seed can also be used to block divination",
+        "name":  "Range",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    }
+]

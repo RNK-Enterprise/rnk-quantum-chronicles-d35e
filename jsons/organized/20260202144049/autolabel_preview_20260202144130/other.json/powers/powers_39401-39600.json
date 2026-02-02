@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +38 melee (2d8+13)",
+        "name":  "Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +36 melee (2d8+13) and 2 claws +31 melee (2d6+6) and 2 wings +31 melee (1d8+6) and tail slap +31 melee (2d6+19) Space/Reach: 15 ft./10 ft. (15 ft. with bite)",
+        "name":  "Full Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +14, Ref +17, Will +16",
+        "name":  "Saves",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 37, Dex 16, Con —, Int 20, Wis 21, Cha 22",
+        "name":  "Abilities",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Alertness, Cleave, Combat Reflexes, Dodge, Flyby Attack, Hover, Improved Initiative, Improved Snatch,Lightning Reflexes, Multisnatch, Power Attack, QuickenBreath, Snatch, Wingover",
+        "name":  "Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Warm mountains",
+        "name":  "Environment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary or guarded (1 plus 2–5 vampire spawn)",
+        "name":  "Organization",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20",
+        "name":  "Challenge Rating",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Triple standard",
+        "name":  "Treasure",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always chaotic evil",
+        "name":  "Alignment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "26–27 HD (Huge)",
+        "name":  "Advancement",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The base dragon’s Hit Dice remain the same, but it loses any Constitution bonus to its hit points (see Abilities,below). However, a vampiric dragon gains bonus hit pointsequal to four times its HD.",
+        "name":  "Hit Dice",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Vampiric dragons share the typical vampire’s vulnerability to sunlight. Direct sunlight slowsa vampiric dragon, allowing it only a single standardaction or move action each round. A vampiric dragon cansurvive exposure to direct sunlight for a number of con-secutive rounds equal to its age category, after which it isutterly destroyed. Driving a wooden stake through a vam-piric dragon’s heart slays it, just as with a normal vampire(though for larger dragons, you’ll need a stake the size ofa spear). Unlike other vampires, vampiric dragons are not injured by immersion in water. Vampiric dragons are not repelledby garlic or mirrors (though they don’t keep mirrors intheir hoards), and they can freely cross running water.They can’t enter a home unless invited, but most simplydestroy the home and then pick through the rubble fortheir victims.",
+        "name":  "Vampiric Weaknesses",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As undead, vampiric dragons are immune to any- thing that requires a Fortitude save unless it affects objects.",
+        "name":  "Saves",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Vampiric dragons have a +8 racial bonus on Bluff, Hide, Listen, Move Silently, Search, Sense Motive, andSpot checks.",
+        "name":  "Skills",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Vampiric dragons gain Alertness, Combat Reflexes, Dodge, Improved Initiative, and LightningReflexes, assuming the base dragon meets the prerequisites and doesn’t already have the feats.",
+        "name":  "Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary or guarded (1 plus 2–5 vampire spawn).",
+        "name":  "Organization",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Same as the base dragon +2.",
+        "name":  "Challenge Rating",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Triple standard.",
+        "name":  "Treasure",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always chaotic evil.",
+        "name":  "Alignment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Up to +2 HD.",
+        "name":  "Advancement",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The base dragon’s Hit Dice remain the same, but it loses any Constitution bonus to its hit points (see Abil-ities, below). However, a zombie dragon gains bonus hitpoints equal to twice its HD.",
+        "name":  "Hit Dice",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Reduce flight maneuverability by one category (to a minimum of clumsy).",
+        "name":  "Speed",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As undead, zombie dragons are immune to any- thing that requires a Fortitude save unless it affects objects.",
+        "name":  "Saves",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Adjust from the base dragon as follows: Str +0, Dex –2, Cha –6. Being undead, a zombie dragon has no Con-stitution score. It also hasno Intelligence score. ItsWisdom score becomes10 (regardless of the basedragon’s Wisdom).",
+        "name":  "Abilities",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A zombie dragon loses all skill ranks and racial skill bonusespossessed by the base dragon.",
+        "name":  "Skills",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A zombie dragon loses all feats possessed by the basedragon. It gains Toughness as abonus feat.",
+        "name":  "Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any.",
+        "name":  "Environment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any.",
+        "name":  "Organization",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Base dragon’s CR ×1/2 +1 (minimum 2).",
+        "name":  "Challenge Rating",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None.",
+        "name":  "Treasure",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral.",
+        "name":  "Alignment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Up to +2 HD.",
+        "name":  "Advancement",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "—. SAMPLE ZOMBIE DRAGON This example uses a young adult white dragon as the base dragon. Zombie Young Adult White Dragon",
+        "name":  "Level Adjustment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "15d12+33 (130 hp)",
+        "name":  "Large UndeadHit Dice",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+4",
+        "name":  "Initiative",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +18 melee (2d6+4)",
+        "name":  "Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +18 melee (2d6+4) and 2 claws +13 melee (1d8+2) and 2 wings +13 melee (1d6+2) Space/Reach: 10 ft./5 ft. (10 ft. with bite)",
+        "name":  "Full Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +9, Ref +8, Will +9",
+        "name":  "Saves",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 19, Dex 8, Con —, Int —, Wis 11, Cha 2",
+        "name":  "Abilities",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Swim +4",
+        "name":  "Skills",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Toughness",
+        "name":  "Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cold mountains",
+        "name":  "Environment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any",
+        "name":  "Organization",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5",
+        "name":  "Challenge Rating",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "Treasure",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral",
+        "name":  "Alignment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Up to +2 HD",
+        "name":  "Advancement",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Adjust the dragon’s total skill points and skill modifiers according to its new Intelligence modifier.In the example, Rime gained 2 points of Intelligence, whichincreased his Intelligence modifier from +0 to +1 and gavehim 3 extra skill points (1 point per Hit Die).",
+        "name":  "Intelligence",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Adjust the dragon’s Will save bonus and skill modifiers according to its new Wisdom modifier. In theexample, Rime gained 0 points of Wisdom, leaving hisWisdom modifier unchanged.",
+        "name":  "Wisdom",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bluff +4, Concentration +18, Diplomacy +4, Intimidate +16, Knowledge (arcana) +4, Knowledge(nature) +4, Listen +12, Search +12, Spot +12, Swim +23;Clinging Breath, Enlarge Breath, Flyby Attack, Multi-attack, Wingover. Breath W eapon (Su): 60-ft. line (90-ft. line if enlarged), 8d4 acid, Reflex DC 18 half. Darkness (Sp): 3/day—as darkness , but 40-ft. radius. Caster level 4th. Munwithurix Young Adult Black Dragon Bloodthirsty, ill-humored, and rapacious, Munwithurixproves as treacherous and unforgiving as the fens she callshome. She has utterly cowed several gangs of scrags, wholive in terror of her. Munwithurix has become increasinglydissatisfied with her position at the top of the local peckingorder and now delights in the sparkle of gold, which doesnot tarnish even in the silty waters of her lair. She has alsobegun thinking about finding a mate. Munwithurix has a taste for close combat; still, she is no fool. She usually observes foes for a few minutes, either byhiding and watching them approach or by stalking them fora time, before committing herself to combat.CHAPTER 5: SAMPLE",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bluff +9, Climb +12, Diplomacy +10, Hide +4, Intimidate +19, Listen +17, Move Silently +16, Search+17, Speak Language 3 ranks, Spot +17, Swim +20; Cleave,Clinging Breath, Combat Reflexes, Multiattack, PowerAttack, Wingover. Breath W eapon (Su): 80-ft. line, 10d4 acid, Reflex DC 21 half. Darkness (Sp): 3/day—as darkness , but 50-ft. radius. Caster level 5th. Frightful Presence (Ex): 150-ft. radius, HD 15 or fewer, Will DC 19 negates.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "thegreatest black dragon that has ever lived and the pro-genitor of an entirely new race. He is a mighty dragon, tobe sure, but his half-dragon offspring never live up totheir father’s expectations. His children include bestialhalf-crocodiles and half-dinosaurs, a small tribe of half-lizardfolk, a scattering of half-merrows, and even a fewhalf-shambling mounds and half-tendriculoses. He usesthis small army of half-dragons as minions and agents inhis swamp domain and beyond. In keeping with his con-ceit, Eribonyxtaliff is currently seeking membership inthe loose-knit cult called the disciples of Ashardalon (seepage 87).",
+        "name":  "Eribonyxtaliff fancies himself the new Ashardalon",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bluff +7, Diplomacy +18, Intimidate +18, Knowledge (arcana) +7, Knowledge (geography) +7, Knowl-edge (local) +7, Knowledge (nature) +7, Listen +16, Search+16, Spot +16; Awaken Frightful Presence, Flyby Attack,Hover, Improved Speed, Power Climb. Breath W eapon (Su): 60-ft. line, 6d8 electricity, Reflex DC 18 half. Create/Destroy W ater (Sp): 3/day—as create water , but can also be used to destroy water. Caster level 3rd; Will DC 17negates. Frightful Presence (Ex): 50-ft. radius, HD 11 or fewer, Will DC 17 negates. Daudhir Juvenile Blue Dragon Daudhir lives in a stretch of desert dotted with severaloases, and rules over several bands of jann in that area. Heleads the jann in raids on other caravans and settlements,taking the choicest treasures for his own hoard and dis-tributing the rest among his followers. Though thoroughlyevil, he is fair, and tries to ensure that the jann profit asmuch from the association as he does. He does not subjectthem to unnecessary risks, and rewards those who performexceptionally well.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bluff +18, Concentration +19, Diplomacy +11, Hide +3, Intimidate +20, Knowledge (arcana) +12,Knowledge (local) +9, Listen +20, Move Silently +3, Search+18, Speak Language 5 ranks, Spot +20; Alertness, CombatExpertise, Hover, Improved Initiative, Power Attack,Shape Breath. Breath W eapon (Su): 80-ft. line (40-ft. cone if shaped), 8d8 electricity, Reflex DC 20 half. Create/Destroy W ater (Sp): 3/day—as create water , but can also be used to destroy water. Caster level 4th; Will DC 19negates. Sound Imitation (Ex): Can mimic any voice or sound it has heard, anytime it likes. Listeners must succeed on DC 19Will saves to detect the ruse.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "a gynosphinx named Taerhanna. Thedragon imitates the sphinx’s mannerisms and shares herlove of puzzles and riddles. The two engage in witty banterduring nearly every waking moment, weaving complexmultilingual puns in an unending contest of cleverness andingenuity . While Amnehodenphinix remains so young, thesphinx is clearly her superior in this match of wits. Thedragon’s greatest fear is that Taeranna will die—of old age ifnot from violence—before Amnehodenphinix can best herintellect (quite likely, since Amnehodenphinix will notattain an 18 Intelligence for over 5 centuries).",
+        "name":  "Amnehodenphinix has a friend and mentor from whom sheis virtually inseparable",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "All these humans arejust ruining the world; that’s all there is to it. The days of heryouth, some seven centuries ago, were the best years theworld has ever known, and it’s been all downhill from there.Not that she’s bitter—she certainly doesn’t hate humanity,but she can’t keep from shaking her head and clucking hertongue every time she sees a human, remembering what itwas like before they built that city too close to her lair andstarted messing everything up. She keeps up with all thenews of the area, but none of it pleases her, and she’s equallysour about the state of the natural world. Like most brassdragons, she shares her opinions with anyone who willlisten, and is more than willing to make people listen if shefeels they really need a talking-to.",
+        "name":  "Suncamilahsundi has seen enough",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bluff +7, Diplomacy +9, Hide +8, Intimi- date +11, Jump +9, Knowledge (geography) +5, Listen +6,Search +6, Sense Motive +5, Spot +6; Multiattack, PowerAttack, Wingover. Breath W eapon (Su): 30-ft. line, 2d4 acid, Reflex DC 13 half; or 15-ft. cone, slow 1d6+1 rounds, Fortitude DC 13 negates. Rhindani Very Young Copper Dragon Rhindani fancies herself a comic lyricist. She hums con-stantly and loudly sings amusing little ditties as she thinksof them, which is quite often. She lives in a narrow gullywhere a stream emerges from a hillside, babbling along withthe water. A young red dragon, Fylokkipyron, lives uncom-fortably close, and the two have a long history of conflict—which invariably ends with Rhindani fleeing for her life,but shouting some humorous song about the encounter asshe goes.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A gold dragon can move through water at its swim speed without making Swim checks. It has a +8 racial bonuson any Swim check to perform some special action or avoida hazard. The dragon can always can choose to take 10 on aSwim check, even if distracted or endangered. The dragoncan use the run action while swimming, provided it swimsin a straight line. Luminia Wyrmling Gold Dragon Luminia is practically a newborn, currently being fosteredin the house of a wise and good king. She lives in humanform, appearing as a girl about 7 years of age. Visitors andmembers of the household are quite taken aback when theyaddress her as a child and find themselves confronting theformidable intellect of a gold wyrmling! Despite her youth,she has full access to the king as well as his most trustedand sagacious advisers. She frequently rides with a paladinattached to the king’s house, an exemplary woman namedNhalia (LG female human Pal8). She is allowed to assumeher normal form only once each day, for no more than 1hour. She uses this time to practice flying.",
+        "name":  "Skills",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bluff +6, Diplomacy +14, Disguise +10, Escape Artist +8, Intimidate +4, Jump +19, Knowledge(arcana) +10, Knowledge (nobility and royalty) +10, Listen+10, Search +10, Spot +10, Swim +27; Cleave, Multiattack,Power Attack. Breath W eapon (Su): 30-ft. cone, 2d10 fire, Reflex DC 16 half; or 30-ft. cone, 1 Str, Fortitude DC 16 negates. Tekumu Nho Very Young Gold Dragon Tekumu Nho has grown quite attached to a half-elf man heregards as something between his pet and his child, a rangercalled Thoran (LG male half-elf Rgr12). The two stalk thewilderness together, hunting Thoran’s favored enemies(giants, goblinoids, and gnolls). The ranger puts up withTekumu Nho’s relative clumsiness for the sake of his invalu-able aid in combat. Most of the time, Tekumu Nho travels inthe form of a halfling, in order to get the benefits of Smallsize and above-average Dexterity, or a ferret (same statisticsas a weasel) when stealth is essential.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bluff +8, Diplomacy +16, Disguise +14, Hide –4, Intimidate +18, Jump +22, Knowledge (nature) +9,Knowledge (religion) +14, Listen +14, Search +14, SenseMotive +14, Spot +14, Swim +22; Flyby Attack, Multiattack,Power Attack, Shock Wave. Breath W eapon (Su): 40-ft. cone, 4d10 fire, Reflex DC 19 half; or 40-ft. cone, 2 Str, Fortitude DC 19 negates.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Appraise +11, Bluff +12, Diplomacy +3, Hide –4, Intimidate +13, Jump +19, Listen +14, Search +14,Spot +14; Flyby Attack, Hover, Power Attack, Wingover.Breath W eapon (Su): 40-ft. cone, 4d10 fire, Reflex DC 18 half. Fylokkipyron Young Red Dragon Nothing irks Fylokkipyron like being mocked. Every insult,every syllable of laughter, works its way under his scales likea grain of sand, irritating him until he coats it with a pro-tective layer of seething hatred. The vast majority of hishatred is directed at a very young copper dragon who hasdared to make her lair too close to his, a whelp named Rhin-dani. The upstart provokes him incessantly, and somehowalways manages to escape his fury, traipsing away whileshouting some singsong insult in his direction. Fylokkipy-ron spends hours every day plotting his revenge againstRhindani, imagining the various ways he could pull herinternal organs out of her body, lingering especially long onthat cursed tongue.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bluff +5, Diplomacy +9, Disguise +12, Hide +4, Intimidate +5, Jump +8, Knowledge (nature) +12, Listen+12, Search +12, Sense Motive +12, Spot +12; Combat Exper-tise, Flyby Attack, Power Attack. Breath W eapon (Su): 20-ft. cone, 2d8 cold, Reflex DC 14 half; or 20-ft. cone, paralysis 1d6+1 rounds, FortitudeDC 14 negates. Karaglen Very Young Silver Dragon Karaglen is a would-be crusader, an occasional joker, and anall-the-time flirt. Often taking the shape of a half-elf youth,she has a penchant for seeking out disputes between non-evil people and using her humor and tact to resolve the sit-uation. While her powers have yet to develop (by dragonstandards, anyway), Karaglen often impresses common vil-lagers and low-level adventurers with her comparative skilland maturity . If someone discovers Karaglen’s true nature,she often presses the person to keep her draconic origin asecret. She dislikes being the center of attention and prefersto assist others rather than excel herself.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hide +22, Listen +3, Search +1, Sense Motive +3, Spot +3, Swim +19; Improved Initiative, PowerAttack. Breath W eapon (Su): 15-ft. cone, 1d6 cold, Reflex DC 12 half. Hrymgird Very Young White Dragon Hrymgird is equally at home in the air or the water. Sheloves foggy stretches of water, especially if they also havefloating ice, protruding rocks, or other hazards. In suchplaces, she alternately swims on the surface or flies justabove it on silent wings, looking for prey . Hrymgird attacks just about anything she meets, except dragons bigger than herself. She has a pugnacious natureand becomes ever more angry as a fight progresses. She screeches insults in Draconic whenever she attacks.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hide +7, Listen +12, Spot +12, Swim +22; Flyby Attack, Hover, Improved Initiative, Wingover. Breath W eapon (Su): 30-ft. cone, 3d6 cold, Reflex DC 16 half. Haaldisath Juvenile White Dragon Brutal and direct, Haaldisath has survived for this longdue primarily to her extreme cowardice. She has justenough wit to avoid capture or death at the hands of morepowerful opponents and avoids protracted combat withany foe. If an enemy survives Haaldisath’s powerful breathand fends off a pass or two from the air, she flees. She mayreturn, if she has reason to believe her foes have sustainedsignificant damage—or if they approach her lair—but sheCHAPTER 5: SAMPLE DRAGONSprefers victims to opponents and a quick meal to a chal- lenging fight.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "After slaying the mighty dragon, you loot its cavern. After you’ve sold everything, the total treasure value comes to 17,562 gp and 5 sp, including identification and appraisal costs.",
+        "name":  "DM",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "So how do you think the dragongot these silver piecesfrom the kingdom acrossthe sea?",
+        "name":  "Mialee",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Never mind that, I’m too busyprying the emeraldsout of this granite statue.",
+        "name":  "Lidda",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hey, Tordek, help me carry this platinum-inlaid teak-wood table out of here!",
+        "name":  "Jozan",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sure, just let me finish this cask of dwar-ven ale I found. . . . COINS The first trick to making a pile of coins seem less genericis to avoid round numbers. After you’ve determined howmany thousands, hundreds, or tens of coins of a type arepresent, reduce the first digit by one (from 6,000 to 5,000, orfrom 100 to 90). Then replace each remaining zero withthe result of a 1d10 roll.",
+        "name":  "Tordek",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "If a dragon can determine a rod’s function, it’s probably also intelligent enough to figure out a way to useit in an encounter.",
+        "name":  "Rods",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "3,697 cp, 113 gp.",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Black pearl (700).",
+        "name":  "Goods",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4,235 cp, 1,972 sp, 505 gp.",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 moss agates (11 and 14), amber (90).",
+        "name":  "Goods",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2,511 sp, 179 gp.",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None.",
+        "name":  "Goods",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2,307 sp, 370 gp, 59 pp.",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Red garnet (80).",
+        "name":  "Goods",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "3,757 sp, 741 gp.",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Blue quartz (9), 2 bloodstones (50 each), fire opal (1,100).",
+        "name":  "Goods",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "6,129 sp, 657 gp.",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Amethyst (90), deep blue spinel (600), satin robe with embroidered “M” (50).",
+        "name":  "Goods",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "12,163 sp, 1,387 gp.",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 eye agates (11 each), coral (50), aquamarine (700), black opal (1,300).",
+        "name":  "Goods",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1,730 gp, 133 pp.",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Glass music box (90), satin tapestry depicting knights riding to battle (2,000).",
+        "name":  "Goods",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4,839 gp.",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 obsidian (7 each), 3 white pearls (100 each), 6 amber (150 each).",
+        "name":  "Goods",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "13,680 sp, 2,938 gp.",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Small glass statuette of a wolf (100), marble bust of an infamous wizard (160), small crystal pyramid (700),painting of a pastoral scene (900), silver tiara set with tinyemeralds (1,600).",
+        "name":  "Goods",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "6,775 gp, 785 pp.",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5 obsidians (9 each), 4 carnelians (60 each), 3 red spinels (70 each), 3 red garnets (90 each), 6 deep blue spinels(200 each), 3 star rubies (900 each).",
+        "name":  "Goods",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "3,488 gp, 294 pp.",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4,848 gp.",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Tiger eye turquoise (12), 3 citrines (60 each), 2 brown-green garnets (80 each), 2 violet garnets (300 each),3 golden yellow topaz (400 each).",
+        "name":  "Goods",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "19,410 gp.",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "12,021 gp, 1,683 pp.",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4 blue quartz (8 each), alexandrite (400), 3 aqua- marines (500 each), 2 black pearls (700 each), boarskincloak (80), silver oakleaf brooch (110), silver ring bearingoak leaf insignia (130), pair of matched crystal goblets (400),bone chair with bearskin upholstery (500), white velvettunic set with tiny rubies (600), set of ivory and obsidianchess pieces (1,200), platinum wall mirror (1,400), goldbracelet set with emeralds (3,000), life-size crystal statue ofpseudodragon (6,000).",
+        "name":  "Goods",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5,411 gp, 1,839 pp.",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5 moss agates (8 each), 5 azurites (10 each), 6 hematites (12 each), 5 zircons (40 each), 4 peridots (50 each),5 jade (80 each), 5 black opals (900 each), silver hand mirror(50), oaken hairbrush inlaid with mother-of-pearl (60),girallon-fur rug (500), pair of platinum bracers (600 each),silver candelabra (700), woolen tapestry depicting the nightsky, with diamonds set as stars (1,200), antique harpsichordwith keys carved from mammoth ivory (1,600), gold neck-lace set with lapis lazuli (2,100), platinum wedding band(2,500), platinum wedding ring set with diamond (3,000),platinum scepter set with emeralds (5,000), platinum crownset with emeralds (7,000).",
+        "name":  "Goods",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "15,667 gp, 1,421 pp.",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "8 blue quartz (8 each), 4 rhodocrosite (11 each), 8 sardonyx (30 each), 11 moonstones (60 each), 7 goldenpearls (110 each), 5 emeralds (1,400 each), mirror of finelywrought and highly polished silver (1,000), silver brazierengraved with crashing waves (1,300), masterwork man-dolin inlaid with mother of pearl (1,500), marble-toppedoaken coffee table with inset mosaic of elven village (2,000),gown crafted from thousands of butterfly wings alchemi-cally treated to retain their structure and color (4,000),hand-painted table service of triton-crafted coral china cov-ered with scenes of underwater life (5,000), gold necklacestrung with rubies (7,000), gold crown studded with rubiesand diamonds (11,000).",
+        "name":  "Goods",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "16,905 gp. 283APPENDIX284Goods: 16 freshwater pearls (10 each), 4 onyx (50 each), 6 aquamarines (500 each), 3 violet garnets (600 each), silversalad fork (20), polished obsidian mug (100), crystalinkwell (110), bronze lamp (110), silver snuffbox (150), silkpillow stitched with gold thread (180), hand carved hick-ory bookcase with glass doors (200), woolen tapestry bear-ing holy symbol of Kord (300), 3 gold chains (400 each),pair of gold bracers engraved with leaping flames (500each), crystal vase (600), mithral hat pin set with tiny ruby(600), silk tunic with embroidered “W” (600), pair of naga-hide boots (800), teakwood serving tray (800), painting ofdwarf Queen Hammerskjold (900), 2 silver serving platters(900 each), silver anklet with tiny elephant-shaped jadecharms (1,200), ceremonial darkwood staff topped withgold orb (1,300), platinum circlet (1,300), gold candelabrashaped like dragon’s claw (1,400), silver belt set with ruby(1,400), small onyx statuette of a centaur (1,700), smallonyx statuette of a pegasus (1,700), pair of diamond ear-rings (2,000 each), cape of vrock feathers (3,000), platinumpendant set with three matching emeralds (5,000), goldtiara set with large jacinth (7,000).",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "32,819 gp, 1,728 pp.",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "59,063 gp.",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20,211 gp; 4,192 pp.APPENDIXGoods: 13 hematites (8 each), 10 moonstones (60 each), 5 white pearls (100 each), 13 golden yellow topaz (400each), 6 violet garnets (500 each), 11 black pearls (700 each),8 emeralds (900 each), 8 fire opals (1,100 each), 7 star rubies(1,500 each), 3 jacinths (6,000 each).",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30,818 gp, 1,732 pp.",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "55,691 gp; 18,804 pp.",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "18,030 gp; 3,855 pp.",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1,752 gp; 10,687 pp.",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "8 moss agates (11 each), 10 bloodstones (70 each), 9 pieces of jade (90 each), 8 amethysts (100 each), 6 goldenyellow topaz (300 each), 20 violet garnets (600 each), 6 blackstar sapphires (1,200 each), 8 star rubies (1,300 each), 7 blue-white diamonds (5,000 each).",
+        "name":  "Goods",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "32,050 gp; 1,580 pp.",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "15,985 gp; 1,300 pp.",
+        "name":  "Coins",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Skip Williams",
+        "name":  "Design",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Penny Williams",
+        "name":  "Editing",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Nancy Walker",
+        "name":  "Typesetting",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Rob Lazzaretti",
+        "name":  "Cartography",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ed Stark W eb Production Julia Martin",
+        "name":  "Design Manager",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Mark A. Jindra",
+        "name":  "W eb Development",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "See area 1.",
+        "name":  "DSventsorggviresh",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "See area 1.",
+        "name":  "DSventsorggviresh",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "See area 1.",
+        "name":  "DSventsorggviresh",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "If forced to fight here, Sventsorggviresh retreats to her treasure pile and tries to hedge herselfwith walls of force , so that her foes must approach her along a narrow front.A cloud of sulfurous steam billows from the head of the natural staircase leading north. The head ofan immense red dragon appears within the cloudand mutters a few arcane syllables, then both thedragon and the cloud withdraw down the stairs tothe north. 8If she decides to leave this chamber in order to expel intruders, she digs one of the mirage arcana scrolls out of her hoard and uses it to make the wholechamber look like a pool of seething lava.",
+        "name":  "Tactics",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Andy Collins",
+        "name":  "Design",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Penny Williams",
+        "name":  "Editing",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Nancy Walker",
+        "name":  "Typesetting",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Christopher Perkins W eb Production Julia Martin",
+        "name":  "Design Manager",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Mark A. Jindra",
+        "name":  "W eb Development",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "110 gp, one peridot (50 gp), one red spinel (100 gp). 45VILYAKIS, HALF-WHITE DRAGON/ HALF-MEDUSA Because the savage, bestial white dragons often find unusual mates, half-white dragons may be the mostcommon half-dragons in existence. Nevertheless, eachis unique in its own way . No one truly knows the origin of Vilyakis, and she prefers it that way . She lairs in a labyrinthine cavernhigh in the icy peaks, luxuriating in her vast pile oftreasure. If she becomes aware of intruders in her lair,she either stalks them through the tunnels or pretendsto be a comely maiden long enough to expose them toher petrifying gaze.",
+        "name":  "Sample TTreasure",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1,993 gp, one violet garnet (600 gp), wand of fireball (18 charges). KELOTRIK, HALF-RED DRAGON/ HALF-NOBLE SALAMANDER Though red dragons and salamanders rarely share terri- tory, they can make excellent allies. Sometimes a pow-erful red dragon keeps a cluster of salamanders as body-guards, knowing that it can breathe fire without riskingthe lives of its protectors. Likewise, mighty noble sala-manders sometimes raise red dragons as steeds orcohorts. One such alliance led to the birth of Kelotrik, the son of a noble salamander and a red dragon. Immedi-ately upon reaching adulthood, Kelotrik set out to seekhis fortune and prove his worth to his father, the lord ofa great stronghold on the Elemental Plane of Fire.Kelotrik plans to amass a small army of evil minionswith which to carve out his own kingdom and, if neces-sary, claim his birthright by force.",
+        "name":  "Sample TTreasure",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Erik Mona",
+        "name":  "Managing Editor",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Mike Mearls",
+        "name":  "Developer",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Mike McArtor",
+        "name":  "Editor",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Jason Bulmahn",
+        "name":  "Additional Development",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sean Glenn",
+        "name":  "Art Director",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sarah Robinson",
+        "name":  "Graphic Designer",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Todd Lockwood",
+        "name":  "Cover Artist",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Kelly O\u0027Brien",
+        "name":  "Prepress Manager",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Jeff Alvarez COO \u0026 Publisher: Keith Francis Strohm",
+        "name":  "Production Manager",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Lisa Stevens The DRAGON Compendium, Volume 1 features the art of: Attila Adorjany, Kalman Andrasofszky, Carlo Arellano, Peter Bergting, Brorn, Jeff Carlisle, Matt Cavotta, Joe Corroney, Mike Dutton, Jason Engle, Scott Fischer, Jon Foster, Tom Fowler, D. Alexander Gregory, Todd Harris, Fred Hooper, Andrew Hou, Kennon James, Niklas Janssen, Bob Klasnich, Karl Kerschl, Jeff Laubenstein, Robert Lazzaretti, Chuck Lukacs, Howard Lyon, Mike May, Warren Mahy, Dave McCllean, Cara Mitten, Mark Nelson, Jake Parker, Michael Phillipi, Eric Polak, Steve Prescott, Wayne Reynolds, Darrell Riche, James Ryman, Marc Sasso, Dan Scott, Brian Snoddy, Ron Spencer, Arnie Swekel, Linda Tso, David Wahlstrom, Eva Widermann The DRAGON Compendium, Volume 1 features the design of: Mark Anthony, Alec Baclawski, John Baichtal, Wolfgang Baur, Scott Bennie, Evi Bound, S. Deniz Bucak, Jason Bulmahn, Eric Cagle, Christopher Campbell, Scott Carter, C. M. Cline, Andy Collins, Monte Cook, Bruce R Cordell, Jesse Decker, Oliver Diaz, Larry DiTillio, Talon Dunning, Richard Farrese, Vince Garcia, Ed Greenwood, Gary Gygax, Eric Haddock, Robert J. Hahn, Kevin Hamilton, Tim Hitchcock, Gary Holian, Clifford Horowitz, Stephen Inniss, Evan Michael Jackson, James Jacobs, Spike Jones, Gary Jordan, Michael Kelly, Stephen Kenson, Gwendolyn F.M. Kestrel, Spencer Kornhaber, Steve Kurtz, Len Lakofka, Paul Leach, Richard Alan Lloyd, Ari Marmell, Mike McArtor, Mike Mearls, Frank Mentzer, Tom Moldvay, Erik Mona, Roger E. Moore, E. W Morton, Carl Parlagreco, Richard Pengelly, Christopher Perkins, Chris Perry, Dean Poisso, Roger Raupp, Joseph R. Ravitts, Rich Redman, Johnathan M. Richards, Charles Rodgers, Andrew M. Scott, Matthew Sernett, Owen K.C. Stephens, Travis Stout, Keith Strohm, Phil Taterczynskt, Joseph R Terrazzino, Chris Thomasson, Kieran Turley, Brian Walton, Don Webb, Rosemary Webb, D. G. Weeks, Skip Williams, James Wyatt, Jishuo Yang, Patrick Younts Based on the original DUNGEONS \u0026 DRAGONS rules created by Gary Gygax and Dave Arneson and the new DUNGEONS \u0026 DRAGONS game designed by Jonathan Tweet, Monte Cook, Skip Williams, Richard Baker, and Peter Adkison.",
+        "name":  "Paizo CEO",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  " T he races presented in this chapter originated in a wide variety of sources. Only one of them, the diopsid, originally appeared as a player character race. Even the lupin and diaboli made their first appearances as monstrous enemies. Each race offers a unique ability or trait that makes playing it a memorable experience. The new races, and their distinguishing characteristics, are as follows.",
+        "name":  "CHAPTER ONE",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "These natives of the Plane of Shadow have a sinister appearance that belies their true nature. Their poison sting makes them daunting enemies.",
+        "name":  "Diabolus",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The bizarre dvati are a set of twins linked by a single soul. In battle, they form a potent duo against their enemies.",
+        "name":  "Dvati",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The savage lupins are wolflike humanoids. Masters of the wilderness, the lupins\u0027 keen sense of smell makes them unmatched trackers.",
+        "name":  "Lupin",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "In their own home realms, diaboli serve BASE HEIGHT BASE WEIGHT as the equivalent of humans. As such, they possess a RACE HEIGHT MODIFIER WEIGHT MODIFIER wide variety of personalities. Unlike humans, however, Diaboli, female! 4\u00276\" +2d8 90 lb. x (2d4) lb. the great majority of diaboli live chaotic, disorderly Diaboli, male 4\u00278\" +2d8 110 lb. x(2d4)lb. lives. The spectrum of personalities exhibited by diaboli Diopsid 6\u00272\" +2d8 200 lb. x(2d4)lb. is therefore somewhat narrower than that of humans, Dvati, female 4\u00275\" +2d6 90 lb. x(ld6)lb. but still much wider in its possibilities than most other Dvati, male 4\u00277\" +2d6 95 lb. x(ld6)lb. Material Plane humanoids. Diaboli generally reflect Lupin, female 4\u00275\" +2d8 85 lb. x(2d4)lb. only the gentler, less frightening aspects of chaos in Lupin, male 4\u0027 10\" +2d8 120lb. x(2d4)lb. their personalities. Many reflect this chaos with extreme Tibbit, female 2\u00276\" +2d4 30 lb. x 1 lb. absent-mindedness, mild to severe mood swings, wild Tibbit, male 2\u0027 6\" +2d4 30 lb. x 1 lb. bouts of creativity, and generally mercurial natures.",
+        "name":  "Personality",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Chaos influences all aspects of diaboli life, including their naming patterns— whatever inscrutable patterns they might actually take. For the most part, diaboli have between two and four names, although some only bear one moniker and others might claim as many as twelve. No discernable convention exists for determining how many different names a diabolus might possess. Like humans, diaboli maintain a wide spectrum of names they use. Male diaboli names typically contain more consonants than female diaboli names. Even that \"rule\" lacks any sort of reliable application, however, as many males have names with no consonant sounds at all.",
+        "name":  "Names",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fih, Hoshaaa, rniboshog-krs, Krnthilakeh, Rskeglsth, Slom, Uayaeo.",
+        "name":  "Male Names",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Aut\u0027abothua, Bbothuda, Ihab, Oskru, U, Wyrwlak, Z\u0027ligg. Illustrated by Niklas Jannsen",
+        "name":  "Female Names",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "If family names exist, no sage or scholar Automatic Languages: Diabolan and diaboli tail has discerned any indication that diaboli use them. code. Bonus Languages: Abyssal, Common, Draconic,",
+        "name":  "Family Names",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The diopsid native language consists of an intricate code of light flashes generated by luminescent glands situated on their bodies. This language uses the intensity of the light, the speed and length of individual flashes, and similar cues to form words. The diopsid language has no system of writing, a critical handicap that prevents diopsids from developing any advanced technologies. A diopsid is capable of speaking and understanding Common and other spoken languages. A diopsid\u0027s voice is usually dry, hollow, and punctuated with clicks of its mandibles.",
+        "name":  "Language",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Barbarian. A multiclass diopsid\u0027s considering multiple approaches from different barbarian levels do not count when determining angles. A dvati who must move a boulder that blocks whether it takes an experience point penalty. Diopsids a cave stands in front of it and surveys the scene. are strong, tough warriors who prefer brute force to Meanwhile, the other twin climbs above the stone, elegant fighting styles. Thus, the barbarian class is a looks at the stone from above, and considers the same perfect match for them. problem. To dvati, one perspective is never enough.",
+        "name":  "Favored Class",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Most dvati are neutral, as they prefer a understand, as both twins in the pair must speak at balanced approach to issues of morality. Many are also the same time to properly pronounce it. Thus, most good. Being closely linked twins reminds dvati of the dvati that work with other folk adopt names that connections between all living things. They know that they either make up or take from other languages. greed and unbridled ambition lead only to decay and The dvati usually takes two names, one for each twin, misery. Evil dvati are almost utterly unknown. The link although sometimes the dvati forgets which twin has between two twins is too strong for any dvati to elevate which name. A dvati sees himself as an undivided pair, himself above all others to the degree that evil promotes. but he understands that other races might find him Villainous dvati do exist in small numbers, however, and confusing. Dvati twins tend to prefer similar names tend toward lawful evil. with distinct sounds.",
+        "name":  "Alignment",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Like many other races, lupins have a pantheon of godlike beings to whom they pay homage. They call their deities Saints, which consist of lupins who achieved immortal greatness. Saint Renard, the chief lupin deity, represents what Pelor does to humans. Lupins respect their deities and treat them as firsts among equals, but they neither fear nor worship those in their pantheon. They find temples and organized worship fascinating, if a little silly, and rarely give more thought to their deities than a simple thanks when they bed down for the night.",
+        "name":  "Religion",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Crott, Hector, Lab, Mattaff, Renard, Lupins rely on strong mounts while making their Roff,Turff. yearly nomadic movements, and even settled lupins",
+        "name":  "Male Names",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Arann, Carra, Fikenn, Likka, Jakka, purchase a horse as soon as they can. Rottie, Warra. +1 bonus on attack rolls and damage rolls against",
+        "name":  "Female Names",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Lupins adventure for many of the werewolves. As soon as they are weaned, lupins begin same reasons as rangers or druids of any race. They learning techniques to fight their ancient foes. excel as hunters and trackers, and tend to leave their +2 bonus on Listen checks: Lupins have a keen tribes as outcasts or as youths caught in wanderlust. sense of hearing.",
+        "name":  "Adventurers",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Many battle dancers worship Olidammara. They see his love of wine, song, and dance as the perfect counterpart to their reckless lifestyle. Evil battle dancers tend to honor Erythnul.",
+        "name":  "Religion",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Battle dancers are made, not born. Many of them gain their talents by studying for long, strenuous hours under the tutelage of the members of a dance circle. A circle consists of traveling musicians, battle dancers, and elders who teach their arts to promising youths and any men and women with good hearts and the desire to protect their communities. Circles wander the land as they wish, interfering in local matters if they feel they can help.",
+        "name":  "Background",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Humans, halflings, and elves make up the vast majority of battle dancers. Dwarves normally lack the fiery personalities needed to embrace this class. Gnomes prefer other forms of performance, particularly music. Half-orcs are usually too dim and simple to master the intricate dance maneuvers.",
+        "name":  "Races",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any chaotic.",
+        "name":  "Alignment",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "d8. DAMAGE DAMAGE (SMALL (LARGE CLASS SKILLS LEVEL BATTLE DANCER) BATTLE DANCER) The battle dancer\u0027s class skills (and the key ability for lst-3rd ld4 ld8 each skill) are Balance (Dex), Climb (Str), Escape Artist 4th-7th ld6 2d6 (Dex), Hide (Dex), Jump (Str), Listen (Wis), Move Silently 8th-11th ld8 2d8 (Dex), Open Lock (Dex), Perform (Cha), Sleight of Hand 12th-15th 1d10 3d6 (Dex), Swim (Str), and Tumble (Dex). 16th-19th 2d6 3d8 Skill Points at 1st Level: (4 + Int modifier) x 4. 20th 2d8 4d8",
+        "name":  "Hit Die",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4 + Int modifier. Dance of Reckless Bravery (Su): A 2nd-level battle dancer CLASS FEATURES with 5 ranks in Tumble gains the ability to inspire bravery in All of the following are class features of the battle dancer. her allies. All of the battle dancer\u0027s allies within 30 feet of her",
+        "name":  "Skill Points at Each Additional Level",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Death masters are always evil. A staggering majority of them are chaotic evil like their master, but a few lean toward neutral evil or lawful evil. These villains might worship other dark deities who grant similar powers or they might serve so effectively as agents of evil that Orcus bestows them with power despite their tendency away from chaos.",
+        "name":  "Alignment",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Death masters revere Orcus. The prince of the dead grants this class\u0027s powers to the most ambitious and sadistic of his cultists. In some cases, a deity, demon lord, or archdevil graces a favored servant with the death master\u0027s abilities. Even then, a death master pays at least some respect to Orcus.",
+        "name":  "Religion",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any evil. death master sacrificed to Orcus. The death master can",
+        "name":  "Alignment",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As an emissary of Orcus, a death as a servant for the death master. If destroyed, a new master has the power to compel undead to serve him. minion appears 24 hours later. The death master can He channels Orcus\u0027s fell energy and uses it to turn also choose to dismiss his minion to gain a new one. In the living dead into his pawns. The death master can this case, the death master must wait 24 hours for the attempt to rebuke undead a number of times per day new minion to appear. equal to 3 + his Charisma modifier. A death master A death master can choose to gain the services of a more with 5 or more ranks in Knowledge (religion) gains a +2 powerful undead servitor at higher levels. Subtract the bonus on rebuking checks against undead. level modifier listed for a minion from the death master\u0027s",
+        "name":  "Rebuke Undead",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You understand all spoken Owlbear skeleton and written languages. 7th Level or Higher (Level -6) Curse Water: Makes unholy water.",
+        "name":  "Ghoul Comprehend Languages",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "One subject takes -2 on attack rolls, damage Ettin skeleton rolls, saves, and checks.",
+        "name":  "Allip Doom",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Your speed increases by 30 ft. 13th Level or Higher (Level -12) Grease: Makes 10-ft. square or one object slippery.",
+        "name":  "Wight Expeditious Retreat",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Undead can\u0027t perceive one Mummy subject/level.",
+        "name":  "Cloud giant skeleton Hide from Undead",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Inscribes a personal rune (visible or Obscuring Mist: Fog surrounds you. invisible). Protection from Good: +2 to AC and saves, counter",
+        "name":  "Arcane Mark",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Creates torches or other lights. mind control, hedge out elementals and outsiders.",
+        "name":  "Dancing Lights",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Deals ld6 damage to one undead. missiles.",
+        "name":  "Disrupt Undead",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Figment sounds. damage (max 5d6).",
+        "name":  "Ghost Sound",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch attack, 1 point of damage. Unseen Servant: Invisible force obeys your",
+        "name":  "Inflict Minor Wounds",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Object shines like a torch. commands.",
+        "name":  "Light",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5-pound telekinesis.",
+        "name":  "Mage Hand",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ray deals ld3 cold damage. or chaotic.",
+        "name":  "Ray of Frost",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject gains +1 on saving throws. Animate Dead: Creates undead skeletons and zombies.",
+        "name":  "Resistance",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch attack fatigues target. Blindness/Deafness: Makes subject blinded or deafened.",
+        "name":  "Touch of Fatigue",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject gains 1 temporary hp. Blur Attacks miss subject 20% of the time.",
+        "name":  "Virtue",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cold metal damages those who touch it. Contagion: Infects subject with chosen disease.",
+        "name":  "Chill Metal",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20-ft. radius of supernatural shadow. in 60-ft. radius.",
+        "name":  "Darkness",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "See 60 ft. in total darkness. Diminish Plants: Reduces size or blights growth of",
+        "name":  "Darkvision",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fills area with negative energy, making Halt Undead: Immobilizes undead for 1 round/level. undead stronger. Inflict Serious Wounds: Touch attack, 3d8 damage",
+        "name":  "Desecrate",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Gain 1d10 temporary hp +1/level (max +10). 10-ft. radius and 10 min/level.",
+        "name":  "False Life",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch attack, 2d8 damage Poison: Touch deals 1d10 Con damage, repeats in 1 min. +1/level (max +10). Protection from Energy: Absorb 12 points/level of",
+        "name":  "Inflict Moderate Wounds",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Senses direction toward object damage from one kind of energy. (specific or type). Ray of Exhaustion: Ray makes subject exhausted.",
+        "name":  "Locate Object",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Repairs an object. Remove Curse: Frees object or person from curse.",
+        "name":  "Make Whole",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ignores first 10 (or more) points of Speak with Dead: Corpse answers one question/ damage/attack from specified energy type. two levels.",
+        "name":  "Resist Energy",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Creates disembodied glowing hand Crushing Despair Subjects take -2 on attack rolls, to deliver touch attacks. damage rolls, saves, and checks.",
+        "name":  "Spectral Hand",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject takes ld6 points of Int, Wis, Dimensional Anchor: Bars extradimensional and Cha damage. movement.",
+        "name":  "Touch of Idiocy",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Conceals alignment for Enervation: Subject gains ld4 negative levels. 24 hours. Evard\u0027s Black Tentacles: Tentacles grapple all within",
+        "name":  "Undetectable Alignment",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fills 20-ft.-radius spread with sticky spiderwebs. 20-ft. spread.",
+        "name":  "Web",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fearsome illusion kills subject or (max 20d4). deals 3d6 damage. Word of Recall: Teleports you back to designated place.",
+        "name":  "Phantasmal Killer",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Spies on subject from a distance.",
+        "name":  "Scrying F",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ignore 10 points of damage per attack. Arcane Sight, Greater: As arcane sight, but also",
+        "name":  "Stoneskin",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Transforms subject into harmless Destruction: Kills subject and destroys remains. animal. Ethereal Jaunt: You become ethereal for 1 round/level.",
+        "name":  "Baleful Polymorph",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "ld6/level cold damage. Scrying, Greater: As scrying, but faster and longer.",
+        "name":  "Cone of Cold",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    }
+]

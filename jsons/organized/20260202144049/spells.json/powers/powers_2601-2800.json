@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 hour/level (D) This spell functions similarly to contingency , but with a more limited scope. While contingent energy resistance is in effect, if you are dealt damage associated with one of the five types ofenergy (acid, cold, electricity, fire, or sonic), the spell auto-matically grants you resistance 10 against that type ofenergy for the remainder of the spell’s duration (just as ifyou were under the effect of a resist energy spell of the appro- priate type). Once the energy type protected against by a particular casting of this spell is determined, it can’t be changed. Youcan’t have more than one contingent energy resistance in effect on yourself at the same time—if you cast the spell a secondtime while an earlier casting is still in effect, the earlier spellautomatically expires. The energy resistance granted by this spell does not stack with similar benefits against the same energy type(such as from the resist energy spell). However, it is pos- sible to be simultaneously under the effect of resist energy (fire) and contingent energy resistance (electricity), or anyother two such spells that protect against different types of energy .",
+        "name":  "Duration",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes You are imbued with an aura of celestial authority, inspiring awe in all lesser creatures that behold your terrible perfec-tion and righteousness. You gain a +4 enhancement bonusto Charisma for the duration of the spell. All creatures in the spell’s area with fewer than 8 Hit Dice or levels cease whatever they are doing and are compelled topay attention to you. Any such creature that wants to takehostile action against you must succeed on a Will save to doso. Any creature that fails this save the first time it attemptsa hostile action is enthralled for the duration of the spell (asthe enthrall spell) as long as it is in the spell’s area, and it will not try to leave the area on its own. Creatures with 8 or moreHit Dice are not affected by this spell. When you speak, all listeners telepathically understand you, even if they do not understand your language. Whilethe spell lasts, you can make up to three suggestions to crea-tures of fewer than 8 HD in range, as if using the mass sug- gestion spell (Will negates); creatures with 8 HD or more are not affected by this power.",
+        "name":  "Spell Resistance",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sorcerers cast this spell at +1 caster level. Dragon Ally Conjuration (Summoning)Level: Dragon 7, Sor/Wiz 7",
+        "name":  "Special",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No This spell summons a dragon. You may ask the dragon to perform one task in exchange for a payment from you. Tasks might range from the simple (fly us across the chasm, help us fight a battle) to the complex (spy on our enemies, protect us on our foray into the dun- geon). You must be able to communicate with the dragon to bargain for its services. The summoned dragon requires payment for its services, which takes the form of coins, gems, or other pre- cious objects the dragon can addto its hoard. This payment mustbe made before the dragon agreesto perform any services. The bar-gaining takes at least 1 round, so any actions by the creature begin in the round after it arrives. Tasks requiring up to 1 minute per caster level require a payment of 100 gp per HD of the summoneddragon. For a task requiring up to 1 hour per caster level, thecreature requires a payment of 500 gp per HD. Long-termtasks (those requiring up to 1 day per caster level) require apayment of 1,000 gp per HD. Especially hazardous tasks require a greater gift, up to twice the given amount. A dragon never accepts less thanthe indicated amount, even for a nonhazardous task. At the end of its task, or when the duration bargained for elapses, the creature returns to the place it was sum-moned from (after reporting back to you, if appropriateand possible).",
+        "name":  "Spell Resistance",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  " Sorcerers cast this spell at +1 caster level. Dragon Breath",
+        "name":  "Special",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sorcerers cast this spell at +1 caster level. Dragonsight",
+        "name":  "Special",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sorcerers cast this spell at +1 caster level. Earthbind Transmutation",
+        "name":  "Special",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) The subject gains the ability to deal greater damage against Large or larger creatures. For every size category of anopponent bigger than Medium, the subject deals an extra1d6 points of damage on any successful melee attack (+1d6against a Large creature, +2d6 against Huge, +3d6 againstGargantuan, or +4d6 against Colossal).",
+        "name":  "Spell Resistance",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sorcerers cast this spell at +1 caster level. Hide from Dragons",
+        "name":  "Special",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Dragons cannot see, hear, or smell the warded creatures, even with blindsense. They act as though the warded crea-tures are not there. Warded creatures could stand before thehungriest of red dragons and not be molested or evennoticed. If a warded character touches or attacks a dragon,even with a spell, the spell ends for all recipients.",
+        "name":  "Spell Resistance",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A dragon scale. Lower Spell Resistance",
+        "name":  "Material Component",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No This spell reduces the subject’s spell resistance by 1 per caster level (maximum reduction 15). This reduction can’tlower a target’s spell resistance below 0. The target of the spell takes a penalty on its saving throw equal to your caster level. Miser’s Envy Enchantment (Compulsion) [Mind-Affecting]Level: Brd 2, Sor/Wiz 3",
+        "name":  "Spell Resistance",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "10 minutes/level (D) You gain a +10 enhancement bonus on your Bluff, Diplo- macy, and Intimidate checks. You also gain the ability tospeak and understand (but not read) Draconic. At any time before the spell’s duration expires, you can use a standard action to target a creature with a suggestion effect, which functions identically to the spell of that name(including range, duration, and other effects). Doing thiscauses the voice of the dragon spell to end, though the sugges- tion itself lasts for the normal duration thereafter.",
+        "name":  "Duration",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sorcerers cast this spell at +1 caster level. Vulnerability",
+        "name":  "Special",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This ring is carved to look like a dragon coiled around thewearer’s finger. The wearer gains a +5 enhance-ment bonus on Diplomacy checks made to influ-ence the attitude of dragons. No dragon willvoluntarily attack or otherwise attempt to harmthe wearer. Once per month, the wearer can use a sugges- tion effect on a dragon (heightened to 9th level; Will DC 23 negates). If the wearer attacks a dragon in any way (including by the use of the ring’s suggestion power), this ring loses its powers for 24 hours.(The suggestion effect can continue after the ring stops working.) Strong enchantment; CL 17th; Forge Ring, Heighten Spell, dominate monster, suggestion; Price 28,750 gp.",
+        "name":  "Ring of Dragon Friendship",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This ring is shaped like a hollowed dragon’s claw. It is slipped over thelength of the wearer’s finger, but doesn’t restrict manual dex-terity in any way . Once per day, the wearer can activate thering (as a standard action) to polymorph into a young reddragon (if the wearer is evil) or a young gold dragon (if thewearer is good). This effect functions as the polymorph spell, except that the duration is 1 hour. The effect can be dis-missed by the wearer as a standard action. Moderate transmutation; CL 7th; Forge Ring, polymorph ; Price 23,000 gp. RODS",
+        "name":  "Ring of Dragonshape",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This fire- blackened staff is studded with dragon’s teeth. It allows use of the following spells: •Dragon breath (30-ft. cone of fire, 5d6 dam- age; 1 charge) •Dragonskin (1 charge) •Draconic might (2 charges) Moderate transmutation; CL 9th; Craft Staff, draconic might, dragon breath, dragonskin; Price 42,000 gp.",
+        "name":  "Staff of Draconic Power",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Able to cast 2nd- level divine spells. Class Skills The dracolyte’s class skills (and the key ability for each skill) are Bluff (Cha), Concentration (Con), Diplomacy (Cha), Heal (Wis), Jump (Str), Knowledge (arcana) (Int), Knowledge (religion) (Int), and Spellcraft (Int). See Chap- ter 4: Skills in the Player’s Handbook for skill descriptions.",
+        "name":  "Spellcasting",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "When a new dracolyte level is gained, the character gains new spells per day as if he had also gained alevel in a divine spellcasting class he belonged to before headded the prestige class. He does not, however, gain anyother benefit a character of that class would have gained(improved chance of controlling or rebuking undead, and soon). This essentially means that the character adds the levelCHAPTER 3: THE PLAYER’S PERSPECTIVE Table 3–3: The Dracolyte Class Base Fort Ref Will Level Attack Bonus Save Save Save Special Spellcasting 1st +0 +2 +0 +2 Prestige domain +1 level of existing class 2nd +1 +3 +0 +3 — +1 level of existing class 3rd +2 +3 +1 +3 Alertness +1 level of existing class 4th +3 +4 +1 +4 — +1 level of existing class5th +3 +4 +1 +4 Foster dragon +1 level of existing class 6th +4 +5 +2 +5 — +1 level of existing class7th +5 +5 +2 +5 Immunities +1 level of existing class 8th +6 +6 +2 +6 — +1 level of existing class9th +6 +6 +3 +6 Keen senses +1 level of existing class 10th +7 +7 +3 +7 Summon dragon +1 level of existing classA dracolyteIllus. by M. Mitchell 123 of dracolyte to the level of whatever divine spellcasting class the character has, then determines spells per day and casterlevel accordingly . If a character had more than one divine spellcasting class before he became a dracolyte, he must decide to which classhe adds each level of dracolyte for the purpose of determin-ing spells per day . Prestige Domain (Ex): At 1st level, a dracolyte gains access to a prestige domain based on his alignment. Good-aligned dracolytes (and neutral clerics who channel pos-itive energy) gain access to the Glory prestige domain(and its granted power), while evil-aligned dracolytes(and neutral clerics who channel negative energy) gainaccess to the Domination prestige domain (and itsgranted power). Dracolytes who are neither good nor evil(and who don’t channel positive or negative energy) canselect either of these domains, but once made, the choicecan never be altered. The spells associated with the prestige domain can be selected to fill any do-main spell slots the dracolyte hasavailable. If the prestige domain is thecharacter’s only domain, he gainsthe ability to cast a do-main spell of eachspell level to which hehas access once per day,in addition to those spellshe already casts. Prestige domains are presented and explained inthe Cleric Domains section,beginning on page 107.",
+        "name":  "Spellcasting",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A 3rd-level dragonsong lyrist can grant herself and her allies the ability to fly, as the spell 127CHAPTER 3: THE PLAYER’S PERSPECTIVE A dragonsong lyrist128of the same name. This song affects the character and a number of allies equal to her Charisma modifier (all ofwhom must be able to hear the lyrist) and lasts for 1 minuteper level. This is a transmutation effect.",
+        "name":  "Song of Flight",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "4 + Int modifier.CHAPTER 3: THE PLAYER’S PERSPECTIVETable 3–7: The Dragonsong Lyrist Class Base Fort Ref Will Level Attack Bonus Save Save Save Special Spellcasting 1st +0 +0 +2 +2 Greater dragonsong (song of strength) — 2nd +1 +0 +3 +3 Greater dragonsong (song of compulsion) +1 level of existing class 3rd +2 +1 +3 +3 Greater dragonsong (song of flight) — 4th +3 +1 +4 +4 Greater dragonsong (song of fear) +1 level of existing class5th +3 +1 +4 +4 Greater dragonsong (song of healing) —Class Features All of the following are class features of the dragonstalkerprestige class.",
+        "name":  "Skill Points at Each Level",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Draconic. Class Skills The talon of Tiamat’s class skills (and the key ability foreach skill) are Appraise (Int), Bluff (Cha), Concentration(Con), Intimidate (Cha), Knowledge (arcana) (Int), Ride(Dex), Search (Int), Sense Motive (Wis), and Spellcraft(Int). See Chapter 4: Skills in the Player’s Handbook for skill descriptions.",
+        "name":  "Languages",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This ability applies only to spells that the pal- adin casts. The dragon can’t elect for spells that it casts onitself to also affect the paladin.",
+        "name":  "Share Spells",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This ability applies only to spells that the pal- adin casts. The dragon can’t elect for spells that it casts onitself to also affect the blackguard.",
+        "name":  "Share Spells",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The spell resistance gained by a dragon fiendish servant doesn’t stack with any natural spell resist-ance it might have. Only the higher value applies. DRAGONS AS FAMILIARS By selecting the Dragon Familiar feat, an arcane spellcastercan gain a wyrmling dragon as a familiar. This option is mostpopular among sorcerers, though many wizards also under-stand the value of having a dragon on your side. Your alignment must be one of the acceptable align- ments indicated for the dragon kind on Table 3–19:Choosing a Dragon Familiar. In addition, your arcanespellcaster level must be at least as high as the value givenfor that dragon. For example, a 7th-level neutral sorcerercould select only a white dragon as his familiar, but a 10th-level neutral sorcerer could select a black, copper, green, or white dragon. A dragon familiar that becomes very young in age can no longer serve as a familiar. It loses its bond with you, including all special abil- ities granted to it or you because of this bond. Assuming you have treated it well, the dragon maintains a friendly relation- ship with you in the future. The dragon familiar is mag- ically linked to you like a normal familiar. The familiar uses the basic statistics for a creature of its kind, as given in the Monster Manual, with the following adjustments.",
+        "name":  "Spell Resistance",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "An abyssal drake cannot be raised, reincarnated, or resurrected (though a limited wish, wish ,miracle , or true resurrection spell can restore life). DRACOLICH The dracolich is an undead creature resulting from the transformation of an evil dragon. The process usu- ally involves a cooperative effort between an evil dragon and a powerful cleric, sorcerer, or wizard, but especially powerful spellcasters have been known to coerce an evil dragon to undergo the transformation against its will. The dragon must first consume a lethal concoction known as a dracolich brew (see page 120). This act instantly slays the dragon, whereupon its spirit is transferred to its dracolich phylactery (also see page 120), regardless of the distance between the phylactery and the dragon’s body . A spirit contained in a phylactery can sense any reptilian or dragon corpse of Medium or larger size within 90 feet and attempt to pos- sess it. Under no circumstances can the spirit possess aliving body . The spirit’s original body is an ideal vessel, andany attempt to possess it is automatically successful. To pos-sess a suitable corpse other than its own, a dracolich mustmake a successful Charisma check (DC 10 for a true dragon,CHAPTER 4: NEW MONSTERSIllus. by S. T appin MONSTERS BY TYPE (AND SUBTYPE)",
+        "name":  "Outsider Traits",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +42, Concentration +27, Disguise +6 (+8 acting), Diplomacy +46, Gather Information +8, Hide+19, Intimidate +44, Knowledge (arcana) +24,Knowledge (geography) +15, Knowledge (history) +15,Knowledge (local) +15, Knowledge (nature) +15,Knowledge (religion) +15, Listen +41, Search +41, SenseMotive +41, Spellcraft +43, Spot +41, Survival +5 (+7aboveground natural environments, avoiding gettinglost, following tracks)",
+        "name":  "Skills",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Blind-Fight, Combat Expertise, Extend Spell, Flyby Attack, Hover, Improved Maneuverability, Large and inCharge, Power Attack, Recover Breath, Rend, ShapeBreath, Snatch",
+        "name":  "Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "If a dracolich is slain, its spirit immedi- ately returns to its phylactery, from where it may attempt topossess a suitable corpse. Keen Senses (Ex): This dracolich sees four times as well as a human in low-light conditions and twice as well innormal light. It also has darkvision out to 120 feet. Paralyzing Gaze (Su): The gaze of a dracolich’s glowing eyes can paralyze victims within 40 feet if they fail a DC 24Fortitude save. If the saving throw is successful, the charac-ter is forever immune to the gaze of that particular dracol-ich. If it fails, the victim is paralyzed for 2d6 rounds. Paralyzing Touch (Su): A creature struck by any of this dracolich’s physical attacks must make a DC 24 Fortitudesave or be paralyzed for 2d6 rounds. A successful savingthrow against this effect does not confer any immunityagainst subsequent attacks. Spell-Like Abilities: 3/day— create/destroy water (Will DC 32 negates), ventriloquism (DC 17); 1/day— hallucinatory terrain (DC 20) , veil (DC 22) .Caster level 33rd.",
+        "name":  "Invulnerability",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As 13th-level sorcerer. Tail Sweep (Ex): A dracolich can sweep with its tail as a standard action. The sweep affects a half-circle with a diam-eter of 30 feet. It deals 2d6+21 points of damage to Small orsmaller creatures (Reflex DC 32 half ).",
+        "name":  "Spells",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +22, Concentration +15, Diplomacy +15, Hide +8, Intimidate +27, Knowledge (arcana) +18, Knowledge(nature) +18, Listen +31, Move Silently +20, Search +31,Sense Motive +11, Spellcraft +25, Spot +31, Swim +16",
+        "name":  "Skills",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A ghostly dragon has all the special qualities of the base dragon (except for any subtypes pos-sessed). If the base dragon had any immunities based on itssubtype (such as immunity to fire for the fire subtype), itkeeps those immunities despite losing the subtype. It alsogains the incorporeal subtype (see page 310 of the Monster Manual ) and the special qualities described below. Rejuvenation (Su): In most cases, it’s difficult to destroy a ghostly dragon through simple combat: The “destroyed”spirit will often restore itself in 2d4 days. Even the mostpowerful spells are usually only temporary solutions. Aghostly dragon that would otherwise be destroyed returnsto its old haunts with a successful level check (1d20 +ghost’s HD) against DC 16. As a rule, the only way to get ridof a ghostly dragon for sure is to determine the reason for itsexistence and set right whatever prevents it from resting inpeace. The exact means varies with each spirit and mayrequire a good deal of research. Turn Resistance (Ex): A ghostly dragon has +4 turn resist- ance (see page 317 of the Monster Manual ).",
+        "name":  "Special Qualities",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— The mountain landwyrm spends most of its days in slum- ber, hidden away in a secret cave in the heart of a greatpeak. But when awake, it is one of the fiercest creatures towalk the planet. At first glance, a mountain landwyrm appears to be a craggy mass of rock. In fact, it is possible to walk right pastone (despite its size) and never suspect it was there. How-ever, once it is awakened, its tread shakes the ground. Mountain landwyrms subsist primarily on a diet of stone, occasionally venturing forth for a meal of a few direbears or stone giants. They have no true enemies, sinceeven the eldest red dragon knows better than to pick afight with such a creature. Still, they have been known tointeract peacefully with creatures that offer the propergifts and obeisance. Mountain landwyrms speak Draconic, Dwarven, Giant, and Common. Combat A mountain landwyrm opens combat with its thunderousroar and frightful presence, and then picks off injured oppo-nents with patient skill. Once angered, a mountain land-wyrm does not rest until it has destroyed its foes, trackingthem for days if necessary . Frightful Presence (Ex): 200-ft. radius, HD 39 or fewer, Will DC 35 negates.Snatch (Ex): Against Large or smaller creatures, bite for 4d8+16/round or claw for 4d6+8/round. Thunderous Roar (Su): Once per day a mountain land- wyrm can emit a thunderous roar. This is the equivalent of agreater shout spell. Caster level 20th.",
+        "name":  "Level Adjustment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— The foul, murderous swamp landwyrm takes pleasure in dealing maximum agony upon its prey . Its mottled brown and green hide is constantly covered in slime and algae. It has webbed toes to help it swim. When itis angry, its eyes shine like pale yellow lanterns. 173CHAPTER 4: NEW MONSTERS Illus. by M. nelson J ungle landwyrmM ountain landwyrmPlains landwyrm174Swamp landwyrms fear nothing, not even the largest tyrannosaurus or black dragon. From time to time, foolishlizardfolk attempt to trade valuables with swamp landwyrmsin exchange for protection. Such deals always end badly forthe “protected” creatures. Swamp landwyrms speak Draconic and Common. Combat If facing a large group of foes, a swamp landwyrm employsits frightful presence to reduce the number of capableopponents. Otherwise, it opens by targeting a single indi-vidual with its hypnotizing gaze, drawing it in close for adeadly attack. Frightful Presence (Ex): 180-ft. radius, HD 35 or fewer, Will DC 35 negates. Hypnotizing Gaze (Su): A swamp landwyrm can hyp- notize its prey just by looking into its eyes. This is similarto a gaze attack, except that the landwyrm must use a stan-dard action, and those merely looking at the creature arenot affected. Anyone the landwyrm targets must succeedon a DC 35 Will save or be hypnotized (as the hypnotism spell, except it affects a single target whose Hit D ice do not exceed the landwyrm’s). If a landwyrm uses this ability incombat, the target gains a +2 bonus on the save. The effecthas a range of 60 feet and lasts for 10 rounds. Snatch (Ex): Against Medium or smaller creatures, bite for 4d6+14/round or clawfor 2d8+7/round.Amphibious (Ex): Although swamp landwyrms are aquatic, they can survive indefinitely on land.",
+        "name":  "Level Adjustment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "An underdark landwyrm has a +8 racial bonus on any Swim check to perform some special action or avoid ahazard. It can always choose to take 10 on a Swim check,even if distracted or endangered. It can use the run actionwhile swimming, provided it swims in a straight line. Under-dark landwyrms have a +4 racial bonus on Move Silentlychecks. *They have a +4 racial bonus on Hide checks when in rocky, underground environments. This bonus on Hidechecks increases to +8 when the landwyrm is immobile. PLANAR DRAGONS In addition to the many dragon species native to the Mater-ial Plane, a number of dragons hail from other planes, par-ticularly the Outer Planes. Collectively referred to as planardragons, these creatures hail from planes asdiverse as Limbo, Acheron, Ysgard, andeven the Ethereal Plane. Unlike most other true dragons, planar dragons are not innate spellcasters;though they have a variety of spell-likepowers, they don’t have the natural affin-ity for sorcery that their Material Planerelatives have. A planar dragon uses itsage category as its caster level for allspell-like abilities. Though native to planes other than the Material, these creatures are none-theless of the dragon type and are not out- siders. Instead, they all possess theextraplanar subtype. BATTLE DRAGON Dragon (Extraplanar)Environment: Heroic Domains of Ysgard",
+        "name":  "Skills",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Blindsense 60 ft., damage r eduction 5/bludgeoning, immunity to acid and cold, keen senses,spell resistance 21, undead traits",
+        "name":  "Special Qualities",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A skeletal dragon loses all supernatural and spell-like special attacks possessed by the base dragon.It retains any exceptional special attacks (such as frightfulpresence or improved grab).",
+        "name":  "Special Attacks",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A skeletal dragon loses all supernatu- ral and spell-like special qualities possessed by the basedragon. It retains any exceptional special qualities (such asimmunities or blindsense). It loses any subtypes it had,though if the base dragon had any immunities based on itssubtype (such as immunity to fire for the fire subtype), itkeeps those immunities despite losing the subtype. It alsogains additional special qualities as noted below. Damage Reduction (Ex): Skeletal dragons have damage reduction 5/bludgeoning. Immunity to Cold (Ex): Skeletal dragons have immunity to cold.",
+        "name":  "Special Qualities",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Appraise +30, Bluff +19, Concentration +24, Diplomacy +24, Hide +3, Intimidate +32, Jump +38,Knowledge (arcana) +22, Knowledge (geography) +16,Knowledge (history) +16, Knowledge (nature) +13,Knowledge (the planes) +13, Knowledge (religion) +16,Listen +40, Move Silently +11, Search +38, Sense Motive+23, Spellcraft +30, Spot +35",
+        "name":  "Skills",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A vampiric drag- on retains all the special attacks of the base dragon and also gains those noted below. Saves have a DC of 10 + 1/2 vampiric dragon’s HD + vam- piric dragon’s Cha modifier unless noted otherwise. Blood Drain (Ex): A vampiric dragon can suck blood from a living victim one size category smaller than itself or larger. If it pins the foe with whom it is grappling, it drains blood, dealing 1d4 points of Constitution drain each round the pin is maintained. Charm (Su): The voice of a vam- piric dragon can bewitch listeners. This requires a full-round action by the vampiric dragon, but any creatures within 30 feet per age category of the base dragon who can hear its voice must make a Will save or become charmed (as charm monster ). The charm is immediately broken if the vam- piric dragon uses its frightful presence within range of the charmed individual or makes any attack against the charmed individ-ual. A vampiric dragon need not seeits targets to use this power. Create Spawn (Su): A humanoid or monstrous humanoid slain by a vampiric dragon’s energy drain attack rises as avampire spawn (see page 253 of the Monster Manual ) 1d4 days after death. If a vampiric dragon instead drains its victim’s Constitution to 0, the victim returns as a spawn if it had 4 or fewer Hit Diceand as a vampire if it had 5 or more HD. In either case, the newvampire or spawn is under the command of the vampiric drag-on that created it and remains enslaved until its master’s death. An adult or older dragon slain by a vampiric dragon’s blood drain returns as a vampiric dragon under the command ofthe vampiric dragon that created it, as noted above. Youngadult or younger dragons slain by its blood drain attack, orany dragons slain by its energy drain attack, rise instead asmindless zombie dragons (see page 197). Domination (Su): A vampiric dragon can crush an oppo- nent’s will just by looking into its eyes. This ability workssimilarly to a gaze attack, except that the vampiric dragonmust use a standard action, and those merely looking at thecreature are not affected. Anyone the vampiric dragon tar-gets must succeed on a Will save or fall instantly under thevampiric dragon’s influence as though by a dominate monster spell (caster level 18th). The ability has a range of 30 feetplus 10 feet per age category of the base dragon. Energy Drain (Su): A living creature hit by a vampiric dragon’s claw attack gains one negative level.CHAPTER 4: NEW",
+        "name":  "Special Attacks",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A vampiric dragon retains all the spe- cial qualities of the base dragon (except for any subtypes itpossessed) and gains those noted below. If the base dragonhad any immunities based on its subtype (such as immunityto fire for the fire subtype), it keeps those immunities despitelosing the subtype. Fast Healing (Ex): A vampiric dragon heals 5 hit points of damage each round so long as it has at least 1 hit point. Ifreduced to 0 hit points or lower, a vampiric dragon auto-matically assumes gaseous form (fly speed 40 feet, otherwise as the spell) and attempts to escape. It must reach its hoardwithin 2 hours or be utterly destroyed. (It can travel up to 18miles in 2 hours.) Once at rest upon its hoard, it rises to 1 hitpoint after 1 hour, then resumes healing at the rate of 5 hitpoints per round. For obvious reasons, a vampiric dragonprefers to keep its hoard well concealed from adventurersand would-be thieves. Resistance (Ex): A vampiric dragon has resistance to cold 20 and electricity 20. Turn Resistance (Ex): A vampiric dragon has +4 turn resist- ance (see page 317 of the Monster Manual ).",
+        "name":  "MONSTERSVampiric red dragonSpecial Qualities",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+5. ZOMBIE DRAGON A zombie dragon is created by use of the animate dead spell or by a vampiric dragon (see above). It functions as a normalzombie in most ways, though it retains a few of its draconicabilities and qualities even after death A zombie dragon stinks of death, and its once glorious scaled hide sports gaping holes chewed by worms. Because ofthe creature’s utter lack of intelligence, the instructions givento a newly created zombie dragon must be very simple, suchas “Destroy anything that comes within sight.” Zombie dragons are often used as sentries (although they aren’t capable of calling for help, the sounds of the battle usu-ally serve to raise the alarm) or guardians. Draconic spell-casters capable of creating such creatures may use the bodiesof dead rivals or, in the case of particularly vile necro-mancers, deceased family members. CREATING A ZOMBIE DRAGON “Zombie” is a template that can be added to any dragon of atleast adult age (referred to hereafter as the base dragon). Thecreature uses all the base dragon’s statistics and special abil-ities except as noted here.",
+        "name":  "Level Adjustment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Blindsense 60 ft., damage reduction 5/slashing, darkvision 120 ft., icewalking, immunity tocold, keen senses, slow, spell resistance 16, undead traits",
+        "name":  "Special Qualities",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— A zombie white dragon can often be found guarding the lairs of frost giant adepts or clerics. Colder climates also slowthe rotting process, keeping the zombie white dragon intactfor a longer time. Combat The zombie white dragon possesses none of the animalistic ferocity it had in life. It merely acts according to the (simple) orders given it by its master. Its blindsense and keen senses make it an excellent guardian, and its icewalking ability allows it to perch in diffi- cult-to-reach places. Breath W eapon (Su): 40-ft. cone, 2d6 cold, Reflex DC 13 halves. Frightful Presence (Ex): 150-ft. radius, HD 14 or fewer, Will DC 14 negates. Icewalking (Ex): This ability works like the spider climb spell, but the surfaces the dragon climbs must be icy . It is always in effect. Keen Senses (Ex): A zombie dragon sees four times as well as a human in shadowy illumination and twice as well in normal light. It also has darkvision out to 120 feet.",
+        "name":  "Level Adjustment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Adjust the dragon’s frightful presence save DC, spell-like ability save DCs, and skill modifiers accord-ing to its new Charisma modifier. In the example, Rimelost 2 points of Charisma, which lowers his Charisma mod-ifier from –2 to –3. If the dragon is a spellcaster, a change inCharisma also affects the save DCs for its spells and thenumber of bonus spells it gets. A dragon needs a Charismascore of at least 10 to cast any spells. Since Rime has no spell-casting ability, spell-like abilities, frightful presence, orCharisma-based skills, his reduced Charisma score has noreal impact. Assuming Rime spent his extra 3 skill points from his Intel- ligence increase on Hide, Listen, and Spot, his new statisticswould be as follows:",
+        "name":  "Charisma",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +9, Diplomacy +9, Hide +2, Intimi- date +20, Knowledge (arcana) +9, Knowledge (nature) +7,Listen +18, Move Silently +20, Search +21, Spellcraft +13,Spot +21, Swim +20; Flyby Attack, Improved Initiative,Power Attack, Quicken Spell-Like Ability, Recover Breath, Shape Breath, Wingover. Breath W eapon (Su): 80-ft. line (40-ft. cone if shaped), 12d4 acid, Reflex DC 23 half. Corrupt W ater (Sp): 1/day—spoil up to 10 cubic ft. of water or liquids containing water; range 180 ft.; Will DC 20 negates. Darkness (Sp): 3/day—as darkness , but 60-ft. radius. Caster level 6th. Frightful Presence (Ex): 180-ft. radius, HD 18 or fewer, Will DC 20 negates.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +9, Concentration +27, Diplomacy +26, Hide –1, Intimidate +26, Knowledge (local) +7, Listen+24, Move Silently +22, Search +24, Spellcraft +13, Spot+24, Swim +21; Awaken Spell Resistance, Clinging Breath,Flyby Attack, Power Attack, Quicken Breath, Shape Breath,Split Breath, Wingover. Breath W eapon (Su): 100-ft. line (50-ft. cone if shaped), 14d4 acid, Reflex DC 26 half. Corrupt W ater (Sp): 1/day—spoil up to 10 cubic ft. of water or liquids containing water; range 210 ft.; Will DC23 negates. Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+12 points of bludgeoning damage, and mustsucceed on a DC 26 Reflex save or be pinned. Darkness (Sp): 3/day—as darkness , but 70-ft. radius. Caster level 7th.203CHAPTER 5: SAMPLE DRAGONSmain water entryland entry and exit main lairdense boggy foliage watermain water entry (front view)BELOW WATER LEVELABOVE WATER LEVEL Profile ViewFront View main water entryland entry and exit main lairdense boggy foliage watermain water entry (front view)BELOW WATER LEVELABOVE WATER LEVEL Profile ViewFront View water spillovermain water entryland entry and exit main lairdense boggy foliage watermain water entry (front view)BELOW WATER LEVELABOVE WATER LEVEL Profile ViewFront View water spilloverFrightful Presence (Ex): 210-ft. radius, HD 21 or fewer, Will DC 23 negates.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +10, Climb +13, Concentration +13, Diplomacy +12, Hide +0, Intimidate +32, Knowledge (local)+10, Listen +30, Move Silently +28, Search +30, Spellcraft+16, Spot +30, Swim +25; Blind-Fight, Flyby Attack,Improved Snatch, Power Attack, Quicken Breath, ShapeBreath, Snatch, Tail Constrict, Wingover. Breath W eapon (Su): 100-ft. line (50-ft. cone if shaped), 16d4 acid, Reflex DC 27 half. Corrupt W ater (Sp): 1/day—spoil up to 10 cubic ft. of water or liquids containing water; range 240 ft.; Will DC24 negates. Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+13 points of bludgeoning damage, and mustsucceed on a DC 27 Reflex save or be pinned. Darkness (Sp): 3/day—as darkness , but 80-ft. radius. Caster level 8th. Frightful Presence (Ex): 240-ft. radius, HD 24 or fewer, Will DC 24 negates. Improved Snatch (Ex): Against Medium or smaller crea- tures, bite for 2d8+9/round or claw for 2d6+4/round. Spell-Like Abilities: 1/day— plant growth. Caster level 8th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +24, Concentration +27, Diplo- macy +23, Hide +8, Intimidate +43, Knowledge (arcana)+24, Knowledge (geography) +21, Knowledge (nature)+21, Listen +41, Move Silently +37, Search +41, Spellcraft+24, Spot +41, Swim +37; Blind-Fight, Dire Charge, EpicWill, Fast Healing, Flyby Attack, Improved Initiative, Max-imize Breath, Multiattack, Power Attack, Shape Breath,Snatch, Wingover. Breath W eapon (Su): 120-ft. line (60-ft. cone if shaped), 22d4 acid, Reflex DC 34 half.CHAPTER 5: SAMPLE DRAGONSCorrupt W ater (Sp): 1/day—spoil up to 10 cubic ft. of water or liquids containing water; range 330 ft.; Will DC31 negates. Crush (Ex): Area 20 ft. by 20 ft.; Medium or smaller oppo- nents take 4d6+18 points of bludgeoning damage, and mustsucceed on a DC 34 Reflex save or be pinned. Darkness (Sp): 3/day—as darkness , but 110-ft. radius. Caster level 13th. Frightful Presence (Ex): 330-ft. radius, HD 33 or fewer, Will DC 31 negates. Snatch (Ex): Against Medium or smaller creatures, bite for 4d6+12/round or claw for 2d8+6/round. Spell-Like Abilities: 3/day— insect plague ; 1/day— plant growth . Caster level 13th; save DC 14 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +26, Concentration +14, Diplo- macy +16, Hide +1, Intimidate +28, Knowledge (arcana)+13, Knowledge (geography) +12, Knowledge (local) +12,Listen +26, Search +26, Sense Motive +26, Spellcraft +28,Spot +26; Blind-Fight, Flyby Attack, Hover, ImprovedManeuverability, Multiattack, Power Attack, Shape Breath,Spreading Breath. Breath W eapon (Su): 100-ft. line (50-ft. cone if shaped, 25-ft. spread if spreading), 12d8 electricity, Reflex DC 25half.CHAPTER 5: SAMPLE DRAGONSledge exit main entry (hidden)upper chamber sandy beachpool mid chamber(lower chamber) ledge exit main entry (hidden)pool Plan ViewProfile View ledge exit main entry (hidden)upper chamber sandy beachpool mid chamber(lower chamber) ledge exit main entry (hidden)pool Plan ViewProfile View212Create/Destroy W ater (Sp): 3/day—as create water , but can also be used to destroy water. Caster level 6th; Will DC 21negates. Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+12 points of bludgeoning damage, and mustsucceed on a DC 25 Reflex save or be pinned. Frightful Presence (Ex): 180-ft. radius, HD 20 or fewer, Will DC 23 negates. Sound Imitation (Ex): Can mimic any voice or sound it has heard, anytime it likes. Listeners must succeed on DC 23Will saves to detect the ruse. Spell-Like Abilities: 3/day— ventriloquism . Caster level 6th; save DC 14 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +28, Concentration +16, Diplo- macy +32, Hide +3, Intimidate +30, Knowledge (arcana)+14, Knowledge (nature) +13, Listen +28, Search +28,Sense Motive +28, Spellcraft +30, Spot +28; Combat Exper-tise, Flyby Attack, Hover, Improved Initiative, Large andin Charge, Multiattack, Power Attack, Recover Breath,Shape Breath. Breath W eapon (Su): 100-ft. line (50-ft. cone if shaped), 14d8 electricity, Reflex DC 27 half. Create/Destroy W ater (Sp): 3/day—as create water , but can also be used to destroy water. Caster level 7th; Will DC 25negates.Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+13 points of bludgeoning damage, and mustsucceed on a DC 27 Reflex save or be pinned. Frightful Presence (Ex): 210-ft. radius, HD 23 or fewer, Will DC 25 negates. Sound Imitation (Ex): Can mimic any voice or sound it has heard, anytime it likes. Listeners must succeed on DC 25Will saves to detect the ruse. Spell-Like Abilities: 3/day— ventriloquism . Caster level 7th; save DC 13 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +32, Concentration +22, Diplo- macy +34, Hide +4, Intimidate +34, Knowledge (arcana)+16, Knowledge (geography) +16, Knowledge (local) +16,Knowledge (nature) +16, Listen +32, Search +32, SenseMotive +32, Spellcraft +34, Spot +32; Blind-Fight, CombatReflexes, Dire Charge, Flyby Attack, Hover, Improved Ini-tiative, Power Attack, Quicken Breath, Recover Breath,Shape Breath. Breath W eapon (Su): 100-ft. line (50-ft. cone if shaped), 16d8 electricity, Reflex DC 29 half. Create/Destroy W ater (Sp): 3/day—as create water , but can also be used to destroy water. Caster level 9th; Will DC 27negates.CHAPTER 5: SAMPLE DRAGONSCrush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+15 points of bludgeoning damage, and mustsucceed on a DC 29 Reflex save or be pinned. Frightful Presence (Ex): 240-ft. radius, HD 26 or fewer, Will DC 27 negates. Sound Imitation (Ex): Can mimic any voice or sound it has heard, anytime it likes. Listeners must succeed on DC 27Will saves to detect the ruse. Spell-Like Abilities: 3/day— ventriloquism; 1/day— hal- lucinatory terrain . Caster level 9th; save DC 14 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +35, Concentration +22, Diplomacy +39, Hide +6, Intimidate +37, Knowledge (arcana) +20,Knowledge (geography) +16, Knowledge (local) +16,Knowledge (nature) +16, Listen +35, Search +35, SenseMotive +35, Spellcraft +37, Spot +35; Combat Reflexes,Flyby Attack, Hover, Improved Maneuverability, Multi-attack, Power Attack, Quicken Breath, Recover Breath,Shape Breath, Spreading Breath, Wingstorm.Breath W eapon (Su): 100-ft. line (50-ft. cone if shaped, 25-ft. spread if spreading), 18d8 electricity, Reflex DC 31half. Create/Destroy W ater (Sp): 3/day—as create water , but can also be used to destroy water. Caster level 11th; Will DC29 negates. Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+16 points of bludgeoning damage, and mustsucceed on a DC 31 Reflex save or be pinned. Frightful Presence (Ex): 270-ft. radius, HD 29 or fewer, Will DC 29 negates. Sound Imitation (Ex): Can mimic any voice or sound it has heard, anytime it likes. Listeners must succeed on DC 29Will saves to detect the ruse. Spell-Like Abilities: 3/day— ventriloquism; 1/day— hal- lucinatory terrain . Caster level 11th; save DC 14 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Appraise +15, Bluff +44, Concentration +30, Diplomacy +48, Hide +10, Intimidate +46, Knowledge(arcana) +24, Knowledge (nature) +20, Listen +44, Search+44, Sense Motive +44, Spellcraft +46, Spot +44, Survival+14; Dire Charge, Flyby Attack, Hover, Improved Initiative,Improved Maneuverability, Multiattack, Power Attack,Power Climb, Quicken Breath, Recover Breath, ShapeBreath, Snatch, Spreading Breath. Breath W eapon (Su): 120-ft. line (60-ft. cone if shaped, 30-ft. spread if spreading), 22d8 electricity, Reflex DC 36half. Create/Destroy W ater (Sp): 3/day—as create water , but can also be used to destroy water. Caster level 15th; Will DC33 negates. Crush (Ex): Area 20 ft. by 20 ft.; Medium or smaller oppo- nents take 4d6+19 points of bludgeoning damage, and mustsucceed on a DC 36 Reflex save or be pinned. Frightful Presence (Ex): 330-ft. radius, HD 35 or fewer, Will DC 33 negates. Snatch (Ex): Against Medium or smaller creatures, bite for 4d6+13/round or claw for 2d8+6/round. Sound Imitation (Ex): Can mimic any voice or sound it has heard, anytime it likes. Listeners must succeed on DC 33Will saves to detect the ruse. Spell-Like Abilities: 3/day— ventriloquism; 1/day— hallucinatory terrain, veil . Caster level 15th; save DC 15 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +48, Concentration +29, Diplomacy +52, Hide +9, Intimidate +50, Knowledge (arcana) +27,Knowledge (history) +27, Knowledge (nature) +27, Knowl-edge (religion) +27, Listen +48, Move Silently +10, Search+48, Sense Motive +48, Spellcraft +50, Spot +48, Survival+16; Blind-Fight, Combat Expertise, Epic Will, Flyby Attack,Hover, Improved Maneuverability, Leadership, Multiattack,Power Attack, Recover Breath, Shape Breath, Shock Wave,Snatch, Spreading Breath. Breath W eapon (Su): 120-ft. line (60-ft. cone if shaped, 30-ft. spread if spreading), 24d8 electricity, Reflex DC 37half. Create/Destroy W ater (Sp): 3/day—as create water , but can also be used to destroy water. Caster level 17th; Will DC35 negates. Crush (Ex): Area 20 ft. by 20 ft.; Medium or smaller oppo- nents take 4d6+21 points of bludgeoning damage, and mustsucceed on a DC 37 Reflex save or be pinned. Frightful Presence (Ex): 360-ft. radius, HD 38 or fewer, Will DC 35 negates. Snatch (Ex): Against Medium or smaller creatures, bite for 4d6+14/round or claw for 2d8+7/round. Sound Imitation (Ex): Can mimic any voice or sound it has heard, anytime it likes. Listeners must succeed on DC 35Will saves to detect the ruse. Spell-Like Abilities: 3/day— ventriloquism; 1/day— hal- lucinatory terrain, mirage arcana, veil . Caster level 17th; save DC 16 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Hide +11, Knowledge (history) +6, Knowl- edge (local) +6, Knowledge (nature) +5, Listen +6, Search +6,Spot +6; Enlarge Breath, Flyby Attack. Breath W eapon (Su): 30-ft. line (45-ft. line if enlarged), 1d6 fire, Reflex DC 13 half; or 15-ft. cone (20-ft. cone ifenlarged), sleep 1d6+1 rounds, Will DC 13 negates. Spell-Like Abilities: At will— speak with animals. Caster level 1st. Poccri Very Young Brass Dragon Poccri is a dragon on the run. Forced out of her lair by amarauding band of gnolls, she now finds herself huntedthroughout her territory . Strangely, the gnolls seem pro- tected against her frightful presence, uncowed by hercombat prowess, and not satisfied by just taking over her lairand stealing her hoard. The reason behind this uncharacter-istic behavior is a gnoll cleric who has taken Poccri’sdestruction as a personal quest in honor of Erythnul. Poccri never stays in the same place for long, rarely curl- ing up in the same crevice for more than one night. Sheexpends all her energy fighting the gnolls where she canand seeking allies in the desolate land of her territory .",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +8, Diplomacy +8, Hide +6, Intimi- date +6, Knowledge (local) +8, Listen +8, Search +8, SenseMotive +8, Spot +8; Awaken Spell Resistance, Improved Ini-tiative, Wingover. Breath W eapon (Su): 40-ft. line, 2d6 fire, Reflex DC 14 half; or 20-ft. cone, sleep 1d6+2 rounds, Will DC 14 negates. Spell-Like Abilities: At will— speak with animals. Caster level 2nd. Vultsubai Young Brass Dragon Unlike many of his kind, Vultsubai enjoys the fine art ofconversation—not simply the sound of his own voice. Helairs near a large city, and his favorite topic of conversationis local gossip about the humans and dwarves who live inthe city . He knows intimate secrets about people he hasnever met, simply finding their quirks, habits, and misad-ventures a source of endless fascination. He finds thedwarves especially interesting, since their personalities aregenerally so different from his own. He can eagerly listen tothe most long-winded dwarf recite a lengthy clan history inDwarven without showing a trace of boredom.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +14, Diplomacy +11, Gather Infor- mation +8, Intimidate +8, Knowledge (local) +14, Listen +14,Search +13, Sense Motive +13, Spot +13; Heighten Breath,Hover, Improved Initiative, Power Attack.CHAPTER 5: SAMPLE DRAGONSIllus. by Breath W eapon (Su): 60-ft. line, 3d6 fire, Reflex DC 17 half (or higher if heightened); or 30-ft. cone, sleep 1d6+3 rounds, Will DC 17 negates (or higher if heightened). Spell-Like Abilities: At will— speak with animals. Caster level 3rd.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As 1st-level sorcerer.",
+        "name":  "Spells",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +16, Concentration +17, Diplomacy +9, Gather Information +9, Hide +3, Intimidate +8, Knowl-edge (local) +7, Listen +18, Search +16, Sense Motive +5,Spellcraft +8, Spot +7; Alertness, Flyby Attack, HeightenBreath, Heighten Spell, Hover. Breath W eapon (Su): 60-ft. line, 4d6 fire, Reflex DC 18 half (or higher if heightened); or 30-ft. cone, sleep 1d6+4 rounds, Will DC 18 negates (or higher if heightened). Endure Elements (Sp): 3/day—as endure elements , but 40-ft. radius. Caster level 4th. Spell-Like Abilities: At will— speak with animals. Caster level 4th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +21, Concentration +22, Diplomacy +16, Gather Information +10, Hide –1, Intimidate +9,Knowledge (local) +7, Listen +21, Search +21, Sense Motive+8, Spellcraft +11, Spot +21; Combat Expertise, Hover,Multiattack, Power Attack, Recover Breath, Shape Breath. Breath W eapon (Su): 80-ft. line (40-ft. cone if shaped), 5d6 fire, Reflex DC 21 half; or 40-ft. cone (80-ft. line ifshaped), sleep 1d6+5 rounds, Will DC 21 negates. Endure Elements (Sp): 3/day—as endure elements , but 50-ft. radius. Caster level 5th. Frightful Presence (Ex): 150-ft. radius, HD 15 or fewer, Will DC 20 negates. Spell-Like Abilities: At will— speak with animals. Caster level 5th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +20, Concentration +24, Diplo- macy +16, Gather Information +22, Hide –2, Intimidate+7, Knowledge (local) +17, Listen +20, Search +17, SenseMotive +22, Spellcraft +12, Spot +17; Blind-Fight, HeightenBreath, Hover, Improved Initiative, Power Attack, RecoverBreath, Shape Breath. Breath W eapon (Su): 80-ft. line (40-ft. cone if shaped), 6d6 fire, Reflex DC 23 half (or higher if heightened); or 40-ft. cone (80-ft. line if shaped), sleep 1d6+6 rounds, Will DC 23 negates (or higher if heightened). Endure Elements (Sp): 3/day—as endure elements , but 60-ft. radius. Caster level 7th. Frightful Presence (Ex): 180-ft. radius, HD 18 or fewer, Will DC 21 negates. Spell-Like Abilities: At will— speak with animals; 1/day— suggestion. Caster level 7th; save DC 12 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +13, Concentration +29, Diplomacy +17, Gather Information +29, Hide –3, Intimidate +15,Knowledge (arcana) +13, Knowledge (local) +13, Listen+27, Search +27, Sense Motive +27, Spellcraft +17, Spot+24; Heighten Breath, Hover, Improved Maneuverability,Multiattack, Power Attack, Quicken Breath, RecoverBreath, Shape Breath. Breath W eapon (Su): 100-ft. line (50-ft. cone if shaped), 7d6 fire, Reflex DC 26 half (or higher if heightened); or 50-ft. cone (100-ft. line if shaped), sleep 1d6+7 rounds, Will DC 26 negates (or higher if heightened). Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+12 points of bludgeoning damage, and mustsucceed on a DC 26 Reflex save or be pinned. Endure Elements (Sp): 3/day—as endure elements , but 70-ft. radius. Caster level 9th. Frightful Presence (Ex): 210-ft. radius, HD 21 or fewer, Will DC 24 negates. Spell-Like Abilities: At will— speak with animals; 1/day— suggestion. Caster level 9th; save DC 13 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +12, Concentration +28, Diplomacy +30, Gather Information +28, Hide –4, Intimidate +20,Knowledge (arcana) +15, Knowledge (local) +26, Listen +26,Search +26, Sense Motive +26, Spellcraft +16, Spot +26;Empower Spell, Enlarge Breath, Epic Reflexes, HeightenBreath, Hover, Improved Maneuverability, Power Attack,Recover Breath, Shape Breath. Breath W eapon (Su): 100-ft. line (150-ft. line if enlarged, 50-ft. cone if shaped, 75-ft. cone if shaped and enlarged), 8d6fire, Reflex DC 27 half (or higher if heightened); or 50-ft.cone (75-ft. cone if enlarged, 100-ft. line if shaped, 150-ft.line if shaped and enlarged), sleep 1d6+8 rounds, Will DC 27 negates (or higher if heightened). Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+13 points of bludgeoning damage, and mustsucceed on a DC 27 Reflex save or be pinned. Endure Elements (Sp): 3/day—as endure elements , but 80-ft. radius. Caster level 11th. Frightful Presence (Ex): 240-ft. radius, HD 24 or fewer, Will DC 25 negates. Spell-Like Abilities: At will— speak with animals; 1/day— control winds, suggestion. Caster level 11th; save DC 13 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +16, Concentration +32, Diplo- macy +34, Gather Information +32, Hide –2, Intimidate+18, Knowledge (arcana) +19, Knowledge (geography) +16,Knowledge (local) +19, Knowledge (nature) +16, Listen+30, Search +30, Sense Motive +30, Spellcraft +19, Spot +30,Survival +16; Blind-Fight, Epic Reflexes, Heighten Breath,Hover, Iron Will, Multiattack, Power Attack, QuickenBreath, Recover Breath, Suppress Weakness . Breath W eapon (Su): 100-ft. line, 9d6 fire, Reflex DC 30 half (or higher if heightened); or 50-ft. cone, sleep 1d6+9 rounds, Will DC 30 negates (or higher if heightened). Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+15 points of bludgeoning damage, and mustsucceed on a DC 30 Reflex save or be pinned. Endure Elements (Sp): 3/day—as endure elements , but 90-ft. radius. Caster level 13th. Frightful Presence (Ex): 270-ft. radius, HD 27 or fewer, Will DC 28 negates. Spell-Like Abilities: At will— speak with animals; 1/day— control winds, suggestion. Caster level 13th; save DC 14 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +33, Concentration +19, Diplomacy +37, Gather Information +35, Hide –2, Intimidate +19,Knowledge (arcana) +17, Knowledge (geography) +17,Knowledge (local) +17, Knowledge (nature) +17, Knowl-edge (the planes) +17, Knowledge (religion) +17, Listen +33,Search +24, Sense Motive +33, Spellcraft +20, Spot +33;Empower Spell, Enlarge Breath, Heighten Breath, Hover,Improved Initiative, Iron Will, Multiattack, Power Attack,Recover Breath, Shape Breath, Suppress Weakness. Breath W eapon (Su): 100-ft. line (150-ft. line if enlarged, 50-ft. cone if shaped, 75-ft. cone if shaped and enlarged),10d6 fire, Reflex DC 31 half (or higher if heightened); or 50-ft. cone (75-ft. cone if enlarged, 100-ft. line if shaped, 150-ft.line if shaped and enlarged), sleep 1d6+10 rounds, Will DC 31 negates (or higher if heightened). Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+16 points of bludgeoning damage, and mustsucceed on a DC 31 Reflex save or be pinned. Endure Elements (Sp): 3/day—as endure elements , but 100- ft. radius. Caster level 15th. Frightful Presence (Ex): 300-ft. radius, HD 30 or fewer, Will DC 29 negates. Spell-Like Abilities: At will— speak with animals; 1/day— control weather, control winds, suggestion. Caster level 15th; save DC 14 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +41, Concentration +22, Diplomacy +45, Gather Information +43, Hide –5, Intimidate +22,Knowledge (arcana) +20, Knowledge (geography) +20,Knowledge (local) +20, Knowledge (nature) +20, Listen +41,Search +41, Sense Motive +41, Spellcraft +25, Spot +41, Sur-vival +19; Empower Spell, Extend Spell, Heighten Breath,Hover, Improved Initiative, Improved Maneuverability,Iron Will, Overcome Weakness, Power Attack, RecoverBreath, Shape Breath, Suppress Weakness. Breath W eapon (Su): 120-ft. line (60-ft. cone if shaped), 11d6 fire, Reflex DC 34 half (or higher if heightened); or 60-ft. cone (120-ft. line if shaped), sleep 1d6+11 rounds, Will DC 34 negates (or higher if heightened). Crush (Ex): Area 20 ft. by 20 ft.; Medium or smaller oppo- nents take 4d6+18 points of bludgeoning damage, and mustsucceed on a DC 34 Reflex save or be pinned. Endure Elements (Sp): 3/day—as endure elements , but 110- ft. radius. Caster level 17th. Frightful Presence (Ex): 330-ft. radius, HD 33 or fewer, Will DC 32 negates. Spell-Like Abilities: At will— speak with animals; 1/day— control weather, control winds, suggestion. Caster level 17th; save DC 15 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +45, Concentration +32, Diplomacy +49, Gather Information +25, Hide –1, Intimidate +27,Knowledge (arcana) +27, Knowledge (geography) +21,Knowledge (local) +23, Knowledge (nature) +25, Listen +45,Search +45, Sense Motive +45, Spellcraft +27, Spot +45;Adroit Flyby Attack, Blind-Fight, Empower Spell, Epic Will,Flyby Attack, Heighten Breath, Hover, Improved Maneu-verability, Iron Will, Power Attack, Recover Breath, ShapeBreath, Suppress Weakness. Breath W eapon (Su): 120-ft. line (60-ft. cone if shaped), 12d6 fire, Reflex DC 36 half (or higher if heightened); or 60-ft. cone (120-ft. line if shaped), sleep 1d6+12 rounds, Will DC 36 negates (or higher if heightened). Crush (Ex): Area 20 ft. by 20 ft.; Medium or smaller oppo- nents take 4d6+19 points of bludgeoning damage, and mustsucceed on a DC 36 Reflex save or be pinned. Endure Elements (Sp): 3/day—as endure elements , but 120- ft. radius. Caster level 19th.Frightful Presence (Ex): 360-ft. radius, HD 36 or fewer, Will DC 33 negates. Spell-Like Abilities: At will— speak with animals; 1/day— control weather, control winds, suggestion. Caster level 19th; save DC 15 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Diplomacy +13, Hide +6, Knowledge (nature) +8, Listen +11, Search +10, Sense Motive +11, Spot+11, Swim +18, Survival +11; Combat Expertise, ImprovedInitiative, Power Attack . Breath W eapon (Su): 40-ft. line, 2d6 electricity, Reflex DC 14 half; or 20-ft. cone, repulsion 1d6+1 rounds, Will DC 14 negates. Spell-Like Abilities: At will— speak with animals. Caster level 1st. Eyruaad Very Young Bronze Dragon Older bronze dragons shake their heads and write him offas another youthful idealist, but Eyruaad sees himself assomething more like a paladin. While other bronzes maybe content to let evil dragons make their lairs nearby andhatch who knows what evil plans, Eyruaad believes intaking the fight right to evil’s front door. He does not tol-erate any evil creature’s presence anywhere near his (rathersmall) territory, especially evil dragons. He uses a widenetwork of animals and humanoids to keep him informedof attacks by evil creatures, and personally investigateseach such report in order to protect the innocents in hiscare. His major failing is an eagerness to do battle, withlittle regard for his actual chance of success. So far, his luckhas not failed him, but it might not be long before Eyruaadneeds protection himself.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +8, Diplomacy +16, Intimidate +14, Knowledge (geography) +7, Knowledge (history) +7,Knowledge (local) +7, Listen +14, Move Silently +3, Search+12, Sense Motive +12, Spot +14, Swim +19; Alertness,Hover, Multiattack, Power Attack. Breath W eapon (Su): 60-ft. line, 4d6 electricity, Reflex DC 16 half; or 30-ft. cone, repulsion 1d6+2 rounds, Will DC 16 negates. Spell-Like Abilities: At will— speak with animals. Caster level 2nd.Louteah Young Bronze Dragon Though she would never admit it or accept anyone saying itof her, Louteah is a coward. All bluster, she puts on a goodshow, and is quite capable of sending weaker enemies—orgullible ones—fleeing in fear. However, when she can’tavert a fight through intimidation, frightful presence, orrepulsion gas, she tends to fly away, usually with a comment such as, “You’re not a worthy challenge!” She saves her bel-ligerence for evil creatures, of course, and is quite kindamong friends and like-minded allies—as long as no onecalls her bravery into question.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +9, Concentration +16, Diplomacy +21, Disguise +15, Intimidate +19, Knowledge (local) +9,Listen +17, Search +17, Sense Motive +17, Spellcraft +6,Spot +17, Swim +17; Awaken Frightful Presence, CombatExpertise, Improved Maneuverability, Power Attack,Wingover. Alternate Form (Su): Can assume any humanoid form of Medium size or smaller as a standard action three timesper day . This ability functions as a polymorph spell cast on itself by a 3rd-level sorcerer, except that the dragon doesnot regain hit points for changing form and can onlyassume the form of a humanoid. The dragon can remain inits humanoid from until it chooses to assume a new one orreturn to its natural form. Breath W eapon (Su): 60-ft. line, 6d6 electricity, Reflex DC 18 half; or 30-ft. cone, repulsion 1d6+3 rounds, Will DC 18 negates. Frightful Presence (Ex): 60-ft. radius, HD 11 or fewer, Will DC 19 negates. Spell-Like Abilities: At will— speak with animals. Caster level 3rd.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +11, Concentration +23, Craft (rope- making) +6, Diplomacy +27, Disguise +23, Hide –2, Intimi-date +14, Knowledge (arcana) +14, Knowledge (local) +10,Listen +23, Profession (sailor) +6, Search +23, Sense Motive+23, Spellcraft +15, Spot +23, Swim +23, Use Rope +2; FlybyAttack, Heighten Breath, Improved Initiative, Power Attack,Recover Breath, Shape Breath, Wingover. Alternate Form (Su): Can assume any humanoid form of Medium size or smaller as a standard action three times perday . This ability functions as a polymorph spell cast on itself by a 5th-level sorcerer, except that the dragon does notregain hit points for changing form and can only assume theform of a humanoid. The dragon can remain in itshumanoid from until it chooses to assume a new one orreturn to its natural form. Breath W eapon (Su): 80-ft. line (40-ft. cone if shaped), 10d6 electricity, Reflex DC 23 half (or higher if heightened);or 40-ft. cone (80-ft. line if shaped), repulsion 1d6+5 rounds, Will DC 23 negates (or higher if heightened). Frightful Presence (Ex): 150-ft. radius, HD 17 or fewer, Will DC 23 negates. Spell-Like Abilities: At will— speak with animals. Caster level 5th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Balance +4, Bluff +14, Concentration +26, Diplomacy +30, Disguise +23, Escape Artist +6, Hide –4,Intimidate +15, Knowledge (arcana) +15, Knowledge (his-tory) +13, Knowledge (nature) +11, Listen +26, Search +26,Sense Motive +26, Spellcraft +17, Spot +26, Swim +34, Sur-vival +22; Flyby Attack, Heighten Breath, Multiattack,Recover Breath, Shape Breath, Spreading Breath, Track,Wingover. Alternate Form (Su): Can assume any humanoid form of Medium size or smaller as a standard action three timesper day . This ability functions as a polymorph spell cast on itself by a 7th-level sorcerer, except that the dragon doesnot regain hit points for changing form and can onlyassume the form of a humanoid. The dragon can remain inits humanoid from until it chooses to assume a new one orreturn to its natural form. Breath W eapon (Su): 100-ft. line (50-ft. cone if shaped, 25-ft. spread if spreading), 12d6 electricity, Reflex DC 25half (or higher if heightened); or 50-ft. cone (100-ft. line ifshaped, 25-ft. spread if spreading), repulsion 1d6+6 rounds, Will DC 25 negates (or higher if heightened). Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+12 points of bludgeoning damage, and mustsucceed on a DC 25 Reflex save or be pinned. Frightful Presence (Ex): 180-ft. radius, HD 20 or fewer, Will DC 25 negates. Spell-Like Abilities: At will— speak with animals; 3/day— create food and water, fog cloud. Caster level 7th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +31, Concentration +15, Diplomacy +19, Disguise +31, Hide –3, Intimidate +19, Knowledge(geography) +15, Knowledge (nature) +13, Knowledge (reli-gion) +14, Listen +31, Search +31, Sense Motive +31, Spell-craft +18, Spot +31, Swim +39, Survival +29; Adroit FlybyAttack, Clinging Breath, Flyby Attack, Heighten Breath,Improved Initiative, Lingering Breath, Power Attack, ShapeBreath, Wingover. Alternate Form (Su): Can assume any humanoid form of Medium size or smaller as a standard action three times perday . This ability functions as a polymorph spell cast on itself by a 9th-level sorcerer, except that the dragon does notregain hit points for changing form and can only assume theform of a humanoid. The dragon can remain in itshumanoid from until it chooses to assume a new one orreturn to its natural form. Breath W eapon (Su): 100-ft. line (50-ft. cone if shaped), 14d6 electricity, Reflex DC 27 half (or higher if heightened);or 50-ft. cone (100-ft. line if shaped), repulsion 1d6+7 rounds, Will DC 27 negates (or higher if heightened). Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+13 points of bludgeoning damage, and mustsucceed on a DC 27 Reflex save or be pinned. Frightful Presence (Ex): 210-ft. radius, HD 23 or fewer, Will DC 27 negates. Spell-Like Abilities: At will— speak with animals; 3/day— create food and water, fog cloud. Caster level 9th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +34, Concentration +19, Diplomacy +38, Disguise +32, Hide –2, Intimidate +22, Knowledge(arcana) +24, Knowledge (geography) +22, Knowledge(nature) +16, Knowledge (the planes) +20, Listen +34, Pro-fession (scribe) +10, Search +34, Sense Motive +34, Spell-craft +22, Spot +34, Swim +28, Survival +28; Blind-Fight,Dire Charge, Empower Spell, Flyby Attack, HeightenBreath, Improved Initiative, Multiattack, Power Attack,Recover Breath, Wingover. Alternate Form (Su): Can assume any humanoid form of Medium size or smaller as a standard action three times perday . This ability functions as a polymorph spell cast on itself by a 11th-level sorcerer, except that the dragon does notregain hit points for changing form and can only assume theform of a humanoid. The dragon can remain in itshumanoid from until it chooses to assume a new one orreturn to its natural form. Breath W eapon (Su): 100-ft. line, 16d6 electricity, Reflex DC 29 half (or higher if heightened); or 50-ft. cone, repulsion 1d6+8 rounds, Will DC 29 negates (or higher if heightened).Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+15 points of bludgeoning damage, and mustsucceed on a DC 29 Reflex save or be pinned. Frightful Presence (Ex): 240-ft. radius, HD 26 or fewer, Will DC 29 negates. Spell-Like Abilities: At will— speak with animals; 3/day— create food and water, detect thoughts, fog cloud. Caster level 11th; save DC 16 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +22, Concentration +24, Craft (car- pentry) +11, Diplomacy +42, Disguise +34, Hide +1, Intimi-date +28, Knowledge (arcana) +24, Knowledge (history) +15,Knowledge (local) +20, Knowledge (nature) +11, Knowl-edge (religion) +13, Listen +36, Search +35, Sense Motive+38, Spellcraft +23, Spot +38, Swim +39, Survival +34; AdroitFlyby Attack, Combat Expertise, Dire Charge, EmpowerSpell, Flyby Attack, Heighten Breath, Improved Initiative,Power Attack, Shape Breath, Snatch, Wingover.CHAPTER 5: SAMPLE DRAGONSmain entry (coral reef)direction of slow-moving lava flow into ocean coral reef protecting island beach subterranean entry tunnel first chamber (within volcano)upper chamber (1000 ft. elevation) main entry (coral reef)Oblique ViewOverland View (showing entry and chambers)main entry (coral reef )direction of slow-moving lava flow into ocean coral reef protecting island beach subterranean entry tunnel first chamber (within volcano)upper chamber (1000 ft. elevation) main entry (coral reef )Oblique ViewOverland View (showing entry and chambers)230Alternate Form (Su): Can assume any humanoid form of Medium size or smaller as a standard action three times perday . This ability functions as a polymorph spell cast on itself by a 13th-level sorcerer, except that the dragon does notregain hit points for changing form and can only assume theform of a humanoid. The dragon can remain in itshumanoid from until it chooses to assume a new one orreturn to its natural form. Breath W eapon (Su): 100-ft. line (50-ft. cone if shaped), 18d6 electricity, Reflex DC 31 half (or higher if heightened);or 50-ft. cone (100-ft. line if shaped), repulsion 1d6+9 rounds, Will DC 31 negates (or higher if heightened). Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+16 points of bludgeoning damage, and mustsucceed on a DC 31 Reflex save or be pinned. Frightful Presence (Ex): 270-ft. radius, HD 29 or fewer, Will DC 31 negates. Snatch (Ex): Against Small or smaller creatures, bite for 2d8+11/round or claw for 2d6+5/round. Spell-Like Abilities: At will— speak with animals; 3/day —create food and water, detect thoughts, fog cloud. Caster level 13th; save DC 16 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +43, Concentration +28, Craft (net- making) +10, Diplomacy +31, Disguise +29, Hide –2, Intim-idate +33, Knowledge (arcana) +33, Knowledge (geography)+21, Knowledge (local) +32, Knowledge (nature) +27,Knowledge (the planes) +19, Knowledge (religion) +22,Listen +43, Profession (fisher) +11, Search +43, SenseMotive +43, Spot +43, Swim +42, Survival +39; AwakenFrightful Presence, Combat Reflexes, Flyby Attack,Heighten Breath, Improved Maneuverability, ImprovedSnatch, Multiattack, Power Attack, Recover Breath, ShapeBreath, Snatch, Wingover. Alternate Form (Su): Can assume any humanoid form of Medium size or smaller as a standard action three times perday . This ability functions as a polymorph spell cast on itself by a 15th-level sorcerer, except that the dragon does notregain hit points for changing form and can only assume theform of a humanoid. The dragon can remain in itshumanoid from until it chooses to assume a new one orreturn to its natural form. Breath W eapon (Su): 120-ft. line (60-ft. cone if shaped), 20d6 electricity, Reflex DC 33 half (or higher if heightened);or 60-ft. cone (120-ft. line if shaped), repulsion 1d6+10 rounds, Will DC 33 negates (or higher if heightened). Crush (Ex): Area 20 ft. by 20 ft.; Medium or smaller oppo- nents take 4d6+18 points of bludgeoning damage, and mustsucceed on a DC 33 Reflex save or be pinned. Frightful Presence (Ex): 450-ft. radius, HD 32 or fewer, Will DC 35 negates. Improved Snatch (Ex): Against Large or smaller crea- tures, bite for 4d6+12/round or claw for 2d8+6/round. Spell-Like Abilities: At will— speak with animals; 3/day— control water, create food and water, detect thoughts, fog cloud. Caster level 15th; save DC 15 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +48, Concentration +44, Craft (black- smithing) +13, Diplomacy +52, Disguise +40, HandleAnimal +13, Hide +5, Intimidate +43, Knowledge (arcana)+42, Knowledge (local) +38, Knowledge (nature) +34,Knowledge (the planes) +34, Listen +48, Profession (team-ster) +12, Ride +8, Search +48, Sense Motive +50, Spellcraft+29, Survival +44, Swim +42; Empower Spell, Epic Will,Flyby Attack, Heighten Breath, Heighten Spell, ImprovedInitiative, Improved Maneuverability, Power Attack,Recover Breath, Shape Breath, Snatch, Tempest Breath,Wingover, Wingstorm. Alternate Form (Su): Can assume any humanoid form of Medium size or smaller as a standard action three times 231CHAPTER 5: SAMPLE DRAGONSper day . This ability functions as a polymorph spell cast on itself by a 19th-level sorcerer, except that the dragon doesnot regain hit points for changing form and can onlyassume the form of a humanoid. The dragon can remain inits humanoid from until it chooses to assume a new one orreturn to its natural form. Breath W eapon (Su): 120-ft. line (60-ft. cone if shaped), 24d6 electricity, Reflex DC 37 half (or higher if heightened);or 60-ft. cone (120-ft. line if shaped), repulsion 1d6+12 rounds, Will DC 37 negates (or higher if heightened). Crush (Ex): Area 20 ft. by 20 ft.; Medium or smaller oppo- nents take 4d6+21 points of bludgeoning damage, and mustsucceed on a DC 37 Reflex save or be pinned. Frightful Presence (Ex): 360-ft. radius, HD 38 or fewer, Will DC 37 negates. Snatch (Ex): Against Medium or smaller creatures, bite for 4d6+14/round or claw for 2d8+7/round. Spell-Like Abilities: At will— speak with animals; 3/day— control water, create food and water, detect thoughts, fog cloud; 1/day— control weather. Caster level 19th; save DC 18 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +20, Concentration +18, Diplo- macy +7, Hide –4, Intimidate +5, Jump +20, Knowledge(arcana) +15, Knowledge (geography) +15, Knowledge(nature) +15, Listen +20, Perform (comedy) +13, Search +20,Sense Motive +20, Spellcraft +12, Spot +20; Clinging Breath,Flyby Attack, Power Attack, Shock Wave, Spell Focus(Enchantment), Wingover. Breath W eapon (Su): 80-ft. line, 10d4 acid, Reflex DC 21 half; or 40-ft. cone, slow 1d6+5 rounds, Fortitude DC 21 negates. Frightful Presence (Ex): 150-ft. radius, HD 16 or fewer, Will DC 21 negates.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +20, Concentration +21, Diplomacy +7, Hide –4, Intimidate +5, Jump +30, Knowledge (arcana)+15, Knowledge (geography) +14, Knowledge (the planes)+15, Listen +23, Perform (oratory) +14, Search +23, SenseMotive +23, Spellcraft +14, Spot +23; Flyby Attack, Hover,Improved Maneuverability, Power Attack, Shape Breath,Split Breath, Wingover. Breath W eapon (Su): 80-ft. line (40-ft. cone if shaped), 12d4 acid, Reflex DC 24 half; or 40-ft. cone (80-ft. line ifshaped), slow 1d6+6 rounds, Fortitude DC 24 negates. Frightful Presence (Ex): 180-ft. radius, HD 19 or fewer, Will DC 21 negates. Spell-Like Abilities: 2/day— stone shape. Caster level 7th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +30, Concentration +22, Diplomacy +19, Hide –8, Intimidate +18, Jump +35, Knowledge (arcana)+19, Knowledge (geography) +19, Knowledge (nature) +17,Listen +30, Perform (oratory) +17, Search +30, Sense Motive+30, Spellcraft +16, Spot +30; Flyby Attack, Heighten Breath,Heighten Spell, Hover, Power Attack, Shape Breath, SkillFocus (Perform [oratory]), Wingover. Breath W eapon (Su): 100-ft. line (50-ft. cone if shaped), 14d4 acid, Reflex DC 27 half (or higher if heightened); or 50-ft. cone (100-ft. line if shaped), slow 1d6+7 rounds, Fortitude DC 27 negates (or higher if heightened). Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+12 points of bludgeoning damage, and mustsucceed on a DC 27 Reflex save or be pinned. Frightful Presence (Ex): 210-ft. radius, HD 22 or fewer, Will DC 25 negates. Spell-Like Abilities: 2/day— stone shape. Caster level 9th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +33, Concentration +15, Diplomacy +18, Hide –8, Intimidate +22, Jump +39, Knowledge (arcana)+15, Knowledge (geography) +15, Knowledge (nature)+15, Knowledge (the planes) +15, Listen +30, Perform (act)+18, Search +30, Sense Motive +33, Spellcraft +18, Spot+30; Enlarge Breath, Flyby Attack, Heighten Breath,Heighten Spell, Hover, Iron Will, Power Attack, ShapeBreath, Wingover. Breath W eapon (Su): 100-ft. line (150-ft. line if enlarged, 50-ft. cone if shaped, 75-ft. cone if shaped and enlarged),16d4 acid, Reflex DC 28 half (or higher if heightened); or 50-ft. cone (75-ft. cone if enlarged, 100-ft. line if shaped, 150-ft.line if shaped and enlarged), slow 1d6+8 rounds, Fortitude DC 28 negates (or higher if heightened). Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+13 points of bludgeoning damage, and mustsucceed on a DC 28 Reflex save or be pinned. Frightful Presence (Ex): 240-ft. radius, HD 25 or fewer, Will DC 27 negates. Spell-Like Abilities: 2/day— stone shape. 1/day— trans- mute rock to mud/mud to rock. Caster level 11th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +34, Concentration +23, Diplomacy +34, Hide –8, Intimidate +29, Jump +24, Knowledge (arcana)+24, Knowledge (geography) +24, Knowledge (local) +24,Knowledge (nature) +24, Knowledge (religion) +24, Listen+34, Perform (oratory) +21, Search +34, Sense Motive +34,Spellcraft +20, Spot +34; Cleave, Clinging Breath, FlybyAttack, Heighten Breath, Hover, Multiattack, Power Attack,Recover Breath, Shape Breath, Wingover. Breath W eapon (Su): 100-ft. line (50-ft. cone if shaped), 18d4 acid, Reflex DC 30 half (or higher if heightened); or 50-ft. cone (100-ft. line if shaped), slow 1d6+9 rounds, Fortitude DC 30 negates (or higher if heightened). Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+15 points of bludgeoning damage, and mustsucceed on a DC 30 Reflex save or be pinned. Frightful Presence (Ex): 270-ft. radius, HD 28 or lower, Will DC 29 negates. Spell-Like Abilities: 2/day— stone shape. 1/day— trans- mute rock to mud/mud to rock. Caster level 13th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +37, Concentration +23, Diplomacy +38, Gather Information +39, Hide –8, Intimidate +34,Jump +28, Knowledge (arcana) +25, Knowledge (geography)+25, Knowledge (local) +25, Knowledge (nature) +25,Knowledge (religion) +25, Listen +37, Perform (sing) +15,Search +37, Sense Motive +37, Spellcraft +22, Spot +34;Cleave, Clinging Breath, Combat Reflexes, Flyby Attack,Heighten Breath, Hover, Large and in Charge, Power Attack,Recover Breath, Shape Breath, Wingover. Breath W eapon (Su): 100-ft. line (50-ft. cone if shaped), 20d4 acid, Reflex DC 32 half (or higher if heightened); or 50-ft. cone (100-ft. line if shaped), slow 1d6+10 rounds, Forti- tude DC 32 negates (or higher if heightened). Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+16 points of bludgeoning damage, and mustsucceed on a DC 32 Reflex save or be pinned. Frightful Presence (Ex): 300-ft. radius, HD 31 or fewer, Will DC 31 negates. Spell-Like Abilities: 2/day— stone shape. 1/day— trans- mute rock to mud/mud to rock, wall of stone. Caster level 15th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +40, Concentration +30, Diplomacy +51, Hide –12, Intimidate +45, Jump +55, Knowledge(arcana) +36, Knowledge (geography) +34, Knowledge(local) +34, Knowledge (nature) +34, Knowledge (religion)+34, Listen +47, Perform (sing) +26, Search +44, SenseMotive +47, Spellcraft +28, Spot +47; Cleave, ClingingBreath, Flyby Attack, Great Cleave, Heighten Breath, Hover,Improved Initiative, Lingering Breath, Power Attack,Recover Breath, Shape Breath, Shock Wave, Wingover. Breath W eapon (Su): 120-ft. line (60-ft. cone if shaped), 24d4 acid, Reflex DC 37 half (or higher if heightened); or 60-ft. cone (120-ft. line if shaped), slow 1d6+12 rounds, Forti- tude DC 37 negates (or higher if heightened). Crush (Ex): Area 20 ft. by 20 ft.; Medium or smaller oppo- nents take 4d6+19 points of bludgeoning damage, and mustsucceed on a DC 37 Reflex save or be pinned. Frightful Presence (Ex): 360-ft. radius, HD 37 or fewer, Will DC 35 negates. Spell-Like Abilities: 2/day— stone shape. 1/day— trans- mute rock to mud/mud to rock, move earth, wall of stone. Caster level 19th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +6, Concentration +19, Diplomacy +13, Disguise +21, Heal +24, Hide –4, Intimidate +26, Jump+29, Knowledge (arcana) +14, Knowledge (nobility and roy-alty) +14, Knowledge (religion) +14, Listen +24, Search +24,Sense Motive +23, Spellcraft +13, Spot +24, Swim +29;Cleave, Combat Expertise, Flyby Attack, Improved Sunder,Power Attack, Wingover. Breath W eapon (Su): 40-ft. cone, 8d10 fire, Reflex DC 22 half; or 40-ft. cone, 4 Str, Fortitude DC 22 negates. Spell-Like Abilities: 3/day— bless . Caster level 4th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +8, Concentration +23, Diplomacy +15, Disguise +14, Escape Artist +20, Handle Animal +14,Heal +15, Hide –8, Intimidate +22, Jump +32, Knowledge(local) +17, Listen +24, Ride +12, Search +24, Sense Motive+24, Spellcraft +14, Spot +24, Swim +34; Flyby Attack,Heighten Breath, Hover, Power Attack, Recover Breath,Tempest Breath, Wingover. Breath W eapon (Su): 50-ft. cone, 10d10 fire, Reflex DC 25 half (or higher if heightened); or 50-ft. cone, 5 Str, Forti-tude DC 25 negates (or higher if heightened).Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+15 points of bludgeoning damage, and mustsucceed on a DC 25 Reflex save or be pinned. Frightful Presence (Ex): 150-ft. radius, HD 19 or fewer, Will DC 24 negates. Spell-Like Abilities: 3/day— bless . Caster level 5th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +9, Concentration +20, Diplomacy +28, Disguise +28 (30 acting), Hide –3, Intimidate +24, Jump+35, Knowledge (arcana) +20, Knowledge (local) +25,Knowledge (nobility and royalty) +15, Listen +28, MoveSilently +5, Search +28, Sense Motive +25, Spellcraft +17,Spot +28, Swim +35, Survival +15; Cleave, Flyby Attack,Heighten Breath, Hover, Leadership, Power Attack, RecoverBreath, Wingover. Breath W eapon (Su): 50-ft. cone, 12d10 fire, Reflex DC 26 half (or higher if heightened); or 50-ft. cone, 6 Str, Forti-tude DC 26 negates (or higher if heightened). Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+16 points of bludgeoning damage, and mustsucceed on a DC 26 Reflex save or be pinned. Frightful Presence (Ex): 180-ft. radius, HD 22 or fewer, Will DC 26 negates. Spell-Like Abilities: 3/day— bless . Caster level 7th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Appraise +12, Bluff +9, Concentration +25, Diplomacy +28, Disguise +31, Hide –8, Intimidate +22,Jump +36, Knowledge (arcana) +18, Knowledge (geography)+18, Knowledge (local) +18, Knowledge (nobility and roy-alty) +18, Knowledge (religion) +18, Listen +31, Profession(metalworking) +15, Search +31, Sense Motive +31, Spell-craft +19, Spot +30, Swim +20; Cleave, Heighten Breath,Flyby Attack, Hover, Iron Will, Power Attack, RecoverBreath, Suppress Weakness, Wingover. Breath W eapon (Su): 50-ft. cone, 14d10 fire, Reflex DC 29 half (or higher if heightened); or 50-ft. cone, 7 Str, Forti-tude DC 29 negates (or higher if heightened). Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+18 points of bludgeoning damage, and mustsucceed on a DC 29 Reflex save or be pinned. Frightful Presence (Ex): 210-ft. radius, HD 25 or fewer, Will DC 31 negates. Spell-Like Abilities: 3/day— bless . Caster level 9th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Appraise +15, Bluff +12, Concentration +26, Craft (potter) +18, Diplomacy +36, Disguise +36, Hide–12, Intimidate +37, Jump +40, Knowledge (arcana) +27,Knowledge (geography) +27, Knowledge (local) +27,Knowledge (nature) +27, Knowledge (nobility and royalty)+27, Knowledge (religion) +27, Listen +36, Search +36,Sense Motive +36, Spellcraft +22, Spot +32, Swim +22;Cleave, Flyby Attack, Hover, Improved Maneuverability,Iron Will, Legendary Reflexes, Power Attack, RecoverBreath, Suppress Weakness, Wingover. Breath W eapon (Su): 60-ft. cone, 16d10 fire, Reflex DC 31 half; or 60-ft. cone, 8 Str, Fortitude DC 31 negates. Crush (Ex): Area 20 ft. by 20 ft.; Medium or smaller oppo- nents take 4d6+21 points of bludgeoning damage, and mustsucceed on a DC 31 Reflex save or be pinned. Frightful Presence (Ex): 240-ft. radius, HD 28 or fewer, Will DC 30 negates. Spell-Like Abilities: 3/day— bless ; 1/day— geas/quest . Caster level 11th; save DC 17 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Appraise +18, Bluff +16, Concentration +28, Craft (alchemy) +18, Diplomacy +41, Disguise +40,Escape Artist +15, Heal +33, Hide –12, Intimidate +30, Jump+38, Knowledge (arcana) +28, Knowledge (geography) +28,Knowledge (local) +28, Knowledge (nobility and royalty)+28, Knowledge (the planes) +28, Knowledge (religion) +28,Listen +38, Search +38, Sense Motive +38, Spellcraft +24,Spot +38; Survival +18, Swim +59; Enlarge Breath, FlybyAttack, Heighten Breath, Hover, Improved Maneuverabil-ity, Iron Will, Power Attack, Recover Breath, Spell Focus(Enchantment), Suppress Weakness, Wingover. Breath W eapon (Su): 60-ft. cone (90-ft. cone if enlarged), 18d10 fire, Reflex DC 34 half (or higher if heightened); or60-ft. cone (90-ft. cone if enlarged), 9 Str, Fortitude DC 34negates (or higher if heightened).Crush (Ex): Area 20 ft. by 20 ft.; Medium or smaller oppo- nents take 4d6+22 points of bludgeoning damage, and mustsucceed on a DC 34 Reflex save or be pinned. Frightful Presence (Ex): 270-ft. radius, HD 31 or fewer, Will DC 34 negates. Spell-Like Abilities: 3/day— bless ; 1/day— geas/quest . Caster level 13th; save DC 18 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Appraise +19, Bluff +21, Concentration +29, Craft (jeweler) +19, Diplomacy +47, Disguise +44,Escape Artist +10, Hide –12, Intimidate +40, Jump +45,Knowledge (arcana) +34, Knowledge (geography) +34,Knowledge (history) +34, Knowledge (local) +34, Knowl-edge (nobility and royalty) +34, Knowledge (the planes) 245CHAPTER 5: SAMPLE DRAGONS246+29, Knowledge (religion) +34, Listen +44, Search +44, Sense Motive +44, Spellcraft +28, Spot +44, Survival +28;Cleave, Enlarge Breath, Flyby Attack, Heighten Breath,Hover, Improved Maneuverability, Iron Will, PowerAttack, Recover Breath, Shock Wave, Suppress Weakness,Wingover. Breath W eapon (Su): 60-ft. cone (90-ft. cone if enlarged), 20d10 fire, Reflex DC 36 half (or higher if heightened); or60-ft. cone (90-ft. cone if enlarged), 10 Str, Fortitude DC 36negates (or higher if heightened). Crush (Ex): Area 20 ft. by 20 ft.; Medium or smaller oppo- nents take 4d6+24 points of bludgeoning damage, and mustsucceed on a DC 34 Reflex save or be pinned. Frightful Presence (Ex): 300-ft. radius, HD 34 or fewer, Will DC 36 negates. Spell-Like Abilities: 3/day— bless ; 1/day— geas/quest, sunburst . Caster level 15th; save DC 19 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +25, Concentration +32, Craft (cobbler) +24, Diplomacy +56, Disguise +48, Escape Artist+10, Hide –16, Intimidate +46, Jump +48, Knowledge(arcana) +40, Knowledge (geography) +40, Knowledge(history) +40, Knowledge (local) +40, Knowledge (nobilityand royalty) +40, Knowledge (the planes) +40, Knowledge (religion) +40, Listen +48, Profession (tanner) +20, Search+48, Sense Motive +48, Spellcraft +31, Spot +48, Survival+30; Cleave, Flyby Attack, Great Cleave, Heighten Breath,Hover, Improved Maneuverability, Iron Will, LightningReflexes, Multiattack, Power Attack, Recover Breath, Sup-press Weakness, Wingover. Breath W eapon (Su): 70-ft. cone, 22d10 fire, Reflex DC 39 half (or higher if heightened); or 70-ft. cone, 11 Str, For-titude DC 39 negates (or higher if heightened). Crush (Ex): Area 30 ft. by 30 ft.; Large or smaller oppo- nents take 4d8+25 points of bludgeoning damage, and mustsucceed on a DC 39 Reflex save or be pinned. Frightful Presence (Ex): 330-ft. radius, HD 37 or fewer, Will DC 39 negates. Spell-Like Abilities: 3/day— bless ; 1/day— geas/quest, sunburst . Caster level 17th; save DC 20 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +28, Concentration +36, Craft (bookbinding) +21, Craft (calligraphy) +22, Diplomacy+59, Disguise +52, Escape Artist +15, Gather Information+23, Hide –16, Intimidate +55, Jump +50, Knowledge(arcana) +51, Knowledge (geography) +51, Knowledge(history) +51, Knowledge (local) +51, Knowledge (nobilityand royalty) +51, Knowledge (religion) +51, Listen +52,Profession (scribe) +21, Search +52, Sense Motive +52,Spellcraft +33, Spot +52, Swim +47; Cleave, DraconicKnowledge, Flyby Attack, Great Cleave, Heighten Breath,Hover, Improved Maneuverability, Iron Will, Large and inCharge, Power Attack, Recover Breath, Snatch, SuppressWeakness, Wingover. Breath W eapon (Su): 70-ft. cone, 24d10 fire, Reflex DC 41 half (or higher if heightened); or 70-ft. cone, 12 Str, For-titude DC 41 negates (or higher if heightened). Crush (Ex): Area 30 ft. by 30 ft.; Large or smaller oppo- nents take 4d8+27 points of bludgeoning damage, and mustsucceed on a DC 41 Reflex save or be pinned. Frightful Presence (Ex): 360-ft. radius, HD 40 or fewer, Will DC 41 negates. Snatch (Ex): Against Large or smaller creatures, bite for 4d8+18/round or claw for 4d6+9/round. Tail Sweep (Ex): Half-circle 40 ft. in diameter, Large or smaller opponents take 2d8+27 points of bludgeoningdamage, Reflex DC 41 half.Spell-Like Abilities: 3/day— bless; 1/day— foresight, geas/quest, sunburst . Caster level 19th; save DC 21 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +7, Climb +12, Concentration +17, Diplomacy +12, Hide +12, Intimidate +16, Knowledge(arcana) +7, Knowledge (nature) +7, Listen +17, Search +14,Sense Motive +15, Spellcraft +9, Spot +19; Awaken Fright-ful Presence, Combat Expertise, Flyby Attack, PowerAttack, Wingover. Breath W eapon (Su): 40-ft. cone, 8d6 acid, Reflex DC 20 half. 249CHAPTER 5: SAMPLE DRAGONS250Frightful Presence (Ex): 35-ft. radius, HD 13 or fewer, Will DC 19 negates.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +20, Concentration +15, Diplomacy +13, Hide +0, Intimidate +25, Knowledge (arcana) +18,Knowledge (nature) +18, Listen +23, Move Silently +20,Search +23, Sense Motive +11, Spellcraft +15, Spot +23,Swim +24; Clinging Breath, Flyby Attack, Hover, PowerAttack, Snatch, Wingover, Wingstorm. Breath W eapon (Su): 50-ft. cone, 12d6 acid, Reflex DC 25 half. Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+12 points of bludgeoning damage, and mustsucceed on a DC 23 Reflex save or be pinned. Frightful Presence (Ex): 180-ft. radius, HD 19 or fewer, Will DC 21 negates. Snatch (Ex): Against Small or smaller creatures, bite for 2d8+8/round or claw for 2d6+4/round. Spell-Like Abilities: 3/day— suggestion . Caster level 6th; save DC 16.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +21, Concentration +18, Diplomacy +17, Hide +0, Intimidate +26, Knowledge (local) +14, Knowl-edge (nature) +14, Listen +26, Move Silently +23, Search +26,Sense Motive +26, Spellcraft +14, Spot +26, Swim +23;Enlarge Breath, Flyby Attack, Hover, Multiattack, PowerAttack, Quicken Breath, Snatch, Wingover. Breath W eapon (Su): 50-ft. cone (75-ft. cone if enlarged), 14d6 acid, Reflex DC 26 half. Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+13 points of bludgeoning damage, and mustsucceed on a DC 26 Reflex save or be pinned. Frightful Presence (Ex): 210-ft. radius, HD 22 or fewer, Will DC 24 negates. Snatch (Ex): Against Small or smaller creatures, bite for 2d8+9/round or claw for 2d6+4/round. Spell-Like Abilities: 3/day— suggestion. Caster level 7th; save DC 13 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +27, Concentration +23, Diplomacy +26, Hide –8, Intimidate +32, Knowledge (arcana) +20,Knowledge (local) +20, Knowledge (nature) +20, Listen +30,Move Silently +26, Search +30, Sense Motive +30, Spellcraft+18, Spot +30, Swim +24; Cleave, Flyby Attack, Great Cleave,Hover, Multiattack, Power Attack, Quicken Breath,Improved Sunder, Wingover. Breath W eapon (Su): 50-ft. cone, 16d6 acid, Reflex DC 29 half. Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+13 points of bludgeoning damage, and mustsucceed on a DC 29 Reflex save or be pinned. Frightful Presence (Ex): 240-ft. radius, HD 25 or fewer, Will DC 27 negates. Spell-Like Abilities: 3/day— suggestion ; 1/day— plant growth. Caster level 9th; save DC 14 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +29, Concentration +25, Diplomacy +30, Hide –8, Intimidate +37, Knowledge (arcana) +22,Knowledge (history) +22, Knowledge (religion) +22, Listen+33, Move Silently +29, Search +33, Sense Motive +33, Spell-craft +19, Spot +22; Awaken Spell Resistance, Cleave,Enlarge Breath, Flyby Attack, Great Cleave, Hover, Multi-attack, Power Attack, Tempest Breath, Wingover. Breath W eapon (Su): 50-ft. cone (75-ft. cone if enlarged), 18d6 acid, Reflex DC 30 half. Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+16 points of bludgeoning damage, and mustsucceed on a DC 30 Reflex save or be pinned. Frightful Presence (Ex): 270-ft. radius, HD 28 or fewer, Will DC 28 negates. Spell-Like Abilities: 3/day— suggestion ; 1/day— plant growth. Caster level 11th; save DC 14 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +33, Concentration +27, Diplomacy +34, Hide –12, Intimidate +41, Knowledge (arcana) +20,Knowledge (history) +19, Knowledge (local) +19, Knowl-edge (nature) +19, Knowledge (the planes) +19, Listen +37,Move Silently +32, Search +37, Sense Motive +37, Spellcraft+22, Spot +37, Swim +28, Survival +14; Cleave, EnlargeBreath, Fast Healing, Flyby Attack, Hover, ImprovedManeuverability, Lightning Reflexes, Power Attack, RecoverBreath, Snatch, Wingover. Breath W eapon (Su): 60-ft. cone (90-ft. cone if enlarged), 20d6 acid, Reflex DC 33 half. Crush (Ex): Area 20 ft. by 20 ft.; Medium or smaller oppo- nents take 4d6+18 points of bludgeoning damage, and mustsucceed on a DC 33 Reflex save or be pinned. Frightful Presence (Ex): 300-ft. radius, HD 31 or fewer, Will DC 31 negates. Snatch (Ex): Against Medium or smaller creatures, bite for 4d6+12/round or claw for 2d8+6/round. Spell-Like Abilities: 3/day— dominate person, sugges- tion; 1/day— plant growth. Caster level 13th; save DC 15 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +40, Concentration +28, Diplomacy +47, Disguise +15, Hide +24, Intimidate +44, Knowledge(arcana) +20, Knowledge (local) +20, Knowledge (nature)+20, Listen +40, Move Silently +35, Search +40, SenseMotive +40, Spellcraft +23, Spot +40, Swim +29; Cleave,Clinging Breath, Flyby Attack, Hover, Multiattack, PowerAttack, Quicken Breath, Rapidstrike, Recover Breath,Snatch, Wingover. Breath W eapon (Su): 60-ft. cone, 22d6 acid, Reflex DC 35 half. Crush (Ex): Area 20 ft. by 20 ft.; Medium or smaller oppo- nents take 4d6+19 points of bludgeoning damage, and mustsucceed on a DC 35 Reflex save or be pinned. Frightful Presence (Ex): 330-ft. radius, HD 34 or fewer, Will DC 32 negates. Snatch (Ex): Against Medium or smaller creatures, bite for 4d6+13/round or claw for 2d8+6/round. Spell-Like Abilities: 3/day— dominate person, sugges- tion; 1/day— plant growth. Caster level 15th; save DC 15 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +44, Concentration +30, Diplomacy +52, Hide –12, Intimidate +48, Knowledge (arcana) +31,Knowledge (geography) +31, Knowledge (local) +31,Knowledge (nature) +31, Listen +44, Move Silently +38,Search +44, Sense Motive +44, Spellcraft +26, Spot +44,Swim +30, Survival +23; Cleave, Clinging Breath, FlybyAttack, Great Cleave, Hover, Lingering Breath, Multiattack,Power Attack, Quicken Breath, Recover Breath, Rend,Snatch, Wingover. Breath W eapon (Su): 60-ft. cone, 24d6 acid, Reflex DC 37 half. Crush (Ex): Area 20 ft. by 20 ft.; Medium or smaller oppo- nents take 4d6+21 points of bludgeoning damage, and mustsucceed on a DC 37 Reflex save or be pinned. Frightful Presence (Ex): 360-ft. radius, HD 37 or fewer, Will DC 37 negates. Rend (Ex): Extra damage 4d8+21. Snatch (Ex): Against Medium or smaller creatures, bite for 4d6+14/round or claw for 2d8+7/round. Spell-Like Abilities: 3/day— dominate person, suggestion; 1/day— command plants, plant growth. Caster level 17th; save DC 16 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +7, Concentration +16, Diplomacy +10, Hide –4, Intimidate +16, Jump +24, Knowledge (arcana)+14, Listen +14, Search +14, Spellcraft +7, Spot +14; AwakenSpell Resistance, Flyby Attack, Hover, Improved Maneu-verability, Wingover. Breath W eapon (Su): 40-ft. cone, 6d10 fire, Reflex DC 19 half.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Appraise +21, Bluff +7, Concentration +21, Diplomacy +6, Hide –8, Intimidate +23, Jump +33, Knowl-edge (arcana) +15, Knowledge (history) +15, Listen +21,Search +21, Sense Motive +7, Spellcraft +12, Spot +12;Cleave, Flyby Attack, Hover, Improved Snatch, PowerAttack, Snatch, Wingover. Breath W eapon (Su): 50-ft. cone, 10d10 fire, Reflex DC 24 half.Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+15 points of bludgeoning damage, and mustsucceed on a DC 24 Reflex save or be pinned. Frightful Presence (Ex): 150-ft. radius, HD 18 or fewer, Will DC 21 negates. Improved Snatch (Ex): Against Medium or smaller crea- tures, bite for 2d8+10/round or claw for 2d6+5/round. Spell-Like Abilities: 5/day— locate object. Caster level 5th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Appraise +25, Bluff +19, Concentration +24, Diplomacy +20, Gather Information +14, Hide –8,Jump +37, Knowledge (arcana) +18, Knowledge (local)+18, Listen +26, Search +25, Sense Motive +10, Spellcraft+15, Spot +28; Cleave, Flyby Attack, Hover, Power Attack,Recover Breath, Snatch, Tempest Breath, Wingover. Breath W eapon (Su): 50-ft. cone, 12d10 fire, Reflex DC 25 half. Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+15 points of bludgeoning damage, and mustsucceed on a DC 25 Reflex save or be pinned. Frightful Presence (Ex): 180-ft. radius, HD 21 or fewer, Will DC 24 negates. Snatch (Ex): Against Small or smaller creatures, bite for 2d8+11/round or claw for 2d6+5/round. Spell-Like Abilities: 6/day— locate object. Caster level 7th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Appraise +29, Bluff +9, Concentration +24, Diplomacy +22, Hide –8, Intimidate +30, Jump +40, Knowl-edge (arcana) +21, Knowledge (geography) +15, Knowledge(history) +15, Knowledge (nature) +12, Knowledge (theplanes) +12, Knowledge (religion) +15, Listen +29, Search+29, Sense Motive +14, Spellcraft +17, Spot +24; Cleave,Flyby Attack, Hover, Improved Snatch, Multisnatch, PowerAttack, Quicken Breath, Snatch, Wingover. Breath W eapon (Su): 50-ft. cone, 14d10 fire, Reflex DC 28 half. Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+16 points of bludgeoning damage, and mustsucceed on a DC 28 Reflex save or be pinned. Frightful Presence (Ex): 210-ft. radius, HD 24 or fewer, Will DC 26 negates. Improved Snatch (Ex): Against Medium or smaller crea- tures, bite for 2d8+11/round or claw for 2d6+5/round. Spell-Like Abilities: 7/day— locate object. Caster level 9th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Appraise +44, Bluff +44, Concentration +30, Diplomacy +50, Hide –12, Intimidate +48, Jump +56,Knowledge (arcana) +35, Knowledge (geography) +33,Knowledge (history) +33, Knowledge (the planes) +35,Knowledge (religion) +35, Listen +47, Search +44, SenseMotive +30, Spellcraft +26, Spot +47; Cleave, Dire Charge,Great Cleave, Flyby Attack, Hover, Improved Initiative,Improved Multiattack, Multiattack, Power Attack, Power Climb, Rend, Snatch, Wingover. Breath W eapon (Su): 60-ft. cone, 22d10 fire, Reflex DC 38 half. Crush (Ex): Area 20 ft. by 20 ft.; Medium or smaller oppo- nents take 4d6+22 points of bludgeoning damage, and mustsucceed on a DC 35 Reflex save or be pinned. Frightful Presence (Ex): 330-ft. radius, HD 36 or fewer, Will DC 35 negates. Rend (Ex): Extra damage 4d8+22. Snatch (Ex): Against Medium or smaller creatures, bite for 4d6+15/round or claw for 2d8+7/round. Spell-Like Abilities: 11/day— locate object; 3/day— sug- gestion; 1/day— find the path. Caster level 17th; save DC 17 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Appraise +51, Bluff +51, Concentration +31, Diplomacy +55, Hide –16, Intimidate +53, Jump +61,Knowledge (arcana) +38, Knowledge (geography) +38,Knowledge (history) +38, Knowledge (the planes) +38,Knowledge (religion) +38, Listen +51, Move Silently +9,Search +45, Sense Motive +28, Spellcraft +29, Spot +51, Sur-vival +37; Cleave, Draconic Knowledge, Flyby Attack, GreatCleave, Hover, Improved Initiative, Improved Snatch, IronWill, Multiattack, Power Attack, Quicken Breath, Snatch,Suppress Weakness, Wingover. Breath W eapon (Su): 70-ft. cone, 24d10 fire, Reflex DC 40 half. Crush (Ex): Area 30 ft. by 30 ft.; Large or smaller oppo- nents take 4d8+25 points of bludgeoning damage, and mustsucceed on a DC 40 Reflex save or be pinned. Frightful Presence (Ex): 360-ft. radius, HD 39 or fewer, Will DC 38 negates. Improved Snatch (Ex): Against Huge or smaller crea- tures, bite for 4d8+17/round or claw for 4d6+8/round. Spell-Like Abilities: 12/day— locate object; 3/day— sug- gestion; 1/day— discern location, find the path. Caster level 19th; save DC 18 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +16, Concentration +15, Diplomacy +5, Disguise +16 (+18 acting), Heal +10, Intimidate +5, Jump+20, Knowledge (arcana) +16, Listen +16, Profession (herbal-ist) +19, Search +19, Spellcraft +13, Spot +19; Cleave, FlybyAttack, Hover, Power Attack, Wingover. Breath W eapon (Su): 30-ft. cone, 6d8 cold, Reflex DC 18 half; or 30-ft. cone, paralysis 1d6+3 rounds, FortitudeDC 18 negates.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +12, Concentration +15, Diplomacy +16, Disguise +20, Heal +21, Hide –4, Intimidate +6, Jump+24, Knowledge (arcana) +12, Knowledge (history) +12,Knowledge (nature) +12, Listen +20, Move Silently +3, Pro-fession (herbalist) +9, Search +20, Sense Motive +20, Spell-craft +13, Spot +18; Awaken Spell Resistance, CombatExpertise, Flyby Attack, Improved Maneuverability, PowerAttack, Wingover. Breath W eapon (Su): 40-ft. cone, 8d8 cold, Reflex DC 21 half; or 40-ft. cone, paralysis 1d6+4 rounds, Fortitude DC 21negates. Spell-Like Abilities: 2/day— feather fall . Caster level 4th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Balance +7, Bluff +14, Concentration +18, Diplomacy +18, Disguise +23, Heal +9, Hide –4, Intimidate+6, Jump +31, Knowledge (arcana) +14, Knowledge (nature)+14, Listen +24, Perform (act) +9, Search +24, Sense Motive+24, Spellcraft +16, Spot +24, Tumble +5; Endure Blows,Flyby Attack, Heighten Breath, Hover, Power Attack, Tough-ness, Wingover. Breath W eapon (Su): 40-ft. cone, 10d8 cold, Reflex DC 23 half (or higher if heightened); or 40-ft. cone, paralysis1d6+5 rounds, Fortitude DC 23 negates (or higher if height-ened). Frightful Presence (Ex): 150-ft. radius, HD 18 or fewer, Will DC 23 negates. Spell-Like Abilities: 2/day— feather fall. Caster level 5th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +15, Concentration +21, Diplomacy +19, Disguise +27, Escape Artist +18, Heal +16, Hide –8, Intim-idate +7, Jump +34, Knowledge (arcana) +19, Knowledge(local) +19, Knowledge (nature) +19, Knowledge (religion) +19, Listen +27, Search +27, Sense Motive +27, Spellcraft+18, Spot +16; Flyby Attack, Heighten Breath, Hover,Improved Maneuverability, Power Attack, Recover Breath,Snatch, Wingover. Breath W eapon (Su): 50-ft. cone, 12d8 cold, Reflex DC 26 half (or higher if heightened); or 50-ft. cone, paralysis1d6+6 rounds, Fortitude DC 26 negates (or higher ifheightened). Frightful Presence (Ex): 180-ft. radius, HD 21 or fewer, Will DC 26 negates. Snatch (Ex): Against Small or smaller creatures, bite for 2d8+8/round or claw for 2d6+4/round. Spell-Like Abilities: 3/day— fog cloud; 2/day— feather fall. Caster level 7th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +15, Concentration +22, Diplomacy +23, Disguise +30, Heal +13, Hide –8, Intimidate +7, Jump+38, Knowledge (arcana) +25, Knowledge (local) +25,Knowledge (religion) +25, Listen +30, Move Silently +8,Search +30, Sense Motive +30, Spellcraft +18, Spot +30,Survival +16; Cleave, Flyby Attack, Great Cleave, HeightenBreath, Heighten Spell, Hover, Power Attack, RecoverBreath, Wingover. 265CHAPTER 5: SAMPLE DRAGONSOblique View Plan Viewaerial entry(high mountainous area with vast open skies) aerial entry clinic clinic vault roomsleeping chamber entertaining areastoragestorageshrine room study and librarysecret escape tunnelOblique View Plan Viewaerial entry(high mountainous area with vast open skies) aerial entry clinic clinic vault roomsleeping chamber entertaining areastoragestorageshrine room study and librarysecret escape tunnelBreath W eapon (Su): 50-ft. cone, 14d8 cold, Reflex DC 27 half (or higher if heightened); or 50-ft. cone, paralysis1d6+7 rounds, Fortitude DC 26 negates (or higher ifheightened). Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+13 points of bludgeoning damage, and mustsucceed on a DC 27 Reflex save or be pinned. Frightful Presence (Ex): 210-ft. radius, HD 24 or fewer, Will DC 27 negates. Spell-Like Abilities: 3/day— fog cloud; 2/day— feather fall. Caster level 9th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +16, Concentration +23, Diplomacy +35, Disguise +34, Heal +21, Hide –8, Intimidate +8, Jump+42, Knowledge (arcana) +28, Knowledge (geography) +28,Knowledge (local) +28, Knowledge (religion) +28, Listen+34, Profession (herbalist) +11, Search +34, Sense Motive+34, Spellcraft +22, Spot +34, Survival +37; Cleave, FlybyAttack, Great Cleave, Heighten Breath, Heighten Spell,Hover, Improved Initiative, Power Attack, Recover Breath,Wingover. Breath W eapon (Su): 50-ft. cone, 16d8 cold, Reflex DC 30 half (or higher if heightened); or 50-ft. cone, paralysis1d6+8 rounds, Fortitude DC 30 negates (or higher if heightened). Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+15 points of bludgeoning damage, and mustsucceed on a DC 30 Reflex save or be pinned. Frightful Presence (Ex): 240-ft. radius, HD 27 or fewer, Will DC 30 negates. Spell-Like Abilities: 3/day— control winds, fog cloud; 2/day— feather fall. Caster level 11th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Balance +12, Bluff +22, Concentration +26, Diplomacy +38, Disguise +38, Escape Artist +24, Heal+19, Hide –8, Intimidate +9, Jump +46, Knowledge(arcana) +31, Knowledge (local) +31, Knowledge (nature)+31, Knowledge (religion) +30, Listen +38, Search +38,Sense Motive +38, Spellcraft +26, Spot +41, Survival +38;Cleave, Dire Charge, Flyby Attack, Great Cleave, HeightenBreath, Hover, Lightning Reflexes, Power Attack, Rend,Snatch, Wingover. 267CHAPTER 5: SAMPLE DRAGONS268Breath W eapon (Su): 50-ft. cone, 18d8 cold, Reflex DC 31 half (or higher if heightened); or 50-ft. cone, paralysis 1d6+9rounds, Fortitude DC 31 negates (or higher if heightened). Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+16 points of bludgeoning damage, and mustsucceed on a DC 31 Reflex save or be pinned. Frightful Presence (Ex): 270-ft. radius, HD 30 or fewer, Will DC 32 negates. Rend (Ex): Extra damage 4d6+16. Snatch (Ex): Against Small or smaller creatures, bite for 2d8+11/round or claw for 2d6+5/round. Spell-Like Abilities: 3/day— control winds, fog cloud; 2/day— feather fall. Caster level 13th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +33, Climb +21, Concentration +27, Diplomacy +46, Disguise +42, Escape Artist +30, HandleAnimal +17, Heal +23, Hide –12, Intimidate +40, Jump +50,Knowledge (arcana) +30, Knowledge (local) +30, Knowl- edge (nature) +30, Knowledge (the planes) +30, Knowledge(religion) +30, Listen +42, Ride +2, Search +42, Sense Motive+42, Spellcraft +26, Spot +27; Cleave, Flyby Attack, HeightenBreath, Hover, Improved Maneuverability, Power Attack,Quicken Breath, Recover Breath, Rend, Shock Wave,Snatch, Wingover. Breath W eapon (Su): 60-ft. cone, 20d8 cold, Reflex DC 34 half (or higher if heightened); or 60-ft. cone, paralysis1d6+10 rounds, Fortitude DC 34 negates (or higher ifheightened). Crush (Ex): Area 20 ft. by 20 ft.; Medium or smaller oppo- nents take 4d6+18 points of bludgeoning damage, and mustsucceed on a DC 34 Reflex save or be pinned. Frightful Presence (Ex): 300-ft. radius, HD 33 or fewer, Will DC 35 negates. Rend (Ex): Extra damage 4d8+18. Snatch (Ex): Against Medium or smaller creatures, bite for 4d6+12/round or claw for 2d8+6/round. Spell-Like Abilities: 3/day— control winds, fog cloud; 2/day— feather fall; 1/day— control weather. Caster level 15th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Balance +7, Bluff +39, Climb +21, Concen- tration +31, Craft (weaving) +16, Diplomacy +53, Disguise+46, Escape Artist +35, Heal +26, Hide –12, Intimidate+48, J ump +55, Knowledge (arcana) +34, Knowledge (local) +34, Knowledge (nature) +34, Knowledge (the planes) +34,Knowledge (religion) +34, Listen +46, Search +46, SenseMotive +46, Spellcraft +28, Spot +44; Cleave, Flyby Attack,Great Cleave, Heighten Breath, Hover, Improved Maneu-verability, Improved Snatch, Power Attack, Quicken Breath,Recover Breath, Rend, Snatch, Wingover. Breath W eapon (Su): 60-ft. cone, 22d8 cold, Reflex DC 36 half (or higher if heightened); or 60-ft. cone, paralysis1d6+11 rounds, Fortitude DC 36 negates (or higher ifheightened). Crush (Ex): Area 20 ft. by 20 ft.; Medium or smaller oppo- nents take 4d6+21 points of bludgeoning damage, and mustsucceed on a DC 36 Reflex save or be pinned. Frightful Presence (Ex): 330-ft. radius, HD 36 or fewer, Will DC 37 negates. Improved Snatch (Ex): Against Large or smaller crea- tures, bite for 4d6+14/round or claw for 2d8+7/round. Rend (Ex): Extra damage 4d8+21. Spell-Like Abilities: 3/day— control winds, fog cloud; 2/day— feather fall; 1/day— control weather. Caster level 17th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +45, Concentration +35, Diplomacy +57, Disguise +50, Escape Artist +18, Handle Animal +20,Heal +32, Hide –16, Intimidate +54, Jump +60, Knowledge(arcana) +40, Knowledge (local) +40, Knowledge (nature)+50, Knowledge (religion) +40, Listen +53, Profession(herbalist) +30, Ride +2, Search +50, Sense Motive +53,Spellcraft +31, Spot +53, Survival +45; Cleave, Dire Charge,Flyby Attack, Great Cleave, Heighten Breath, HeightenSpell, Hover, Improved Maneuverability, Power Attack,Power Climb, Recover Breath, Rend, Snatch, Wingover. Breath W eapon (Su): 70-ft. cone, 24d8 cold, Reflex DC 39 half (or higher if heightened); or 70-ft. cone, paralysis1d6+12 rounds, Fortitude DC 39 negates (or higher ifheightened). Crush (Ex): Area 30 ft. by 30 ft.; Large or smaller oppo- nents take 4d8+24 points of bludgeoning damage, and mustsucceed on a DC 39 Reflex save or be pinned. Frightful Presence (Ex): 360-ft. radius, HD 39 or fewer, Will DC 40 negates. Rend (Ex): Extra damage 8d6+24. Snatch (Ex): Against Large or smaller creatures, bite for 4d8+16/round or claw for 4d6+8/round. Spell-Like Abilities: 3/day— control winds, fog cloud; 2/day— feather fall; 1/day— control weather, reverse gravity. Caster level 19th.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration +8, Intimidate +14, Listen +15, Search +14, Sense Motive +12, Spot +12, Swim +11;Enlarge Breath, Flyby Attack, Hover, Power Attack,Wingover. Breath W eapon (Su): 30-ft. cone (45-ft. cone if enlarged), 4d6 cold, Reflex DC 18 half. Spell-Like Abilities: 1/day— fog cloud . Caster level 4th. Nidhogrym Young Adult White Dragon Nidhogrym’s overconfidence has led him to a sorry state inlife for any dragon. Captured by a small band of frost giants,he’s spent several years in captivity, serving a variety of dif-ferent masters. The giants keep him on a leash of greed: theyallow Nidhogrym to keep a portion of all the treasure hehelps steal from their enemies, but he must keep it in theirlair. He is utterly miserable. Still, he makes up for that indig-nity with ferocity . Diving out of the air and attacking thefrost giants’ foes gives him a fierce joy, and Nidhogrym,backed by such powerful “allies,” has defeated opponents ofgreater power than he could normally hope to survive.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +22, Concentration +22, Diplomacy +20, Hide –4, Intimidate +3, Listen +18, Search +18, SenseMotive +9, Spellcraft +4, Spot +18, Swim +14; Cleave, FlybyAttack, Hover, Improved Initiative, Lightning Reflexes,Power Attack, Wingover. Breath W eapon (Su): 40-ft. cone, 6d6 cold, Reflex DC 23 half. Frightful Presence (Ex): 180-ft. radius, HD 17 or fewer, Will DC 20 negates. Spell-Like Abilities: 3/day —gust of wind; 1/day —fog cloud. Caster level 6th; save DC 11+ spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As 1st-level sorcerer. Sorcerer Spells Known (5/4; save DC 11 + spell level): 0—dancing lights, daze, ghost sound, resistance, prestidigitation; 1st— reduce elemental vulnerability, true strike. Bestlaranathion Mature Adult White Dragon Though intelligent, Bestlaranathion proves as capricious asa winter wind and as savage as any wild animal. He hasrecently learned to speak Common, and has come to thinkof himself as something of a diplomat. Unfortunately, hisefforts at diplomacy usually sink to the level of stark threats,and even when he is able to browbeat an unfortunate crea-ture into some kind of agreement, Bestlaranathion seldomcontains his baser instincts for very long and he usuallywinds up attacking his reluctant allies. Bestlaranathion frequently roams far afield, and might appear almost anywhere. About half the time, Bestlaranathionsimply tries to ambush characters, hoping for a q uick kill. The 271CHAPTER 5: SAMPLE DRAGONSrest of the time, the dragon begins an encounter with some show of force that brings his frightful presence into play, buthe also makes at least a half-hearted attempt to negotiatewith the characters in some fashion. He might demand toknow their business, try to extort treasure, or simply con-verse. Eventually, however, Bestlaranathion’s violent naturegets the better of him and he attacks.",
+        "name":  "Spells",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration +19, Hide +13, Intimidate +15, Knowledge (nature) +15, Listen +22, Move Silently +21,Search +22, Spellcraft +11, Spot +22, Swim +16; FlybyAttack, Hover, Improved Snatch, Power Attack, ShapeBreath, Snatch, Spreading Breath, Wingover. Breath W eapon (Su): 50-ft. cone (100-ft. line if shaped, 25-ft. spread if spreading), 7d6 cold, Reflex DC 25 half. Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+15 points of bludgeoning damage, and mustsucceed on a DC 25 Reflex save or be pinned. Frightful Presence (Ex): 210-ft. radius, HD 20 or fewer, Will DC 21 negates. Improved Snatch (Ex): Against Medium or smaller crea- tures, bite for 2d8+8/round or claw for 2d6+4/round. Spell-Like Abilities: 3/day— gust of wind; 1/day fog cloud. Caster level 7th; save DC 11 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +7, Concentration +19, Diplomacy +3, Hide +16, Intimidate +15, Knowledge (nature) +17,Listen +25, Move Silently +24, Search +25, Spellcraft +7,Spot +25, Swim +33; Cleave, Flyby Attack, Hover, ImprovedInitiative, Power Attack, Quicken Breath, Recover Breath,Rend, Snatch, Wingover. Breath W eapon (Su): 50-ft. cone, 8d6 cold, Reflex DC 27 half. Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+13 points of bludgeoning damage, and mustsucceed on a DC 27 Reflex save or be pinned. Freezing Fog (Sp): 3/day; as solid fog cast by an 8th-level caster except that slippery ice forms in the cloud, creating agrease effect, DC 23 Reflex save to avoid falling. Frightful Presence (Ex): 240-ft. radius, HD 23 or fewer, Will DC 23 negates. Rend (Ex): Extra damage 4d6+13. Snatch (Ex): Against Small or smaller creatures, bite for 2d8+9/round or claw for 2d6+4/round. Spell-Like Abilities: 3/day— gust of wind; 1/day— fog cloud. Caster level 8th; save DC 11 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +8, Concentration +23, Diplomacy +4, Hide +19, Intimidate +20, Knowledge (arcana) +17,Knowledge (nature) +17, Listen +29, Move Silently +27,Search +29, Spellcraft +16, Spot +29, Swim +34, Survival +8;Cleave, Dire Charge, Great Cleave, Hover, ImprovedManeuverability, Legendary Reflexes, Power Attack,Recover Breath, Rend, Snatch. Breath W eapon (Su): 50-ft. cone, 9d6 cold, Reflex DC 29 half. Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+15 points of bludgeoning damage, and mustsucceed on a DC 29 Reflex save or be pinned. Freezing Fog (Sp): 3/day; as solid fog cast by a 9th-level caster except that slippery ice forms in the cloud, creating a grease effect, Reflex DC 25 to avoid falling. Frightful Presence (Ex): 270-ft. radius, HD 26 or fewer, Will DC 25 negates. Rend (Ex): Extra damage 4d6+15. Snatch (Ex): Against Small or smaller creatures, bite for 2d8+10/round or claw for 2d6+5/round. Spell-Like Abilities: 3/day— gust of wind; 1/day— fog cloud. Caster level 9th; save DC 12 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +11, Concentration +26, Diplomacy +13, Hide +10, Intimidate +24, Knowledge (arcana) +18,Knowledge (nature) +18, Listen +32, Move Silently +30,Search +32, Spellcraft +18, Spot +32, Swim +35; Cleave, DireCharge, Great Cleave, Hover, Improved Maneuverability,Improved Multiattack, Multiattack, Power Attack, RecoverBreath, Rend, Snatch. Breath W eapon (Su): 50-ft. cone, 10d6 cold, Reflex DC 31 half. Crush (Ex): Area 15 ft. by 15 ft.; Small or smaller oppo- nents take 2d8+16 points of bludgeoning damage, and mustsucceed on a DC 31 Reflex save or be pinned. Freezing Fog (Sp): 3/day; as solid fog cast by a 10th-level caster except that slippery ice forms in the cloud, creating agrease effect, DC 27 Reflex save to avoid falling. Frightful Presence (Ex): 300-ft. radius, HD 29 or fewer, Will DC 27 negates Rend (Ex): Extra damage 4d6+16. Snatch (Ex): Against Small or smaller creatures, bite for 2d8+11/round or claw for 2d6+5/round. Spell-Like Abilities: 3/day— gust of wind, wall of ice; 1/day— fog cloud. Caster level 11th; save DC 12 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +20, Concentration +27, Diplo- macy +17, Hide +9, Intimidate +41, Knowledge (arcana)+18, Knowledge (nature) +18, Listen +35, Move Silently+33, Search +35, Spot +35, Swim +46; Cleave, Dire Charge,Hover, Improved Maneuverability, Iron Will, Multiattack,Power Attack, Recover Breath, Rend, Snatch, SuppressWeakness, Wingover. Breath W eapon (Su): 60-ft. cone, 11d6 cold, Reflex DC 33 half. Crush (Ex): Area 20 ft. by 20 ft.; Medium or smaller oppo- nents take 4d6+18 points of bludgeoning damage, and mustsucceed on a DC 31 Reflex save or be pinned. Freezing Fog (Sp): 3/day; as solid fog cast by an 11th-level caster except that slippery ice forms in the cloud, creating agrease effect, Reflex DC 29 to avoid falling. Frightful Presence (Ex): 330-ft. radius, HD 32 or fewer, Will DC 29 negates. Rend (Ex): Extra damage 4d8+18. Snatch (Ex): Against Medium or smaller creatures, bite for 4d6+12/round or claw for 2d8+6/round. Spell-Like Abilities: 3/day— gust of wind, wall of ice ; 1/day— fog cloud. Caster level 11th; save DC 13 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +24, Concentration +30, Diplomacy +28, Hide +24, Intimidate +42, Knowledge (arcana) +25,Knowledge (nature) +25, Listen +40, Move Silently +36,Search +40, Sense Motive +14, Spellcraft +23, Spot +40,Swim +37, Survival +26; Cleave, Flyby Attack, Hover,Improved Maneuverability, Lightning Reflexes, MaximizeBreath, Multiattack, Power Attack, Recover Breath, Rend,Snatch, Suppress Weakness, Wingover. Breath W eapon (Su): 60-ft. cone, 12d6 cold, Reflex DC 36 half. Crush (Ex): Area 20 ft. by 20 ft.; Medium or smaller opponents take 4d6+19 points of bludgeoning damage, andmust succeed on a DC 36 Reflex save or be pinned. Freezing Fog (Sp): 3/day; as solid fog cast by a 13th-level caster except that slippery ice forms in the cloud, creating agrease effect, DC 29 Reflex save to avoid falling. Frightful Presence (Ex): 360-ft. radius, HD 35 or fewer, Will DC 32 negates. Rend (Ex): Extra damage 4d8+19. Snatch (Ex): Against Medium or smaller creatures, bite for 4d6+13/round or claw for 2d8+6/round. Spell-Like Abilities: 3/day— gust of wind, wall of ice; 1/day— control weather, fog cloud. Caster level 13th; save DC 14 + spell level.",
+        "name":  "Skills and Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As with potions, a dragon with a reasonably high Spellcraft skill modifier can probably decipher any scrollsin its hoard. If it’s capable of using the scroll, it’s more likelyto use it than to let it decay into dust. A dragon’s size maymake scroll use tricky, and the DM is free to say that read-ing a scroll might be at least a full-round action for Hugeand larger dragons, or even to say that such creatures can’tunfurl a scroll at all. Remember that until a dragon can castspells, no spells are considered to be on its class list.",
+        "name":  "Scrolls",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Like rods, staffs often find use by smart dragons who figure out their effects and can activate them. Remem-ber that until a dragon can cast spells, no spells are consid-ered to be on its class list.",
+        "name":  "Staffs",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sean Glenn, Cynthia Fliege Based on the original D UNGEONS \u0026 D RAGONS®game by E. Gary Gygax and Dave Arneson and on the new edition of the DUNGEONS \u0026 D RAGONS game designed by Jonathan Tweet, Monte Cook, Skip Williams, Rich Baker, and Peter Adkison. D\u0026D, D UNGEONS \u0026 D RAGONS , and D UNGEON MASTER are registered trademarks owned by Wizards of the Coast, Inc. The d20 logo is a trademark owned by Wizards of the Coast, Inc. All Wizards characters, character names, and the distinctive likenesses thereof are trademarks owned by Wizards of the Coast, Inc. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material or artwork contained herein is prohibited without the express written permission of Wizards of the Coast, Inc. ©2003 Wizards of the Coast, Inc. All rights reserved. Made in the U.S.A. This product is a work of fiction. Any similarity to actual people, organizations, places, or events is purely coincidental. This Wizards of the Coast game product contains no Open Game Content. No portion of this work may be reproduced in any form without written permission. To learn more about the Open Gaming License and the d20 System License, please visit www .wizards.com/d20 . For more D UNGEONS \u0026 D RAGONS articles, adventures, and information, visit www .wizards.com/dndDraconomicon is the ultimate D\u0026D®game accessory about the legendary creatures that give the game itsname. Packed into the pages of this book are newdragon prestige classes, spells, feats, dragonlike mon-sters, and full statistics for 120 sample dragons—all tenof the chromatic and metallic dragons at all 12 age cate-gories. A few pages of new material on half-dragonsround out the book’s offerings, but there just wasn’troom to include samples of those. This article presents ten sample half-dragons, one spawned from each of the ten true dragons presentedin the Monster Manual . Each description includes a brief personality profile and some background notes,plus a full statistics block for the creature and sampletreasure appropriate for the encounter. TIBULLIAX, HALF-COPPER DRAGON/ HALF-ANDROSPHINX Copper dragons and androsphinxes share the same ter- rain options and alignment. Thus, it comes as no sur-prise that an androsphinx tired of dealing with trouble-some gynosphinxes might turn to an adult copperdragon for companionship instead, resulting in off-spring such as Tibulliax. Tibulliax lives in warm, hilly terrain, enjoying a life of comfort. Perhaps ironically, he seeks a gynosphinx asa mate because he appreciates riddles more than hisfather ever did.",
+        "name":  "Graphic Design",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Diopsids have a pair of stubby wings DIOPSID RACIAL TRAITS that, while too weak to provide them with • Monstrous Humanoid: As monstrous humanoids, flight, allows them to gently guide to a diopsids are immune to spells that only affect soft landing regardless of how far they fall. humanoids, such as charm person and hold person. A diopsid does not take falling damage as • +2 Constitution, -2 Dexterity, -2 Intelligence: long as it is capable of taking actions. As an Diopsids are tough, but they are clumsy and slow immediate action, it can unfurl its wings and witted compared to other races. A diopsid\u0027s young float slowly downward at 60 feet per round. age at adulthood makes it inexperienced and Aparalyzed,unconscious,orotherwiseincapacitated ignorant compared to other folk. diopsid cannot use its wings in this manner.",
+        "name":  "Wings",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A \"single\" dvati is a pair of creatures that In essence, you build one character who occupies two shares a soul. A dvati twin can no more exist bodies, regardless of the class chosen. without his soul partner than a human can live When a dvati casts a spell, both members without a heart. The unique, spiritual link between of the pair must focus and concentrate on it. a dvati pair has several important implications. Both twins must simultaneously take the actions A dvati character is actually two separate dvati required to cast a spell, although only one must twins who share a soul. These two creatures move supply material components. One twin cannot cast and act separately but have a number of restrictions a spell while the other attacks, for example. A lone based on their connection. The dvati twins gain levels and progress in the same manner as a single creature of another race. The twins share a class and both have the same level. The twins do not progress at a different rate, nor do they split XP between them. Rather, each has an identical XP total. When dividing XP among characters, a dvati counts as one PC.",
+        "name":  "Twins",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Lupins usually present their young with two creature is entitled to a DC 10 Wisdom check as a given names combined with a hyphen when written: free action to pinpoint that creature. one name from the father (usually one of his parents\u0027 A lupin gains a +2 racial bonus on all Survival names) and one name from the mother (usually checks made to follow tracks. Lupins can\u0027t track by one of her parents\u0027 names). Thus, a male pup whose smell alone, but the olfactory clues they find aid grandfathers are Lab-Crott and Hector-Roff might their tracking techniques. get the names Hector-Lab or Roff-Crott. The parents Lupins take a -2 penalty on all saving throws usually choose which name comes first based purely against attacks based on odor (such as a stinking on how the two names sound together. Female names cloud spell or a ghast\u0027s stench). make more use of \"a\" sounds and often end with a Expert Rider: Lupins always consider Ride a class vowel or a trailing \"n\" sound. skill, and they gain a +2 bonus on all Ride checks.",
+        "name":  "Names",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A death master can use a variety of necromantic spells. He masters the ability to create undead sooner than any other caster, and his close relationship with Orcus grants him the ability to command undead. He gains several other boons that allow him to handle undead creatures with greater skill than any other class.",
+        "name":  "Characteristics",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Most death masters are humans and half-orcs. Humanity\u0027s ambition and often short- sighted outlook leads many to this path. Half-orcs raised death master spells list. He must choose and prepare among the orcs have the intelligence and cruel curiosity his spells ahead of time, as a wizard. needed to follow the death master\u0027s path. Among the To learn, prepare, or cast a spell, a death master must gnolls, a small sect of Yeenoghu embraces the death have an Intelligence score equal to at least 10 + the spell\u0027s master\u0027s abilities. level. The DC for a saving throw against the death master\u0027s",
+        "name":  "Races",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Death masters usually associate with spells equals 10 + the spell\u0027s level + the death master\u0027s blackguards, hexblades, mountebanks, rogues, and Intelligence modifier. The death master receives bonus warlocks. They consider paladins their ultimate enemies, spells for having a high Intelligence score. and a death master might travel well out of his way to slay Similar to a wizard, the death master keeps a series such a champion of good. of spellbooks in which he scribes the formulas for his",
+        "name":  "Other Classes",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "d8. extract 8 vials from a Medium creature. Double this for each size category above Medium and halve it, to a CLASS SKILLS minimum of 1, for each category below. This extracted The death master\u0027s class skills (and the key ability blood remains viable for one day, but a gentle repose spell for each skill) are Concentration (Con), Craft (Int), prolongs this time. Decipher Script (Int), Heal (Wis), Intimidate (Cha), Spellbooks: The deathmaster keeps a set of unholy Knowledge (arcana) (Int), Knowledge (religion) (Int), tomes that record the blasphemous, arcane methods Knowledge (the planes) (Int), Profession (Wis), and for his spells. His spellbooks function in all ways as a Spellcraft (Int). wizard\u0027s spellbooks, including size, capacity, and cost to Skill Points at 1st Level: (2 + Int modifier) x 4. add spells.",
+        "name":  "Hit Die",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The death master gains Abyssal as a this minion from the great undead legions of Orcus. bonus language. All of his spells, along with most death It obeys his commands without fail, and even takes master tomes and manuals, appear in that tongue. suicidal actions. The minion is as much a spy for Orcus",
+        "name":  "Bonus Language",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As the death master gains levels, his the total with his minion, but not vice versa. undead minion gains a number of special abilities. Relentless Undead: The death master\u0027s minion gains Turn Resistance +4: The undead minion gains this fast healing 3. ALTERNATIVE UNDEAD MINIONS 1ST-LEVEL DEATH MASTER SPELLS As explained on page 35, a death master of sufficiently Alarm: Wards an area for 2 hours/level. high level can select his undead minion from one of Bane: Enemies take -1 on attack rolls and saves the following lists, applying the indicated adjustment against fear. to the death master\u0027s level {in parentheses) for purposes Cause Fear: One creature of 5 HD or less flees for of determining the companion\u0027s characteristics and ld4 rounds. special abilities. Chill Touch: One touch/level deals ld6 damage and possibly 1 Str damage. 4th Level or Higher (Level -3) Command: One subject obeys selected command for Bugbear zombie 1 round.",
+        "name":  "Special Abilities",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Reveals how near death subjects Minotaur zombie within 30 ft. are. Ogre zombie Detect Chaos/Evil/Good/Law: Reveals creatures, Wyvern zombie spells, or objects of selected alignment. 10th Level or Higher (Level -9) Detect Undead: Reveals undead within 60 ft.",
+        "name":  "Chimera skeleton Deathwatch",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Makes minor repairs on an object. 2ND-LEVEL DEATH MASTER SPELLS",
+        "name":  "Mending",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Negates sound in 20-ft. radius. 4TH-LEVEL DEATH MASTER SPELLS",
+        "name":  "Silence",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Grants ability to walk on walls and Death Ward: Grants immunity to death spells and ceilings. negative energy effects.",
+        "name":  "Spider Climb",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Subjects within cone flee for 1 round/level. 3RD LEVEL DEATH MASTER SPELLS Giant Vermin: Turns centipedes, scorpions, or spiders",
+        "name":  "Fear",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "-6 to an ability score; -4 on attack Globe of Invulnerability, Lesser Stops 1st- through rolls, saves, and checks; or 50% chance of losing 3rd-level spell effects. each action. Ice Storm: Hail deals 5d6 damage in cylinder 40 ft. across.",
+        "name":  "Bestow Curse",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Blocks vision and slows movement. 7TH-LEVEL DEATH MASTER SPELLS",
+        "name":  "Solid Fog",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Swarms of centipedes attack at 5TH-LEVEL DEATH MASTER SPELLS your command.",
+        "name":  "Creeping Doom",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Touch attack kills subject. 8TH-LEVEL DEATH MASTER SPELLS",
+        "name":  "Slay Living",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Duplicate awakens when original dies. 6TH-LEVEL DEATH MASTER SPELLS Create Greater Undead: Create shadows, wraiths,",
+        "name":  "Clone",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Step into shadow to travel rapidly. against good spells. 9TH-LEVEL DEATH MASTER SPELLS Apsect of the Dead (Su): At 15th level, the death",
+        "name":  "Shadow Walk",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Jesters are iconoclasts who march to their particularly because the paladin\u0027s code forbids violence own tune. They are always chaotic, with most tending over such a small matter as a joke. toward neutrality. Most jesters are too mischievous, and Role: The jester functions best when he supports his their humor too biting, for good. Yet by the same turn only comrades on adventures. Unlike a bard, he has a fair a small fraction cross the line from comedy to sadism. number of offensive spells and abilities. He can shake even",
+        "name":  "Alignment",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Most jesters revere Olidammara, although the mightiest warrior\u0027s confidence with his performance a significant minority sees Fharlanghn, god of roads, as abilities and his spells. The jester\u0027s natural charisma their patron. Good jesters usually worship Olidammara, sometimes makes him a good spokesmen or diplomat, while evil ones who find comedy in death and torment but his tendency toward humorous quips—even when follow Erythnul. such jokes aren\u0027t in the party\u0027s best interest—can sabotage",
+        "name":  "Religion",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Charisma determines the jester\u0027s ability to Charisma bonus. The jester\u0027s audacity draws in part on use his comedic talents and spells, while Dexterity aids his shameless ability to project himself as nonchalant, many of his skills. goofy, and inept in even the deadliest struggle.",
+        "name":  "Abilities",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Your speed increases by 30 ft. 3RD-LEVEL JESTER SPELLS",
+        "name":  "Expeditious Retreat",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Nauseating vapors, 1 round/level. 2ND-LEVEL JESTER SPELLS Suggestion: Compels subject to follow stated course",
+        "name":  "Stinking Cloud",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Living creature of 6 HD or less loses 4TH-LEVEL JESTER SPELLS next action. Bestow Curse: -6 to an ability score; -4 on attack Eagle\u0027s Splendor Subject gains +4 to Cha for 1 min./level. rolls, saves, and checks; or 50% chance of losing",
+        "name":  "Daze Monster",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Turns fire into blinding light or 5TH-LEVEL JESTER SPELLS choking smoke. Break Enchantment: Frees subjects from",
+        "name":  "Pyrotechnics",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Humanity\u0027s innate ambition and curiosity produces many savants, and some of the most prestigious savant academies he within human lands. Elves see savants as keepers of their racial lore, but their flighty, light-hearted nature means that few elves take on the rigors of the class. Dwarves and gnomes, on the other hand, have a strong tradition of hard work, invention, and toil and produce a relatively large number of savants. Dwarven savant academies are located in remote mountain strongholds where the savants carve TABLE 2-8: SAVANT ARCANE SPELL their knowledge into metal plates mounted within PROGRESSION enormous caverns, preserving it forever. Halflings and half-orcs rarely become savants. The halflings\u0027 nomadic LEVEL 1ST 2ND 3RD 4TH lifestyle makes their culture ill-suited to produce and 5th 0 — — — support large, formal institutions of learning. Most 6th 0 — — — halfling savants study under an elderly, revered master 7th 1 — — — who passes his lore to the next generation. Half-orcs, 8th 1 — — — with their poor intellectual abilities, rarely have the 9th 1 0 — — patience or desire to become savants. 10th 1 1 0 — —",
+        "name":  "Races",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Invisible force obeys your commands. Detect Chaos/Evil/Good/Law: Reveals creatures, spells, or objects of selected alignment. 2ND-LEVEL ARCANE SAVANT SPELLS Endure Elements: Exist comfortably in hot or cold",
+        "name":  "Unseen Servant",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sends a short message 1 mile/level. Calm Emotions: Calms creatures, negating emotion effects. 3RD-LEVEL ARCANE SAVANT SPELLS Cure Moderate Wounds: Cures 2d8 damage +1/level",
+        "name":  "Whispering Wind",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Changes one page to hide its real content. 3RD LEVEL DIVINE SAVANT SPELLS",
+        "name":  "Secret Page",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Invisible floating eye moves 30 ft./round. protection spells, but 10-ft. radius and 10 min./level.",
+        "name":  "Arcane Eye",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Prepares extra spells or retains 4TH LEVEL DIVINE SAVANT SPELLS one just cast. Discern Lies: Reveals deliberate falsehoods.",
+        "name":  "Mnemonic Enhancer",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You gain attack bonus, +6 to Str, and 1ST-LEVEL DIVINE SAVANT SPELLS 1 hp/level.",
+        "name":  "Divine Power",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A sha\u0027ir\u0027s background is similar to trouble and give the sha\u0027ir and his gen time to find the a wizard\u0027s. Sha\u0027irs learn their talents from masters right spells for the job. and must work as apprentices for many long years before they attain spellcasting ability. GAME RULE INFORMATION",
+        "name":  "Background",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The common races for sha\u0027irs depends on the Sha\u0027irs have the following game statistics. campaign setting you use. The sha\u0027ir has a strong Arabian Abilities: Charisma determines how powerful a flavor. In GREYHAWK, the Baklunish folk provide a spell a sha\u0027ir can cast, how many spells he can cast logical match for this class. In other campaign settings, per day, and how hard those spells are to resist. Like a the closest analog to mythical Arabia provides the best wizard, a sha\u0027ir also benefits from high Dexterity and source for the sha\u0027ir. The sha\u0027ir\u0027s close connection to Constitution scores. the elemental planes also makes it a good match for Alignment: Any. outsiders, such as tieflings, genasi, and aasimars. Hit Die: d4. TABLE 2-12: SHA\u0027IR SPELLS KNOWN SPELLS KNOWN LEVEL 0 1ST 2ND 3RD 4TH 5TH 6TH 7TH 8TH 9TH 1st 5 3 - — - - — — - 2nd 6 3 3rd 6 4 - — - - _ _ 4th 7 4 2 5th 7 5 3 — — - — — 6th 8 5 3 2 - 7th 8 6 4 3 8th 9 6 4 3 2 9th 9 7 5 4 3 — - — 10th 9 7 5 4 3 2 — — — — 11th 9 8 6 5 4 3 - - — — 12th 9 8 6 5 4 3 2 - — - 13th 9 9 7 6 5 4 3 - - - 14th 9 9 7 6 5 4 3 2 — - 15th 9 9 8 7 6 5 4 3 — - 16th 9 9 8 7 6 5 4 3 2 — 17th 9 9 9 8 7 6 5 4 3 - 18th 9 9 9 8 7 6 5 4 3 2 19th 9 9 9 9 8 7 6 5 4 3 20th 9 9 9 9 8 7 6 5 4 3 CLASS SKILLS of the cleric class, including the granted powers of The sha\u0027ir\u0027s class skills (and the key ability for those domains. each skill) are: Bluff (Cha), Concentration (Con), To learn or cast a spell, a sha\u0027ir must have a Craft (Int), Decipher Script (Int), Diplomacy (Cha), Charisma score equal to at least 10 + the spell level. Knowledge (arcana) (Int), Knowledge (the planes) The Difficulty Class for a saving throw against (Int), Listen (Wis), Profession (Wis), Sense Motive a sha\u0027ir\u0027s spell is 10 + spell level + the sha\u0027ir\u0027s (Wis), Spellcraft (Int). Cha modifier. Skill Points at 1st Level: (2 + Int modifier) x 4. Like other Spellcasters, a sha\u0027ir can cast only a",
+        "name":  "Races",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "2 + Int modifier. certain number of spells of each spell level per day. In addition, he receives bonus spells per day if he has CLASS FEATURES a high Charisma score. All of the following are class features of the sha\u0027ir. A sha\u0027ir begins play knowing five 0-level spells",
+        "name":  "Skill Points at Each Additional Level",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A sha\u0027ir\u0027s spells must be retrieved from the A sha\u0027ir decides what spell might be useful elemental planes by his familiar, an outsider called a and sends out his familiar to retrieve it from the gen. Once retrieved, a spell remains set in the sha\u0027ir\u0027s elemental planes. To do this, the sha\u0027ir must summon memory, like a wizard\u0027s prepared spell, until cast or his gen and tell it the name of the spell he seeks. The until a number of hours pass equal to the sha\u0027ir\u0027s gen immediately plane shifts to seek the spell in the class level. A sha\u0027ir is capable of extraordinarily elemental planes. versatile spellcasting because he can use arcane The gen\u0027s success in finding the desired spell spells as well as a limited selection of divine spells. A depends on the following parameters. sha\u0027ir\u0027s familiar can retrieve any spell on the sorcerer/ • Arcane Spell Known: To retrieve an arcane spell wizard spell list, plus any spell from the Air, Chaos, that the sha\u0027ir can normally cast (that is, one Earth, Fire, Knowledge, Law, Luck, Sun, and Water within his Spells Known repertoire), the gen domain spell lists. Even though the sha\u0027ir has access must search for a number of rounds equal to ld4 to certain domain spells, he gains no other benefit + the spell level.",
+        "name":  "Spells",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Air mastery, darkvision 60 ft., COMBAT elemental endurance, fetch spells, immunity to All gens have certain traits in common. They prefer to electricity, elemental travel, vulnerability to acid avoid combat, a task that is easy for them since they Saves: Fort +3, Ref +4, Will +4 can travel to the elemental planes at will and survive Abilities: Str 7, Dex 14, Con 12, Int 13, Wis 15, Cha 10 equally well in any of them. Skills: Concentration +5, Escape Artist +6, Hide +12, Elemental Endurance (Ex): A gen can survive on the Knowledge (arcana) +5, Knowledge (the planes) +5, elemental planes like a native. On the Elemental Plane of Listen +4, Move Silently +4, Search +5, Spellcraft +5, Fire, a gen is immune to fire damage. On the Elemental Spot +4, Survival +6",
+        "name":  "Special Qualities",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1/2 leaving no tunnel or sign of its passage as though it has Treasure: Standard the earth glide ability of a xorn (see the Monster Manual). Alignment: Often chaotic good Elemental Travel (Sp): A gen can plane shift at will Advancement: 2-3 HD (Tiny); 4-6 HD (Small) to any of the Elemental Planes or from any elemental Level Adjustment: — plane to the Material Plane. This ability transports the gen only. It is otherwise identical to the plane shift This creature resembles a pale-skinned humanoid spell (caster level 13th). surrounded by misty vapors. Fetch Spells (Ex): A gen can find and deliver spells to a sha\u0027ir from the elemental planes. The time Air gens often dwell on the Elemental Plane of Air. required depends upon the spell, as given in the Thought to be related to the djinn, they are often sha\u0027ir description. found within djinn cities, although they travel almost constantly. AIR GEN Air gens speak Common and Auran. Tiny Outsider (Air, Extraplanar)",
+        "name":  "Earth, a gen has a burrow speed equal to its land speed, Challenge Rating",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Darkvision 60 ft., earth mastery, Special Qualities: Darkvision 60 ft., elemental elemental endurance, fetch spells, immunity to acid, endurance, fetch spells, immunity to fire, elemental elemental travel, vulnerability to electricity travel, vulnerability to cold",
+        "name":  "Special Qualities",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration +5, Escape Artist +6, Hide +11, Skills: Concentration +4, Escape Artist +6, Hide +12, Knowledge (arcana) +5, Knowledge (the planes) +5, Knowledge (arcana) +5, Knowledge (the planes) +5, Listen +4, Move Silently +3, Search +5, Spellcraft +5, Listen +4, Move Silently +4, Search +5, Spellcraft +5, Spot+4, Survival +6 Spot+4, Survival +6",
+        "name":  "Skills",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— Level Adjustment: — This creature resembles a muscular, dusky-skinned This creature resembles a ruddy-skinned humanoid with humanoid. Tiny gems stud its skin. hair like crackling flames. Earth gens usually dwell on the Elemental Plane of Earth. Fire gens can usually be found on the Elemental Plane Thought to be related to the dao, they are often found of Fire. Thought to be related to the efreet, they are within dao cities, although they travel almost constantly. often found within efreeti cities, although they travel Earth gens speak Common and Terran. almost constantly. Fire gens speak Common and Ignan. COMBAT Earth gens avoid combat whenever possible. When COMBAT they must fight, they slam opponents with their fists. Fire gens avoid combat whenever possible. When they Earth Mastery (Ex): An earth gen gains a +1 bonus on must fight, they slam opponents with their fists. attack and damage rolls if both it and its foe are touching Heat (Ex): A fire gen\u0027s red-hot body deals 1 point of the ground. If an opponent is airborne or waterborne, the extra fire damage whenever it hits in melee, or in each gen takes a -4 penalty on attack and damage rolls. (These round that it maintains a hold while grappling. modifiers are not included in the statistics block.) the gen reappears with no spell. A failure by 5 or more At 4th level, and every even-numbered sha\u0027ir results in the gen being detained for an additional level thereafter, a sha\u0027ir may choose to learn a 1d4 minutes. new spell in place of one he already knows. In Spells retrieved by the gen remain available to the effect, the sha\u0027ir \"loses\" an old spell known in sha\u0027ir to cast for 1 hour per sha\u0027ir level. If a spell is exchange for a new one. The new spell\u0027s level not used within that time, the power to cast the spell must be the same as that of the spell for which dissipates harmlessly. it is exchanged. A sha\u0027ir may swap one spell at",
+        "name":  "Level Adjustment",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Amphibious, darkvision 60 ft., The summoning takes 12 hours and consumes raw elemental endurance, fetch spells, immunity to cold, materials that cost 100 gp. elemental travel, vulnerability to fire A gen can retrieve spells for the sha\u0027ir, as indicated",
+        "name":  "Special Qualities",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration +6, Escape Artist +5, Hide +11, gains power. A gen advances as a normal familiar, Knowledge (arcana) +5, Knowledge (the planes) +5, gaining all the normal benefits described in the Listen +4, Move Silently +3, Search +5, Spellcraft +5, Familiars section on page 52 of the Player\u0027s Handbook, Spot +4, Survival +6, Swim +6 except that its Intelligence does not increase and it can",
+        "name":  "Skills",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "An urban druid casts divine spells, which are kind. A vermin serving as an urban companion has drawn from the urban druid spell list. Her alignment an Intelligence of 1, and its type changes to animal. may restrict her from casting certain spells opposed A 1st-level urban druid\u0027s companion is completely to her moral or ethical beliefs; see Chaotic, Evil, Good, typical for its kind except as noted in the Druid\u0027s and Lawful Spells, below. An urban druid must choose Animal Companion sidebar on page 36 of the and prepare her spells in advance (see below). Player\u0027s Handbook. As the urban druid advances in To prepare or cast a spell, the urban druid must level, the companion\u0027s power increases as shown in have a Charisma score equal to at least 10 + the spell that sidebar. level. The Difficulty Class for a saving throw against If an urban druid releases her companion from a druid\u0027s spell is 10 + the spell level + the druid\u0027s service, she may gain a new one by performing a Charisma modifier. ceremony requiring 24 uninterrupted hours of Like other Spellcasters, an urban druid can cast prayer. This ceremony can also replace a companion only a certain number of spells of each spell level per that has perished. day. She receives bonus spells per day if she has a An urban druid of 4th level or higher may select high Charisma score. She does not have access to any from alternative lists of creatures (see below). Should domain spells or granted powers, as a cleric does. she select an urban companion from one of these An urban druid prepares and casts spells the way a alternative lists, the creature gains abilities as if cleric does, although she cannot lose a prepared spell the character\u0027s urban druid level were lower than to cast a cure spell in its place (but see Spontaneous it actually is. Subtract the value indicated in the Casting, below). An urban druid may prepare and appropriate list header from the character\u0027s urban cast any spell on the urban druid spell list, provided druid level and compare the result with the urban she can cast spells of that level, but she must choose druid level entry on the table in the sidebar on page 36 which spells to prepare during her daily meditation. of the Player\u0027s Handbook to determine the companion\u0027s",
+        "name":  "Spells",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "An urban druid can channel powers. (If this adjustment would reduce the urban stored spell energy into repair spells that she hasn\u0027t druid\u0027s effective level to 0 or lower, she can\u0027t have that prepared ahead of time. She can \"lose\" a prepared spell in creature as a companion.) order to cast any repair spell of the same level or lower. Any construct that serves an urban druid is",
+        "name":  "Spontaneous Casting",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A druid spontaneously created by the 24-hour prayer that can\u0027t cast spells of an alignment opposed to her own calls the urban companion; the urban druid need not ALTERNATIVE URBAN COMPANIONS corner, the target does not gain the benefit of cover An urban druid of sufficiently high level can select (unless the foe has total cover). The urban druid retains her urban companion from one of the following the benefits of cover against her enemy, unless she is lists, applying the indicated adjustment to the fighting another urban druid or other creature with a druid\u0027s level (in parentheses) for purposes of similar power. determining the companion\u0027s characteristics and Disease Immunity (Ex): At 4th level, an urban druid special abilities. becomes immune to all forms of disease, including 4th Level or Higher (Level -3) supernatural diseases like mummy rot. Animated object (Medium) Urban Shape (Su): At 5th-level, an urban druid gains the Giant ant (soldier) ability to turn herself into any Small or Medium urban Dire bat creature. This ability functions identically to a druid\u0027s Monstrous centipede (Large) wild shape ability, save that the list of forms the urban Monstrous scorpion (Medium) druid can take is much more specialized: It is limited to Monstrous spider (Medium) creatures with the humanoid type or to any non-construct Snake, viper (Large) creatures from her urban companion list (see above). Warhorse, heavy An urban druid can use this ability more times per 7th Level or Higher (Level -6) day at 6th, 7th, 10th, 14th, and 18th level. In addition, she Animated object (Large) gains the ability to take the shape of a Large creature at Carrion crawler 8th level, a Tiny creature at nth level, and a Huge creature Hammerer (Monster Manual II, page 27) at 15th level. The new form\u0027s Hit Dice can\u0027t exceed the Otyugh character\u0027s urban druid level. Monstrous centipede (Huge) At 12th level, the urban druid becomes able to use Monstrous scorpion (Large) urban shape to change into an object (size based on the Monstrous spider (Large) sizes allowed by the urban shape ability), such as a door Pulverizer (Monster Manual II, page 27) or a wagon. The urban druid gains hardness equal to the Snake, viper (Huge) material assumed, but the urban druid cannot assume 10th Level or Higher (Level-9) the form of an object with a hardness of more than 10. Animated object (Huge) As long as the urban druid is in object form, she has no Monstrous spider (Huge) means of locomotion or speech, but she retains awareness 13th Level or Higher (Level-12) of her surroundings as if she were in her natural form. Monstrous centipede (Gargantuan) At 16th level, an urban druid becomes able to use Monstrous scorpion (Huge) urban shape to transform into a Small, Medium, 16th Level or Higher (Level-15) Large, or Huge animated object once per day. These Animated object (Gargantuan) construct forms are in addition to her normal urban Monstrous spider (Gargantuan) shape usage. In addition to the normal effects of urban shape, the urban druid also gains all of the animated object\u0027s extraordinary special attacks and have the Craft Construct feat (Monster Manual, page special qualities, including any defenses gained from 303) or expend gold and experience points to gain the the construct type. Her type changes to construct construct companion. for the duration of the animated object form. Crowdwalk (Ex): At 2nd level, an urban druid can At 18th level, an urban druid gains the ability to assume move through crowds with ease, moving as if in an open animated object form twice per day, and at 20th level she space. If an urban druid attempts to move through a can do so three times per day. At 20th level, she may use square occupied by a hostile creature (such as with a this ability to change into a gargantuan animated object. Tumble check or an overrun attempt), she gains a +4 Information Network (Ex): Upon reaching 9th level, bonus on any skill check, Strength check, or attack roll an urban druid has established an information network made to resolve the movement. in a number of cities equal to her Charisma bonus. While Alley Fighting (Ex): Urban druids are masters at in any of these cities, the urban druid only takes half an fighting in cramped quarters, such as city alleyways or hour to make a Gather Information check (rather than narrow dungeon corridors. At 3rd-level, an urban druid\u0027s a full evening or day). In addition, if any event occurs ability to fight in these conditions improves greatly. As in a city that would interest the urban druid, she may long as she is fighting in an area no wider than her space make a Gather Information check to learn of the event (5 feet for a Small or Medium humanoid), she gains a as a free action. Knowledge of such an event reaches the +1 competence bonus on all attack rolls. Additionally, urban druid\u0027s ears in 1d4 hours unless the urban druid if she makes a melee attack against a target around a is in an area that cannot be reached by her contacts.",
+        "name":  "Chaotic, Evil, Good, and Lawful Spells",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S",
+        "name":  "NEW URBAN DRUID SPELLS Components",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action druids to aid in their custodianship of a city\u0027s well-being. Range: Touch",
+        "name":  "The following spells were created or borrowed by urban Casting Time",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Urban Druid 9 Spell Resistance: Yes (harmless)",
+        "name":  "Level",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One city gate set in a city wall up to 20 feet wide to repair damage it has suffered. The spell repairs ld8 and 20 feet tall teleports those who pass through it points of damage +1 point per caster level (up to +5).",
+        "name":  "Effect",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Transmutation",
+        "name":  "Spell Resistance",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Urban Druid 5 You cause a gate built into a city\u0027s wall to teleport, Components: V, S as greater teleport, any creature that passes through Casting Time: 1 standard action it to a second city gate designated by you when the Range: Close (25 ft. + 5 ft./2 levels) spell is cast. Once you select the destination, you Target: One construct/level, no two of which can be can\u0027t change it. Both the departure point and arrival more than 30 ft. apart point must be in city gates set in walls that surround Duration: Instantaneous a city of small town size or larger (DUNGEON MASTER\u0027S Saving Throw: None Guide, page 137). The spell fails if you attempt to set Spell Resistance: Yes (harmless) the gate to teleport creatures into a solid object, to a place with which you are not familiar and have no You repair ld8 points of damage +1 point per caster clear description of, or to another plane. The spell fails level (maximum +25) to each selected construct. if either city gate is closed, and the effects of the spell end instantly if either gate is physically closed during REPAIR MINOR DAMAGE the spell\u0027s duration. This spell is most often used to aid Transmutation in the quick evacuation of a city in a time of disaster, Level: Sor/Wiz 0, Urban Druid 0 but with a little forethought and planning it can also be used to stage sudden invasions of a city. As repair light damage, except repair minor damage",
+        "name":  "Level",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Urban Druid 8 This spell functions like mass repair light damage, This spell functions like mass repair light damage, except that it repairs 2d8 points of damage +1 point except that it repairs 4d8 points of damage +1 point per caster level (maximum +30). per caster level (maximum +40). REPAIR SERIOUS DAMAGE REPAIR LIGHT DAMAGE Transmutation",
+        "name":  "Level",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sor/Wiz 1, Urban Druid 1 As repair light damage, except repair serious damage repairs 3d8 points of damage +1 point per caster level trick the caster. In cases where there are multiple (up to+15). answers to a question, the spell provides the one that is the most pertinent to the caster. If you lag, REPAIR SERIOUS DAMAGE, MASS discuss the answers, or go off to do anything else, Transmutation the spell ends.",
+        "name":  "Level",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Urban Druid 7 Focus: An abandoned building in a settlement of at least small town size or larger (DUNGEON MASTER\u0027S This spell functions like mass repair light damage, Guide, page 137). except that it repairs 3d8 points of damage +1 point XP Cost: 100 XP. per caster level (maximum +35). URBAN DRUID SPELL LIST SCATTERSPRAY Urban druids cast spells from the following list. Most Transmutation of these spells are from the Player\u0027s Handbook, but a",
+        "name":  "Level",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Urban Druid 1, Sor/Wiz 1 few are detailed above. New spells are marked with",
+        "name":  "Level",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels) 0-LEVEL URBAN DRUID SPELLS (ORISONS)",
+        "name":  "Range",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No skill check.",
+        "name":  "Spell Resistance",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Paralyzes one humanoid for 1 round/level. 4TH-LEVEL URBAN DRUID SPELLS",
+        "name":  "Hold Person",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Rearranges wooden objects to suit you. Repair Critical Damage*: Repairs 4d8 damage +1/level (max +20). 3RD-LEVEL URBAN DRUID SPELLS Rusting Grasp: Your touch corrodes iron and alloys.",
+        "name":  "Wood Shape",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Makes monster believe it is your ally. 5TH-LEVEL URBAN DRUID SPELLS",
+        "name":  "Charm Monster",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Grants immunity to all death spells and Cure Moderate Wounds, Mass: Cures 2d8 damage negative energy effects. +1/level for many creatures.",
+        "name":  "Death Ward",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Creates a stone wall that can be shaped. 8TH-LEVEL URBAN DRUID SPELLS 6TH-LEVEL URBAN DRUID SPELLS Cure Serious Wounds, Mass: Cures 3d8 damage +1/",
+        "name":  "Wall of Stone",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Digs trenches and builds hills. Reverse Gravity: Objects and creatures fall upward. Owl\u0027s Wisdom, Mass: As owl\u0027s wisdom, affects one Word of Recall: Teleports you back to designated place. subject/level. Repair Moderate Damage, Mass*: Repairs ld8 damage 9TH-LEVEL URBAN DRUID SPELLS +1/level for many objects. Antipathy: Object or location affected by spell repels",
+        "name":  "Move Earth",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Stores one spell in wooden quarterstaff. Citygate * F: Teleports from one city gate to another.",
+        "name":  "Spellstaff",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "30 hp/four levels; can topple onto foes. Regenerate: Subject\u0027s severed limbs grow back, cures 4d8 damage +1/level (max +35). 7TH-LEVEL URBAN DRUID SPELLS Shapechange F: Transforms you into any creature, and",
+        "name":  "Wall of Iron M",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Martial arts and a hatred of Spellcasters combine to produce a killer feared and hunted by wizards and sorcerers.",
+        "name":  "Arcanopath Monk",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The cerebrex\u0027s arcane talents grant him the ability to develop his vast intellect and peer into others\u0027 minds to rob them of their spells.",
+        "name":  "Cerebrex",
+        "source":  "dragon_compendium.txt",
+        "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d"
+    }
+]

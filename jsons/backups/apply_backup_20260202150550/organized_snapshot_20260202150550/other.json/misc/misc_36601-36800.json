@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "other.json",
+        "description":  "You can move through the 1 Might require a skill check. squares in the space of an opponent three or more size categories larger than you are. You can also move through the space of an opponent three or more size categories smaller than you are. Difficult Terrain",
+        "name":  "Extreme Size Difference",
+        "source":  "rules_compendium.txt",
+        "_id":  "1776b4f144ae2e32bb1a2f38967c75f63ed08b8533999d3922f5996afcdbe681"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "During your movement, you can attempt to across diffi cult terrain. If you occupy a space that includes dif- move through a square occupied by an opponent by using ferent kinds of terrain, you can move only as fast as the most the overrun special attack (see page 108). diffi cult terrain in your space allows. Flying and incorporeal",
+        "name":  "Overrun",
+        "source":  "rules_compendium.txt",
+        "_id":  "1776b4f144ae2e32bb1a2f38967c75f63ed08b8533999d3922f5996afcdbe681"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A walk represents unhurried movement.",
+        "name":  "Walk",
+        "source":  "rules_compendium.txt",
+        "_id":  "1776b4f144ae2e32bb1a2f38967c75f63ed08b8533999d3922f5996afcdbe681"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A hustle is a jog.",
+        "name":  "Hustle",
+        "source":  "rules_compendium.txt",
+        "_id":  "1776b4f144ae2e32bb1a2f38967c75f63ed08b8533999d3922f5996afcdbe681"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A highway is a straight, major, paved road. Pony (76–225 lb.) 3 miles 24 miles",
+        "name":  "Highway",
+        "source":  "rules_compendium.txt",
+        "_id":  "1776b4f144ae2e32bb1a2f38967c75f63ed08b8533999d3922f5996afcdbe681"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A road is typically a dirt track. Warpony (101–300 lb.) 3 miles 24 miles",
+        "name":  "Road",
+        "source":  "rules_compendium.txt",
+        "_id":  "1776b4f144ae2e32bb1a2f38967c75f63ed08b8533999d3922f5996afcdbe681"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A trail is like a road, except that it allows only Donkey or mule 3 miles 24 miles single-fi le travel and doesn’t benefi t a party traveling with Donkey (51–150 lb.) 2 miles 16 miles vehicles. Mule (231–690 lb.) 2 miles 16 miles Dog, riding 4 miles 32 miles",
+        "name":  "Trail",
+        "source":  "rules_compendium.txt",
+        "_id":  "1776b4f144ae2e32bb1a2f38967c75f63ed08b8533999d3922f5996afcdbe681"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A lost party is also uncertain Visibility of determining the direction it should travel to reach a Any time you can’t see at least 60 feet in the prevailing condi- desired objective. Determining the correct direction of tions of visibility, you might become lost. Those traveling in travel once a party has become lost requires a member to poor visibility easily lose the ability to see any landmarks not make a Survival check (DC 15, +2 per hour of random travel). in their immediate vicinity. The DM makes the check. If the check fails, the character chooses a random direction as the correct direction for Terrain resuming travel. Those in forest, moor, hill, or mountain terrain might become Once the characters are traveling along their new course, lost if they move away from an obvious path or track. Forests correct or incorrect, they might get lost again. If the condi- are especially bad because they obscure other landmarks and tions still make it possible for travelers to become lost, check make it hard to see the sun or stars. once per hour. 99 MOVEMENT Natural Attacks",
+        "name":  "Setting a New Course",
+        "source":  "rules_compendium.txt",
+        "_id":  "1776b4f144ae2e32bb1a2f38967c75f63ed08b8533999d3922f5996afcdbe681"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "if this shaman you’re talking to is just waiting for the rest of his tribe happens, then this occurs. As anyone who works with comput- to show up, maybe it’s best not to ready an attack until you’re ers knows, the “garbage in, garbage out” rule always applies. certain about his intentions. If you’re not specific enough with your proposed ready action, But if you are, and you’re willing to take the consequences, then your result might not be exactly what you hoped for. And if ready away! you’re too specific, the condition might not be met and you’ve —Michele Carter, editor lost a round’s worth of actions. pqqqqqqqqqqqqqqqqqqqqrs 110 YDAER ttocserP .S yb .sullI Abstraction like a “realistic” cop or doctor show would be pretty boring or Simulation to watch. (Oh, goody, another episode of paperwork!) In D\u0026D, halfl ings are almost as strong as humans. In a by Andy Collins, developer realistic game, these pint-size characters would have the muscle of a 10-year-old. Of course, then they’d be unable to One of the great strengths of tabletop roleplaying games is do much in combat. Instead, D\u0026D abstracts the difference that they allow characters to attempt anything the players between the two races, pushing them closer together to can imagine. The open-ended nature of most RPGs, and ensure that halfl ings are playable. They’re still weaker than the presence of a living arbiter (the DM), allow for a range humans—that’s the believability factor—but not so much of actions far beyond what any board game, card game, or weaker as to be unplayable. computer game can handle. In D\u0026D, characters bounce back from injuries with no real Ironically, the place where many RPG systems break down consequences. In a realistic game, a character who actually is when they attempt to simulate actions and aspects of the manages to survive being clawed, gnawed, and fl ash-fried “real world.” Although a certain level of believability must by a red dragon as big as a house would be in a hospital be achieved, many designers and players strive for a level of for weeks, and (assuming he could still walk at all) would simulation far beyond what’s necessary to for a game. walk with a limp for the rest of his life. Of course, that Is it “realistic” that every player in Monopoly starts with makes it a little hard to continue the adventure, so D\u0026D exactly the same amount of money, that players have a 1-in-6 abstracts character injuries and recovery with the hit point chance of being released from Jail each turn they’re incar- system. Massive injuries can certainly kill even a powerful cerated, or that a shoe can amass property and collect rental character, and coming back from death takes its toll. That’s the payments? Of course not, but nobody playing Monopoly believability factor. But virtually any injury can be repaired complains about such things. Everyone accepts a certain relatively quickly if you have the right resources, which allows level of abstraction for fun game play. the game to keep rolling. Every edition of D\u0026D has struggled to find the right Players carry out melee combats by rolling dice and moving balance between simulation and abstraction that achieves minis around a grid on a turn-by-turn basis in D\u0026D. In maximum playability and fun. Overall, the game leans more a realistic game, combat would be incredibly chaotic and heavily toward abstraction, and that’s not an accident. Not uncontrolled, with many more interruptions and missteps, only does the game focus on elements way beyond the realms and a lot less fi nesse. Of course, that would make combat of reality, but it also consciously requires the characters to scenes drag on forever, result in a lot of wasted actions, and perform heroic, even superheroic, actions. encourage endless timing arguments. Instead, D\u0026D encour- The important caveat to any abstract system is that even ages players to recreate their favorite action movie stunts an abstracted activity must be acceptably believable to the (or create their own) within a fast-paced combat system by players. That is, the participants in the game must believe that minimizing the number of variables and actions they have the in-game outcome could have occurred in the situation to track. It keeps order by having each participant take turns. in question. This system sacrifi ces many elements of simulation in order That “believability factor” is relative, not absolute. It varies to achieve the desired level of playability, but the resulting based on the core assumptions of the game, the setting, and action remains reasonable enough to pass the average player’s even the playing group. What’s believable in one game might believability test. not be in another. Casually leaping 20 feet from a standing Put simply, no game can perfectly simulate reality. If it start sounds unbelievable . . . unless you’re playing a wuxia- did, it wouldn’t be a game any more, it’d be real life. (Who infl uenced game. In that case, it’s pedestrian. A group of wants to buy a copy of that?) It might be more realistic expert climbers might demand more simulationist aspects for Monopoly players to start with different amounts in a climbing system, because their advanced expertise of money, but that wouldn’t make the game more fun. doesn’t allow them to “believe” in the outcomes that result If D\u0026D perfectly simulated battling a horde of raging from the rules. barbarians, it would not only cost a lot more money to That’s the same reason why many doctors can’t enjoy purchase (those actors don’t come cheap), it would result medical dramas on TV. Although the average viewer can in a lot more lawsuits. accept and enjoy week after week of bizarre cases and way- Abstraction is the game player’s (and game designer’s) best out-there diagnoses, it’s so far removed from the professional’s friend. It lets us recreate an endless array of activities we’d real-life experiences and expertise that she just can’t never be able to (or want to) accomplish in real life. What’s bring herself to believe the show enough to appreciate the more, it lets us do so quickly and efficiently, maximizing entertainment value. I can only imagine how “unrealistic” the play and minimizing the rule-searching. When it’s done a show on game designers would seem to me and the folks right, abstraction actually improves our immersion into the I work with. game’s own version of reality. Actions within the game fl ow It’s tempting to look at a rule and imagine how to make so naturally and intuitively that we forget that we’re bounded it more realistic. Whenever this temptation rears its ugly by rules at all. head, just ask yourself if the added realism actually increases Personally, I can’t think of any greater achievement in smooth, fun game play. The answer is usually “No”—just game design. 111",
+        "name":  "Think of a ready action like a basic computer program",
+        "source":  "rules_compendium.txt",
+        "_id":  "1776b4f144ae2e32bb1a2f38967c75f63ed08b8533999d3922f5996afcdbe681"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Low-tech, but easy. Initiative Tracker: If the DM uses a board for initiative, your",
+        "name":  "Tick Marks or Checkboxes",
+        "source":  "rules_compendium.txt",
+        "_id":  "1776b4f144ae2e32bb1a2f38967c75f63ed08b8533999d3922f5996afcdbe681"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "When the says otherwise. same effect is cast more than once on the same target, the durations of the effects don’t stack. Each effect’s duration OTHER POWER SOURCES elapses normally.",
+        "name":  "Same Effect with Differing Durations",
+        "source":  "rules_compendium.txt",
+        "_id":  "1776b4f144ae2e32bb1a2f38967c75f63ed08b8533999d3922f5996afcdbe681"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None Severe 31–50 mph –4/— Tiny: Blown away 15",
+        "name":  "Small or larger",
+        "source":  "rules_compendium.txt",
+        "_id":  "1776b4f144ae2e32bb1a2f38967c75f63ed08b8533999d3922f5996afcdbe681"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Knocked down",
+        "name":  "Small",
+        "source":  "rules_compendium.txt",
+        "_id":  "1776b4f144ae2e32bb1a2f38967c75f63ed08b8533999d3922f5996afcdbe681"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Checked",
+        "name":  "Medium",
+        "source":  "rules_compendium.txt",
+        "_id":  "1776b4f144ae2e32bb1a2f38967c75f63ed08b8533999d3922f5996afcdbe681"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None Windstorm 51–74 mph No/–4 Small or smaller: Blown away 18",
+        "name":  "Large or larger",
+        "source":  "rules_compendium.txt",
+        "_id":  "1776b4f144ae2e32bb1a2f38967c75f63ed08b8533999d3922f5996afcdbe681"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Knocked down",
+        "name":  "Medium",
+        "source":  "rules_compendium.txt",
+        "_id":  "1776b4f144ae2e32bb1a2f38967c75f63ed08b8533999d3922f5996afcdbe681"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Checked",
+        "name":  "Large or Huge",
+        "source":  "rules_compendium.txt",
+        "_id":  "1776b4f144ae2e32bb1a2f38967c75f63ed08b8533999d3922f5996afcdbe681"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None Hurricane 75–174 mph No/–8 Medium or smaller: Blown away 20",
+        "name":  "Gargantuan or Colossal",
+        "source":  "rules_compendium.txt",
+        "_id":  "1776b4f144ae2e32bb1a2f38967c75f63ed08b8533999d3922f5996afcdbe681"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Knocked down",
+        "name":  "Large",
+        "source":  "rules_compendium.txt",
+        "_id":  "1776b4f144ae2e32bb1a2f38967c75f63ed08b8533999d3922f5996afcdbe681"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Checked",
+        "name":  "Huge",
+        "source":  "rules_compendium.txt",
+        "_id":  "1776b4f144ae2e32bb1a2f38967c75f63ed08b8533999d3922f5996afcdbe681"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None Tornado 175–300 mph No/no Large or smaller: Blown away 30",
+        "name":  "Gargantuan or Colossal",
+        "source":  "rules_compendium.txt",
+        "_id":  "1776b4f144ae2e32bb1a2f38967c75f63ed08b8533999d3922f5996afcdbe681"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Knocked down",
+        "name":  "Huge",
+        "source":  "rules_compendium.txt",
+        "_id":  "1776b4f144ae2e32bb1a2f38967c75f63ed08b8533999d3922f5996afcdbe681"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Low-lying, level, relatively smooth plainslike areas of Below are some important geographical terms you might considerable extent. find helpful when using these environments and terrains in Mensa (Mensae): Mesas. Flat-topped prominence with cliff- your campaign. like edges.",
+        "name":  "GLOSSARY OF WASTE TERRAIN TERMS Mare",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A moving, isolated, crescent-shaped dune. The Mons (Montes): Mountains. A large topographic prominence convex edge points toward the wind. or chain of elevations.",
+        "name":  "Barchan",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A common dark, fine-grained volcanic rock. Pahoehoe: A type of lava having a glassy, smooth, and billowy",
+        "name":  "Basalt",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A small terrace or steplike ledge breaking the continuity or undulating surface; it is characteristic of Hawaiian lava. of a slope. Patera: Irregular crater or a complex one with scalloped edges.",
+        "name":  "Bench",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Large depression containing volcanic vents. Pedestal Crater: A crater around which less resistant material",
+        "name":  "Caldera",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A chain or line of craters. has been removed from the ejecta, leaving an elevated surface",
+        "name":  "Catena",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Canyon. An elongated, steep-sided depression. of more resistant material.",
+        "name":  "Chasma",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A closed, rimless depression caused by subsidence. Planitia: Plain. Smooth low area.",
+        "name":  "Collapse Pit",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Term applied to wind erosion or deposition of surface Planum: Plateau. Smooth elevated area. materials. Regolith: A general term for loose material overlying bedrock.",
+        "name":  "Eolian",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A long, more or less continuous cliff or relatively Rift: A narrow cleft, fissure, or other opening in rock (as in steep slope produced by erosion or faulting. limestone), made by cracking or splitting.",
+        "name":  "Escarpment",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A long, low, narrow, sinuous, steep-sided ridge or Scabland: Elevated, essentially flat basalt-covered land with mound composed of irregularly stratified sand and gravel that little or no soil cover. was deposited by a glacial stream flowing between ice walls or Scarp: A line of cliffs produced by faulting or by erosion. The in an ice tunnel of a continuously retreating glacier, left behind term is an abbreviated form of escarpment, and the two terms when the ice melted. commonly have the same meaning. Fossa (Fossae): Ditches. Long, narrow, shallow depressions. Sediment: Solid, fragmental material originating from the They generally occur in groups and are straight or curved. weathering of rocks (such as sand, gravel, mud, or alluvium).",
+        "name":  "Esker",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "An elongated, relatively depressed area bounded Tholus: Isolated domical small mountain or hill. by faults. Vallis (Valles): A sinuous channel, many with tributaries.",
+        "name":  "Graben",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Even the celestial realms can CHARACTERISTICS have harsh conditions. Ysgard is a plane of warriors, and In addition to the normal characteristics of the surround- the weak do not survive here. On the top layer, the seasons ing plane (see pages 155–158 of the Dungeon Master’s are intense; the summers are as deadly in their heat as the Guide), waste regions on the Inner Planes possess the winters in their frosts. following traits. The second layer of Ysgard, Muspelheim, is a land of",
+        "name":  "INNER PLANE WASTE Heroic Plains of Ysgard",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "For most Steep slope 40% 60% purposes, the maximum distance in badlands terrain at",
+        "name":  "Stealth and Detection in Badlands",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Chasms function similarly to pits in dungeon which a Spot check for detecting the nearby presence of settings. However, they are seldom hidden, so characters others can succeed is 4d10×10 feet. The twisting, winding should rarely fall into them by accident. A typical chasm nature of badlands makes spotting at greater distances measures 2d4×10 feet deep, at least 20 feet long, and around nearly impossible (which is why badlands are so favored 5d4 feet wide. Climbing out of a chasm requires a success- by raiders and outlaws as hideouts). Cover in badlands is ful DC 15 Climb check. plentiful, from ridgelines and hilltops to caves and hol-",
+        "name":  "Chasm",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cliffs in badlands terrain measure 1d4×10 feet tall, lows. Because sound echoes so much in badlands, the DC and generally require a DC 15 Climb check to climb up of Listen checks increases by 2. or down. They are seldom perfectly vertical. A cliff up to 30 feet high takes up 5 feet of horizontal space, and a cliff Rockslides of 30 feet or higher takes up 10 feet of horizontal space. A rockslide occurs when rocks dislodged from a slope",
+        "name":  "Cliff",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The ground is strewn with large stones gather momentum and tumble rapidly downhill. For and shingles of loose rock. It costs 2 squares of movement the effects of rockslides, see Avalanches, page 90 of the to enter a square with dense rubble. Dense rubble increases Dungeon Master’s Guide. the DC of Balance and Tumble checks by 5 and the DC of Move Silently checks by 2. BARREN WASTE TERRAIN",
+        "name":  "Dense Rubble",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A gradual slope does not offer enough Barren waste is the most desertlike of all waste terrains. of a challenge to affect movement. However, characters They exist in any warm climate where the evaporation gain a +1 bonus on melee attack rolls against foes downhill is extraordinarily fast and the rainfall virtually nonex- from them. istent. Water is even more scarce here than in ordinary",
+        "name":  "Gradual Slope",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Undergrowth in badlands deserts. Barren waste comes in two categories: sandy consists of low-lying, short-bladed brush, sparse patches and gravelly. of dry moss, and small cacti. A square covered with light The table below describes terrain elements found in undergrowth costs 2 squares of movement to move into. both of the two barren waste categories. As with badlands Light undergrowth increases the DC of Tumble checks terrain, you needn’t roll for each square; the percentages and Move Silently checks by 2. are intended as a general guide for mapping.",
+        "name":  "Light Undergrowth",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Shallow sand is common in desert areas. Areas of this terrain feature a layer of loose sand about 1 Table 1–13: Barren Waste Terrain Features foot deep. It costs 2 squares of movement to move into a —Barren Waste Category— Sandy Gravelly square with shallow sand, and the DC of Tumble checks Deep sand 10% — in such a square increases by 2. Dense rubble — 20%",
+        "name":  "Shallow Sand",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Characters moving uphill (that is, to an Gradual slope 10% 10% adjacent square of higher elevation) must spend 2 squares Light rubble 10% 50% Sand crust (shallow) 10% — of movement to enter each square of a steep slope. A Sand dunes 20% — character running or charging downhill (to an adjacent Shallow sand 20% 5% 662200__1177773399__CChhpp11..iinndddd 2277 11//77//0055 11::1199::5500 PPMM 28 1 RETPAHC ETSAW EHT",
+        "name":  "Steep Slope",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Dense rubble functions as described EVAPORATED SEA TERRAIN under Badlands Terrain, above. As a sea dries up in the extreme heat of the waste, it",
+        "name":  "Dense Rubble",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A gradual slope functions as described leaves behind a vast stretch of dry land that was once a under Badlands Terrain, above. sea fl oor. These types of terrain come in three categories:",
+        "name":  "Gradual Slope",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The ground is covered with small rocks silt seas, dry seas, and salt flats. Inland seas evaporate and gravel, making nimble movement more diffi cult. Light to leave fields of moist silt or dry sand, while salt seas rubble increases the DC of Balance and Tumble checks leave behind salt flats dotted with occasional high- by 2. saline lakes.",
+        "name":  "Light Rubble",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Created by the action of wind on sand, sand dunes function as hills that move. If the wind is Table 1–14: Evaporated Sea Terrain Features strong and consistent, a sand dune can move as much —Evaporated Sea Category— Silt Sea Dry Sea Salt Flat as a hundred feet in a year’s time. A sand dune can cover Chasm — 10% 5% hundreds of squares and might reach a height of a thousand Cliff 10% 30% 10% feet. It slopes gently on the side pointing in the direction Deep sand — 10% 5% of the prevailing wind, but can be extremely steep on the Gradual slope 10% 30% 5% Light rubble 5% 20% 10% leeward side. Where the wind blows from several different Light undergrowth 20% 5% — directions, depending on the season, sand dunes take the Sand crust (shallow) 10% 20% 25% shape of “stars” with three or more points—but where the Sand crust (deep) — 10% 15% wind blows steadily in one direction, sand dunes form row Shallow bog 15% — — Shallow sand 10% 20% 10% upon row of dusty ridges. Steep slope 5% 20% —",
+        "name":  "Sand Dunes",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Shallow sand functions as described under Badlands Terrain, above. Deep Sand: Deep sand functions as described under",
+        "name":  "Shallow Sand",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Barren Barren Waste Terrain, above. waste is one of the few places where oleum springs can be Chasm: Chasms function as described under Badlands, found. The black liquid that bubbles up out of the ground above. is useful for lubrication. See the oleum special substance Cliff: Cliffs function as described under Badlands Ter- description, page 102. rain, above.",
+        "name":  "Other Barren Waste Terrain Elements",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "In most Gradual Slope: A gradual slope functions as described cases, the maximum distance in barren waste terrain at under Badlands Terrain, above. which a Spot check for detecting the nearby presence of Light Rubble: Light rubble functions as described others can succeed is 6d6×20 feet. Beyond this distance, under Barren Waste Terrain, above. elevation changes and heat distortion make visual spotting Light Undergrowth: Light undergrowth functions as impossible. Where sand dunes are present, the spotting described under Badlands Terrain, above. distance is halved. Sand Crust: Sand crust functions as described under Barren waste imposes neither a bonus nor a penalty on Barren Waste Terrain, above. For sand crust over deep sand, Listen or Spot checks. The DC of Move Silently checks use the deep sand description for the sand underneath, increases by 2 in gravel, however. rather than the shallow sand description. 662200__1177773399__CChhpp11..iinndddd 2288 11//77//0055 11::1199::5522 PPMM 29 THE WASTE CHAPTER 1",
+        "name":  "Stealth and Detection in Barren Waste",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Especially damp silt can hinder move- Glass seas come in two varieties: solid and shattered. ment like a bog does. If a square is part of a shallow bog, The table below describes terrain features found in both it has deep mud, silt, or standing water about 1 foot deep. of the two glass sea categories. It costs 2 squares of movement to enter a square with a shallow bog, and the DC of Tumble checks in such a square Table 1–15: Glass Sea Terrain Features increases by 2. Shallow bogs also increase the DC of Move —Glass Sea Category— Solid Shattered Silently checks by 2. Crevasse 10% 30%",
+        "name":  "Shallow Bog",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Shallow sand functions as described Dense rubble — 10% under Badlands Terrain, above. Gradual slope 10% —",
+        "name":  "Shallow Sand",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Steep slopes function as described under Light rubble 5% 20% Razor glass — 5% Badlands Terrain, above.",
+        "name":  "Steep Slope",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "In Glass sea crevasses can be climbed (up or down) with a evaporated seas, the maximum distance at which a Spot DC 22 Climb check. check for detecting the nearby presence of others can Dense Rubble: Dense rubble functions as described succeed is 2d12×10 feet. In dry seas, this distance is under Badlands Terrain, above. 2d8×10 feet. Gradual Slope: A gradual slope functions as described Hiding in salt fl ats is virtually impossible (because of under Badlands Terrain, above. the fl at terrain), and silt seas (with the comparative lack of Light Rubble: The ground is covered with small bits vegetation) aren’t much better. Dry seas, however, provide of broken glass, making nimble movement more diffi cult. many more opportunities, if only in ridges and peaks. The DC of Balance and Tumble checks increases by 2. Any Evaporated seas have no particular effect on Listen or character who falls prone in a square containing broken Move Silently checks. glass rubble takes 1d4 points of slashing damage.",
+        "name":  "Stealth and Detection in Evaporated Seas",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "In a solid glass sea, the maximum distance at which a Spot check for detecting the nearby presence of others can succeed is 2d10×10 feet. In a shattered glass sea, this distance is reduced to 2d6×10 feet. Hiding places are rare in solid glass seas, though somewhat more common in shattered glass sea terrain. The occasional patch of dense rubble or razor glass affords a few opportunities for those within to make Hide checks. Glass seas have no effect on Listen or Move Silently checks. Mirror Sand",
+        "name":  "Stealth and Detection in Glass Seas",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Dense rubble functions as described glass of glass seas to produce mirror sand. Mirror sand under Badlands Terrain, above. blinds those who look at it while simultaneously increas- Gradual Slope: A gradual slope functions as described ing the temperature of the surrounding air. See page 23 under Badlands Terrain, above. for more information. Light Rubble: The jumble of petrified wood covers the ground so heavily that nimble movement is prob- PETRIFIED FOREST TERRAIN lematic. The DC of Balance and Tumble checks increases The result of millennia-long processes involving sediment, by 2. mineral deposits, and erosion, a petrifi ed forest consists of Light Undergrowth: The undergrowth in petrifi ed a great barren fi eld of colorfully banded stone logs. This forest terrain consists mainly of the odd stand of scrub jumble of rocks makes for diffi cult traveling, though the brush and the occasional tuft of patchy grass. It functions view is often spectacular. Petrifi ed forests come in two as described under Badlands Terrain, above. categories, rugged and forbidding. Other Petrifi ed Forest Terrain Elements: A petrifi ed The table below describes terrain elements found in forest might include an occasional dry streambed (treat both of the two petrifi ed forest categories. as a trench, 3 to 5 feet deep), but actual streams are rarely more than trickles, measuring only a couple of feet wide Table 1–16: Petrified Forest Terrain Features and a few inches deep. In summer months, such streams —Petrified Forest Category— completely dry up. Rugged Forbidding",
+        "name":  "Particles of tin or silver sometimes mix with the sand and Dense Rubble",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "In petri- Chasm 5% 5% fi ed forest terrain, the maximum distance at which a Spot Dense rubble 50% 60% Gradual slope 10% 10% check for detecting the nearby presence of others can Light rubble 30% 20% succeed is 4d10×10 feet. In a forbidding petrifi ed forest, Light undergrowth 5% 5% the rubble is so heavy that the spotting distance is reduced",
+        "name":  "Stealth and Detection in Petrifi ed Forests",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A simple and strong building material, ready building material. (Similar minerals, such as gypsum adobe is a mixture of mud, sand, and straw, baked in the and sulfur, also form caves and have the same properties as sun to form a hard clay. To build walls, adobe is cut into salt for game purposes.) Salt is quite crumbly and relatively bricks or spread over a framework while still wet. Because soft, however, and it has the additional disadvantage of it is not kiln-fi red, adobe is not as strong as pottery. being soluble in water. Directing a constant blast of water",
+        "name":  "Adobe Walls",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The ground resembles a fi eld of boulders gates usually exist only where they are necessary for interspersed with smaller debris. Dense rubble increases security, and alternative materials are common. the DC of Balance and Tumble checks by 5, and the DC of Move Silently checks by 2. It costs 2 squares of movement Table 1–18: Doors to enter a square containing dense rubble. Typical Hit –Break DC– Portal Type Thickness Hardness Points Stuck Locked",
+        "name":  "Dense Rubble",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A 10-foot-tall pile of sand makes the simplest of barriers, and a remarkably effective one. ROOMS Digging through the shifting, yielding grains is slow Rooms in waste dungeons have walls, fl oors, and portals and dangerous work. See Cave-Ins and Collapses, page made of the same materials described above. The arid, hot 66 of the Dungeon Master’s Guide, for rules on digging environment produces specialized chambers in addition through rubble. Within a sand heap, there is also a high to the normal sorts of rooms. risk of a slide; for each minute of digging, make a DC Ceremonial Chamber: The bhukas (see page 39) 15 Survival check. On a failure, characters in the slide believe that they climbed into the world from another zone must make successful DC 15 Refl ex saves or take world beneath the ground. Their religious observances 3d6 points of damage and become buried. A buried char- memorialize this subterranean origin, using deep circular acter takes 1d6 points of nonlethal damage per minute; pits with carved and painted walls, and roofed with hides. unconscious characters must make successful DC 15 Such a chamber is cut into the fl oor of a large public area Constitution checks each minute or take 1d6 points of within the complex. At least one shaman is always in the lethal damage. pit, and during feast days, all of the complex’s religious",
+        "name":  "Sand Heap",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Like a salt slab, sandstone is easy offi cials are there, along with the adult population of to carve and readily available. However, it doesn’t hold the settlement. These pits are not constructed as traps, hinges or pins for long, so this form of portal instead uses but they can contribute to the dungeon’s defense, since ropes or straps of hide to pull it into place. The straps are intruders who are unfamiliar with the complex and the pulled through to the inside afterward, leaving the slab inhabitants’ religious practices might stumble into them. stuck in the opening. To dislodge the slab requires a DC Treat this as a 10-foot-deep camoufl aged pit trap (see page 20 Strength check. 70 of the Dungeon Master’s Guide), but without a trigger",
+        "name":  "Sandstone Slab",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A simple door can be constructed or reset. of a wood or bone frame with animal hides stretched Cistern: A cistern is a worked or artificial vault for across it. Such a door is not effective against intruders storing water. It might be built from stone bricks or but is more than enough to block wind and sand, and to simply carved from the native rock. Cisterns are usu- provide privacy. ally dug into the floor and have heavy lids of stone to",
+        "name":  "Stretched Hides",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "These weirdly shaped pillars resemble stat- encrusted with minerals. ues that have been shaped by the natural action of wind Lava Pools and Lakes: The depths of a volcanic com- and water. They are like wide pillars (see page 64 of the plex might contain fi ssures or exposed magma chambers Dungeon Master’s Guide), taking up 1 square and providing opening directly onto their hellish contents. A lava pool total cover. However, their softer material grants them might have a thin crust of hardened rock on top (support- only hardness 7 and 780 hp. Due to their irregular shape, ing varying weights) that prevents someone from plunging hoodoos are easy to climb, requiring only a DC 15 Climb into the liquid rock, though the heat is still unearthly. check to scale. A 1-inch-thick crust can support up to 50 pounds of",
+        "name":  "Hoodoos",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "In an active caldera, the weight. Hardened lava 2 to 4 inches thick can handle earth’s fi res heat up water and mud to the boiling point weight up to 200 pounds. and sometimes beyond, which can form hot springs and Natural Bridge: A chunk of sandstone, or even another even geysers. soft material such as salt, is sometimes eroded by wind",
+        "name":  "Hot Springs and Geysers",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Asheratis share a common concern for sands of their birth far behind, fi nding noble quests in one another’s welfare and are, therefore, good. Observing the far corners of the world. no specifi c rules when it comes to behavior, and having a proclivity toward thievery, asheratis are usually chaotic. Asherati Racial Traits",
+        "name":  "Alignment",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Although theirs is not a technologically the waste. advanced society, bhukas are a sophisticated people with Alignment: A complex system of community relation- highly developed art and social organization. They are ships holds a bhuka village together. Respect for superiors not warlike, so they have learned to avoid conflict by and the need to contribute to the common good is drilled the simple method of not being seen. A bhuka never into every member of the society, and those who do not approaches strangers but observes from hiding as long as adhere become outcasts. Bhuka society is lawful, with possible while gauging the newcomers’ intent. Even if she most individuals tending toward good. does make contact, a bhuka reveals nothing of her kin or Bhuka Lands: Bhukas form extended family groups, settlement and is very cautious in her dealings. Within called phratries, consisting of several clans related by their own society, bhukas form strong bonds in extended origin. Each phratry claims ancestry from one couple families and cement the community as a whole through who emerged from the Lower World at the beginning of rituals and storytelling. history and is responsible for maintaining a particular",
+        "name":  "Personality",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bhukas are slightly built, with tradition of the people. Young adults of a given phratry sand-colored skin and brick-red, tightly curled hair. They cannot marry within any of its clans, which means they have little facial or body hair. Their large ears, networked must wed someone from another village; the new family 662200__1177773399__CChhpp22..iinndddd 3399 11//77//0055 33::2200::0011 PPMM 40 2 RETPAHC SESSALC ,SECAR STAEF DNA may settle with either parent clan. Bhukas inhabit adobe place in these pits, which recall the dark world beneath or sandstone dwellings built into and against cliffs or the ground from which the bhukas emerged. Outsiders dug into the upper levels of desert canyons. Each family are strictly forbidden from entering sacred pits, and only has its own home, with a terrace built under it to allow adult members of the community participate in the rites. drying of food, space for sitting and talking, and access The village pit is also where coming-of-age rituals are held. to other houses. The entrance to a house is well above Village festivals celebrating the harvest, weddings, and ground level as a defense against invaders—access is by changes of season take place in the common area rather ladders or rope lifts. A central spring provides water to than the pit, and are occasions for the community. feasting, song, and dance. Farms surround each village. The arid climate and The bhukas believe that Ki- hard earth of the waste makes agriculture a challenge, kanuti still guides them in the but bhukas use traditional dry-farm- Upper World by sending them ing techniques to grow their staple her spirit children to dwell foods of beans, sunflowers, desert among the villages. These grasses, and corn. The fields are not spirits are embodied in ritual plowed. Instead, tough native veg- masks, which clan elders don etation holds the soil in place, with for festival dances at specifi ed the crops planted in rows of deep times of the year. A mask’s spir- holes. Sometimes, the village spring it possesses the dancer wearing irrigates a terrace built below the it and is honored by the villagers house entrances for growing small, with feasting and prayers. tough melons that furnish both Bhukas acknowledge the exis- food and containers. Bhu- tence of hostile deities of the waste kas supplement their diet and take care not to offend them, with wild plants such as even holding an annual appease- cactus pads, fruits, and the ment ceremony at the winter meat of small animals. solstice. Unfortunately for the",
+        "name":  "Physical Description",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Religion is the glue bhukas, this practice does not usu- that holds a bhuka community togeth- ally deter the warlike followers of er. Each phratry is responsible for antagonistic deities. protecting a relic of the Emergence, Language: The bhukas do the time when the fi rst people came not have a literate society. All out from under the earth. For example, their lore is oral, supplemented by members of the Wokuhoo (Moon a rich library of symbols that adorn Owl) phratry are the caretakers of both artistic and everyday objects. the Talon, a relic of the bird that led Their language is distantly related their ancestors into the Upper World. They lead cer- to Goblin, but the two tongues di- emonies commemorating that event and control verged so long ago that most other imagery that appears in sacred art relating to it. goblinoids cannot understand Bhuka. The isolated Bhuka society is matriarchal, each village head- bhuka society offers little reason for its members ed by a Grandmother who presides over a council of male to learn Common, but many bhukas speak Draconic due and female elders. The Lower World from which the people to their trading relationship with the crucians. surfaced is known as the Second Womb, where the moth- Names: Bhuka names are long and carry much meaning, er deity, Kikanuti, nurtured them and taught them until but they retain the harsh syllables of the Goblin tongue. they were ready to emerge. (The more savage goblinoids, A typical bhuka has a given name, followed by the name they believe, are not yet mature and must stay beneath the of the mother’s clan (preceded by kha, or “born of”), and earth.) The Grandmother is the village’s link to Kikanuti the clan into which he or she has married (preceded by and presides over important ceremonies. gi). Children receive a pet name until they come of age Each bhuka village has a ceremonial pit, dug into a court- and choose a name that describes their personality. yard or sacred cave and covered with a lid of painted hides. Male Given Names: Aghila’ak (Runs Like Lizard), The walls are carved with traditional symbols that depict Cochik’ukan (Eyes of Sunhawk), Gistik’uwa (High-Kick the Emergence and subsequent migrations of the people, Dancer), Kotigana (Ears of Hare), Niskigan (Snake Fang), as well as images of friendly spirits, important landmarks, Piklit’akit (Jumping Mouse Grace), Takigini (Speaks with and food animals and plants. The most solemn rituals take Force), Wikitagan (Flight of Swallow). eitoC .M yb .sullI A bhuka elder 662200__1177773399__CChhpp22..iinndddd 4400 11//77//0055 33::2200::0033 PPMM 41 AND FEATS RACES, CLASSES CHAPTER 2",
+        "name":  "Religion",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Chinkichu (Basket of Corn), • +2 racial bonus on Constitution checks or Fortitude Hintak’inai (Painted Frill), Kekkoti (Little Ear), Lakinigo saves to resist harmful effects from heat and dehydration. (Slow Smile), Namatagi’na (Sings with Paint), Stikuchi Bhukas are toughened to the rigors of waste life. (Dancing Mother), Takihoti (Speaks with Wisdom), • +2 racial bonus on Knowledge (nature) checks. Knowl- Yukaki’na (Leader of Songs). edge (nature) is always a class skill for bhukas.",
+        "name":  "Female Given Names",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Clans carry the name of a totem spirit or • Heat Endurance: Bhukas gain Heat Endurance (see page relic of the Emergence. Examples: Chikuk (Sunhawk), Kek- 50) as a bonus feat. kinna (Ear of Corn), Kichu (Basket), Niski (Rattlesnake), • Automatic Languages: Bhuka and Common. Bonus Pitlitak (Jumping Mouse), Wiki’i (Swallow), Wokuhoo Languages: Draconic and Goblin. (Moon Owl). • Favored Class: Druid. A multiclass bhuka’s druid class",
+        "name":  "Clan Names",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Your aura radiates law with a strength equal Sorcerers of the waste often fulfi ll the role of shamans to your character level (see detect law, page 219 of the among the more savage people. Many have the blood of Player’s Handbook). If you ever lose favor with Tem-Et-Nu, brass dragons in their veins, giving them bronze complex- or change your patron deity to another deity, you lose ions and blazing eyes. all benefits of this feat and take damage as if you were",
+        "name":  "SORCERER Special",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As described for the sorcerer class, wizards EAGLE’S FURY in the waste can select the horned lizard as a familiar. You know how to wield the eagle’s claw with deadly speed.",
+        "name":  "Familiar",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Dex 15, profi ciency with eagle’s claw. NEW FEATS",
+        "name":  "Prerequisites",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Base Fortitude save +2. at least three days in the waste without water.",
+        "name":  "Prerequisite",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Base Fortitude save +6, Heat Endurance. ever lose favor with Aurifar, or change your patron deity",
+        "name":  "Prerequisites",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ability to turn or rebuke undead, access Having observed the ways of a desert viper, you have to either the Fire or Sun domain. learned to use ki in a fashion similar to poison.",
+        "name":  "Prerequisites",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any undead that you successfully turn or Prerequisites: Wis 15, Improved Initiative, Improved rebuke take 2d6 points of fi re damage in addition to the Unarmed Strike, Stunning Fist. normal turning or rebuking effect. Benefi t: You must declare that you are using this feat before you make your attack roll (thus, a failed attack roll PHARAOH’S FIST ruins the attempt). By expending one of your Stunning Fist Your unarmed strikes echo with thunder, stunning your uses for the day, you imbue your next unarmed attack with foe and those nearby. disruptive ki that mimics the effects of mild viper venom.",
+        "name":  "Benefit",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 15, Improved Unarmed Strike, If that attack hits, it deals normal damage and forces the Stunning Fist. target to make a Fortitude saving throw (DC 10 + 1/2 your",
+        "name":  "Prerequisites",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A fi ghter may select Pharaoh’s Fist as one of his You can hide yourself in sand with a moment’s notice. fi ghter bonus feats. Prerequisites: Hide 5 ranks, Sandskimmer.",
+        "name":  "Special",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Access to the Fire, Summer†, Sun, Travel, In areas with 12 inches or more of appropriate loose soil, or Water domain. you instead gain a +10 bonus on Hide checks. You must",
+        "name":  "Prerequisite",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Wis 13, Tumble 4 ranks. blinded for 1 round.",
+        "name":  "Prerequisites",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "In any round when you first move at least 10 feet using your Tumble skill in an area covered in a SANDSKIMMER layer of at least 1 inch of ash, dust, loose earth, or sand, You are particularly adept at moving over sand. you can supplement an attack made in that same round Benefi t: You treat shallow sand as normal terrain and with flung or kicked material. A foe damaged by your deep sand as shallow sand. Sand crust does not break attack must make a Fortitude saving throw (DC 10 + 1/2 beneath your feet, allowing you to move atop it as if it were your character level + your Wis modifier) or be blinded normal terrain. for 1 round. Special: This feat can be taken twice, allowing a crea- ture to treat all sand as normal terrain. Its effects also stack SAND SNARE similarly with other abilities that improve movement over When you knock your foes into sand. For example, if a bhuka takes Sand skimmer, the sand, they have a hard time she treats all sand as normal terrain and never regaining their feet. breaks through sand crust by mov-",
+        "name":  "Benefit",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "ing across it. Combat Expertise, Improved Trip. SCORPION’S",
+        "name":  "Prerequisites",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Wis 13, Tumble 8 ranks, Sand Dancer. the grapple while armed, however, you cannot make ad-",
+        "name":  "Prerequisites",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Dex 13, Hide 5 ranks. that is 5 feet beyond your normal unarmed reach. If the",
+        "name":  "Prerequisites",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Scorpion’s Resolve. cally visit the location to which you have forged a link,",
+        "name":  "Prerequisite",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The most common name of the touchstone site. to the shrine.)",
+        "name":  "Name",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Each location is rated with an encounter level that is A character who pushes his way to the front of the line, the average of common encounters for the site. Generally, or otherwise ignores the pleas of the disadvantaged, does sites with higher ELs offer better powers. not benefi t from the blessing of the shrine even if he pos-",
+        "name":  "EL",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The appearance and details of the touch- sesses the Touchstone feat. He can return after six months stone site. and try again.",
+        "name":  "Description",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Encounters that heroes might face when fi rst visiting the touchstone site, summarized on an Shrine at Kahar Encounters encounter table when appropriate. d% Encounter 01–20 Injured child (requires cure light wounds)",
+        "name":  "Initial Encounter",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Encounters that heroes 21–50 Injured adult (requires cure moderate wounds) might face on subsequent visits to the touchstone site. 51–75 Hysterical person (requires calm emotions)",
+        "name":  "Subsequent Encounters",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Once the characters clear Higher-Order Ability: The temporary hit points you the area around the pool of foes, subsequent visits have a gain from the base ability last for 24 hours. 10% chance of an encounter. If the characters fail to visit Higher-Order Uses: 6. the location for more than a year, roll for an encounter as if they had never visited the location. CRYPT OF BADR AL-MOSAK (EL 7)",
+        "name":  "Subsequent Encounters",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Roll on the Pyramid of Amun-Re",
+        "name":  "Initial Encounter",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Once the characters clear the fi rst time. area around the crypt, subsequent visits have a 10% chance of an encounter. If the visitors fail to visit the location for Pyramid of Amun-Re Encounters more than six months, roll for an encounter as if they had d% Encounter never visited the location. 01–10 1d6+5 bhuka explorers (bhuka warriors)†",
+        "name":  "Encounters table when the characters visit the site for the Subsequent Encounters",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any time visitors return to time you are asked to make an appropriate save. the pyramid after more than fi ve days, roll on the encoun- Recharge Condition: Pray at the foot of the sar- ter table again. cophagus.",
+        "name":  "Subsequent Encounters",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Travel to the top of the pyramid. ages, though its ancient traps and undead sentinels are still active. Said to contain the riches of generations of 662200__1177773399__CChhpp22..iinndddd 5566 11//77//0055 33::2200::4499 PPMM 57 AND FEATS RACES, CLASSES CHAPTER 2 emperors, the City of the Dead is a place many seek, but City of the Dead Encounters from which few return. Labyrinthine passages below d% Encounter 01–10 Acid fog trap1 the desert sands lead to burial chambers long closed and 11–20 Fusillade of greenblood oil darts trap1 sealed, each of which, in turn, is fi lled with all manner 21–30 Compacting room trap1 of deadly traps to ward off grave robbers. Those clever 31–40 Well-camoufl aged pit trap1 enough to outmaneuver the traps must still face legions 41–50 Spiked pit trap1 51–70 2 mummies of mummies, wraiths, and specters that seek to convert 71–80 2 wraiths intruders into unliving slaves. The greatest treasure, 81–85 3 mummies however, are the intricate mosaics of the Hall of the First 86–90 3 wraiths King. Those who translate their elaborate instructions 91–98 Spectre 99–100 Mummy lord (10th-level cleric) gain fantastic powers. 1 These traps are detailed in Chapter 3 of the Dungeon",
+        "name":  "Recharge Condition",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Roll on the City of the Dead Master’s Guide. Encounters table when the characters visit the site for the first time. Any undead encountered try to thwart on the City of the Dead encounter table once per day, attempts at fulfi lling the recharge conditions of the city’s rerolling trap results. The undead are not idle while the higher-order ability. They wait until the characters are characters linger. preoccupied before striking. Base Ability: You gain a +1 insight bonus on all Cha-",
+        "name":  "Initial Encounter",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You gain the Improved Heat Endur- ance feat.",
+        "name":  "Base Ability",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Roll on the Salt Statuary Encoun- Eternal Breath of Seneferu Encounters ters table the fi rst time the PCs approach the rift. d% Encounter 01–10 2 average xorns",
+        "name":  "Initial Encounter",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Once a character has proven herself worthy of a visit to the Vale of Dead Trees, the painted elves have a 25% chance of choosing to interact with the party. However, if the composition of the group has changed signifi cantly, the painted elves assume it’s a different group, and an encounter is guaranteed.",
+        "name":  "Subsequent Encounters",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You gain damage reduction 2/slashing.",
+        "name":  "Base Ability",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Once the PCs clear the Womb of Kikanuti. Sometimes the deity’s children come temple, subsequent visits have only a 10% chance of an to the bhukas and bring a message, requiring a pilgrim- encounter. If the characters fail to visit the location for age to the Womb. Sometimes the sacred site is defi led by more than six months, roll for an encounter as if they had the unworthy, and the normally peaceable bhukas go on never visited the location. a holy war to rescue and purify it. The Womb is the very",
+        "name":  "Subsequent Encounters",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sacrifi ce precious gems worth the cave is a small, pure pool of water that grants heal- at least 500 gp before Apep’s visage. ing to those who immerse themselves in it. When the bhukas fi rst arrived on the surface, the opening to the 662200__1177773399__CChhpp22..iinndddd 6622 11//77//0055 33::2211::0077 PPMM 63 AND FEATS RACES, CLASSES CHAPTER 2",
+        "name":  "Recharge Condition",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You gain a number of temporary hit points and Kikanuti diverted a stream into the lower ground to at the beginning of each day equal to your Wisdom bonus hide it. The stream is intermittent, pouring muddy water (minimum 1). Temporary hit points retained from the into the lake after storms and remaining bone-dry the previous day do not overlap with the temporary hit points rest of the year. from a new day.",
+        "name":  "Womb was in a dry valley, but they sealed the entrance Base Ability",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "If the visitors enter this real treasure is the great store of electrical energy the region again, they have a 50% chance of another encounter. dragons have left behind.",
+        "name":  "Subsequent Encounters",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Roll on the Blue Dragons’ Graveyard months, roll for an encounter as if they had never visited Encounters table when the characters fi rst visit the site. the location. Adventurers are likely in search of treasure and do not",
+        "name":  "If the characters fail to visit the location for more than six Initial Encounter",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The Blue Dragons’ Graveyard is never completely abandoned. Even if the characters clear the area, there is still a 40% chance of an encounter each time they visit the place.",
+        "name":  "Subsequent Encounters",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You gain electricity resistance 5.",
+        "name":  "Base Ability",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Handle Animal 4 ranks, Ride 8 ranks.",
+        "name":  "Skills",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "These prestige classes are powerful",
+        "name":  "Tied to Waste",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Mounted Combat, Ride-By Attack. within the waste, but considerably weaker beyond it.",
+        "name":  "Feats",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "They PCs trying to establish contact with an ashworm dragoon tend to be cooperative with each other and aggressive (for whatever reason) are best served by fi rst fi nding one of toward outsiders. They make important decisions quickly the large tribes that herd ashworms. Someone in the tribe and act on them independently. Most important, they have will have the skills of a dragoon, or know where dragoons a profound attachment to their animals. can be found. An ashworm herder leader is someone who can direct the movements of the herd and decide on an optimum ASHWORM DRAGOONS strategy for using scarce resources without having to IN THE GAME consult others. The leader aggressively defends the herd Questing dragoons can spread forth from the desert, and are by expanding territory at the expense of other tribes. potentially found in all arid and temperate environments. Members of herder tribes often acquire prestige and This prestige class is for those who like an honest, power by being brave and successful in raids, as well as stand-up fi ght, and it is most suited to fi ghters. While the by accumulating large ashworm herds. As a result, there is keeping and stabling of a mount might seem onerous to often a great gap in status between a young man or woman some, the benefi ts of a mount should not be dismissed and an elder of the herding tribe. lightly. Moreover, because an ashworm can climb even 662200__1177773399__CChhpp33..iinndddd 6699 11//77//0055 33::2233::2233 PPMM 70 3 RETPAHC EGITSERP SESSALC sheer walls, no dragoon should worry about bringing Skills and Feats: Climb +17, Listen +6, Spot +3, Survival an ashworm into a dungeon environment because of +5; Alertness, Iron Will, Lightning Refl exes. potential obstacles. Poison Stinger (Ex): Injury, Fortitude DC 16, initial damage 2d6 Str, secondary damage 2d6 Str. The save DC Adaptation is Constitution-based. The ashworm dragoon should fi t into any campaign with Evasive Diver (Ex): In areas of sand (not packed earth or little or no customization. stone), if Shabbak makes a successful Refl ex saving throw against an attack that normally deals half damage on a suc- Encounters cessful save, it instead manages to instantly dive below the The PCs should encounter only a few NPC ashworm dra- protective sand or earth and takes no damage. If Nebkhas goons. The fi rst time the characters come close to a desert’s is riding Shabbak at the time, and Shabbak succeeds at edge or must past through a sandy waste would be an ideal the saving throw, Nebkhas also takes no damage, as he is time for them to get the help of an accomplished dragoon. pulled beneath the sand along with his mount. EL 8: Nebkhas the ashworm dragoon might serve the characters as a guide, guard, chance acquaintance, or pos- LORD OF TIDES sibly as an enemy if the PCs fi nd themselves on the wrong side of a tribe of nomadic ashworm herders. “I am a physician with my fi nger on the pulse of the earth.”",
+        "name":  "Ashworm herders have distinct personality traits",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Scorpion’s Resolve. Obedient Ashworm (Ex): Nebkhas has an ashworm mount",
+        "name":  "Feats",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You must undergo an initiation ritual and return teristics are summarized below. with a relic (see Playing a Lord of Tides, below).",
+        "name":  "Special",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touchstone (City of the Dead).",
+        "name":  "Feat",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Diplomacy 8 ranks, Swim 4 ranks. 7th—banishment.",
+        "name":  "Skills",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You must be blessed by Tem-Et-Nu in a ritual held",
+        "name":  "Special",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Karlott gains special benefi ts from having a special mount. These abilities apply only when Entry Requirements Karlott has summoned Shavak. Base Attack Bonus: +3.",
+        "name":  "Special Mount Benefi ts",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hide 8 ranks, Knowledge (nature) 4 ranks, Survival Empathic Link (Su): Karlott can communicate telepathi- 4 ranks. cally with Shavak at a distance of up to 1 mile. The master",
+        "name":  "Skills",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any nongood. dust has no effect and drifts harmlessly to the ground.",
+        "name":  "Alignment",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Heat Endurance. An opponent who fails this save contracts the wasting,",
+        "name":  "Feat",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "This suit is designed to protect against the approximate price a particular sculpture would fetch heat. It consists of heavy pants and coat, a specially treated in wider markets. Use Table 3–7: Art Objects, page 55 of leather apron, thick mittens, a thick hood, and goggles. the Dungeon Master’s Guide, to determine the price of an A heatsuit outfi t prevents 3 points of lethal or nonlethal asherati sand sculpture found in a treasure hoard or in damage per round from hot environments. Although the the marketplace. outfi t is heavy clothing, its heat-resistant materials negate Blackeye: This oily paint is smeared around your eyes the usual –4 penalty on Fortitude saves against damage and on your cheeks to reduce the effects of bright sun, dealt by hot environments. protecting you from sun glare for 4 hours.",
+        "name":  "Heatsuit Outfi t",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Huge vehicle; Profession (sailor) +2; Spd depending on the wind, and requires flat, open sand on wind × 10 ft. (nautical good) or 20 ft. during daylight; which to move. Overall AC 1; Section hp 40 (hardness 5); Section AC 3; Sand Schooner: Gargantuan vehicle; Profession (sailor) Rigging 30 hp (hardness 0), AC 3; Ram 4d6; Space 20 +2; Spd wind ×20 ft. (nautical average); Overall AC –3; ft.; Height 10 ft. (draft 5 ft.); Crew 4; Cargo 10 tons; Cost Section hp 25 (hardness 5); Rigging 15 hp (hardness 0), 3,000 gp. Section AC 3; Ram 8d6; Space 40 ft.; Height 15 ft.; Crew This vehicle is similar to a small keelboat—it is a 15; Cargo 50 tons; Cost 8,500 gp. 20-foot ship without oars—except that it has stabiliz- Though rarely seen, the sand schooner is a popular ing runners along each side. It has a single mast on vehicle among certain deep-desert denizens, who use it as which a sail can be set. A blade is sturdily mounted on a merchant vessel and as a warship. A sand schooner has the bottom exterior of the vehicle, running the whole enough room on its deck for two light catapults or ballistas. length of the hull, and similar blades are attached to each Because ships that travel on sand need not worry about runner. The rudder is another blade that drags behind sinking, a schooner’s cargo holds have additional hatches the ship, allowing it to be steered. This confi guration located on either side of the hull. These two doors are allows the vehicle to skate on glass seas at a rate of 1 to built to pivot downward and create a simple but effective 3 miles per hour. An empty cloudskate can carry up to cargo ramp. A sand schooner moves 2 to 7 miles per hour, twenty passengers. depending on the wind, and requires fl at, open sand on",
+        "name":  "Cloudskate",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Protects against suffocation and Granted Power: Once per day, you can inspire allies dangerous vapors. that hear you speak for 1 round. Each such ally gains a",
+        "name":  "Freedom of Breath",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Creates a 20-ft.-radius area of black sand. a number of rounds equal to your Charisma modifier",
+        "name":  "Black Sand",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Raise or lower the level of sand. (minimum 1 round).",
+        "name":  "Control Sand",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Absorb 10 points/level 1 Divine Favor: You gain +1 per three levels on attack of dessication damage. and damage rolls.",
+        "name":  "Protection from Dessication",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Wall of salt that can be shaped. 4 Discern Lies: Reveals deliberate falsehoods.",
+        "name":  "Wall of Salt",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Wall impedes movement, obscures vision, 5 Command, Greater: As command, but affects one and blocks some attacks. subject/level.",
+        "name":  "Wall of Sand",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Imhotep, Thoth. 4 Blast of Sand†: Cone deals 1d6 damage/level.",
+        "name":  "Deities",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Zoser. 2 Sunstroke†: Target takes 2d6 nonlethal damage and",
+        "name":  "Deity",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Azul. Control Sand: Raise or lower the level of sand.",
+        "name":  "Deity",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Reveals location, size, and quality of on sand. water sources. Flaywind Burst: Cone blows away and knocks down",
+        "name":  "Locate Water",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Protects against suffocation and per level. dangerous vapors. Transmute Stone to Sand: Transforms two 10-ft. cubes",
+        "name":  "Freedom of Breath",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Transmute rock or earth into boiling muck. resistance to dehydration.",
+        "name":  "Scalding Mud",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Wave of water smashes everything in its path sication damage and possibly 1 Con damage. and fl oods area. Trans Sunstroke: Target takes 2d6 nonlethal damage",
+        "name":  "Flashfl ood",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Heals dessication damage. level of dessication damage.",
+        "name":  "Hydrate",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Reveals location, size, and quality of a wall-like trail of fl ame in your wake. water sources. Storm Mote: Dust devil of fl ensing sand.",
+        "name":  "Locate Water",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Protects against suffocation and are diverted to a random wasteland. dangerous vapors. Wall of Salt: Wall of salt that can be shaped.",
+        "name":  "Freedom of Breath",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Swirling sand grants +1 deflection Wall of Sand: Wall impedes movement, obscures bonus/3 levels. vision, and blocks some attacks.",
+        "name":  "Halo of Sand",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Transforms two 10-ft. 6th Level Psion/Psychic Warrior/Wilder Powers cubes per level. Inconstant Location: Slightly detuned from time allows",
+        "name":  "Transmute Sand to Glass",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Transforms two 10-ft. swift instantaneous moves in combat. cubes per level.",
+        "name":  "Transmute Sand to Stone",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sorcerer/wizard 6 ANTIFIRE SPHERE You bring into being a mobile, spheri- Components: V, S, M",
+        "name":  "Level",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action",
+        "name":  "Abjuration cal energy fi eld that protects against Casting Time",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action In addition, the sphere prevents the Duration: Instantaneous",
+        "name":  "Casting Time",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sorcerer/wizard 2 the same statistics as a Huge animated Casting Time: 1 standard action",
+        "name":  "Level",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S object with a base land speed of 40 feet Range: Medium (100 ft. + 10 ft./level)",
+        "name":  "Components",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action and a burrow speed of 20 feet. Unlike Area: 20-ft.-radius spread",
+        "name":  "Casting Time",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Medium (100 ft. + 10 ft. level) normal animated objects, awakened Duration: 1 min./level",
+        "name":  "Range",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "One ashstar; see text sand beings have the earth subtype, Saving Throw: Reflex negates;",
+        "name":  "Effect",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round/level and their Intelligence, Wisdom, and see text",
+        "name":  "Duration",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 4, Sand 4, sorcerer/ as if passing through the wall. If any thereby protected from sunburn, able wizard 4 5-foot length of wall takes 20 points to begin recovering from sun glare,",
+        "name":  "Level",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M of cold damage or more in 1 round, and able to begin healing nonlethal",
+        "name":  "Components",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action that section goes out. damage taken from exposure to heat.",
+        "name":  "Casting Time",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. Material Component: A small piece Cloak of shade has no effect on light,",
+        "name":  "Range",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous light effects, and it offers no protec-",
+        "name":  "Duration",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M making a Fortitude save. If it chooses",
+        "name":  "Components",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action not to do so, it must make Constitution Depending on the version you",
+        "name":  "Casting Time",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Personal; see text checks to avoid suffocation (see page choose, control sand raises or lowers",
+        "name":  "Range",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You 304 of the Dungeon Master’s Guide). fi ne particles of",
+        "name":  "Target",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round/level (D) Material Component: A tiny stuffed material, such animal fi lled with sand. as dust or You are surrounded in fl ame, which sand. does not harm you or your equip- CLOAK OF ment. When you move, you leave a SHADE vertical trail of fl ame in your wake. Abjuration",
+        "name":  "Duration",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sand 8, sorcerer/wizard 8 to howl with the wind. Because of its Forms of travel taken over by desert di-",
+        "name":  "Level",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M version include dimension",
+        "name":  "Components",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 door, ethereal jaunt, minute etherealness, gate,",
+        "name":  "Casting Time",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Close (25 ft. + greater teleport, 5 ft./2 levels)",
+        "name":  "Range",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cleric 2, druid 2, sorcerer/ You choose to use dispel water in Range: 120 ft. wizard 2, Thirst 2 one of three ways: to dry up a body of Area: Cone-shaped spread",
+        "name":  "Level",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action or effect, or to dismiss an extraplanar Saving Throw: See text",
+        "name":  "Casting Time",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous destroys 200 cubic feet of water per You create a roaring, frothing wall of",
+        "name":  "Duration",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fortitude partial level. Remaining water rushes in to water 10 feet high that erupts from",
+        "name":  "Saving Throw",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 5, sorcerer/wizard 5 Material Component: A lump of Level: Cleric 2, druid 2, paladin 2,",
+        "name":  "Level",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M rock salt. ranger 2",
+        "name":  "Components",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Components: V, S, M",
+        "name":  "Casting Time",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Medium (100 ft. + 10 ft./level) FLESH TO SALT, MASS Casting Time: 1 standard action",
+        "name":  "Range",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A glass marble. dust, or sand. Casting Time: 1 standard action",
+        "name":  "Material Component",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels)",
+        "name":  "Range",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cylinder (10-ft. radius, 20 ft. Conjuration (Creation) [Air, Earth] Abjuration [Earth] high)",
+        "name":  "HABOOB HALO OF SAND Area",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cleric 3, druid 3, ranger 3, Level: Druid 2, ranger 2 Duration: 10 min./level (D) Sand 3, sorcerer/wizard 3 Components: V, S, DF Saving Throw: None",
+        "name":  "Level",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Range: Personal",
+        "name":  "Casting Time",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Abrasive dust spreads in 20-ft. Duration: 10 min./level a comfortable glow in a stationary radius, 20 ft. high area, dropping the temperature by",
+        "name":  "Effect",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None or Refl ex half; sand that swirls and twists around effect gain a one-step improvement see text your body, helping to defl ect incom- in protection against heat, are not",
+        "name":  "Saving Throw",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A large lake (up to 10 million mephits, you can direct them not to You fl ash-heat the air in an area, boil- cubic feet) or a broad river. attack, to attack particular enemies, ing the blood and baking the brains",
+        "name":  "Large",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action",
+        "name":  "Transmutation when you cast it to summon salt Casting Time",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cleric 9, druid 8 mephits. Range: Touch",
+        "name":  "Level",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action MUMMIFY touched (up to one/level)",
+        "name":  "Casting Time",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch Necromancy Duration: Instantaneous",
+        "name":  "Range",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous wizard 6 see text",
+        "name":  "Duration",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, DF supernatural abilities are suppressed Components: V, S",
+        "name":  "Components",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch which you have components. Range: 40 ft./level",
+        "name":  "Range",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10 min./level or until Any time you are in a demanding ft. high discharged situation (such as combat), you must Duration: 10 min./level",
+        "name":  "Duration",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 4, sorcerer/wizard 4 (Wind strength and related dust- Diminutive 1",
+        "name":  "Level",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M storm effects are briefl y summarized Tiny 1d4",
+        "name":  "Components",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Small 1d6 below, with more detail found on",
+        "name":  "Casting Time",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Personal Medium 1d8 page 16.) Each round on your turn, Large 2d6",
+        "name":  "Range",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 6, sorcerer/wizard 6 blade deals 1d6 points of damage, +1 Level: Druid 4, ranger 3, Summer 4",
+        "name":  "Level",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M/DF point per two caster levels (maximum Components: V, S, M",
+        "name":  "Components",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action +10). The blade is not solid, so your Casting Time: 1 standard action",
+        "name":  "Casting Time",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Medium (100 ft. + 10 ft./level) Strength modifi er does not apply to Range: Touch",
+        "name":  "Range",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "See text sand without penalty even if you lack Duration: 10 min./level",
+        "name":  "Saving Throw",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A cactus spine. Casting Time: 1 standard action the casting is complete, you and not",
+        "name":  "Material Component",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels) more than 100 pounds of nonliving",
+        "name":  "Range",
+        "source":  "sandstorm_mastering_the_perils_of_fire_and_sand.txt",
+        "_id":  "3d7777baffdd29c2eff31697ceae2772ff3e6f90b78ecea85f0fb604da602aed"
+    }
+]

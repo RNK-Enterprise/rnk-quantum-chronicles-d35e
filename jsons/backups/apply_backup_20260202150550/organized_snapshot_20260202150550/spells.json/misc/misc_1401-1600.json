@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can spend a turn or rebuke attempt as a free mental subtype. action and roll a turning check (with a special +3 bonus, plus Benefi t: You can spend a rebuke attempt as a standard any other modifi ers youÆd normally apply to your turning action to send a burst of healing energy in a 60-foot burst. check). Treat the result of the turning check as a modifi er This affects all creatures with an elemental subtype that to your caster level on the next divine spell you cast in that you could normally rebuke; such creatures are healed of round. 1d8 points of damage per two cleric levels. For example, if a cleric used this feat and rolled a 16 on his For example, a cleric with the Fire domain could use this turning check, he would add a +2 bonus to his caster level feat to heal a fi re elemental or any other creature with the for the next divine spell he casts in the round. Had he rolled fi re subtype (since he would normally rebuke creatures an 8, he would instead apply a û1 penalty to his caster level with the fi re subtype with his domain power). for the next divine spell he cast in the round. Special: You may only activate this feat by spending If you donÆt cast a divine spell before your next turn, you a rebuke attempt that would normally be used to rebuke lose the effect of the check result. This feat has no effect on creatures with a specifi c elemental subtype (air, earth, fi re, your arcane spellcasting ability. or water). Unlike other divine feats, you canÆt use a turn or rebuke undead attempt (or other turning attempt) to acti- vate the feat.81 RULES SUPPLEMENTAL CHAPTER 3 For example, a cleric with the Fire domain could use this feat to smite a water elemental or any other creature with the water subtype (since he would normally turn creatures with the water subtype with his domain power).",
+        "name":  "Benefi t",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Once per round, you can spend a turn attempt as a free action when making a melee attack. If you success- FAST WILD SHAPE [WILD] fully strike a creature that you could turn with that turn You assume your wild shape faster and more easily than you attempt because of its elemental subtype, you may add a otherwise could. bonus on your damage roll equal to your cleric level. If your Prerequisite: Dex 13, ability to use wild shape. attack misses, the turn attempt is lost to no effect. Illus. by T. Baxa A corrupted call lightning spell82 3 RETPAHC LATNEMELPPUS SELUR",
+        "name":  "Benefi t",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Whenever you make a smite attack, your attack overcomes damage reduction as if had an alignment, and PRACTICED SPELLCASTER [GENERAL] you deal an extra +1d6 points of damage to targets of a spe- Choose a spellcasting class that you possess. Your spells cast cifi c alignment. from that class are more powerful.",
+        "name":  "Benefi t",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spellcraft 4 ranks. it deals its extra damage to foes of that alignment and it Benefi t: Your caster level for the chosen spellcasting is treated as having the opposite alignment for overcom- class increases by +4. This canÆt increase your caster level ing damage reduction. For example, a paladinÆs smite evil beyond your HD. However, even if you canÆt benefi t from attacks are treated as having the good alignment and deal the full bonus immediately, if you later gain noncaster-level +1d6 damage to evil targets, while a blackguardÆs smite HD you may be able to apply the rest of the bonus. good attacks are treated as having the evil alignment and For example, a human 5th-level cleric/3rd-level fi ghter who deal +1d6 damage to good targets. selects this feat would increase his cleric caster level from 5th If the smite attack has no alignment associated with it, to 8th (since he has 8 HD). If he later gained a fi ghter level, he you must choose an alignment component (chaotic, evil, would gain the remainder of the bonus and his cleric caster good, or lawful) when you select the feat. Your smite attacks level would become 9th (since he now has 9 HD). overcome damage reduction as if they had that alignment, A character with two or more spellcasting classes (such as and deal +1d6 points of damage to foes of the opposite a bard/sorcerer or a ranger/druid) must choose which class alignment. gains the featÆs effect. For example, a lawful neutral cleric of St. Cuthbert with This does not affect your spells per day or spells known. the Destruction domain who selected this feat must choose It only increases your caster level, which would help you for his smite attacks to be lawfully aligned (and these attacks penetrate SR and increase the duration and other effects of would deal +1d6 points of damage to chaotic targets). A your spells. ronnoCÆO .W yb .sullI84 3 RETPAHC LATNEMELPPUS SELUR",
+        "name":  "If the smite attack has an alignment associated with it, Prerequisite",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You may select this feat multiple times. Each Benefi t: You can spend a turn attempt as standard action time you choose it, you must apply it to a different spellcast- to place an aura of positive energy upon each creature ing class. For instance, a 4th-level cleric/5th-level wizard within a 60-ft. burst. Any cure spell cast on one of these who had selected this feat twice would cast cleric spells as creatures before the end of your next turn is automatically an 8th-level caster and wizard spells as a 9th-level caster. maximized, with no adjustment to the spellÆs level or casting time. PROFANE BOOST [DIVINE] You can channel negative energy to increase the power of SACRED HEALING [DIVINE] infl ict wounds spells cast near you. You can channel positive energy to grant nearby living crea-",
+        "name":  "Special",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Only spells with a casting time greater than 1 SERPENTÆS VENOM [WILD] standard action can be made rapid. A rapid spell with a cast- You can deliver a toxic bite attack reminiscent of the viper. ing time of 1 full round can be cast as a standard action. A Prerequisite: Ability to wild shape. rapid spell with a casting time measured in rounds can be Benefi t: You can spend a usage of wild shape to gain cast in 1 full round. Rapid spells with casting times mea- a secondary bite attack (at your base attack bonus û5 and sured in minutes can be cast in 1 minute, and rapid spells adding 1/2 your Strength bonus) that deals bludgeoning, with casting times measured in hours can be cast in 1 hour. piercing and slashing damage equal to a dagger appropriate A rapid spell uses up a spell slot one level higher than the to your size (1d4 for Medium, or 1d3 for Small). In addition, spellÆs actual level. the bite delivers a toxic venom (Fortitude save DC 10+ 1/2",
+        "name":  "Benefi t",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You may cast a spell that normally has a range Prerequisite: Relevant alignment. of touch at any distance up to 30 feet. The spell effectively Benefi t: Add +1 to the DC for all saving throws against becomes a ray, so you must succeed on a ranged touch attack any of your spells that have an alignment descriptor (chaos, to bestow the spell upon the recipient. A reach spell uses up evil, good, or lawful) that matches your alignment. This a spell slot two levels higher than the spellÆs actual level. bonus does not stack with any other bonus from Spell Focus feats. SACRED BOOST [DIVINE] Special: This feat can be taken twice, choosing a different You can channel positive energy to increase the power of alignment descriptor each time. cure wounds spells cast near you.",
+        "name":  "Benefi t",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Knowledge (religion) 4 ranks, nonevil alignment, able to cast any cure wounds spell.85 RULES SUPPLEMENTAL CHAPTER 3",
+        "name":  "Prerequisites",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can use your spellcasting ability to sponta- enabling you to breathe underwater (while retaining your neously cast cure spells (from your class spell list) just as a ability to breathe air). Webbing also grows between your cleric can. You may use this ability a total number of times fi ngers and between your toes, granting you a Swim speed per day equal to your Wisdom modifi er. of 40 ft. and a +8 bonus on your Swim checks. The effect lasts for one hour. SPONTANEOUS SUMMONER [GENERAL] TRANSDIMENSIONAL SPELL",
+        "name":  "Benefi t",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can spontaneously cast summon natureÆs ally within the spellÆs area. spells (from your class spell list) just as a druid can. You may Benefi t: A transdimensional spell has full, normal effect use this ability a total number of times per day equal to your upon incorporeal creatures, creatures on the Ethereal Plane Wisdom modifi er. or Plane of Shadow, and creatures within an extradimen- sional space in the spellÆs area. Such creatures include ethe- SPONTANEOUS WOUNDER real creatures, creatures that are blinking or shadow walking, [GENERAL] manifested ghosts, and creatures within the extradimen-",
+        "name":  "Benefi t",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Wis 13, Knowledge (religion) 4 ranks, sional space of a rope trick or portable hole. nongood alignment, able to cast any infl ict wounds spell. You must be able to perceive a creature to target it with a",
+        "name":  "Prerequisites",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can use your spellcasting ability to sponta- spell, but you do not need to perceive a creature to catch it neously cast infl ict spells (from your class spell list) just as a in the area of a burst, cone, emanation, or spread. cleric can. You may use this ability a total number of times A transdimensional spell uses up a spell slot one level per day equal to your Wisdom modifi er. higher than the spellÆs actual level.",
+        "name":  "Benefi t",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Only force spells and effects can affect ethereal SWIM LIKE A FISH [WILD] creatures, and no Material Plane attack affects creatures on You can breathe and swim underwater with grace. the Plane of Shadow or in an enclosed extradimensional",
+        "name":  "Normal",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ability to wild shape. space. There is a 50% chance that any spell other than a",
+        "name":  "Prerequisite",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can spend one wild shape to grow gills, force effect fails against an incorporeal creature. Illus. by J. Pavelec Transdimensional web spell86 3 RETPAHC LATNEMELPPUS SELUR TRUE BELIEVER [GENERAL] Table 3û2: Faith Point Awards Your deity rewards your unquestioning faith and dedica- Circumstance Award Demonstrate faith to NPCs or PCs 1 per session tion.",
+        "name":  "Benefi t",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Knowledge (religion) 2 ranks. Pious Defense* Knowledge Spend faith point to Benefi t: When you would be reduced to 0 hit points or (religion) 2 ranks avoid deadly damage less by damage, you can spend 1 faith point to take only half Pious Soul* Knowledge Spend faith point to damage. (religion) 2 ranks gain +1d6 on attack, save, or check Special: When chosen, this feat gives you 4 faith points, Pious Spellsurge* Knowledge Spend faith points to and you may earn additional faith points as outlined in the (religion) 4 ranks improve a spell you Faith Feats section. cast",
+        "name":  "Faith Feats Prerequisites Benefi t Prerequisite",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "When you perform deeds Pious Soul [Faith] that advance the cause of the religion or philosophy you By adhering to the precepts of your religion or philosophy, espouse, you earn more faith points. The DM awards faith you gain an extra edge when you need it most. points based on the magnitude of the deed and how well Prerequisite: Knowledge (religion) 2 ranks. your character is ôwalking the walk.ö Benefi t: You can spend a faith point to add 1d6 to your As a rough guide, your character should probably earn (5 d20 roll on an attack, save, or checkùeven after youÆve seen + one-half your character level) faith points per level. These the d20 roll, as long as the DM hasnÆt announced whether earnings can vary widely; some adventures involve matters youÆve succeeded or failed. You can choose to spend more critical to your faith, while others involve more secular dan- than one faith point at a time in this way. gers and dilemmas. Special: When chosen, this feat gives you 4 faith points, The DM is the arbiter of how many faith points youÆll earn and you may earn additional faith points as outlined in the (usually at the end of the session, although the DM can also Faith Feats section. award them on the spot). The following table gives some example faith point awards.87 RULES SUPPLEMENTAL CHAPTER 3 Pious Spellsurge [Faith] Undead with turn resistance may subtract that number You can use the strength of your faith to augment a spell cast from the damage that they take from each turn attempt. For at a critical juncture. example, a vampire with turn resistance 4 takes 4 fewer hit",
+        "name":  "Getting More Faith Points",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "By spending 2 faith points when you cast Turn resistance does not reduce the effects of the a spell, you gain a +1d6 bonus to the DC of any save healing that evil clerics provide with their turn required to resist the spell or to your caster level attempts. for that spell. When using this ability against incorporeal",
+        "name":  "Benefi t",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  " EPIC DIVINE DESTRUCTION OF THE UNDEAD CHARACTERS Instead of the turn undead rules in the PlayerÆs Handbook, some DMs might decide to use these The PlayerÆs Handbook establishes 20th level turn undead rules. Instead of making undead as the limit to a characterÆs power and expe- run and cower, turn attempts deal positive rience. The Dungeon MasterÆs Guide, however, energy damage to all undead within 30 ft. of provides rules for going beyond that limit to the cleric. The goal of the system was to have the 21st level and onward. Such characters are cleric contribute to the destruction of the undead in called epic-level characters and use slightly a fashion that interacts well with the other characters in modifi ed rules to govern their interactions. the party such as the fi ghter and wizard. Sometimes when This section addresses some issues relevant to epic undead are turned they run away and are never seen again, divine characters, from becoming an epic-level character, or they are destroyed outright. Other times when undead to advancing to epic levels in prestige classes, to new epic are turned, there are no effects at all. Some DMs fi nd the feats. range of possibilities too widely varied or too complicated BECOMING AN EPIC-LEVEL and for those DMs we provide this more consistent, simpler DIVINE CHARACTER method of dealing with the turning of undead. Turning undead is a standard action that deals 1d6 The passage from everyday hero to epic hero isnÆt a given damage/cleric level to all undead within 30Æ of the cleric. fact of life in all games. Every DM has his own opinions The affected undead get a Will save (DC 10+ cleric level + about how (or if) to incorporate epic-level characters Charisma modifi er) for half damage. into the campaign. Assuming that your campaign offers Evil clerics (any cleric that can swap out spells for infl ict characters the opportunity to achieve 21st level, this spells) instead heal undead within 30 ft. for 1d6/cleric level. section provides some advice for the player and DM of Paladins work just as you would expect, they turn undead a divinely themed character to use when approaching as a cleric 3 levels lower. that point. Illus. by A. Swekel pqqqqqqqqqqqqqqqqqqqqrs",
+        "name":  "VARIANT TURNING RULES",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The player has the right to expect that of the other PCs. most adventures will offer him a chance to earn enough faith Awarding faith points is really no different that the unspoken points to make his feat choices worthwhile. Furthermore, agreement all players have with their DM: ômake things chal- choosing one or more faith feats shouldnÆt put characters into lenging but not impossible for us, and show us a good time.ö a straitjacket. Roleplaying a pious PC doesnÆt mean roleplay- But because faith feats involve moral and ethical issues, this ing a monomaniacal zealot who views everything through the agreement is sometimes thrown into sharper relief. The faith window of his deityÆs dictates. Not every encounterùor even feats arenÆt for everyone, but they can enrich the roleplaying every adventureùshould involve some sort of agonizing moral experience as long as player and DM respect the goal of fun at dilemma for the PC. the game table. pqqqqqqqqqqqqqqqqqqqqrs88 3 RETPAHC LATNEMELPPUS SELUR Many legendary heroes are defi ned in literature by their When an epic-level character advances a prestige class strong connections to the divine. In some cases, the con- beyond 10th level, he follows all the rules presented in the nection is a physical one. Both Hercules and Gilgamesh Dungeon MasterÆs Guide. In addition, you must create an epic- were of divine blood, the semidivine children of the gods level progression for your prestige class, just as the Dungeon themselves. Other examples of the children of deities (usu- MasterÆs Guide presents epic-level progressions for the classes ally born of union between deity and mortal) exist in most from the PlayerÆs Handbook. Many, but not all, class features religions. Such heroes may start out as ômore than human,ö continue to accumulate after 10th level. The following with special powers that mark them as different from those guidelines describe how to create an epic class progression, around them, but in other cases, these individuals must and are followed by a sample epic progression for the holy undergo great tests or trials to claim their birthright of liberator prestige class (presented in Chapter 2). power. Another common story element in tales about such heroes is the redemptive quest; a hero of divine blood whose ò As noted earlier, your base save bonuses and base attack great power has led to hubris and an equally great downfall bonus donÆt increase after 20th character level. Since must atone for his wrongs by completing a selfl ess task of you canÆt achieve 11th level or higher in a prestige class great magnitude. without being at least a 21st-level character, there are no The connection of other heroes to the divine is a philo- columns for base saves or base attacks for these classes sophical one, based in great devotion to a holy (or unholy) beyond 10th level. Instead, use Table 6û18: Epic Save and cause. Sir GalahadÆs devotion to a holy cause marked him Epic Attack Bonuses, page 206 of the Dungeon MasterÆs as unique among the Knights of the Round Table. This Guide, to determine the characterÆs epic bonus on saving connection is perhaps simpler to apply to a typical D\u0026D throws and attacks. gameùmost paladins and clerics fall into this category, as ò You continue to gain Hit Dice and skill points as normal does any other character who associates himself strongly beyond 10th level. with a particular deity or faith. Such characters are marked ò Generally speaking, any class feature that uses your class by their strong devotion to a diffi cult life-path, which level as part of a mathematical formula, such as a loremas- might include celibacy, poverty, or simply unquestioning terÆs lore check, continues to increase as normal by class service to a higher power. These characters might achieve level. However, any prestige class feature that calculates a epic levels only after passing one or more great tests of their save DC using the class level (such as the assassinÆs death devotion. attack) should add only half the characterÆs class levels above 10th. Thus, a 34th-level assassinÆs death attack EPIC-LEVEL PRESTIGE-CLASS would have a DC of 27 + Intelligence modifi er (10 + class CHARACTERS level up to 10th + 1/2 class levels above 10th). Without this The Dungeon MasterÆs Guide has information on advancing adjustment, the save DC for epic-level character prestige the core classes beyond 20th level. You can also advance the class abilities increases at a much greater rate than those class level of a ten-level prestige class beyond 10th level, but of normal class abilities. only if your character level is already 20th or higher. You ò For spellcasters, your caster level continues to increase cannot advance the class level of a class with fewer than 10 after 10th level at the same rate it did during the 10 levels levels beyond the maximum described for that class, regard- of your prestige class. Thus, a 13th-level loremaster adds less of your character level. 13 to his caster level derived from another class to deter- pqqqqqqqqqqqqqqqqqqqqrs",
+        "name":  "Player Expectations",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Benefi t: You gain a +4 bonus on saves against spells of The Epic Holy Liberator the chosen alignment component. For instance, a lawful An epic holy liberator displays an incredible devotion to good paladin of Helm who selected ôchaosö would gain a the cause of freedom. His implacable quest to overthrow +4 bonus on saves against chaotic spells. That paladin could tyranny shall not be easily thwarted. not select ôgoodö or ôlawö because they are part of her own",
+        "name":  "Sample Prestige Class Epic Progression",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bless 3/day, cure moderate wounds on wielder either sacrifi ce a 6th-level divine spell slot or have the 3/day, faerie fi re 3/day. True Believer feat and at least 11 HD.",
+        "name":  "Lesser Powers",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Continuous detect scrying ò Create a treant (as the changestaff spell, but the treant effect, arcane eye 1/day. emerges from the acorn) anywhere it will physically fi t.",
+        "name":  "Greater Powers",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Defeat/slay divine spell- ò Create a wall of thorns (as the spell) casters. ò Create an acorn grenade that be hurled up to 100 feet away,",
+        "name":  "Special Purpose",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  " Illusion Violet The scrolls of uncertain provenance are not Necromancy Black spells stored in written form. Instead, Transmutation Orange they are a collection of death-obsessed writings in an unknown hand. Those To use this relic, you must worship Boccob and either who can command the lore with a set sacrifi ce an 8th-level divine spell slot or have the True of scrolls of uncertain provenance, it is Believer feat and at least 15 HD. said, have power over life and Strong abjuration; CL 15th; Sanctify Relic, death itself. Craft Rod, spell turning, creator must worship But there are several barriers Boccob;Price 132,000 gp; Weight 5 lb. to understanding the lore of the",
+        "name":  "Evocation Red Their name is something of a misnomer",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "ò Eyebite (2 charges) Used to trap ò Wrack (1 charge) foes without killing ò Infl ict serious wounds (1 charge) them, a staff of the gaol Moderate necromancy; CL 11th; Craft allows use of the following Staff, eyebite, infl ict serious wounds, wrack; spells: Price 27,844 gp. ò Hold monster (1 charge) Planar Defense: This silvery staff with ò Blade barrier (1 charge) green crystals on both ends allows use of ò Dimensional anchor (1 charge) the following spells: Moderate evocation; CL 11th; Craft Staff, ò Banishment (2 charges) blade barrier, dimensional anchor, hold monster; ò Subvert planar essence (1 charge) Price 51,563 gp. ò Dismissal (1 charge)",
+        "name":  "The Gaol",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This staff improves a druidÆs ò Dimensional anchor connection with the surrounding terrain, and (1 charge) allows use of the following spells: Moderate ò Find the path (1 charge) abjuration; ò Commune with nature (1 charge) CL 11th; Craft ò Forestfold (1 charge) Staff, banishment, Moderate divination; CL 11th; Craft Staff, com- dimensional anchor, mune with nature, fi nd the path, forestfold; Price 48,469 gp. dismissal, subvert planar essence; Price 44,344 gp.",
+        "name":  "Homeland",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This white-ash staff allows use of the The Saintly, Lesser: This staff, which benefi ts lawful following spells: good spellcasters the most, allows use of the following ò Spirit bear (2 charges) spells: ò Spirit wolf (1 charge) ò Dispel evil (2 charges) Strong conjuration; CL 17th; Craft Staff, spirit bear, spirit ò Dispel chaos (2 charges) wolf; Price 66,938 gp. ò OrderÆs wrath (1 charge)",
+        "name":  "Hunting Spirits",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This iron-shod staff, often decorated with ò Holy smite (1 charge) the holy symbol of a specifi c deity, allows use of the follow- Moderate abjuration; CL 9th; Craft Staff, dispel chaos, dispel ing spells: evil, holy smite, orderÆs wrath; Price 28,266 gp. ò Greater incarnation The Saintly, Greater: A more powerful version of lesser (3 charges) staff of the saintly, this staff allows use of the following ò Incarnation (2 charges) spells: ò Lesser incarnation (1 charge) Strong conjuration; CL 17th; Craft Staff, greater incarnation, incarnation, lesser incarnation; Price 60,563 gp.",
+        "name":  "Incarnation",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The staff of the jetstream, made of teak with gold fi ligree, allows use of the following spells: ò Greater whirlwind (2 charges) ò Wind walk (1 charge) ò Whirlwind (1 charge) Strong conjuration; CL 17th; Craft Staff, greater whirlwind, whirlwind, wind walk; Price 89,250 gp.",
+        "name":  "The Jetstream",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Intended to help a druid protect herself in the wild, this thick staff of black oak allows use of the following spells: ò Shillelagh (1 charge) ò Spikes (1 charge) Moderate transmutation; CL 8th; Craft Staff, shillelagh, spikes; Price 13,500 gp.",
+        "name":  "Oaken Battle",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A gnarled staff favored by powerful druids, a staff of storms allows use of the following spells: ò Storm tower (1 charge) ò Stormrage (1 charge) ò Storm of elemental fury (1 charge) ò Control weather (1 charge) Strong transmutation; CL 15th; Craft Staff, ò Word of chaos control weather, storm of elemental fury, storm tower, (1 charge) stormrage; Price 118,125 gp. ò Blasphemy",
+        "name":  "Storms",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This maple staff, designed both to (1 charge) reward the faithful and punish the unbelievers, allows Strong use of the following spells: abjuration; ò Righteous wrath of the faithful (2 charges) CL 15th; ò Castigate (1 charge) Craft Staff, Strong enchantment; CL 13th; Craft Staff, castigate, blasphemy, righteous wrath of the faithful; Price 31,688 gp. cloak of chaos,",
+        "name":  "True Belief",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A deityÆs herald is the creature it often sends to the Material Plane when it needs to intervene in mortal affairs. Allies are the creatures the deity sends in response to lesser planar ally, planar ally, and greater planar ally spells, respectively. CORE D\u0026D GODS The following deities are represented in the PlayerÆs Hand- book, except for Bahamut, Kurtulmak, Lolth, and Tiamatù four new additions to the core pantheon. Bahamut Lesser God (Lawful Good) Bahamut, revered by good dragons, is stern and disapprov- ing of evil, but kind and helpful to the downtrodden and dispossessed. He teaches his followers to strive against evil wherever they can, and to help others become strong enough to resist evil by themselves. He appears as a long, sinuous dragon with platinum scales and catlike eyes of shifting colors.",
+        "name":  "Herald and Allies",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Boots of the unending journey, rapier of unerring fi rst spell. direction. Quests: Followers of Gruumsh feel they have a duty to direct and organize the natural proclivity of orcs for warfare. Garl Glittergold TheyÆll hunt down elves in their forest homes, encourage Greater God (Neutral Good) tribal chieftains to sack human cities, and act as emissaries Garl Glittergold is described in Chapter 6 of the PlayerÆs to the goblinoid tribes that often join their great hordes. Handbook. Prayers: Every single known prayer to Gruumsh begins",
+        "name":  "Relics",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A typical temple to Heironeous looks like a for- Cleric Training: Would-be clerics of Kord come into the tifi ed castle. Most feature a large, grassy area where knights faith one of two ways. Most succeed on some feat of strength can joust and soldiers can drill. Most temples provide heal- (often at a local carnival or sporting competition), drawing ing and other spellcasting for those fi ghting the forces of the admiration of a cleric of Kord. Less often, a youth attains evil. notoriety for his sickly nature, but a cleric of Kord notices",
+        "name":  "Temples",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "NerullÆs temples are generally secret places Olidammara is described in Chapter 6 of the PlayerÆs Hand- hidden underground and crawling with undead. For book. unscrupulous adventurers who can stomach NerullÆs hatred Portfolio: Rogues, music, revelry, tricks. of the living, theyÆre good places for ôno questions askedö Domains: Celerity*, Chaos, Luck, Mind*, Trickery. raise dead spells. Cleric Training: Becoming a cleric of Olidammara",
+        "name":  "Temples",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Wee JasÆs temples are covered with funerary Intermediate Goddess (Lawful Neutral) trappings, and many have shrines and catacombs where Wee Jas is described in Chapter 6 of the PlayerÆs Handbook. powerful spellcasters are buriedùsometimes with a",
+        "name":  "Wee Jas Temples",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "More so than most deities, Wee Jas venerates a series of deceased ôhonored ancestors.ö Worshipers Yondalla rarely speak of the will of Wee Jas, instead attributing Greater Goddess (Lawful Good) commandments to ancestors such as ôYag the Many-Eyed Yondalla is described in Chapter 6 of the PlayerÆs Handbook. Traveler saysàö or ôGrant me the calm of Queen Ochtho Portfolio: Halfl ings, explorers. XIVàö Domains: Community*, Creation*, Good, Law, Protection.Crypt Shrine of Vecna Lich wizard 11 The cleric can use create undead(cid:2) Library has 15,000 gp(cid:2) to turn these corpses into mummies. in spellbooks and scrolls. (Entire crypt is desecrated.) human (cid:2) cleric 16 4 dread wraiths (CR 11) Vampire monk 9/shadowdancer 4 DC 30 to find secret doors One square equals 5 feet 120 5 RETPAHC SEITIED",
+        "name":  "Prayers",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Death, Destruction, Evil, Pestilence*. Mouqol Istus Lesser God (Neutral) Greater Goddess (Neutral) Clerics of The Merchant God teach their followers that no The Lady of Fate, Istus is a powerful deity who takes an reward comes without risk, but that too much risk leads abstract interest in the destinies of mortal and immortal inevitably to disaster. TheyÆre often found in marketplaces, alike. She carries a golden spindle with which she weaves where their temples double as moneychangers, lending the strands of fate together, spinning the future into the institutions, and arbitrators for tense negotiations. present. Her clerics use divination spells to try to discern Portfolio: Trade, negotiation. what fate will bring, then they celebrate or warn their fol- Domains: Knowledge, Pact*, Travel, Trickery. lowers accordingly.",
+        "name":  "Domains",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Many souls who come to Arborea follow a par- supposed to be. Only souls with strong force of personality ticular rain squall, breeze, or cloud through the beautiful and unfi nished business among the living (which includes landscapes of the plane. many adventuring PCs) respond to the call of a raise dead or The Elven Court of Corellon Larethian is here, and souls resurrection spell. become part of an idealized elven lifestyle with hunts Get a New Body: Some individual souls come to the during the day and campfi re tales told at night. attention of the gods and powerful outsiders that inhabit",
+        "name":  "Arborea",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Souls in the Outlands spend their time wan- the planes, either because the souls were exceptionally dering its prairies, mountains, and rivers while they con- good or wicked in life or because the deity sees great template the great spire in the planeÆs center around which potential in an otherwise unremarkable soul. These souls the city of Sigil fl oats. Those souls who study the spire care- are granted new bodies and become outsiders called peti- fully enough can see all existence rotating around its fi xed tioners. Most petitioners are 2 Hit Dice outsiders with axis. abilities similar to those of the outsiders that inhabit their Souls who worshiped Obad-Hai in life are among the few particular plane. Lemure devils and dretch demons are who fi nd the Hidden Wood where the nature deity resides. typical petitioners, for example. Petitioners serve gods and There, these faithful souls witness the four seasons in all outsiders that created them; many are promised promotion their splendor. to more powerful forms (whether demonic or angelic) if Boccob endlessly browses the collection of his Library they serve well. In this way, the deities replenish the ranks of Lore, a mazelike complex lined with books, maps, and of their hosts. Sometimes petitioners do well enough to be scrolls. Souls can peer over the shoulders of his researchers, sent back among the living in response to a planar ally spell learning secrets unguessed at by mortal man. or similar conjuration.",
+        "name":  "Outlands",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Many deities assign favorite several scales. Some faiths are dispersed into independent souls the task of responding to divination spells such as con- cells, each of which sets its own agenda, develops its own tact other plane, divination, and commune. The deities impart doctrine, and worships as it sees fi t. At the other end of the the souls with an instinctive sense of the knowledge they spectrum is a hierarchical church that has ranks, chains of can impart to the living spellcasters who seek guidance. command, and a defi ned way of doing things that every ItÆs possible for a PC spellcaster to wind up conversing with worshiper knows. Whether a particular religion develops a deceased mentor or ally as part of a commune spell, for a large hierarchy or remains decentralized depends on the example. personality of the deity, the secular world that the religion",
+        "name":  "Respond to Divinations",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The following adventure ideas rely on than with them, because worshipers of good gods rarely regional and dispersed churches. need to worship in secret. However, in an evil land (and for ò A sea-god wants to establish a network of independent higher-level PCs, on an evil plane), the PCs might be revolu- shrines up and down a particularly dangerous stretch of tionaries who worship their gods in secret and plot against coast, and the characters must patrol the seas to keep the their evil overlords. shrines safe. Important NPCs: Cultists are staple D\u0026D antago- nistsùmost are low-level clerics, but arcane spellcasters (especially conjurers) are reasonably common. The cult is often led by a high-level cleric, an outsider (such as a demon or devil), or an aberration (such as a beholder or mind fl ayer). Sometimes the rank-and-fi le members of the cult have been misled about who their true masters are.",
+        "name":  "Adventure Seeds",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You gain the Spell Focus (Enchantment) COMPETITION DOMAIN feat.",
+        "name":  "Granted Power",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Joramy, Llerg. Domination Domain Spells",
+        "name":  "Other Deities",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Nerull. tion (summoning) or Conjuration (calling) spells.",
+        "name":  "Core Deities",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Dazzles one creature (û1 on attack rolls).145 SPELLS DOMAINS AND CHAPTER 7",
+        "name":  "Flare",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Paralyzes one humanoid for 1 1ST-LEVEL SHUGENJA SPELLS round/level.",
+        "name":  "Hold Person",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can communicate with 3RD-LEVEL SHUGENJA SPELLS animals.",
+        "name":  "Water Speak with Animals",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Exist comfortably in hot or until it attacks. cold environments. Major Image: As silent image, plus sound, smell and thermal effects. 2ND-LEVEL SHUGENJA SPELLS",
+        "name":  "All Endure Elements",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Frees object or person from curse. 5TH-LEVEL SHUGENJA SPELLS",
+        "name":  "Remove Curse",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Absorb 12 points/level concentration required. of damage from one kind of energy. Earth Passwall: Creates passage through wood or stone Summon NatureÆs Ally III (Small Elemental wall. Only): Calls extraplanar creature to fi ght for Spell Resistance: Subject gains SR 12 + level. you. Wall of IronM: 30 hp/four levels; can topple onto foes. 4TH-LEVEL SHUGENJA SPELLS",
+        "name":  "Protection from Energy",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Grants immunity to death spells and level damage). negative energy effects. Water AtonementF X: Removes burden of misdeeds from",
+        "name":  "Earth Death Ward",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Subject is immune to one spell level for many creatures. per four levels. Righteous Might: Your size increases, and you",
+        "name":  "Spell Immunity",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Arrows deal +1d6 fi re damage. Summon NatureÆs Ally V (Medium Elemental Only): Calls creature to fi ght.147 SPELLS DOMAINS AND CHAPTER 7148 7 RETPAHC DNA SNIAMOD SLLEPS 6TH-LEVEL SHUGENJA SPELLS",
+        "name":  "Flame Arrow",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As glyph of warding, Protection from SpellsMF: Confers +8 resistance but up to 10d8 damage or 6th-level spell. bonus. Anger of the Noonday Sun*: Blinds creatures Fire Incendiary Cloud: Cloud deals 4d6 fi re damage/ within 10 ft. round.",
+        "name":  "Greater Glyph of Warding",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sets trigger condition for another Power Word Blind: Blinds creature with 200 hp or spell. less.",
+        "name":  "Water ContingencyF",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Circle teleports any 7TH-LEVEL SHUGENJA SPELLS creature inside to designated spot.",
+        "name":  "Air Teleportation CircleM",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Turns you invisible and creates illusory Earth Antipathy: Object or location affected by spell double. repels certain creatures.",
+        "name":  "Mislead",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Refl ect 1d4+6 spell levels back at Water True ResurrectionM: As resurrection, plus remains caster. arenÆt needed.",
+        "name":  "Spell Turning",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "10 feet WIZARD SPELLS",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Instantaneous WIZARD SPELLS",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Refl ex negates Body of the Sun*: Your body emanates fi re, dealing 1d4+1 Spell Resistance: Yes damage. ScentM *: Grants the scent special ability. This spell unleashes a blinding fl ash of sunlight originating with you and expanding outward. Any creature within the 3RD-LEVEL SORCERER/ area of the spell that can see you must make a saving throw WIZARD SPELL or be temporarily blinded. The blindness lasts for 1 minute Telepathic Bond, Lesser*: As RaryÆs telepathic bond, but you per caster level. and one other creature. An undead creature caught within the spell area takes 1d6 points of damage per two caster levels (maximum 10d6), or 4TH-LEVEL SORCERER/ half damage if a Refl ex save is successful. In addition, the beam WIZARD SPELL results in the destruction of any undead creature specifi cally Wrack*: Renders creature helpless with pain. harmed by bright light (such as a vampire) if it fails its save. The ultraviolet light generated by the spell deals damage to fungi, mold, oozes, and slimes just as if they were undead creatures.151 SPELLS DOMAINS AND CHAPTER 7 AWAKEN, MASS",
+        "name":  "Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Druid 8 Spell Resistance: No",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "24 hours This spell allows you to channel divine power into",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Solitary elppabarC .D yb noitartsullI A bogun153 SPELLS DOMAINS AND CHAPTER 7",
+        "name":  "Organization",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A bogun has immunity to poison, sleep ò One ability score is reduced to 1, or two ability scores effects, paralysis, stunning, disease, death effects, nec ro- suffer û6 penalties (minimum 1). mancy effects, mind-affecting effects (charms, com pul sions, ò û8 penalty on attack rolls, saving throws, ability checks, phantasms, patterns, and morale effects), and any effect that and skill checks. requires a Fortitude save unless it also works on objects or is ò Each turn, the subject has a 25% chance to act normally; harmless. It is not subject to critical hits, subdual damage, otherwise, he takes no action. ability damage, ability drain, fatigue, exhaustion, or energy You may also invent your own curse, but it should be no drain. Cannot heal damage, but can be repaired. Darkvision more powerful than those listed above, and the Dungeon 60 ft. and low-light vision. Master (DM) has fi nal say on the curseÆs effect. The greater curse cannot be dispelled, nor can it can be",
+        "name":  "Construct Traits",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Refl ex negates rest and can perform no other activities except eating, sleep- Spell Resistance: Yes ing, or talking. Missing even one day causes the process to fail. At that point, the ritual must be started anew, though You create a fl urry of air to encircle and hold your target. The the previously crafted body and the grove can be reused. binding winds do not move. Instead, they become a physical On the fi nal day of the ritual, the creator must personally barrier surrounding the subject. The subject may act normally, cast control plants, wood shape, and beget bogun. These spells but she cannot move from her current location. The winds can come from outside sources, such as scrolls, rather than carry her voice away, so she can speak but cannot be heard, being prepared, if the creator prefers. and she cannot hear anything but the roar of the winds. Furthermore, no sonic or language-dependent spells BESTOW CURSE, GREATER or effects may be cast into or out of the binding winds Transmutation (though spells cast by the caster upon himself function",
+        "name":  "When not actively working on the ritual, the creator must Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Components: V, S",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Medium (100 ft. + 10 ft./level) choosing one of the three following effects: Effect: Ray",
+        "name":  "The spellcaster places a curse on the creature touched, Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes the Blind-Fight feat doesnÆt help the attacker. If the attack is capable of striking invisible or incorporeal creatures, the You direct an invisible blast of force at a chosen target. miss chance is only 20%. An attacker who can both see The blast is a ranged touch attack that deals 1d6 points of and strike ethereal creatures takes no penalty. You have no damage per two caster levels (maximum 5d6). In addition, chance of interfering with your own attacks. a successful hit forces the target to make a Fortitude save or Individually targeted spells have a 50% chance to fail be knocked down (size and stability modifi ers apply to the against you while blinking, unless your attacker can target saving throw as if the spell were a bull rush). invisible, ethereal creatures. You have no chance of interfer- ing with your own spells. You take only half damage from BLESSED AIM Divination",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No This spell grants a +2 morale bonus on all ranged attacks for your allies within the spread. BLESSING OF BAHAMUT Abjuration [Good]",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Medium (100 ft. + 10 ft./level) Plane, you can see and even attack ethereal creatures. You Effect: Ray interact with ethereal creatures in roughly the same way you Duration: 1 round/level interact with material ones (their attacks have a 50% miss Saving Throw: Will negates chance against you, and so on). Spell Resistance: Yes BODY OF THE SUN This spell grants you the ability to Transmutation [Fire] make one ray attack per round.",
+        "name":  "Since you spend about half your time on the Ethereal Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 round/level not stunned (so attackers get no special advantage against it), By drawing on the power but it canÆt move, cast spells, use of the sun, you cause your mental abilities, and so on. body to emanate fi re. This fi re BOTTLE OF SMOKE extends 5 feet in all directions from your body, illuminating the Conjuration (Creation) area and infl icting 1d4+1 points Level: Druid 4, ranger 3 of fi re damage (Refl ex save for Components: V, S, F half) to any creature it touches Casting Time: 10 minutes except you. Range: Touch",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action Spell Resistance: No",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Material Component: A small thorn. BRIAR WEB This spell allows you to eavesdrop as a standard action on the thoughts of up to eight other creatures at once, hearing Transmutation as desired: Level: Cleric 3, druid 2, ranger 2",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action157 SPELLS DOMAINS AND CHAPTER 7 BRILLIANT AURA",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Casting Time: 1 standard action",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Touch than 60 feet from the nearest member of the group. (If only Target: Living creature touched two individuals are affected, the one moving away from the Duration: 1 hour/level other one loses its camoufl age. If both are moving away Saving Throw: Will negates from each other, they both become visible when the dis- Spell Resistance: Yes tance between them exceeds 60 feet.) You can use a creatureÆs vision instead of your own. While CASTIGATE this spell gives you no control over the creature, each time it Evocation [Sonic] comes into physical contact with another living being, you",
+        "name":  "The spell is broken for any individual who moves more Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Evocation (Water)",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Druid 2 This spell allows you to verbally rebuke foes. By shouting Components: V, S your deityÆs teachings about other alignments, you infl ict Casting Time: 1 full round pain on those who hear, and those in the area need not Range: Long (400 ft. + 40 ft./level) understand your divine words to be affected. This spell Area: 100-ft.-radius emanation has no effect on creatures that cannot hear. Otherwise, you Duration: 10 min./level (D) deafen foes of the same alignment for 1d4 rounds (save for Saving Throw: None half). Foes within one alignment step of your alignment Spell Resistance: No (lawful, neutral, chaotic; good or evil) take 1 point of damage per caster level (maximum 10). Foes whose You cause clouds to gath- alignment is more than one step different from er and a heavy rain to fall. yours take 1d4 points of damage per The rain reduces visibil- caster level (maximum 10d4). A Forti- ity ranges by half, result- tude saving throw is allowed for half ing in a û4 penalty on damage from this spell. Spot and Search checks. It automatically extin- guishes unprotected flames, and has a 50% chance of extin- guishing protected fl ames. Ranged weap- on attacks and Listen checks suffer a û4 penalty. This spell does not function indoors, underground, under- water, or in desert cli- mates. After the spell end, the water cre- ated evaporates over the next 10 minutes. The water created nidelleB .S yb .sullI Cloudwalkersceiling 2d6 2d6 Cometfall 2d6 2d6 Dense rubble(cid:2) after impact 2d6 floor One square equals 5 feet 159 SPELLS DOMAINS AND CHAPTER 7 with this spell does not slake thirst or provide any nourish- ment to plants. CLOUDWALKERS Transmutation",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) You create gaseous pads of cloudstuff on the subjectÆs feet, allowing them to walk on the clouds. These pads allow each subject to move straight up or down at a speed of up to 30 feet or laterally with a fl y speed of 60 feet (perfect maneuver- ability), as desired. (Lateral movement is possible only for a subject who is already at least 90 feet off the ground.) To touch the earth again, a subject must use a standard action to shake off the cloudstuff, which ends the spell for that creature. You may dismiss the spell, but only for all subjects at onceùan act that can have signifi cant consequences for CONTAGIOUS TOUCH subjects already in the air. Necromancy COMETFALL",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Instantaneous Upon casting this spell, you must choose one disease from",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No red ache, the shakes, or slimy doom (see Disease, page 292 of the Dungeon MasterÆs Guide, for descriptions). Any living You conjure a bright, glowing comet, which appears in creature you hit with a melee touch attack during the spellÆs midair above your enemies, then strikes the ground with duration is affected as though by the contagion spell, imme- tremendous force. The comet appears 5 feet per caster level diately contracting the disease you have selected unless it above the ground or at the ceiling, whichever is lower. The makes a successful Fortitude save. You cannot infect more comet immediately falls, dealing 2d6 points of damage than one creature per round. per 10 feet fallen to everything in the 10-foot-square area CREEPING COLD directly below it. The force of the comet can also knock creatures prone. Transmutation [Cold]",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes160 7 RETPAHC DNA SNIAMOD SLLEPS CRUMBLE You turn the subjectÆs sweat to ice, creating blisters as the ice forms on and inside the skin. The spell deals 1d6 cumulative Transmutation points of cold damage per round it is in effect (that is, 1d6 Level: Druid 6 on the 1st round, 2d6 on the second, and 3d6 on the third). Components: V, S Only one save is allowed against the spell; if successful, it Casting Time: 1 standard action halves the damage each round. Range: Medium (100 ft. +10 ft./level)",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (object) Transmutation [Cold]",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "See text ture such as a stone bridge, a wooden building, an iron wall, a construct, or any other object not formed by nature itself. This spell is the same as creeping cold, but it adds a fourth The erosion infl icts 1d6 points of damage per caster level round to the duration, during which it deals 4d6 points of to the object (hardness does not apply) to a maximum of damage. If the caster is at least 15th level, the spell adds a 15d6. This spell does not affect living creatures. It does, fi fth round at 5d6 points of damage. If the caster is at least however, affect constructs. The maximum size of the object 20th level, the spell adds a sixth round at 6d6 points of affected depends on your level. If you cast this spell on an damage. object of greater size than you can affect, the spell fails. CROWN OF GLORY Level Size of Object Affected Up to 15 Huge Evocation 16û18 Gargantuan",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Casting Time: 1 standard action",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One living creature awe in all lesser creatures that behold your terrible perfec- Duration: 1 min./level tion and righteousness. You gain a +4 enhancement bonus Saving Throw: Will negates to your Charisma score for the duration of the spell. Spell Resistance: Yes All creatures with fewer than 8 HD or levels cease what- ever they are doing and are compelled to pay attention to You place a temporary curse upon the subject, giving her a you. Any such creature that wants to take hostile action û3 penalty on attack rolls, saving throws, ability checks, and against you must make a successful Will save to do so. Any skill checks. Curse of ill fortune is negated by any spell that creature that does not make this saving throw the fi rst time removes a bestow curse spell. it attempts a hostile action is enthralled for the duration of CURSE OF LYCANTHROPY the spell (as the enthrall spell), as long as it is in the spellÆs area, nor will it try to leave the area on its own. Creatures Necromancy with 8 HD or more may pay attention to you, but are not Level: Pestilence 6 affected by this spell. Components: V, S, M, DF",
+        "name":  "You are imbued with an aura of celestial authority, inspiring Target",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action you, even if they do not understand your language. While Range: Touch the spell lasts, you can make up to three suggestions to crea- Target: Humanoid touched tures of less than 8 HD in range, as if using the mass sugges- Duration: Permanent; see text tion spell (Will save negates); creatures with 8 HD or more Saving Throw: Fortitude negates arenÆt affected by this power. Only creatures within range at Spell Resistance: Yes the time a suggestion is given are subject to it.",
+        "name":  "When you speak, all listeners telepathically understand Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "An opal worth at least 200 gp. You can cause temporary lycanthropy in a humanoid you touch. A humanoid who fails the saving throw contracts161 SPELLS DOMAINS AND CHAPTER 7 lycanthropy, and the condition manifests with the next the standard loss of a level. Finally, the target is healed with full moon. Unlike other forms of lycanthropy, the effect aheal spell. She does not regain the 2 Constitution points of this spell can be broken by remove curse or break enchant- when returned to life. ment. If a raise dead spell could not return the target to life (for You can induce any type of common lycanthropy (and example, if she was disintegrated or died of old age), the evil clerics frequently experiment with new kinds). As a death pact cannot restore her to life. If the spell is dispelled rule, the lycanthropeÆs animal form can be any predator before the target dies, she does not regain her 2 lost Consti- between the size of a small dog and a large bear. The source tution points. of the material component determines the victimÆs animal Material Component: A diamond worth at least 500 gp. form. (More information on lycanthropes can be found in XP cost: 250 XP. Appendix 3 of the Monster Manual.) DECOMPOSITION",
+        "name":  "Material Component",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "10 minutes light wounds spell, so the festering stops and the subject takes",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No DEIFIC VENGEANCE This spell allows the target to enter into a binding agree- Conjuration (Summoning) ment with your deity that brings the target back to life if Level: Cleric 2, Purifi cation 2 she is slain. Components: V, S, DF When this spell is cast, the targetÆs Constitution is per- Casting Time: 1 standard action manently lowered by 2 points. In exchange for this, if she Range: Close (25 ft. + 5 ft./2 levels) ever dies, several spells are brought into effect. First, she is Target: One creature teleported to a safe location designated by you at the time Duration: Instantaneous of casting as if with a word of recall spell. Second, the target Saving Throw: Will half is brought back from the dead with a raise dead spell with Spell Resistance: YesOne square equals 5 feet Cathedral Shrine of Hextor Human cleric 10 Balconies are 20 ft. up(cid:2) Steep stairs and have railings Rooms are for confessions(cid:2) 2 human cleric 6 and interrogations. Visiting rakshasa (CR 10) 2 human cleric 6 Locked chest (DC 25) with locks(cid:2) All four statues have unhallow(cid:2) covered in dragon bile (CR 7)(cid:2) spells with zone of truth attached. contains 10th-level treasure with(cid:2) double goods. 162 7 RETPAHC DNA SNIAMOD SLLEPS When you cast this spell, you call out to a deity, listing the 2nd Round: Types of favored enemies in the area and the crimes of your target and urging the deity to punish the mis- number of each type. creant. (The targetÆs alignment is irrelevant to the success 3rd Round: The location and HD of each individual of the spell.) The divine power of the angry deity imposes present. this punishment in the form of a sharp, spiritual blow to the Note: Each round you can turn to detect things in a new target. This attack hits automatically and deals 1d6 points of area. The spell can penetrate barriers, but 1 foot of stone, 1 damage per two caster levels (maximum 5d6), or 1d6 points inch of common metal, a thin sheet of lead, or 3 feet of wood per caster level (maximum 10d6) if the target is undead. A or dirt blocks detection. successful Will saving throw reduces the damage by half. DIVINE AGILITY DETECT FAVORED ENEMY Transmutation",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration, up to 10 min./level (D) Spell Resistance: No",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Calling on the divine power of your patron, you imbue a living creature with agility and skill in combat. You confer You can sense the presence of a favored enemy. The amount the base Refl ex save bonus of a rogue of your total character of information revealed depends on how long you study a level, a +4 enhancement bonus to Dexterity, and the Spring particular area. Attack feat on the target for the duration of the spell. 1st Round: Presence or absence of a favored enemy in the area.163 SPELLS DOMAINS AND CHAPTER 7 The devout pray for spells DIVINE SACRIFICE DOOMTIDE Evocation Illusion (Pattern)",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Will negates You can sacrifi ce life force to increase the damage you deal. Spell Resistance: Yes Once each round, as a free action, you can sacrifi ce up to 10 of your hit points (doing this does not trigger an attack of You fi ll an area with illusory black, creeping mist that opportunity). For every 2 hit points you sacrifi ce, on your vaguely resembles thousands of slender grasping tentacles. next successful attack you deal +1d6 damage, to a maximum You and one creature you touch are immune to the effects of +5d6 on that attack. Your ability to deal this additional of this spell and can see through it without diffi culty. When damage ends when you successfully attack or when the you cast the spell, you decide if the effect remains stationary spell duration ends. You can make as many sacrifi ces as the or moves away from you at a rate of 10 feet per round. spell duration allows. Sacrifi ced hit points count as normal The mist obscures all sight, including darkvision, damage. For example, an 8th-level paladin can cast this spell beyond 5 feet. A creature within 5 feet has one-half con- with a duration of 4 rounds. If she sacrifi ces 10 hit points a cealment (attacks suffer a 20% miss chance). Creatures round and hits in every round, she can spend up to 40 hit farther away have total concealment (50% miss chance, points and deal up to +5d6 points of additional damage all and the attacker canÆt use sight to locate the target). 4 rounds. A moderate wind (11+ mph) disperses the doomtide in 4 rounds; a strong wind (21+ mph) disperses the mist in 1 round. Illustration by Kyle Anderson164 7 RETPAHC DNA SNIAMOD SLLEPS",
+        "name":  "Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "See text make Will saves or be dazed for as long as they Target: You remain in the cloud. Duration: 1 min./level (D) The spell does not function underwater. You fall into a deep sleep while your spirit leaves your body in incorporeal form and travels to DRAGON BREATH distant locations. Your spirit can move 100 feet Evocation [Good or Evil] per round, and can see and hear anything you",
+        "name":  "Furthermore, creatures within its area must Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Cleric 5, sorcerer/ could if you were in the same location. The wizard 5 spirit can be blocked by any spell that wards",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You attack, cast spells, or perform any other",
+        "name":  "Target",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 round/level action. At the end of the spell, your spirit You gain the ability to breathe instantaneously returns to your body a gout of energy that mimics and you wake up. If your body is dis- a dragonÆs breath as a standard turbed while your spirit is wandering, action. Once youÆve used the breath the spell ends immediately. attack, you must wait 1d4 rounds before ENERGY VORTEX doing so again. When you cast dragon breath, you Evocation [Acid, Cold, Fire, Elec- choose one true dragon whose tricity, or Sonic] breath youÆre emulating. Level: Cleric 4, druid 4",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Blue 30-ft. line of electricity, Reflex half 1d8/2 caster levels (maximum 10d8) Green 15-ft. cone of acid, Reflex half When you cast energy vortex, you choose one of fi ve energy 1d8/2 caster levels (maximum 10d8) types: acid, cold, fi re, electricity, or sonic. A blast of that Red 15-ft. cone of fire, Reflex half energy type bursts in all directions from you, dealing 1d8 1d8/2 caster levels (maximum 10d8) points of damage +1 point per caster level (maximum +20) White 15-ft. cone of cold, Reflex half to nearby creatures other than you. If you are willing to take 1d8/2 caster levels (maximum 10d8) Brass 15-ft. cone of sleep; Will negates the damage yourself, you deal twice as much damage. You lasts 1d6 rounds donÆt get a Refl ex save, but spell resistance applies, as do any Bronze 30-ft. line of electricity; Reflex half resistances and immunities you have to the energy type. 1d8/2 caster levels (maximum 10d8) Copper 15-ft. cone of slow; Will negates ENVELOPING COCOON lasts 1d6 rounds Gold 15-ft. cone of fire, Reflex half Evocation 1d8/2 caster levels (maximum 10d8) Level: Druid 6 Silver 15-ft. cone of paralysis; Fort negates Components: V, S, M lasts 1d6 rounds",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Refl ex negates (harmless); FIRE WINGS see text Transmutation [Fire] Spell Resistance: Yes (harmless);",
+        "name":  "Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Target: You",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Druid 4, ranger 3 Spell Resistance: Yes This spell grants you a +20 competence bonus on Hide and With this spell, you become an unerring tracker, instantly Move Silently checks. The spell ends if you move more than aware of your quarryÆs location whenever itÆs on the move. 10 feet from where you stood when you cast the spell. It is The implacable pursuer spell gives you the direction and dis- otherwise the same as camoufl age. tance to the target creature whenever it fi nishes a turn more than 10 feet away from where it started. GOLDEN BARDING The diffi culty of the save against implacable pursuer Conjuration (Creation) [Force] depends on your relationship to the subject. You apply your",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Will negates (harmless) went to. The spell then provides no further information until",
+        "name":  "Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes167 SPELLS DOMAINS AND CHAPTER 7 LAST BREATH With a successful melee touch attack, you infest a creature with maggotlike creatures. They deal 1d4 points of tempo- Necromancy rary Constitution damage each round. The subject makes a Level: Druid 4 new Fortitude save each round to negate the damage of that Components: V, S round and end the effect. Casting Time: 1 standard action",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Touch spell. Target: Dead creature touched",
+        "name":  "The infestation can be removed with a cure disease or heal Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) Transmutation",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Druid 4 With this spell, you can return a dead creature to 0 hit",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels) your spell resistance cannot overcome this damage.",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Will negates If the subjectÆs soul is not willing to return, the spell does",
+        "name":  "Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes the caster",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Evocation Maelstrom causes a deadly vortex to form in water. A body of Level: Druid 6 water at least 120 feet wide and 60 feet deep must be present, Components: V, S, DF or the spell is wasted. Casting Time: 1 standard action Waterborne creatures or objects within 50 feet of the Range: Close (25 ft. + 5 ft./2 levels) vortex (below and on all sides) must make successful Refl ex Target: One living creature saves or be sucked in. Trained swimmers can attempt Swim Duration: 3 rounds/level checks instead if their skill modifi er is higher than their Saving Throw: See text Refl ex save bonus. Waterborne vessels avoid being sucked Spell Resistance: Yes sdlonyeR .W yb .sullI Maddening screamSun Temple of Pelor Entire temple is consecrated and(cid:2) has hallow spell with daylight attached. Human cleric 14 Locked room (DC 30)(cid:2) has 12th-level treasure The temple clerk will freely cast raise(cid:2) 2 half-celestial paladin 9 dead and resurrection for those who die(cid:2) Leonal guardinal (CR 12) fighting evil, but supplicants provide their(cid:2) own material components. One square equals 5 feet 169 SPELLS DOMAINS AND CHAPTER 7 By fi lling the subjectÆs mouth and throat with unbreath- receives a saving throw with a û4 penalty to resist taking able gas, you prevent him from doing much more than that particular action. If the save succeeds, the subject still coughing and spitting. The subject can hold his breath for remains your thrall despite its minor mutiny. Once a subject 2 rounds per point of Constitution but must make a Con- makes a successful saving throw to resist a specifi c order, it stitution check (DC 10 +1 per previous success) each round makes all future saving throws to resist taking that specifi c thereafter to continue doing so. Failure on any such check action without a penalty. (or voluntary resumption of breathing) causes the subject XP Cost: 500 XP per Hit Die or level of the subject. to fall unconscious (0 hp). On the next round, the subject MURDEROUS MIST drops to û1 hit points and is dying; on the third round, he suffocates (see Suffocation, page 304 of the Dungeon Evocation MasterÆs Guide). Level: Druid 4",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Medium (100 ft. + 10 ft./level) Spell Resistance: Yes",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Anyone within the cloud takes 2d6 points of damage and is permanently blinded. If a creature within the area makes As true domination, except the subject can be any creature a successful Refl ex saving throw, it takes only half damage and is permanently dominated if it fails its initial Will and is not blinded. save. A subject ordered to take an action against its nature170 7 RETPAHC DNA SNIAMOD SLLEPS NIMBUS OF LIGHT Any creature within the cloud has one-quarter conceal- ment. Winds do not affect the cloudÆs direction or speed. Evocation [Light] However, a moderate wind (11+ mph) disperses the cloud in Level: Cleric 1, Purifi cation 1 4 rounds, and a strong wind (21+) disperses it in 1 round. Components: V, S, DF",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) As a move action, you can coalesce the energy from the nimbus of light around your outstretched arm, and then as You infuse the subject with the spirit of nature. The affected a standard action fl ing it toward a foe within 30 feet. As a creature gains a +10 morale bonus on attack and damage ranged touch attack, the nimbus of light deals 1d8 points of rolls and 1d8 temporary hit points per caster level, plus the damage +1 point per round thatÆs elapsed since you cast the effects of haste. spell (max of 1d8 + caster level damage). Attacking with the nimbus of light ends the spell, whether the energy hits its NATUREÆS FAVOR target or not. Evocation OBEDIENT AVALANCHE",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) within range; see text",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Refl ex half; see text animal a +1 luck bonus on attack and damage rolls for every Spell Resistance: No 2 caster levels you possess. You summon an avalanche of snow out of a rift in midair, NATUREWATCH burying your foes and sending them to a frosty death. Necromancy The obedient avalanche affects creatures differently,",
+        "name":  "By calling on the power of nature, you grant the target Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No which persists as long as ordinary snow would. Between 20 feet and 40 feet of the Center Point: Creatures This spell is identical to deathwatch, but only functions on take half as much damage from the impact of the avalanche animals and plants. In addition, it also allows you to deter- as the creatures nearer the center point took (Refl ex save mine a variety of other mundane information about the ani- negates). Creatures who fail their saves must also resist the mals and plants (whether or not the plants are dehydrated, force of the snow moving past them as if they were being the animals are malnourished, and so forth). bull rushed. The snow has a +13 bonus (+5 for effective Strength of 20 and +8 for effectively being Huge) on the bullObedient Avalanche Half impact and full cold(cid:2) damage (Reflex negates) 1d8 / 2 caster levels(cid:2) plus 1d6 cold / 2 caster levels + If save fails, creature(cid:2) is buried. Heavy snow If save fails, +13 bull rush away(cid:2) from center Light snow One square equals 5 feet 171 SPELLS DOMAINS AND CHAPTER 7 rush check, and it pushes characters away from the center point of the spell. All squares in the 20-foot to 40-foot ring are covered in light snow, which persists as long as ordinary snow would.",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Instantaneous A brief supplication gives you (and only you) a vision that hints at how dangerous the immediate future is likely to be. Based on an assessment of the casterÆs immediate surround- ings and likely path of travel, the caster receives one of three visions: safety, peril, or great danger. The base chance for receiving an accurate reply is 70% + 1% per caster level, to a maximum of 90%; the DM makes the roll secretly. If the omen of peril is successful, you get one of three visions, which lasts just a second or two: ò Safety. The caster isnÆt in any immediate danger. If he continues on his present course (or remains where he is if heÆs been stationary for some time before casting the spell), heÆll face no signifi cant monsters, traps, or other challenges for the next hour or so. ò Peril. The caster will face challenges typical of an adven- ture: challenging but not overwhelming monsters, dan- gerous traps, and other hazards for the next hour or so. ò Great danger. The casterÆs very life is at grave risk. He will likely face powerful NPCs or deadly traps in the next hour. If the roll fails, you get one of the other two results, deter- mined randomly by the DM, and you donÆt necessarily know that you failed because the DM rolls secretly. Choosing which vision is ôcorrectö takes some educated guesswork on the part of the DM, who should assess the partyÆs likely courses of action and what dangers theyÆre likely to face. The exact form that an omen of peril takes depends on whether the caster worships a specifi c deity, venerates nature as a druid, or simply upholds abstract principles. A druid might see a white dove for safety, a dark cloud obscuring the Illus. by F. Vohwinkel Obedient avalanche172 7 RETPAHC DNA SNIAMOD SLLEPS sun for peril, and a forest fi re for great danger. A cleric of Fhar- may enter the pavilion, and the entrance is shut and made langhn might get a vision of a straight road for safety, a cross- invisible behind you when you enter. You may open it again roads for peril, and a washed-out bridge for great danger. from your own side at will. Once observers have passed Unlike the more powerful augury, an omen of peril doesnÆt beyond the entrance, they are in a spacious tent decorated respond to a specifi c question. It only indicates the level of in the colors of your faith. The lighting can vary between danger likely for the next hour, not what form the danger darkness and daylight, and the temperature between 40 will take. and 90 degrees Fahrenheit, at your discretion when casting",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A set of marked sticks, bones, or similar tokens of at the spell. least 25 gp value. The pavilion is sumptuously furnished, including a full meal for a dozen people per caster level. Anyone who spends OTYUGH SWARM one full hour dining here gains benefi ts identical to those Conjuration (Creation) of a heroesÆ feast. While in the pavilion, creatures heal natu-",
+        "name":  "Focus",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Range: Medium (100 ft. + 10 ft./level)",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 round/level refuse and fi lth, such as a sewer or cesspool. You can choose Saving Throw: Will disbelief (if interacted with) to create 3d4 ordinary otyughs or 1d3+1 Huge otyughs with Spell Resistance: Yes 15 HD (see page 296 of the Monster Manual). The otyughs willingly aid you in combat or battle, perform a specifi c You create a phantasmal image of the subjectÆs most hated mission, or serve as bodyguards. They remain with you for enemy by sifting through the subconscious mind of the sub- seven days unless you dismiss them. If the otyughs are cre- ject. Only you and the spellÆs subject can see the phantasmal ated only for guard duty, the duration of the spell is seven creature, and the phantasm seems blurry and indistinct to months. In this case, the otyughs can only be ordered to you. A creature of Int 3 or lower automatically chases after a guard a specifi c site or location. Otyughs summoned to phantasmal decoy, and more intelligent creatures are likely to guard duty cannot move outside the spellÆs range. do as well unless such action would be obviously foolish. You must create the otyughs in an area containing at least As a move action, you can move the phantasmal decoy up 6,000 pounds of sewage, refuse, or offal. After you cast the to 60 feet in any direction. Because itÆs not real, the phan- spell, otyughs not summoned for guard duty may leave the tasmal decoy isnÆt affected by terrain that slows movement area of offal at your command. (although you can slow its progress voluntarily if you like to help maintain the faτade of realism). The target gets a Will PAVILION OF GRANDEUR save if she successfully attacks the phantasmal decoy or Conjuration (Creation) moves adjacent to it.",
+        "name":  "Otyugh swarm creates otyughs from a large collection of Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Duration: 10 min./level (D)",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No As phantom wolf, except you instead con- jure an incorporeal bear with a fearsome roar.",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Druid 5 Spell Resistance: No",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes; see text PHANTOM WOLF Conjuration (Summoning) A swarm of dire rats viciously attacks all other creatures",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Each quill infl icts 1d6 points of piercing damage and lodges itself All the subjectÆs memories and in the fl esh of any living creature knowledge are accessible to you, it hits. Lodged quills impose a ranging from memories deep û1 penalty on attacks, saves, and below the surface to those still checks per quill. A quill can be easily called to mind. You can removed safely as a standard learn the answer to one ques- action with a DC 20 Heal check. tion per round, to the best of the Otherwise, removing a quill deals subjectÆs knowledge. You can also an extra 1d6 points of damage. probe a sleeping subject, though Material Component: Porcupine the subject may make a Will quill. save against the DC of the probe RECITATION thoughts spell to wake after each question. Subjects who do not Conjuration (Creation) wish to be probed can attempt to Level: Cleric 4, Purifi cation 3 move beyond the powerÆs range, Components: V, S, DF unless somehow hindered. You Casting Time: 1 standard action pose the questions telepathi- Range: 60 ft. cally, and the answers to those Area: All allies and foes within questions are imparted directly to a 60-ft.-radius burst centered on your mind. You and the subject you do not need to speak the same Duration: 1 round/level language, though less intel- Saving Throw: None ligent creatures may yield up Spell Resistance: Yes only appropriate visual images in answer to your questions. By reciting a sacred passage or declaration, you invoke your deityÆs QUILL BLAST blessing upon yourself and your Conjuration (Creation) allies while causing confusion and",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, M spell affects all allies and foes within",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action the spellÆs area at the moment you cast it. Your",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Refl ex half; see text attack rolls and saving throws. After casting the spell, you",
+        "name":  "Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes are free to take further actions during the spellÆs duration as you see fi t. Needle-sharp quills emerge from your skin as you cast this Divine Focus: In addition to your holy symbol, this spell spell, then fl y outward in every direction when you com- requires a sacred text as a divine focus. 176 7 RETPAHC DNA SNIAMOD SLLEPS Quill blast celevaP .J yb .sullIREJUVENATION COCOON renewal pact, the target receives a heal spell (caster level equal Conjuration (Healing) to the caster of the renewal pact.",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) Level: Blackguard 1, cleric 1, paladin 1",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action around a creature you touch that provides healing and a Range: Touch measure of protection. Target: Creature touched",
+        "name":  "With this spell, you create a temporary cocoon of energy Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Cocoon from a butterfl y. or supernatural ability. If a spell, spell-like ability, or supernatural ability doesnÆt RENEWAL PACT allow a save (such as power word stun), then resurgence wonÆt Conjuration (Healing) help the subject recover.",
+        "name":  "Material Component",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) This spell functions like resurgence, except that it affects This spell creates a pact between the target and a deity that multiple creatures. The spell grants a second save attempt uses divine energy to wipe away any of a host of conditions against a single spell or ability chosen by the caster. If that may affl ict the target. three of the your allies have been mind blasted by mind Once this spell is cast, the pact remains dormant until the fl ayers and two others have been turned into toads by target is subjected to one or more of the following adverse baleful polymorph spells, you must choose either the mind conditions: ability damage, blinded, confused, dazed, dazzled, blast (granting three new save attempts) or the baleful poly- deafened, diseased, exhausted, fatigued, feebleminded, insan- morphs (granting two new save attempts). ity, nauseated, sickened, stunned, or poisoned. One round after the target is affected by a condition that triggers the 177 SPELLS DOMAINS AND CHAPTER 7178 7 RETPAHC DNA SNIAMOD SLLEPS REVENANCE SACRED HAVEN Conjuration (Healing) Abjuration [Good]",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "All allies within 30 ft.-radius burst centered on Saving Throw: Refl ex half you Spell Resistance: Yes",
+        "name":  "Targets",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes points of nonlethal damage to creatures in the arc. Any crea- ture that fails its Refl ex save is also stunned for 1 round. When you cast this spell, you fi re your allies and compan- SCENT ions with a divine madness or fury that greatly enhances their combat ability. Allies who are fi ghting on your side Transmutation are affected as if they had received an aid spell, gaining a Level: Druid 2, ranger 2, sorcerer/wizard 2 +1 morale bonus on attack rolls and saving throws against Components: V, S, M fear effects, plus 1d8 temporary hit points for the duration Casting Time: 1 standard action of the spell. Range: Touch",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A black whip or riding crop, which is cracked in the lower than 5,000 feet are treated as the 5,000- to 15,000-foot direction of the intended victims during the casting of the category, and anything above 5,000 feet is treated as being spell. above 15,000 feet.",
+        "name":  "Focus",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, DF grasp at passersby as if an entangle spell had been cast on",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes In addition to the terrain-specifi c effects, the shadow landscape spell worsens the weather within the spellÆs area. By infusing the nearby landscape with power stolen from When rolling random weather on Table 3û23 in the Dungeon the Plane of Shadow, you make the surrounding terrain a MasterÆs Guide (or a similar table specifi c to the local area), more savage, dangerous place. roll twice and take the higher result. In plains terrain, roll The spellÆs exact effects vary with the terrain upon which three times and take the highest result. DonÆt roll random it is cast. weather underground.",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Shadow landscape transforms a desert into a place You donÆt suffer the terrain-specifi c effects (entangling where no one goes willingly. The average temperature terrain, hindrances to movement, altitude effects, higher increases by 30 degrees, or decreases by 30 degrees if the Climb DCs, and so on) of a shadow landscape youÆve cre- desert is actually a tundra (see Cold Dangers and Heat ated. When you cast shadow landscape, you can designate Dangers, pages 302û303 of the Dungeon MasterÆs Guide). one creature per four caster levels as a designated traveler. Sandstorms (or snowstorms if in a tundra) blow through a Creatures so designated donÆt suffer the terrain-specifi c shadow landscape desert on an hourly basis. effects of the shadow landscape spell, but theyÆre still subject",
+        "name":  "Desert",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A few drops of stagnant pond water. Although the chariot seems large and sturdy, it and its occupants have no weight for the purpose of the mountÆs SPELL RESISTANCE, MASS load, so the horse can travel at full speed. If the chariot is Abjuration ever unhitched from the special mount, it disappears. The",
+        "name":  "Material Component",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action and is immune to damage. It interacts with other spells just",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) Evocation Each targeted creature gains spell resistance equal to 12 + Level: Cleric 5, Pact 5 caster level. Divide the duration evenly among all the crea- Components: V, S, DF, XP tures you target. Casting Time: 10 minutes",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Touch a spell, a spellcaster must roll the creatureÆs spell resistance Target: Willing living creature touched or higher on 1d20 + caster level. A creature with spell resis- Duration: Permanent until triggered, then 1 round/level tance may, as a standard action, voluntarily lower it in order Saving Throw: Will negates (harmless) to accept a spell. Spell Resistance: Yes (harmless) SPIKES This spell allows the target to enter a binding agreement Transmutation with a deity that provides a measure of protection when the",
+        "name":  "In order to affect a creature who has spell resistance with Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, M Once this spell is cast, the pact remains dormant until",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "None and saving throw bonus evaporate when the spell ends.",
+        "name":  "Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No XP Cost: 250 XP.182 7 RETPAHC DNA SNIAMOD SLLEPS STANDING WAVE on a Concentration check against a DC equal to the storm of Transmutation elemental furyÆs save DC + the level of the spell the caster is",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, DF If you do not maintain concentration on the spell after",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action casting it, the spell ends. If you continue to concentrate, the",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Close (25 ft. + 5 ft/2 levels) spell generates additional effects in each following round, as",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes to 40 feet in any direction. 2nd round: Chunks of rock fall from the sky, dealing 5d6 You command the waters to lift a creature or object and points of bludgeoning damage (no save). propel it forward. An object so lifted may contain creatures 3rd round: A deluge of rain extinguishes unprotected or other objects. What the wave can lift depends on your fl ames and perhaps protected ones as well (50% chance). caster level. The torrential downpour reduces visibility to 5 feet and cuts movement speed in half. Caster Level Size of Creature or Object 4th round: Flame pelts the area underneath the storm 5th Up to Medium cloud, dealing 1d6 points of fi re damage per caster level 7th Large (Refl ex half). 9th Huge 11th Gargantuan STORM TOWER 13th Colossal Abjuration",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Druid 7 straight line at a speed of 60 feet over water. The spell dis- Components: V, S sipates when the wave contacts land, lowering its burden Casting Time: 1 full round harmlessly to shore. Range: Long (400 ft. + 40 ft./level)",
+        "name":  "Standing wave moves the lifted creature or object in a Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Druid 8 Spell Resistance: Yes",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes tower), though it has no effect on the movement of creatures within it. However, only Gargantuan or Colossal creatures This spell creates a black storm cloud that hovers over your can pass through the outer edge of the storm tower; all crea- enemies, striking them with a terrifying combination of tures of lesser size must stop any movement at the edge. effects from the Elemental Planes. When created, the storm Anyone within the storm tower has one-half concealment of elemental fury buffets the area immediately below it with relative to those outside the tower. The howling winds of the a whirling windstorm that functions as described on pages storm tower also apply a û10 penalty on all Listen checks 94û95 of the Dungeon MasterÆs Guide. Ranged attacks within within 50 feet of it (including all those inside). the area of the storm are impossible, and Small or smaller STORMRAGE creatures must succeed on a Fortitude save or be blown away. Medium creatures must make their Fortitude save Transmutation [Electricity] or be knocked prone, and Large or larger creatures must Level: Cleric 8, druid 8 succeed on a Fortitude save to move that round. Flying Components: V, S, DF creatures that fail their saves are instead blown in a random Casting Time: 1 standard action direction, traveling 1d6 ╫ 5 feet of Large or larger, 1d6 ╫ 10 Range: Personal feet if Medium, and 2d6 ╫ 10 feet if Small or smaller. Spells Target: You cast within the area are disrupted unless the caster succeeds Duration: 1 min./level (D)Stormrage Fly (as the fly spell) PC Wind wall in (cid:2) adjacent squares Lightning requires(cid:2) ranged touch attack; range 100 ft. One square equals 5 feet 183 SPELLS DOMAINS AND CHAPTER 7",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Outsiders within the emanation of a subvert planar essence spell fi nd their connection disrupted with the planar forces that created them. Outsiders who fail their saves have their damage reduction and spell resistance each reduced by 10 points. For example, a barbed devil subject to subvert planar essence would have no damage reduction and SR 13, while a pit fi end would have damage reduction of 5/good and silver and SR 22. Outsiders attempt Fortitude saves and check SR when they fi rst enter the spellÆs area. If they make their save or the spell fails to overcome their SR, theyÆre thereafter unaffected by that casting of subvert planar essence and can enter and exit the spell area without making further saves. Outsiders who fail their saves or whose SR is overcome by the spell are affected as long as they remain within the spell area, and they are automatically affected if they leave and reenter the spell area.",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A rough statuette carved from ada- mantine ore (100 gp). TELEPATHIC BOND, LESSER You harness the powers of wind and storm to move, protect yourself, and attack. You gain the benefi ts of a fl y spell, and Divination [Mind-Affecting] are protected from each direction as if surrounded by a wind Level: Cleric 3, Mind 3, sorcerer/wizard 3 wall spell. You are completely unaffected by natural or magi- Components: V, S cal wind (such as a hurricane or gust of wind spell), easily able Casting Time: 1 standard action to hold your position and completely uninhibited by other Range: 30 ft. adverse effects of extreme wind (such as having to make Targets: You and one willing creature within 30 ft. Concentration checks because of strong winds). Duration: 10 min./level",
+        "name":  "Material Component",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Creature touched forcing them to make opposed Strength checks against the Duration: 1 round/level wave of water. The water has an effective Strength of 16 Saving Throw: Will negates and is considered Medium size (or Strength 20 and Large Spell Resistance: Yes if cast near a source of water). You designate the direction the wave pushes when you cast the spell; creatures who lose You may daze one living creature by making a successful the opposed Strength check are pushed back 5 feet, plus an touch attack. If the target creature does not make a success- additional 5 feet for every 5 points by which the wave beats ful Will save, its mind is clouded and it takes no action for their Strength checks, in that direction. It is possible for a 1 round per caster level. A dazed creature is not stunned wave arising from a body of water to push characters into (so attackers get no special advantage against it), but it canÆt the water. move, cast spells, use mental abilities, and so on. The wave puts out torches, campfi res, exposed lanterns, TRAVELERÆS MOUNT and other open fl ames if they are carried by the target or located within the area and they are Large size or smaller. Transmutation",
+        "name":  "In addition, all affected creatures suffer a bull rush attack, Target",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action Spell Resistance: Yes",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Touch Area/Effect/Target: Living creature touched This spell makes a mount better able to handle the rigors of",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Domination 8 with spell ability, and so on).",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action of invulnerability, and similar spells are not affected by",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "10 rounds + 1 round/level (max 15 rounds) the touched creature, healing up to 30 points of damage Saving Throw: Will negates (harmless) per round, neutralizing poisons automatically, and wiping Spell Resistance: Yes (harmless) away negative levels (as the restoration spell). The touched creature gets a With a touch of your hand, you boost the subjectÆs life +4 bonus on Fortitude and Will energy, granting him or her the fast healing ability for the saves as long as the roots remain, duration of the spell. The subject heals 1 hit point per round but a û4 penalty on Refl ex saves. of such damage until the spell ends and is automatically sta- bilized if he or she begins dying from hit point loss during VIGOR that time. Leessor vigor does not restore hit points lost Conjuration (Healing) from starvation, thirst, or suffocation, nor does it",
+        "name":  "The roots draw life energy from the ground that feed Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "10 rounds + 1 round/level The effects of multiple vigor spells do not stack; (max 25 rounds) only the highest-level effect applies. Applying This spell is the same as lesser vigor, a second vigor spell of equal level extends the except that it grants fast healing at fi rst spellÆs duration by the full duration of the rate of 2 hit points per round. the second spell. VIGOR, MASS LESSER Conjuration (Healing)",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Cleric 9 you are evil. WATERSPOUT As lesser visage of the deity, except that you take on the quali- ties of a half-celestial or half-fi end (see the Monster Manual Conjuration (Creation) for complete details). You do not gain the spell-like abilities Level: Ocean 7 of these creatures. Components: V, S, DF",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Level: Blackguard 4, cleric 4, paladin 4",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "(cid:2) rounds. Fort save or dragged(cid:2) 1d4 x 10ft. Greater whirlwind leaves dense rubble. 60 ft. 40 ft. Center 40 ft. 60 ft. 189 SPELLS DOMAINS AND CHAPTER 7 WEATHER EYE",
+        "name":  "Large or smaller",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 hour Spell Resistance: Yes",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 mile radius + 1 mile/level, centered on you This spell creates a tornado that wreaks destruction as you",
+        "name":  "Area",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Creatures who start their turn inside latched chest, since it doesnÆt know how a latch works. the tornado take 6d6 points of damage for each of the 1d10 The wose can perform only one activity at a time, but rounds they remain inside it (roll separately for each crea- it repeats the same activity if told to do so. Thus, if you ture). Creatures inside the tornado canÆt do much; attacks, commanded it to gather leaves, it would continue to do so spellcasting, and movement are impossible within an greater while you turned your attention elsewhere, as long as you whirlwind. When the greater whirlwind expels a creature, it remained within range. reappears 4d6 ╫ 5 feet away from the twisterÆs center in a The wose has an effective Strength score of 2, so it can lift random direction, and 4d6 ╫ 5 feet off the ground (immedi- 20 pounds or drag 100 pounds. It can trigger traps, but the ately falling if it canÆtfl y). 20 pounds of force it can exert is not enough to activate most",
+        "name":  "Inside the Tornado",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The tornado uproots trees and other pressure plates. Its speed is 15 feet in any direction, even up. vegetation automatically, and it leaves a trail of dense rubble Awood wose cannot attack in any way; it is never allowed (as described on page 90 of the Dungeon MasterÆs Guide) wher- an attack roll or a saving throw. It cannot be killed, but it dis- ever it goes. Structures within a greater whirlwind take 2d6 sipates if it takes 6 points of damage from area attacks. If you ╫ 10 points of damage per round. In a round or two, that attempt to send the wose beyond the spellÆs range (measured is suffi cient to destroy any building made of materials less from your current position), it ceases to exist. sturdy than reinforced masonry. WRACK No ranged attacks can pass through the twister. The greater whirlwind extinguishes all fl ames it touches. Listen Necromancy [Evil] checks are impossible within a greater whirlwind. Level: Cleric 3, sorcerer/wizard 4",
+        "name":  "Terrain and Structures",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Blackguard 4, paladin 4 Spell Resistance: Yes",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action A humanoid subject of the spellcasterÆs choosing is wracked",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "10 min./level blood, rendering him blind. For the duration of the spell, the subject is considered helpless and cannot take actions. This spell causes your mount to sprout giant, feathery Even when the spell ends, the subject is still visibly white wings. This grants the mount a fl y speed of 60 ft., shaken and suffers a û2 penalty on attack rolls, saves, and with a maneuverability of good. The mount is slowed as normal for weight carried, barding worn, and environ- mental factors. WOOD WOSE Conjuration (Creation)",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No A wood wose is a translucent, green nature spirit that you can command to perform simple natural tasks. It can build sdlonyeR .W yb noitartsullI191 SPELLS DOMAINS AND CHAPTER 7 checks for 3d10 minutes. The subjectÆs sight returns at the Appendix end of the spellÆs duration. ZEAL Each prestige class entry in this book includes a sample Abjuration character.",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) 10 Trothera the Just, female human cleric of Pelor 7/ sacred exorcist 3 58 This spell creates a binding agreement between a deity and 10 Xannifer Fluxwind, female half-elf cleric 7/ the target that grants the target a measure of divine power entropomancer 3 38 11 Alaraster, male human cleric 1/monk 6/ to crush the deityÆs enemies. sacred fist 4 60 Once this spell is cast, the pact remains dormant until 11 Dekelor, male human cleric 4/paladin 4/ the target successfully hits a foe whose alignment is exactly shining blade of Heironeous 3 64 opposite that of the deity. The targetÆs subsequent melee 11 Durgen Stonespike, male dwarf cleric 7/ attacks gain a +4 bonus, deal double damage, and automati- warpriest 4 76 12 Golden Arrow, female elf fighter 7/ cally confi rm critical hits for the spellÆs duration. Further- divine crusader 5 of Corellon Larethian 34 more, the targetÆs melee attacks have alignment descriptors 12 Seith, male human rogue 2/cleric 3/ that match the deity with whom youÆve made the pact. black flame zealot 7 22 The target is compelled to attack foes of opposite align- 13 Serena Sparklegem Hedow, ment every round if able to do so. The target knows which female gnome cleric of Garl Glittergold 10/ contemplative 3 32 creatures within 60 feet are of opposite alignment (as if the 13 Shalas the Headstrong, male half-elf fighter 7/ relevant detect spells had been cast). holy liberator 6 47 If you create a zealot pact with a completely neutral deity 15 Rendela, male human cleric 3/wizard 3/ such as Obad-Hai, choose one alignment from the follow- geomancer 9 44 ing list that triggers the zealot pact: lawful good, lawful evil, chaotic evil, or chaotic good. A creature can be subject to only one zealot pact at a time. Casting zealot pact on a target who already has an untrig- gered zealot pact voids the earlier pact.",
+        "name":  "Spell Resistance",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ability to cast arcane and divine spells. 1",
+        "name":  "Spells",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "At 1st level, a dweomerkeeper spell drops by 1 (minimum +1 level, or +0 level if the creates a personal mantle of arcane and/or divine spells. feat already has a +0 level adjustment). For example, a She chooses one arcane or divine spell that she can cast, quickened fireball uses a 6th-level slot (+3 levels) and thereafter she can convert prepared spells of that instead of the usual 7th-level slot (+4 levels), but a silent 2 spellÆs type (arcane or divine) into the chosen spell, so fireball still uses a 4th-level slot (+1 level). A spellaffected by the Heighten Spell feat is unaffected by this prestidigitation;1stùanimate rope, chill touch, comprehend ability. languages, expeditious retreat, true strike; 2ndùdetect",
+        "name":  "Mantle of Spells",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This prestige class could be made Wizard Spells Prepared(4/5/4/4/3; save DC specific to any god of the dead or the spirit world. In 3 14 + spell level): 0ùdancing lights, mage hand, message,your campaign, you could create an organization that added the prestige class. He does not, however, gain exists solely to train masters of shroudsùperhaps a any other benefit a character of that class would have cabal within the Mortuary Guild or a cult of mind gained (improved chance of turning or rebuking flayer clerics from the Plane of Shadow. undead, or the like). The level of master of shrouds is",
+        "name":  "Adaptation",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "d8. added to the level of whatever other divine spellcasting class the character has, then spells per day, spells REQUIREMENTS known, and caster level are determined accordingly. To qualify to become a master of shrouds, a character If the character had more than one divine spellcast- must fulfill all the following criteria. ing class before he became a master of shrouds, the",
+        "name":  "Hit Die",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ability to cast divine spells and a spell that master of shrouds for the purpose of determining appears on the spell list for the Death, Evil, or Protec- spells per day and spells known. tion domain. Summon Undead(Sp): At 1st level, the master of",
+        "name":  "Spells",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration 10 ranks, Spellcraft 10 ranks. shrouds gains the ability to summon a shadow or allip to",
+        "name":  "Skills",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ability to command or rebuke undead. fight his enemies. This ability works like the summon monster I spell, except as follows. The master of shrouds CLASS SKILLS cannot dismiss the summoned creature, and if it remains The master of shroudsÆs class skills (and the key ability after the last enemy is gone or slain, it attacks the master for each skill) are Concentration (Con), Craft (Int), of shrouds unless he successfully rebukes or commands Diplomacy (Cha), Intimidate (Cha), Knowledge it. The master of shrouds gains a +4 bonus on turning (arcana) (Int), Knowledge (religion) (Int), Profession checks and damage against undead he has summoned. (Wis), and Spellcraft (Int). See Chapter 4: Skills in the As the master of shrouds gains additional levels in PlayerÆs Handbookfor skill descriptions. the prestige class, he can summon undead more",
+        "name":  "Other",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "2 + Int modifier. The Master of Shrouds Class Level Base Attack Bonus Fort Save Ref Save Will Save Special Spells per Day/Spells Known 1st +0 +0 +0 +2 Summon undead ù (allip/shadow) 1/day 2nd +1 +0 +0 +3 Extra turning +1 level of existing divine spellcasting class 3rd +2 +1 +1 +3 Summon undead ù (allips/shadows) 2/day 4th +3 +1 +1 +4 ù +1 level of existing divine spellcasting class 5th +3 +1 +1 +4 Summon undead ù (wraiths) 3/day 6th +4 +2 +2 +5 ù +1 level of existing divine spellcasting class 7th +5 +2 +2 +5 Summon undead ù (spectres) 4/day 8th +6 +2 +2 +6 ù +1 level of existing divine spellcasting class 9th +6 +3 +3 +6 Summon undead ù (greater shadows) 5/day 10th +7 +3 +3 +7 ù +1 level of existing divine spellcasting class CLASS FEATURES frequently, and he gains access to more powerful incor- All the following are features of the master of shrouds poreal undead. He can summon two allips or two shad- prestige class. ows at 3rd level, two wraiths at 5th level, two spectres at",
+        "name":  "Skill Points at Each Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The master of shrouds gains character gains new spells per day (and spells known, if Extra Turning as a bonus feat. Furthermore, his master applicable) as if he had also gained a level in a divine of shrouds levels stack with his levels in any other 4 spellcasting class to which he belonged before he classes that can rebuke or destroy undead (such asMOON GUARDIAN cleric) for the purpose of determining the parameters of his rebuke or command ability. When a werewolf or other evil lycanthrope passes on",
+        "name":  "Extra Turning",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Male halfling cleric the curse of lycanthropy, the victim must either find a 8/master of shrouds 2; CR 10; Small humanoid; HD cure quickly or succumb slowly to the ravening evil of 8d8+8 plus 2d8+2; hp 55; Init +4; Spd 15 ft.; AC 22, a bestial nature. But good or neutral divine spellcasters touch 12, flat-footed 22; Base Atk +7; Grp +3; Atk +9 who have strong connections to their deities or to the melee (1d8, masterwork heavy mace) or +8 ranged divine powers they choose to represent can sometimes (1d6, sling); Full Atk +9/+4 melee (1d8, masterwork use their divine connections to stave off the slide into heavy mace) or +8 ranged (1d6, sling); SA rebuke evil. Those who succeed are known as moon guardians. undead 4/day, summon undead(allips/shadows); SQ The requirements to become a moon guardian are halfling traits; AL CE; SV Fort +9, Ref +4, Will +15; Str straightforward, but theyÆre more difficult to meet than 10, Dex 10, Con 12, Int 13, Wis 19, Cha 12. they first appear. The afflicted lycanthrope must pray",
+        "name":  "Wulbrin Undercotte",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Climb û4, Concentration +11, Diplo- for succor when he feels the temptation to give in to macy +8, Hide û2, Jump û4, Knowledge (religion) +7, his newfound bestial urges, but in time, a character Listen +9, Move Silently û4, Spellcraft +11, Spot +8; who has done so faithfully gains release from the risk Alertness, Extend Spell, Improved Initiative, Scribe of alignment change. (In game terms, the afflicted Scroll, Spell Penetration. lycanthrope PC must stave off an alignment change Summon Undead(Sp):Wulbrin can summon a until he earns enough experience to take a level in shadow or allip to fight his enemies. This ability works moon guardian.) like the summon monster I spell, except as follows. Wul- As NPCs, moon guardians often perform quests on brin cannot dismiss the summoned creature, and if it behalf of their deities or infiltrate cults of evil lycan- remains after the last enemy is gone or slain, it attacks thropes in order to destroy them from within. The Wulbrin unless he successfully rebukes or commands occasional evil moon guardian NPC often takes advan- it. He gains a +4 bonus on turning checks and damage tage of PCsÆ assumptions about his alignment, pretend- against undead he has summoned. He may always ing to be good at first, then revealing his true nature at choose to substitute lower-CR undead for any higher- a crucial moment. CR ones that he can summon, but the number sum-",
+        "name":  "Skills and Feats",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "2 + Int modifier. The Nightcloak Class Level Base Attack Bonus Fort Save Ref Save Will Save Special Spells per Day/Spells Known 1st +0 +2 +0 +2 Might of darkness +1 level of existing spellcasting class 2nd +1 +3 +0 +3 Eyes of night +1 level of existing spellcasting class 3rd +2 +3 +1 +3 ù +1 level of existing spellcasting class 4th +3 +4 +1 +4 Shadow talk +1 level of existing spellcasting class 5th +3 +4 +1 +4 True lies +1 level of existing spellcasting class 6th +4 +5 +2 +5 ù +1 level of existing spellcasting class 7th +5 +5 +2 +5 Grace of the dark +1 level of existing spellcasting class 8th +6 +6 +2 +6 Minions of night +1 level of existing spellcasting class 9th +6 +6 +3 +6 ù +1 level of existing spellcasting class 10th +7 +7 +3 +7 Voice of ineffable evil +1 level of existing spellcasting class CLASS FEATURES feet beyond that). Shadow talk is a sonic, language- All the following are features of the nightcloak prestige dependent effect. class. True Lies(Sp):Beginning at 5th level, a night-",
+        "name":  "Skill Points at Each Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ability to cast arcane and divine spells. 1",
+        "name":  "Spells",
+        "source":  "complete_divine_web_enhancement.txt",
+        "_id":  "9a2e42cca219845faf9c9e4da18b0f8195e6d2f8991d81eaa21b1bf648f07e0b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "At 1st level, a dweomerkeeper spell drops by 1 (minimum +1 level, or +0 level if the creates a personal mantle of arcane and/or divine spells. feat already has a +0 level adjustment). For example, a She chooses one arcane or divine spell that she can cast, quickened fireball uses a 6th-level slot (+3 levels) and thereafter she can convert prepared spells of that instead of the usual 7th-level slot (+4 levels), but a silent 2 spell’s type (arcane or divine) into the chosen spell, so fireball still uses a 4th-level slot (+1 level). A spell affected by the Heighten Spell feat is unaffected by this prestidigitation;1st—animate rope, chill touch, comprehend ability. languages, expeditious retreat, true strike; 2nd—detect",
+        "name":  "Mantle of Spells",
+        "source":  "complete_divine_web_enhancement.txt",
+        "_id":  "9a2e42cca219845faf9c9e4da18b0f8195e6d2f8991d81eaa21b1bf648f07e0b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This prestige class could be made Wizard Spells Prepared(4/5/4/4/3; save DC specific to any god of the dead or the spirit world. In 14 + spell level): 0—dancing lights, mage hand, message, 3 your campaign, you could create an organization that added the prestige class. He does not, however, gain exists solely to train masters of shrouds—perhaps a any other benefit a character of that class would have cabal within the Mortuary Guild or a cult of mind gained (improved chance of turning or rebuking flayer clerics from the Plane of Shadow. undead, or the like). The level of master of shrouds is",
+        "name":  "Adaptation",
+        "source":  "complete_divine_web_enhancement.txt",
+        "_id":  "9a2e42cca219845faf9c9e4da18b0f8195e6d2f8991d81eaa21b1bf648f07e0b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "d8. added to the level of whatever other divine spellcasting class the character has, then spells per day, spells REQUIREMENTS known, and caster level are determined accordingly. To qualify to become a master of shrouds, a character If the character had more than one divine spellcast- must fulfill all the following criteria. ing class before he became a master of shrouds, the",
+        "name":  "Hit Die",
+        "source":  "complete_divine_web_enhancement.txt",
+        "_id":  "9a2e42cca219845faf9c9e4da18b0f8195e6d2f8991d81eaa21b1bf648f07e0b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ability to cast divine spells and a spell that master of shrouds for the purpose of determining appears on the spell list for the Death, Evil, or Protec- spells per day and spells known. tion domain. Summon Undead(Sp): At 1st level, the master of",
+        "name":  "Spells",
+        "source":  "complete_divine_web_enhancement.txt",
+        "_id":  "9a2e42cca219845faf9c9e4da18b0f8195e6d2f8991d81eaa21b1bf648f07e0b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration 10 ranks, Spellcraft 10 ranks. shrouds gains the ability to summon a shadow or allip to",
+        "name":  "Skills",
+        "source":  "complete_divine_web_enhancement.txt",
+        "_id":  "9a2e42cca219845faf9c9e4da18b0f8195e6d2f8991d81eaa21b1bf648f07e0b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ability to command or rebuke undead. fight his enemies. This ability works like the summon monster I spell, except as follows. The master of shrouds CLASS SKILLS cannot dismiss the summoned creature, and if it remains The master of shrouds’s class skills (and the key ability after the last enemy is gone or slain, it attacks the master for each skill) are Concentration (Con), Craft (Int), of shrouds unless he successfully rebukes or commands Diplomacy (Cha), Intimidate (Cha), Knowledge it. The master of shrouds gains a +4 bonus on turning (arcana) (Int), Knowledge (religion) (Int), Profession checks and damage against undead he has summoned. (Wis), and Spellcraft (Int). See Chapter 4: Skills in the As the master of shrouds gains additional levels in Player’s Handbookfor skill descriptions. the prestige class, he can summon undead more",
+        "name":  "Other",
+        "source":  "complete_divine_web_enhancement.txt",
+        "_id":  "9a2e42cca219845faf9c9e4da18b0f8195e6d2f8991d81eaa21b1bf648f07e0b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "2 + Int modifier. The Master of Shrouds Class Level Base Attack Bonus Fort Save Ref Save Will Save Special Spells per Day/Spells Known 1st +0 +0 +0 +2 Summon undead — (allip/shadow) 1/day 2nd +1 +0 +0 +3 Extra turning +1 level of existing divine spellcasting class 3rd +2 +1 +1 +3 Summon undead — (allips/shadows) 2/day 4th +3 +1 +1 +4 — +1 level of existing divine spellcasting class 5th +3 +1 +1 +4 Summon undead — (wraiths) 3/day 6th +4 +2 +2 +5 — +1 level of existing divine spellcasting class 7th +5 +2 +2 +5 Summon undead — (spectres) 4/day 8th +6 +2 +2 +6 — +1 level of existing divine spellcasting class 9th +6 +3 +3 +6 Summon undead — (greater shadows) 5/day 10th +7 +3 +3 +7 — +1 level of existing divine spellcasting class CLASS FEATURES frequently, and he gains access to more powerful incor- All the following are features of the master of shrouds poreal undead. He can summon two allips or two shad- prestige class. ows at 3rd level, two wraiths at 5th level, two spectres at",
+        "name":  "Skill Points at Each Level",
+        "source":  "complete_divine_web_enhancement.txt",
+        "_id":  "9a2e42cca219845faf9c9e4da18b0f8195e6d2f8991d81eaa21b1bf648f07e0b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The master of shrouds gains character gains new spells per day (and spells known, if Extra Turning as a bonus feat. Furthermore, his master applicable) as if he had also gained a level in a divine of shrouds levels stack with his levels in any other 4 spellcasting class to which he belonged before he classes that can rebuke or destroy undead (such as MOON GUARDIAN cleric) for the purpose of determining the parameters of his rebuke or command ability. When a werewolf or other evil lycanthrope passes on",
+        "name":  "Extra Turning",
+        "source":  "complete_divine_web_enhancement.txt",
+        "_id":  "9a2e42cca219845faf9c9e4da18b0f8195e6d2f8991d81eaa21b1bf648f07e0b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Male halfling cleric the curse of lycanthropy, the victim must either find a 8/master of shrouds 2; CR 10; Small humanoid; HD cure quickly or succumb slowly to the ravening evil of 8d8+8 plus 2d8+2; hp 55; Init +4; Spd 15 ft.; AC 22, a bestial nature. But good or neutral divine spellcasters touch 12, flat-footed 22; Base Atk +7; Grp +3; Atk +9 who have strong connections to their deities or to the melee (1d8, masterwork heavy mace) or +8 ranged divine powers they choose to represent can sometimes (1d6, sling); Full Atk +9/+4 melee (1d8, masterwork use their divine connections to stave off the slide into heavy mace) or +8 ranged (1d6, sling); SA rebuke evil. Those who succeed are known as moon guardians. undead 4/day, summon undead(allips/shadows); SQ The requirements to become a moon guardian are halfling traits; AL CE; SV Fort +9, Ref +4, Will +15; Str straightforward, but they’re more difficult to meet than 10, Dex 10, Con 12, Int 13, Wis 19, Cha 12. they first appear. The afflicted lycanthrope must pray",
+        "name":  "Wulbrin Undercotte",
+        "source":  "complete_divine_web_enhancement.txt",
+        "_id":  "9a2e42cca219845faf9c9e4da18b0f8195e6d2f8991d81eaa21b1bf648f07e0b"
+    }
+]

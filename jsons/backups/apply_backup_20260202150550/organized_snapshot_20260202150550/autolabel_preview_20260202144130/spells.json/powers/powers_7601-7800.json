@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "spells.json",
+        "description":  "Male mind flayer Shd 3/Illithid Savant Psionics (Sp):At will—astral projection, charm monster, 3; CR 15; Medium-size aberration; HD 8d8+8 plus 3d8+3 detect thoughts, levitate, plane shift, andsuggestion. These abili- plus 3d4+3; hp 72; Init +6; Spd 30 ft.; AC 24, touch 15, flat- ties are as the spells cast by an 8th-level sorcerer (save DC 14 footed 22; Atk +13 melee (1d4+1, 4 tentacles); Face/Reach + spell level). The DCs are Charisma-based. 5ft./5 ft.; SA extract, improved grab, mind blast,psionics, Improved Grab (Ex): To use this ability, Sugglir must hit shadow illusion,sneak attack +7d6, summon shadow;SQ dark- a Small to Large creature with his tentacle attack. If he gets vision 60 ft., evasion, hide in plain sight, lore 4/day, SR 25, a hold, he attaches the tentacle to the opponent’s head. Sug- telepathy, uncanny dodge; AL LE; SV Fort +10, Ref +11, glir can grab a Huge or larger creature, but only if he can Will+17; Str 12, Dex 14, Con 12, Int 20, Wis 17, Cha 18. somehow reach the foe’s head. 78 :7 RETPAHC EGITSERP SESSALC Table 7–2: The Illithid Savant Fort Ref Will Class Level Base Attack Bonus Save Save Save Special 1st +0 +0 +0 +2 Acquire skill 1, lore 2/day 2nd +1 +0 +0 +3 Acquire feat 1, lore 4/day 3rd +1 +1 +1 +3 Acquire class feature 1 4th +2 +1 +1 +4 Acquire skill 2, acquire feat 2 5th +2 +1 +1 +4 Acquire special attack or special quality 1, lore 6/day 6th +3 +2 +2 +5 Acquire skill 3, Acquire feat 3 7th +3 +2 +2 +5 Acquire class feature 2 8th +4 +2 +2 +6 Acquire skill 4, acquire feat 4 9th +4 +3 +3 +6 Acquire special attack or special quality 2, lore 8/day 10th +5 +4 +3 +7 Acquire class feature 3 After a successful grab, Sugglir can try to attach his If his shadow companion is destroyed, or if Sugglir remaining tentacles with a single grapple check. The oppo- chooses to dismiss it, Sugglir must attempt a Fortitude save nent can escape with a single successful grapple check or (DC 15). If the saving throw fails, he loses 600 experience Escape Artist check, but Sugglir gets a +2 circumstance points. A successful saving throw reduces the loss to 300 bonus for every tentacle that was attached at the beginning XP. A destroyed or dismissed shadow companion cannot of the opponent’s turn. be replaced for a year and a day. Extract (Ex): If Sugglir begins his turn with all four ten- Skills:*This is an acquired skill. tacles attached and successfully maintains his hold, he auto- Feats:**This is an acquired feat. matically extracts the opponent’s brain, instantly killing that Lore (Ex):Sugglir gets a +9 bonus creature. on his lore checks. He can Telepathy (Su):Sugglir can communicate telepathically use this ability with any creature within 100 feet that has a language. twice a day. Hide in Plain Sight (Su):Sugglir can use the Hide skill even while being observed. As long as he is within 10 feet of some sort of shadow, he can hide from view in the open without anything to actually hide behind. He cannot, how- ever, hide in his own shadow.",
+        "name":  "Sugglir Wissenka",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "d8. maneuverability). The swarm has the same number of hit points as the orig- REQUIREMENTS inal creature and can be damaged by fire and area-effect To qualify to become a master of flies, a character must fulfill spells and abilities. If the swarm is dispersed (by gust of wind, all the following criteria. for example), the master of flies must return to her own",
+        "name":  "Hit Die",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Must possess the ability to change form, such as A master of flies can use this ability once per day at 2nd from an alternate form ability, the shapechanger subtype, or level and more times per day at 3rd, 4th, 6th, 7th, and 9th awild shapeability. level, as shown on Table 7–3: The Master of Flies. At 5th level, a master of flies is able to take the shape of a CLASS SKILLS swarm identical to that produced by an insect plaguespell, The master of flies’ class skills (and the key ability for each except that the swarm can be no more than one size larger skill) are Balance (Dex), Climb (Str), Control Shape (Wis), than the master of flies (you can choose the face if more Disguise (Cha), Escape Artist (Dex), Handle Animal (Cha), than one is available). This swarm can move at half the Hide (Dex), Jump (Str), Knowledge (nature) (Int), Move master of flies’ normal speed and can fly at the same speed Silently (Dex), Survival (Wis), and Swim (Str). (clumsy maneuverability). At 8th level, a master of flies is able to take the shape of a",
+        "name":  "Special",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "6 + Int modifier. swarm identical to that produced by a creeping doomspell, except that the swarm can be no more than two size cate- CLASS FEATURES gories larger than the master of flies (you can choose the All of the following are class features of the master of flies face statistic if more than one is possible). This mass of prestige class. vermin can only move at 10 feet per round and cannot fly.",
+        "name":  "Skill Points at Each Level",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "d10. on Wisdom, and saving throws against these spells have a DC of 10 + spell level + the scaled horror’s Wisdom bonus. REQUIREMENTS When the scaled horror gets 0 spells of a given level, such as To qualify to become a scaled horror, a character must fulfill 0 1st-level spells at 1st level, the scaled horror gets only all the following criteria. bonus spells. A scaled horror without a bonus spell for that",
+        "name":  "Hit Die",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Character must have either the aquatic or the rep- level cannot yet cast a spell of that level. A scaled horror pre- tilian subtype. pares and casts spells just as a ranger does (though the scaled",
+        "name":  "Race",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Hide 5 ranks, Move Silently 5 ranks, plus either Freedom of Movement (Ex):Beginning at 2nd level, a Swim 5 ranks or a +8 racial bonus on Swim checks. scaled horror moves and fights underwater as if subject to the spell freedom of movement. CLASS SKILLS Damage Reduction (Ex): Starting at 4th level, a scaled The scaled horror’s class skills (and the key ability for each horror gains the ability to shrug off some amount of injury skill) are Climb (Str), Concentration (Con), Hide (Dex), from each blow or attack. Subtract 2 from the damage the Jump (Str), Listen (Wis), Move Silently (Dex), Search (Int), scaled horror takes each time he is dealt damage. At 10th Spot (Wis), Survival (Wis), and Swim (Str). level, this damage reduction rises to 4/–. Damage reduction cannot reduce damage to less than 0.",
+        "name":  "Skills",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "At 7th level, a scaled horror gains Silent All of the following are class features of the scaled horror Spell as a bonus feat. prestige class. Still Spell: At 8th level, a scaled horror gains Still Spell as",
+        "name":  "CLASS FEATURES Silent Spell",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Balance +4, Climb +6, Handle Animal +2, however, they can focus their talents to become excellent Hide +5, Jump +14, Listen +4, Move Silently +5, Spot +5, support for combat specialists, softening up opposition for Swim +16; Improved Initiative, Multiattack, Track. killing strokes. Improved Grab (Ex): If Saebeohrt hits with both claw Hit Die:d4. attacks, he deals normal damage and attempts to start a grap- ple as a free action without provoking an attack of opportu- REQUIREMENTS nity. Improved grab works only against Medium-size and To qualify to become a siren, a character must fulfill all the smaller opponents. Saebeohrt has the option to conduct the following criteria. grapple normally, or simply use his claws to hold the oppo- Skills:Bluff 6 ranks, Intimidate 6 ranks, Perform 8 ranks 84 :7 RETPAHC EGITSERP SESSALC (includes either ballad, buffoonery, chant, epic, limericks, al effects. Once per day, she can overlay a despair effect on melody, ode, or storytelling). her sonic attack identical to that of an emotionspell. Those",
+        "name":  "Skills and Feats",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "4 + Int modifier. Song of Nightmare (Su): At 4th level, a siren gains a new sonic ability. Once per day per level in this prestige class, she can overlay a terrifying effect on her sonic attack. This is iden- tical to the effect of a phantas- mal killerspell, affects all crea- tures within range of the siren’s sonic attack, and has instantaneous duration. The Will and Forti- tude saves to resist this effect have a DC of 12 + the siren’s level + the siren’s Cha modifier. Song of Idiocy (Su):At 5th level, a siren gains a new sonic ability. Once per day per level in this prestige class, she can over- Class Features lay an Intelligence-damaging effect on her All of the following are sonic attack. This is identical to the effect class features of the siren prestige class. of a feeblemindspell, affects all crea-",
+        "name":  "Each Level",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Empower Spell-Like Ability. earns the questioner the benefit of the specified divination",
+        "name":  "Feats",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Must have an innate spell-like divination ability. spell, with no chance of failure. An incorrect answer, how- ever, carries a penalty, which is more severe the more diffi- CLASS SKILLS cult the riddle becomes. The sybil’s class skills (and the key ability for each skill) are Conundrum:At 3rd level, a sybil begins to express her gift Concentration (Con), Craft (any) (Int), Diplomacy (Cha), of prophecy. The riddle is a simple one. A correct answer Gather Information (Cha), Hide (Dex), Knowledge (arcana) earns the benefit of an auguryspell, with no chance of failure. (Int), Knowledge (religion) (Int), Listen (Wis), Profession An incorrect answer causes the questioner to take 1 point of (any) (Wis), Scry (exclusive skill, Int), and Sense Motive (Wis). temporary damage to an ability score of the sybil’s choice. The sybil can use this ability once per day per class level.",
+        "name":  "Special",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "6 + Int modifier. Mystery: At 5th level, a sybil’s prophecy becomes more pre- cise. The riddle is moderately challenging. A correct answer Class Features earns the benefit of a divinationspell, with no chance of failure. All of the following are class features of the sybil prestige An incorrect answer causes the questioner to take 2 points of class. temporary damage to an ability score of the sybil’s choice. The",
+        "name":  "Skill Points at Each Level",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Female shark; CR 2; Large animal ranks, Perform (chant) 1 rank. (aquatic); HD 8d8+8; hp 44; Init +2; Spd swim 60 ft.; AC 15, Spells:Ability to cast 3rd-level divine spells. touch 11, flat-footed 13; Atk +7 melee (1d8+6, bite); Face/Reach 10 ft./5 ft.; SQ keen scent, low-light vision; CLASS SKILLS ALN; SV Fort +7, Ref +8, Will +3; Str 18, Dex 15, Con 13, The yuan-ti cultist’s class skills (and the key ability for each Int5, Wis 12, Cha 2. skill) are Concentration (Con), Craft (any) (Int), Diplomacy",
+        "name":  "Swiftstriker, Mount",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A yuan-ti cultist enters the service of Merr- priate. Three times per day as a standard action, the cultist shaulk and learns some of the secrets of the cult. He gains a can launch these tattoos against opponents within +2 circumstance bonus on Diplomacy and Intimidate medium range (100 feet + 10 feet/level). The checks when dealing with yuan-ti not of the temple hierar- snakes seek out their target(s) with unerring chy and a +2 circumstance bonus on Knowledge (religion) accuracy, hitting automatically. The target checks dealing with the worship of Merrshaulk. takes 2d6 points of damage from the impact In addition, the yuan-ti cultist learns and must succeed on a Fortitude sav- the secret of brewing the dreadful mix- ing throw (DC 10 + yuan-ti cultist’s ture that transforms humans into tainted level + yuan-ti cultist’s Con modi- ones or broodguards (see Yuan-Ti in fier) as the snakes’ venom Chapter 10: Templates) The mixture takes effect. Primary and requires the venom of a halfblood secondary damage is 1d6 or pureblood yuan-ti as well as Constitution. certain herbs and roots found On the following only in tropical forests, whose round the snakes fly raw materials cost is at least 50 back to the cultist. Be- gp. The DC to craft this mixture is fore the spell can be 25; if the cultist has 5 or more ranks in Pro- cast again, the cultist fession (herbalist), he gains a +2 synergy bonus must swallow the on this check. living snakes,",
+        "name":  "Outer Circle",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "At 3rd level, a yuan-ti cultist advances to painful, night-long ritual that transforms him into a human- the next rank in service to Merrshaulk. The circumstance headed abomination (abominations form the leadership bonus on Diplomacy and Intimidate checks when dealing within the temple hierarchy). If he is already an abomina- 98 :7 RETPAHC EGITSERP SESSALC tion but does not have a human head, this ceremony trans- require the normal material components to use this ability, forms him into that form. This ceremony requires the par- but he must still expend herbs, oils, and incense worth 500 ticipation of at least six abominations of the Inner Circle. gp per level of any spells tied to the unhallowarea. Finally, at this level the cultist learns the secret of trans- Command Reptiles (Su):At 8th level, a yuan-ti cultist is forming a tainted one into a pureblood yuan-ti. This able to mentally command all snakes and reptilian animals involves brewing a more potent version of the infusion that within 30 feet at will. This resembles dominate animalcast by transforms humans into tainted ones (Craft [alchemy] DC a cleric of his class level (including cleric levels). 30, raw materials cost 100 gp). In addition, at least three Psionics: Chant of Agony(Sp): At 8th level, a yuan-ti yuan-ti cultists of the Second Circle must preside over the cultist can perform a ritual of sacrifice to Merrshaulk. Once ceremony, which lasts 1 hour. If the creature does not per day as a full-round action, he can dance and chant to slay desire the transformation, he must succeed on a Fortitude one living creature within 60 feet. With a successful Will save (DC 10 + yuan-ti cultist’s class level + yuan-ti cultist’s save (DC 10 + yuan-ti cultist’s class level + yuan-ti cultist’s Con modifier). On a failure, he lapses into a coma and dies Wis modifier), the creature instead takes 6d6 points of within 1 hour unless revived with a delay poisonorneutralize damage. This ability has no effect on beings that are poisonspell. immune to mind-affecting effects, such as oozes and plants. Greater Psionic Focus (Su):At 6th level, a yuan-ti cultist Inner Circle:At 9th level, a yuan-ti cultist ascends to the further refines his psionic abilities. He adds +4 to the DC for highest tier of mortal power within the cult. The circum- all saving throws against his innate psionic powers. This stance bonus on Diplomacy and Intimidate checks when overlaps (does not stack with) the bonus granted by the dealing with other yuan-ti and on Knowledge (religion) psionic focus ability. checks rises to +10.",
+        "name":  "Third Circle",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "At 7th level, a yuan-ti cultist advances to tincture that transforms a pureblood into a halfblood, one a more senior rank within the cult. The circumstance every 4 hours. If the creature does not desire the transfor- bonus on Diplomacy and Intimidate checks when dealing mation, he must succeed on a Fortitude save (DC 10 + yuan- with other yuan-ti and on Knowledge (religion) checks ti cultist’s class level + yuan-ti cultist’s Con modifier). On a rises to +8. failure, he dies instantly. In addition, the cultist’s poison becomes more virulent. Unholy Aura (Su):At 9th level, a yuan-ti cultist can use He gains Virulent Poison as a bonus feat. unholy auraonce per day, as the spell cast by a cleric of his Finally, at this rank the cultist learns the secret of trans- class level (including cleric levels). forming a pureblood yuan-ti into a halfblood. This involves Voice of Merrshaulk:On reaching 10th level, a yuan-ti brewing a more potent version of the infusion that trans- cultist attains the pinnacle of his career, transcending his forms humans into tainted ones (Craft [alchemy] DC 35, mortal essence to become an emissary of Merrshaulk. His raw materials cost 500 gp). In addition, at least three yuan-ti type changes to outsider, but he can be raised from the dead cultists of the Inner Circle must preside over the ceremony, if willing. He gains spell resistance equal to 20 + his Wisdom which lasts 6 hours. If the creature does not desire the trans- modifier. formation, he must succeed on a Fortitude save (DC 10 + In addition, the Voice of Merrshaulk gains the supernat- yuan-ti cultist’s class level + yuan-ti cultist’s Con modifier). ural ability to communicate telepathically with any other On a failure, he lapses into a coma and dies in 1 hour unless creature within 100 feet that has a language. He can also revived with a delay poisonorneutralize poisonspell. command other yuan-ti at will, as dominate monstercast as a Unhallow(Sp):At 7th level, a yuan-ti cultist gains the abil- divine spell by a cleric of the cultist’s class level (including ity to use unhallowonce per week as the spell cast by a cleric cleric levels). This is a spell-like, mind-affecting compul- of his class level (including cleric levels). He does not sion effect. 99 CLASSES PRESTIGE CHAPTER 7: pqqqqrs SUFFERING PRESTIGE DOMAIN Suffering Domain Spells",
+        "name":  "First Circle",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can use a pain touchonce per day. Make a 1 Bane 6 Harm melee touch attack against a living creature, which bestows on 2 Endurance 7 Eyebite (sicken effect only) that creature a –2 enhancement penalty to Strength and 3 Bestow curse 8 Symbol (pain effect only) Dexterity for 1 minute on a successful attack. This spell-like 4 Enervation 9 Horrid wilting ability does not affect creatures immune to critical hits. 5 Feeblemind pqqqqrs SAMPLE YUAN-TI CULTIST any snake or yuan-ti, alive or dead; if already within 20 feet, Through cleverness and guile, Shauganttha rose to a position they move away. A subject can overcome the compulsion by of power through capturing many orcs and humans in raids, succeeding at another DC 17 Will save, but still suffers deep preparing for the yuan-ti village elders to transform them into anxiety. This causes a –4 reduction to Dexterity until the tainted ones. After his settlement of yuan-ti was raided by a effect wears off or the subject is no longer within 20 feet of band of adventurers and dispersed, Shauganttha moved to a a snake or yuan-ti. This ability is otherwise similar to antipa- large yuan-ti city located beneath a large human metropolis thyas cast by a 16th-level sorcerer. and began advising a high priest in the temple of Merrshaulk. Rebuke Undead (Su):Shauganttha can make undead cower by channeling negative energy.",
+        "name":  "Granted Power",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "*Yuan-ti using chameleon power receive a +8 cir- Darkvision:Shauganttha can see in the dark as though cumstance bonus on Hide checks. in normal daylight. Constrict (Ex):The creature crushes the opponent, deal- Outer Circle:At 1st level, Shauganttha entered the serv- ing 1d6+7 points of bludgeoning damage, after making a ice of Merrshaulk and learned some of the secrets of the cult. successful grapple check. He gains a +2 circumstance bonus on Diplomacy and Intim- Improved Grab (Ex):If Shauganttha hits an opponent idate checks when dealing with yuan-ti not of the temple that is at Medium-size or smaller with his bite, he deals hierarchy and a +2 circumstance bonus on Knowledge (reli- normal damage and attempts to start a grapple as a free gion) checks dealing with the worship of Merrshaulk. action without provoking an attack of opportunity (grapple In addition, Shauganttha learned the secret of brewing the bonus +21). If he gets a hold, he can also constrict in the dreadful mixture that transforms humans into tainted ones same round. Thereafter, Shauganttha has the option to con- or broodguards (see Yuan-Ti in Chapter 10: Templates of this duct the grapple normally, or simply use its bite to hold the book for more information) The mixture requires the venom opponent (– 20 penalty to grapple check, but the Shaugant- of a halfblood or pureblood yuan-ti as well as certain herbs tha is not considered grappled). In either case, each success- and roots found only in tropical forests, whose raw materials ful grapple check it makes during successive rounds auto- cost is at least 50 gp. The DC to craft this mixture is 25. matically deals bite and constrict damage. Suffering Prestige Domain:At 2nd level, Shauganttha Psionics (Sp): Shauganttha can produce the following gained access to the Suffering prestige domain. This allows effects at will. him access to a third domain’s spells and immediately grants",
+        "name":  "Skills",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As the spell cast by a 6th-level sorcerer. the domain’s power, as set out in the sidebar.",
+        "name":  "Detect Poison",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Groups of monsters ADVANCING benefit from having at least one cleric and at least one sorcerer or wizard (see below). These AS A CHARACTER classes bolster the entire group through spells When you need a monster to have a particular class ability, that increase speed, enhance ability scores, or feat, or skill, adding class levels is usually the quickest way heal injuries. 105 AS STANDARD CLASSES ing a monster to the point where it qualifies for a prestige Following is some general advice about deciding on an class may make it too big a threat for your current adven- appropriate character class for a monster. ture.",
+        "name":  "Groups of Monsters",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "These are the Most prestige class descriptions state which classes most four usual possibilities for combat-focused monsters. The commonly enter the prestige class. Those statements often choice usually boils down to having a d12 Hit Die and the indicate the strength of the prestige class: combat, stealth, rage ability or having a wide selection of feats. Few base noncombat interaction, divine spellcasting, or arcane spell- creatures meet the alignment requirement for paladins, but casting. Once you determine that strength, it is easy to apply monster PCs might. Monsters with moderate Constitution the above guidelines given for the basic classes to the pres- scores should consider the barbarian class, since the large tige class. Hit Die will generate the most hit points on average. Mon- sters with high Constitution scores can take fighter or ADVANCING BY TYPE ranger levels, since their Constitution bonus will make up for the slightly smaller Hit Die. The Monster Manualcovers this form of monster advance-",
+        "name":  "Barbarian, Fighter, Paladin, or Ranger",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "If Wisdom is one of the monster’s top When an advanced monster changes size, adjust its two ability scores, these classes are good choices. Monsters Strength, Dexterity, and Constitution first. Use the new that work with or against undead are better off taking levels Constitution and the new number of Hit Dice to determine of cleric. This also helps a group of monsters in a fight, since the monster’s new hit points. Then determine the new For- the cleric can use healing spells, as well as spells to enhance titude saving throw bonus based on the monster’s type and Strength and Constitution. Monster druids present a seri- add the new Constitution modifier. Apply any other modi- ous threat to PCs because of their summoning abilities and fiers, such as from Great Fortitude, and you have the mon- their control over nature. ster’s new Fortitude saving throw bonus.",
+        "name":  "Cleric or Druid",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Any monster that gets to ambush opponents Attack, Spirited Charge, Trample): If your campaign from long range benefits from this feat. Note that this feat focuses on outdoor adventures, giving ample opportunity to does not increase the range of ray spells. ride into combat, monsters should focus on this feat and",
+        "name":  "Far Shot",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Great Fortitude, Power Attack, Track not especially intelligent, they possess innate cunning 115 TEMPLATES CHAPTER 10: and logical ability. This makes them immune to maze Each successful attack does normal claw damage for that spells, prevents them from ever becoming lost, and size of feral creature, plus 1/2 its Strength bonus (rounded enables them to track enemies. Further, they are never down). If the feral creature pounces on an opponent, it can caught flat-footed. also rake. Scent (Ex):A feral minotaur can detect approaching ene- Rend (Ex):A feral creature that hits with both claw attacks mies, sniff out hidden foes, and track by sense of smell. latches onto the opponent’s body and tears the flesh. This",
+        "name":  "Feats",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+2 spells, and spell-like abilities, and supernatural abilities. The",
+        "name":  "Initiative",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Solitary (alone or with its spellcaster INSECTILE CREATURE liberator)",
+        "name":  "Organization",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Solitary (alone or with its spellcaster lib- erator). Insectile ogres are big, ugly, greedy creatures that live by",
+        "name":  "Organization",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A monstrous stag beetle is immune to all Gargantuan 6d6 8 mind-affecting effects (charms, compulsions, phantasms, Colossal 10d6 10 patterns, and morale effects). It also has darkvision (60-foot range). Charm (Sp):The key ability score for charmis Charisma, a Fire Subtype (Ex):A monstrous stag beetle is immune successful Will save negates the effect, and the minimum to fire damage and takes a –10 penalty on saves against cold Challenge Rating to qualify for the ability is 1. This ability attacks. If a cold attack does not allow a saving throw, the functions like a charm monsterspell (caster level equal to Hit creature takes double damage instead. Dice; range 30 feet). Petrifying Gaze (Su):The key ability score for petrifying CREATING A MONSTROUS BEAST gaze is Wisdom, a successful Fortitude save negates the “Monstrous” is an inherited template that can be added to effect, and the minimum Challenge Rating to qualify any animal or vermin (here- for the ability is 5. Any after referred to as the base creature within 30 feet creature). A monstrous that meets the mon- beast has all the base crea- strous beast’s gaze turns ture’s characteristics except to stone. as noted here. Poison (Ex): The key",
+        "name":  "Vermin Traits",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Multiheaded creatures have dark- Some multiheaded creatures have abilities similar to the vision to a range of 90 feet. Having a redundant head makes various forms of hydras. The three different types each have a creature more able to survive otherwise lethal attacks. a special ability, as detailed below. 125 TEMPLATES CHAPTER 10: Lernaean Creatures with a slow, shambling gait and groans with the weight of These multiheaded creatures have bodies that are immune the ages. Symbols of the deity it once served often mark one to attack (but see below). The only way to slay a Lernaean of these horrid creatures. While other undead stink of car- creature is to sever all its heads. However, each time a head rion, the herbs and powders used to create a mummy give is severed, two new heads spring from the stump in 1d4 off a sharp, pungent odor, like that of a spice cabinet. rounds. A Lernaean creature may never have more than Mummified creatures speak the languages they spoke in twice its original number of heads; any heads it gains life. beyond that number wither and die within a day. To prevent a severed head from growing back into two, at SAMPLE MUMMIFIED CREATURE least 5 points of fire or acid damage must be dealt to the This example uses an ogre as the base creature. stump (AC 19) before the new heads appear. Spells such as disintegrate, finger of death,andslay livingkill Mummified Ogre a Lernaean creature if they succeed. If the spell deals Large Undead damage on a successful save, that damage is directed against Hit Dice:4d12 (26 hp) one of the creature’s heads. Initiative:–2 A Lernaean creature has an additional +2 level adjust- Speed:20 ft. ment. AC:15 (–1 size, –2 Dex, +8 natural), touch 7, flat-footed 15",
+        "name":  "Special Qualities",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+7. Combat Blood Drain (Ex): A SPECTRAL bugsucker drains blood. To use CHARACTERS this ability, it must make a Spectral characters with class successful grapple check and levels generally take levels of attach itself to the target barbarian, fighter, or ranger. These by hitting with its touch classes offer good Hit Dice and attack. Each round it attack bonuses that the spectral maintains the hold, it character uses to make its incorpo- deals 1d4 points of Consti- real touch more effective. The preferred tution damage. It can make the class of spectral characters is fighter. They attack against Small or rarely take spellcaster levels because, as incorporeal larger creatures only. creatures, they cannot handle material components. Some Detach (Ex):A symbiotic creature’s two multiclass as rogues to get the class abilities and increased members can separate, dealing 1d6 points of damage to the access to skills (their incorporeal nature allows them to host (bugbear). This is a standard action that does provoke move silently and hide without those rogue class skills). an attack of opportunity, which may be made against host 131 TEMPLATES CHAPTER 10: or guest. Reengaging takes one day of complete rest. If the Constitution) of the host, and the mental scores (Intelli- reattaching creatures are disturbed during this process, gence, Wisdom, Charisma) of the guest (minimum Intelli- each takes 1d6 points of Constitution damage from bleed- gence 3). ing, and they remain separate. Skills:A symbiotic creature uses the host’s skill ranks, adjusted to account for the changed ability scores of the CREATING A SYMBIOTIC CREATURE overall symbiotic creature. The skill ranks of the guest “Symbiotic” is an acquired template that can be added to become racial bonuses of the symbiotic creature. All the any two living creatures of the following types: animal, original racial skill bonuses of both the host and the guest humanoid, plant, or vermin. The two creatures need not be also apply. the same type. One (hereafter referred to as the guest) must Feats:A symbiotic creature retains the host’s feats and be at least two size categories smaller than the other (here- gains the guest’s feats as bonus feats. after referred to as the host). Climate/Terrain:Same as the host.",
+        "name":  "Level Adjustment",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A wight gains the forested regions. Some possess feathered wings, energy drain special attack, described some possess leathery wings, and still others below. The DC of the saving throw for possess insect wings. The type of wing is no any of its special attacks is equal to indication of alignment, sophistication, or atti- 10 + 1/2 wight’s HD + wight’s Cha tude. Intelligent winged creatures tend to modifier. revere Bahamut and Obad-Hai for their con- Energy Drain (Su): Any living creature trol over the air. struck by a wight’s natural attack must A winged creature appears as a normal succeed on a Fortitude saving representative of the base creature, with throw or gain two negative the addition of a pair of wings on its backs. levels. For each negative level Intelligent winged folk may be primitive it bestows, the wight heals 5 tribes, nomadic wanderers, points of damage. If the or as culturally sophisti- amount of healing is more cated as elves. than the damage the creature Winged crea- has taken, it gains any tures, if they excess as temporary hit possess the gift points. If the nega- of language, speak tive level has not the languages of their base been removed (with creatures, plus Auran. a spell such as restoration) before 24 hours have passed, the afflicted opponent must succeed on a Fortitude save (same DC) to remove it. Failure means the opponent’s level (or Hit Dice) is reduced by one. SAMPLE",
+        "name":  "Special Attacks",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The base damage for the wraith’s incorporeal effects, poison, sleep,paralysis, stunning, disease, death touch attack depends on the size of the creature, as shown effects, necromantic effects, and any effect that requires a on the table below. The attack also deals 1d6 points of Con- Fortitude save unless it also works on objects. It is not sub- stitution drain. ject to critical hits, subdual damage, ability damage, ability 139 TEMPLATES CHAPTER 10: drain, energy drain, or death from massive damage. A in and out of its mouth. Broodguards, as their name wraith cannot be raised, and resurrectionworks only if it is suggests, are most often found guarding yuan-ti brood willing. The creature has darkvision (60-foot range). chambers. Unnatural Aura (Su): Both wild and domesticated animals Tainted ones and broodguards speak the languages they can sense the unnatural presence of a wraith at a distance of knew before their transformation, and they usually learn 30 feet. They do not willingly approach nearer than that and Draconic within a few months of becoming infected. become panicked if forced to do so; they remain panicked as long as they are within that range. SAMPLE YUAN-TI TAINTED ONE Sunlight Powerlessness (Ex): Wraiths are utterly powerless This example uses a human 4th-level fighter as the base in natural sunlight (not merely a daylightspell) and flee creature. from it. A wraith caught in sunlight cannot attack and can take only partial actions. Yuan-Ti Tainted One",
+        "name":  "Damage",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Poison immunity, spell resistance 13",
+        "name":  "WRAITH CHARACTERS Special Qualities",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "5 One of the most insidious aspects of the yuan-ti is their Treasure:Standard human heritage, for this vile race of serpent folk is Alignment:Chaotic evil descended from humans who interbred with an ancient Advancement:By character class sauroid race. In their monstrous evil, the yuan-ti continue this mingling of serpentine and human blood, creating two Combat type of agents and servitors who are not quite human—nor Poison Bite (Ex):The saliva of a tainted one is poisonous are they fully yuan-ti. when ingested or introduced into the blood. A tainted one Yuan-ti cultists (see Chapter 7: Prestige Classes) create can only inject its venom while grappling a foe with both these servitors using essentially the same process. exposed skin. The Fortitude save to resist this poison has a If the process is a success, the result is a tainted one. DC of 17. Victims who fail this save take 1d4 points of Con- These creatures appear just as they did before their infec- stitution damage. After 1 minute, they must make another tion—generally able-bodied humans, usually of 3rd to save; failure means another 1d4 points of Constitution 6th level. Though their bodies do not show signs of their damage. A tainted one’s kiss is also poisonous, though in tainted blood, their personalities and mannerisms do: this case the save DC is reduced by 2. They often develop habits such as frequently licking their Psionics (Sp): The transformation activates latent lips, drawing out the sibilant sounds when they speak, or psionic potential in human minds, granting tainted ones keeping large serpents as pets. Tainted ones serve the supernatural abilities similar to those of true yuan-ti. A yuan-ti as agents who can pass unnoticed among other tainted one can create the following effects through the races and infiltrate where even a pureblood yuan-ti might power of its mind as a sorcerer of its character level: poison risk discovery. (Fortitude save, DC 18) and polymorph self(into snake or If the process goes awry, the result is a broodguard— snakelike forms only). a hairless, near-mindless abomination with an emaciated Poison Immunity (Ex):Tainted ones are immune to all body. Its gray or yellow-green skin is tough and scaly, and forms of snake venom, including their own poison. it smells faintly of rotting meat. The creature has beady, Spell Resistance (Ex):A tainted one gains spell resist- bloodshot eyes, and its forked tongue continually darts ance of 12 +1 per three levels. 140 :01 RETPAHC SETALPMET CREATING A YUAN-TI tion damage. A tainted one’s kiss is also poisonous, though in “Tainted one” and “broodguard” are acquired templates that this case the save DC is reduced by 2. can be added to any human (referred to hereafter as the Broodguards do not gain psionics or a poison bite, but base creature). Creatures using these templates have all the instead gain a rage ability. base creature’s characteristics except as noted here. Rage (Ex):Once per day, a broodguard can enter into a",
+        "name":  "Challenge Rating",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Tainted ones gain poison immunity they can use in melee. They use the base attack and spell resistance. values they had as humans, but their claws deal 1d2 Poison Immunity (Ex): Tainted ones and broodguards points of damage and their bite deals 1d3 points of are immune to all forms of snake venom. damage. Spell Resistance (Ex):Tainted ones gain spell",
+        "name":  "Broodguards have sharp claws and vicious bites Special Qualities",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Tainted ones gain the resistance of 12 +1 per three levels. following two special attacks. Broodguards gain mental resistance. Psionics (Sp):The transformation Mental Resistance (Ex): Broodguards are immune activates latent psionic potential in toholdandcharmspells. human minds, granting tainted Abilities:Tainted ones, +2 Con. Broodguards, ones supernatural abilities similar +2Dex, +2 Con, –4 Int, –4 Cha. to those of true yuan-ti. A tainted Feats:Tainted ones and broodguards gain Alert- one can create the following ness as a bonus feat due to their heightened senses. effects through the power of its mind Climate/Terrain:Warm land.",
+        "name":  "Special Attacks",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "If you add additional templates, Yuan-ti:No special notes. the creature retains its multiple heads. 144 :01 RETPAHC SETALPMET pqqqqrs BREAKING THE RULES gain the incorporeal subtype. The undead type possesses If you want to take some risks and venture into territory not some significant advantages, so for this example we change covered by the rules, you can combine templates in any way the type to undead and the Hit Dice to d12s. The ghost bargh- you like and apply them to whatever creatures you like. You est loses its Constitution score but gains immunity to any gain a monster unique to your campaign at the expense of a effect that requires a Fortitude save, unless it affects objects. few extra decisions. The ghost barghest now has Charisma 18. It now has 39 hit Suppose you want to create a ghost barghest. Normally the points, a small gain despite losing its Constitution bonus. Its ghost template does not apply to outsiders, so the resulting Fortitude save drops to +5, since it loses its Constitution creature breaks the rules. The template does not change the bonus. It has no Constitution-based skills. Its Bluff and creature’s size, but it does change the type. Undead and Intimidate skill modifiers increase to +13 because of its outsider are both at the top of the pyramid, so the creature’s increased Charisma. The new Charisma score also increases type depends on which is more advantageous. If your adven- the DC for its spell-like abilities to 14 + spell level, and the tures occur on an Outer Plane, you might want to leave it as an ghost barghest must manifest to affect targets on the Material outsider. If so, Hit Dice should probably stay the same, and the Plane. Otherwise, the special attacks and special qualities of a ghost barghest should have a Constitution score and vulnera- ghost apply just as well to this creature as to any normally bility to most effects requiring Fortitudes saves. It could still covered by the template. pqqqqrs f you are a DM, chances are your players will want to For example, a human rogue just gained 5th level build new characters when they see this book. Some, and has 10,000 experience points. On her next adven- however, will want to transform their existing characters ture, a wererat bites her. The rogue decides she wants into monsters. This chapter provides information to use the abilities that lycanthropy brings; perhaps envi- when that happens. sioning a gang of wererat thieves all working for her. A DM never has to allow a character to transform from a She voluntarily fails her Fortitude save against the standard race to a monster. Even in the case of monsters curse of lycanthropy (see Lycanthropes, below) and, that transform victims into monsters of the same kind by after her first change, becomes a wererat. Now her killing them, the DM may decide that this type of transfor- ECL is 8. Instead of needing 5,000 experience mation does not necessarily produce a monster that can be points to go from 5th level to 6th, she needs 26,000 a character. In the case of lycanthropy or some form of experience points (the difference between 5th and transformation that takes place after a character’s death, 9th level). The average level of her party increases, the DM may decide to simply take the character and make so everyone gets fewer experience points from an NPC from it. As for voluntary ritual transformation the ensuing encounters (see Table 7–1: Experi- (detailed in this chapter), the DM need never allow it, or ence Point Awards in the DUNGEONMASTER’s Guide) she may determine that this method of transformation is unless the DM tweaks those encounters to unavailable until she is more comfortable with the idea. increase their Encounter Level. When she has 36,000 experience points, the rogue can add her EFFECTS OF 6th level as a rogue (or any other class level she chooses), and she will be an ECL 9 character. TRANSFORMATION She needs 9,000 XP to reach her next level (the Once a character transforms, she has a new effective char- difference between 9th and 10th level). acter level. This ECL determines how many experience After the character transforms, the charac- points she needs to gain her next class level, and how many ter’s ECL should be 15 or lower for reasons dis- experience points her party gets from each encounter. The cussed in the Maximum Levels sidebar in Chap- DM must explain these effects to her players before allow- ter 2: Building Monster Characters. While ing them to begin transforming their characters. ritual transformation is possible for higher- 145 AS level characters, those who know the rituals generally do becomes vulnerable to sunlight. (Primarily for these reasons, not undertake the transformation process for someone who the bodak is not considered an appropriate choice for a mon- may then usurp their authority or who is not likely to adven- ster PC; see Appendix 2 of this book for a complete list of all ture long enough to pay them back. recommended monsters.) The new bodak has no obligation or tie to the bodak that killed the new bodak’s previous form.",
+        "name":  "Multiheaded Creature",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "According to the Monster Manual, when a drow of If a character transforms to a kind of monster that always above average ability (and all player characters are, in some has a particular alignment, and the character did not origi- way, above average) reaches 6th level, the deity Lolth may nally have that alignment, the transforming character put him or her through a special test. Those who fail the test makes a Will save (DC 10 + 1/2 the goal monster’s Hit Dice become driders (and their type changes to aberration). + the goal monster’s Wis modifier) to avoid an involuntary Unlike other sorts of monster transformations, this one alignment change. Modify the DC as follows: requires that the base creature be of an unusual race (drow) to begin with. Further, that creature must be a cleric, wizard, Monster’s alignment is one step removed from or sorcerer. This sort of transformation also requires access character’s original alignment to a temple of Lolth, so the base creature must be one that is (for instance, character NG and monster LG) –5 accepted in drow society, meaning it is most likely neutral Monster’s alignment is two steps removed from evil in alignment. You can create a drider by applying the character’s original alignment (for instance, tauric template found in Chapter 10 of this book. character NG and monster LN, or character NG and monster NE) +5 Once transformed, the drider is an outcast from drow Monster’s alignment is diametrically opposed to society. Drider clerics retain their spells, domains, domain character’s original alignment (for instance, spells, and granted powers. Drider wizards keep their spells character LG and monster CE) +10 and bonus feats, and may continue preparing those spells normally. Drider sorcerers keep their spells and may con- CLASSES AND SPELLS tinue preparing those spells normally. Any additional cleric, Ways already exist to change a character’s creature type from sorcerer, or wizard levels earned as a drider add to the char- a standard-race humanoid to something else. Monks, for acter’s previous six levels. If a character meets the require- instance, become outsiders at 20th level. Several prestige ments, the DM should consider the impact of the drider’s classes presented in books such asTome and Bloodallow grad- spells and spell-like abilities on the game before allowing ual changes to outsider, half-dragon, and other types. Appro- this transformation. priate rules appear in the class descriptions. Ghost: The DM may allow deceased characters to remain Thereincarnatespell also provides an opportunity for a in contact with their former lives by becoming ghosts (see character to transform. Pixies and satyrs are on the table in the template in the Monster Manual). Such a character the spell description (see Chapter 11 of the Player’s Hand- changes its type to undead. Ghosts feature many of the same book), but so is “Other.” Talk to your DM about your desire to challenges as vampires: They can easily negotiate obstacles alter your character; then, if your character dies, your DM that would stop or delay a party of corporeal beings, they are may allow that character to be reincarnated as a creature exceedingly difficult to kill, and they can possess living type chosen by the two of you. beings. Such characters are best suited to single adventures, The effects of casting a wishspell to change a creature’s “passing on” when they accomplish some business they left type are discussed in Rituals, later in this chapter. unfinished in life.",
+        "name":  "ALIGNMENT CHANGE Drider",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "All four of these an entirely different creature. transformed creatures appear within rounds of when the vic- A ritualist (a spellcaster versed in the conducting of one tim was slain. In all cases, the character’s type changes to un- or more rituals) is necessary for the performance of any rit- dead. A major drawback to shadows, spectres, and wraiths as ual. Player character spellcasters can learn how to conduct characters is their inability to physically interact with the the rituals described below. A ritualist cannot conduct a rit- real world except through their draining touch attacks. As ual on herself. a result, they are unlikely to get a good reception anywhere. A spellcaster may learn a single ritual each time she gains Since the base creature is always of a specific evil alignment, a new spell level. For instance, a wizard can learn a ritual at characters of other alignments are rare. Shadow characters 1st level (when she gains 1st-level spells), 3rd level (when spawned from a shadow’s Strength drain attack are under she gains 2nd-level spells), 5th level (when she gains 3rd- the original shadow’s control while it exists. level spells), and so on. A spellcaster cannot learn a ritual",
+        "name":  "Shadow, Spectre, Wight, and Wraith",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The bite of a blue slaad transforms arcane spell- that requires a specific spell (wishorpolymorph other) unless casters into green slaad and other characters into red slaad. she can cast that spell. In either case, the character’s type changes to outsider. The transformation takes one week, but leaves the character’s MINOR RITUALS mind and memory intact. In addition, no bond exists Some characters may wish to gain the benefits of a particu- between the transformed character and the blue slaad; the lar type or subtype of monster, without actually becoming a transformed character is free to act independently. specific kind of monster. For instance, a character may wish",
+        "name":  "Slaad",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Level Adjustment:+0. If a character attempts to gain an alignment subtype that is Ritual of the Elements neither his nor opposed to his This ritual imbues a character with (for instance, a neutral good an elemental (air, earth, fire, water) character attempting to gain the or energy (acid, cold, electricity, fire) chaotic subtype), he must make subtype or modifier. The character a Will save (DC 15). If he fails, becomes immune to the appropriate the ritual changes his alignment energy type or element, and takes to match the subtype and he double damage from its opposing gains one negative level. The charac- energy or element unless a saving throw ter’s new experience point total is midway for half damage is allowed. The character is subject between the minimum needed for the new to all spells that affect that element or energy type. level and the minimum needed for the next one. If the character was 1st level, he loses 1 point of Constitution Associated Opposed instead of gaining one negative level. This negative level or Element Energy Energy Air Electricity Acid Constitution loss cannot be offset by any mortal spell, even Earth Acid Electricity wishormiracle, thought the character can improve his Con- Fire Fire Cold stitution normally. If he succeeds, the ritual still changes his Water Cold Fire alignment to match the subtype. If the character’s align- ment ever changes from that of the subtype, the subtype and its benefits are lost. The character may repeat the ritual after This ritual requires a 9th-level cleric who has the appropri- losing the subtype and gain it again, suffering the same ate element or energy type as one of his domains. forced alignment change. Ritual Cost:This ritual costs the subject 36,000 gold pieces",
+        "name":  "Different but not Opposed",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A number of class levels equal to the starting MAJOR RITUALS ECL of the goal creature, minimum 1. As with any major Some of these rituals are performed by members of cults ritual, the subject character also pays the ritualist a number devoted to particular monster types, such as dragon cults. of gold pieces equal to 1,000 ×caster level ×the starting ECL Others are performed by arcane or divine orders. Arcane of the goal creature. In this case, the DM should allow a 149 MONSTER BECOMING A CHAPTER 11: pqqqqrs ECL OF THE GOAL CREATURE Conversely, the less powerful the goal creature, the less expen- When transforming an existing character into a new race or sive the ritual is. creature type by means of a major ritual, the goal creature is It is possible to use the information in Chapter 3: Classes in what the character wishes to become. If a human wants to conjunction with major rituals. A character may become a become an ogre, the goal creature is ogre. The cost to trans- monster at a level lower than its starting ECL by using the form a character using a major ritual is based on the starting guidelines in that chapter. Doing this reduces the time and ECL of the goal creature (the HD of the base creature plus level cost of any major ritual the character undergoes. The character adjustment; see Appendix 2: Compiled Tables). The more advances as that monster until reaching its starting ECL, and powerful the goal creature, the more expensive the ritual is. then may resume gaining class levels normally. pqqqqrs character to pay this amount in stages—a number of gold would need to pay 3,000 XP, since a gnoll’s starting ECL is 3 pieces equal to 1,000 ×caster level each time he gains a level and it takes 3,000 experience points to become a 3rd-level until the character pays the entire fee. character. No spell, not even restoration,can bring back the",
+        "name":  "Ritual Cost",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The starting ECL of the goal creature lost experience points. (minimum 7th). A character may spend so many experience points that he loses levels. If you decide to do this, be careful not to lose so Characters using this major ritual earn experience and gain many levels that, even with the addition of the goal crea- levels normally. However, once they earn class levels equal ture’s Hit Dice, your monster character cannot survive the to the starting ECL of the goal creature, they sacrifice that threats your group faces. Characters may not spend experi- many class levels and gain the starting ECL of the goal crea- ence points they do not have. Experience points are not ture. The transformation is gradual and occurs while the spent until the completion of the ritual. If the ritual is inter- character is gaining the requisite levels. Other characters rupted, the character loses nothing but the time he already can notice changes in height, skin, hair, eyes, teeth, and so spent on it, and he may start the ritual again later. forth before the ritual is complete. If a character multi- Paying the experience point cost all at once, or in large classes while earning these levels, then when he trades partial amounts, is a quick way to complete this ritual for levels he retains only those he had when he began the ritual. higher-level characters with the experience points to For example, a 1st-level elf fighter wishes to become an spend. If you have players with high-level characters and ogre. An ogre’s starting ECL is 6, so the ritual requires a ritu- want to allow the characters to transform, this ritual is an alist of 7th caster level and costs 42,000 gold pieces. The DM ideal method. The loss of experience points may even tells the player that the elf fighter must pay 7,000 gold extend the time those characters have available to continue pieces (42,000 gold pieces divided by six levels) to the ritual- adventuring. ist every time the elf fighter gains a level until the fee is paid. The elf gradually transforms into an ogre while earning six Wish class levels. Every seventh day (six days separate each ritual A spellcaster casts wishand transforms the character. activity), he spends 8 hours performing ritual activities Ritual Time:1 action, as the spell. during which he does nothing other than conduct the Ritual Cost:The ritualist must spend 5,000 XP (the spell’s ritual, rest, eat, sleep, or talk. Upon reaching 6th level, he XP component). The ritualist charges the subject a number becomes a 1st-level ogre fighter, regardless of which classes of gold pieces equal to caster level ×90, plus an additional contributed to those six levels, because he was a 1st-level 25,000 gp (to compensate for the experience point loss). fighter when he began the ritual. Ritual Caster Level:17th, as the spell. Trading levels is generally best for lower-level, single- class characters who decide to transform, because they have Castingwishto become a new kind of creature, with full plenty of time to earn levels in their current form and class, access to all extraordinary, spell-like, and supernatural abili- and still have a lot of time left to advance in level after trans- ties (see End Result, below), while retaining Intelligence, forming. If your players have low-level characters and you memory, and personality, falls under the “wishing for want them to have time to adventure after transforming, greater effects” rules in the spell description. While this is this ritual is a good choice. the quickest method of transformation and potentially the least expensive, it has substantial risks. Ritual of Vitality The DM may, for instance, require the spellcaster to make This major ritual trades experience points for the starting a Spellcraft check. For every point by which the check result ECL of the goal creature. exceeds 20, the transforming character gains a 5% chance to",
+        "name":  "Ritual Caster Level",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This ritual takes a number of days equal to the have the goal creature’s abilities. The transforming character ECL of the goal creature, minimum one day. Ritual activities must roll for each ability. For instance, if the spellcaster gets occur each day. a 28 on her Spellcraft check, the transforming character has",
+        "name":  "Ritual Time",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A ghaele receives one feat at 1st level and addi- minor globe of invulnerability. The ghaele’s caster level for tional ones at 3rd, 7th, and 15th level. After 20th level it these effects is its Hit Dice from ghaele class levels. The gains feats normally according to its character level (which aura can be dispelled, but the ghaele can create it again as a requires epic level advancement rules; see Epic Level Hand- free action on its next turn. bookfor more information). Alternate Form (Su): Upon reaching 7th level, as a",
+        "name":  "Feats",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A vrock receives one feat at 1st level and addi- 3 rounds. tional ones at 3rd and 11th level. After 16th level it gains Vrock Powers (Sp):Beginning at 9th level, a vrock can feats normally according to its character level, as shown on use the following spell-like abilities: mass charm, telekinesis, Table 2–5: Experience and Level-Dependent Benefits. andteleport without error(self plus 50 pounds of objects",
+        "name":  "Feats",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The type of the creature. Note:Constructs have two more, or more powerful, features depending on the base entries; the one marked (a) is for a construct character that creature’s Hit Dice, this column shows the template’s vari- has received the benefit of the awaken constructspell (see ous Hit Die levels (if applicable). Chapter 6), and the one marked (i) is for a construct charac- Base Creature Size:Some templates provide more, or ter to which the incarnate construct template has been more powerful, features depending on the base creature’s applied. size. This column allows the table to show level adjustment",
+        "name":  "Type",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "By character class caster still requires 8 hours of rest before preparing spells.",
+        "name":  "Advancement",
+        "source":  "savage_species_playing_monstrous_characters.txt",
+        "_id":  "b6294c335ec83f7d3d973e95be01b692696824ea5e8ab701dd0044283488a5d3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Charismaisthemostimportantability thebaseability for someof hisskills. for ashaman,sinceit affectshisdealingswith the spirits,howmanyhecanattracttohiscauseand Alignment: Any neutral. howpowerfulhisspellswill evolve. Tocastaspell, theshamanmusthaveaCharismascoreof 10+ the Hit Die: Id6 spell\u0027slevel. A shamangetsbonusspellsbasedon Charisma,which alsohelpshim to bargainwith Class Skills powerfulspirits. TheDifficulty Classof asaving Theshaman\u0027sclassskills (andthekeyability for throwagainstashaman\u0027sspellis 10+ thespell\u0027s eachskill) areConcentration(Con),Craft (Int), level+ theshaman\u0027sCharismamodifier. Diplomacy (Cha),Heal (Wis), Knowledge(spirits) Intelligencehelpstheshamanby increasingthe (Int), Perform(Cha),Scry(Int, exclusiveskill), Cheziklethisconscienceslip. Themixture of drugsandsongfrom hismastermadehismind wander, discoveringnewsensationsoutof old images. Hevaguelyrememberedwhy hewasenteringthis trance. \u0027Youcannotwalk thepathalone,\u0027MasterTelzunhadsaidwith oneof hisannoyinglittle smiles. \u0027Even in the straightestof roads,youcangetlost.\u0027 Thenhefelt it... thatfeelingthattheworld hadsomehowchanged. Evenwheneverythinglookedthesame,it wasapparentthattherewassomethingbehinditsappearance.Hehadturnedtheworld upside-down,ashis masterdescribedtheexperience. Thefire laughedathisconfusion,andthewind whisperedunintelligible secretsto hisears. Heheardthunder in thedistance,but sawnolightning andthenight skywasclear. Themyriadstarswinked athim, daringhim toaskthemanyof their secrets. Thethunderrepeateditself, andit slowlytransformedinto athrobbingbeatthatechoedthepumpingof his heart. Thenight foldedinto itself, crafting feathersoutof darkness,eyesoutof cloudsandbeakandtalonsout of thepurestobsidian. \u0027Well, hellothere.\u0027Theravenspokenonchalantly,asif it hadnotjust takenshapefrom therawmaterialsof the world. \u0027Greetings... oh... oh...\u0027 Chezikstammered.Evento hisbeginner\u0027ssenses,this wasapowerful spirit. 10 \u0027Gack! Forgetprotocol,kid.\u0027 Theravenchuckled. \u0027It makesmesickanyway. I gatheryou\u0027rehereall alone.\u0027 \u0027Yes... yesI am.\u0027 \u0027And I guessyoucamehereonpurpose.\u0027Thecorvid hoppedalittle towardstheshamanapprentice. \u0027I...\u0027 Chezikhadseenotherspiritsbeforewhenassistinghismaster,but noneof themhadspokentohim directly. \u0027Then it isthelogical conclusionthatyou\u0027rehereto meet me.\u0027 \u0027But... my master...\u0027 \u0027Knows thatit istime,boy. Timefor youtowalk theslantedpaths,to live in theinvisible world. It will bemy honourandmypleasureto guideyouthroughtherestof your life, shaman.lam heretobeyour spirit guide.\u0027 THE SHAMANS PATH Profession (Wis), Sense Motive (Wis), Swim (Str), Wilderness Lore (Wis). See Chapter 4: Skills in Core Rulebook I for skill descriptions. Skill Points at 1st Level: (4 + Int modifier) x 4",
+        "name":  "Abilities",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A shamancastsdivine spellsaccordingto",
+        "name":  "Spells",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "TheShaman.A shamanmaycastanyspellon thelistsof hisspirit allies,providedhecancast spellsofthatlevel. He doesnotneedtopreparehis spellsin advance,butcanchoosewhatspellto cast inthesameactioninwhich hecastsit. Theguardianspirit grantstheshamantoall 0level clericalspells(orisons). mayonlycastthosespellsaccordingtohislevel. In ordertocastaspell,theshamanmusthavea TheshamangetsnofreeDomainspellslike the Charismascore of 10+thespell\u0027slevel. TheDifficulty cleric,sohemustpreparethemnormally. Classof asavingthrow againstashaman\u0027sspellis 10+ thespell\u0027slevel+theshaman\u0027sCharismamodifier. Eachday,theshamancandesignateanumberof Bonusspellsfor shamansarebasedonCharisma. spirit alliesequaltohisWisdommodifier as favoured allies (minimum of 1). Until thenext",
+        "name":  "Table",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spiritsarethetrue morning,he can takeadvantageoftheDomain source of ashaman\u0027spower, and all spirits belong to a grantedpowers. Thesefavouredspiritsgrantas singleDomain. Theyknowall thespellsof that describedunderthepowerinvocationability. The Domainuptotheirownspelllevel,andmakethem guardianspirit doesnot countagainstthemaximum availabletotheshaman,alongwith theDomain numberof spirit alliestheshamanmayhave. grantedpower.Theyknowandteachafew additionalspellsoutsidetheir Domain,which areno GuardianSpirit: As partofhisinitiation,the higherthantheirmaximumspelllevel,andit isthis shamanstartsplaywith aguardianspirit. This list fromwhichtheshamanchooseshisspells.At ,companionisnotaservant,like afamiliar istoa first level,shamanscanonly havethreespirit allies wizardor sorcerer,butisanadvisorandaguideinto plustheirCharismamodifier, chosenatcharacter theinvisibleworld of thespirits. Theguardianisa creationandnomorepowerfulthan4thspelllevel. normalspirit whobondswith theshaman,andthis Duringplay,theShamancanacquirespiritsof any unionempowersboth. It costsnothingto summona spelllevel,following thenormalsummoningrules. guardianspirit, andit isusuallythespirit who Regardlessof thespellsthespirit knows,theshaman choosestheshaman,nottheotherwayaround. 11 THE SHAMANS PATH Theplayercanchoosetheguardianspirit from the Theguardianspirit countsasaspelllevel9spirit in list in theSpirit Guardiantableonp13. It doesnot termsof thespellsit cangranttheshamanfrom the matterthattheguardianisamuskratspirit or the spirit domainandtheDCsin dealingwith a Ferrymanof theDead,theteachingsandpowerit potentialguardian. therestof its characteristicsare - impartsbeginandgrowatthesamerate. The unchanged note,for examplethattheguardian guardianawardstheshamanwith hisfirst Domain: spirit hasalowerSRthananequivalentspirit, due theSpirit Domain. Theshamancanbenefit from the to theenergyit constantlybestowsupontheshaman. guardian\u0027sspecialbonus,but theguardian\u0027sspell list islimited to Domainspellsonly. PowerInvocation: Becausehecansurround himself with severalspiritsatonce,theshamanhas Theshamanmaynotdismisshisguardianspirit accessto awide varietyof Domains. However,he voluntarily,but in thecasethatit isdestroyedor it cannotbenefit from theDomaingrantedpowers leavesonits own,theshamanmustattemptaWill automatically;hemustinvoketheminstead. As a savingthrow(DC 15). If thesavingthrow fails, the standardaction,theshamanmustsucceedin a shamanloses200experiencepointsperclasslevel. Perform(rituals) checkwith aDC equalto 10+ the A successfulsavingthrowreducesthelossto half of spirit\u0027sspelllevel. If successful,theshamancanuse thatamount. However,ashaman\u0027sexperiencecan or takeadvantageof thegrantedpowerfor ten nevergobelowzeroastheresultsof aguardian\u0027s minutespercasterlevel. Hecanonly invoke demise. Theshamancantry to call anewguardian Domain grantedpowersfrom favouredspirit allies spirit atthenextsolsticeor equinoxwith anormal andonly onceeachdayfrom eachfavouredally. He summoningrite, undernormalspirit summoning doesnotneedto invokethepowerof theSpirit rules. Thisistheonly chancetheshamanhasto Domain,theonehisguardianspirit provides,asit is choosethespirit hewantstobehisnewguardian alwaysconsideredactive. Invoking apowerisa spirit. supernaturalability thatprovokesattacksof opportunity. The Shaman - Base- - Fort Ref Will Max Spirit Spells per Day Level _Attack Bonus Save Save -Save Special Allies 0- 1.13 4 5 678 9 1 +0 +2 +0 +2 Summonguardianspirit, rites 3 3 1 - (ward),power invocation 2 +1 +3 +3 Rites (summ°n) 4 4 2 - +0 3 +2 +3 +1 +3 5 4 2 1 4 +3 _ +4 +1 +4 6 5 3 2 - 5 +3 +4 +1 +4 Rites(exorcize) 7 5 3 2 1 12 6 +4 +5 +2 +5 Bonusfeat 8 5 33 2 - 7 +5 +5 +2 +5 - - - 9 6 4 3 2 I 8 +6/+1 +6 +2 -:+6 Rites (awakening) 10- 6 4 3 3 2 9 +6/+1 +6 +3 +6 11 6 4 4 3 2 1 10 +7/+2 +7 +3 +7 - 11 -\"64\"4 332 11 +8/+3 +7 +3+7 Rites(possession) 12 6544 3 2 1 12 +9/+4 +8 --+4 +8 Bonus feat - 12 --\"6- 5 ,44 332 - 13 +9/+4 +8 +4 +8 13 6 55 4432 1 14 +10/+5\u0027 +9 +4 +9 Rites(travel) 1\u00273 -6 5 54 4 3 3 2 15 +11/+6/+1 +9 +5 +9 14 6 55 4 4 4 3 2 1 16 +12/+7/+2 +10 +5 -+10 feat - -114 56 55655 55 4544 43 34232 17 +12/+7/+2 +10 +5 +10 - - 15 6 55 5555 554544 43 233I 18 +13/+8/+3 +11 +6 +11 Bonus 20_+15/++1120+/+6 5+1 2 166- 5555 5444 4 19 +14/+9/+4 +11 +6 +11 16 6 THE SHAMANS PATH",
+        "name":  "Spirit Allies andDomains",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spirit. Theguardiangrantstheshaman only betargetedby attackswhenvisiting the accesstotheSpirit Domain. Theshamancancast etherealplane,in which all rulesfor attacking spellsgrantedby hisguardianjust ashedoesfrom etherealbeingsapply,andwhenmanifestingin the anyotherspirit, but doesnotcountagainstthe material world. maximumspirit alliestheshamancangather accordingtohislevel. Also, theshamandoesnot",
+        "name":  "Domain",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Theguardianspirit maymakehis needto invoketheSpirit Domain grantedpower,but presenceknownto theshaman,making itself visible isconsideredto bealwaysactive. Theguardian tohiseyesonly. It isin theSpirit Worldandthus spirit grantsno spellsoutsidetheDomain\u0027slist. The cannotbeaffectedby anythingin theMaterial guardiancountsasSpellLevel9regardingthespells Plane,existingin astatesimilar to etherealness, it cangranttheshaman,regardlessof its actuallevel exceptthatit isnot in theetherealplane.The whenfirst encountered. guardianonly doesthisto call theshaman\u0027s attentionandgivetheoddpieceof advice.",
+        "name":  "Projection",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A Touchedcharactecrastsdivinespells thatworkslike the6thlevelcleric spellof thesame accordingto thetablebelow. A touchedcharacter name,with thedifferencethatit allowsaWill save maycastanyspellin thelistsof his spirit allies, to negatetheeffect(DC 16+ spirit\u0027sWisdom providedhecancastspellsof thatlevel. Hedoes modifier). All of thetouchedcharacter\u0027sspirit allies notneedtopreparehisspellsin advance,but casts havetheir chanceto imposetheir ownquestsbut, them spontaneously. beingpolite to eachother,wait until anyactivegeas isfinished beforeaskingfor another,andtheycan",
+        "name":  "Spells",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Thecharacterattractsa only collectively try onceeverymonth. Whenthe smallnumberof spirit alliesthatdetecthisreadiness characterreaches6th levelin thetouchedclass,the to receivethem,eithervoluntarily or not. The spiritscantry toimposetheirgeas onceeveryweek, toucheddoesnotchoosethespiritsanddoesnot andwhenhegainshis 10thlevel,theycantry two summonthemlike anormalshamanwould; atevery timesperweek. While thespiritshaveachanceto levelin which heisableto castahigherspelllevel, imposetheir whims onthecharacter,theyarenot anewspirit ally with thatspelllevelarrivesand obligedto doso;it isuptotheGM whetherthey attachestohim, grantinghim accessto its full spell takethechanceornot,aswell aswhatthedetailsof list andDomain. thequestare.",
+        "name":  "Spirit Allies and Domains",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Touched PowerInvocation (Su): Like theshaman,the characters\u0027spirit alliesareajealousgroup,andthey touchedcharacterdoesnot automaticallyenjoythe donotallow him to advancein anyotherclass The Touched Base Fort Ref Will Max Spirit Spellsper Day Level Attack Bonus Save Save Save Special Allies 0 1 2 3 4 5 1 +0 +2 +0 +0 Geas (l/month),powerinvocation 1 3 I 12 +1 +3 +0 +0 The Sigh 1 4 2 3 +2 +3 +1 +1 Voicesof respect 2 4 2 1 4 +3 +4 +1 +1 BestowabIlIty 2 5 3 1. 5 +3 +4 +1 +1 3 532 1 16 +4 +5 +2 +2 Geas(1/week)omaln gift 3 5 3 3 2 1 7 +5 +5 +2 +2 Bestow skill 4 643 2 1 8 +6/+1 +6 +2 +2 Intervenom beyond 4 643 3 2 1 9 +6/+1 +6 +3 +3 Bestowfeat 5 644 3 2 1 110 +7/+2 +7 +3 +3 Geas(2/week),lImItedwIsh 5 6 4 4 3 3 2 18 THE SHAMANS PATH Domain-granted powershisspiritalliesprovide.As apartialaction,thecharacterrolls aPerform (rituals)checkwith aDC equalto 10+ thespirit\u0027s spelllevel. If successful,hecanuseortake advantageof thegrantedpowerfor tenminutesper classlevel. Also, unlike theshaman,heisnot limitedto favouredspirits,but caninvokethe powersof anyof hisspirit allies. Hecantry to invokegrantedpowersonceperdayperspirit. Invokingapowerisasupernaturalability that provokesattacksof opportunity. TheSight (Su): Whenattaininghissecondlevelin thetouchedclass,thecharacterisfinally ableto see theownersof thevoicesthattormenthim. As per theSpiritDomaingrantedpower,hecanseeactive spiritswithin 60\u0027 with asuccessfulSpotcheck (DC20). Voicesof Respect(Su): Thespirits constantly whispertheirrandomadviceanddesiresto the touchedcharacter,andhecannowexpectto receivemoreusefulinformation. Thecharacter canaskanyquestionto eachof hisspirit allies oncepersession.Thespiritsanswerto thebest oftheirability (GM\u0027s discretion),andtheyalmost neverlie. While thecharacterconsultsthespirit, however,heisdistractedandlosestouchwith the materialworld, suffering a-1 circumstance penaltyonall hisrolls in thefollowing roundif it happensduringcombat,or for 10minutesif it appliesto non-combatsituations. BestowAbility (Su): Thecharactercancall for the BestowSkill (Su): Like bestowinganability, the spiritscanenhancetheir chosenone\u0027sskills. A spirits\u0027aidin theform of aboosttohisabilities. Onceperspirit perday,thetouchedcanaddoneof a spirit cangrantthecharactera+2bonusto anyskill check,providedthatthespirit actuallypossesses spirit\u0027sability modifiers to acorrespondingability ofhisown. Forexample,Maldakthefighter wishes thatskill. Durationandavailability perdayarethe touseabrownbearspirit\u0027sstrength,soheasksfor sameasthe4th levelspecialability, but donot thebestowment,addingthespirit\u0027s+8 modifier to countagainsteachother: thecharactercanaskfor anability boostandthenfor askill enhancement allhisStrength-basedrolls. Hecannotlateraskthe from thesamespirit eachday. samespirittobestowonhim its +4 Constitution modifier,sincehehasalreadyreceivedtheability boostfrom thebearoncethisday. Theeffectlasts Intervention from Beyond(Su): In desperate situations,thetouchedcharactercanaskfor the foranentireencounteror 10minutes,whicheveris shorter. spirits\u0027 directintervention. Onceperweekperspirit ally,hecanre-roll anyfailed dieroll once. For betterorworse,thesecondroll\u0027s resultisthe DomainGift (Su): At thefirst hoursof theday,the charactercaninvokeaDomain grantedpowerasper definitive one. Thespiritsarenotalwayssuccessful either. thepowerinvocationability. However,heenjoys theadvantagesof thegrantedpowerfor afull day BestowFeat(Su): Like skill andability insteadof thenormal duration. Hecannotinvoke bestowment,thecharactercanaskhis spirit allies otherpowerswhile usingthis ability. for anyone feattheypossess.Thecharacterdoes 19 THE SHAMANS PATH notneedto meetanyprerequisiteto enjoythespirits\u0027 grantedfeat. Duration andavailability perdayarethesameas thesimilar specialabilities,but donot countagainsteachother: thecharacter canaskfor anability boost,askill enhancementandagrantedfeatfrom the samespirit eachday. Limited Wish(Sp): Onceeachmonth, thetouchedcharactercanaskawish from hisspirit allies. Thespiritspool theirpowerandcastalimited wishasa 14thlevelsorcerer,with thesameeffects asthe7thlevelspellof thesamename. Thecharacterdoesnotpayany experiencecost,but heautomatically fails hisnextWill saveagainstthespirits\u0027 geasattempt. Spirit Warrior Sometimes,spiritsrealizethatashaman isnot enoughto affectthematerial world,thattheynot only needa spokesman,but alsoachampion. The spirit warrior isthearmedforceof the animae,channellingthespirits\u0027 power with courageanddeterminationto defendwhattheystandfor.",
+        "name":  "Restricted LevelAdvancement",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A spirit warrior castsdivine spellsaccording Inspiration (Su): Thespirit warrior letsthespirits to theTable: TheSpirit Warrior. Thecharactermay prepareandcastanyspellonthelistsof hisspirit guidehishand,improving hischanceof hitting the opponentsthatdonotdaretoconfronthim faceto allies,providedhecancastspellsof thatlevel. He preparesandcastspellsby honouringhisspirit allies face. At first level,thespirit warrior subtracts10% from hischancetomissconcealedopponents.His eachmorning, performing aminor rite of gratitude ability tohit hiddenfoesgrowsasheadvancesin ashechooseseachspellhewill castonthatday. level: at3rdlevelhesubtracts15%andcannow applythisbonuswhenheisblinded;at5thlevel,the",
+        "name":  "Spells",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "d6 solid thanthespirit warrior himself. Theavatar 22 THE SHAMANS PATH The Whisperer of Ghosts Base Fort Ref Will Max Level Attack Bonus Save Save Save Special Spirit Allies Spellsper Day 1 +0 +2 +0 +2 Turn or re +1 +1existinglevel ghost sight 2 +1 +3 +0 +3 Fearless +1 3 +1 +3 +1 +3 Ritesof thedead +2 +1existinglevel 4 +2 +4 +1 +4 Remembr +2 5 +2 +4 +1 +4 Call uponthedead +3 +1existinglevel 16 +3 +5 +2 +5 +3 7 +3 +5 +2 +5 Resistdeath\u0027stouch, +4 +1existinglevel remembranceII 8 +4 +6 +2 +6 +4 9 +4 +6 +3 +6 Deathlikemantle +5 +1existinglevel 10 +5 +7 +3 +7 remembra +5 Requirements characterhadmorethanonespellcastingclass beforebecomingawhisperer,hemustdecideto Knowledge (spirits): 7 which classheaddsthenewlevelfor purposesof",
+        "name":  "Hit Die",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Accessto theDeathDomain. determiningspellsperday. A shamanicclasstakes",
+        "name":  "Spellcasting",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "At leastthreespirit alliesmustbeancestor precedenceoverotherspellcastingclasseswhen spirits. determiningincreasedspellcastinglevels. Class Skills",
+        "name":  "Special",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "At everyoddlevelasawhisperer of ghosts,thecharactergainsadditional spellslots Ghost Sight (Sp): Asheattuneshisshamanic asif hehadgainedalevelin thespellcastingclass abilities to therealmsof thedead,thewhispererof hebelongedto beforeaddingtheprestigeclass. ghostscanlook into theetherealplanewith the However,hedoesnot gainanyotherbenefit a Sightpowerfrom theSpirit Domain. Hecanuse characterof thatclasswould havegainedwith level thisapplicationof thesightonceperdayper advancement(hit points, feats,specialabilities, etc.) whispererlevel. beyondaneffectivelevelof spellcasting. If the 23 THE SHAMANS PATH Fearless(Ex): His familiarity andknowledgewith RemembranceII (Sp): AswithremembrancIe,but life beyonddeathawardsthewhispererof ghosts thewhisperercannowaffectundeadcreaturesof with thepresenceof mindto facethedead. He lessthan16HD. receivesa+4moralebonustoall hissavingthrows againstfeareffectsfrom undeadspecialattacks, ResistDeath\u0027sTouch: Thecharacterhasenough qualitiesor abilities. contactwith theenergiesof deathto learnto withstandtheir touch. Hedoesnotagein Ritesof theDead(Su): Shamansuseritestodeal appearance,althoughhesuffersall bonusesand with spirits,andat3rdlevel,thewhispererof ghosts penaltiesfor old agenormally anddieswhenhis canusetheritesheknowsasashamanto affectthe time isup. Additionally, headdshisCharisma undead.All difficulties for arite\u0027sPerform(rituals) modifier to all savingthrowsagainstall energy checksdealingwith undeadare10+ undead draining attacks. creature\u0027sChallengeRating. Deathlike Mantle (Su): Onceperweek,the RemembrancIe(Sp): Theshamana,sastandard whisperercantry to assumethequalitiesof undeath. action,createsaconnectionbetweentheSpiritWorld Hecanassumeoneof hisundeadallies\u0027 qualities andasingleundeadcreature,causingmemoriesof its andsemblanceby rolling aConcentrationcheck formerlife tofloodwhateverconscienceit hasleft. (DC 10+ creature\u0027sCR). If successful,the. ThewhispererrollsaPerform(rituals)checkto whispererenjoysthebenefit from his ally\u0027s determinethetarget\u0027sDC for aWill savingthrow. condition: etherealness,SpellResistanceand If it fails,theundeadisstunnedfor 1d4roundsplus SpecialQualities. This lastsId4roundsplusthe thewhisperer\u0027sCharismamodifier. A stunned whisperers\u0027Constitutionmodifier or until cancelled creaturecannottakeactionsandlosesanypositive bythecharacter.HesuffersId6pointsof temporary Dexterity modifier toAC. Eachattackergainsa+2 Constitutiondamagewhenreturningto his mortal, bonusto attackrolls againstthatcreature.At this living shape. level,thecharactercanonly affectundeadcreatures of 7HD orless. Hecantry thisonceperdayper RemembranceIn (Sp): Aspertheother whispererlevel. remembrance abilities, but thewhisperernow stuns undeadcreaturesof 17HD ormore. At this level,",
+        "name":  "Spellsper Day",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Youlearnthedistinctionsbetweenthe By useof thisskill, youonly getonequestionanda differentkinds of spirits,therulesthatgovernthem generalanswerornoneatall. More elaborate andthepowerstheycangrant. Thisareaof knowledgeisparticularly usefulwhentrying to consultationsrequiretheenactmentof rites,the summonaspirit in orderto convinceit intobeing castingof spellsor theactivationof certainspecial your spirit ally,or to gaininsight into itspreferences abilities in orderto appeaseit. Yougaina+2 synergybonus if youhave5ormoreranksin Knowledge(The Thetrancecanalsoreduceyour needfor sleep, restingonly4 hourslikeelvesdo,oronly2 hoursif Planes). alreadyanelf. 25 SECRETS OF THE CRAFT Spirit Knowledge DC Information Bonus to Diplomacy/Perform checks 11 The spirit\u0027s Domain +1 13 Auspicious/inauspicious time of day/month/year +2 15 Favoured/hated offerings +1 each 20 Favoured sacrifice +3 25 Favoured Divine Focus +3 30 True Name +5",
+        "name":  "Spirits",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Theguardianspirit isanormalcreatureor Benefit: Thespellcastercanmakeaspellcrossthe NPCwith theSpirit templateappliedto it. boundarybetweentheetherealplaneandthe materialworld. A spellcastin thismannertakes",
+        "name":  "Normal",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Charisma15+, 5 RanksinIntimidate, Spiritstalk aboutyou,andtheyarewilling to give ability to castIstlevelspells. you additional assistance.",
+        "name":  "Prerequisite",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Guardianspiritsonly grantaccesstothe spendthreeskill pointsto acquirearite for which he Spirit Domain. qualifies insteadof buying skill rankswith them. The Sight (General) Ritesarespell-like effectsthattaketenminutesto Evenif youarenotashamany,ougetglimpsesof enact,andtheshamancannotbeinterruptedor the theinvisibleworld. rite automaticallyfails. TheDifficulty Classfor the Perform(rituals) checkis listed oneachrite\u0027s",
+        "name":  "Normal",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Whenanactivespirit iswithin 60ft. of thatheoffendedthespirits,andhisnextrite will yourposition,youmakeaSpotcheck(DC 20)to suffera-2 penaltyonthePerformcheck. seeit andguessitsnatureandintentions. All ritesarespell-likeeffectsandusetheShaman\u0027s",
+        "name":  "Benefit",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Instantaneous seespirits in his vicinity; sometimes they arenot pretty, andsomeof them want to benoticed. Youappealtothespirits,remindingthemof their function asthemessengersandintermediaries RITES betweenmortalsandgodsandbeseechingthemfor interventiononbehalfof anothercreature. By Shamansautomaticallylearnanddevelopritesas enactingthisrite, you canhelptherecipientto atone theyadvancein experience,but theyarenot limited for sinsandmisdeeds,providedheistruly to thatlist. Thefollowing arealternateritesthata repentant. It workslike theatonementspell,but shamancanlearnin additiontotheoneshereceives eachusecarriesadifferentDifficulty Class: whenreachinganappropriatelevel. 30 SECRETSOFTHE CRAFT Rite of Counsel Atonement DC",
+        "name":  "Duration",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1week gainedin lostclass Restorecleric or druid 20 Commonlyknownasthevision quest,thisrite spell power allowsyouto consultthespiritsonanissueathand. Apologize to spirits 15+offended Yourmind travelsto thespirit world andbegins spirit\u0027sspelllevel askingquestionsof anyandall spiritsyou encounter.Youreceivevisionsthatpertainto Therite cannotbeusedto convinceacreatureto whateveristroubling youatthemoment,or about changealignmentto yours. coursesof actionyouwish to take. Youemerge from therite\u0027strancewith ambiguoussignsand",
+        "name":  "Duration",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1dayperlevel Youcancleananareaof thepresenceof evil. This rite attractsspirits alignedwith theforcesof goodandcompelsthemto protecttheareaof effect. All evil creaturesin thematerialand etherealplanesmustmakeaWill savewith aDC equalto your Perform(rituals) checkresultor leavethearea. Evenif successful,thecreatures mustmakethesavingthroweachround they remainin thearea,andalsoif trying to enterit from outside. If peopleinsidetheareaof effect arepossessed,charmedor undertheinfluenceof mentalpowers,theyareallowedasecondsaving throwto shrugoff thoseeffects,usingyour Performcheckresultin placeof their roll if, after rolling, it provesto bebetter. If thepersonfails thesavingthrow andremainsunderoutside control,hemustleavetheareaasif hewerean evil creature. 31 SECRETSOFTHE CRAFT againaslongasyouhavean extradieunrolled.You ~ During Id4hourseachday,thecharacteris couldenactthisrite everyweekof themonth,butit undertheeffectsof theblink spell. Healwaysstarts isnotadvisableto abusethespirits\u0027 gifts. TheGM vanishingatthemostinopportunemoments. canthink of nastywaysfor thespiritsto teachyou to fendfor yourself. ~ Thetargetcanseehissurroundingsasif he wasin theetherealplane,butheremainsin the Rite of Cursing material world.",
+        "name":  "Duration",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Instantaneous morning. Thediseaseleavesthevictim at I in every ability. Yourpowerbecomesenoughto driveawayillnessor restorethebalanceonacreature\u0027sbody. Therite ~ Thetargetsuffersfrom constantnightmares; hasthreedifferent supernaturaleffects: Thefirst hemustmakeaWill savetoattemptanydangerous application(DC 10)canraisethetargetcreature\u0027s action. If aspellcaster,thetargetmustalsomakea hit pointsto 1if theydroppedbelow0andafter Fortitudesaveto beabletopreparespellsowingto beingsuccessfullystabilizedby aHeal check. The thelackof sleep. seconduse(DC isthesameasthedisease\u0027sor the condition thatbroughtthedisease)removesa ~ Thetargethasa-2 penaltyto everyroll diseaseaspertheremovediseasespell. Thelast owingto distractionsby spiritsmanifestingin the effectcanrestoreability pointslosttotemporaryor cornerof hiseyes.After afewmonthsof this permanentability scorelossfrom anysource,with a treatment,hemuststartmakingWill savesatthe DC equalto 5+ theability scoretoberestored. For GM\u0027s discretionor startlosingWisdomowing to example,apoisonoussnakebitesChezikduring his growing insanity. training, reducinghis Strengthscorefrom 14to 10. Telzunneedstheboyhealthyfor aritual theday ~ TargetmustmakeaWill saveif hewishesto after,soheenactsthehealingrite. His DC to restoreChezikto full healthis 5+ 14(Chezik\u0027s tell alie, or totell thetruth. original score)= 19. HadTelzunchosento leave theyoungapprenticealittle weakerto remindhim 32 SECRETSOFTHE CRAFT guardianspirit for 1dayfor eachlevelhehasinthe shamanclass. During thattime,thesubjectenjoys all thebenefitsof havingaguardianspirit. At the endof theduration,thesubjectmustmakethe choicebetweenfollowing the shamanicpath (gaininghisfirst levelin theshamanclassthenext timehegainsalevel)or abandonit, atwhich time the spirit leaves. A secondinitiation rite mustbeenactedto awaken fully thesubject\u0027sskills. Thesubjectsummonsall availableanimaeaidedby thenowfirmly establishedguardianspirit, andtheyrip the subject\u0027ssoulto pieces,andthenputhim back together. This isadeeplysymbolicprocess,and thenewshamancanemergenotonly with the abilitiesof thenewclass,but alsoarmedwith appropriatefeatsandskills if his levelallows. Rite of Protection",
+        "name":  "Duration",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "10+ spirit\u0027s spelllevel againstattacksfrom non-neutralcreatures. In",
+        "name":  "DC",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As with normal divine spells,anyspellscastwithin the previous8hourscountagainsttheshaman\u0027s daily limit.",
+        "name":  "RecentCasting Limit",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The hisalliesisto listenvery carefullytobards\u0027songs, shamancaninvokeaDomain grantedpoweronly midwives\u0027 tales,or askothershamansandeven whenhehaspaidspecialattentionto thespirit that otherspirits. TheGatherInformation skill can grantsit. Theritual to favouranyspirit ally isthe proveusefulin this,but it isnotveryreliable. sameastheoneusedtothankit for theday\u0027sspell allowance. Theshamancanfavourasmanyspirits NEW SPIRIT SPELLS in onedayashisWisdommodifier, andhecan Shamansgainnewspellsin oneof thetwo following favourdifferent spirits eachday,ableto enjoy,if ways: only briefly, awider rangeof divine powers.",
+        "name":  "FavouredSpirits and Domain Invocation",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Wheneverthe Thecostof thisversatility isthateverytimehe characterconvincesaspirit tojoin him, he favoursaspirit, theshamanmustfulfil hispartof immediatelyknowswhich spellsthisnewally thebargainhemadewith thespirit whensealing provides. Gainingnewalliesisnotautomaticwhen their alliance,andenacttheoathhesworeto the theshamanreceivesanewspelllevelasaproductof spirit, or doit assoonaspossibleif present experience.Thisjust meansthattheshamanismore circumstancesforbid it. powerfulandcanattractgreaterspiritsto hiscause, while theotherspiritsrejoiceandteachhim the",
+        "name":  "Acquiring aNew Spirit Ally",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yougaina+2divinebonustoall PerformandCraftchecks. SPIRIT DOMAINS 1Ventriloquism Everyanimabelongsto asingleDomainthat 2 SculptSound definesitsnature,allegianceandpower. Theyknow 3 Emotion all thespellsfrom thatDomainupto their spell 4 Spirit Song level,plusanumberof otherrelatedspells. Any * 5 Seeming godcancommandthespiritsbelongingto the 6Animate Object Domainsunderhisinfluence,andclericswho 7 Otto\u0027sIrresistibleDance choosetheSpirit Domaincouldcommandthe 8MassCharm animaefrom hisotherDomainwith theanyspell 9 Shapechange thataffectsspirits. The additional spellsthe spirit cancastand impart ontheshamanarerelatedto theDomain somehow. Youwill not seeaspirit from theSun Domain castingDarkness,for example. Notethatspiritscanhaveadditionalspells besidethosein theirDomains,which canbe chosenfrom CoreRulebookI orthenew spellsin thischapter. In additiontotheCleric Domainslistedin CoreRulebookI, spiritscanalsobelongto thefollowing Domains,andclericscan choosethemif theGamesMasterdecidesit fits with theirdeity\u0027sinfluence. marksanewspellfoundin thisbook * Spirit Domain",
+        "name":  "Granted Power",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Nature spirits, deities concernedwith theotherworldsor travel, guardian spirits. 40 SPIRIT DOMAINS AND SPELLS Craft Domain",
+        "name":  "Deities and Spirits",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Turn/Rebukeundeadoneextra timeperday.Shamanms ayturn undeadonceper day. 1Divine Favour 2 Consecrate or Desecrate 3 Prayer 4 Lesser Planar Ally 42 SPIRIT DOMAINS AND SPELLS 5 Commune 6 Planar Ally 7 Resurrection 8 Holy Aura or Unholy Aura 9 Miracle Druid Domain",
+        "name":  "Granted Power",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Youcanspeakwith plantsor animalsasperthespellsspeakwith animalsor speakwithplants, onceperday. I Animal Friendship 2TreeShape 3 DominateAnimal 4 Control Plants 5Awaken 6 Liveoak 7 Control Weather 8Animal Shapes 9 Shapechange Fighter Domain",
+        "name":  "Granted Power",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes",
+        "name":  "Wizard Domain SpellResistance",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "YoupermanentlygaintheScribe manifestintheMaterialPlane.Thespiritsmustbe awakenedandactiveto beaffectedbythespell, andtheycansaveagainstWill toremainin the SpiritWorld. Manifestedspiritsarevisible to everyonein theMaterialPlane,buttheyare incorporeal. Yourguardianspirit canignorethe spell\u0027seffectautomatically,buthemayforego hissavingthrowtomanifestwithout exerting hisownpower. Otherguardianspiritscaughtin theareamustroll normally,buttheycanuse theirprotegee\u0027ssavebonusif it ishigher. Charm Spirit Enchantment(Charm) [mind-affecting]",
+        "name":  "Granted Power",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes 44 SPIRIT DOMAINS AND SPELLS As charm person, except the spell affects creatures contact other plane, astral projection, planar ally, etc. Supernatural andspell-likeabilitiesthat with the spirit type. emulatethesespells,like theability to materialize Cull the Weak from theSpirit World,theetherealor astralplanes of incorporealundeadandspirits,alsobecome Divination evidentto thecaster.",
+        "name":  "SpellResistance",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V,S,DF The spell identifieswhatkindofeffectpiercedthe",
+        "name":  "Components",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Detect Spirits By meansof this spell,youcandeterminetheexact strengthofagroupofcreatures withintheareaof Divination effect. Thespellrevealsto youtheArmour Class, Level: Clr 1,Drd 1,Rgr2,Sor/Wiz2,Spirit 1",
+        "name":  "SpellResistance",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V,S,M/DF damagediceandspecialabilities andqualitiesof Casting Time: 1action saidcreatures.With thisinformation, you canpoint Range: 60ft. outthecreatureyoujudge tobetheweakest,anda Area: Quartercircle emanatingfrom youtothe faint nimbussimilar tofairie fire surroundsit. The extreme of the range. targetcreaturecanresistwith aWill savethat Duration: Concentration,upto 1minute/level(D) negatesthesecondaryeffect,butnot theoriginal SavingThrow: None divination. If thecreatureis slainorneutralized,the SpellResistance: No nimbustransfersto thenextweakestcreature,which canalsosaveagainstit. Theeffectdissipatesonce Youcandetectthepresenceof activeandlatent thedurationendsorwhenacreaturepasseshis spiritswithin range. Theamountof information savingthrow. revealeddependsonhowlongyouconcentrateona particular area: Thenimbusdoesnotpenalizethecreaturenoradd anybonusto attackers;this spellisusedsothatthe 1stRound: Presenceorabsenceof spirits. castercankeeptrackof what\u0027sthelikeliest targetto diefirst in combat,andsharethisinformation with 2ndRound: Numberof differentspiritsandthe others. spelllevelof thestrongestspirit. Detect Dimensional Disturbance 3rdRound: Thestrengthandlocationof eachspirit. If thespiritsarein line of sight,youcanmake Divination Knowledge(spirits) checksto determinetheDomain",
+        "name":  "Hit Dice, hit pointsremaining,attackbonusesand Components",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V,S,DF spirit at DC 15+ spirit\u0027s spell level.",
+        "name":  "Components",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "60ft. This spell doesnotdetectthepresenceof spiritsthat",
+        "name":  "Range",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No makesthis spellanalternative,if unreliable,means of travelling to andfrom theetherealplaneor the Youcanseetheaurathatsurroundsall living beings, Spirit World. Whentheeffectends,creaturesstill andcanreadfrom it thetargetcreature\u0027shealth. insidetheareaaresnappedbackto their native Theamountof information revealeddependson plane,while thosethatmanagedto exit into another howlongyou concentrateonaparticulartarget: planemustfind anotherwayback. 1stRound: A creature\u0027stotal andremaininghit Focus: Glasslens. points. Ghost Armour 2ndRound: Thecreature\u0027stotal Hit Dice and/or Conjuration (Summoning)[force] classlevels.",
+        "name":  "SpellResistance",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "None (harmless). Ethereal/Spiritual Junction Spell Resistance:No Transmutation",
+        "name":  "SavingThrow",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "120-ft. emanationcentredonapoint in space. +1. Despitethespell\u0027sname,theprotectingcreature",
+        "name":  "Area",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No creature\u0027sbody. Thespirit alsoprotectsthecreature from incorporealattacksandforceeffectsasthe Youpull anareaof theSpirit Worldortheethereal mage armour spell. planeinto theMaterial Plane. Every creature caughtin theareaof effectexistsin bothplanesat Focus: A turtle shellwith acarvedimageof a thesametime for thedurationof thespell. warrior. Spontaneousspellcasterssuchasbards,shamansand sorcerersdecidewhichplaneto affectatthetime of Ghost Combatant casting,but clericsandwizardsmustchoosewhen Illusion (phantasm)[mind-affecting] preparingthespell. Creaturesfrom theaffected",
+        "name":  "Spell Resistance",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Planeoutsidethejunction castsafireball ataghost insidethearea,who suffersdamagefrom thespell Youcanmakespiritswhisper,makenoisesand asif thesorcererwerein theetherealplane. A createfalsemovementsbehindacreatureto makeit second,etherealghostoutsidethejunction isclose believeit isflanked. If thetargetfails itssaving tothefirst ghostandwouldbedamagedbythe throw,it believesthatthereis anotherattacker fireball\u0027s areaeffect,buttheeffectdoesnotcross behindit, occupyingaspacewhereno actual into theetherealplaneandit isthusunaffected. opponentexists,sufferingall theeffectsof being flanked(opponentgetsa+2bonusto attackrolls 46 SPIRIT DOMAINS AND SPELLS andisvulnerableto sneakattacks),evenif it isnot.",
+        "name":  "Spell Resistance",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Yousummonwarrior spiritsto aidyou in combat. Thenumberof spiritsthatarrive equalsyour casterlevel,with amaximumof 15. Thespirits startattackinganythingand",
+        "name":  "Spell Resistance",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "I month/ levelor until successfulsave trappedsoulandcallsit backtothebody. (D) 47 SPIRIT DOMAINS AND SPELLS Protectionfrom evilandotherwardsblockthis mist. All creaturesinsidethefogmustroll aWill spell,anddestroyingthereceptacleendsit. The saveorbeshaken,sufferinga-2moralepenaltyon effectcanbedispelledonly attheclayjug. attackrolls, checks,andsavingthrows.This condition lastsfor 2d6rounds. SpellResistance",
+        "name":  "Duration",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Special(seetext) Casting Time: 1action",
+        "name":  "SpellResistance",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Emanates20-ft. from caster voicesof thespirits,andthosecaughtwithin are Duration: 10minutes/ level assaultedbyterrifying voicesandseeshapesoutof SavingThrow: Will negates(harmless). thecomerof theireyes.Thefirst effectof thefog Spell Resistance:Yes(harmless). istoobscurevision,includingdarkvision,beyond5 feet.A creaturewithin 5feethasone-quarter All creaturesstandingwithin20feetfrom youare concealment(attackssuffera 10%misschance). ableto seeall spiritswithin their ownsightrange. Creaturesfartherawayhavethree-quarters Yougrantthemapowerfulversionof theSightfeat, concealment(30%misschance). Thesecondeffect exceptthatneitheryounor anyof thecreatures comeswhenthespiritsstartwhisperingmessages affectedneedto roll Spotchecks. Shouldanyone of madness,skirting aroundeveryoneinsidethe moveoutof theaffectedarea,helosesthebenefits of thisspellandcannotseespirits anymoreunlesshehasothermeansto do so. This spelldoesnot allow the detectionof etherealcreatures.",
+        "name":  "Youconjureathick bankof fogchargedwith the Area",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Clr 7, Drd 6, Ranger 7, Spirit 5 As thespellshadowwalk,exceptthatthe creaturesaffectedtravelthroughthe Spirit World insteadof throughthePlane of Shadows. Read Spirit Echo Divination",
+        "name":  "Level",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Close (25 ft. + 5 ft./level) 48 SPIRIT DOMAINS AND SPELLS",
+        "name":  "Range",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No itssenseof touchwith hissight,allowing him to roll Spotchecksto determinethetextureand Youcanreadthememoriesof alocation\u0027sspiritsto quality of amaterial,orhecanreplacehissightfor know abouteventsthathappenedtherein thepast. hishearing,enablinghim to roll Listento seein Glades,hills, clearingsandevencity locationshave pitch darkness.Thecreaturecanendtheeffectat spirits thatrememberpastevents,especiallyif they will. generatedintenseemotionsin thepeopleinside their area. Youcanbuild amentalimageby Spirit Song contactingthe spirit. Evocation [sonic]",
+        "name":  "Spell Resistance",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V,S,F/DF likely to berememberedby thespirits,orto create Casting Time: 1action spirits themselves- largebattles,powerful Range:Medium (100ft. + 10ft./level) spellcasting,greatjoy or greatpain. Common",
+        "name":  "Eventsthatprovokestrongemotionsarethemost Components",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes(harmless) Casting Time: 1action",
+        "name":  "Spell Resistance",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1creature world, exchangingtheinput of onesensefor Duration: 1hour/ level another. A creatureunderthis spell\u0027seffectcansee SavingThrow: Will/Fortitude negates(harmless). throughitshearing,seethroughitstasteor any Spell Resistance:Yes(harmless). 49 SPIRIT DOMAINS AND SPELLS Youcompelaspirit toboostanability in thetarget with animals and enlarge/reduce. Boththese creature. Thespirit grantsthecreatureId4+I abilities canbeusedtwice perday,for atotal of additionalpointsin theability scorethecaster twouseseach. Abilities thatcanbeusedatwill or designatesuponcasting. Thetargetcanresista onceperhouror anyshorteramountof time arenot boostto Strength,Dexterity andConstitutionwith a affected. If acreaturepossessesbothspellslotsand Fortitudesave,andto Wisdom,Intelligenceand spell-like abilities, this spelltargetsthespell slots Charismawith aWill save. first.",
+        "name":  "Youcanchangehowonecreatureperceivesthe Target",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Darkvision 120ft., Memory Domain,spelllevel6, grantpower,materialanchor,reform, plant subtype, SPIRIT SR21;AL NG; SVFort+14,Ref+2,Will +9; Str 21,Dex 8,Con25,Int 9,Wis 16,Cha16. All spirits belong to the Spirit monster type, detailed in this chapter. Creatures with this type are the spiritual manifestationof acreature,aperson,an SkillsandFeats:Bluff +5,Diplomacy +6,Heal+7, objector evenanidea. Theyexistalmost Intuit Direction +6, Knowledge (arcana) +4, exclusivelyin thetransitiveplaneknownas the Knowledge (nature) +8, Knowledge (religion) +3, Spirit World,though somecanmanifestin the Knowledge (spirits) +4,Knowledge (the planes)+3, physical world. All spirits are intelligent to some Listen +5, SenseMotive +5, Spot +4; Brew Potion, degree, even if theirs is an alien mindset. Empower Spell. Spiritsareimmuneto poison,paralysis,stunning, Spell-likeAbilities: Every 1d4+1-rounds diseaseanddeatheffects. Spirits are not subject to hypnotism,goodberry; 1/10minutes-readspirit critical hits, subdual damageor deathdueto echo*; l/hour- modifymemory,summonnature\u0027s allyIII; 3lday-legendlore,scrying;2lday- massive damage. When reaching 0 hit points, spirits permanency; 1/day-mordenkainen\u0027slucubration, are destroyed and cannot be raised or resurrected, thoughmanyspiritscanreform in theSpirit World if liveoak. they aredestroyedin thematerialworld,theethereal andeventheastralplanes. Spiritshavedarkvision Wolf Spirit with arangeof 120feetandSpellResistanceequal Domain: Predator * to 15plus the spirit\u0027s spell level. SpellLevel: 3 A wolf spirit isamasterof survival,wise in the SPIRIT CREATURES waysof thewildernessandacunning,yet honourablefighter. Manywolf spiritsarealso Thefollowing areafewexamplesof spiritsusable guidesinto theunknown,andall haveanair of by GMs andplayersalike; bynomeansisit a mystearbyotuhtemT.hey definite list of spirits,sincetheanimaenumberin appear as larger-than- normalspecimensof their race,or asferal themillions. Youcancreateyour ownspiritsby humanoids. applying theSpirit templatefoundattheendof this 51 Rain Spirit",
+        "name":  "NEW MONSTER TYPE",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "2 Rain spiritstendto travelaround,pouring down their life-giving gift onfarmedfields anduntamed land,sotheycanpick upmanysecretsandseemany things. Theproblemisgettingtheinformation from them,for theyhaveshortmemories. Theycantake manyforms,preferring thoseof feyhumanoids.",
+        "name":  "SpellLevel",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "CR3; SmallSpirit (Nature,Air); HD 4d8;hp 16;Init +8 (+4 Dex,+4 Improved Initiative); Spdfly 150ft. (perfect);AC 19(+1 size, +4 Dex,+4natural);Atk slam+6 melee(slam Id4); Face/Reach5ft x 5ft/5 ft; SAAir mastery, whirlwind, projection, spell-like abilities; SQ Darkvision 120ft., NourishmentDomain, spelllevel 2,grantpower,materialanchor,air subtype,SR 17; AL N; SVFort+0,Ref+9,Will +2; Str II, Dex 18,Con 11,Int 6,Wis 13,Cha13.",
+        "name":  "Rain Spirit",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "CR4; Medium-sizeSpirit (Animal); servant; 1/day- goodberry, levitate, soften earth and HD 5d8+15;hp37;Init +3(Dex); Spd75ft, fly 75 stone, whispering wind. ft. (perfect);AC 16(+3Dex,+3natural);Atk bite +4 melee(bite Id6+2); Face/Reach5ft x 5ft/5 ft; Diamond Spirit SATrip, projection, spell-like abilities; SQScent, darkvision 120ft., PredatorDomain, spelllevel3, Domain: Strength grantpower,materialanchor,animalsubtype,SR Spell Level: 5 18;AL LN; SVFort+5,Ref+6,Will +5; Str 14, Spiritsborn ofdiamondsnumberamongthe Dex 16,Con 16,Int 5,Wis 15,Cha9. strongestof conviction,pledgedto purity and alwaysaiming atvictory. Somewould arguethat",
+        "name":  "Wolf Spirit",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Rogue * 9d8;hp40;Init -1 (Dex); Spd20ft. (perfect);AC 13 Spell Level: 7 (-2 size,-1 Dex,+6natural);Atk slam+9 melee When hewasalivingman,Shade made anamefor (slam2d6+7);Face/Reach10ft x 20ft/1O ft; SA himself bybeingafreelancespyandsaboteur. Spell-like abilities; SQDarkvision 120ft., Nobody everdiscoveredhistrueidentity,andhis ProtectionDomain, spell levell, grantpower, deathwasamystery,thekind thatinspiresballads. hardness8,materialanchor,constructsubtype,SR Theechoof hisdeedsremainedin theSpirit World, 16;AL NG; SV Fort+4,Ref+l, Will-2; Str21, andshapedthespirit thatembodiesbothhisreal Dex9,Con 10,Int 10,Wis 11,Cha2. memoriesandthefolk tales.",
+        "name":  "Domain",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "4 CN; SV Fort+5,Ref+10,Will +11;Str15,Dex22, Hatecomesin all sizeandforms,andthespiritsit Con 18,Int 19,Wis25,Cha19. engendersareequallyvaried,dependingonwhatthe hateisabout. Thisparticular exampleisthesmall",
+        "name":  "SpellLevel",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ranger * Domain, spell level 9, grant power, freedom from",
+        "name":  "Domain",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "9 material anchor, reform, animal subtype, SR 24; AL Stalking the densest forest and jungles, the Hunter is N; SV Fort +14, Ref +13, Will +21; Str 25, Dex 19, the embodiment of the thrill of pursuit, of tracking a Con 20, Int 19, Wis 24, Cha 21.",
+        "name":  "Spell Level",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Change to d8, same as base creature +1 per spell level. 54",
+        "name":  "Hit Dice",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The spirit retains all the special attacks of the base creature, although those relying on physical contact do not affect creatures on a different plane. Depending on the spirit\u0027s spell level, it can gain one of the following special attacks. Saves have a DC of 10 + spirit\u0027s spell level + spirit\u0027s Wisdom modifier unless noted otherwise. and will act accordingly. Characters able to see spirits or invisible creatures will see the spirit\u0027s Manifest (Sp): Spirits with the manifest spell-like image superimposed on the host\u0027s. In the Spirit ability can breach the walls between worlds and World, the spirit is considered to be incorporeal. assume a physical form in the material world. Other spirits can see its transparent image, but When they do so, they are vulnerable to all attacks cannot harm it directly. Spirits can possess/inhabit a and effects, but they can also use their powers and host for a day per spell level, and cannot do so again abilities in full against any target. Manifesting in until a month has passed. Ideal and ancestor spirits the material world is a full-round action, but do not have this ability. Spirits of spell level 7+ returning to the ethereal plane or the Spirit World possess this ability. (spirit\u0027s choice) is a free action. It can maintain this state for 10 minutes per spirit\u0027s spell level, and can Projection (Su): The spirit can project its presence do it once per month per spell level. Spirits of spell into the Material Plane as a move-equivalent action, level 4+ possess this ability. rather than manifesting completely. It becomes visible, but incorporeal. It can maintain this state Possession/Inhabitation (Sp): Some spirits can for 10 minutes per spirit\u0027s spell level, and can do it visit the Material Plane by \u0027riding\u0027 their material twice per week per spell level. Projecting when anchor, which means that they can possess animals summoned by a shaman does not count against a or inhabit plants, objects and natural phenomena. spirit\u0027s maximum times, because it is the shaman\u0027s They travel from the Spirit World and exist fully in power that calls them. Spirits unable to project or the material world, but are limited by the capacities manifest on their own can still do so when of the body in which they reside. While possessing summoned by shamanic abilities. Spirits of spell or inhabiting, spirits can only use spell-like abilities level 2+ possess this ability. with a personal range or that only target themselves. Spirits replace their host\u0027s Intelligence, Wisdom and Spell-like Abilities: The spirit can use a number of Charisma scores as well as its saving throw bonuses, spell-like abilities determined by its Domain and 55",
+        "name":  "Special Attacks",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Thebasecreaturereplacesany save(DC 20)toreform itself attherateof 3hit specialqualitiesgrantedby itsoriginal monstertype pointsperweek,only reappearingin theplacein the bytheonesfromthespirittype. Spell-like Ability Use Frequency Spell\u0027s Level Spirit\u0027s SpellLevel 1 2 3 4 5 6 7 8 9 1 1/day - - - - - - - - 2 2/day 1/day - - - - - - - 3 3/day 2/day 1/day - - - - - 4 l/hour 3/day 2/day 1/day - - - - - 5 1/10minutes l/hour 3/day 2/day 1/day - - - 6 1d4+1rounds 1/10minutes l/hour 3/day 2/day 1/day - - - 7 At will Id4+1 rounds 1/10minutes l/hour 3/day 2/day l/day - - 8 At will At will Id4+1 rounds 1/10minutes l/hour 3/day 2/day 1/day 9 At will At will At will Id4+1rounds 1/10minutesl/hour 3/day 2/day 1/day 56 SPIRITS Spirit World correspondingto their materialanchor ~",
+        "name":  "SpecialQualities",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sameasthebasecreature+I everythree ~ spell levels.",
+        "name":  "Feats",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sameasthebasecreature+2 per Plant. Naturespiritscanhavethesamemodifiers as threespell levels. elementalspirits (Air, Earth,Fire,Water,Cold and",
+        "name":  "Challenge Rating",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spiritsadvanceby spelllevel,not in ~",
+        "name":  "Advancement",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "SameasthebasecreatureexceptWill, which addshalf thespirit\u0027s spelllevel.",
+        "name":  "Saves",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Strength,Dexterity andConstitutionare thesameasthebasecreatureplusonehalf the spirit\u0027s spell level. Wisdom,Intelligenceand Charismaarethesameasbasecreature+1per spirit\u0027s spelllevel. If thebasecreature\u0027sWisdom scoreislessthan10,itsnewscoreequals10+ spirit\u0027sspelllevel. Nonabilities andscoresof 0 become10.",
+        "name":  "Abilities",
+        "source":  "shamans___the_call_of_the_wild.txt",
+        "_id":  "a841a8137cc41cbaec7c5d848dccb9c86fa07c73447bf831d57db9908a5e3c6b"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The first thing you’re likely to note many new classes and prestige classes reference the spell lists is a descriptive passage in italics. This serves much the same of existing classes. If your spellcaster uses the spell list of a purpose as the italicized descriptions of monsters in the Monster character class mentioned in Chapter 2, your character gains",
+        "name":  "Descriptive Passages",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "It lets you know what the spell looks like, sounds like, access to all the spells presented for that class. or feels like to cast. The text in this section presents the spell When deciding if other classes should have spells added to from the spellcaster’s view and describes what its typically like their spell lists, consider the advice below. to cast the spell. The descriptive passages shouldn’t be consid- Demonologist (Book of Vile Darkness): The demonologist’s ered to be binding rules. A grand gesture indicated by a spell’s spell list is intentionally narrow. Carefully consider the conse- descriptive passage is unnecessary if you use the Still Spell feat quences of expanding the list. If you chose to expand the spell to cast it, and even though a descriptive passage describes you list, the spells you select should emphasize the demonologist’s casting a spell on another creature, it might be possible to cast focus on demons and demonic abilities. the spell on yourself, depending on the spell’s target entry and Disciple of Thrym (Frostburn): The disciple of Thrym’s the rules for spellcasting in the Player’s Handbook. spell list is intentionally narrow. Carefully consider the con-",
+        "name":  "Manual",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "When Spell Compendium sequences of expanding the list. If you choose to add spells mentions a spell, monster, or some other rule element from to the disciple of Thrym’s spell list, add cold spells. one of the three core rulebooks, that mention is frequently Fatemaker (Planar Handbook): The fatemaker’s spell list is accompanied by an abbreviation (PH, DMG, MM) and a page intentionally narrow. Carefully consider the consequences number in parentheses, so you can find the necessary infor- of expanding the list. If you choose to expand the spell list, mation quickly. On occasion, a spell in this book mentions the spells you add should focus on personal empowerment as or makes use of material from a D\u0026D supplement, such as opposed to defense or smiting foes from afar. Complete Arcane or Planar Handbook. Those mentions are Healer (Miniatures Handbook): Add spells concerned with accompanied by parenthetical cross-references as well. healing, removing affliction, providing protections, and",
+        "name":  "References to Other Books",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The domains presented in this book providing for needs. In particular, add higher-level versions do not include lists of deities that provide these domains to of spells the healer can already cast, such as mass restoration. Maho-Tsukai (Oriental Adventures): The maho-tsukai’s and Monster Manual. Other books might increase your spell list is intentionally narrow. Carefully consider the enjoyment of this product, most notably Complete Arcane and consequences of expanding the list. When adding spells to Complete Divine, but they are not strictly necessary. the maho-tsukai’s spell list, add mainly spells with the evil descriptor. SWIFT AND IMMEDIATE ACTIONS Mortal Hunter (Book of Vile Darkness): The mortal Some spells in this book have a casting time of “1 swift action” hunters’s spell list is intentionally narrow. Carefully consider or “1 immediate action.” These action types, not described in the consequences of expanding the list. Examine the assassin, the core rulebooks, are defined and explained below. blackguard, and ranger spells in this book for likely additions",
+        "name":  "Deities for Domains",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A swift action consumes a very small to the mortal hunter’s spell list. amount of time, but represents a larger expenditure of effort Prime Underdark Guide (Underdark): The prime Under- and energy than a free action. You can perform one swift dark guide’s spell list is intentionally narrow. Carefully action per turn without affecting your ability to perform consider the consequences of expanding the list. When other actions. In that regard, a swift action is like a free adding to the spell list, look for spells that emphasize survival action. However, you can perform only a single swift action and exploration. per turn, regardless of what other actions you take. You can Spellthief (Complete Adventurer): The spellthief can learn take a swift action any time you would normally be allowed sorcerer/wizard spells from several specific schools. Thus, to take a free action. spells in this book from those schools are available to a Casting a quickened spell is a swift action (instead of a free spellthief to learn. action, as stated in the Quicken Spell feat description in the Shaman (Oriental Adventures): Shamans have a spell list Player’s Handbook). that is a blend of druid and cleric, but they should not get Casting a spell with a casting time of 1 swift action does all the spells clerics and druids do. Examine the spell lists of not provoke attacks of opportunity. both those classes for good choices. Also, consider using the",
+        "name":  "Swift Action",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Much like a swift action, an imme- cleric domains presented in this book as shaman domains. diate action consumes a very small amount of time, but Shugenja (Complete Divine): Add spells with strong represents a larger expenditure of effort and energy than a elemental or weather themes. The druid spell list is a good free action. However, unlike a swift action, an immediate place to look. action can be performed at any time—even if it’s not your Sohei (Oriental Adventures): The sohei spell list is inten- turn. Casting feather fall is an immediate action (instead of tionally narrow. Carefully consider the consequences of a free action, as stated in the spell description in the Player’s expanding the list. If you choose to do so, add spells that Handbook), since the spell can be cast at any time. deal with personal protection and martial ability. Using an immediate action on your turn is the same as Warmage (Miniatures Handbook): Expanding the warmage using a swift action, and counts as your swift action for spell list isn’t recommended. The warmage has a limited list that turn. You cannot use another immediate action or a of spells to balance its power and adding spells might tip that swift action until after your next turn if you have used an balance. If you’d like to add to the list anyway, try replacing immediate action when it is not currently your turn. You access to spells rather than simply giving the warmage a wider also cannot use an immediate action if you are currently range of spells to choose from. Of course, when a warmage flat-footed. gains the advanced learning class feature, the evocation spells",
+        "name":  "Immediate Action",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Range: 15 ft. Conjuration (Creation) [Acid]",
+        "name":  "Spell Resistance",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Instantaneous Components: V, S, M from the ground, coiling round you. Step- Saving Throw: Reflex half Casting Time: 1 standard action ping out of the billowing steam comes a Spell Resistance: Yes Range: Medium (100 ft. + 10 ft./level) handful of squat, blubbery demons. Other, Area: Cylinder (20-ft. radius, greater silhouettes loom behind them, You pop the fire ants into your mouth and 20 ft. high) answering your call. exhale quickly. The ants distill into drops of Duration: Instantaneous pure acid in midair, spattering against your Saving Throw: Reflex half This spell summons a pack of demons foes and leaving smoking holes. Spell Resistance: No from the Infinite Layers of the Abyss to serve you. You breathe forth a cone of acidic A dark green cloud whirls into being before When the spell is complete, 2d4 droplets. The cone deals 1d6 points of unleashing a shower of foul-smelling, dretches (MM 42) appear. Ten minutes acid damage per caster level (maximum yellow-green rain. later, 1d4 babau demons (MM 40) appear. 10d6).",
+        "name":  "You complete the spell and a hot fog rises Duration",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A handful of fire Acid rain deals 1d6 points of acid (MM 48) appears. Each creature has ants (alive or dead). damage per caster level (maximum maximum hit points per Hit Die. Once 15d6) to each creature in the area. these creatures appear, they serve you for ACID SHEATH Material Component: A flask of acid the duration of the spell. (10 gp). Conjuration (Creation) [Acid] The demons obey you explicitly and",
+        "name":  "Ten minutes after that, one vrock demon Material Component",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, M, F 8 1 RETPAHC LLEPS SNOITPIRCSED AID, MASS When you cast this spell, you increase The transmuted creatures can breathe your ability to concentrate on a spell air freely. Divide the duration evenly Enchantment (Compulsion) you have already cast. You can cast this among all the creatures you touch. This [Mind-Affecting] spell while maintaining concentration spell does not make creatures unable to",
+        "name":  "Components",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Cleric 3 on another spell. Aiming at the target breathe water.",
+        "name":  "Level",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One or more creatures, on Concentration checks you make to reed or piece of straw. no two of which are more than maintain concentration on the other 30 ft. apart spell, and its effect lasts as long as you ALARM, GREATER concentrate on the other spell (to a You hold your holy symbol aloft and cast the Abjuration maximum of 20 minutes). spell. A silvery radiance dances from your Level: Bard 2, sorcerer/wizard 2 hands, leaping over all the nearby party Components: V, S, F members and strengthening them. AIR BREATHING Duration: 4 hours/level (D) Transmutation This spell functions like aid (PH 196), Level: Cleric 3, druid 3, sorcerer/ Uttering a low chant, you ring a crystal except that it affects multiple subjects wizard 3 bell with the drumming of your fingernails, at a distance and each subject gains tem- Components: S, M/DF bringing into being an invisible warded porary hit points equal to 1d8 + caster Casting Time: 1 standard action area. level (to a maximum of 1d8+15). Range: Touch",
+        "name":  "Targets",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Living creatures touched This spell functions like alarm (PH",
+        "name":  "Target",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "2 hours/level; see text 197), and in addition the spell works on",
+        "name":  "AIMING AT THE TARGET Duration",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) 150), such the Ethereal Plane and the",
+        "name":  "Spell Resistance",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Druid 2, ranger 2 (such as the text of a spellbook, a spell",
+        "name":  "Level",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) Level: Bard 3 illustration, only the text is copied.",
+        "name":  "Spell Resistance",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, M The spell triggers (but does not copy)",
+        "name":  "Components",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) writing",
+        "name":  "Spell Resistance",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Long (400 ft. + 40 ft./level) Gaining the benefits of the amorphous body ability to reveal unusual properties, spell can be disconcerting as follows.",
+        "name":  "Range",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "20-ft.-radius emanation centered on a creature, object, or • Random Portals: The spell reveals point in space",
+        "name":  "Area",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes; see text Level: Bard 3, Portal 2, sorcerer/ or stops functioning. wizard 3 • Variable Portals: The spell reveals You need to hear what’s going on. A hand Components: V, S, M only that the portal is variable. If you motion or two, and the voices become louder Casting Time: 1 minute study the portal’s destination, the to your ears. Range: 60 ft. spell reveals only the destination to",
+        "name":  "Spell Resistance",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, M, DF chic water damages lawful outsiders the Spell Resistance: Yes",
+        "name":  "Components",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A flask of anar- touched chic water (see the anarchic water spell, Duration: 1 round/level You exhale a flaming tongue of fire, but below). Saving Throw: Will negates instead of lashing out against your foes, it (harmless) produces a creature made of flames that",
+        "name":  "Material Component",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) answers to your bidding. Transmutation [Chaotic] You touch your ally with the holy symbol For this spell to function, you must",
+        "name":  "ANARCHIC WATER Spell Resistance",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 minute with a pearl-like sheen. of casting a spell such as dragon breath",
+        "name":  "Casting Time",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Flask of water touched The subject gains damage reduction this spell, you imbue the energy of",
+        "name":  "Target",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, F must be carried or worn by the spell’s",
+        "name":  "Components",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "10 minutes recipient while the spell is in effect.",
+        "name":  "ANIMATE WATER Casting Time",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No",
+        "name":  "Spell Resistance",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sorcerer/wizard 6 hand shaking from pent-up divine spell The arcane words that activate this spell power, and the liquid rises into a vaguely This spell functions like anticipate tele- linger in the air for a moment. As they humanoid shape. portation, except that greater anticipate fade from your hearing, you become more teleportation identifies the type of the aware of both your surroundings and the This spell functions like animate fire, arriving creature (and any companions possibility of intrusion. but you can instead animate a quantity accompanying it) and creates a delay of of water of at least 4 cubic feet into a 3 rounds, providing the recipient with The subject of the spell is surrounded Small water elemental (MM 100). even more warning and preparation with an invisible aura that anticipates",
+        "name":  "You indicate a patch of water with a Level",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A vial of pure time. and delays the teleportation of any spring water mixed with cinnabar oil. Focus: A tiny hourglass of platinum creature into the spell’s area. Any tele- and crystal filled with diamond dust, portation spell or effect (including all ANIMATE WOOD spells with the teleportation descriptor) costing at least 1,000 gp. The hourglass must be carried or worn by the spell’s Transmutation can be anticipated, making the spell’s recipient while the spell is in effect.",
+        "name":  "Material Component",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration, up to ture. The spell also delays the arrival Casting Time: 1 standard action 1 round/level (D) of the teleporting creature by 1 round Range: 10 ft.",
+        "name":  "Duration",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No immediately before its next turn), centered on you generally giving the recipient of the Duration: 10 minutes/level (D)",
+        "name":  "Spell Resistance",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "None the energy of the spell into it. The wood the information 1 round to act or ready Spell Resistance: Yes begins to writhe and twist before your eyes actions. The teleporting creature does and then rises to move in the direction you not perceive this delay. As a rosy color flickers into being in the indicate. Since a teleporting creature doesn’t surrounding air, you feel a sense of warmth necessarily arrive at the precise loca- and well-being. This spell imbues a Small or smaller tion it intends, the spell also functions wooden object with mobility and a against a creature that arrives in range All creatures within the area of the semblance of life, then causes it to even though its intended destination spell gain immunity to cold damage. immediately attack whomever or what- was elsewhere. For a creature that In addition, the emanation prevents the ever you initially designate. Statistics intends to teleport into range but inad- entrance of any creature with the cold for the animated wood are as for a Small vertently arrives outside the spell’s area, subtype. The effect hedges out such animated object (MM 13). Wooden the spell gives the recipient awareness creatures in the area when it is cast. 14 1 RETPAHC LLEPS SNOITPIRCSED",
+        "name":  "By touching a piece of wood you release spell and anyone else made aware of Saving Throw",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Forcing an abjuration barrier As you cast this spell, an invisible ray against creatures that the spell projects from your fingers. Where it keeps at bay collapses the barrier strikes your foe, it ripples across his (PH 172). body, like water spreading across a calm pond. ANTIDRAGON AURA You must succeed on a ranged Abjuration touch attack with the ray to",
+        "name":  "Note",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Close (25 ft. + If this spell is used against 5 ft./2 levels) a creature, the subject can’t",
+        "name":  "Range",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One creature/ cast spells or use supernat- 2 levels, no two of which are ural or spell-like abilities, more than 30 ft. apart nor do such abilities have",
+        "name":  "Targets",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Will negates However, the creature can (harmless) still use spell completion",
+        "name":  "Saving Throw",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard ANYSPELL action Transmutation",
+        "name":  "Casting Time",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell 3 5 ft./2 levels)",
+        "name":  "Level",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes",
+        "name":  "Spell Resistance",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, DF cast one arcane spell. more in focus. You note blemishes and",
+        "name":  "Components",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Touch Anyspell allows you to read and",
+        "name":  "Range",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Creature touched prepare any arcane spell of up to You gain an intuitive insight into the",
+        "name":  "Target",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action good, or light spells or effects. applicable). You must have a Wisdom",
+        "name":  "Casting Time",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels) Undead creatures that are subjects of at least 10 + the arcane spell’s level",
+        "name":  "Range",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 minute/level (D) This bolt deals 1d6 points of electricity ANYSPELL, GREATER damage per caster level (maximum Transmutation 15d6) to both creatures and",
+        "name":  "Duration",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell 6 to anything in the line between them. This spell functions like anyspell, Both creatures except you can read and prepare any must be in range, arcane spell of up to 5th level, and the and you must be prepared spell occupies your 6th-level able to target them domain spell slot. both (as if this spell had them as APPRAISING TOUCH its targets). Draw the line from any Divination corner in one crea-",
+        "name":  "Level",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Personal While this spell is in effect and you are the same. You lose any extraordinary",
+        "name":  "Range",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Transmutation ASPECT OF THE WOLF",
+        "name":  "Spell Resistance",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "None of the spell can enter. The portal con- alignment, base attack bonus, and Spell Resistance: No tinues to exist and remains visible on base saving throw bonuses all remain the Astral Plane only while the hospice the same. You lose any extraordinary You fish out the gem and, floating in the demiplane exists. When you leave the special abilities of your own form, as Astral Plane, cast the spell. A small pinprick demiplane, the portal seals shut and well as spell-like and supernatural abili- of light appears next to you, widening to vanishes. Anyone still in the hospice ties. You keep all extraordinary special form a circular portal of a bronze hue. demiplane at that time appears on attacks derived from class levels (such You step through the portal and begin the the Astral Plane at the location of the as a barbarian’s rage or a rogue’s sneak process of healing. hospice’s entrance. attack), but you lose any from your Material Component: A single flawless normal form that are not derived from gemstone of at least 250 gp value. class levels. You cannot speak or cast spells while in wolf form. However, ATTUNE FORM if you have the Natural Spell feat, you Transmutation can cast spells normally. Your natural",
+        "name":  "Your class and level, hit points, Saving Throw",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No and becomes nonfunctional.",
+        "name":  "Spell Resistance",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A whis- You touch the pebble against your allies’ ker from a wolf. flesh and bring them into attunement with the plane. ASSAY SPELL RESISTANCE This spell allows you to attune the affected creatures to the Divination plane you are currently on,",
+        "name":  "Arcane Material Component",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You spell (page 19).",
+        "name":  "Target",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Fortitude negates ASTRAL HOSPICE self-contained; walking to one end (harmless) returns a character to the point from Spell Resistance: Yes (harmless) Conjuration (Teleportation) which he began. The demiplane has no",
+        "name":  "Material Plane, and the demiplane is Saving Throw",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, M, DF This spell grants your familiar a You speak a few curt words and your face",
+        "name":  "Components",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No You become surrounded by an aura of fear, granting you a frightful presence Abjuration not unlike that of a dragon. Whenever",
+        "name":  "AURA AGAINST FLAME Spell Resistance",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S words of this spell, casting the crushed gem- in all creatures within 30 feet that",
+        "name":  "Components",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Deathbound 8, sorcerer/ new Strength check or Escape Artist and you gain a brief respite—time enough wizard 8 check. The creature moves 5 feet for to cast more permanent protective spells.",
+        "name":  "Level",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes The avascular mass of entangling itself (DMG 150). tissue persists for 1 round per caster Avoid planar effects provides protec- You shoot a black ray of necromantic energy level. When the duration elapses, the tion from the 3d10 points of fire from your outstretched hand, causing your blood vessel mass becomes so much damage that characters normally take foe to violently purge blood vessels through limp, decaying tissue. when on a plane with the fire-domi- its skin. The purged blood vessels spread nant trait. Avoid planar effects allows a outward, creating a many-layered mass of bloody, adhesive tissue that traps nearby AVASCULATE character to breathe water on a water- dominant plane and ignore the threat creatures in a gory horror. Necromancy [Death, Evil] of suffocation on an earth-dominant",
+        "name":  "Spell Resistance",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 immediate action and nonnatural formations within the spending 1 round and succeeding on Range: 20 ft. plane. This spell allows you to survive a DC 20 Strength check or a DC 25 Targets: One creature/level in a on the Elemental Plane of Earth, for Escape Artist check. Once loose (either 20-ft.-radius burst centered on you instance, but it won’t protect you if from making the initial Reflex save Duration: 1 minute/level you walk into a pool of magma on that or a later Strength check or Escape Saving Throw: None same plane. Artist check), a creature can progress Spell Resistance: Yes (harmless) Mass awaken creates powerful allies for a druid 21 DESCRIPTIONS SPELL CHAPTER 1",
+        "name":  "A stuck creature can break loose by Casting Time",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless)",
+        "name":  "Spell Resistance",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Saving Throw: None (harmless)",
+        "name":  "Spell Resistance",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) This spell awakens a humanoid-shaped After a full day of constant spellcasting, construct to humanlike sentience. An you finally succeed in bringing sentience Whispering secret words to the undead awakened construct’s Intelligence, to the subjects. before you, you call forth a glimmer of Wisdom, and Charisma scores are intelligence in its dead eyes. all 3d6. The spell does not work on You awaken one or more trees or constructs that are constructs only animals to humanlike sentience. All This spell grants intelligence to mind- temporarily (such as objects affected by awakened creatures must be of the less undead such as skeletons and an animate objects spell). The awakened same kind. To succeed, you must zombies. Undead creatures with Intelli- creature is independent of both you make a Will save (DC 10 + the HD of gence scores are unaffected. A mindless and the being who originally made it, the highest-HD target, or the HD the undead gains an Intelligence score of though it is initially friendly toward highest-HD tree has once awakened, 1d6+4, subject to the limitation that both you and its maker. (See MM 290 whichever is greater). Failure indicates an undead cannot be more intelligent for information on skills and feats the that the spell fails for all targets. than is typical of a living creature of the creature gains.) The awakened animal or tree is same kind. A dog skeleton simply has",
+        "name":  "Spell Resistance",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Will negates Undead also regain any extraordi- speak one language that you know, plus Spell Resistance: Yes nary racial abilities they had in life, one additional language that you know such as poison or scent. per point of its Intelligence bonus, if it Ac ommandf orr epentancei ssuesf romy our Awakened undead gain a +2 profane has one. (See MM 290 for information mouth, carrying with it the power of the bonus on their Will saving throws to on skills and feats the creature gains.) spell. The crushing feeling of guilt that grew resist control undead. Awakened undead",
+        "name":  "An awakened tree or animal can Saving Throw",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "250 XP per creature awak- within you while you cast the spell lifts as also gain +2 turn resistance (or retain ened. you project the feeling at your target. their own turn resistance, if any, and if it is better than +2). AWAKEN CONSTRUCT The subject immediately takes 1d6 Material Component: A humanoid points of nonlethal damage per caster finger bone. Transmutation level (maximum 10d6) and is stunned XP Cost: 250 XP.",
+        "name":  "XP Cost",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No (harmless) the way holy water damages undead",
+        "name":  "Spell Resistance",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "5 pounds of pow- strikes a randomly selected chaotic of babau slime. dered iron and silver (worth 25 gp). outsider within the spell’s area, deal- ing 5d6 points of acid damage. After the spell’s duration expires, the water disappears.",
+        "name":  "Material Component",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A flask of axiom- atic water (see the axiomatic water spell, below). AXIOMATIC WATER Transmutation [Lawful]",
+        "name":  "Material Component",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sorcerer/wizard 1 backfires. The spell is expended, and Conjuration (Teleportation)",
+        "name":  "Level",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action per level of the spell being cast. This Components: V",
+        "name":  "Casting Time",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels) discharge ends the spell. Casting Time: 1 standard action",
+        "name":  "Range",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (object) Level: Druid 2, ranger 2, sorcerer/",
+        "name":  "Spell Resistance",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sorcerer/wizard 4 If you have 10 or more ranks in Spell Resistance: Yes",
+        "name":  "Level",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes check increases by 5. As with all uses concentrated electricity that rolls in of the Balance skill, you move at half whichever direction you point, dealing You touch your opponent and a red aura speed unless you decide to use the electricity damage to creatures it strikes. entwines him, then fades without further accelerated movement option (thereby It moves 30 feet per round. As part of effect. You back away as your opponent increasing the DC of the Balance this movement, it can ascend or jump up laughs and begins to cast a spell. check by 5). to 30 feet to strike a subject. If it enters",
+        "name":  "Spell Resistance",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action Saving Throw: Reflex partial Spell Resistance: Yes (object)",
+        "name":  "Casting Time",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Personal Spell Resistance: No",
+        "name":  "Range",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A diamond Ball lightning’s versatility makes it an worth 5,000 gp. effective spell in many situations BATTERING RAM Evocation [Force]",
+        "name":  "Material Component",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action ippillihP .M b .sullI 25 DESCRIPTIONS SPELL CHAPTER 1",
+        "name":  "Casting Time",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "None round for the duration of the spell.",
+        "name":  "Saving Throw",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    }
+]

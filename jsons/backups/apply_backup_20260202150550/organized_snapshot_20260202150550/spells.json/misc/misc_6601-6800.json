@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "spells.json",
+        "description":  "Boddynock, Dimble, Fonkin, Gimble, Glim, Gerbo, mammal only, duration 1 minute). A gnome with a Charisma Jebeddo, Namfoodle, Roondar, Seebo, Zook. score of at least 10 also has the following spell-like abilities:",
+        "name":  "Male Names",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bimpnottin, Caramip, Duvamil, Ellywick, 1/day—dancing lights, ghost sound, prestidigitation. Caster level 1st; Ellyjobell, Loopmottin, Mardnab, Roywyn, Shamil, Waywocket. save DC 10 + gnome’s Cha modifier + spell level. See the spell",
+        "name":  "Female Names",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The two numbers given in this column on needed to attain a given character level—that is, the total of all the Table 3–1 apply to saving throws. Whether a character uses the first character’s level in classes. (A character’s level in a class is called his (good) bonus or the second (poor) bonus depends on his or her class or her class level.) For any character (including a multiclass one), XP and the type of saving throw being attempted. For example, fighters determines overall character level, not individual class levels. get the lower bonus on Reflex and Will saves and the higher bonus Class Skill Max Ranks: The maximum number of ranks a on Fortitude saves, while rogues get the lower bonus on Fortitude character can have in a class skill is equal to his or her character level and Will saves and the higher bonus on Reflex saves. Monks are + 3. A class skill is a skill frequently associated with a particular equally good at all three types of saving throws. See each class’s class—for example, Spellcraft is a class skill for wizards. Class skills description to find out which bonus applies to which category of are given in each class description in this chapter (see also Table 4–2: saves. If a character has more than one class (see Multiclass Charac- Skills, page 63, for more information on skills). ters, page 59), the base save bonuses for each class are cumulative. Cross-Class Skill Max Ranks: For cross-class skills (skills not",
+        "name":  "Base Save Bonus",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Level-dependent class abilities, each explained in the Class GAME RULE INFORMATION Features section that follows. Following the general class description comes game rule informa- Spells per Day: How many spells of each spell level the character tion. Not all of the following categories apply to every class. can cast each day. If the entry is “—” for a given level of spells, the",
+        "name":  "Special",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The Abilities entry tells you which abilities are most character may not cast any spells of that level. If the entry is “0,” the important for a character of that class. Players are welcome to “play character may cast spells of that level only if he or she is entitled to against type,” but a typical character of that class will have his or her bonus spells because of a high ability score tied to spellcasting. highest ability scores where they’ll do the most good (or, in game (Bonus spells for wizards are based on Intelligence; bonus spells for world terms, be attracted to the class that most suits his or her clerics, druids, paladins, and rangers are based on Charisma. See talents or for which he or she is best qualified). Table 1–1: Ability Modifiers and Bonus Spells, page 8.) If the entry is",
+        "name":  "Abilities",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A few classes restrict a character’s possible align- a number other than 0, the character may cast that many spells plus ments. For example, a bard must have a nonlawful alignment. An any bonus spells each day. entry of “Any” means that characters of this class are not restricted A character can always choose to prepare a lower-level spell to fill in alignment. a higher-level slot (see Spell Slots, page 178).",
+        "name":  "Alignment",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Wizards, sorcerers, clerics, druids, and bards use spells. destructive. Fighters, barbarians, rogues, and monks do not. Paladins and rangers Religion: Some barbarians distrust established religions and gain the ability to use spells at 4th level. prefer an intuitive, natural relationship to the cosmos over formal",
+        "name":  "Spells",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Charisma determines how occasional individuals of these races powerful a spell a bard can cast, how many find teachers to train them in the ways spells he can cast per day, and how hard of the bard. Table 3–4: The Bard Base Fort Ref Will ––—— Spells per Day ——–— Level Attack Bonus Save Save Save Special 0 1st 2nd 3rd 4th 5th 6th 1st +0 +0 +2 +2 Bardic music, bardic knowledge, 2 — — — — — — countersong, fascinate, inspire courage +1 2nd +1 +0 +3 +3 3 0 — — — — — 3rd +2 +1 +3 +3 Inspire competence 3 1 — — — — — 4th +3 +1 +4 +4 3 2 0 — — — — 5th +3 +1 +4 +4 Bonus Feat 3 3 1 — — — — 6th +4 +2 +5 +5 Suggestion 3 3 2 — — — — 7th +5 +2 +5 +5 3 3 2 0 — — — 8th +6/+1 +2 +6 +6 Inspire courage +2 3 3 3 1 — — — 9th +6/+1 +3 +6 +6 Inspire greatness 3 3 3 2 — — — 10th +7/+2 +3 +7 +7 Bonus Feat 3 3 3 2 0 — — 11th +8/+3 +3 +7 +7 3 3 3 3 1 — — 12th +9/+4 +4 +8 +8 Song of freedom 3 3 3 3 2 — — 13th +9/+4 +4 +8 +8 3 3 3 3 2 0 — 14th +10/+5 +4 +9 +9 Inspire courage +3 4 3 3 3 3 1 — 15th +11/+6/+1 +5 +9 +9 Inspire heroics, Bonus Feat 4 4 3 3 3 2 — 16th +12/+7/+2 +5 +10 +10 4 4 4 3 3 2 0 17th +12/+7/+2 +5 +10 +10 4 4 4 4 3 3 1 18th +13/+8/+3 +6 +11 +11 Mass suggestion 4 4 4 4 4 3 2 19th +14/+9/+4 +6 +11 +11 4 4 4 4 4 4 3 20th +15/+10/+5 +6 +12 +12 Inspire courage +4, Bonus Feat 4 4 4 4 4 4 4 27 Illus. by W. Reynolds Gimble CLASSES CHAPTER 3: those spells are to resist (see Spells, below). Charisma, Dexterity, and level spells, and so forth). The Difficulty Class for a saving throw Intelligence are important for many of the bard’s class skills. against a bard’s spell is 10 + the spell level + the bard’s Charisma",
+        "name":  "Abilities",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "6 + Int modifier. score; the numbers on Table 3–5 are fixed.) Upon reaching 5th level, and at every third bard level after that (8th, 11th, and so on), a bard can choose to learn a new spell in place Class Features of one he already knows. In effect, the bard “loses” the old spell in All of the following are class features of the bard. exchange for the new one. The new spell’s level must be the same as",
+        "name":  "Skill Points at Each Additional Level",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Most clerics join their churches as young adults, Lute (common). Spell component pouch. though some are devoted to a god’s service from a young age, and a",
+        "name":  "Background",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The cleric serves as a typical group’s Jozan A cleric who chooses the Travel domain primary healer, diviner, and defensive adds Survival (Wis) to the list. A cleric who specialist. He can hold his own in a fight chooses the Trickery domain adds Bluff but usually isn’t well served by charging to (Cha), Disguise (Cha), and Hide (Dex) to the the front of combat. The cleric’s domains and list. See Deity, Domains, and Domain Spells, spell selection can greatly affect his role as below, for more information. well. Skill Points at 1st Level: (2 + Int modifier) × 4.",
+        "name":  "Role",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A cleric casts divine spells (the same type of spells avail- reverence for their deity, each cleric emphasizes different aspects of able to the druid, paladin, and ranger), which are drawn from the the deity’s interests. You can select an alignment domain (Chaos, cleric spell list (page 183). However, his alignment may restrict him Evil, Good, or Law) for your cleric only if his alignment matches that from casting certain spells opposed to his moral or ethical beliefs; domain. see Chaotic, Evil, Good, and Lawful Spells, below. A cleric must If your cleric is not devoted to a particular deity, you still select choose and prepare his spells in advance (see below). two domains to represent his spiritual inclinations and abilities. The To prepare or cast a spell, a cleric must have a Wisdom score equal restriction on alignment domains still applies. to at least 10 + the spell level (Wis 10 for 0-level spells, Wis 11 for Each domain gives your cleric access to a domain spell at each 1st-level spells, and so forth). The Difficulty Class for a saving throw spell level he can cast, from 1st on up, as well as a granted power. against a cleric’s spell is 10 + the spell level + the cleric’s Wisdom Your cleric gets the granted powers of both the domains selected. modifier. With access to two domain spells at a given spell level, a cleric Like other spellcasters, a cleric can cast only a certain number of prepares one or the other each day in his domain spell slot. If a spells of each spell level per day. His base daily spell allotment is domain spell is not on the cleric spell list (page 183), a cleric can given on Table 3–7: The Cleric. In addition, he receives bonus spells prepare it only in his domain spell slot. Domain spells and granted per day if he has a high Wisdom score (see Table 1–1: Ability powers are given in Cleric Domains, pages 185–189. Modifiers and Bonus Spells, page 8). A cleric also gets one domain For example, Jozan is a 1st-level cleric of Pelor. He chooses Good spell of each spell level he can cast, starting at 1st level. When a and Healing (from Pelor’s domain options) as his two domains. He cleric prepares a spell in a domain spell slot, it must come from one gets the granted powers of both his selected domains. The Good of his two domains (see Deities, Domains, and Domain Spells, domain allows him to cast all spells with the good descriptor at +1 below). caster level (as if he were one level higher as a cleric) as a granted Clerics do not acquire their spells from books or scrolls, nor do power, and it gives him access to protection from evil as a 1st-level they prepare them through study. Instead, they meditate or pray for domain spell. The Healing domain allows him to cast all healing their spells, receiving them through their own strength of faith or as subschool spells of the conjuration school at +1 caster level as a divine inspiration. Each cleric must choose a time at which he must granted power, and it gives him access to cure light wounds as a 1st- spend 1 hour each day in quiet contemplation or supplication to level domain spell. When Jozan prepares his spells, he gets one 1st- regain his daily allotment of spells. Typically, this hour is at dawn or level spell for being a 1st-level cleric, one bonus 1st-level spell for noon for good clerics and at dusk or midnight for evil ones. Time having a high Wisdom score (15), and one domain spell. The spent resting has no effect on whether a cleric can prepare spells. A domain spell must be one of the two to which he has access, either cleric may prepare and cast any spell on the cleric spell list (page protection from evil or cure light wounds. 183), provided that he can cast spells of that level, but he must Spontaneous Casting: A good cleric (or a neutral cleric of a choose which spells to prepare during his daily meditation. good deity) can channel stored spell energy into healing spells that",
+        "name":  "Spells",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A cleric can’t cast spells",
+        "name":  "Chaotic, Evil, Good, and Lawful Spells",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1d4 gp. of an alignment opposed to his own or his deity’s (if he has one). For example, a good cleric (or a neutral cleric of a good deity) cannot cast evil spells. Spells associated with particular alignments are indicated DRUID by the chaos, evil, good, and law descriptors in their spell The fury of a storm, the gentle strength of the morning sun, the descriptions (see Chapter 11: Spells). cunning of the fox, the power of the bear—all these and more are at Turn or Rebuke Undead (Su): Any cleric, regardless of align- the druid’s command. The druid however, claims no mastery over ment, has the power to affect undead creatures (such as skeletons, nature. That claim, she says, is the empty boast of a city dweller. The zombies, ghosts, and vampires) by channeling the power of his faith druid gains her power not by ruling nature but by being at one with through his holy (or unholy) symbol (see Turn or Rebuke Undead, it. To trespassers in a druid’s sacred grove, and to those who feel her page 159). wrath, the distinction is overly fine. A good cleric (or a neutral cleric who worships a good deity) can",
+        "name":  "Gold",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Neutral good, lawful neutral, neutral, chaotic some individuals are so isolated that they have never seen any high- neutral, or neutral evil. ranking members of the society or participated in druidic Hit Die: d8. gatherings. All druids recognize each other as brothers and sisters. Like true creatures of the wilderness, however, druids sometimes Class Skills compete with or even prey on each other. The druid’s class skills (and the key ability for each skill) are A druid may be expected to perform services for Concentration (Con), Craft (Int), higher-ranking druids, though proper payment is Diplomacy (Cha), Handle Animal tendered for such assignments. Likewise, a (Cha), Heal (Wis), Knowledge lower-ranking druid may appeal for aid from (nature) (Int), Listen (Wis), her higher-ranking comrades in exchange for a Profession (Wis), Ride (Dex), Spellcraft fair price in coin or service. (Int), Spot (Wis), Survival (Wis), and Swim Druids may live in small towns, but they always (Str). See Chapter 4: Skills for skill spend a good portion of their time in wild descriptions. areas. Even large cities surrounded by Skill Points at 1st Level: (4 + Int cultivated land as far as the eye can see often modifier) × 4. have druid groves nearby—small, wild Skill Points at Each Additional Level: 4 refuges where druids live and which they + Int modifier. protect fiercely. Near coastal cities, such refuges may be nearby islands, where the Class Features druids can find the isolation they need. All of the following are class features of the",
+        "name":  "All druids are nominally members of this druidic society, though Alignment",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A druid casts divine spells (the same type of spells nothing if not accepting of diversity, and they take little offense at available to the cleric, paladin, and ranger), which are drawn from other characters, even those very different from them. the druid spell list (page 189). Her alignment may restrict her from",
+        "name":  "Spells",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The druid enjoys extraordinary versatility. Though she casting certain spells opposed to her moral or ethical beliefs; see lacks the sheer healing power of the cleric, she makes up for it with Chaotic, Evil, Good, and Lawful Spells, below. A druid must choose additional offensive power, thanks to her spell selection and wild and prepare her spells in advance (see below). shape ability. A druid back up by another secondary healer (such as a To prepare or cast a spell, the druid must have a Wisdom score paladin) can prove extremely valuable to a group of adventurers. Her equal to at least 10 + the spell level (Wis 10 for 0-level spells, Wis 11 animal companion also provides valuable melee combat support. for 1st-level spells, and so forth). The Difficulty Class for a saving throw against a druid’s spell is 10 + the spell level + the druid’s GAME RULE INFORMATION Wisdom modifier. Druids have the following game statistics. Like other spellcasters, a druid can cast only a certain number of",
+        "name":  "Role",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Wisdom determines how powerful a spell a druid can spells of each spell level per day. Her base daily spell allotment is cast, how many spells she can cast per day, and how hard those given on Table 3–8: The Druid. In addition, she receives bonus spells are to resist. To cast a spell, a druid must have a Wisdom score spells per day if she has a high Wisdom score (see Table 1–1: Ability of 10 + the spell’s level. A druid gets bonus spells based on Wisdom. Modifiers and Bonus Spells, page8). She does not have access to any domain spells or granted powers, as a cleric does. 34 dooW .S yb .sullI Vadania :3 RETPAHC SESSALC Table 3–8: The Druid Base Fort Ref Will ———————————— Spells per Day ——–————————— Level Attack Bonus Save Save Save Special 0 1st 2nd 3rd 4th 5th 6th 7th 8th 9th 1st +0 +2 +0 +2 Animal companion, 3 1 — — — — — — — — nature sense, wild empathy 2nd +1 +3 +0 +3 Woodland stride 4 2 — — — — — — — — 3rd +2 +3 +1 +3 Trackless step 4 2 1 — — — — — — — 4th +3 +4 +1 +4 Resist nature’s lure 5 3 2 — — — — — — — 5th +3 +4 +1 +4 Wild shape (1/day) 5 3 2 1 — — — — — — 6th +4 +5 +2 +5 Wild shape (2/day),BF 5 3 3 2 — — — — — — 7th +5 +5 +2 +5 Wild shape (3/day) 6 4 3 2 1 — — — — — 8th +6/+1 +6 +2 +6 Wild shape (Large) 6 4 3 3 2 — — — — — 9th +6/+1 +6 +3 +6 Venom immunity 6 4 4 3 2 1 — — — — 10th +7/+2 +7 +3 +7 Wild shape (4/day) 6 4 4 3 3 2 — — — — 11th +8/+3 +7 +3 +7 Wild shape (Tiny) 6 5 4 4 3 2 1 — — — 12th +9/+4 +8 +4 +8 Wild shape (plant), BF 6 5 4 4 3 3 2 — — — 13th +9/+4 +8 +4 +8 A thousand faces 6 5 5 4 4 3 2 1 — — 14th +10/+5 +9 +4 +9 Wild shape (5/day) 6 5 5 4 4 3 3 2 — — 15th +11/+6/+1 +9 +5 +9 Timeless body, 6 5 5 5 4 4 3 2 1 — wild shape (Huge) 16th +12/+7/+2 +10 +5 +10 Wild shape 6 5 5 5 4 4 3 3 2 — (elemental 1/day) 17th +12/+7/+2 +10 +5 +10 6 5 5 5 5 4 4 3 2 1 18th +13/+8/+3 +11 +6 +11 Wild shape (6/day, 6 5 5 5 5 4 4 3 3 2 elemental 2/day), BF 19th +14/+9/+4 +11 +6 +11 6 5 5 5 5 5 4 4 3 3 20th +15/+10/+5 +12 +6 +12 Wild shape (elemental 6 5 5 5 5 5 4 4 4 4 3/day, Huge elemental) A druid prepares and casts spells the way a cleric does, though she A 1st-level druid’s companion is completely typical for its kind cannot lose a prepared spell to cast a cure spell in its place (but see except as noted in the sidebar on page 36. As a druid advances in Spontaneous Casting, below). A druid may prepare and cast any spell level, the animal’s power increases as shown on the table in the on the druid spell list (page 189), provided that she can cast spells of sidebar. that level, but she must choose which spells to prepare during her If a druid releases her companion from service, she may gain a daily meditation. new one by performing a ceremony requiring 24 uninterrupted hours of prayer. This ceremony can also replace an animal com-",
+        "name":  "Abilities",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A druid can channel stored spell energy panion that has perished. into summoning spells that she hasn’t prepared ahead of time. She A druid of 4th level or higher may select from alternative lists of can “lose” a prepared spell in order to cast any summon nature’s ally animals (see the sidebar). Should she select an animal companion spell of the same level or lower. For example, a druid who has from one of these alternative lists, the creature gains abilities as if prepared repel vermin (a 4th-level spell) may lose repel vermin in order the character’s druid level were lower than it actually is. Subtract the to cast summon nature’s ally IV (also a 4th-level spell). value indicated in the appropriate list header from the character’s",
+        "name":  "Spontaneous Casting",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A druid can’t cast spells druid level and compare the result with the druid level entry on the of an alignment opposed to her own or her deity’s (if she has one). table in the sidebar to determine the animal companion’s powers. (If For example, a neutral good druid cannot cast evil spells. Spells this adjustment would reduce the druid’s effective level to 0 or associated with particular alignments are indicated by the chaos, lower, she can’t have that animal as a companion.) For example, a evil, good, and law descriptors in their spell descriptions (see 6th-level druid could select a leopard as an animal companion. The Chapter 11: Spells). leopard would have characteristics and special abilities as if the",
+        "name":  "Chaotic, Evil, Good, and Lawful Spells",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Humans, with their undead turning ability. Strength is ambitious souls, make great important for a paladin because of its paladins. Half-elves, who often role in combat. A Wisdom score of have human ambition, may also 14 or higher is required to get find themselves called into access to the most powerful service as paladins. Dwarves paladin spells, and a score of 11 or are sometimes paladins, but higher is required to cast any becoming a paladin may be paladin spells at all. hard on a dwarf because it",
+        "name":  "Races",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "d10. the paladin’s life before Table 3–12: The Paladin Alhandra Base Fort Ref Will ———— Spells per Day ———— Level Attack Bonus Save Save Save Special 1st 2nd 3rd 4th 1st +1 +2 +0 +0 Aura of good, detect evil, smite evil 1/day — — — — 2nd +2 +3 +0 +0 Divine grace, lay on hands — — — — 3rd +3 +3 +1 +1 Aura of courage, divine health — — — — 4th +4 +4 +1 +1 Turn undead 0 — — — 5th +5 +4 +1 +1 Smite evil 2/day, special mount, Bonus Feat 0 — — — 6th +6/+1 +5 +2 +2 Remove disease 1/week 1 — — — 7th +7/+2 +5 +2 +2 1 — — — 8th +8/+3 +6 +2 +2 1 0 — — 9th +9/+4 +6 +3 +3 Remove disease 2/week 1 0 — — 10th +10/+5 +7 +3 +3 Smite evil 3/day, Bonus Feat 1 1 — — 11th +11/+6/+1 +7 +3 +3 1 1 0 — 12th +12/+7/+2 +8 +4 +4 Remove disease 3/week 1 1 1 — 13th +13/+8/+3 +8 +4 +4 1 1 1 — 14th +14/+9/+4 +9 +4 +4 2 1 1 0 15th +15/+10/+5 +9 +5 +5 Remove disease 4/week, smite evil 4/day 2 1 1 1 16th +16/+11/+6/+1 +10 +5 +5 Bonus Feat 2 2 1 1 17th +17/+12/+7/+2 +10 +5 +5 2 2 2 1 18th +18/+13/+8/+3 +11 +6 +6 Remove disease 5/week 3 2 2 1 19th +19/+14/+9/+4 +11 +6 +6 3 3 3 2 20th +20/+15/+10/+5 +12 +6 +6 Smite evil 5/day 3 3 3 3 43 CLASSES CHAPTER 3: Class Skills 12 for 2nd-level spells, and so forth). The Difficulty Class for a saving throw against a paladin’s spell is 10 + the spell level + the paladin’s The paladin’s class skills (and the key ability for each skill) are Wisdom modifier. Concentration (Con), Craft (Int), Diplomacy (Cha), Handle Animal Like other spellcasters, a paladin can cast only a certain number of (Cha), Heal (Wis), Knowledge (nobility and royalty) (Int), spells of each spell level per day. Her base daily spell allotment is Knowledge (religion) (Int), Profession (Wis), Ride (Dex), and Sense given on Table 3–12: The Paladin. In addition, she receives bonus Motive (Wis). See Chapter 4: Skills for skill descriptions. spells per day if she has a high Wisdom score (see Table 1–1: Ability Skill Points at 1st Level: (2 + Int modifier) × 4. Modifiers and Bonus Spells, page 8). When Table 3–12 indicates that",
+        "name":  "Hit Die",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "2 + Int modifier. the paladin gets 0 spells per day of a given spell level (for instance, 1st-level spells for a 4th-level paladin), she gains only the bonus Class Features spells she would be entitled to based on her Wisdom score for that All of the following are class features of the paladin. spell level The paladin does not have access to any domain spells or",
+        "name":  "Skill Points at Each Additional Level",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "6d4 gp. feared. They revel in nature’s thoughtless cruelty and seek to emulate her most fearsome RANGER predators. They gain divine spells just as good rangers do, for nature herself is indifferent to The forests are home to fierce and cunning good and evil. creatures, such as bloodthirsty Religion: Though a ranger gains his owlbears and malicious displacer divine spells from the power of nature, he beasts. But more cunning and like anyone else may worship a chosen powerful than these monsters is the deity. Ehlonna (goddess of the wood- ranger, a skilled hunter and stalker. He lands) and Obad-Hai (god of nature) are knows the woods as if they were his the most common deities revered by, home (as indeed they are), and he though some prefer more martial deities. knows his prey in deadly detail. Background: Some rangers gained",
+        "name":  "Gold",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Beginning at 4th level, a ranger gains the ability to cast a Camouflage (Ex): A ranger of 13th level or higher can use the small number of divine spells (the same type of spells available to Hide skill in any sort of natural terrain, even if the terrain doesn’t the cleric, druid, and paladin), which are drawn from the ranger grant cover or concealment. spell list (page 191). A ranger must choose and prepare his spells in Hide in Plain Sight (Ex): While in any sort of natural terrain, a advance (see below). ranger of 17th level or higher can use the Hide skill even while To prepare or cast a spell, a ranger must have a Wisdom score being observed. equal to at least 10 + the spell level (Wis 11 for 1st-level spells, Wis 12 for 2nd-level spells, and so forth). The Difficulty Class for a saving Elf Ranger Starting Package throw against a ranger’s spell is 10 + the spell level + the ranger’s",
+        "name":  "Spells",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Pick a number of skills equal to 6 + Int modifier. cannot lose a prepared spell to cast a cure spell in its place. A ranger may prepare and cast any spell on the ranger spell list, provided that 48 :3 RETPAHC SESSALC",
+        "name":  "A ranger prepares and casts spells the way a cleric does, though he Skill Selection",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Any. spell used to create it.",
+        "name":  "Alignment",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Charisma determines how powerful a spell a sorcerer the sorcerer/wizard spell list (page 192), or they can be unusual can cast, how many spells he can cast per day, and how hard those spells that the sorcerer has gained some understanding of by study. spells are to resist (see Spells, below). Like a wizard, a sorcerer ben- For example, a sorcerer with a scroll or spellbook detailing an efits from high Dexterity and Constitution scores. unusual sorcerer/wizard spell (one not on the sorcerer/wizard spell",
+        "name":  "Abilities",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Any. list in this book) could select that spell as one of his new spells for",
+        "name":  "Alignment",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "d4. attaining a new level, provided that it is of the right spell level. The sorcerer can’t use this method of spell acquisition to learn spells at a Class Skills faster rate, however. The sorcerer’s class skills (and the key ability for each skill) are Bluff Upon reaching 4th level, and at every even-numbered sorcerer (Cha), Concentration (Con), Craft (Int), Knowledge (arcana) (Int), level after that (6th, 8th, and so on), a sorcerer can choose to learn a Profession (Wis), and Spellcraft (Int). See Chapter 4: Skills for skill new spell in place of one he already knows. In effect, the sorcerer descriptions. “loses” the old spell in exchange for the new one. The new spell’s Skill Points at 1st Level: (2 + Int modifier) × 4. level must be the same as that of the spell being exchanged, and it",
+        "name":  "Hit Die",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A wizard casts arcane spells (the their comrades by way of their spells, while others same type of spells available to sorcerers may focus on divination or other facets of and bards), which are drawn from the sor- wizardry. cerer/wizard spell list (page 192). A wizard must choose and prepare her spells ahead GAME RULE of time (see below). INFORMATION To learn, prepare, or cast a spell, the wizard must have an Intelligence score Wizards have the following game equal to at least 10 + the spell level (Int 10 for statistics. 0-level spells, Int 11 for 1st-level spells, and",
+        "name":  "Spells",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A wizard can obtain a familiar in of your choice. At each new exactly the same manner as a sorcerer can. See the wizard level, she gains two new sorcerer description and the accompanying spells of any spell level or levels that Familiars sidebar for details. she can cast (based on her new",
+        "name":  "Familiar",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "3d6 gp. 1–1: Ability Modifiers and Bonus Spells, page 8), add +1 to his or her hit point total for every character level below the one just attained. For example, if you raise your character’s Constitution from 11 to 12 EXPERIENCE AND LEVELS at 4th level, he or she gets +3 hit points (one each for 1st, 2nd, and 3rd levels). Add these points before rolling for hit points (the next Experience points (XP) measure how much your character has step). learned and how much he or she has grown in personal power. Your 5. Hit Points: Roll a Hit Die, add your character’s Constitution character earns XP by defeating monsters and other opponents. The modifier, and add the total roll to his or her hit points. Even if the DM assigns XP to the characters at the end of each adventure based character has a Constitution penalty and the roll was so low as to on what they have accomplished. Characters accumulate XP from yield a result of 0 or fewer hit points, always add at least 1 hip point one adventure to another. When a character earns enough XP, he or upon gaining a new level. she attains a new character level (see Table 3–2: Experience and 6. Skill Points: Each character gains skill points to spend on Level-Dependent Benefits, page 22). skills as detailed in the appropriate class description. For class skills,",
+        "name":  "Gold",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A character gains hit points from each class as his or Spells: The character gains spells from all of his or her spell- her class level increases, adding the new hit points to the previous casting classes. Thus, an experienced ranger/druid may have access total. For example, Lidda the halfling began as a rogue and attained to the spell protection from elements both as a ranger and as a druid. 4th level, then added levels of wizard at her next two level Since the spell’s effect is based on the class level of the caster, the advancements. As a 4th-level rogue/2nd-level wizard, her total hit player must keep track of whether the character is preparing and points are 6 + 1d6 + 1d6 + 1d6 + 1d4 + 1d4. casting protection from elements as a ranger or as a druid.",
+        "name":  "Hit Points",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "If any two of your multiclass character’s classes wizard’s benefits for attaining a new level rather than the rogue’s. As are two or more levels apart, the strain of developing and a 2nd-level wizard, she gains another d4 Hit Die, her base attack maintaining different skills at different levels takes its toll. Your bonus and Will save bonus each go up by +1, she gains 4 more skill multiclass character suffers a –20% penalty to XP for each class that points, and she can now prepare another 0-level spell and another is not within one level of his or her highest-level class. These 1st-level spell each day (as noted on Table 3–18: The Wizard). penalties apply from the moment the character adds a class or raises Additionally, as a 6th-level character overall she gets her third feat a class’s level too high. For instance, a 4th-level wizard/3rd-level (as per Table 3–2: Experience and Level-Dependent Benefits, page rogue gets no penalty, but if that character raises his wizard level to 22). 5th, then he takes the –20% penalty from that point on until his At this point, Lidda is a 6th-level character: a 4th-level rogue/2nd- levels were nearly even again. level wizard. She casts spells as a 2nd-level wizard does, and she",
+        "name":  "Uneven Levels",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A favored class (see the individual sneak attacks as a 4th-level rogue does. Her combat skill is a little race entries in Chapter 2: Races) does not count against the char- better than a 4th-level rogue’s would be, because she has learned acter for purposes of the –20% penalty to XP. In such cases, calculate something about fighting during her time as a wizard. (Her base the XP penalty as if the character did not have that class. For attack bonus went up +1 when she became a 2nd-level wizard.) Her instance, Bergwin is an 11th-level gnome character (a 9th-level base Reflex save bonus is +4 (+4 from her rogue class and +0 from rogue/2nd-level bard). He takes no penalty to his XP because he has her wizard class), better than a 6th-level wizard’s but not as good as a only one nonfavored class. (Bard is favored for gnomes.) Suppose he 6th-level rogue’s. Her base Will save bonus is +4 (+1 from her rogue then attains 12th level and adds 1st level as fighter to his classes, class and +3 from her wizard class), better than a 6th-level rogue’s becoming a 9th-level rogue/2nd-level illusionist/1st-level fighter. but not as good as a 6th-level wizard’s. He then takes a –20% XP penalty on future XP he earns because his At each new level, Lidda must decide whether to increase her fighter level is so much lower than his rogue level. Were he awarded rogue level or her wizard level. Of course, if she really wants to have 1,200 XP for an adventure, he would receive only 80% of that diverse abilities, she could even acquire a third class—maybe amount, or 960 XP. If he thereafter rose to 13th level and picked up fighter. 60 :3 RETPAHC SESSALC idda the rogue can walk quietly up to a door, put her ear to it, and This roll works just like an attack roll or a saving throw—the hear the troglodyte priest on the other side casting a spell higher the roll, the better. Either you’re trying to match or on his pet crocodile. If Jozan the cleric were to try the same exceed a certain Difficulty Class (DC), or you’re trying to beat thing, he’d make so much noise that the troglodyte would another character’s check result. For instance, to sneak quietly hear him. Jozan could, however, identify the spell that the past a guard, Lidda needs to beat the guard’s Listen check result evil priest is casting. Actions such as these rely on the skills that with her own Move Silently check result. characters have (in this case, Move Silently, Listen, and Spellcraft). Skill Ranks: A character’s number of ranks in a skill is based on how many skill points a character has invested in a skill. Many skills can be used even if the character has no SKILLS SUMMARY ranks in them; doing this is called making an untrained skill A character’s skills represent a variety of abilities. As a character check. advances in level, he or she gets better at using some or all of her Ability Modifier: The ability modifier used in a skill skills. check is the modifier for the skill’s key ability (the ability",
+        "name":  "Races and Multiclass XP",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can use Bluff to get a message “You might find this hard to believe, but I’m actually a across to another character without others understanding it. Two lammasu who’s been polymorphed into halfling form by rogues, for example, might seem to be talking about bakery goods an evil sorcerer. You know we lammasu are trustworthy, when they’re really planning how to break into the evil wizard’s so you can believe me.” laboratory. The DC is 15 for simple messages, or 20 for complex Favorable and unfavorable circumstances weigh heavily on the messages, especially those that rely on getting across new outcome of a bluff. Two circumstances can weigh against information. Failure by 4 or less means you can’t get the you: The bluff is hard to believe, or the action that message across. Failure by 5 or more means that some false the target is asked to take goes against its self- information has been implied or inferred. Anyone listening interest, nature, persona- to the exchange can make a Sense Motive check opposed by lity, orders, or the like. If the Bluff check you made to transmit in order to intercept it’s important, the DM can your message (see Sense Motive, page 81). distinguish between a bluff that Action: Varies. A Bluff check made as part of fails because the target doesn’t believe general interaction always takes at least 1 round it and one that fails because it just asks (and is at least a full-round action), but it can take too much of the target. For instance, if much longer if you try something elaborate. A the target gets a +10 bonus on Bluff check made to feint in combat or create a its Sense Motive check because diversion to hide is a standard action. A Bluff check the bluff demands something made to deliver a secret message doesn’t take an risky, and the Sense Motive check action; it is part of normal communication. succeeds by 10 or less, then the target However, the DM may limit the amount of didn’t so much see through the bluff as information you can convey in a single round. prove reluctant to go along with it. A target Try Again: Varies. Generally, a failed Bluff that succeeds by 11 or more has seen check in social interaction makes the target too through the bluff (and would have done suspicious for you to try again in the same so even if that bluff had not entailed circumstances, but you may retry freely on any demand). Bluff checks made to feint in combat. Retries A successful Bluff check indicates are also allowed when you are trying to send a that the target reacts as you wish, at message, but you may attempt such a least for a short time (usually retry only once per round. Each retry 1 round or less) or believes carries the same chance of something that you want it to miscommunication. believe. Bluff, however, is not a Special: A ranger gains a bonus on suggestion spell. For example, you could Bluff checks when using this skill use bluff to put a shopkeeper off guard against a favored enemy (see page 47). by saying that his shoes are untied. At The master of a snake familiar (see best, such a bluff would make the the Familiars sidebar, page 52) shopkeeper glance down at his gains a +3 bonus on Bluff checks. shoes. It would not cause him to If you have the Persuasive feat, ignore you and fiddle with his you get a +2 bonus on Bluff shoes. checks.",
+        "name":  "Delivering a Secret Message",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can make an Escape Artist check opposed by your Familiarity Viewer’s Spot Check Bonus enemy’s grapple check to get out of a grapple or out of a pinned Recognizes on sight +4 condition (so that you’re only grappling). See Escape from Grapple Friends or associates +6 under If You’re Grappling, page 156. Close friends +8 Intimate +10 Restraint Escape Artist DC Ropes Binder’s Use Rope check at +10 Usually, an individual makes a Spot check to see through your dis- Net, animate rope spell, command plants spell, 20 guise immediately upon meeting you and each hour thereafter. If control plants spell, or entangle spell you casually meet many different creatures, each for a short time, Snare spell 23 check once per day or hour, using an average Spot modifier for the Manacles 30 group. For example, if you are trying to pass for a merchant at a Tight space 30 bazaar, the DM can make one Spot check per hour for the people Masterwork manacles 35 you encounter, using a +1 bonus on the check to represent the Grappler Grappler’s grapple check result average for the crowd (most people with no Spot ranks and a few with good Spot modifiers). Action: Making an Escape Artist check to escape from rope",
+        "name":  "Grappler",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes. You may try to redo a failed disguise, but once minute of work. Escaping from a net or an animate rope, command others know that a disguise was attempted, they’ll be more plants, control plants, or entangle spell is a full-round action. Escaping suspicious. from a grapple or pin is a standard action. Squeezing through a tight",
+        "name":  "Try Again",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A creature again. You take a –20 penalty on your Hide check to conceal wounded by stepping on a caltrop moves at one-half normal speed. yourself after the shot. A successful Heal check removes this movement penalty. Creating a Diversion to Hide: You can use Bluff (page 67) to help A creature wounded by a spike growth or spike stones spell must you hide. A successful Bluff check can give you the momentary succeed on a Reflex save or take injuries that reduce his speed by diversion you need to attempt a Hide check while people are aware one-third. Another character can remove this penalty by taking 10 of you. minutes to dress the victim’s injuries and succeeding on a Heal",
+        "name":  "Treat Wound from Caltrop, Spike Growth, or Spike Stones",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Usually none. Normally, you make a Hide check as part check against the spell’s save DC. of movement, so it doesn’t take a separate action. However, hiding",
+        "name":  "Action",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Providing first aid, treating a wound, or treating poison is a standard action. Treating a disease or tending a creature wounded INTIMIDATE (CHA) by a spike growth or spike stones spell takes 10 minutes of work. Use this skill to get a bully to back down, to frighten an opponent, Providing long-term care requires 8 hours of light activity. or to make a prisoner give you the information you want. Intimi-",
+        "name":  "Action",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "If you have 5 or more ranks in Knowledge (arcana), you 19 A cat stalking get a +2 bonus on Spellcraft checks. 30 An owl gliding in for a kill If you have 5 or more ranks in Knowledge (architecture and 1 If you beat the DC by 10 or more, you can make out what’s being said, engineering), you get a +2 bonus on Search checks made to find assuming that you understand the language. secret doors or hidden compartments. If you have 5 or more ranks in Knowledge (geography), you get a Listen DC Modifier Condition +2 bonus on Survival checks made to keep from getting lost or to +5 Through a door avoid natural hazards. +15 Through a stone wall If you have 5 or more ranks in Knowledge (history), you get a +2 –+1 Per 10 feet of distance bonus on bardic knowledge checks (see page 28). –+5 Listener distracted If you have 5 or more ranks in Knowledge (local), you get a +2 In the case of people trying to be quiet, the DCs given on the table bonus on Gather Information checks. could be replaced by Move Silently checks, in which case the PLAYER KNOWLEDGE VERSUS CHARACTER KNOWLEDGE Generally speaking, it’s impossible to separate completely your It’s pretty simple to measure a character’s knowledge of things the player personal knowledge (also called player knowledge) from your character’s doesn’t know. That’s what a Knowledge skill check represents—for knowledge. Ultimately, the decision on how (or if) to divide player instance, the player of a character with many ranks in Knowledge knowledge from character knowledge must be made between the players (geography) isn’t required to memorize all the geographic data about the and the DM. Some DMs encourage knowledgeable players to use their campaign world to use his character’s skill ranks. experience to help their characters succeed. Others prefer that characters The opposite case, however, is harder to adjudicate cleanly. What display only the knowledge represented by their skill ranks and other happens when a player knows something that his or her character does game statistics. Most fall somewhere between those two extremes. not have any reason to know? For instance, while most veteran players If in doubt, ask your DM how he or she prefers to handle such know that black dragons breathe acid, it’s entirely likely that most situations. The Dungeon Master’s Guide has more information on this inexperienced characters don’t know that fact. topic. 78 :4 RETPAHC SLLIKS indicated DC would be their average check result (or close to it). For Lock DC Lock DC instance, the DC 19 noted on the table for a cat stalking means that Very simple lock 20 Good lock 30 an average cat has a +9 bonus on Move Silently checks. Assuming an Average lock 25 Amazing lock 40 average roll of 10 on 1d20, its Move Silently check result would be 19. Action: Opening a lock is a full-round action.",
+        "name":  "Synergy",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The DC for opening a lock varies from 20 to 40, depend- inspire courage in his allies, or to use his countersong or his fascinate ing on the quality of the lock, as given on the table below. ability. A bard needs 6 ranks in a Perform skill to inspire com- 79 SKILLS CHAPTER 4: petence, 9 ranks to use his suggestion ability, 12 ranks to inspire Guide with Knees: You can react instantly to guide your mount greatness, 15 ranks to use his song of freedom ability, 18 ranks to with your knees so that you can use both hands in combat. Make inspire heroics, and 21 ranks to use his mass suggestion ability. See your Ride check at the start of your turn. If you fail, you can use only Bardic Music in the bard class description, page 29. one hand this round because you need to use the other to control In addition to using the Perform skill, you can entertain people your mount. with sleight of hand, tumbling, tightrope walking, and spells Stay in Saddle: You can react instantly to try to avoid falling when (especially illusions). your mount rears or bolts unexpectedly or when you take damage. This usage does not take an action. PROFESSION (WIS; TRAINED ONLY) Fight with Warhorse: If you direct your war-trained mount to attack in battle, you can still make your own attack or attacks You are trained in a livelihood or a professional role, such as normally. This usage is a free action. apothecary, boater, bookkeeper, brewer, cook, driver, farmer, fisher,",
+        "name":  "Check",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can react instantly to drop down and hang alongside guide, herbalist, herder, hunter, innkeeper, lumberjack, miller, your mount, using it as cover. You can’t attack or cast spells while miner, porter, rancher, sailor, scribe, siege engineer, stablehand, using your mount as cover. If you fail your Ride check, you don’t get tanner, teamster, woodcutter, or the like. the cover benefit. This usage does not take an action. Like Craft, Knowledge, and Perform, Profession is actually a",
+        "name":  "Cover",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No, though you may make a Sense Motive check for using Search, but against which Disable Device checks do not each Bluff check made against you. succeed. See the individual spell descriptions in Chapter 11: Spells",
+        "name":  "Try Again",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A ranger gains a bonus on Sense Motive checks when for details. using this skill against a favored enemy (see page 47). Active abjuration spells within 10 feet of each other for 24 hours If you have the Negotiator feat, you get a +2 bonus on Sense or more create barely visible energy fluctuations. These fluctuations Motive checks. give you a +4 bonus on Search checks to locate such abjuration",
+        "name":  "Special",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "If you have 5 or more ranks in Sense Motive, you get a spells. +2 bonus on Diplomacy checks.",
+        "name":  "Synergy",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Any Sleight of Hand check normally is a standard action. place. However, you may perform a Sleight of Hand check as a free action by taking a –20 penalty on the check. Spellcraft DC Task",
+        "name":  "Action",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "If you have the Deft Hands feat, you get a +2 bonus on 15 + spell level Learn a spell from a spellbook or scroll (wizard Sleight of Hand checks. only). No retry for that spell until you gain at least",
+        "name":  "Special",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "If you have 5 or more ranks in Bluff, you get a +2 bonus 1 rank in Spellcraft (even if you find another on Sleight of Hand checks. source to try to learn the spell from). Requires",
+        "name":  "Synergy",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Base price = spell level × caster level × 50 gp. spell being cast from a wand, scroll, or other device.",
+        "name":  "Potions",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell Focus (conjuration). you decide whether to acquire the feat.",
+        "name":  "Prerequisite",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Each creature you conjure with any summon spell gains a +4 enhancement bonus to Strength and Constitution for the ACROBATIC [GENERAL] duration of the spell that summoned it. You have excellent body awareness and coordination.",
+        "name":  "Benefit",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Caster level 9th. COMBAT CASTING [GENERAL] Benefit: You can create any rod whose prerequisites you meet You are adept at casting spells in combat. (see the Dungeon Master’s Guide for prerequisites and other infor-",
+        "name":  "Prerequisite",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A character without this feat can make only one attack Guide for rules on wands). of opportunity per round and can’t make attacks of opportunity Prerequisite: Caster level 5th. while flat-footed. Benefit: You can create a wand of any 4th-level or lower spell that",
+        "name":  "Normal",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell Penetration. (instead of a 2nd-level spell), and it would in all ways be treated as a",
+        "name":  "Prerequisite",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "All variable, numeric effects of a spell modified by this",
+        "name":  "Benefit",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Base attack bonus +1. You can cast spells while in a wild shape.",
+        "name":  "Prerequisite",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You get a +2 bonus on all Diplomacy checks and Sense You can cast a spell with a moment’s thought. Motive checks. Benefit: Casting a quickened spell is a free action. You can per- form another action, even casting another spell, in the same round as you cast a quickened spell. You may cast only one quickened spell NIMBLE FINGERS [GENERAL] per round. A spell whose casting time is more than 1 full-round You are adept at manipulating small, delicate objects. action cannot be quickened. A quickened spell uses up a spell slot",
+        "name":  "Benefit",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You get a +2 bonus on all Disable Device checks and four levels higher than the spell’s actual level. Casting a quickened Open Lock checks. spell doesn’t provoke an attack of opportunity.",
+        "name":  "Benefit",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Dex 13, Dodge, You are so intimately familiar with certain Mobility, Point Blank Shot, base attack spells that you don’t need a spellbook to bonus +4. prepare them anymore.",
+        "name":  "Prerequisites",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Each time you take this feat, before and after the attack, provided that choose a number of spells equal to your your total distance moved is not greater Intelligence modifier that you already know. From that point on, than your speed. you can prepare these spells without referring to a spellbook. Special: A fighter may select Shot on the Run as one of his",
+        "name":  "Benefit",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A silent spell can be cast with no verbal components. more readily than normal. Spells without verbal components are not affected. A silent spell",
+        "name":  "Benefit",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You get a +2 bonus on caster level checks (1d20 + caster uses up a spell slot one level higher than the spell’s actual level. level) made to overcome a creature’s spell resistance.",
+        "name":  "Benefit",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Any surface soft enough to yield to pressure, but Benefit: A stilled spell can be cast with no somatic components. firmer than wet mud or fresh snow, in which a creature leaves Spells without somatic components are not affected. A stilled spell frequent but shallow footprints. uses up a spell slot one level higher than the spell’s actual level.",
+        "name":  "Soft Ground",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A ranger automatically has Track as a bonus feat. He TRACK [GENERAL] need not select it. You can follow the trails of creatures and characters across most This feat does not allow you to find or follow the tracks made by a types of terrain. subject of a pass without trace spell.",
+        "name":  "Special",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "When you use the full attack action, you can give up for a creature of your size category, you may use your Dexterity your regular attacks and instead make one melee attack at your full base attack bonus against each opponent within reach. When you use the Whirlwind Attack feat, you also forfeit any bonus or extra attacks granted by other feats, spells, or abilities (such as the Cleave feat or the haste spell).",
+        "name":  "Benefit",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The rules for a character of a given race apply to most but LOOKS not all people of that race. For example, you could create a dwarf descended from dwarven outcasts who have been exiled from Decide what your character looks like using the descriptions of the dwarven society. Your dwarf would have grown up among humans. various races in Chapter 2 as a starting point. Characters with high He would have the inborn qualities of a dwarf (better Constitution, Charisma scores tend to be better-looking than those with low worse Charisma, darkvision, Charisma scores, though a character with high Charisma could have and resistance to poison and strange looks, giving him or her a sort of exotic beauty. spells) but not the cultural Your character can be right- or left-handed. features (stonecunning, attack You can use your character’s looks to tell something about bonuses against goblinoids and his or her personality and background. For example: orcs, dodge bonus against giants, (cid:1) Krusk the half-orc is missing part of an ear and bears bonuses to Appraise and Craft many scars that are the result of the violent life he checks that relate to stone or led among the orcs that raised him. He keeps metal, fighter as favored class, and claws and fangs from beasts he has killed on a perhaps even knowledge of the necklace. dwarven language). You could (cid:1) Alhandra the paladin has the hand of probably talk your DM into giving Heironeous branded on the inside of her forearm your character some special bonuses to show her devotion to him. to balance the loss of the cultural (cid:1) Hennet the sorcerer wears an eclectic, features. makeshift outfit that is different from day to",
+        "name":  "Race",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This otherwise normal torch has a continual which the gold tip is burned out and worthless. See pages 164 for flame spell cast upon it. An everburning torch clearly illuminates a more rules on illumination. 20-foot radius and provides shadowy illumination out to a 40-foot",
+        "name":  "Everburning Torch",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sprigs of holly and mistletoe are used by have a specific cost, divine focuses, and focuses that wouldn’t fit in a druids as the default divine focus for druid spells. Druids can easily pouch (such as the natural pool that a druid needs to look into to find these plants in wooded areas and then harvest sprigs from them cast scrying). essentially for free. Spellbook, Wizard’s (Blank): This large, leatherbound book",
+        "name":  "Holly and Mistletoe",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The indicated amount is how much it costs to get a spell-",
+        "name":  "Spell",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This two-wheeled vehicle can be drawn by a single horse (or caster to cast a spell for you. This cost assumes that you can go to the other beast of burden). It comes with a harness. spellcaster and have the spell cast at his or her convenience",
+        "name":  "Cart",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This three-masted ship has seventy oars on either side and (generally at least 24 hours later, so that the spellcaster has time to requires a total crew of 200. A galley is 130 feet long and 20 feet prepare the spell in question). If you want to bring the spellcaster wide, and it can carry 150 tons of cargo or 250 soldiers. For 8,000 gp somewhere to cast a spell, such as into a dungeon to cast knock on a more, it can be fitted with a ram and castles with firing platforms secret door that you can’t open, you need to negotiate with him or fore, aft, and amidships. This ship cannot make sea voyages and her, and the default answer is no. sticks to the coast. It moves about 4 miles per hour when being The cost given is for a spell with no cost for a material component rowed or under sail. or focus component and no XP cost. If the spell includes a material",
+        "name":  "Galley",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This 50- to 75-foot-long ship is 15 to 20 feet wide and component, add the cost of that component to the cost of the spell. has a few oars to supplement its single mast with a square sail. It has If the spell has a focus component (other than a divine focus), add a crew of eight to fifteen and can carry 40 to 50 tons of cargo or 100 1/10 the cost of that focus to the cost of the spell. If the spell has an soldiers. It can make sea voyages, as well as sail down rivers (thanks XP cost, add 5 gp per XP lost. For instance, to get a 9th-level cleric to to its flat bottom). It moves about 1 mile per hour. cast commune for you, you need to pay 450 gp for a 5th-level spell at",
+        "name":  "Keelboat",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This 75-foot-long ship with forty oars requires a total caster level 9th, plus 500 gp for the 100 XP loss that the caster suf- crew of 50. It has a single mast and a square sail, and it can carry 50 fers, plus 25 gp for the holy water, for a total of 975 gp. tons of cargo or 120 soldiers. A longship can make sea voyages. It Furthermore, if a spell has dangerous consequences (such as moves about 3 miles per hour when being rowed or under sail. contact other plane), the spellcaster will certainly require proof that",
+        "name":  "Longship",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This 8- to 12-foot-long boat holds two or three Medium you can and will pay for dealing with any such consequences (that passengers. It moves about 1-1/2 miles per hour. is, assuming that the spellcaster even agrees to cast such a spell,",
+        "name":  "Rowboat",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This larger, seaworthy ship is 75 to 90 feet long and which isn’t certain). In the case of spells that transport the caster and 20 feet wide and has a crew of 20. It can carry 150 tons of cargo. It characters over a distance (such as teleport), you will likely have to has square sails on its two masts and can make sea voyages. It moves pay for two castings of the spell, even if you aren’t returning with about 2 miles per hour. the caster.",
+        "name":  "Sailing Ship",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This is a wagon on runners for moving through snow and In addition, not every town or village has a spellcaster of suffi- over ice. In general, two horses (or other beasts of burden) draw it. A cient level to cast any spell. In general, you must travel to a small sled comes with the harness needed to pull it. town (or larger settlement) to be reasonably assured of finding a",
+        "name":  "Sled",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This is a four-wheeled, open vehicle for transporting spellcaster capable of casting 1st-level spells, a large town for 2nd- heavy loads. In general, two horses (or other beasts of burden) draw level spells, a small city for 3rd- or 4th-level spells, a large city for it. A wagon comes with the harness needed to pull it. 5th- or 6th-level spells, and a metropolis for 7th- or 8th-level spells.",
+        "name":  "Wagon",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Combatants who are unaware at the start given opportunity, but if the same opponent provokes two attacks of of battle don’t get to act in the surprise round. Unaware combatants opportunity from you—such as by moving out of a threatened are flat-footed because they have not acted yet, so they lose any square and then casting a spell in a threatened square—you could Dexterity bonus to AC. 137 COMBAT CHAPTER 8: make two separate attacks of opportunity (since each one represents initiative count 16 in the next round, not until the end of the a different opportunity). Moving out of more than one square current round. On initiative count 15 in the next round, the stun threatened by the same opponent in the same round doesn’t count effect has ended and the previously stunned creature can act. as more than one opportunity for that opponent. All these attacks are at your full normal attack bonus. ACTION TYPES An action’s type essentially tells you how long the action takes to ACTIONS IN COMBAT perform (within the framework of the 6-second combat round) and how movement is treated. There are four types of actions: standard The fundamental actions of moving, attacking, and casting spells actions, move actions, full-round actions, and free actions. cover most of what you want to do in a battle. They’re all described In a normal round, you can perform a standard action and a move here. Other, more specialized options are covered later in Special action, or you can perform a full-round action. You can also perform Attacks, page 154, and Special Initiative Actions, page 160. as many free actions (see below) as your DM allows. You can always take a move action in place of a standard action. THE COMBAT ROUND In some situations (such as in a surprise round), you may be limited to taking only a single move action or standard action. Each round represents 6 seconds in the game world. At the table, a",
+        "name":  "Unaware Combatants",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A character who can make more than one spare. However, you may, on gaining enough XP to achieve a new attack per round must use the full attack action (see Full-Round level, immediately spend the XP on casting the spell rather than Actions, below) in order to get more than one attack. keeping it to advance a level. The XP are expended when you cast",
+        "name":  "Multiple Attacks",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "If you have the Precise Shot feat (page 98), you don’t sorcerer or bard does), it counts against your daily limit of spells take this penalty. even though you did not cast it successfully.",
+        "name":  "Precise Shot",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can choose to Concentrating to Maintain a Spell: Some spells require con- fight defensively when attacking. If you do so, you take a –4 penalty tinued concentration to keep them going. Concentrating to main- on all attacks in a round to gain a +2 dodge bonus to AC for the same tain a spell is a standard action that doesn’t provoke an attack of round. This bonus stacks with the AC bonus granted by the Combat opportunity. Anything that could break your concentration when Expertise feat (page 92). casting a spell can keep you from concentrating to maintain a spell. If your concentration breaks, the spell ends.",
+        "name":  "Fighting Defensively as a Standard Action",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can climb one-half your speed as a Spell-Like Abilities: Using a spell-like ability (such as a paladin move action by accepting a –5 penalty on your Climb check. calling her special mount) works like casting a spell in that it",
+        "name":  "Accelerated Climbing",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "After your first the same round in which you withdraw. attack, you can decide to take a move action instead of making your If, during the process of withdrawing, you move out of a remaining attacks, depending on how the first attack turns out. If threatened square (other than the one you started in), enemies get you’ve already taken a 5-foot step, you can’t use your move action to attacks of opportunity as normal. move any distance, but you could still use a different kind of move You may not withdraw using a form of movement for which you action. don’t have a listed speed. For example, a monstrous spider has a Fighting Defensively as a Full-Round Action: You can choose listed climb speed, so it can withdraw by climbing away. Your to fight defensively when taking a full attack action. If you do so, character doesn’t normally have a listed climb speed (unless you’re you take a –4 penalty on all attacks in a round to gain a +2 dodge under the effect of a spider climb spell, for example), so you can’t use bonus to AC for the same round. climbing to withdraw from combat.",
+        "name":  "Deciding between an Attack or a Full Attack",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concealment gives the subject of a such situations, the DM can double the normal cover bonuses to AC successful attack a 20% chance that the attacker missed because of and Reflex saves (to +8 and +4, respectively). A creature with this the concealment. If the attacker hits, the defender must make a miss improved cover effectively gains improved evasion against any chance percentile roll to avoid being struck. (To expedite play, make attack to which the Reflex save bonus applies (see the improved both rolls at the same time). Multiple concealment conditions (such evasion ability in the rogue class description, page 51). Furthermore, as a defender in a dog and under the effect of a blur spell) do not improved cover provides a +10 bonus on Hide checks. stack. The DM may impose other penalties or restrictions to attacks",
+        "name":  "Concealment Miss Chance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can attempt to cast a spell while grappling or Base attack bonus + Strength modifier + special size modifier even while pinned (see below), provided its casting time is no more than 1 standard action, it has no somatic component, and you have",
+        "name":  "Cast a Spell",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The special size modifier for a grapple in hand any material components or focuses you might need. Any check is as follows: Colossal +16, Gargantuan +12, Huge +8, Large +4, spell that requires precise and careful action, such as drawing a Medium +0, Small –4, Tiny –8, Diminutive –12, Fine –16. Use this circle with powdered silver for protection from evil, is impossible to number in place of the normal size modifier you use when making cast while grappling or being pinned. If the spell is one that you can an attack roll. cast while grappling, you must make a Concentration check (DC 20 + spell level) or lose the spell. You don’t have to make a successful grapple check to cast the spell. Starting a Grapple",
+        "name":  "Special Size Modifier",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You get a +4 bonus on your grapple check to move a pinned threatening opponents, but not from your target. opponent, but only if no one else is involved in the grapple. If you can’t move into your target’s space, you can’t maintain the Retrieve a Spell Component: You can produce a spell compo- grapple and must immediately let go of the target. To grapple again, nent from your pouch while grappling by using a full-round action. you must begin at Step 1. Doing so does not require a successful grapple check.",
+        "name":  "Note",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can cast a spell normally if When an opponent has pinned you, you are held immobile (but not your mount moves up to a normal move (its speed) either before or helpless) for 1 round. While you’re pinned, you take a –4 penalty to after you cast. If you have your mount move both before and after your AC against opponents other than the one pinning you. At your you cast a spell, then you’re casting the spell while the mount is opponent’s option, you may also be unable to speak. On your turn, moving, and you have to make a Concentration check due to the you can try to escape the pin by making an opposed grapple check vigorous motion (DC 10 + spell level) or lose the spell. If the mount in place of an attack. You can make an Escape Artist check in place is running (quadruple speed), you can cast a spell when your mount of your grapple check if you want, but this requires a standard has moved up to twice its speed, but your Concentration check is action. If you win, you escape the pin, but you’re still grappling. more difficult due to the violent motion (DC 15 + spell level).",
+        "name":  "Casting Spells while Mounted",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "8–9 Turning Undead. For instance, 1 1st-level cleric with an time, the cleric may command any number of undead whose total average Charisma score could get a turning check result of 19 Hit Dice do not exceed his level. He may voluntarily relinquish (cleric’s level +3, or 4 HD), which is enough to turn a wight, but then command on any commanded undead creature or creatures in order roll only 3 on his turning damage roll—not enough to turn that to command new ones. wight after all. Dispelling Turning: An evil cleric may channel negative energy You may skip over already turned undead that are still within to dispel a good cleric’s turning effect. The evil cleric makes a range, so that you do not waste your turning capacity on them. turning check as if attempting to rebuke the undead. If the turning",
+        "name":  "Table",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A character can walk 8 hours in a day of travel without a along torches or lanterns, and spellcasters have spells that can create problem. Walking for longer than that can wear him or her out (see light. See Table 9–7: Light Sources and Illumination for the radius Forced March, below). that a light source illuminates and how long it lasts.",
+        "name":  "Walk",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The only spells you can cast while grap- Jozan casts cure light wounds to remove some of the damage that pling or pinned are those without somatic components and whose Tordek has taken, or it can be complicated, such as when Jozan is material components (if any) you have in hand. Even so, you must attempting to aim an insect plague by ear at a group of nagas who have make a Concentration check (DC 20 + the level of the spell you’re hidden themselves in a deeper darkness spell, all the while avoiding casting) or lose the spell. the attacks of the nagas’ troglodyte servants. Vigorous Motion: If you are riding on a moving mount, taking a bouncy ride in a wagon, on a small boat in rough water, below-decks in a storm-tossed ship, or simply being jostled in a similar fashion, CHOOSING A SPELL you must make a Concentration check (DC 10 + the level of the spell First you must choose which spell to cast. If you’re a cleric, druid, you’re casting) or lose the spell. experienced paladin, experienced ranger, or wizard, you select from",
+        "name":  "Casting a spell can be a straightforward process, such as when Grappling or Pinned",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "If you are on a galloping horse, taking a very among spells prepared earlier in the day and not yet cast (see Prepar- rough ride in a wagon, on a small boat in rapids or in a storm, on ing Wizard Spells, page 177, and Preparing Divine Spells, page 179). deck in a storm-tossed ship, or being tossed roughly about in a If you’re a bard or sorcerer, you can select any spell you know, pro- similar fashion, you must make a Concentration check (DC 15 + the vided you are capable of casting spells of that level or higher. level of the spell you’re casting) or lose the spell. To cast a spell, you must be able to speak (if the spell has a verbal",
+        "name":  "Violent Motion",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You must make a Concentration check if you component), gesture (if it has a somatic component), and manipu- try to cast a spell in violent weather. If you are in a high wind late the material components or focus (if any). Additionally, you carrying blinding rain or sleet, the DC is 5 + the level of the spell must concentrate to cast a spell—and it’s hard to concentrate in the you’re casting. If you are in wind-driven hail, dust, or debris, the DC head of battle. (See below for details.) is 10 + the level of the spell you’re casting. In either case, you lose If a spell has multiple versions, you choose which version to use the spell if you fail the Concentration check. If the weather is caused when you cast it. You don’t have to prepare (or learn, in the case of a by a spell, use the rules in the Spell subsection above. bard or sorcerer) a specific version of the spell. For example, resist",
+        "name":  "Violent Weather",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "If you want to cast a spell without pro- energy protects a creature from fire, cold, or other energy types. You voking any attacks of opportunity, you need to dodge and weave. choose when you cast the spell which energy type it will protect the You must make a Concentration check (DC 15 + the level of the subject from. spell you’re casting) to succeed. You lose the spell if you fail. Once you’ve cast a prepared spell, you can’t cast it again until you",
+        "name":  "Casting Defensively",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "If you want to cast a spell while entangled in a net or prepare it again. (If you’ve prepared multiple copies of a single spell, by a tanglefoot bag (page 128) or while you’re affected by a spell with you can cast each copy once.) If you’re a bard or sorcerer, casting a similar effects (such as entangle), you must make a DC 15 Concen- spell counts against your daily limit for spells of that spell level, but tration check to cast the spell. You lose the spell if you fail. you can cast the same spell again if you haven’t reached your limit. COUNTERSPELLS CONCENTRATION It is possible to cast any spell as a counterspell. By doing so, you are To cast a spell, you must concentrate. If something interrupts your using the spell’s energy to disrupt the casting of the same spell by concentration while you’re casting, you must make a Concentration another character. Counterspelling works even if one spell is divine check or lose the spell. The more distracting the interruption and and the other arcane. the higher the level of the spell you are trying to cast, the higher the How Counterspells Work: To use a counterspell, you must DC is (More powerful spells require more mental effort.) If you fail select an opponent as the target of the counterspell. You do this by the check, you lose the spell just as if you had cast it to no effect. choosing the ready action (page 160). In doing so, you elect to wait",
+        "name":  "Entangled",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Several spells have the power to caster level you choose must be high enough for you to cast the spell restore slain characters to life. in question, and all level-dependent features must be based on the When a living creature dies, its soul departs its body, leaves the same caster level. For example, at 10th level, Mialee can cast a fireball Material Plane, travels through the Astral Plane, and goes to abide to a range of 800 feet for 10d6 points of damage. If she wishes, she on the plane where the creature’s deity resides. If the creature did can cast a fireball that deals less damage by casting the spell at a lower not worship a deity, its soul departs to the plane corresponding to its caster level, but she must reduce the range according to the selected alignment. Bringing someone back from the dead means retrieving caster level, and she can’t cast fireball with a caster level lower than his or her soul and returning it to his or her body. 5th (the minimum level required for a wizard to cast fireball). Level Loss: The passage from life to death and back again is a In the event that a class feature, domain granted power, or other wrenching journey for a being’s soul. Consequently, any creature special ability provides an adjustment to your caster level, that brought back to life usually loses one level of experience. The adjustment applies not only to effects based on caster level (such as character’s new XP total is midway between the minimum needed range, duration, and damage dealt) but also to your caster level for his or her new (reduced) level and the minimum needed for the check to overcome your target’s spell resistance (see Spell Resis- next one. If the character was 1st level at the time of death, he or she tance, page 177) and to the caster level used in dispel checks (both loses 2 points of Constitution instead of losing a level. the dispel check and the DC of the check). For instance, a 7th-level This level loss or Constitution loss cannot be repaired by any cleric with the Good domain casts spells with the good descriptor as mortal means, even wish or miracle. A revived character can regain a if he were 8th level. This means that his holy smite deals 4d8 points of lost level by earning XP through further adventuring. A revived damage, he tolls 1d20+8 to overcome spell resistance with his good spells, and his protection from evil spell resists being dispelled as if it character who was 1st level at the time of death can regain lost had been cast by an 8th-level spellcaster. points of Constitution by improving his or her Constitution score when he or she attains a level that allows an ability score increase.",
+        "name":  "You can cast a spell at a lower caster level than normal, but the Bringing Back the Dead",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sometimes, one spell can If an abjuration creates a barrier that keeps certain types of render a later spell irrelevant. For example, if a wizard is using a creatures at bay, that barrier cannot be used to push away those shapechange spell to take the shape of an eagle, a polymorph spell creatures. If you force the barrier against such a creature, you feel a could change her into a goldfish. The shapechange spell is not discernible pressure against the barrier. If you continue to apply negated, however, and since the polymorph spell has no effect on the pressure, you end the spell. recipient’s special abilities, the wizard could use the shapechange effect to take any form the spell allows whenever she desires. If a creature using a shapechange effect becomes petrified by a flesh to Conjuration stone spell, however, it turns into a mindless, inert statue, and the Each conjuration spell belongs to one of five subschools. Con- shapechange effect cannot help it escape. jurations bring manifestations of objects, creatures, or some form of",
+        "name":  "One Effect Makes Another Irrelevant",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spells with opposite effects apply called actually die when they are killed; they do not disappear and normally, with all bonuses, penalties, or changes accruing in the reform, as do those brought by a summoning spell (see below). The order that they apply. Some spells negate or counter each other. This duration of a calling spell is instantaneous, which means that the is a special effect that is noted in a spell’s description. called creature can’t be dispelled. 172 :01 RETPAHC CIGAM",
+        "name":  "Spells with Opposite Effects",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A summoning spell instantly brings a creature or Illusion object to a place you designate. When the spell ends or is dispelled, a summoned creature is instantly sent back to where it came from, but Illusion spells deceive the senses or minds of others. They cause a summoned object is not sent back unless the spell description people to see things that are not there, not see things that are there, specifically indicates this. A summoned creature also goes away if it hear phantom noises, or remember things that never happened. is killed or if its hit points drop to 0 or lower. It is not really dead. It Representative illusions include silent image, invisibility, and veil. takes 24 hours for the creature to reform, during which time it can’t Illusions come in five types: figments, glamers, patterns, phantasms, be summoned again. and shadows.",
+        "name":  "Summoning",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A figment spell creates a false sensation. Those who disappears, all the spells it has cast expire. A summoned creature perceive the figment perceive the same thing, not their own slightly cannot use any innate summoning abilities it may have, and it different versions of the figment. (It is not a personalized mental refuses to cast any spells that would cost it XP, or to use any spell- impression.) Figments cannot make something seem to be like abilities that would cost XP if they were spells. something else. A figment that includes audible effects cannot",
+        "name":  "When the spell that summoned a creature ends and the creature Figment",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A teleportation spell transports one or more duplicate intelligible speech unless the spell description specifically creatures or objects a great distance. The most powerful of these says it can. If intelligible speech is possible, it must be in a language spells can cross planar boundaries. Unlike summoning spells, the you can speak. If you try to duplicate a language you cannot speak, transportation is (unless otherwise noted) one-way and not dis- the image produces gibberish. Likewise, you cannot make a visual pellable. Teleportation is instantaneous travel through the Astral copy of something unless you know what it looks like. Plane. Anything that blocks astral travel also blocks teleportation. Because figments and glamers (see below) are unreal, they cannot produce real effects the way that other types of illusions can. They cannot cause damage to objects or creatures, support weight, provide Divination nutrition, or provide protection from the elements. Consequently, Divination spells enable you to learn secrets long forgotten, to these spells are useful for confounding or delaying foes, but useless predict the future, to find hidden things, and to foil deceptive spells. for attacking them directly. For example, it is possible to use a silent Representative spells include identify, detect thoughts, clairau- image spell to create an illusory cottage, but the cottage offers no dience/clairvoyance, and true seeing. protection from rain. Many divination spells have cone-shaped areas (see page 175). A figment’s AC is equal to 10 + its size modifier. These move with you and extend in the direction you look. The",
+        "name":  "Teleportation",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A glamer spell changes a subject’s sensory qualities, cone defines the area that you can sweep each round. If you study making it look, feel, taste, smell, or sound like something else, or the same area for multiple rounds, you can often gain additional even seem to disappear. information, as noted in the descriptive text for the spell.",
+        "name":  "Glamer",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Like a figment, a pattern spell creates an image that",
+        "name":  "Pattern",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A charm spell changes how the subject views you, typ- examples, a character making a successful saving throw against a ically making it see you as a good friend. figment of an illusory section of floor knows the “floor” isn’t safe to",
+        "name":  "Charm",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The spell reaches as far as 25 feet away from you. The such an effect, but you need not have line of effect (see below) to all maximum range increases by 5 feet for every two full caster levels portions of the effect. Example: obscuring mist. (30 feet at 2nd caster level, 35 feet at 4th caster level, and so on). Area: Some spells affect an area. Sometimes a spell description",
+        "name":  "Close",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The spell reaches as far as 100 feet + 10 feet per caster specifies a specially defined area, but usually an area falls into one of level. the categories defined below.",
+        "name":  "Medium",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The spell reaches as far as 400 feet + 40 feet per caster level. Regardless of the shape of the area, you select the point where the",
+        "name":  "Long",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The spell reaches anywhere on the same plane of spell originates, but otherwise you don’t control which creatures or existence. objects the spell affects. The point of origin of a spell is always a grid",
+        "name":  "Unlimited",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Some spells have no standard range intersection. When determining whether a given creature is within category, just a range expressed in feet. the area of a spell, count out the distance from the point of origin in squares just as you do when moving a character or when AIMING A SPELL determining the range for a ranged attack. The only difference is that instead of counting from the center of one square to the center You must make some choice about whom the spell is to affect or of the next, you count from intersection to intersection. You can where the effect is to originate, depending on the type of spell. The count diagonally across a square, but remember that every second next entry in a spell description defines the spell’s target (or targets), diagonal counts as 2 squares of distance. If the far edge of a square is its effect, or its area, as appropriate. within the spell’s area, anything within that square is within the",
+        "name":  "Range Expressed in Feet",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Some spells, such as charm person, have a target spell’s area. If the spell’s area only touches the near edge of a square, or targets. You cast these spells on creatures or objects, as defined by however, anything within that square is unaffected by the spell. the spell itself. You must be able to see or touch the target, and you",
+        "name":  "Target or Targets",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Some spells, such as summon monster spells, create or account any turns the spell effect takes. Example: fireball. summon things rather than affecting things that are already present. Cone, Cylinder, Line, or Sphere: Most spells that affect an area have a You must designate the location where these things are to appear, particular shape, such as a cone, cylinder, line, or sphere. either by seeing it or defining it (for example, “The insect plague will A cone-shaped spell shoots away from you in a quarter-circle in appear 20 feet into the area of darkness that the nagas are hiding the direction you designate. It starts from any corner of your square in”). Range determines how far away an effect can appear, but if the and widens out as it goes. Most cones are either bursts or emana- effect is mobile (a summoned monster, for instance), it can move tions (see above), and thus won’t go around corners. Example: cone of regardless of the spell’s range. cold.",
+        "name":  "Effect",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The spell energy comes and goes the instant the spell is cast, though the consequences might be long-lasting. For example, a cure light wounds spell lasts only an instant, but the healing it bestows never runs out or goes away.",
+        "name":  "Instantaneous",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The spell lasts as long as you concentrate on it. Concentrating to maintain a spell is a standard action that does not provoke attacks of opportunity. Anything that could break your concentration when casting a spell can also break your con- centration while you’re maintaining one, causing the spell to end. You can’t cast a spell while concentrating on another one. Some- times a spell lasts for a short time after you cease concentrating. For example, the spell hypnotic pattern has a duration of concentration + 2 rounds. In such a case, the spell keeps going for the given length of time after you stop concentrating, but no longer. Otherwise, you must concentrate to maintain the spell, but you can’t maintain it for more than a stated duration in any event. If a target moves out of to the limit of its range or until it strikes a barrier that blocks line of range, the spell reacts as if your concentration had been broken. effect. A line-shaped spell affects all creatures in squares that the line Subjects, Effects, and Areas: If the spell affects creatures passes through. Example: lightning bolt. directly (for example, charm person), the result travels with the sub- A sphere-shaped spell expands from its point of origin to fill a jects for the spell’s duration. If the spell creates an effect, the effect spherical area. Spheres may be bursts, emanations, or spreads. lasts for the duration. The effect might move (for example, a sum-",
+        "name":  "Concentration",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A spell with this kind of area affects creatures directly effect can be destroyed prior to when its duration ends (for example, (like a targeted spell), but it affects all creatures in an area of some fog cloud can be dispersed by wind). If the spell affects an area, as kind rather than individual creatures you select. The area might be a silence does, then the spell stays with that area for its duration. spherical burst (such as sleep), a cone-shaped burst (such as fear), or Creatures become subject to the spell when they enter the area and some other shape. are no longer subject to it when they leave. Many spells affect “living creatures,” which means all creatures Touch Spells and Holding the Charge: In most cases, if you other than constructs and undead. The sleep spell, for instance, don’t discharge a touch spell on the round you cast it, you can hold affects only living creatures. If you cast sleep in the midst of gnolls the charge (postpone the discharge of the spell) indefinitely. You and skeletons, the sleep spell ignores the skeletons and affects the can make touch attacks round after round. If you cast another spell, gnolls. The skeletons do not count against the creatures affected. the touch spell dissipates.",
+        "name":  "Creatures",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A spell with this kind of area affects objects within an area Some touch spells, such as teleport and water walk, allow you to you select (as Creatures, but affecting objects instead). touch multiple targets as part of the spell. You can’t hold the charge",
+        "name":  "Objects",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The spell has no effect on a subject that makes a suc- the attack deal (see Smashing an Object, page 165). For instance, cessful saving throw. Tordek is hit by a lightning bolt and gets a natural 1 on his saving",
+        "name":  "Negates",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A saving throw against your description tell you whether spell resistance protects creatures from spell has a DC of 10 + the level of the spell + your bonus for the rel- the spell. In many cases, spell resistance applies only when a evant ability (Intelligence for a wizard, Charisma for a sorcerer or resistant creature is targeted by the spell, not when a resistant crea- bard, or Wisdom for a cleric, druid, paladin, or ranger). A spell’s level ture encounters a spell that is already in place. can vary depending on your class. For example, a fire trap is a 2nd- The terms “object” and “harmless” mean the same thing for spell level spell for a druid but a 4th-level spell for a sorcerer or wizard. resistance as they do for saving throws. A creature with spell Always use the spell level applicable to your class. resistance must voluntarily lower the resistance (a standard action)",
+        "name":  "Saving Throw Difficulty Class",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As with wizards, any spells cast within If the check fails, the wizard cannot understand or copy the spell. the last 8 hours count against the sorcerer’s or bard’s daily limit. She cannot attempt to learn or copy that spell again until she gains Adding Spells to a Sorcerer’s or Bard’s Repertoire: A sorcerer another rank in Spellcraft. A spell that was being copied from a or bard gains spells each time he attains a new level in his class and scroll does not vanish from the scroll. never gains spells any other way. When your sorcerer or bard gains a In most cases, wizards charge a fee for the privilege of copying new level, consult Table 3–5: Bard Spells Known or Table 3–17: spells from their spellbooks. This fee is usually equal to the spell’s Sorcerer Spells Known to learn how many spells from the level × 50 gp, though many wizards jealously guard their higher- appropriate spell list in Chapter 11: Spells he now knows. With the level spells and may charge much more, or even deny access to them DM’s permission, sorcerers and bards can also select the spells they altogether. Wizards friendly to one another often trade access to gain from new and unusual spells that they have gained some equal-level spells from each other’s spellbooks at no cost. understanding of (see Spells in the sorcerer description, page 54).",
+        "name":  "Recent Casting Limit",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A wizard also can research a spell For instance, when Hennet the sorcerer becomes 2nd level, he independently, duplicating an existing spell or creating an entirely gains an additional 0-level spell. He can pick that spell from the 0- new one. The Dungeon Master’s Guide has information on this topic level spells on the sorcerer and wizard spell list, or he might have under Creating New Spells in Chapter 2. learned an unusual spell from an arcane scroll or spellbook. Writing a New Spell into a Spellbook DIVINE SPELLS Once a wizard understands a new spell, she can record it into her spellbook. Clerics, druids, experienced paladins, and experienced rangers can",
+        "name":  "Independent Research",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The process takes 24 hours, regardless of the spell’s level. cast divine spells. Unlike arcane spells, divine spells draw power",
+        "name":  "Time",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A spell takes up one page of the spell- from a divine source. Clerics gain spell power from deities or from book per spell level, so a 2nd-level spell takes two pages, a 5th-level divine forces. The divine force of nature powers druid and ranger spell takes five pages, and so forth. Even a 0-level spell (cantrip) spells. The divine forces of law and good power paladin spells. takes one page. A spellbook has one hundred pages. Divine spells tend to focus on healing and protection and are less",
+        "name":  "Space in the Spellbook",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As with arcane spells, at the time of ability resembles an arcane spell with a somatic component. A spell- preparation any spells cast within the previous 8 hours count against like ability has a casting time of 1 standard action unless noted the number of spells that can be prepared. otherwise in the ability or spell description. In all other ways, a spell-",
+        "name":  "Recent Casting Limit",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This category includes abilities a creature has NEW DIVINE SPELLS because of its physical nature, such as a bird’s ability to fly. Natural Divine spellcasters most frequently gain new spells in one of the abilities are those not otherwise designated as extraordinary, following two ways. supernatural, or spell-like. 180 :01 RETPAHC CIGAM his chapter begins with the spell lists of the spellcasting particular spell. A creature with no classes has a caster level equal classes and the list of cleric domains and the spells associ- to its Hit Dice unless otherwise specified. The word “level” in the ated with each domain. An M or F appearing at the end of a spell lists that follow always refers to caster level. spell’s name in the spell lists denotes a spell with a material or Spell Effects and Conditions: If a spell causes its subject or focus component, respectively, that is not normally included subjects to be affected by one or more conditions (such as in a spell component pouch. An X denotes a spell with an XP blinded, incorporeal, invisible, or stunned), refer to the glossary component paid by the caster. for details of how that condition affects the subject. Chapter 8 The remainder of the chapter contains spell descriptions in of the Dungeon Master’s Guide has more information on the alphabetical order by spell name. various conditions.",
+        "name":  "Natural Abilities",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Some spells reference other spells that they are Creatures and Characters: The words “creature” and based upon. (For instance, cure light wounds is the spell upon which “character” are used synonymously in the spell descriptions. all other cure spells are based, and lesser planar ally is the spell upon which planar ally and greater planar ally are based.) Only information BARD SPELLS about a spell elsewhere in the spell chain that is different from the base spell is covered in the spell being described. Spell description entries and descriptive text that are the same as the base spell are not 0-LEVEL BARD SPELLS (CANTRIPS) repeated.",
+        "name":  "Spell Chains",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A spell’s power often depends on caster level, 181",
+        "name":  "Caster Level",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Calls extraplanar creature to fight for you. 1ST-LEVEL BARD SPELLS Summon Swarm: Summons swarm of bats, rats, or spiders.",
+        "name":  "Summon Monster II",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Makes one person your friend. 3RD-LEVEL BARD SPELLS",
+        "name":  "Charm Person",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Allows “listening” to surface thoughts. 4TH-LEVEL BARD SPELLS Eagle’s Splendor: Subject gains +4 to Cha for 1 min./level. Break Enchantment: Frees subjects from enchantments, alter-",
+        "name":  "Detect Thoughts",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Lets you learn tales about a person, place, or thing. CLERIC SPELLS Leomund’s Secure Shelter: Creates sturdy cottage.",
+        "name":  "Legend Lore M F",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Changes 5 minutes of subject’s memories. 0-LEVEL CLERIC SPELLS (ORISONS)",
+        "name":  "Modify Memory",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Subject gains 1 temporary hp. 5TH-LEVEL BARD SPELLS 1ST-LEVEL CLERIC SPELLS",
+        "name":  "Virtue",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sends vision dealing 1d10 damage, fatigue. Detect Chaos/Evil/Good/Law: Reveals creatures, spells, or objects",
+        "name":  "Nightmare",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Undead can’t perceive one subject/level. 6TH-LEVEL BARD SPELLS Inflict Light Wounds: Touch deals 1d8 damage +1/level (max +5).",
+        "name":  "Hide from Undead",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Shows most direct way to a location. Summon Monster I: Calls extraplanar creature to fight for you. Fox’s Cunning, Mass: As fox’s cunning, affects one subject/level. Geas/Quest: As lesser geas, plus it affects any creature. 2ND-LEVEL CLERIC SPELLS Heroes’ Feast: Food for one creature/level cures and grants combat",
+        "name":  "Find the Path",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Illusory double can talk and cast spells. Bull’s Strength: Subject gains +4 to Str for 1 min./level.",
+        "name":  "Project Image",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Changes appearance of group of creatures. Str, and +1 level. 183 SPELLS CHAPTER 11:",
+        "name":  "Veil",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Captivates all within 100 ft. + 10 ft./level. 4TH-LEVEL CLERIC SPELLS",
+        "name":  "Enthrall",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Grants immunity to death spells and negative energy (max +10).",
+        "name":  "Death Ward",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Negates sound in 15-ft. radius. Imbue with Spell Ability: Transfer spells to subject.",
+        "name":  "Silence",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Touch deals 1d10 Con damage, repeats in 1 min. 3RD-LEVEL CLERIC SPELLS",
+        "name":  "Poison",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Subject is immune to one spell per four levels. Blindness/Deafness: Makes subject blinded or deafened.",
+        "name":  "Spell Immunity",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Feeds three humans (or one horse)/level. 5TH-LEVEL CLERIC SPELLS",
+        "name":  "Create Food and Water",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Cures all diseases affecting subject. Spell Resistance: Subject gains SR 12 + level.",
+        "name":  "Remove Disease",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Lets you see all things as they really are. 8TH-LEVEL CLERIC SPELLS",
+        "name":  "True Seeing M",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+4 to AC, +4 resistance, and SR 25 against lawful spells. 6TH-LEVEL CLERIC SPELLS Create Greater Undead M: Create shadows, wraiths, spectres, or",
+        "name":  "Cloak of Chaos F",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+4 to AC, +4 resistance, and SR 25 against evil spells.",
+        "name":  "Holy Aura F",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Shows most direct way to a location. spells.",
+        "name":  "Find the Path",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As spell immunity, but up to 8th-level alignment. spells. Geas/Quest: As lesser geas, plus it affects any creature. Summon Monster VIII: Calls extraplanar creature to fight for you.",
+        "name":  "Spell Immunity, Greater",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As glyph of warding, but up to 10d8 Symbol of Death M: Triggered rune slays nearby creatures. damage or 6th-level spell. Symbol of Insanity M: Triggered rune renders nearby creatures",
+        "name":  "Glyph of Warding, Greater",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Cures 10 points/level of damage, all diseases and mental Unholy Aura F: +4 to AC, +4 resistance, and SR 25 against good conditions. spells. Heroes’ Feast: Food for one creature/level cures and grants combat bonuses. 9TH-LEVEL CLERIC SPELLS",
+        "name":  "Heal",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Calls extraplanar creature to fight for you. 7TH-LEVEL CLERIC SPELLS True Resurrection M: As resurrection, plus remains aren’t needed.",
+        "name":  "Summon Monster IX",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35). Air Domain Spells",
+        "name":  "Regenerate",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Kills, confuses, stuns, or deafens nonchaotic 8 Whirlwind: Cyclone deals damage and can pick up creatures. subjects. 9 Elemental Swarm*: Summons multiple elementals. *Cast as an air spell only. 185 SPELLS CHAPTER 11: ANIMAL DOMAIN DESTRUCTION DOMAIN",
+        "name":  "Word of Chaos",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can use speak with animals once per day as a Granted Power: You gain the smite power, the supernatural spell-like ability. ability to make a single melee attack with a +4 bonus on attack rolls Add Knowledge (nature) to your list of cleric class skills. and a bonus on damage rolls equal to your cleric level (if you hit). You must declare the smite before making the attack. This ability is Animal Domain Spells usable once per day. 1 Calm Animals: Calms (2d4 + level) HD of animals. 2 Hold Animal: Paralyzes one animal for 1 round/level. Destruction Domain Spells 3 Dominate Animal: Subject animal obeys silent mental 1 Inflict Light Wounds: Touch attack, 1d8 damage +1/level (max commands. +5). 4 Summon Nature’s Ally IV*: Calls creature to fight. 2 Shatter: Sonic vibration damages objects or crystalline creatures. 5 Commune with Nature: Learn about terrain for 1 mile/level. 3 Contagion: Infects subject with chosen disease. 6 Antilife Shell: 10-ft. field hedges out living creatures. 4 Inflict Critical Wounds: Touch attack, 4d8 damage +1/level 7 Animal Shapes: One ally/level polymorphs into chosen animal. (max +20). 8 Summon Nature’s Ally VIII*: Calls creature to fight. 5 Inflict Light Wounds, Mass: Deals 1d8 damage +1/level to any 9 Shapechange F: Transforms you into any creature, and change creatures. forms once per round. 6 Harm: Deals 10 points/level damage to target. *Can only summon animals. 7 Disintegrate: Makes one creature or object vanish. 8 Earthquake: Intense tremor shakes 5-ft./level radius. CHAOS DOMAIN 9 Implosion: Kills one creature/round.",
+        "name":  "Granted Powers",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You cast chaos spells at +1 caster level. Deities: Moradin, Obad-Hai.",
+        "name":  "Granted Power",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You cast law spells at +1 caster level. GOOD DOMAIN",
+        "name":  "Granted Power",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Corellon Larethian, Ehlonna, Garl Glittergold, Heiro- Law Domain Spells neous, Kord, Moradin, Pelor, Yondalla. 1 Protection from Chaos: +2 to AC and saves, counter mind",
+        "name":  "Deities",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Your speed increases by 10 ft. War Domain Spells",
+        "name":  "Longstrider",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Stops poison from harming subject for 1 hour/level. 1 Obscuring Mist: Fog surrounds you. Fire Trap M: Opened object deals 1d4 +1/level damage. 2 Fog Cloud: Fog obscures vision. Flame Blade: Touch attack deals 1d8 +1/two levels damage. 3 Water Breathing: Subjects can breathe underwater. Flaming Sphere: Creates rolling ball of fire, 2d6 damage, lasts 1 4 Control Water: Raises or lowers bodies of water. round/level. 5 Ice Storm: Hail deals 5d6 damage in cylinder 40 ft. across. Fog Cloud: Fog obscures vision. 6 Cone of Cold: 1d6/level cold damage. Gust of Wind: Blows away or knocks down smaller creatures. 7 Acid Fog: Fog deals acid damage. Heat Metal: Make metal so hot it damages those who touch it. 8 Horrid Wilting: Deals 1d6/level damage within 30 ft. Hold Animal: Paralyzes one animal for 1 round/level. 9 Elemental Swarm*: Summons multiple elementals. Owl’s Wisdom: Subject gains +4 to Wis for 1 min./level. *Cast as a water spell only. Reduce Animal: Shrinks one willing animal. 189 SPELLS CHAPTER 11:",
+        "name":  "Water Domain Spells Delay Poison",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ignores 10 (or more) points of damage/attack from 5TH-LEVEL DRUID SPELLS specified energy type.",
+        "name":  "Resist Energy",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Grants immunity to all death spells and negative",
+        "name":  "Death Ward",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Designates location as holy. 3RD-LEVEL DRUID SPELLS",
+        "name":  "Hallow M",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Immunizes subject against poison, detoxifies venom in or on subject. 6TH-LEVEL DRUID SPELLS",
+        "name":  "Neutralize Poison",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Stores one spell in wooden quarterstaff. 4TH-LEVEL DRUID SPELLS",
+        "name":  "Spellstaff",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Raises or lowers bodies of water. 7TH-LEVEL DRUID SPELLS",
+        "name":  "Control Water",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You and your allies turn vaporous and travel fast. 190 :11 RETPAHC SLLEPS 8TH-LEVEL DRUID SPELLS 3RD-LEVEL PALADIN SPELLS",
+        "name":  "Wind Walk",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Object or location affected by spell repels certain creatures. 4TH-LEVEL PALADIN SPELLS",
+        "name":  "Antipathy",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Subject’s severed limbs grow back, cures 4d8 damage Death Ward: Grants immunity to death spells and negative energy +1/level (max +35). effects.",
+        "name":  "Regenerate",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Restores level and ability score drains. PALADIN SPELLS RANGER SPELLS 1ST-LEVEL PALADIN SPELLS",
+        "name":  "Restoration M",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Allies gain +1 on attack rolls and +1 on saves against fear. 1ST-LEVEL RANGER SPELLS",
+        "name":  "Bless",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Subjects within range cannot lie. Owl’s Wisdom: Subject gains +4 to Wis for 1 min./level. 191 SPELLS CHAPTER 11:",
+        "name":  "Zone of Truth",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Absorb 12 points/level of damage from 1ST-LEVEL SORCERER/WIZARD SPELLS one kind of energy.",
+        "name":  "Protection from Energy",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One creature of 5 HD or less flees for 1d4 SORCERER/WIZARD SPELLS rounds.",
+        "name":  "Necro Cause Fear",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One touch/level deals 1d6 damage and possibly 1 Str damage. 0-LEVEL SORCERER/WIZARD SPELLS",
+        "name":  "Chill Touch",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Dazzles one creature (–1 on attack rolls). 2ND-LEVEL SORCERER/WIZARD SPELLS",
+        "name":  "Flare",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Summons swarm of bats, rats, or spiders. 3RD-LEVEL SORCERER/WIZARD SPELLS",
+        "name":  "Summon Swarm",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Grants ability to walk on walls and ceilings. 4TH-LEVEL SORCERER/WIZARD SPELLS",
+        "name":  "Spider Climb",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Stops 1st- through 3rd- level spell effects.",
+        "name":  "Globe of Invulnerability, Lesser",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Frees object or person from curse. 193 SPELLS CHAPTER 11:",
+        "name":  "Remove Curse",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Makes certain spells permanent. spells or retains one just cast.",
+        "name":  "Univ Permanency X",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Reduces several creatures. 6TH-LEVEL SORCERER/WIZARD SPELLS",
+        "name":  "Reduce Person, Mass",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Frees subjects from enchantments, plus 4th-level spell effects. alterations, curses, and petrification.",
+        "name":  "Abjur Break Enchantment",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sets trigger condition for another spell.",
+        "name":  "Contingency F",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Step into shadow to travel rapidly. Project Image: Illusory double can talk and cast spells.",
+        "name":  "Shadow Walk",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Alters reality—within spell limits.",
+        "name":  "Univ Limited Wish X",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Makes one creature or object vanish. 8TH-LEVEL SORCERER/WIZARD SPELLS Eagle’s Splendor, Mass: As eagle’s splendor, affects one subject/level. Abjur Dimensional Lock: Teleportation and interplanar travel",
+        "name":  "Disintegrate",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Restores petrified creature. 18 HD. Tenser’s Transformation M: You gain combat bonuses. Summon Monster VIII: Calls extraplanar creature to fight for you. 7TH-LEVEL SORCERER/WIZARD SPELLS Trap the Soul M F: Imprisons subject within gem.",
+        "name":  "Stone to Flesh",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Reflect 1d4+6 spell levels back at caster.",
+        "name":  "Spell Turning",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Object or location affected by spell repels Mordenkainen’s Magnificent Mansion F: Door leads to certain creatures. extradimensional mansion.",
+        "name":  "Ench Antipathy",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Traps newly dead soul to prevent resurrection. 9TH-LEVEL SORCERER/WIZARD SPELLS Wail of the Banshee: Kills one creature/level.",
+        "name":  "Soul Bind F",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As limited wish, but with fewer limits. SPELLS The spells herein are presented in alpha- Acid Splash Air Walk betical order (with the exception of those Conjuration (Creation) [Acid] Transmutation [Air] whose names begin with “greater,” “lesser,” Level: Sor/Wiz 0 Level: Air 4, Clr 4, Drd 4 or “mass”; see Order of Presentation, page Components: V, S Components: V, S, DF 181). Casting Time: 1 standard action Casting Time: 1 standard action",
+        "name":  "Univ Wish X",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, M/DF Spell Resistance: No Saving Throw: None",
+        "name":  "Components",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless)",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Enchantment (Compulsion) walker’s normal speed. [Mind-Affecting] A strong wind (21+ mph) can push the Acid fog creates a billowing mass of misty",
+        "name":  "Spell Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, DF its turn each round, the wind blows the air fog spell (page 281). In addition to slowing",
+        "name":  "Components",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Touch wind speed. The creature can, at the DM’s spell’s vapors are highly acidic. Each round",
+        "name":  "Range",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 min./level exceptionally strong or turbulent winds, spell, the fog deals 2d6 points of acid",
+        "name":  "Duration",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    }
+]

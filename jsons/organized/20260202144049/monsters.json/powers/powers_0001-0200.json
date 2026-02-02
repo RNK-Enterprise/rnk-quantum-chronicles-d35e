@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Crafted out of bone, metal, or wood, water, hops, and other ingredients are added, it creates these special whistles are designed to mimic a spe- a thin beer in only a week. The taste is dreadful, but cific animal voiceùusually game animals and birds. thirsty soldiers take what they can get. The Fortitude An animal call provides a +1 circumstance bonus on save to resist intoxication from this beer has a DC of Wilderness Lore checks when hunting for food. Calls 10 (see Alcohol and Intoxication, later in this chapter). exist only for creatures that are type ôanimal.ö Cage: A typical cage consists of a solid metal or",
+        "name":  "Animal Call",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This is a roll of barbed steel wire smells pleasant to humans and humanoids but is designed to keep things in or out. A creature trying to repellent to insects. Nonmonstrous vermin will not cross barbed wire must make a successful Reflex save approach within a 5-foot radius of a burning candle. (DC 10) or take 1d3 points of damage and be tripped. A It burns for 1 hour. pair of thick gloves is necessary to set up barbed wire. Crane, Portable:This small crane can be broken A handler who does not have gloves needs to succeed down into several parts for easy transportation. It on a Dexterity check (DC 5) each round or take 1d2 must be assembled and bolted into place to be used points of damage. Building a barbed wire obstacle effectively. There are different ôstrengthsö available 21 takes 1d4+6 hours, including anchor posts. to purchaseùthe equivalent of a person with Str 22",
+        "name":  "Barbed Wire",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "More than a mere fishhook, this ness Lore checks when attempting to trap these set includes birch poles, silk line, sinkers, hooks, sorts of creatures. lures, and tackle box. It grants a +1 circumstance Game Board, Portable: This is a small foldable 22 bonus on Wilderness Lore checks when gathering wooden board and pieces for games such as chess, food around bodies of water that contain fish. checkers, backgammon, go, and the like. Higher",
+        "name":  "Fishing Tackle",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "These are soft, padded shoes that unusual opponents. Creatures that are Huge or larger absorb sound effectively. Despite the padding, the tend to crush the marbles into dust, while those with soles are made from tough, stretchy leather that holds multiple legs, like carrion crawlers, can scramble up to abuse. They grant a +1 circumstance bonus on along without falling. Move Silently checks.",
+        "name":  "The DM judges the effectiveness of marbles against Shoes, Silent",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This thin, light blue oil burns with a swelling to the diameter of a typical hemp rope, then blue flame and illuminates a wide area. When used in quickly drying. A flask of instant rope forms a 30- a lantern, farflame oil sheds light in a 40-foot radius. foot-long cord; it takes 2 rounds for it to solidify and In a bullseye lantern, it illuminates a cone 80 feet dry enough to be used. The instant rope can be long and 25 feet wide. A pint of farflame oil fuels a moved during this period without damaging it, but it lantern for 3 hours. A pint of farflame oil covers a 5- cannot support more than 10 pounds of weight with- foot square area if poured on the ground. If lit, out breaking. Once completely dry, instant rope can farflame oil burns for 1 round and deals 1d4 points of support as much weight as normal hemp rope. After damage to each creature in the area. an hour, instant rope becomes too brittle to support",
+        "name":  "Farflame Oil",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This pack distributes weight better Wrist Sheath than normal packs, allowing creatures to carry slightly more than they otherwise could. However, it is harder to reach into a framed pack while wearing it. When calculating encumbrance for a character with a framed pack, treat the pack and everything inside it as weighing 10% less than normal. Retriev- ing anything from a framed pack is a full-round action that provokes an attack of opportunity.",
+        "name":  "Pack, Framed",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "How fast an air vehicle can climb. Much like flying characters and creatures, all vehiclesù Down Angle:The maximum angle at which an air not just air vehiclesùhave maneuverability attributes. vehicle can descend. For land- and water-based vehicles, the only character- Down Speed:An air vehicle can fly down at twice istics affected by maneuverability are turn, turn in its normal flying speed. place, and maximum turn. Lane and water vehicles Between Down and Up:An air vehicle with aver- canÆt climb or dive, and they donÆt have minimum for- age, poor, or clumsy maneuverability must fly level ward speeds. Water vehicles use new nautical maneu- for a minimum distance after descending and before verability categories. See Table 3û1 for a summary of all climbing. Any air vehicle can begin descending after characteristics affected by maneuverability. Those a climb without an intervening distance. characteristics are explained and defined below. For simplicityÆs sake, vehicles turn in 45-degree",
+        "name":  "Up Speed",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "If an air vehicle fails increments. When a vehicle turns, simply pivot it to maintain its minimum forward speed, it must land around its rotation point. If a turn puts the vehicle on at the end of its current move. If it is too high above top of other creatures, what happens depends on the the ground to land, it falls straight down, descending relative size of the vehicle and the creatures. Treat the 150 feet in the first round of falling. If this brings it to vehicle as a creature of its size; if itÆs three or more the ground, it takes falling damage. If the fall doesnÆt size categories larger than the creatures in its way, it bring it to the ground, the vehicle must spend its can turn right through their squares. (It comes up next turn recovering from the stall. It must succeed much more rarely, but a vehicle three or more size on a Reflex saving throw (DC 20) to recover. Other- categories smaller than a creature can also turn wise it falls another 300 feet. If it hits the ground, it through the creatureÆs area.) If the creatures arenÆt takes falling damage. If not, it has another chance to three size categories smaller, then the vehicle canÆt recover on its next turn. make a turn through their areas. If youÆre trying to",
+        "name":  "Minimum Forward Speed",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A vehicle with good or average maneuverability can ôspendö some of its speed to turn Vehicles have two basic types of propulsion. A vehicle in place. is powered either by creatures, such as a horse-drawn",
+        "name":  "Turn in Place",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "War- Oar-Powered Vehicles horses, warponies, and other creatures trained for battle Vehicles with rowers move more consistently. As long serve readily as dray creatures in a fight. Other crea- as enough rowers are present, oar-powered vehicles tures tend to be frightened by combat. If the vehicle move at their given speed in any direction. Further- does anything other than remain still, the driver must more, they tend to be more maneuverable in close make a Handle Animal check (DC 20) each round as a quarters than vehicles that rely on sails. move-equivalent action. If the driver succeeds on the If the indicated number of rowers isnÆt available, check, the vehicle functions normally. A driver who reduce the vehicleÆs speed by the same percentage as fails must spend the rest of the round trying to calm 43 the reduced crew. For example, a galley that ordinarily the dray creatures and canÆt take any other actions. has a speed of 20 feet with 160 rowers has a speed of 10 Drivers who need both hands to fight can try to feet if only 80 rowers are aboard. Ships generally need control a drawn vehicle with verbal commands, by620_88159_001_A\u0026E Guide2.qxd 1/10/03 1:01 PM Page 44 CHAPTER 3: VEHICLES wrapping the reins around an arm, or by using some Table 3û3 to determine direction; the vehicle moves other makeshift technique. But itÆs difficult; a Handle in that direction for 1 hour at its maximum speed. Animal check (DC 25) is required at the beginning of Local Movement: All vehicles move at half speed the round you try this. If you fail, you can either pick for 1 minute if the control check fails by 1û4 points. up the reins (dropping something in one hand) or They make no progress at all for 1 minute if the choose to let the vehicle be out of control this round check failsa by 5 points or more. (see Out of Control Vehicles, below). Tactical Movement:If conditions require a control check, the driver makes one immediately when itÆs his turn. If the check fails, roll on one of the following CONTROLLING VEHICLES two tables, depending on the degree of failure. Driving a vehicle under good weather conditions Table 3û5: Failed Control Check (1û4 Points) with sufficient crew requires no skill check. If itÆs a d6 Result land-based vehicle, you donÆt have to make a skill 1 Vehicle canÆt move this round check just to drive along the road. But if the weather 2û4 Vehicle moves at half speed this round is foul, the terrain treacherous, or your vehicle short- 5û6 Vehicle is considered one maneuverability handed, you must make skill checks every round to rating worse this round keep your vehicle under control. Table 3û6: Failed Control Check (5+ Points) Table 3û4: Vehicle Control DCs identifies some d6 Result common situations requiring vehicle control checks. 1 Vehicle canÆt move until repairs are made Table 3û4: Vehicle Control DCs 2 Vehicle turns as often as it can, in a random direction each time, at last roundÆs speed Task DC 3 Vehicle must turn left as soon as possible; Drive in precipitation 10 thereafter functions normally Drive during storm 20 4 Vehicle must turn right as soon as possible; Drive during powerful storm 30 thereafter functions normally Drive on ╫3/4 terrain (mountain highway, jungle 5 Vehicle drives straight ahead at maximum speed road, swamp road, hill road, trackless scrub) 10 6 Vehicle canÆt move this round Drive on ╫1/2 terrain (mountain road, trackless forest, swamp, hills, or desert) 20 Out of Control Vehicles Drive on ╫1/4 terrain (trackless jungle, mountains) 30 Sometimes a driver is incapacitated or leaves the Sail in light seas 5 Sail in moderate seas 15 wheel (voluntarily or otherwise). If that happens, Sail in heavy seas 25 the vehicle is out of control. On the driverÆs initia- Less than full crew 10 tive count, roll on Table 3û6 above to determine how Less than half crew 20 the vehicle moves. Unless the result indicates a Less than one-quarter crew 30 turn, the vehicle continues straight ahead. An out of Each vehicle statistics block gives the relevant skill, control vehicle continues to roll on Table 3û6 every almost always Handle Animal for land-based vehicles round until it comes to a stop from a result on the or Profession (sailor) for waterborne vehicles. If the table or a collision (see Collisions, below). driver doesnÆt have the relevant skill, the vehicle remains stationary (if it didnÆt move the previous VEHICLE COMBAT round) or is out of control (if it did move); see Out of Control Vehicles, below. Vehicle combat uses the normal rules described in If conditions require a control check, the driver Chapter 8 of the PlayerÆs Handbook. Vehicles have makes checks every round on the tactical movement maneuverability, just as flying characters and crea- scale, every minute on the local scale, and every hour tures do, and have limitations on how quickly they on the overland scale. If a driver fails a vehicle con- can turn. They generally provide at least a measure of trol check, what happens depends on the current cover for their occupants, as described in the individ- movement scale. ual vehicle descriptions.",
+        "name":  "Controlling Drawn Vehicles in Combat",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A land vehicle is reduced Driving a vehicle is a move-equivalent action, so a to half speed for 1 hour if the driver fails a control driver can generally make a single attack while driv- check by 1û4 points. Failure by 5 points or more ing. Passengers on a vehicle can make attacks nor- means that no progress is made in the next hour. mally, but itÆs sometimes hard to fight aboard a Minor breakdowns, stuck wheels, and uncooperative moving, vibrating vehicle. ItÆs also possible to run dray creatures account for many of these delays. into a foe with your vehicle. Such collisions represent The consequences of failure are the same for water- an unusual attack type; see Collisions, below, for 44 borne and airborne vehicles, with one additional con- more information.) sideration: If the control check fails by 10 or more, the Melee Attacks: If the vehicle moves more than 5 vehicle is sent off course in a random direction. Use feet in a round, the driver and passengers can each620_88159_001_A\u0026E Guide2.qxd 1/10/03 1:01 PM Page 45 CHAPTER 3: VEHICLES only make a single melee attack. Essentially, you have a full-damage ram attack; they need only move 10 to wait until your vehicle gets to the enemy before feet in a straight line. attacking, so you canÆt make a full attack. If you attack The given ram damage assumes that the vehicle is a Medium-size or smaller creature whoÆs standing on hitting a more or less stationary target. But itÆs the rel- the ground, you get a +1 bonus on the attack roll for ative speed between the ramming vehicle and the being on higher ground. target that matters most, not the ramming vehicleÆs",
+        "name":  "Overland Movement",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A driver can voluntarily relinquish rams one going northeast, use the ramming speed of control of a vehicle to make a full attack or take another the eastbound vehicle to figure ramming damage. If a full-round action. Such a vehicle is out of control (see vehicle going east rams one going southwest, add their above) until the driver spends a move-equivalent action speeds together to figure out the ramming damage. to bring the vehicle under control again. Creatures and stationary objects (such as walls, shoals, and fruit carts) take damage as normal, account- ing for hardness or damage reduction first. To apply COLLISIONS damage to vehicles, see Attacking a Vehicle, below. If you hit something with your vehicle (whether If the collision destroyed whatever you hit, you may intentionally or by accident) at full speed, the collision continue moving at half speed. If itÆs still there, your deals the ram damage given in the vehicleÆs statistics vehicle stops for the rest of the round. block. Your vehicle (or the 10-foot section including Collisions and Passengers: The driver, crew, and the ram, if itÆs a big vehicle) takes an equal amount of passengers in smaller vehicles are vulnerable to damage, up to a maximum of your targetÆs remaining damage in a collision. All aboard a vehicle that comes hit points (or hit points û10 if itÆs a creature). For to a stop after a collision take 1d6 points of damage example, if you try to run down a pedestrian who has per 10 feet of relative speed in the collision. A suc- 17 hit points, your double chariot canÆt take more than cessful Reflex save (DC 20) halves the damage. If the 7 points of damage no matter how fast youÆre going. vehicle is Huge or larger, those aboard take damage Some vehicles have extra braces and heavy strik- only if the collision destroys the vehicle. ing surfaces that make them better at ramming. Leaving a Moving Vehicle: Whether you jump or Vehicles with rams take only half damage from colli- get pushed, sometimes you leave a vehicle while itÆs sions they initiate. moving. Hitting the ground deals 1d6 points of The given damage is for a vehicle traveling at maxi- damage per 10 feet of speed (Reflex half DC 20). mum speed. If a vehicle canÆt reach its maximum Regardless of the save result, such a character is speed due to terrain, damage, or other factors, adjust prone unless she succeeds on a Tumble check (DC 15 the damage dealt by the same proportion as the + 1 per 10 feet of speed). speed. For example, a double chariot that could ordi- Drawn Vehicles and Collisions: An inattentive narily deal 4d6 points of damage in a ram deals only captain can easily sail a ship into a dock, but even the 45 2d6 points of damage on a mountain road because itÆs worst charioteer canÆt drive a team of horses into a limited to half speed there. Vehicles donÆt need to brick wall. When confronted with an inanimate actually move a distance equal to their speed to make object, the dray creatures simply stop.620_88159_001_A\u0026E Guide2.qxd 1/10/03 1:01 PM Page 46 CHAPTER 3: VEHICLES",
+        "name":  "Fighting Drivers",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "As above, but the pas- objects or creatures. If the parchment is rolled up, the senger quarters are the very definition of opulence. map it was displaying disappears.",
+        "name":  "Passenger Spaces, Luxury",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "8,100 gp; according to the dray creaturesÆ",
+        "name":  "Market Price",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The size of the vehicle, using the same size width. categories as for creatures. Height: The vehicleÆs height, not including rig-",
+        "name":  "Size",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "As long as they can maintain their con- hordes of undead. centration on a given task, gnomes make excellent Although they are aware of the uncertainties of the hirelings. They are energetic, innovative, and battlefield, mercenaries still expect to fight foes that inspired creators. Gnomes have a natural affinity for are within their ability. A 1st-level warrior is prepared mechanical devices. However, they enjoy practical to do battle against goblins, orcs, skeletons, and other jokes, which sometimes disrupt the dull rhythm of a creatures of CR 1 or lower, while higher-level merce- workshop. Gnomes enjoy these diversions, while naries can take on correspondingly tougher foes. If others find them annoying at best. mercenaries continually end up fighting creatures",
+        "name":  "Gnomes",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Gnolls are foul creatures that delight in",
+        "name":  "Gnoll",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Sheer greed motivates these creatures, Kobold: Even more so than goblins, kobolds and they will work for anyone that can provide them require extremely close attention from their with adequate loot. They have an extremely short employer to get the job done. Hired in bands of ten attention span and must be continually motivated by or more, they are useful for bogging down an enemy money or threats. They usually do not negotiate with mob tactics. Kobolds are cowards and should beyond ôIf you fight for me, IÆll give you gold.ö Bug- only be used against enemies that they are sure to bears also accept slaves as payment. They are good beat (usually through sheer numbers). Kobolds do skirmishers but collapse under any prolonged and not bargain well, and they usually have to be intimi- 70 disciplined assault. dated to respond to orders.",
+        "name":  "Bugbear",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Unusually intelligent for a con- 73 scores and so are untrainable. However, a designated struct, a homunculus shares its creatorÆs mindset. It master can command these types of creatures. They literally lives to serve, making it an excellent pet if do not listen to any voice but their masterÆs, and that is all its creator asks of it.620_88159_001_A\u0026E Guide2.qxd 1/10/03 1:06 PM Page 74 CHAPTER 4: HIRELINGS AND CREATURES",
+        "name":  "Constructs and undead have no Intelligence Homunculus",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "3,000 gp. worth the effort.620_88159_001_A\u0026E Guide2.qxd 1/10/03 1:06 PM Page 75 CHAPTER 4: HIRELINGS AND CREATURES Krenshar Otyugh Though krenshars adapt well to civilized habitats, A favorite entrance for thieves into an otherwise they still play hunting games with each other and well-guarded fortification is through their masters when off duty. Playful krenshars try to the garbage chute or sewers. It hap- New Tricks jump out and scare their masters as often as possible. pens so often, one would think all the The following tricks are in Masters attribute numerous gray hairs to this ôplay.ö rich and powerful would take this addition to those described Due to their social natures, krenshars prefer to into account. Those who keep guard under Animal Companions in stay among their own kind even when domesti- otyughs do. Chapter 2 of the DUNGEON cated. A solitary domesticated krenshar must be Even untrained, otyughs sometimes MASTERÆs Guide. kept constantly socialized or it becomes jittery and enter symbiotic relationships with ôDonÆt Attackö: This is not its skin tightens, reducing the effectiveness of its other beings, not attacking if fed regu- a command but a standing scare ability (it no longer gets the +3 bonus on larly and left alone in their refuse. order. The creature never at- Bluff checks). Trained otyughs are smart enough not tacks one specific person or DC Young/Adult:20/27; Young Price: 500 gp; Training only to refrain from attacking their creature besides the master.",
+        "name":  "They are exceptional guards, but perhaps not ing Cost",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Climb +19, Hide +6, Listen +6, Spot +6 employed as personal escorts of evil masters or left Climate/Terrain:Any hill or mountains among other evil creatures. Their natural abilities",
+        "name":  "Skills",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Primitive halflings are well known for Special Qualities:Darkvision 60 ft., low-light domesticating and training climbdogs, though any vision, thud race can do so. The creatures are easily taught and Saves:Fort +7, Ref +4, Will +2",
+        "name":  "Combat",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "5û8 HD (Large); 9û12 HD (Huge) These dark blue, thick-skinned, hairless preda- tors hunt burrowing creatures. Their footfalls rumble through the ground, upsetting their preyÆs tremorsense and driving it to the sur- face, where they pounce on it. After bringing down a kill, the pack feasts, often sleeping for days afterward. A full belly can sustain a thudhunter for up to two weeks. Though thud- hunters love a big kill, they can also survive on a diet of small bur- rowing animals. Thudhunters take well to domestica- tion, although they need frequent exercise to stay sharp for hunting. Rich sport hunters sometimes keep trained packs of the beasts solely for the occa- sional bulette hunt. Thudhunters stand 2 1/2 feet tall at the shoulder and weigh upwards of 100 pounds.",
+        "name":  "Advancement",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Light 1,038 lb., medium 2,076 lb., Porpoises are an exception to the and a whole group of pas- heavy 3,120 lb.; DC Young/Adult: 20/27; Young Price: normal size restrictions for mounts. sengers. What then? 400 gp; Training Cost:75 gp. Thanks to the buoyancy of water, A rider is the person in con- Medium-size creatures can ride por- trol of the mount (or at least Dog, Riding poises. There is no room for passen- the one trying to control the mount). A passenger is anyone Halfling riding dogs are hard workers, famed for gers. Porpoises become encumbered else traveling on the mount. their ferocity and loyalty on the battlefield. Though quickly, so riders try to shed unneces- Any time a passenger must stoic animals, riding dogs hate to be left tied up ôwith sary pounds. occupy the same 5-foot square the mounts.ö They prefer to lounge by the fire with Though distinct creatures, porpoises as the rider, he or she cramps their masters at night. In the wild, this is sometimes and dolphins are similar enough to the riderÆs ability to do much even a preferable arrangement. However, too much share the same statistics. other than steer the mount. socialization is usually not in a working dogÆs best Carrying Capacity: Light 57 lb., Ride checks have a û5 penalty interests, since it can begin to forget its training. medium 114 lb., heavy 173 lb.; DC under these circumstances. Some masters are permissive anyway and even allow Young/Adult:15/22; Young Price: 100 gp; In most cases, the rider has them indoors. Housebreaking a riding dog counts Training Cost:20 gp. the seat farthest forward or as a trick. positioned for best visibility.",
+        "name":  "Carrying Capacity",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1,000 gp. SQ darkvision 60 ft., light blindness, low-light vision, not, treat the creature like a sticky pads; AL N; SV Fort +6, Ref +4, Will +1; Str 18, cohort who doesnÆt get a share Deinonychus/Megaraptor Dex 13, Con 17, Int 2, Wis 13, Cha 6. of experience.",
+        "name":  "Cost",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Swim 60 ft. are simple creatures. They enjoy races and displays",
+        "name":  "Speed",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "28,000 gp. If reared from the egg, knowing no other life, a circumstance penalty if the rider is dragon consents to training. After birth, no amount of not fully mounted. Handle Animal skill can convince a dragon to serve Gelatinous cubes are air-permeable, so breathing is as a mount; Diplomacy is the only way to convince never an issue. However, carrying a rider disorients a a dragon to serve another creature. cubeÆs ability to find prey by scentùeverything It can be several years before a dragon raised smells like food when an organic creature occupies from birth is large enough to ride. Every time the its center. Denied their sense of smell, occupied dragon advances to a new age category, a trainer cubes sense prey solely through vibration. must reassert her dominance by making a new Although cubes are nonintelligent (and therefore Handle Animal check for every trick she has taught untrainable), they can be directed. ôSteeringö a gelati- her dragon, opposed by the dragonÆs Sense Motive nous cube is an odd art. Taking advantage of the check. Even young dragons are strong-willed; if a cubeÆs impaired senses, a rider creates vibrations dragon wins the opposed check, it never performs within its mass by banging on the force sphere. With that trick again. practice, specific vibrations can fool the cube into Dragons are born more intelligent than some sensing external movement. Thus, the cube contin- people. Any dragon older than a wyrmling almost ually chases phantom ôfoodö in the direction the certainly has its own motives for allowing itself to be rider indicates. ridden, even if it is held in check by training. A A rider must exit his cube at a decent speed (at least dragon rider is best served by treating the mount as faster than the cubeÆs land speed of 15 feet), since the a partner, rather than a servant. The best way to dis- cube immediately tries to engulf any food that sud- play respect for a dragon is, of course, with treasure. denly appears near it.",
+        "name":  "Price",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Light 300 lb., medium 600 lb., Necromancers, liches, and other dark beings find live heavy 900 lb.; DC Young/Adult: 28/35; Young Price: horses skittish and their upkeep bothersome. When 5,000 gp; Training Cost:ù. they need a mount, it is more expedient and charac- teristically ghoulish to slay a horse and cast animate 86 Purple Worm deadon its corpse. Riding on the outside of a purple worm is impossible, Use the Large skeleton statistics from the Monster so mind flayers ride inside it. They place an irritant Manual,except that a skeletal horseÆs speed is 60 feet,620_88159_001_A\u0026E Guide2.qxd 1/10/03 10:18 AM Page 87 CHAPTER 4: HIRELINGS AND CREATURES it attacks with two hooves instead of claws (dealing Equine Golem the same amount damage), and its face and reach are Large Construct as a long creature instead of a tall one (5 ft. by 10 ft./5 Hit Dice:6d10 (33 hp) ft.). Skeletal horses cannot be domesticated. Initiative:+1",
+        "name":  "Carrying Capacity",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "7û12 HD (Large) shut (for the riderÆs visibility or protection, respec- tively), and to provide contact points for reins. With this device activated, the tendriculos cannot Equine golems are golems shaped as heavy warhorses use its bite attack. instead of humanoids. An equine golem is faster and In training, the tendriculos is taught not to more agile than a regular golem, but less durable. swallow enemies whole, since that puts an enemy The standard material used for golems is too heavy inside with the rider. However, these savage plants to make a good horse, and earth elementals are too get carried away. In battle, a rider must make a plodding to make a swift mount. Instead, equine successful Ride check (DC 20) to control this golems are crafted out of thick hardwood, and the swallowing instinct the first time a tendriculos animating spirit is an air elemental. grabs a creature. Equine golems leave no scent. They creak quietly as",
+        "name":  "Advancement",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Usually neutral in a 40-foot radius. Objects and creatures within the",
+        "name":  "Alignment",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "39û76 HD (Colossal) swept area automatically take 2d8+16 points of bludg- eoning damage. Affected creatures can attempt a These enormous, sedentary turtles are easily mis- Reflex save (DC 38) to take half damage. taken for small islands. Clever or lucky groups of Training a Zaratan: Zaratans do not appear to people who find one can ride it. be trainable. They are intelligent enough to carry 88 Zaratans normally ride the warm ocean currents out even complex commands under direct orders (if with their mouths open, allowing food and jetsam to delivered with appropriate vigor) but lapse into dim wash in. Shipwrecked sailors are sometimes found torpor when orders cease. These creatures have620_88159_001_A\u0026E Guide2.qxd 1/10/03 10:19 AM Page 89 CHAPTER 4: HIRELINGS AND CREATURES soarwhale is outfitted with an enormous howdah so that passengers can ride on top. Both docile and strong, soarwhales are used to incredibly long life spans, carry tons of cargo and young zaratans are so over long distances. rare as to be a nonissue. Rather than capturing and Quarry owners find especially them useful for deliv- training a zaratan, explorers must simply use one ering stone to customers hundreds of miles away. when available. Zaratans can understand rudimen- Soarwhales are also used as raiding platforms by air tray commands in most languages, including pirates, and as sky yachts by the very rich. Common, but speak only Aquan. In the wild, soarwhales are content to float calmly.",
+        "name":  "Advancement",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Tail slap 2d6+21 leaving a cloud of paralyzing gas in a 10-foot radius Face/Reach:40 ft. by 80 ft./15 ft. around its previous position. Any creature caught in",
+        "name":  "Damage",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Str 39, Dex 10, Con 29, Int 1, Wis 14, mount or beast of burden requires a successful Cha 6 Handle Animal check (DC 18 young, DC 25 adult).",
+        "name":  "Abilities",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Light 44,736 lb., medium 89,568 lb., heavy 134,400 lb. Soarwhales resemble unusually large baleen whales that swim through the air instead of in water. They Vermin Mounts domesticate easily and are widely used as cargo trans- Vermin serving in the role of domesticated creatures ports by civilizations that occupy high places. is such an alien concept that vermin riders are either A soarwhale is a cross between a vehicle and a crea- extraordinary individuals or part of an unusual soci- 89 ture. It is not so much ridden like a horse as steered ety that uses vermin in everyday life. The creaturesÆ like a ship. A gondola is commonly slung under a soar- lack of intelligence makes domestication tricky but whale to haul passengers, although occasionally a not impossible.620_88159_001_A\u0026E Guide2.qxd 1/10/03 10:19 AM Page 90 CHAPTER 4: HIRELINGS AND CREATURES Vermin riders must remain with their mounts from a reputable trainer rather than attempt to train almost constantly to maintain their bond. Mount and it alone. rider even sleep in the same room in specially con- Carrying Capacity: Light 918 lb., medium 1,836 lb., structed barracks/stables. As a result, the bond is deep: heavy 2,760 lb.; DC Young/Adult: ù/41; Egg Price: Riders grow close to their mounts and connect with 2,000 gp; Training Cost:1,000 gp. their subtle personalities. Generations-long vendettas have been started over a vermin mount slaying. Monstrous Spider Like monstrous scorpions, Large spiders are too Giant Ant gangly and ride too low to be good mounts. Speci-",
+        "name":  "Carrying Capacity",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Light 300 lb., medium 600 lb., Raiders and bandits who ride flying vermin prefer heavy 900 lb.; DC Young/Adult:ù/30;Larva Price: 800 giant dragonflies to other mounts. TheyÆre less aggres- gp; Training Cost:750 gp. sive than wasps but more so than bees. They also make a distinct thrumming sound in flight that Monstrous Scorpion strikes fear into common folk. Large monstrous scorpions ride too low to make good Riders prefer to use female dragonflies, since males mounts for Medium-size creatures. Humans and their are very territorial. A giant dragonfly is 10 feet long ilk find Huge or larger scorpions to be better fits. How- with a 10-foot wingspan. Its body is only 2 feet wide. 90 ever, this size of vermin is extraordinarily difficult to Training a Giant Dragonfly: Training a giant tame in adulthood, and the consequences of failure are dragonfly as a mount requires a successful Handle dire. It is practically a necessity to purchase a scorpion Animal check (DC 30). Giant dragonfly eggs are620_88159_001_A\u0026E Guide2.qxd 1/10/03 10:19 AM Page 91 CHAPTER 4: HIRELINGS AND CREATURES worth 500 gp on the open market. Professional train- an open backpack with leg holes. When covering dis- ers charge 300 gp to tame a giant dragonfly. tance, riders prefer to ride facing forward, looking Riding a giant dragonfly requires an exotic saddle. over the mountÆs shoulder. In battle, riders often find A giant dragonfly can fight while carrying a rider, but it easier to fight back-to-back with their mounts, the rider cannot also attack unless he or she succeeds essentially riding backward. on a Ride check.",
+        "name":  "Carrying Capacity",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Light 300 lb., medium 600 lb., Girallon heavy 900 lb. Though these creatures are savage in the wild, giral- lons captured young can make hearty mounts for Giant Firefly primitive tribespeople. However, riders must keep a Large Vermin tight rein on them, since it is impossible to train away",
+        "name":  "Carrying Capacity",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "4û6 HD (Large); 5û9 HD (Huge) can be trained normally. If its adoptee attempts the These vermin make excellent search and rescue crea- training, the Handle Animal check DC is 10. Attempt- tures. Their abdomens glow a soft yellow or green ing to train an unwilling gray render is tantamount to and shed light in a 10-foot radius. suicide. The beasts are unnaturally hard to train; even A common trick that riders direct giant fireflies to the rare baby, stolen from its parent, is savage and perform is ôLight.ö This keeps a fireflyÆs phosphores- recalcitrant. The training cost given below assumes cent abdomen lit indefinitely while the riders search that the gray render is not bonded to its trainer. for ground targets. Giant fireflies make poor combat- Carrying Capacity: Light 400 lb., medium 800 lb., ants, so their riders flee battle as soon as possible. A heavy 1,200 lb.; DC Young/Adult: 33/40; Young Price: giant firefly is 9 feet long. 6,000 gp; Training Cost:20,000 gp.",
+        "name":  "Advancement",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Light 228 lb., medium 459 lb., own idea. heavy 690 lb. From time to time, communities of Small folk have raised an ogre baby as one of their own. It Humanoid-Shaped Mounts grows up friendly to its adopted family and gladly Pushing the bounds of what could be called a mount, lets them ride piggyback, especially if it can roam some humanoid-shaped creatures can be ridden. with its friends. 91",
+        "name":  "Carrying Capacity",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "50,305 gp; Cost to Create: 25,305 gp + 2,000 XP. concealment (20% miss chance). Creatures farther",
+        "name":  "Price",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "3rd; Prerequisites: Forge Ring, misdirec- When a creature carries a rod of embassy keyed to tion;Market Price:7,000 gp. its home plane, it is considered to be on that plane",
+        "name":  "Caster Level",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "50,000 gp. Medium-size creature for purposes of the special size",
+        "name":  "Market Price",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "7th; Prerequisites:Craft Staff, contagion, doom, shatter, summon monster IV, Caster Level: 13th; Prerequisites: Craft Staff, daylight, creator must be evil; Market Price: 24,000 gp. This holy smite, searing light, sunbeam;Market Price:80,000 gp. price assumes the staff is made by a blackguard. Goblin Lord: This shabby-looking and gnarled",
+        "name":  "Caster Level",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1/2 lb. growth. Pixie Dust:This sparkling, silvery dust is created Bead of awakening Wearer can cast awaken. by several different fey but primarily used by pixies. Each special bead can be used only once, and then It comes in long, thin, silvery tubes. A single tubeÆs becomes forever inert. The power of a special bead is contents finely coat a 5-foot square, and any passage lost if removed from the necklace. through the area stirs up the dust for 1d6 rounds.",
+        "name":  "Bead of the great beast Wearer can cast animal Weight",
+        "source":  "arms_and_equipment_guide.txt",
+        "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Crafted out of bone, metal, or wood, water, hops, and other ingredients are added, it creates these special whistles are designed to mimic a spe- a thin beer in only a week. The taste is dreadful, but cific animal voiceùusually game animals and birds. thirsty soldiers take what they can get. The Fortitude An animal call provides a +1 circumstance bonus on save to resist intoxication from this beer has a DC of Wilderness Lore checks when hunting for food. Calls 10 (see Alcohol and Intoxication, later in this chapter). exist only for creatures that are type ôanimal.ö Cage: A typical cage consists of a solid metal or",
+        "name":  "Animal Call",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This is a roll of barbed steel wire smells pleasant to humans and humanoids but is designed to keep things in or out. A creature trying to repellent to insects. Nonmonstrous vermin will not cross barbed wire must make a successful Reflex save approach within a 5-foot radius of a burning candle. (DC 10) or take 1d3 points of damage and be tripped. A It burns for 1 hour. pair of thick gloves is necessary to set up barbed wire. Crane, Portable:This small crane can be broken A handler who does not have gloves needs to succeed down into several parts for easy transportation. It on a Dexterity check (DC 5) each round or take 1d2 must be assembled and bolted into place to be used points of damage. Building a barbed wire obstacle effectively. There are different ôstrengthsö available 21 takes 1d4+6 hours, including anchor posts. to purchaseùthe equivalent of a person with Str 22",
+        "name":  "Barbed Wire",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "More than a mere fishhook, this ness Lore checks when attempting to trap these set includes birch poles, silk line, sinkers, hooks, sorts of creatures. lures, and tackle box. It grants a +1 circumstance Game Board, Portable: This is a small foldable 22 bonus on Wilderness Lore checks when gathering wooden board and pieces for games such as chess, food around bodies of water that contain fish. checkers, backgammon, go, and the like. Higher",
+        "name":  "Fishing Tackle",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "These are soft, padded shoes that unusual opponents. Creatures that are Huge or larger absorb sound effectively. Despite the padding, the tend to crush the marbles into dust, while those with soles are made from tough, stretchy leather that holds multiple legs, like carrion crawlers, can scramble up to abuse. They grant a +1 circumstance bonus on along without falling. Move Silently checks.",
+        "name":  "The DM judges the effectiveness of marbles against Shoes, Silent",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This thin, light blue oil burns with a swelling to the diameter of a typical hemp rope, then blue flame and illuminates a wide area. When used in quickly drying. A flask of instant rope forms a 30- a lantern, farflame oil sheds light in a 40-foot radius. foot-long cord; it takes 2 rounds for it to solidify and In a bullseye lantern, it illuminates a cone 80 feet dry enough to be used. The instant rope can be long and 25 feet wide. A pint of farflame oil fuels a moved during this period without damaging it, but it lantern for 3 hours. A pint of farflame oil covers a 5- cannot support more than 10 pounds of weight with- foot square area if poured on the ground. If lit, out breaking. Once completely dry, instant rope can farflame oil burns for 1 round and deals 1d4 points of support as much weight as normal hemp rope. After damage to each creature in the area. an hour, instant rope becomes too brittle to support",
+        "name":  "Farflame Oil",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This pack distributes weight better Wrist Sheath than normal packs, allowing creatures to carry slightly more than they otherwise could. However, it is harder to reach into a framed pack while wearing it. When calculating encumbrance for a character with a framed pack, treat the pack and everything inside it as weighing 10% less than normal. Retriev- ing anything from a framed pack is a full-round action that provokes an attack of opportunity.",
+        "name":  "Pack, Framed",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "How fast an air vehicle can climb. Much like flying characters and creatures, all vehiclesù Down Angle:The maximum angle at which an air not just air vehiclesùhave maneuverability attributes. vehicle can descend. For land- and water-based vehicles, the only character- Down Speed:An air vehicle can fly down at twice istics affected by maneuverability are turn, turn in its normal flying speed. place, and maximum turn. Lane and water vehicles Between Down and Up:An air vehicle with aver- canÆt climb or dive, and they donÆt have minimum for- age, poor, or clumsy maneuverability must fly level ward speeds. Water vehicles use new nautical maneu- for a minimum distance after descending and before verability categories. See Table 3û1 for a summary of all climbing. Any air vehicle can begin descending after characteristics affected by maneuverability. Those a climb without an intervening distance. characteristics are explained and defined below. For simplicityÆs sake, vehicles turn in 45-degree",
+        "name":  "Up Speed",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "If an air vehicle fails increments. When a vehicle turns, simply pivot it to maintain its minimum forward speed, it must land around its rotation point. If a turn puts the vehicle on at the end of its current move. If it is too high above top of other creatures, what happens depends on the the ground to land, it falls straight down, descending relative size of the vehicle and the creatures. Treat the 150 feet in the first round of falling. If this brings it to vehicle as a creature of its size; if itÆs three or more the ground, it takes falling damage. If the fall doesnÆt size categories larger than the creatures in its way, it bring it to the ground, the vehicle must spend its can turn right through their squares. (It comes up next turn recovering from the stall. It must succeed much more rarely, but a vehicle three or more size on a Reflex saving throw (DC 20) to recover. Other- categories smaller than a creature can also turn wise it falls another 300 feet. If it hits the ground, it through the creatureÆs area.) If the creatures arenÆt takes falling damage. If not, it has another chance to three size categories smaller, then the vehicle canÆt recover on its next turn. make a turn through their areas. If youÆre trying to",
+        "name":  "Minimum Forward Speed",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A vehicle with good or average maneuverability can ôspendö some of its speed to turn Vehicles have two basic types of propulsion. A vehicle in place. is powered either by creatures, such as a horse-drawn",
+        "name":  "Turn in Place",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "War- Oar-Powered Vehicles horses, warponies, and other creatures trained for battle Vehicles with rowers move more consistently. As long serve readily as dray creatures in a fight. Other crea- as enough rowers are present, oar-powered vehicles tures tend to be frightened by combat. If the vehicle move at their given speed in any direction. Further- does anything other than remain still, the driver must more, they tend to be more maneuverable in close make a Handle Animal check (DC 20) each round as a quarters than vehicles that rely on sails. move-equivalent action. If the driver succeeds on the If the indicated number of rowers isnÆt available, check, the vehicle functions normally. A driver who reduce the vehicleÆs speed by the same percentage as fails must spend the rest of the round trying to calm 43 the reduced crew. For example, a galley that ordinarily the dray creatures and canÆt take any other actions. has a speed of 20 feet with 160 rowers has a speed of 10 Drivers who need both hands to fight can try to feet if only 80 rowers are aboard. Ships generally need control a drawn vehicle with verbal commands, by620_88159_001_A\u0026E Guide2.qxd 1/10/03 1:01 PM Page 44 CHAPTER 3: VEHICLES wrapping the reins around an arm, or by using some Table 3û3 to determine direction; the vehicle moves other makeshift technique. But itÆs difficult; a Handle in that direction for 1 hour at its maximum speed. Animal check (DC 25) is required at the beginning of Local Movement: All vehicles move at half speed the round you try this. If you fail, you can either pick for 1 minute if the control check fails by 1û4 points. up the reins (dropping something in one hand) or They make no progress at all for 1 minute if the choose to let the vehicle be out of control this round check failsa by 5 points or more. (see Out of Control Vehicles, below). Tactical Movement:If conditions require a control check, the driver makes one immediately when itÆs his turn. If the check fails, roll on one of the following CONTROLLING VEHICLES two tables, depending on the degree of failure. Driving a vehicle under good weather conditions Table 3û5: Failed Control Check (1û4 Points) with sufficient crew requires no skill check. If itÆs a d6 Result land-based vehicle, you donÆt have to make a skill 1 Vehicle canÆt move this round check just to drive along the road. But if the weather 2û4 Vehicle moves at half speed this round is foul, the terrain treacherous, or your vehicle short- 5û6 Vehicle is considered one maneuverability handed, you must make skill checks every round to rating worse this round keep your vehicle under control. Table 3û6: Failed Control Check (5+ Points) Table 3û4: Vehicle Control DCs identifies some d6 Result common situations requiring vehicle control checks. 1 Vehicle canÆt move until repairs are made Table 3û4: Vehicle Control DCs 2 Vehicle turns as often as it can, in a random direction each time, at last roundÆs speed Task DC 3 Vehicle must turn left as soon as possible; Drive in precipitation 10 thereafter functions normally Drive during storm 20 4 Vehicle must turn right as soon as possible; Drive during powerful storm 30 thereafter functions normally Drive on ╫3/4 terrain (mountain highway, jungle 5 Vehicle drives straight ahead at maximum speed road, swamp road, hill road, trackless scrub) 10 6 Vehicle canÆt move this round Drive on ╫1/2 terrain (mountain road, trackless forest, swamp, hills, or desert) 20 Out of Control Vehicles Drive on ╫1/4 terrain (trackless jungle, mountains) 30 Sometimes a driver is incapacitated or leaves the Sail in light seas 5 Sail in moderate seas 15 wheel (voluntarily or otherwise). If that happens, Sail in heavy seas 25 the vehicle is out of control. On the driverÆs initia- Less than full crew 10 tive count, roll on Table 3û6 above to determine how Less than half crew 20 the vehicle moves. Unless the result indicates a Less than one-quarter crew 30 turn, the vehicle continues straight ahead. An out of Each vehicle statistics block gives the relevant skill, control vehicle continues to roll on Table 3û6 every almost always Handle Animal for land-based vehicles round until it comes to a stop from a result on the or Profession (sailor) for waterborne vehicles. If the table or a collision (see Collisions, below). driver doesnÆt have the relevant skill, the vehicle remains stationary (if it didnÆt move the previous VEHICLE COMBAT round) or is out of control (if it did move); see Out of Control Vehicles, below. Vehicle combat uses the normal rules described in If conditions require a control check, the driver Chapter 8 of the PlayerÆs Handbook. Vehicles have makes checks every round on the tactical movement maneuverability, just as flying characters and crea- scale, every minute on the local scale, and every hour tures do, and have limitations on how quickly they on the overland scale. If a driver fails a vehicle con- can turn. They generally provide at least a measure of trol check, what happens depends on the current cover for their occupants, as described in the individ- movement scale. ual vehicle descriptions.",
+        "name":  "Controlling Drawn Vehicles in Combat",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A land vehicle is reduced Driving a vehicle is a move-equivalent action, so a to half speed for 1 hour if the driver fails a control driver can generally make a single attack while driv- check by 1û4 points. Failure by 5 points or more ing. Passengers on a vehicle can make attacks nor- means that no progress is made in the next hour. mally, but itÆs sometimes hard to fight aboard a Minor breakdowns, stuck wheels, and uncooperative moving, vibrating vehicle. ItÆs also possible to run dray creatures account for many of these delays. into a foe with your vehicle. Such collisions represent The consequences of failure are the same for water- an unusual attack type; see Collisions, below, for 44 borne and airborne vehicles, with one additional con- more information.) sideration: If the control check fails by 10 or more, the Melee Attacks: If the vehicle moves more than 5 vehicle is sent off course in a random direction. Use feet in a round, the driver and passengers can each620_88159_001_A\u0026E Guide2.qxd 1/10/03 1:01 PM Page 45 CHAPTER 3: VEHICLES only make a single melee attack. Essentially, you have a full-damage ram attack; they need only move 10 to wait until your vehicle gets to the enemy before feet in a straight line. attacking, so you canÆt make a full attack. If you attack The given ram damage assumes that the vehicle is a Medium-size or smaller creature whoÆs standing on hitting a more or less stationary target. But itÆs the rel- the ground, you get a +1 bonus on the attack roll for ative speed between the ramming vehicle and the being on higher ground. target that matters most, not the ramming vehicleÆs",
+        "name":  "Overland Movement",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A driver can voluntarily relinquish rams one going northeast, use the ramming speed of control of a vehicle to make a full attack or take another the eastbound vehicle to figure ramming damage. If a full-round action. Such a vehicle is out of control (see vehicle going east rams one going southwest, add their above) until the driver spends a move-equivalent action speeds together to figure out the ramming damage. to bring the vehicle under control again. Creatures and stationary objects (such as walls, shoals, and fruit carts) take damage as normal, account- ing for hardness or damage reduction first. To apply COLLISIONS damage to vehicles, see Attacking a Vehicle, below. If you hit something with your vehicle (whether If the collision destroyed whatever you hit, you may intentionally or by accident) at full speed, the collision continue moving at half speed. If itÆs still there, your deals the ram damage given in the vehicleÆs statistics vehicle stops for the rest of the round. block. Your vehicle (or the 10-foot section including Collisions and Passengers: The driver, crew, and the ram, if itÆs a big vehicle) takes an equal amount of passengers in smaller vehicles are vulnerable to damage, up to a maximum of your targetÆs remaining damage in a collision. All aboard a vehicle that comes hit points (or hit points û10 if itÆs a creature). For to a stop after a collision take 1d6 points of damage example, if you try to run down a pedestrian who has per 10 feet of relative speed in the collision. A suc- 17 hit points, your double chariot canÆt take more than cessful Reflex save (DC 20) halves the damage. If the 7 points of damage no matter how fast youÆre going. vehicle is Huge or larger, those aboard take damage Some vehicles have extra braces and heavy strik- only if the collision destroys the vehicle. ing surfaces that make them better at ramming. Leaving a Moving Vehicle: Whether you jump or Vehicles with rams take only half damage from colli- get pushed, sometimes you leave a vehicle while itÆs sions they initiate. moving. Hitting the ground deals 1d6 points of The given damage is for a vehicle traveling at maxi- damage per 10 feet of speed (Reflex half DC 20). mum speed. If a vehicle canÆt reach its maximum Regardless of the save result, such a character is speed due to terrain, damage, or other factors, adjust prone unless she succeeds on a Tumble check (DC 15 the damage dealt by the same proportion as the + 1 per 10 feet of speed). speed. For example, a double chariot that could ordi- Drawn Vehicles and Collisions: An inattentive narily deal 4d6 points of damage in a ram deals only captain can easily sail a ship into a dock, but even the 45 2d6 points of damage on a mountain road because itÆs worst charioteer canÆt drive a team of horses into a limited to half speed there. Vehicles donÆt need to brick wall. When confronted with an inanimate actually move a distance equal to their speed to make object, the dray creatures simply stop.620_88159_001_A\u0026E Guide2.qxd 1/10/03 1:01 PM Page 46 CHAPTER 3: VEHICLES",
+        "name":  "Fighting Drivers",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "As above, but the pas- objects or creatures. If the parchment is rolled up, the senger quarters are the very definition of opulence. map it was displaying disappears.",
+        "name":  "Passenger Spaces, Luxury",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "8,100 gp; according to the dray creaturesÆ",
+        "name":  "Market Price",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The size of the vehicle, using the same size width. categories as for creatures. Height: The vehicleÆs height, not including rig-",
+        "name":  "Size",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "As long as they can maintain their con- hordes of undead. centration on a given task, gnomes make excellent Although they are aware of the uncertainties of the hirelings. They are energetic, innovative, and battlefield, mercenaries still expect to fight foes that inspired creators. Gnomes have a natural affinity for are within their ability. A 1st-level warrior is prepared mechanical devices. However, they enjoy practical to do battle against goblins, orcs, skeletons, and other jokes, which sometimes disrupt the dull rhythm of a creatures of CR 1 or lower, while higher-level merce- workshop. Gnomes enjoy these diversions, while naries can take on correspondingly tougher foes. If others find them annoying at best. mercenaries continually end up fighting creatures",
+        "name":  "Gnomes",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Gnolls are foul creatures that delight in",
+        "name":  "Gnoll",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Sheer greed motivates these creatures, Kobold: Even more so than goblins, kobolds and they will work for anyone that can provide them require extremely close attention from their with adequate loot. They have an extremely short employer to get the job done. Hired in bands of ten attention span and must be continually motivated by or more, they are useful for bogging down an enemy money or threats. They usually do not negotiate with mob tactics. Kobolds are cowards and should beyond ôIf you fight for me, IÆll give you gold.ö Bug- only be used against enemies that they are sure to bears also accept slaves as payment. They are good beat (usually through sheer numbers). Kobolds do skirmishers but collapse under any prolonged and not bargain well, and they usually have to be intimi- 70 disciplined assault. dated to respond to orders.",
+        "name":  "Bugbear",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Unusually intelligent for a con- 73 scores and so are untrainable. However, a designated struct, a homunculus shares its creatorÆs mindset. It master can command these types of creatures. They literally lives to serve, making it an excellent pet if do not listen to any voice but their masterÆs, and that is all its creator asks of it.620_88159_001_A\u0026E Guide2.qxd 1/10/03 1:06 PM Page 74 CHAPTER 4: HIRELINGS AND CREATURES",
+        "name":  "Constructs and undead have no Intelligence Homunculus",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "3,000 gp. worth the effort.620_88159_001_A\u0026E Guide2.qxd 1/10/03 1:06 PM Page 75 CHAPTER 4: HIRELINGS AND CREATURES Krenshar Otyugh Though krenshars adapt well to civilized habitats, A favorite entrance for thieves into an otherwise they still play hunting games with each other and well-guarded fortification is through their masters when off duty. Playful krenshars try to the garbage chute or sewers. It hap- New Tricks jump out and scare their masters as often as possible. pens so often, one would think all the The following tricks are in Masters attribute numerous gray hairs to this ôplay.ö rich and powerful would take this addition to those described Due to their social natures, krenshars prefer to into account. Those who keep guard under Animal Companions in stay among their own kind even when domesti- otyughs do. Chapter 2 of the DUNGEON cated. A solitary domesticated krenshar must be Even untrained, otyughs sometimes MASTERÆs Guide. kept constantly socialized or it becomes jittery and enter symbiotic relationships with ôDonÆt Attackö: This is not its skin tightens, reducing the effectiveness of its other beings, not attacking if fed regu- a command but a standing scare ability (it no longer gets the +3 bonus on larly and left alone in their refuse. order. The creature never at- Bluff checks). Trained otyughs are smart enough not tacks one specific person or DC Young/Adult:20/27; Young Price: 500 gp; Training only to refrain from attacking their creature besides the master.",
+        "name":  "They are exceptional guards, but perhaps not ing Cost",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Climb +19, Hide +6, Listen +6, Spot +6 employed as personal escorts of evil masters or left Climate/Terrain:Any hill or mountains among other evil creatures. Their natural abilities",
+        "name":  "Skills",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Primitive halflings are well known for Special Qualities:Darkvision 60 ft., low-light domesticating and training climbdogs, though any vision, thud race can do so. The creatures are easily taught and Saves:Fort +7, Ref +4, Will +2",
+        "name":  "Combat",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "5û8 HD (Large); 9û12 HD (Huge) These dark blue, thick-skinned, hairless preda- tors hunt burrowing creatures. Their footfalls rumble through the ground, upsetting their preyÆs tremorsense and driving it to the sur- face, where they pounce on it. After bringing down a kill, the pack feasts, often sleeping for days afterward. A full belly can sustain a thudhunter for up to two weeks. Though thud- hunters love a big kill, they can also survive on a diet of small bur- rowing animals. Thudhunters take well to domestica- tion, although they need frequent exercise to stay sharp for hunting. Rich sport hunters sometimes keep trained packs of the beasts solely for the occa- sional bulette hunt. Thudhunters stand 2 1/2 feet tall at the shoulder and weigh upwards of 100 pounds.",
+        "name":  "Advancement",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Light 1,038 lb., medium 2,076 lb., Porpoises are an exception to the and a whole group of pas- heavy 3,120 lb.; DC Young/Adult: 20/27; Young Price: normal size restrictions for mounts. sengers. What then? 400 gp; Training Cost:75 gp. Thanks to the buoyancy of water, A rider is the person in con- Medium-size creatures can ride por- trol of the mount (or at least Dog, Riding poises. There is no room for passen- the one trying to control the mount). A passenger is anyone Halfling riding dogs are hard workers, famed for gers. Porpoises become encumbered else traveling on the mount. their ferocity and loyalty on the battlefield. Though quickly, so riders try to shed unneces- Any time a passenger must stoic animals, riding dogs hate to be left tied up ôwith sary pounds. occupy the same 5-foot square the mounts.ö They prefer to lounge by the fire with Though distinct creatures, porpoises as the rider, he or she cramps their masters at night. In the wild, this is sometimes and dolphins are similar enough to the riderÆs ability to do much even a preferable arrangement. However, too much share the same statistics. other than steer the mount. socialization is usually not in a working dogÆs best Carrying Capacity: Light 57 lb., Ride checks have a û5 penalty interests, since it can begin to forget its training. medium 114 lb., heavy 173 lb.; DC under these circumstances. Some masters are permissive anyway and even allow Young/Adult:15/22; Young Price: 100 gp; In most cases, the rider has them indoors. Housebreaking a riding dog counts Training Cost:20 gp. the seat farthest forward or as a trick. positioned for best visibility.",
+        "name":  "Carrying Capacity",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1,000 gp. SQ darkvision 60 ft., light blindness, low-light vision, not, treat the creature like a sticky pads; AL N; SV Fort +6, Ref +4, Will +1; Str 18, cohort who doesnÆt get a share Deinonychus/Megaraptor Dex 13, Con 17, Int 2, Wis 13, Cha 6. of experience.",
+        "name":  "Cost",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Swim 60 ft. are simple creatures. They enjoy races and displays",
+        "name":  "Speed",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "28,000 gp. If reared from the egg, knowing no other life, a circumstance penalty if the rider is dragon consents to training. After birth, no amount of not fully mounted. Handle Animal skill can convince a dragon to serve Gelatinous cubes are air-permeable, so breathing is as a mount; Diplomacy is the only way to convince never an issue. However, carrying a rider disorients a a dragon to serve another creature. cubeÆs ability to find prey by scentùeverything It can be several years before a dragon raised smells like food when an organic creature occupies from birth is large enough to ride. Every time the its center. Denied their sense of smell, occupied dragon advances to a new age category, a trainer cubes sense prey solely through vibration. must reassert her dominance by making a new Although cubes are nonintelligent (and therefore Handle Animal check for every trick she has taught untrainable), they can be directed. ôSteeringö a gelati- her dragon, opposed by the dragonÆs Sense Motive nous cube is an odd art. Taking advantage of the check. Even young dragons are strong-willed; if a cubeÆs impaired senses, a rider creates vibrations dragon wins the opposed check, it never performs within its mass by banging on the force sphere. With that trick again. practice, specific vibrations can fool the cube into Dragons are born more intelligent than some sensing external movement. Thus, the cube contin- people. Any dragon older than a wyrmling almost ually chases phantom ôfoodö in the direction the certainly has its own motives for allowing itself to be rider indicates. ridden, even if it is held in check by training. A A rider must exit his cube at a decent speed (at least dragon rider is best served by treating the mount as faster than the cubeÆs land speed of 15 feet), since the a partner, rather than a servant. The best way to dis- cube immediately tries to engulf any food that sud- play respect for a dragon is, of course, with treasure. denly appears near it.",
+        "name":  "Price",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Light 300 lb., medium 600 lb., Necromancers, liches, and other dark beings find live heavy 900 lb.; DC Young/Adult: 28/35; Young Price: horses skittish and their upkeep bothersome. When 5,000 gp; Training Cost:ù. they need a mount, it is more expedient and charac- teristically ghoulish to slay a horse and cast animate 86 Purple Worm deadon its corpse. Riding on the outside of a purple worm is impossible, Use the Large skeleton statistics from the Monster so mind flayers ride inside it. They place an irritant Manual,except that a skeletal horseÆs speed is 60 feet,620_88159_001_A\u0026E Guide2.qxd 1/10/03 10:18 AM Page 87 CHAPTER 4: HIRELINGS AND CREATURES it attacks with two hooves instead of claws (dealing Equine Golem the same amount damage), and its face and reach are Large Construct as a long creature instead of a tall one (5 ft. by 10 ft./5 Hit Dice:6d10 (33 hp) ft.). Skeletal horses cannot be domesticated. Initiative:+1",
+        "name":  "Carrying Capacity",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "7û12 HD (Large) shut (for the riderÆs visibility or protection, respec- tively), and to provide contact points for reins. With this device activated, the tendriculos cannot Equine golems are golems shaped as heavy warhorses use its bite attack. instead of humanoids. An equine golem is faster and In training, the tendriculos is taught not to more agile than a regular golem, but less durable. swallow enemies whole, since that puts an enemy The standard material used for golems is too heavy inside with the rider. However, these savage plants to make a good horse, and earth elementals are too get carried away. In battle, a rider must make a plodding to make a swift mount. Instead, equine successful Ride check (DC 20) to control this golems are crafted out of thick hardwood, and the swallowing instinct the first time a tendriculos animating spirit is an air elemental. grabs a creature. Equine golems leave no scent. They creak quietly as",
+        "name":  "Advancement",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Usually neutral in a 40-foot radius. Objects and creatures within the",
+        "name":  "Alignment",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "39û76 HD (Colossal) swept area automatically take 2d8+16 points of bludg- eoning damage. Affected creatures can attempt a These enormous, sedentary turtles are easily mis- Reflex save (DC 38) to take half damage. taken for small islands. Clever or lucky groups of Training a Zaratan: Zaratans do not appear to people who find one can ride it. be trainable. They are intelligent enough to carry 88 Zaratans normally ride the warm ocean currents out even complex commands under direct orders (if with their mouths open, allowing food and jetsam to delivered with appropriate vigor) but lapse into dim wash in. Shipwrecked sailors are sometimes found torpor when orders cease. These creatures have620_88159_001_A\u0026E Guide2.qxd 1/10/03 10:19 AM Page 89 CHAPTER 4: HIRELINGS AND CREATURES soarwhale is outfitted with an enormous howdah so that passengers can ride on top. Both docile and strong, soarwhales are used to incredibly long life spans, carry tons of cargo and young zaratans are so over long distances. rare as to be a nonissue. Rather than capturing and Quarry owners find especially them useful for deliv- training a zaratan, explorers must simply use one ering stone to customers hundreds of miles away. when available. Zaratans can understand rudimen- Soarwhales are also used as raiding platforms by air tray commands in most languages, including pirates, and as sky yachts by the very rich. Common, but speak only Aquan. In the wild, soarwhales are content to float calmly.",
+        "name":  "Advancement",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Tail slap 2d6+21 leaving a cloud of paralyzing gas in a 10-foot radius Face/Reach:40 ft. by 80 ft./15 ft. around its previous position. Any creature caught in",
+        "name":  "Damage",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Str 39, Dex 10, Con 29, Int 1, Wis 14, mount or beast of burden requires a successful Cha 6 Handle Animal check (DC 18 young, DC 25 adult).",
+        "name":  "Abilities",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Light 44,736 lb., medium 89,568 lb., heavy 134,400 lb. Soarwhales resemble unusually large baleen whales that swim through the air instead of in water. They Vermin Mounts domesticate easily and are widely used as cargo trans- Vermin serving in the role of domesticated creatures ports by civilizations that occupy high places. is such an alien concept that vermin riders are either A soarwhale is a cross between a vehicle and a crea- extraordinary individuals or part of an unusual soci- 89 ture. It is not so much ridden like a horse as steered ety that uses vermin in everyday life. The creaturesÆ like a ship. A gondola is commonly slung under a soar- lack of intelligence makes domestication tricky but whale to haul passengers, although occasionally a not impossible.620_88159_001_A\u0026E Guide2.qxd 1/10/03 10:19 AM Page 90 CHAPTER 4: HIRELINGS AND CREATURES Vermin riders must remain with their mounts from a reputable trainer rather than attempt to train almost constantly to maintain their bond. Mount and it alone. rider even sleep in the same room in specially con- Carrying Capacity: Light 918 lb., medium 1,836 lb., structed barracks/stables. As a result, the bond is deep: heavy 2,760 lb.; DC Young/Adult: ù/41; Egg Price: Riders grow close to their mounts and connect with 2,000 gp; Training Cost:1,000 gp. their subtle personalities. Generations-long vendettas have been started over a vermin mount slaying. Monstrous Spider Like monstrous scorpions, Large spiders are too Giant Ant gangly and ride too low to be good mounts. Speci-",
+        "name":  "Carrying Capacity",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Light 300 lb., medium 600 lb., Raiders and bandits who ride flying vermin prefer heavy 900 lb.; DC Young/Adult:ù/30;Larva Price: 800 giant dragonflies to other mounts. TheyÆre less aggres- gp; Training Cost:750 gp. sive than wasps but more so than bees. They also make a distinct thrumming sound in flight that Monstrous Scorpion strikes fear into common folk. Large monstrous scorpions ride too low to make good Riders prefer to use female dragonflies, since males mounts for Medium-size creatures. Humans and their are very territorial. A giant dragonfly is 10 feet long ilk find Huge or larger scorpions to be better fits. How- with a 10-foot wingspan. Its body is only 2 feet wide. 90 ever, this size of vermin is extraordinarily difficult to Training a Giant Dragonfly: Training a giant tame in adulthood, and the consequences of failure are dragonfly as a mount requires a successful Handle dire. It is practically a necessity to purchase a scorpion Animal check (DC 30). Giant dragonfly eggs are620_88159_001_A\u0026E Guide2.qxd 1/10/03 10:19 AM Page 91 CHAPTER 4: HIRELINGS AND CREATURES worth 500 gp on the open market. Professional train- an open backpack with leg holes. When covering dis- ers charge 300 gp to tame a giant dragonfly. tance, riders prefer to ride facing forward, looking Riding a giant dragonfly requires an exotic saddle. over the mountÆs shoulder. In battle, riders often find A giant dragonfly can fight while carrying a rider, but it easier to fight back-to-back with their mounts, the rider cannot also attack unless he or she succeeds essentially riding backward. on a Ride check.",
+        "name":  "Carrying Capacity",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Light 300 lb., medium 600 lb., Girallon heavy 900 lb. Though these creatures are savage in the wild, giral- lons captured young can make hearty mounts for Giant Firefly primitive tribespeople. However, riders must keep a Large Vermin tight rein on them, since it is impossible to train away",
+        "name":  "Carrying Capacity",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "4û6 HD (Large); 5û9 HD (Huge) can be trained normally. If its adoptee attempts the These vermin make excellent search and rescue crea- training, the Handle Animal check DC is 10. Attempt- tures. Their abdomens glow a soft yellow or green ing to train an unwilling gray render is tantamount to and shed light in a 10-foot radius. suicide. The beasts are unnaturally hard to train; even A common trick that riders direct giant fireflies to the rare baby, stolen from its parent, is savage and perform is ôLight.ö This keeps a fireflyÆs phosphores- recalcitrant. The training cost given below assumes cent abdomen lit indefinitely while the riders search that the gray render is not bonded to its trainer. for ground targets. Giant fireflies make poor combat- Carrying Capacity: Light 400 lb., medium 800 lb., ants, so their riders flee battle as soon as possible. A heavy 1,200 lb.; DC Young/Adult: 33/40; Young Price: giant firefly is 9 feet long. 6,000 gp; Training Cost:20,000 gp.",
+        "name":  "Advancement",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Light 228 lb., medium 459 lb., own idea. heavy 690 lb. From time to time, communities of Small folk have raised an ogre baby as one of their own. It Humanoid-Shaped Mounts grows up friendly to its adopted family and gladly Pushing the bounds of what could be called a mount, lets them ride piggyback, especially if it can roam some humanoid-shaped creatures can be ridden. with its friends. 91",
+        "name":  "Carrying Capacity",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "50,305 gp; Cost to Create: 25,305 gp + 2,000 XP. concealment (20% miss chance). Creatures farther",
+        "name":  "Price",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "3rd; Prerequisites: Forge Ring, misdirec- When a creature carries a rod of embassy keyed to tion;Market Price:7,000 gp. its home plane, it is considered to be on that plane",
+        "name":  "Caster Level",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "50,000 gp. Medium-size creature for purposes of the special size",
+        "name":  "Market Price",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "7th; Prerequisites:Craft Staff, contagion, doom, shatter, summon monster IV, Caster Level: 13th; Prerequisites: Craft Staff, daylight, creator must be evil; Market Price: 24,000 gp. This holy smite, searing light, sunbeam;Market Price:80,000 gp. price assumes the staff is made by a blackguard. Goblin Lord: This shabby-looking and gnarled",
+        "name":  "Caster Level",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1/2 lb. growth. Pixie Dust:This sparkling, silvery dust is created Bead of awakening Wearer can cast awaken. by several different fey but primarily used by pixies. Each special bead can be used only once, and then It comes in long, thin, silvery tubes. A single tubeÆs becomes forever inert. The power of a special bead is contents finely coat a 5-foot square, and any passage lost if removed from the necklace. through the area stirs up the dust for 1d6 rounds.",
+        "name":  "Bead of the great beast Wearer can cast animal Weight",
+        "source":  "arms_and_equipment_guide_vampiric.txt",
+        "_id":  "1618b87cf7efaf236bf8ab8aeb46322f2626b2f8571d2c59054302538b808a63"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "hp 4; see Monster Manual. 1) allows the caster to make a make a Listen check (DC 0, +1 per 10 feet from the dHawk:hp 8; see Monster Manual. brief and reasonable request of listener). If they succeed, read the following text. dRat:hp 2; see Monster Manual. affected creatures, which might dSnake, Tiny Viper: hp 2; see include “return to your cages.” Sleep(Brd 1, Rgr 2, Sor/Wiz Monster Manual. From down the corridor, you hear a young man 1) solves the problem by",
+        "name":  "As the characters approach this area, have them dCat",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A character can make an On the other side of this room, some straggly ever- unarmed attack at his normal melee attack bonus. green plants grow out of irregular heaps of earth. This provokes an attack of opportunity from the They surround what appears to be a small tunnel creature attacked. An unarmed attack automatically opening only a few feet in diameter. A few coins deals subdual damage. glitter among the dirt and weeds. A small dragon “Armed” Unarmed Attacks: Some characters covered in green-black scales sits in the opening. trained to attack unarmed, such as monks, are consid- Upon seeing you, it hisses. ered armed; thus, they do not provoke an attack of Open cages A Familiar opportunity when they strike. They may choose to Viper under table Situation deal subdual damage with their regular attack rolls. The partially collapsed tunnel network was created",
+        "name":  "Unarmed Attacks",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Elder Mayhew Narnottle Nook Garrick, male svirfneblin Clr1; Elder Mardnab Duvamil Springnoth Fletchmip, female svirfneblin Ftr1; Elder Jebeddo Geerch “Flatshoe” Schapper, male svirfneblin Rog1; Elder Tuntulla Portsack 11 Gelflim, female svirfneblin Exp4. 620_88168 Bk of Challenge2d.qxd 4/18/02 10:35 AM Page 12 ENCOUNTER (EL 2) check (DC 13) locates a second set of similar tracks stands over his insensate body, protecting him from that joins the first. These lead another quarter-mile anyone who comes near. to a small cave. EL 5:The female krenshar has led the male back Without the Track feat, a Search check (DC 13) to her pride. Instead of two krenshars in the cave, can find the trail, but can’t follow the tracks. This there are six adult krenshars and two noncombatant means that each time the tunnel forks, the charac- cubs. Only one of the adults begins as indifferent to ters must find the trail again (Search DC 13) or the PCs; the rest are unfriendly. guess randomly which direction to go. Roll 1d4+1 to determine the number of times the character must TEMPLE OF DRAXION (EL 2) make this check. The Temple of Draxion features a selection of fairly Krenshar Lair weak monsters in good defensive positions. To do The round cave is about 20 feet in diameter and has a well, the PCs must develop a plan of attack and stick 10-foot-high ceiling. to it, even as circumstances change. The defenders in",
+        "name":  "Authority Figures",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The two krenshars are curled up (but the encounter try to deceive the PCs. Groups willing not asleep) at the far end of the cave. Allow each one a to accept anything the DM says at face value might Listen check (DC 10, +1 per 10 feet of distance) to flee or possibly surrender without a fight. hear the PCs approaching. If the PCs are sneaking, The area depicted in this encounter was once part this Listen check is instead opposed by the worst of a hidden temple of Erythnul. Most of the complex Move Silently check result among the PCs. has collapsed, but two aspiring human brigands, dKrenshars (2):hp 12, 11; see Monster Manual. Creigh and Keir, have made it their headquarters.",
+        "name":  "Creatures",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Due to their defensive Small drips of water run off its rounded edge. Min- positions and strategic advantages, award 125% of the eral deposits have formed on the underside, making normal XP for the creatures defeated here. little stalactites that hang like half-melted icicles. Another iron staircase leads from the balcony edge 5. Cells down to the main floor. These chambers once served as living quarters for The ceiling is severely cambered, with a peak the temple priests. Each cell contains an old bed nearly 55 feet high. Along the walls are eight small (recently repaired), a table, and a few supplies like stone balconies, each about 5 feet across. Goblins hide the ones in area 4. on four of these balconies (see Creatures, below). A Spot check (DC 16, +1 per 10 feet of distance) allows a Scaling the Challenge character to notice a goblin’s presence. EL 1: Eliminate Keir and reduce the number of The Fighting Pit kobolds to three. EL 3:Make Creigh a 1st-level rogue and Keir a 1st- A funnel-shaped stone pit has been carved in the level fighter. Increase the number of kobolds to six. center of the chamber floor. The 15-foot-deep pit Increase the damage caused by the flame projector to is 20 feet wide at the top, but slopes inward to an 2d6 (this doubles the quantity of alchemist’s fire area about half as wide at the bottom. Streams of required to fill it). 15 rusty water work their way from the base of the 620_88168 Bk of Challenge2d.qxd 4/18/02 10:36 AM Page 16 ENCOUNTER (EL 3) BBuuggbbeeaarr PPiitt FFiigghhtt BB SSiiddee VViieeww TToopp VViieeww BB3300fftt.. BB3300fftt.. BB BB BB2200fftt.. BB BB BB BB4400fftt.. BB BB 5500ffttBB.. BB 4400fftt.. BB3300fftt.. 1100fftt.. BB2200fftt.. TToo ccaavveerrnnss 55 SSccaallee iinn FFeeeett BB==BBaallccoonnyy 22..55 dGoblins (4): hp 4 each; see Monster Manual. Each staircase to the pit, making several areas of the goblin has a bundle of 10 javelins and carries two floor quite wet. flasks of alchemist’s fire. Inset around the pit are fifteen bent and corroded",
+        "name":  "Ad Hoc XP Adjustment",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "If the PCs have set up the fight in ple to get a PC into the pit. He is cunning enough to advance,Jeeshank stands alone near the pit to beckon hide under the balcony if faced by overwhelming any characters who want to fight him. Otherwise, he odds, using it as cover against the PCs. He isn’t averse waits under the balcony by the stairs, out of sight of to escaping through the door, ordering the goblins to the PCs. Regardless of Jeeshank’s position, four gob- bar the door behind him. 16 lins lurk in the shadowy balconies above. The slick floor, both on the main level and in the",
+        "name":  "Creatures",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Jeeshank is a dangerous foe—a bridge spanning a 20-foot-wide chasm. Twenty monster clever enough to run away when the tide feet below, a river rushes along. turns against him and stubborn enough to want revenge. In a campaign setting, the DM can use this encounter as a springboard for further adven- Characters with sufficient light or an appropriate tures, making Jeeshank a recurring villain who visual ability can also see a cave mouth at the far gains levels at the same rate the heroes do. (Jee- side of the chasm (the lair of the denizens of this shank usually adds levels of fighter or barbarian, cavern) and may spot an orc hiding by the bridge but he might throw in a level or two of rogue just (see below). for good measure.) A character who inspects the rope bridge may dis-",
+        "name":  "Development",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You can allow characters to make Intelligence checks to represent their ability to solve the puzzle (as opposed to the players’ ability). A DC 10 check allows a character to realize that the image simply rotates around a central axis. A DC 15 check means that the character recognizes that a pattern is involved, but can’t isolate the pattern. A DC 20 check lets the char- Characters can enter easily, but they can leave acter recognize that each image rotates the same through the entrance only if they know the solu- number of degrees (or faces) in each iteration. tion to the puzzle locks. The DM should be ready to Don’t fall back on giving out hints too quickly. handle an encounter with many Tiny creatures Make the players work at the puzzle for at least a little because the froglings are numerous. while before relying on this method. When the characters enter the area, read the fol- The Solution: The missing tiles function as keys lowing text. for the sliding bolts in the doors. Inserting all four tiles in the proper orientation unlocks the door with an audible “CLUNK.” Once unlocked, the door The walls of this large chamber are made from remains unlocked until it is opened, after which it smooth, large bricks seamlessly mortared together. closes again under its own weight and relocks. The floor and ceiling have been carved from nat- The proper orientation for each of the additional ural stone, presenting no major obstacles. The tiles can be determined by trial and error, though that only source of light comes from a green marble would take a long time. Since each tile has eight pool in the center of the floor. It holds cloudy potential orientations, this means there are 4,096 dif- water, which moves just enough that the light ferent combinations to the puzzle. Assuming that a flickers and dances on the walls and ceiling. The character could try one orientation per round, the light reflects off the marble, giving the room an PCs could expect to spend anywhere from 3–6 hours eerie green tint. (roll 1d4+2 to randomly determine this) removing Large iron doors, each with a large, sliding and inserting the tiles. In addition, this exerts wear iron handle, are set in each of the room’s four and tear on the puzzle pieces. For every 30 minutes walls. In the center of each door rests an inset spent on a puzzle, the character operating it must frame filled with odd symbols. Next to each door make a Dexterity check (DC 10) or damage one of the is a small pedestal. pieces, rendering it unusable. (You can grant a charac- ter a +2 competence bonus if he has 5 or more ranks A few rounds after the characters enter, the door in Concentration or Disable Device.) The characters behind them swings shut under its own weight and may substitute pieces from another pedestal (each set locks automatically. A Reflex save (DC 15) allows a of pieces is identical), but note that the tiles already in 19 character adjacent to the door to catch it before it the frame aren’t removable. 620_88168 Bk of Challenge2d.qxd 4/18/02 10:37 AM Page 20 ENCOUNTER (EL 3) Characters can also determine the proper orien- silently from the pool, generated by a one-way gate tation by discovering the pattern of orientation of from the Elemental Plane of Water at the bottom of the other four tiles of the same type. In each case, the the pool. An additional 2d6 froglings rise from the image “rotates” through a number of the faces of the pool every 1d3 rounds until no other living charac- octagon equal to the number of letters in the name of ters remain in the room. the image each time it appears. For instance, the first dFroglings (infinite): CR 1/10; Tiny elemental (top) fish tile faces to the right (or, if you assume that (water); HD 1/4d8; hp 1; Init +0; Spd 10 ft.; AC 12 north is up, to the east). The second fish tile has (touch 12, flat-footed 12); Atk +0 melee (1d4–2, rotated four faces and now faces left (or west). The Small shortspear); SQ Poison gas; AL N; SV Fort +2, third fish tile rotates another four faces and again Ref +0, Will –2; Str 7, Dex 10, Con 11, Int 4, Wis 6, faces right, while the fourth fish tile rotates another Cha 1. four faces and again faces left. Thus, the fifth fish tile Skills and Feats:Listen +2, Spot +2; Dodge. should be placed so that the fish faces right. The lob- Poison Gas (Ex): A slain frogling disintegrates ster rotates seven faces in each iteration (north, with an audible “pop,” releasing a 5-foot-by-5-foot northwest, west, southwest, and finally south). The puff of toxic gas that fills the space in which the whale rotates five faces in each iteration (east, north- frogling was killed; the gas lingers for 5 rounds. Any west, south, northeast, and finally west). The eel character in that space must make a Fortitude save rotates three faces in each iteration (east, southwest, (DC 10) or take 1 point of Constitution damage. For north, southeast, and finally west). every five clouds in the same space, the character Finally, a character may use Disable Device to “cir- suffers a –2 circumstance penalty on this save. The cumvent” a single tile slot. This requires 2d4 rounds poison has no secondary effect; thus, no second of work and a successful Disable Device check (DC saving throw is necessary. 25) per tile slot. This may prove useful if the PCs lose Tactics: The froglings swarm over any characters patience or damage the tiles. in the room. Note that their Tiny size means they",
+        "name":  "Hints",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "hp 53; see Monster Manual.",
+        "name":  "DMimic",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This mimic, disguised as a plain panel of the wall holds a large mirror. Each mirror is about wood, sits in a small 5-foot-by-5-foot, 10-foot-deep 2 feet by 4 feet, and the framing on each side is at alcove. It’s set in the wall just in front of a standard pit least 2 feet wide. Hundreds of tiny gems reflecting trap. The mimic has no real riddle. It’s just a ruse to pinpoints of light stud the frames. Since the mir- get a character to approach the mimic and fall in the rors are directly across from each other, they pit. A Sense Motive check (DC 12, including a +2 appear to create an endless series of reflections modifier to the DC based on the lack of body lan- stretching on and on into eternity. The gems, guage displayed) allows a suspicious PC to determine reflected thousands upon thousands of times, that the voice may be concealing something. seem more numerous and beautiful than the stars",
+        "name":  "Creature",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "hp 53; see Monster Manual. in the heavens.",
+        "name":  "DMimic",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "900 gp. The untamed hedge maze surrounding you is a riot of growth and decay. Cissus ivy grows thick Scaling the Challenge. and tangled on trellises overhead. Although the EL 4:Reduce the number of duergar to 2. walls around you were once meticulously EL 6: Add a glyph of warding to the secret door, trimmed, years of neglect have given them a keyed to deliver a powerful shock when any non- shaggy appearance. Leaves blur into an organic dwarf opens the door. You could rule that a drip- tapestry stained the color of crushed grapes. No ping wet character might suffer a –2 circumstance sign of the support structure for the walls is penalty on the Reflex save for half damage due to visible, and their tops are at least 10 feet high. his extra conductivity. aGlyph of Warding: CR 4; 5d8 electricity; Reflex DC 14 half; Search DC 28; Disable Device DC28. The walls of the maze are 5 feet thick and 10 feet EL 7: Make each of the duergar a 2nd-level fighter. high. Someone originally built the trellises in a scaf- fold, with layers set up to allow the ivy to grow across 27 as well as up. Each 5-foot-long section of trellis has 620_88168 Bk of Challenge2d.qxd 4/18/02 10:38 AM Page 28 ENCOUNTER (EL 5) DDiissppllaacceerr BBeeaasstt MMaazzee SSeeccrreett ppaassssaaggee SSccaallee iinn FFeeeett 55 22..55 hardness 5 and 20 hit points. A character trying to Tactics: The displacer beast is quite familiar break through with sudden force must succeed at a with the layout, including the locations of all the Strength check (DC 18). Creatures attacking from the thin spots in the maze walls. It cannot get lost or other side of the trellis have one-half cover (+4 cover confused within the maze. In fact, the nature of bonus to AC, +2 cover bonus on Reflex save) and one- the maze works to the creature’s advantage. It half concealment (20% miss chance). Spot checks to prefers to stalk characters from hiding, walking notice something on the other side of a trellis suffer a parallel to them on the opposite side of a trellis –4 circumstance penalty. (Spot DC 27 to notice it from the other side). If Climbing to the top of a trellis requires a Climb possible, it targets a lone character or one toward check (DC 15). Any given section of trellis can sup- the back of a group. port about 500 pounds. Walking atop a trellis The displacer beast’s tentacles can attack through requires a Balance check (DC 10). A character bal- the trellis (thanks to its 15-foot reach), though it suf- ancing on a trellis loses his Dexterity bonus to AC fers the penalties for cover and concealment noted (unless he has 5 or more ranks in Balance), while above. It uses hit-and-run techniques, focusing on an any attacks made against him gain a +2 bonus. If a individual character if possible. character takes damage while on a trellis, he must Note that the displacer beast’s natural conceal- make another Balance check to avoid falling. ment and the concealment afforded by the trellis In addition, there are a number of “thin spots” in do not stack. Use the highest bonus and greatest the trellis where the framework has broken, provid- miss chance. ing passage through the “wall” of the maze. Finding Treasure: The displacer beast wears an old such a location requires a Search check (DC 15); leather collar studded with 10 tiny sapphires (worth squeezing through requires an Escape Artist check 150 gp each). (DC 12). Ad Hoc XP Adjustment: The unique nature of",
+        "name":  "Price",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A displacer beast now roams the hedge this maze, and the displacer beast’s ability to use its 28 maze, having mastered its twists and turns. environment to its advantage, make this encounter",
+        "name":  "Creatures",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "hp 54; see Monster Manual. worth more than the standard amount of XP. Award 620_88168 Bk of Challenge2d.qxd 4/18/02 10:38 AM Page 29 ENCOUNTER (EL 5) 150% of the normal XP reward to PCs who defeat the aPit Trap (20 ft. deep):CR 1; no attack roll nec- displacer beast here. essary (2d6); Reflex DC 20 avoids; Search DC 20; Dis- able Device DC 20. Scaling the Challenge EL 3: Change the displacer beast to a leopard. Sticky Pit Trap (EL 5) Rather than using reach attacks, the leopard uses its Placing a gelatinous cube at the top or bottom of a pit Balance skill to walk atop the trellis and pounce from is easy. Balancing one on a ledge partway down the Displacer above. A second leopard creates an EL 5 encounter. shaft is just plain nasty. EL 7: Add a second displacer beast to the maze. Trap:Place this 30-foot-deep pit in any dungeon. A Beast This allows the beasts to use flanking against the PCs. character who falls into the pit drops a mere 10 feet Consider putting a 15-foot-high ceiling on the maze before plunging into (and through) a gelatinous cube to prevent easy use of flight or levitation that would (see Creature, below). Thus, the character takes only Maze defeat the concealing nature of the encounter. 1d6 points of falling damage, all from the second half EL 9:Add three displacer beasts to the maze. of the fall. aPit Trap (30 ft. deep):CR 2; no attack roll nec- essary (1d6 plus paralysis plus 1d6 acid); Reflex DC TROUBLE CUBED (EL 5) 20 avoids; Search DC 20; Disable Device DC 20. Secret passage",
+        "name":  "DDisplacer Beast",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A 1-foot-wide ledge constructed 10 pit traps. A normal encounter with one oozing down feet from the bottom of the shaft allows the massive a dungeon hallway can be trouble for a low-level gelatinous cube to balance midway down the pit. party. Using these creatures in conjunction with traps Any creature who falls into the pit automatically makes them just as useful against high-level charac- plunges into and through the cube, taking 1d6 ters. Several short encounters with gelatinous cubes points of acid damage. In addition, the target must Scale in Feet 5 are featured below. The DM can insert these encoun- make a successful Fortitude save (DC 16) or be para- ters into any adventure with very little preparation— lyzed for 3d6 rounds. 2.5 any stretch of corridor will do. DGelatinous Cube:hp 58; see Monster Manual.",
+        "name":  "Gelatinous cubes make great additions to common Creature",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "hp 58; see Monster Manual. Dungeon Master can expand on those encounters,",
+        "name":  "DGelatinous Cube",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Unfortunately for the PCs, the chest sits on metal cubes in this area should slow down the char- a pressure plate that resets all the traps in the spiral. acters, but the blink dogs living within them can If the chest is moved, or if more than 1 pound (50 travel ethereally in any direction they choose. coins) of weight is removed from or added to the The blink dogs’ motivations in this encounter chest while it sits here, the traps in areas 1 through could be a challenge for the DM, so consult the When 11 reset. Allow each character a Listen check (DC Good Battles Good sidebar for general suggestions on 15) to hear whirring and clicking sounds from the running good-aligned monsters against good-aligned passage behind them. Those still in the passage may characters for ideas. This blink dog encounter could even see (Spot DC 15) one or more mechanical also be combined with the displacer beasts of the Dis- traps resetting. placer Beast Maze. Perhaps the two groups war over The characters have exactly 2 rounds to act before the territory between their lairs. Perhaps they’re both all the traps are reset. This may allow some PCs to on the property of a wealthy eccentric who keeps move past some of the trigger areas, but it’s entirely exotic beasts in natural zoolike settings. Or maybe possible that confused PCs may remain exactly they’re both in an elaborate trap set up by a evil where they are until it’s too late. wizard or ranger. aReset Trap:CR 1; special (resets all traps in this If you decide to combine the two encounters, moti- area after a 2-round delay); Search DC 30; Disable vations may be easier to decide; the blink dogs do not Device DC 30. speak or understand any language other than their",
+        "name":  "Trap",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A clutch of five shocker lizards has feet of each other, so all the lizards can contribute taken up residence in this chamber, which serves as a to a shock without moving. A shock from the whole nearly perfect lair for them. clutch deals 10d8 points of electrical damage in a dShocker Lizards (5): hp 15, 15, 14, 13, 13; see 25-foot radius; the burst can be centered on any one Monster Manual. contributing lizard. A Reflex save (DC 15) reduces",
+        "name":  "Creatures",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Two rounds after the PCs enter, the influence of the ravid located at area 1 animates the unattached wall north of the door, turning it into a Large animated object. CC BB dAnimated Wall: Large animated object; hp 22; BB Atk +5 melee (1d8+4, slam); SQ Hardness 8; see AA Monster Manual. DD",
+        "name":  "Creature",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Three mephits—a fire mephit, magma contact with the lava pool. The fire mephit requires a mephit, and steam mephit—lair at the top of the torch-sized flame to activate its fast healing, while 44 pyramid. The mephits think of themselves as the the steam mephit gains fast healing in any hot, supreme overlords of the chamber and the masters of humid area (such as this chamber, if the PCs have all they survey. They don’t take kindly to adventurers mixed water with lava using the levers). 620_88168 Bk of Challenge2d.qxd 4/18/02 10:41 AM Page 45 ENCOUNTER (EL 7)",
+        "name":  "Creatures",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "In the absence of morality A hungry carrion crawler waits at the point marked and law, a verbal promise is worth the paper it’s printed CC. Only a character right at the edge of the chasm, 620_88168 Bk of Challenge2d.qxd 4/18/02 10:42 AM Page 50 ENCOUNTER (EL 8) DDrrooppppiinngg LLiikkee aa SSttoonnee GG GG GG OOvveerrhheeaadd VViieeww SSiiddee VViieeww --55oo FFtt.. CCCC 55 SSccaallee iinn FFeeeett SSccaallee iinn FFeeeett 2200 22..55 1100 or aloft above it, can easily notice the creature (Spot The gargoyles attempt to grapple and pin any DC 10, +1 per 10 feet of distance), and only then if he flying or levitating characters. This provokes attacks has sufficient light or specialized vision to see it of opportunity (again, unless the characters are flat- nearly 60 feet below. Because of the overhang of the footed). Once a gargoyle has pinned a character, it edge of the chasm (as shown on the map), the carrion uses its remaining natural attacks to inflict damage. crawler has one-half cover. If a gargoyle renders a character unconscious, it dGargoyles (3): hp 40, 39, 38; see Monster Manual. drops the character into the chasm. dCarrion Crawler: hp 24; see Monster Manual. If a character lands nearby, the carrion crawler",
+        "name":  "The Empty Promise",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Each of the seven lich spaces depicts a fight entirely. creature with two red eyes. In six of those spaces, the eyes are, in fact, two 100-gp red spinel gems. In the A pair of great bronze doors some 15 feet high and seventh (the most centrally located lich), one eye is a nearly 10 feet wide stands before you. The aged red spinel and the other is a dusty rose prism ioun metal has a blue-green sheen. The doors’ bas relief stone. These baubles are not affected by the lich glyph’s surfaces depict a gruesome scene of people being flame strike. A successful Search check (DC 20) is nec- devoured by dragons, giants, demons, gargantuan essary to find any one pair of gems, but once a PC serpents, and other horrific monsters. Cartouches knows that the lich eyes should be gems, she doesn’t in the middle of each door bear several inscrip- need to make this check for other lich tiles. tions. The doors stand slightly ajar.",
+        "name":  "Treasure",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Each glyph has been given a separate CR, so you should award XP for each glyph dealt with (either via disabling it or by The cartouches bear the words “Do Not Enter” in suffering the glyph’s effect). If the characters come Common, Elven, Dwarven, Celestial, and Infernal. A 54 up with some method of bypassing the mosaic with- Knowledge (religion) or bardic knowledge check out encountering the glyphs, award them XP as if (DC 15) reveals that the doors show scenes of the they had defeated a CR 8 encounter. punishment or judgment of the dead from many 620_88168 Bk of Challenge2d.qxd 4/18/02 10:43 AM Page 55 ENCOUNTER (EL 9) AA LLiigghhtt iinn tthhee DDaarrkk the light, you can see that several of the cages have intact bodies in them. It may be your imag- ination, but you could swear that one of the bodies just moved. AA This chamber is the entrance to a mortuary com- plex. It contains an elaborate trap to discourage looters. The trap has failed Dealing with the SSttaattuueess SSiiddee VViieeww several times, so the area has been Cage Trap plundered and destroyed. The trap still CCaaggeess The player characters have works, however, and the area is a pow- numerous possible solutions erful draw to curious (or greedy) dun- for dealing with the trap. geon explorers. Two will-o-wisps (see • Each of the squares marked Creatures) lair here and attack anyone with “T” contains a plate attempting to disable the trap or free that is highly sensitive to air TT TT its victims. pressure. A successful Dis- AA TT TT BB The room’s vaulted ceiling is 40 feet able Device check (DC 30) high in the center and 20 feet high TT TT disables one trigger. near the walls. The walls are masonry • A flying or climbing PC can and covered with damaged plaster get on top of the support (Climb DC 20). The network of beams beams to access the trap PPllaann VViieeww overhead supports the ceiling and con- SSccaallee iinn FFeeeett 55 mechanism. A single Dis- ceals the mechanism for the trap that able Device check (DC 30) guards this chamber. 22..55 shuts down the whole trap.",
+        "name":  "Ad Hoc XP Adjustment",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Any character can hold his breath for a number of rounds equal to twice his Constitution score. After this time, the character must make a Constitution check (DC 10) each round to continue holding his breath. Each round, the DC increases by 1. When the character fails his Constitution check, he begins to drown. In the first round, he falls unconscious (0 hp). In the following round, he drops to –1 hit points and is dying. In the third round, he drowns. Vigorous activity, such as fighting, exhausts the held breath more quickly. Each round of vigorous activity counts as 2 rounds of held breath. PATH OF DECEIT (EL 10) Tracking is usually advantageous for a party. Occasion- ally, however, it can lead to deadly misperceptions. This encounter can occur in any cavern large enough for spider eaters to move around. Choose an area at least 100 feet across with a 40-foot-high ceil- ing. The maps for Tangled Webs or Riddles and Prizes would be appropriate. The characters begin in a wide passage leading to the encounter area. dAranea: hp 2 (out of 19); see Monster Manual.",
+        "name":  "Holding Your Breath",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Two shambling mounds lie in wait victim to filth fever (Fort DC 12; Incubation 1d3 inside the chamber, waiting for prey to happen by. days; 1d3 Dex, 1d3 Con). Once at the bottom, the dShambling Mounds (2): hp 60 each; see character can try to swim to the surface (Swim DC Monster Manual. 10) or climb up the sides (Climb DC 20). Any char-",
+        "name":  "Creatures",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The 7-foot-by-15-foot mirror is inlaid and weighing many tons. The huge, stonelike with brass and has silvered glass. It is worth 250 gp. creature is battling an even taller gray beast com-",
+        "name":  "Treasure",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Advanced female elder xorn; Ad Hoc XP Adjustment:If the PCs take the side hit points (20d10), a decent CR 10; Huge outsider; HD 30d8+120; hp of one of the monsters, treat it as a member of the attack bonus (as cleric), and 186 (out of normal total of 255); Init +0; party for purposes of dividing XP (that is, the mon- two good saves, making it sig- Spd 20 ft., burrow 20 ft.; AC 21, touch 8, ster gets an equal share of the XP awarded for nificantly tougher. The low flat-footed 21; Atk +35 melee (8d6+7, bite) defeating its enemy). number of skill points doesn’t and +33 melee (1d8+3, 3 claws); Face/Reach If the PCs take on both monsters, award the PCs only matter to the render. Looking 15 ft. by 15 ft./10 ft.; SA Burrow; SQ Out- 75% of the normal XP for either of these monsters at the finished monster, it sider traits, xorn qualities; AL N; SV Fort (since each has only about 75% of its hit points remain- seems to merit a CR 3 in- +21, Ref +19, Will +19; Str 25, Dex 10, Con ing). You can reduce this by a larger amount if the PCs crease, so it’s now CR 11. 19, Int 10, Wis 11, Cha 10. wait longer before getting involved—the longer they",
+        "name":  "DXflox",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The chamber is dotted with 25-foot-deep encounters are given in their recommended order, patches of quicksand (the irregular gray areas on the beginning with the delver. Usually, only one predator map) formed by springs in the old riverbed. A layer of or group of predators is present at any given time, but dry sand covers each quicksand pit, making it diffi- all of them are smart enough to know the value of cult to detect. A successful Reflex save indicates that a cooperation (at least temporary cooperation). You can character has avoided falling into the quicksand. combine two or more of these encounters into a A character who falls into quicksand can remain single, larger encounter. afloat with a Swim check (DC 15) or escape with two Ad Hoc XP Adjustment: Rather than awarding consecutive successful Escape Artist or Strength XP for individual quicksand patches or delver pits checks (DC 20). Each check requires a full-round (small rewards for the high-level characters tackling action. Two consecutive failed checks mean the char- these encounters), you might simply apply a flat 25% acter sinks below the surface. If he cannot hold his bonus to XP for monsters defeated in this chamber. breath, he begins to drown. A character under the surface must make two consecutive successful Escape Artist or Swim checks to regain the surface. Each round spent stuck in quicksand after the first adds +1 to the DC of checks made to remain afloat, escape, or JJuusstt PPaassssiinngg TThhrroouugghh regain the surface. A character on solid footing can toss a rope to a companion stuck in quicksand and haul him or her out with a successful Strength check (DC 20). aQuicksand Pit: CR 6; no damage; Reflex DC 20 avoids; Search DC 25. 44 4a 33",
+        "name":  "Trap",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A Huge delver living in this vicinity has cre- 33 ated several areas where it can ambush its prey. Its tunnels are meant to give it easy access to the cham- ber, but they also pose a danger to creatures walking past them. The delver has tunneled through the old 11 riverbed toward the surface, selecting areas where the sand is the thinnest. It left thin layers of stone cover- 22 ing the tunnel openings. Creatures weighing less 33 33 than 100 pounds can walk right over such a cover, but a higher weight breaks it, dumping the victim into the delver’s subterranean tunnel 20 feet below. Six inches of sand lies over the covers, making the pits very difficult to detect. Because the covers simply break away, there’s no way to disable the pits, though SSccaallee iinn FFeeeett 1100 parties could mark them or bridge them somehow. 83 Characters who break through a pit cover have 55 access to the delver’s tunnels, as shown on the 620_88168 Bk of Challenge2d.qxd 4/18/02 10:48 AM Page 84 ENCOUNTER (EL 12) This award reflects both the added danger of the hazardous environment and the various monsters’ ability to use the environment to their advantage. 1. Huge Delver (EL 12)",
+        "name":  "Trap",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A particularly large and ferocious delver in these tunnels craves metal. The delver has become unhinged and violent in its quest for materials to con- sume. It has carefully prepared several places where it can ambush prey. dDelver, Advanced:CR 11; Huge aberration; HD 30d8+180; hp 319; Init +6; Spd. 30 ft., burrow 10 ft.; AC 15, touch 10, flat-footed 13; Atk +29 melee (1d6+9, 2 slams); Face/Reach 10 ft. by 20 ft./10 ft.; SA Corrosive slime (Fort DC 36); SQ Acid immunity, darkvision 60 ft., stone shape, tremorsense 60 ft.; AL N; SV Fort +18, Ref +14, Will +21; Str 29, Dex 15, Con 23, Int 14, Wis 14, Cha 12.",
+        "name":  "Creature",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "If the party agrees to accept a payment fewer hit points each. from the healed delver, it returns in a week with several chunks of uncut emeralds. In their natural 3. A Pack of Destrachans (EL 13) state, these crystals are worth 1,000 gp. A gemcutter Destrachans are always alert for an advantage over can work with the material to produce gems worth a their prey, and they might even use other creatures total of 10,000 gp (Craft [gemcutting] DC 20). to help them accomplish their goals. The destra- If the party gets greedy and asks if there’s more chans are not too fond of each other, and they’re not where that came from, the delver responds, “There inclined to ally with other creatures, but they may was a lot, but I ate the rest. Don’t worry, you have still consent to share any spoils they gain by team- enough for a great meal right there.” It doesn’t take ing up with either the spectres in the last encounter kindly to further demands for money and retreats if or the marilith in the next encounter. The destra- the party gets pushy. chans speak Common and Undercommon. It’s even possible they could reach an agreement with the 2. A Gang of Spectres (EL 12) delver, since they have no desire for the metal that The quicksand and delver tunnels in this chamber creature craves. may also attract a gang of spectres, who hope the Creatures:A pack of five destrachans has settled in place can provide some good hunting. Groups who this chamber. return here after dealing with the last encounter dDestrachans (5): hp 68, 61, 60, 59, 52 see might find the spectres a nasty surprise. Monster Manual.",
+        "name":  "Treasure",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The destrachans wait in the far corners of Infernal. However, they despise living creatures, so the chamber, where they can collectively monitor all negotiating with them is usually not an option. They the entrances. One destrachan waits at each location aren’t likely to ally with other monsters, but they marked with a “3” except the one in the northeast part might take advantage of the delver’s ambushes to of the map, where two wait. Since their blindsight abil- catch their own prey off-guard, since they would ity allows them to sense creatures up to 100 feet away, rather prey on the PCs than on the delver. at least two destrachans can “watch” each entrance.",
+        "name":  "The spectres speak Common, Undercommon, and Tactics",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Approximately 5d10 NPCs or other in Entertainment at the Casino, below. intelligent creatures might be in the casino at any time. Treasure: The casino’s cash content on any given These might include goblins, kobolds, gnolls, bug- night is at least 4,000 gp and 10 gems averaging 100 gp bears, drow, wererats, and even an occasional minotaur in value. By the time the casino folds its tent, 1d6+4×10 or yuan-ti. Avoid creatures above CR 8, because such percent of that amount is in Mirv’s bag of holding. patrons could pose a threat to the proprietors. Ad Hoc XP Adjustment:Assuming the PCs don’t Said proprietors include Euryxantha, a disguised throw down, you can award roleplaying or challenge- medusa bouncer; Hypothalo, a mind flayer bartender; based XP awards at your discretion. For instance, and Mirv, an ogre mage security guard. These three defeating Mirv in an arm-wrestling contest might move the casino frequently, touching down long well be worth some XP, though clearly fewer than enough to make a tidy profit off the locals and then simply facing her in combat would bring (perhaps vanishing into the mists. Word spreads of the casino one-quarter the normal amount). before it opens, so that underearth denizens stand in line waiting for the games to begin. Entertainment at the Casino",
+        "name":  "Creatures",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Female medusa; hp 37; see Monster The casino stays open for about 12 hours at a time, or Manual. until the owners think they have squeezed all they",
+        "name":  "DEuryxantha",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Hat of disguise. Good as the food is, the main attractions are the dHypothalo: Male mind flayer;hp 45; see Monster games of chance. Three are provided, though the DM Manual. is encouraged to make up more. In keeping with the",
+        "name":  "Possessions",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Immune to mind-affecting effects, as well as their fiendish abilities, for their im- death effects, necromantic effects, poison, sleep, proved HD. 94 paralysis, stunning, and disease. Not subject to critical EL 15:As EL 14, but give each of the vampires two hits, subdual damage, ability damage, ability drain, additional levels in blackguard. energy drain, or death from massive damage. 620_88168 Bk of Challenge2d.qxd 4/18/02 10:50 AM Page 95 ENCOUNTER (EL 13) The Dark Hunt Summary Page Creature Valencia Valencia’s Falessel Falessel’s Winter Winter Winter Winter Nightmare Nightmare Wolf 1 Wolf 2 Wolf 3 Wolf 4 Init (Result) +3 (_____) +6 (_____) +9 (_____) +6 (_____) +5 (_____) +5 (_____) +5 (_____) +5 (_____) AC / Touch / 27/11/25 24/11/22* 20/15/16 24/11/22* 15/10/14 15/10/14 15/10/14 15/10/14 Flat-Footed * Once per round, when a nightmare is hit in combat, the rider may make a Ride check to negate the hit (DC = attack roll +1). Hit Points 67 60 47 43 54 52 50 48 DR 15/+1 —- 15/+1 —- 5/+1 5/+1 5/+1 5/+1 Resistances Cold 20 —- Cold 20 —- Cold immunity Elec 20 Elec 20 Fire 10 (but double damage except on successful save) Fire 5 (resist elements)",
+        "name":  "Undead Traits",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Two ropers lurk behind the illusory walls, one on each side of the passage. Since they know of the illusion, they can see creatures walk- The adamantine box is locked. ing along the passage. A successful Listen check sAdamantine Box: Hardness 20; hp 40; AC 8; allows them some warning of the PCs’ approach. break DC 28; Open Lock DC 40. dRopers (2):hp 90, 80; see Monster Manual. Traps: Several traps scattered through the room",
+        "name":  "Creatures",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Glyphs of warding cover the floor behind The characters can disable each of these traps sepa- both walls. The glyphs activate when someone moves rately at the points noted on the map. Alternatively, 96 across them. Their electrical blasts are harmless to the they can disable the trigger on the dais (Search DC ropers but potentially deadly to the characters. 35, Disable Device DC 35). 620_88168 Bk of Challenge2d.qxd 4/18/02 10:50 AM Page 97 ENCOUNTER (EL 14) Immediately after a character trips the trigger, a poisoned arrow shoots across the room from each point marked A, while a Melf’s acid arrow shoots SSaaffee aanndd SSoouunndd from each point marked M, potentially striking a character standing in its path. A scythe coated in deathblade poison swings out from the point marked S, attacking any character in the adjacent square. At the same time, a 10-foot-long section of the corridor leading into the room fills with ss whirling blades, much like a small blade barrier; this MM AA effect remains in place for 110 minutes. AA MM aPoisoned Arrow Trap (4): CR 6; +14 ranged (1d8 plus wyvern poison); Search DC 20; Disable MM AA Device DC 20. Wyvern poison: Fort DC 17; 1d6 AA MM Con/1d6 Con. aMelf’s Acid ArrowTrap (4): CR 5; +9 ranged touch (2d4 acid per round for 7 rounds); Search DC 27; Dis- able Device DC 27. aDeathblade Scythe:CR 8; +16 melee (2d4+8/×3 plus deathblade poison); Search DC 24; Disable Device DC 21. Deathblade poison: Fort DC 20; 1d6 Con/2d6 Con. aBlade Barrier Trap: CR 7; no attack roll neces- 55 SSccaallee iinn FFeeeett sary (11d6); Reflex DC 19 avoids; Search DC 31; Dis- able Device DC 31. Note:A successful save places the 22..55 character outside the effect, which may be just inside the room. One round later, the 10-foot-wide-by-10-foot-deep Three rounds after the trigger activates, walls of force shaded section of ceiling just inside the entrance surround the raised altar (the windowless cell version slams down to the floor, while the walls of the of forcecage) and a summoned hamatula appears inside center 10-foot-by-10-foot shaded section of room for 13 rounds. The forcecage remains for 26 hours, slam together. The walls retract immediately after which means that any characters inside are likely to crashing together, though the ceiling remains down run out of air before it disappears (see Suffocation in for 48 hours or until the trap is disabled. Chapter 3 of the DUNGEONMASTER’s Guide). aCrushing Ceiling: CR 8; no attack roll neces- aForcecage and Summon Monster VIITrap: CR 10; sary (16d6); Reflex DC 20 avoids; Search DC 25; Dis- surrounds 10-ft.-by-10-ft. area with solid forcecage and able Device DC 28. A successful save places the summons a hamatula; Search DC 32; Disable Device character outside the effect—either in the blade barrier DC 32. or between the crushing walls, whichever is closer. A Creature: The summoned hamatula immedi- failed save indicates that the character is trapped ately attacks any character trapped in the forcecage. (Escape Artist DC 25 to slip free) and suffers an addi- It can’t summon other baatezu, nor can it teleport tional 2d6 points of damage per round until freed. out of the forcecage. aCrushing Walls:CR 6; no attack roll necessary dHamatula:hp 49; see Monster Manual. (12d6); Reflex DC 20 half; Search DC 22; Disable Treasure:The box contains a fully charged gem of Device DC 23. brightness. If the box is smashed open, the gem (hard- ness 1, hp 2) may be damaged.",
+        "name":  "Traps",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "These creatures wear most of their treasure, but a small metal box hold- 5 ing 133 gp sits under the bed in the living quarters.",
+        "name":  "Living quarters Treasure",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Alia can sweep with her tail as a stan- skies. She flees if reduced to fewer than 100 hit dard action. The sweep affects a half-circle with a points, flying to her distant mountain lair. diameter of 30 feet, centered on the dragon’s rear. The Alia is aware of the pit fiend’s tactics and uses them sweep automatically deals 2d6+18 points of damage to her advantage. She uses hit-and-run attacks to prey (Reflex DC 30 half) to all creatures of up to Small size on the weaker characters. Once the nightwalker within the area. emerges, she distracts and harasses the clerics to pre-",
+        "name":  "Tail Sweep",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "hp 136; see Monster Manual. into the lava. Je’ponze, Pit Fiend:hp 123; see Monster Manual. If the PCs spot Je’ponze in his “frost giant” guise,",
+        "name":  "Nightwalker",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The pit fiend keeps a small fireproof involved, but also because of their motivations and chest at the bottom of the lava pit. It holds 800 pp, a tactics. It is meant to be an encounter that not only bejeweled crown worth 5,000 gp, a candelabra worth challenges the players, but challenges the DM to 4,000 gp, and an assassin’s dagger. keep track of numerous threads at once. A DM who Scattered in the niche marked N are 21,800 sp, doesn’t feel comfortable with that aspect can still 4,127 gp, and 390 pp, along with a set of silverware run a simplified version by simply extracting the (eight place settings) worth a total of 500 gp. The background setup and making the monster’s attacks nightwalker keeps a stack of twelve prayer books and more straightforward. religious tomes taken from slain clerics (each worth 1d4+1×100 gp). A Search check (DC 30) locates a High-Level Preparation: The Players pink rhomboid ioun stone wedged in a corner of the Throughout this book, you have seen many tips and niche, long forgotten by the denizens. directions for preparing encounters. The preparation",
+        "name":  "Treasure",
+        "source":  "book_of_challenges.txt",
+        "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This elaborate golden cup is consecrated for Ambrosia (distilled joy) 200 gp use in a temple of good. Water placed within it becomes holy Angel radiance 20 gp water. If an evil creature drinks anything from the vessel, the Blink dog tooth 30 gp creature must make a DC 18 Fortitude save or contract the Celestial blood 20 gp depraved decadence affliction (see Ravages and Afflictions, Couatl feather 10 gp above). Couatl scale 16 gp",
+        "name":  "Sacred Vessel",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1st; Market Price Equivalent:2,000 gp. Lammasu claw 30 gp Saint’s Burial Shroud:The shroud laid over a saint after Lillend scale 15 gp Pegasus feather 11 gp his execution, this fine linen cloth still bears the image of his Phoenix feather 40 gp body faintly limned on its surface. A good character who Unicorn blood 500 gp touches the shroud is instantly healed of all diseases, while an Unicorn horn (sliver) 55 gp evil creature that touches it must make a DC 14 Fortitude save Unicorn tail hair 25 gp or contract the eternal torpor affliction (see Ravages and Afflictions, above). Ambrosia (Distilled Joy): A mysterious substance made",
+        "name":  "Caster Level Equivalent",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Craft Wand or Craft Staff, ability to turn undead. Benefit:Any undead creature that you turn takes 3d6 points",
+        "name":  "Prerequisites",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The saving throw DC of your Stunning Fist self), or any similar division of your +3 bonus. increases by 2 when you use it against an evil creature. If the This shared divine grace lasts for one day or until you revoke stunning attack succeeds, the creature is staggered for 1 round it (as a free action). following the round it is stunned.",
+        "name":  "Benefit",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "When determining how many hit points you can presence of creatures of this type within 60 feet, as well as pinpoint cure, treat your Charisma score as if it were 2 points higher. For their exact location (distance and direction) relative to you. Normal example, a 7th-level paladin with a 16 Charisma could cure up barriers and obstructions do not block this supernatural ability, to 28 points of damage per day with this feat. allowing you to sense the presence and location of creatures behind doors or walls, for example. This feat does not allow you to HOLY KI STRIKE [EXALTED] see an invisible or hidden creature (although you can still discern Your unarmed attacks deal extra damage to evil creatures. its location).",
+        "name":  "Benefit",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Your unarmed strike deals 2d6 points of extra holy against evil representatives of the favored enemy creature type. damage to evil creatures. In addition, it is considered holy, Special:You can choose this feat multiple times. Its effects do which means that it can bypass the damage reduction of some not stack. Each time you select this feat, it applies to a different evil outsiders. This does not stack with the extra damage from favored enemy. the Sanctify KiStrike feat. NIMBUS OF LIGHT [EXALTED] HOLY RADIANCE [EXALTED] You are cloaked in a radiant light that marks you as a servant of You can increase the intensity of the light surrounding you to the purest ideals. All who look upon you know without a doubt damage undead creatures. that you are a champion of good and are favored by the powers",
+        "name":  "Benefit",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "At will, as a free action, you can empower the radi- surrounding your entire body, or it may appear as beams of light ance surrounding you into a blazing glow that sheds bright light around your head. in a 10-foot radius (and shadowy illumination out to 20 feet). Benefit: Good creatures automatically recognize the radi- Undead within 10 feet of you take 1d4 points of damage per ance surrounding you as a sign of your purity and devotion to round they remain within your halo. the powers of good. You gain a +2 circumstance bonus on all Diplomacy and Sense Motive checks made when interacting HOLY SUBDUAL [EXALTED] with good creatures. You can turn bonus damage into nonlethal damage. Your radiance sheds light as a common lamp: bright light to a",
+        "name":  "Benefit",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Once per day, while performing an act of good, you (such as a nymph or dryad), you gain some of the characteristics may call upon your eladrin patron to gain a +1 luck bonus on of fey. any one roll or check. Benefit:Fey creatures regard you as though you were fey. You",
+        "name":  "Benefit",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Your unarmed strikes deal 1 extra point of damage STIGMATA [EXALTED] to evil creatures, or 1d4 points to evil outsiders and evil undead. You bear the marks of wounds on your body, as sort of a living In addition, they are considered good-aligned for purposes of martyrdom. overcoming damage reduction. Prerequisite: Nimbus of Light.",
+        "name":  "Benefit",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Sacred Vow. in exchange for its life. If the creature breaks this oath",
+        "name":  "Prerequisites",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Affected creatures receive a +1 morale bonus on attack good, and chaotic neutral creatures act chaotic good. rolls and on saving throws against fear effects for 10 minutes. Creatures affected by this temporary alignment shift can",
+        "name":  "Blessed",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Affected creatures take a –1 penalty on attack During these seven days, an affected creature is immune to rolls, saving throws, skill checks, and ability checks for 10 any other conversion effect, from the same emissary or a differ- minutes. ent one. During this time, the alignment shift can be reversed",
+        "name":  "Disheartened",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Fort +5, Ref level. If she accidentally smites a creature that +5, Will +5. is not evil, the smite has no effect but it is still",
+        "name":  "Base Save Bonuses",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Any one skill 9 tics remain the same ranks, Speak Language except that he is no longer (Celestial). a living creature.",
+        "name":  "Skills",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Sanctify Martial Strike, Servant of the Heavens. creatures.",
+        "name":  "Feats",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Target gains +1 luck bonus on all saving Conj Cry of Ysgard: Calls 2d4 bariaur defenders of Ysgard. throws. Evoc Constricting ChainsF:Creature is entangled, unable to",
+        "name":  "AbjurTwilight Luck",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Overhear creatures’ telepathic communi- Conj Armageddon:Calls powerful good outsiders to fight at cations. your side.",
+        "name":  "Telepathy Tap",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Reflective surfaces shed brilliant Evoc Exalted Fury: All creatures within 40 ft. take damage light that blinds evil creatures. equal to 50 + your current hp, and you die.",
+        "name":  "Evoc Brilliant Emanation",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Deals 1d6 points of NecroSanctify the WickedF:Traps evil creature in a diamond damage per caster level, or 1d8 points of damage per for one year, then releases it as a sanctified creature. caster level if the target is evil. Trans Channel Greater Celestial:As channel celestial,but up to",
+        "name":  "Hammer of Righteousness",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Cures all nonlethal damage on one creature. Remove Fatigue:Removes effects of fatigue as 8 hours of rest.",
+        "name":  "Refreshment",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creatures within a 30-foot cone cower for 1d4 rounds. SustainM:Recipients need no food or drink for 6 hours/level.",
+        "name":  "Warcry",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Targets immune to pain and mind-influ- Dancing Web:Energy strands deal 1d6 nonlethal damage per encing effects, and take half damage from melee and level plus entangles evil creatures for 1d6 rounds. ranged attacks; –4 to skill checks. Energetic Healing:Target is immune to one energy type and Heaven’s TrumpetF:Blast of music paralyzes foes. gains 10% of the energy damage as healing.",
+        "name":  "Empyreal Ecstasy",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Allies within 40 ft. gain +2 insight bonus on Heaven’s TrumpetF:Blast of music paralyzes foes. ranged attack rolls. Righteous Glare:Your gaze attack kills evil creatures with less",
+        "name":  "Inspired Aim",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Cures creatures of all nonlethal damage. than 5 HD, causes fearin others.",
+        "name":  "Refreshment",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Transforms creature into an axio- 1 Bless: Allies gain +1 attack and +1 on saves against fear. matic creature. 2 Status:Monitors condition, position of allies.",
+        "name":  "Axiomatic CreatureM XP",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Any attack made within 80 feet of caster causes 8 SympathyM:Object or location attracts certain creatures. attacker to take 1d6 points of lethal or nonlethal 9 Mass Heal:As heal,but with several subjects. damage/caster level (max. 20d6).",
+        "name":  "End to Strife",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Tiny starbursts each deal 1d8 damage (half Lesser Aspect of the Deity:Your form becomes more like your nonlethal), or 1d8 damage (all lethal) to evil creatures. deity’s.",
+        "name":  "Stars of Arvandor",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Subject gets +8 on Spot checks. or quasi-real creatures.",
+        "name":  "Trans Eyes of the Avoral",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Tiny starbursts each deal 1d8 damage like ability as a free action for 1 round/level. (half nonlethal), or 1d8 lethal damage to evil creatures.",
+        "name":  "Evoc Stars of Arvandor",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "As solid fog,but dazzles or blinds creatures Trans Eladrin Form:You become an incorporeal globe. within. Tomb of LightM: Entraps and harms evil extraplanar",
+        "name":  "Conj Radiant Fog",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Object sheds brilliant light to 120 creatures. feet, hurts undead and evil outsiders.",
+        "name":  "Evoc Celestial Brilliance",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One creature",
+        "name":  "Target",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "V, S, M, XP, Archon Range: 60 ft. (you do not become an outsider). Casting Time: 1 round Area: Cone-shaped burst",
+        "name":  "Your creature type does not change Components",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One corporeal creature of Saving Throw: Fortitude negates Transmutation [Good] lawful or neutral alignment that is (blindness) and Reflex half (shards)",
+        "name":  "Aspect of the Deity, Greater Target",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Apostle of peace 7, cleric 7 Duration: 1 round/level damage to you. The creature takes your",
+        "name":  "Level",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "None blinded permanently as though by the ered a “willing creature” for purposes of",
+        "name":  "Saving Throw",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1 standard action creatures are blinded within this light. Evil outsider, undead creature 10d8",
+        "name":  "Casting Time",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1 hour/level (D) Target:One creature touched being (unless the target happens to be",
+        "name":  "Duration",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "None Duration:1 minute/level one). If the creature tries to disguise",
+        "name":  "Saving Throw",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Nonevil creature touched Area: 40-ft.-radius spread centered on must not be the subject of any other",
+        "name":  "Target",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Touch Creatures must be able to hear the must not be suffering from any ability",
+        "name":  "Range",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A small silver chain (10 gp). creatures that are harmed by sunlight understand your language.",
+        "name":  "Focus",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "V, S, Sacrifice Further, evil creatures that fail their The caster draws ambrosia from the",
+        "name":  "Components",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Curtain of light whose area is rounds. An entangled creature takes a –2 only be drawn from a blissful creature; up to one 5-ft. square/level penalty on attack rolls and a –4 penalty how the creature achieves this state of",
+        "name":  "Effect",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Cleric 5, druid 5, sorcerer/ Duration: Permanent This bonus does not apply to attacks wizard4 Saving Throw: Fortitude negates made against nonevil creatures.",
+        "name":  "Level",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You text) Target: Creature touched",
+        "name":  "Target",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Bard 2, cleric 2, emissary of damage nor blocks other effects not Range:Touch Barachiel 2, Joy 2, sorcerer/wizard 3 directly related to pain (such as the recall Target:One living creature touched",
+        "name":  "Level",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1 minute/level (D) may freely attack creatures in the area age (of the appropriate energy type)",
+        "name":  "Duration",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Cleric 2, druid 2, paladin 2 Target: Robe, garment, or outfit evil creatures, causing targets of the",
+        "name":  "Level",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "V, Sacrifice Target: One creature Components: V, S, F, DF",
+        "name":  "Components",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Apostle of peace 4, cleric 4, Healing Touch Targets: Up to one creature per 2 caster Community 4 Necromancy [Good] levels",
+        "name":  "Level",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One creature touched/3 levels Range: Touch",
+        "name":  "Targets",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1 hour/level Target: Creature touched You create a leaping bolt of radiant",
+        "name":  "Duration",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Bard 6, cleric 7, emissary of Target:One creature with an Intelli- Level: Bard 4, cleric 3, Fey 3, ranger 3 Barachiel 4 gence of 6 or more Components:V",
+        "name":  "Level",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Instantaneous target creature to divulge information it Saving Throw:Will negates (harmless)",
+        "name":  "Duration",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "None sonic damage to nongood creatures in weightless and does not restrict the",
+        "name":  "Saving Throw",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "V Target:One good creature touched of you are flanking the same opponent.",
+        "name":  "Components",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1 standard action summon a neutral or evil creature, the Phieran’s resolve(named after the exalted",
+        "name":  "Casting Time",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Personal good creature that appears is not bound god of suffering,",
+        "name":  "Range",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "V, S, Celestial creature that attacks you in melee. The high)",
+        "name":  "Components",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Long (400 ft. + 40 ft./level) defense in combat. successful Fortitude saves or be dazzled, Area: Cylinder (80-ft. radius, 80 ft. Sacrifice:1d2 points of Strength drain. 104 taking a –1 penalty on attack rolls for as high) :6 RETPAHC CIGAM 620_88026_ExaltedDeeds2a.qxd 8/26/03 1:51 PM Page 104",
+        "name":  "Creatures within the cloud must make Range",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "None (ability damage) environmental conditions, starvation Target: Creature touched and Fortitude negates (sickening) and thirst, and related effects as well as Duration: Instantaneous",
+        "name":  "Saving Throw",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One living creature Range: Touch original owner in the condition it was in",
+        "name":  "Target",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1 round/level Target: Up to one living creature before being disintegrated.",
+        "name":  "Duration",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Apostle of peace 3, bard 3, cleric rest for 1 more hour to eliminate the You gain a supernatural gaze attack like 3, Endurance 3, vassal of Bahamut 3 fatigue. If a subject was already well that of a ghaele eladrin. Evil creatures",
+        "name":  "Level",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1 standard action to touch the target to heal it with your Target:Creature touched",
+        "name":  "Casting Time",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One living creature touched",
+        "name":  "Target",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1d4 points of Strength The target creature, which must be evil, Sublime Revelry damage. is struck by pangs of conscience and Abjuration remorse. The creature instantaneously",
+        "name":  "Sacrifice",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1 round Level:Apostle of peace 4, cleric 4, The creature regains lost abilities nor-",
+        "name":  "Casting Time",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "None Target:Up to one living creature Telepathy Block",
+        "name":  "Saving Throw",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A flask of warm emanates from the creature or object Sunmantle wine and a loaf of bread. and moves as it moves. Abjuration",
+        "name":  "Material Component",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One creature touched",
+        "name":  "Target",
+        "source":  "book_of_exalted_deeds.txt",
+        "_id":  "ccda9d8a55706fcbdfc99c2be74f4bfbd8f288e8687d369e40cf8f1e03b859d2"
+    }
+]

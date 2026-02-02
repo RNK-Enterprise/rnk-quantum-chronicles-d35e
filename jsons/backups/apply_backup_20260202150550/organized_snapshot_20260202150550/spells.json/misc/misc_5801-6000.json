@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bite +4 melee and 2 claws +1 melee drain, energy drain, or death from massive damage. A spell-",
+        "name":  "Attacks",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Paralysis, stench, spell-like abilities",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "16 (–1 size, +1 Dex, +6 natural), touch 10, flat-footed 15 Spell-Like Abilities: 1/day—major image; 2/day—mirror",
+        "name":  "AC",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sting +15 melee and 2 claws +13 melee, or Large image. Caster level 10th; save DC 12 + spell level. heavy lance +11/+6/+1 melee and sting +13 melee and 2 Trample (Ex): As a standard action during its turn each claws +13 melee round, a scorpionfolk can trample opponents at least one",
+        "name":  "Attacks",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Poison, spell-like abilities, trample 1d8+6",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "chraal, cinder swarm, omnimental, storm Plant: battlebriar, dread, blossom swarm, boar topiary guard- elemental. ian, lion topiary guardian, night twist, plague brush, triceratops (Evil): arrow demon, canoloth, gloom golem, living blas- topiary guardian, wood woad. phemy, mezzoloth, necronaut, nycaloth, odopi, sorrowsworn (Reptilian): blackscale lizardfolk, poison dusk lizardfolk. demon, ultroloth. (Shapechanger): changeling, protean scourge, shifter. (Extraplanar): arrow demon, canoloth, dread blossom swarm, (Swarm): blood keeper larva, cinder swarm, dread blossom gloom golem, mezzoloth, mivilorn, necronaut, nycaloth, odopi, swarm, ephemeral swarm, needletooth swarm, shimmerling omnimental, plague brush, prismatic golem, shadesteel swarm, shredstorm, swamp strider swarm. golem, shrieking terror, sorrowsworn demon, storm elemental, (Tanar’ri): arrow demon, sorrowsworn demon. trilloch, ultroloth. Templates: living spell, spellwarped, voidmind, woodling.",
+        "name":  "Elemental",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Acid, successful grapple check. constrict 2d6+7 plus Improved Grab (Ex): To 2d6 acid, improved use this ability, an arcane grab, spell siphon ooze must hit with its slam",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Str 22, Dex 1, and can constrict. Con 26, Int —, Wis 1, Spell Siphon (Su): An Cha 1 arcane ooze exerts a strange pull",
+        "name":  "Abilities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Climb +13 on arcane spell energy. Any time",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— an arcane spellcaster begins his turn",
+        "name":  "Feats",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Solitary a DC 25 Fortitude save or lose a random spell of the",
+        "name":  "Organization",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "9 highest spell level that he has available. For every spell lost",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Always neutral rary hit points equal to 5 × the level of the lost spell. These",
+        "name":  "Alignment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— caught in its path (DC 15 Refl ex half). Creatures that fail this save must make A large boulder on the rocky slope above a DC 20 Refl ex save or become buried beneath you extends a long tendril with a single eye. The the rocks. Buried characters take 1d6 points of boulder suddenly moves, sending a torrent of rock Avalancher nonlethal damage per minute. If a buried character and debris toward you. falls unconscious, he or she must make a DC 15 Constitution check or take 1d6 points of lethal damage Avalanchers are bizarre and dangerous creatures that live every minute thereafter until freed or dead. along the rocky slopes of tall mountains. They are scav- Transmute Rock to Mud (Sp): Once per day, an ava- engers that use their ability to cause avalanches to bury lancher can use transmute rock to mud as the spell. Caster potential prey, allowing them to feast at their leisure. While level 9th. dangerous to hunt, avalanchers are prized by mountain- All-Around Vision (Ex): An avalancher is exceptionally dwelling races as a prime source of meat, although killing alert and circumspect, giving it a +4 racial bonus on Spot an avalancher is a mighty chore. Some races even “herd” checks and Search checks. An avalancher can’t be fl anked. avalanchers by keeping them penned on plains where their Skills: An avalancher has a +8 racial bonus on Climb fearsome abilities pose little threat. checks and can always choose to take 10 on Climb checks, To the casual viewer, an avalancher resembles a large boul- even if rushed or threatened. *An avalancher gains a +4 der of the same coloration and texture as the surrounding racial bonus on Hide checks when in areas of rocky or terrain. Occasionally, it will stretch out its single eye that mountainous terrain. sits on the end of a tough tendril to scout the landscape. An AVALANCHERS IN EBERRON avalancher spends most of its time immobile but can move with startling speed on spindly, crablike legs. Avalanchers are most commonly encountered in the moun- An avalancher is 6 feet tall and weighs 400 pounds. tains northwest of the Eldeen Reaches, although larger 13 Avalanchers speak rudimentary Terran. specimens are known to dwell in the Mror Holds. Illus. by H. Lyon AVALANCHER 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 1133 77//1133//0044 44::5544::2200 PPMM BATTLEBRIAR Battlebriars have a tough, rubbery hide the color of Huge Plant drying mud, although some of the vinelike strands that",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Damage reduction 5/–, darkvision 60 ft., swarms into danger is a part of their reproductive cycle. evasion, fast healing 5, low-light vision, spell resistance 26 Brood keeper larvae do not grow while they live with their",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+0 +0 Minor Change Shape (Su): Changelings have the CHANGELINGS AS CHARACTERS supernatural ability to alter their appearance as though Changeling characters possess the following racial traits. using a disguise self spell that affects their bodies but not —Medium size. their possessions. This is not an illusory effect but a minor —Changeling base land speed is 30 feet. physical alteration of a changeling’s facial features, skin — +2 racial bonus on saving throws against sleep and color and texture, and size, within the limits described charm effects. for the spell. A changeling can use this ability at will, — +2 racial bonus on Bluff, Intimidate, and Sense Motive and the alteration lasts until she changes shape again. A checks. changeling reverts to her natural form when killed. A true —Natural Linguist: Changelings add Speak Language to seeing spell reveals her natural form. Using this ability is a their list of class skills for any class they adopt. full-round action. —Automatic Languages: Common. Bonus Languages: Skills: *When using its minor change shape ability, a Auran, Dwarven, Elven, Giant, Gnome, Halfling, and changeling gets a +10 circumstance bonus on Disguise Terran. checks. —Favored Class: Rogue. 25 CHANGELING 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 2255 77//1133//0044 44::5577::4444 PPMM CHARNEL HOUND COMBAT Huge Undead A charnel hound savages any living creatures it encounters.",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Always chaotic evil spell), a charnel hound takes a –4 penalty on all attack rolls,",
+        "name":  "Alignment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— subsequent round. A chelicera has a +4 racial bo- This creature looks like a spin- nus on grapple checks and uses dly black spider as large as a its Dexterity modifi er instead of its human. Two thin arms extend Strength modifi er when grappling. from the insect’s small body, Mimicry (Ex): A chelicera can each ending in a sharp looking repeat any noise it hears as a free ac- claw. A strange pair of thick antennae sits atop its head like tion. This ability works much like ghost a tuning fork. sound (Will DC 17 disbelief), except that the sound is always centered on the che- The chelicera is a spidery creature that can licera itself. The creature’s favorite tactic is reproduce any sound it hears. Cheliceras are a Chelicera to reproduce garbled or faint speech, causing common problem in towns and cities built in warm the potential prey to move closer for a better listen. climates, where the vermin tend to live in neighborhoods The save DC is Charisma-based. with poor sanitation. Skills: Cheliceras have a +8 racial bonus on Hide checks A chelicera can remember and duplicate sounds. It and Listen checks. A chelicera also has a +8 racial bonus on has no understanding of speech, but can duplicate many Climb checks and can always choose to take 10 on a Climb of the component sounds. The creature tests each sound check, even if rushed or threatened. it knows, looking for those that most reliably draw CHELICERAS IN EBERRON prey. Often, the most useful sounds are the screams of a previous victim. Cheliceras prowl the Howling Peaks, north of Zilargo, From their hidden lairs, they lure victims to their doom where they feed on mountain lions, humanoids, and other by reproducing the sounds they hear. Warriors of noble weaker predators. Their natural enemies include wyverns, intent rush into a chelicera’s lair to rescue an innocent, only chimeras, and manticores. 27 to discover that it is they who need rescuing. Once someone Illus. by F. Irving CHELICERA 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 2277 77//1133//0044 44::5577::5522 PPMM CHRAAL and bound to a spellcaster’s service that is not given the Large Elemental (Cold) opportunity to hunt and kill invariably tries to turn against",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Fire in the blood, improved grab, Fire in the blood, improved grab, smite good, spell-like abilities spell-like abilities",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Confl agration oozes have a +8 racial bonus on tion damage and 3d6 points of fi re damage to a grappled foe. Hide checks and Move Silently checks. The save DC to resist the toxin is 25. Smite Good (Su): Once per day the infernal confl agra- INFERNAL CONFLAGRATION OOZE tion ooze can make a normal melee attack that deals +15 Infused by evil power, the infernal confl agration ooze is damage against a good foe. more sinister than its nonfi endish cousin. Spell-Like Abilities: The save DCs for the infernal Infernal confl agration oozes speak Ignan and Infernal. confl agration ooze’s spell-like abilities increase as follows: The infernal confl agration ooze presented here adjusts the confusion (DC 16), deep slumber (DC 15), hold monster (DC 17). 31 base creature’s statistics by advancing its Hit Dice, adding Caster level 10th. OOZE CONFLAGRATION 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 3311 77//1133//0044 44::5588::5577 PPMM DEATHSHRIEKER critical hit). The deathshrieker heals 5 points of damage This horrible apparition floats above the ground, its skeletal face (10 on a critical hit) whenever it drains Charisma, gain- twisted in horrible pain while it screams in a terrifying cacophony ing any excess as temporary hit points. The save DC is that sounds like the last shrieks of the dying. Charisma-based. Death Rattle (Su): When a deathshrieker is reduced to The deathshrieker is an undead spirit that embodies the 0 hit points, it releases a fi nal, devastating shriek. All living horrible cries and shrieks of the dying as they utter their creatures within a 300-foot spread must succeed on a DC last gasps of life. It roams lonely and forgotten battlefi elds, 24 Will save or gain 1d4 negative levels. Creatures that charnel houses, or sites of terrible plagues, fi lling the air cannot hear or are under the effect of a silence spell gain with its mournful and soul-sapping screams. It relives the a +4 bonus on the save to resist this effect. The save DC is fi nal moments of those who have died from slow, agonizing Charisma-based. deaths due to violence, disease, or some other tragedy. Typi- Despair (Su): At the mere sight of a death- cally, the larger the death and despair of an area, the larger shrieker, the viewer must succeed on a DC the deathshrieker, although relatively 24 Will save or be paralyzed with fear for 1d4 small areas that hosted truly despicable rounds. Whether or not the save is success- acts of violence can bring one into ful, that creature cannot be affected being as well. again by the same deathshrieker’s de- Most deathshriekers haunt a spair ability for 24 hours. The save DC single location, although some is Charisma-based. wander aimlessly on lonely Scream of the Dying (Su): and desolate roads or other Once per day, as a full-round ac- forbidding terrain. They are tion, a deathshrieker can release angry, vengeful spirits that a soul-numbing scream that endlessly babble the final lasts for up to 3 rounds. After words of those who have this first round, a deathshrieker died. They seek to kill liv- can use a standard action to sustain ing beings just to hear their the scream. This attack affects all final scream. The haunt of a living creatures within a 30-foot deathshrieker is noted for spread centered on the death- odd, disturbing noises shrieker, or within a 60-foot cone and the occasional whis- extending from the deathshrieker, per of the dead crying at the creature’s option. Once the out in pain. These noises deathshrieker chooses the shape of can persist for years even if the this effect, it must maintain that ef- death shrieker is destroyed. fect for all three rounds. In the case A deathshrieker is 5 to 6 feet tall of a cone, it can aim in a single di- and weightless. rection during its turn. Creatures Deathshriekers speak Common and caught in this area must make a one other language, often the racial lan- DC 26 Will save or suffer the ef- guage of those who died in the most fects described below. The save numbers within the area. They rarely DC is Charisma-based. Creatures speak with intent but instead replay that cannot hear or are under the the last words of a hundred souls that effect of a silence spell gain a +4 bo- have perished, which blur together in a Deathshrieker nus on their Will saves. The effects terrifying din. are cumulative and concurrent: Round 1: The creature is deafened for 1d4 rounds. COMBAT Round 2: The creature is stunned for 1d3 rounds. A deathshrieker charges headlong into combat, using its Round 3: The creature suffers the effects of insanity, as the despair ability to root creatures in place before striking spell cast by an 18th-level sorcerer. with their incorporeal touch. A deathshrieker will wait This effect is so loud that normal conversation is impos- until it can catch as many creatures as possible in the area sible. Spellcasters who attempt to cast spells with a verbal of its scream of the dying ability. If it is close to being component must make a DC 26 Concentration check or the destroyed, a deathshrieker will stay in the thick of combat, spell is negated. using its death rattle ability to cause a retributive strike Death’s Grace (Ex): A deathshrieker gains a +1 profane against the living. bonus to AC for every 3 Hit Dice it possesses. Charisma Drain (Su): An individual struck by a Silence Vulnerability (Ex): Deathshriekers cannot death shrieker must make a DC 24 Fortitude save or per- abide silence and are harmed by it. To even enter into the 32 manently lose 1d4 points of Charisma (2d4 points on a radius of a silence spell, a deathshrieker must make a Will -HTAED REKEIRHS sekotS .A yb .sullI 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 3322 77//1133//0044 44::5588::5599 PPMM Deathshrieker Advanced Deathshrieker Medium Undead (Incorporeal) Medium Undead (Incorporeal)",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— — save (DC 12 + caster level). Each round that a deathshrieker DEATHSHRIEKERS IN EBERRON remains within the area of a silence spell, it takes 1d10 points of damage (Will save for half). Deathshriekers haunt the battle-scorched plains of the Mournland. They also prevail along the jagged coastlines ADVANCED DEATHSHRIEKER of the Demon Wastes, along which many ships and crews Truly cataclysmic battles sometimes spawn deathshriekers have met their doom. One of the Lords of Dust, a powerful of incredible power. These horrible beings are like their rakshasa, inhabits a palace haunted by deathshriekers and weaker kin, but much more aggressive and horrifying. reportedly fi nds their hellish screams “soothing.” The advanced deathshrieker presented here adjusts the DEATHSHRIEKERS IN FAERÛN base creature’s statistics by advancing its Hit Dice and adding ability score increases based on Hit Dice. Deathshriekers have plagued Faerûn since the Time of Troubles, a period of great turmoil and suffering that ended Combat with the destruction of many gods. They also haunt the land The save DCs for this advanced deathshrieker’s Charisma surrounding the black pit that was once the city of Tilverton drain (DC 27), death rattle (DC 27), despair (DC 27), and and other ruins of dread and despair. scream of the dying ability (DC 29) are adjusted for its improved Hit Dice. It otherwise follows the same combat tactics as regular deathshriekers. 33 SHRIEKER DEATH- 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 3333 77//1133//0044 44::5599::0022 PPMM DEMON, ARROW",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Aura of loss, spell-like abilities, whispers ties to determine what its foes most fear losing, then uses of loss its whispers of loss to further weaken its opponents before",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Fort +22, Ref +14, Will +17 (+21 against mind- feat, taking a –5 penalty on its attack rolls and gaining a +5 affecting spells and abilities) bonus on damage rolls (+10 damage if using a glaive).",
+        "name":  "Saves",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +26, Concentration +32, Diplomacy +9, Hide feelings of intense personal loss. Any creature within 30 +28, Intimidate +28, Knowledge (arcana) +26, Knowledge feet of a sorrowsworn demon must make a DC 26 Will (geography) +26, Knowledge (the planes) +26, Listen +29, save or be overwhelmed with feelings of despair as they Move Silently +32, Sense Motive +27, Spellcraft +28, continually visualize the most terrible losses they’ve ever Spot +29, Survival +35 (+37 on other planes, +37 avoiding endured or can imagine happening. These feelings mani- getting lost and hazards) fest as a –2 penalty on attack rolls, saving throws, ability",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Solitary affected creatures that attempt to cast spells must succeed",
+        "name":  "Organization",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "17 on a Concentration check (DC 20 + spell level) to avoid",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A sorrowsworn demon whispers of the Round 2: Mind fog against foes to weaken Will saves. losses to come, and the futility of struggling against the Round 3:Feeblemind on spellcaster. inevitability of loss. The target creature is stunned for 2 Round 4: Greater teleport to immediate vicinity of ene- rounds (Will DC 24 negates). This is a fear effect. mies, exposing them to aura of loss. Use whispers of loss",
+        "name":  "Future Sorrow",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A sorrowsworn demon asunder by the Last War. Nations describes the target creature’s past that have suffered the greatest losses, both real and imagined. The losses—Aundair, Thrane, Karr- creature is dazed for 3 rounds as it con- nath, Breland, and the Mournland templates all the losses of its life (Will DC (formerly Cyre)—make good 24 negates). homes for these demons. They are Whispers of loss is a mind-affecting ability also drawn to cities such as Sharn, and only functions against creatures with an where large numbers of post-war Intelligence score of 3 or higher. A creature refugees have gathered. that succeeds on the saving throw against SORROWSWORN a whispers of loss effect is immune to DEMONS IN FAERÛN that effect (but not the other effects) for 24 hours. Caster level 20th. The save DCs are Faerûn has seen its share of Charisma-based. wars, and sorrowsworn demons Mind Reading (Sp): Once per round are drawn to places where the as a free action, a sorrowsworn demon can lingering pain of war is felt read the mind of one opponent (Will DC 24 most strongly. They often lurk in negates). This ability functions exactly as the shattered temples dedicated to dead detect thoughts spell (caster level 20th), except that gods such as Myrkul and Bhaal, feeding on the effect is immediate. An opponent that fails Sorrowsworn demon the despair of forsaken clerics. They also hide this save and has also succumbed to the sorrow- among the masses, feeding on the anguish of sworn demon’s aura of loss is more likely to fall victim to its Thayans, Rashemaar, Cormyrians, Sembians, and other whispers of loss (see above). people who lost loved ones to the Tuigan Horde and A creature that succeeds on the saving throw is immune similar invaders. to that sorrowsworn demon’s mind reading ability for the next 24 hours. The save DC is Charisma-based. Strong Willed (Ex): Masters of manipulating minds, sorrow sworn demons are in turn especially resistant to similar abilities. They have a +4 racial bonus on saves against mind-affecting spells and abilities. Telepathy (Su): Sorrowsworn demons can communicate telepathically with any creature within 100 feet that has a language. 37 Illus. by J. Wayshak DEMON 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 3377 77//1133//0044 44::5599::1111 PPMM DINOSAUR, BATTLETITAN COMBAT Huge Animal A battletitan is under the control of its handler in combat;",
+        "name":  "Past Losses",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Wilderness of the Fortitude save negates the effect. Beastlands Even after a successful save, spellcast-",
+        "name":  "Environment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Solitary, pair ing or concentrating on spells within (2–4), or colony (5–8) the area of a swarm requires a Con-",
+        "name":  "Organization",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "6 centration check (DC 20 + spell level).",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Swarm (1d6 Str) plague killed all the cats, the ephemeral swarm will look Space/Reach: 10 ft./0 ft. like a pack of cats and kittens. If a fi reball spell took out a",
+        "name":  "Full Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Batter, exploding nodules, rock throwing, on the lands they currently inhabit. spell-like abilities Geriviars, like many giants, carry their treasure in a sack",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "23d8+115 (218 hp) spellcasters. They prefer to cast spells in combat situations",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Frightful keening, rock throwing, spell- is a sonic, mind-affecting fear ability. The save DC is like abilities, steal soul Charisma-based.",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell-like abilities Rebuke undead 3/day (+4, 2d6+2, 11th), spells, spell-like abilities",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration +37, Diplomacy +3, Concentration +49, Diplomacy +4, Knowledge (arcana) +32, Knowledge Knowledge (arcana) +42, Knowledge (religion) +14, Knowledge (the planes) +24, Knowledge (religion) +24, (the planes) +14, Listen +21, Sense Listen +24, Sense Motive +45, Motive +31, Spellcraft +34, Spot +21 Spellcraft +44, Spot +30",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sand blaster, spell-like abilities Sand blaster, spell-like abilities",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Draconic, Elven, Goblin, Orc. eldritch giants and their enslaved goblinoid minions. GIANT 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 5599 77//1133//0044 55::0033::1177 PPMM GLAISTIG reinforcements arrive, the glaistig will try to use suggestion, A staggeringly beautiful maiden stands waist-deep in the water, hypnotism, or fog cloud to cause a diversion and slip beneath swaying back and forth as she sings a haunting song. the surface of its watery home. Beguiling Song (Su): A glaistig can attempt to beguile Beautiful and enchanting, glaistigs are fey that lurk in and creatures with its song. A glaistig sings, targeting a single around pools, lakes, and streams. They have an insatiable creature it can see within 300 yards of the body of water to craving for the blood of mortals, beguiling victims to come which it is linked (see Water Symbiosis, below). This is a sonic close to their lair in order to drain them. They are com- charm effect, and the creature must be able to hear the glaistig monly mistaken for vampires because of their bloodsucking for it to take effect. The targeted creature must make a DC 19 technique, but they are not undead. Will saving throw. A creature that successfully saves cannot Glaistigs resemble incredibly attractive female humans be affected again by the same glaistig’s song for 24 hours. or half-elves, but instead of normal legs, they have goat legs Failure indicates the creature is beguiled and moves with long, white fur. Most have snow-white hair and eyes that toward the glaistig, taking the most direct route available. shimmer like water. When they smile, glaistigs try not to If that path leads into a dangerous area (such as very deep show their teeth, which are sharpened to cruel-looking fangs or fast-moving water), the beguiled creature gets a second and revealed only when they are about to strike. Glaistigs saving throw. If that save is successful, the beguiling effect wear long, fi ne robes and dresses that drape along the ground, is broken, and that creature cannot be affected by that which are used to hide their legs. Glaistigs loathe showing glaistig’s song for 24 hours. their legs to anyone, and will only reveal them to lash out in A glaistig that desires a companion often moves out of the anger. If someone catches sight of a glaistig’s goat legs, it will water and bestows water breathing upon its beguiled victim become very angered and attack the offender. so it can take him underwater. A beguiled creature takes Despite their single-minded lust for blood, glaistigs are no actions other than to defend himself. (Thus, a fi ghter unpredictable and capricious. If they have recently fed (say, cannot run away or attack, but takes no defensive penalties.) within a month), then they are just as likely to help some- A beguiled victim that moves within 5 feet of the glaistig one as they are to attack. More than a few people have been must make a DC 19 Will saving throw or be charmed, as attacked by a glaistig, even if it has talked and been friendly by the charm monster spell cast by an 8th-level sorcerer. A to them in the past. Glaistigs also enjoy dancing, and some creature that successfully saves cannot be affected again by lure their victims to caper and dance for many hours before the same glaistig’s song for 24 hours. The beguiling effect attacking them. continues so long as the glaistig sings. A glaistig does not Glaistigs are solitary by nature and do not even need to continue singing to keep a victim charmed. like other fey all that much. While they A glaistig can use its beguiling song both above gain no sustenance from the blood of and below the water. Most glaistigs move into deep sylvan creatures, glaistigs have been water, forcing a beguiled victim to move toward known to attack fey that come too them. If these unlucky creatures fail their second close into their territory. Per- saving throw, they usually drown (see page 304 haps because of their similar of Dungeon Master’s Guide). The save DC is nature, glaistigs in particular Charisma-based. do not like dryads, and it is Blood Drain (Ex): A glaistig can extremely rare to find the suck blood from a living victim two beings in the same ter- with its fangs by making a suc- ritory. An average glaistig is cessful grapple check. If it about 5 feet 2 in height and pins the foe, it drains blood, weighs about 90 pounds. dealing 1d4 points of Con- Glaistigs speak Com- stitution drain each round mon, Elven, and Sylvan. the pin is maintained. Spell-Like Abilities: COMBAT At will—dancing lights, A glaistig uses its beguiling fog cloud, hypnotism (DC 15), song to lure victims close to suggestion (DC 17); 1/day—water the water, targeting specifi c breathing. Caster level 8th. individuals. If a large group comes Water Breathing (Ex): A glaistig can close to its lair, it will lurk beneath Glaistig breath either water or air. the surface until only one or two targets remain. Water Symbiosis (Su): Each glaistig is mysti- A glaistig is mystically bound to its watery lair and cannot cally bound to a body of water or a waterway as small as a pond move more than 300 yards away from it. or as large as a lake or river. A glaistig cannot move more than Once a victim is within striking distance, a glaistig 300 yards away from its body of water and still breathe nor- will cease singing and grapple the opponent. If the grab mally. If a glaistig strays farther away, it must hold its breath 60 is successful, it will drain blood for as long as possible. If or immediately start to suffocate (see Suffocation, page 304 GITSIALG huhcsnegeiF .E yb .sullI 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 6600 77//1133//0044 55::0033::1199 PPMM Glaistig Glaistig Mindbender, 5th-Level Sorcerer Medium Fey Medium Fey",
+        "name":  "Languages",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Beguiling song, blood drain, Beguiling song, blood drain, spell-like spell-like abilities abilities, spells",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ability Focus (beguiling song), Ability Focus (beguiling song), Alertness, Alertness, Iron Will Iron Will, Spell Focus (enchantment)",
+        "name":  "Feats",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+4 +4 of the Dungeon Master’s Guide). Once a glaistig has moved Combat beyond the boundary of its connection, it cannot breathe The save DCs for this glaistig sorcerer’s beguiling song (DC normally until it has immersed itself in its body of water. 22) and spell-like abilities (hypnotism DC 18, suggestion DC",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "2 slams +20 melee (2d8+12) to all spells, spell-like abilities, and supernatural effects that Space/Reach: 10 ft./20 ft. allow spell resistance, except as follows.",
+        "name":  "Full Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Constrict 2d8+12, improved grab, rope Animate rope hastens the golem (as if by the haste spell) for whirlwind, strangle 5 rounds.",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Solitary or gang (2–4) all spells, spell-like abilities, and supernatural effects that",
+        "name":  "Organization",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "11 allow spell resistance, except as follows.",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "None A transmute mud to rock spell slows it (as the slow spell) for",
+        "name":  "Treasure",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "16–22 HD (Large); 23–30 HD (Huge) A transmute rock to mud spell heals all its lost hit points.",
+        "name":  "Advancement",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "20d10+30 (140 hp) daylight spell at all times.",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Fort +6, Ref +17, Will +6 6 Indigo Insanity (as spell; Will DC 20 negates)",
+        "name":  "Saves",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Solitary to any spell or spell-like ability that allows spell resistance.",
+        "name":  "Organization",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "18 In addition, some spells and effects function differently",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— — pulse wave killed opponents). The shadows, newly healed, SHADESTEEL GOLEMS IN EBERRON continue their assault. Round 4: Continue slamming foes. Release another pulse Jahakinir the Shadow-Wizard, a lich of terrible power, wave every 1d4+1 rounds. created the fi rst four shadesteel golems on the plane of Mabar, the Endless Night, and offered them to his vampiric If the golem’s master is present, on the other hand, the apprentice, Osilvune. He then sent his apprentice forth fi ght is very different. While the tactics of a high-level to raise a kingdom on Eberron. Osilvune became ruler of wizard are many and varied, one way in which the master her own demesne, but her ambition brought her too many can use the shadesteel golem to best tactical advantage is enemies. One day, she simply vanished from the face and to cast shadow spells that heal the golem while damaging depths of the world. Her servants claim that she hid her any enemies. For example, she might cast greater shadow wealth in secret subterranean vaults guarded by Jahakinir’s evocation to create an illusory chain lightning spell, tar- shadesteel golems, but these sepulchers have never been geting the most powerful opponent, then striking the found. Whether the lich created other shadesteel golems remaining party members before arcing back to hit the and whether the secrets of their construction have been golem (and heal it). If the master is a lich, vampire, or passed on remain mysteries as well. other undead creature, she tries to stay within 40 feet of SHADESTEEL GOLEMS IN FAERÛN the golem, so that she benefi ts from the healing properties of the negative pulse wave. The human empire of Imaskar gave rise to the fi rst shade- steel golems, which were built to guard the vast troves of GREATER SHADESTEEL GOLEM Imaskar’s evil wizard-kings. Other rulers from different A greater shadesteel golem stands 11 feet tall and weighs realms have sponsored expeditions into Imaskar’s known about 4,000 pounds. ruins to unearth the lost knowledge of shadesteel golem construction, but it is not known whether these explorations Combat have borne fruit. Greater shadesteel golems use the same techniques and tac- tics as ordinary shadesteel golems. Its negative pulse wave has a save DC of 23. 73 GOLEM 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 7733 77//1133//0044 55::2233::3355 PPMM WEB GOLEM prey, catching as many opponents as possible in its webs Large Construct before descending to fi nish them off.",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "30 ft. (6 squares) Web (Sp): A web golem can use a web effect, as the spell",
+        "name":  "Speed",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Fort +3, Ref +6, Will +3 addition, certain spells function differently against the",
+        "name":  "Saves",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Str 20, Dex 17, Con —, Int —, Wis creature, as noted below. 11, Cha 1 A grease spell slows it (as the slow spell) for 2d6",
+        "name":  "Abilities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Any web spell.",
+        "name":  "Environment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Solitary (often with a Spider Climb (Su): A web Huge monstrous spider) or gang golem has a continuous spider climb (2–4 plus 2d4 Huge monstrous ability, as the spell. spiders) Skills: *A web golem’s body",
+        "name":  "Organization",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Energy drain, A grimweird hates the merest thought spell-like abilities of being in melee combat, and so it",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Augment Summoning, Combat 20), summon monster VI (evil creatures Casting, Negotiator, Persuasive, only). Caster level 12th. Because of its Aug- Spell Focus (conjuration) ment Summoning feat, all the grimweird’s",
+        "name":  "Feats",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Slam +17 melee (1d6+4 plus 1d8+5 negative energy tome pages that make up its outer skin. The spells a grisgol plus paralysis) can cast are, however, restricted to the spell levels, domains,",
+        "name":  "Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Choking dust, damaging touch, paralyz- it. To kill the lich, its phylactery must be destroyed after the ing touch, spell-like abilities grisgol is destroyed. Otherwise, the lich is free to return in",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— a grisgol’s spell usage is scripted ahead of time by its creator,",
+        "name":  "Advancement",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Smite chaos, spell-like abilities Before Combat: Use invisibility purge to reveal hidden foes.",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Darkvision 60 ft., damage reduction Round 1: Use dimensional anchor on its target. 10/chaotic, immunity to paralysis, outsider traits, spell Round 2: If target has allies, use greater command on allies resistance 24 to fl ee. If target is alone, use bless and close to target.",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration +22, Diplomacy +3, Heal +24, Intimi- to mute pesky spellcaster. date +21, Knowledge (the planes) +21, Knowledge (reli- Round 5: Repeat from round 3 or plane shift to safety if gion) +21, Listen +24, Sense Motive +24, Spellcraft +21, endangered. Spot +24, Survival +4 (+6 on other planes) JUSTICATORS IN EBERRON",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A living spell’s size depends on its caster ooze type (no good saves). It gains a resistance bonus on all level: 1st–6th is Medium, 7th–12th is Large, 13th or higher saves equal to the spell level of the highest-level spell upon is Huge. Its type is ooze. which it is based.",
+        "name":  "Size and Type",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A living spell has Hit Dice equal to its caster Abilities: A living spell has Strength, Constitution, and level. Its Hit Dice are d10s. Charisma scores equal to 10 + its spell level. Its Dexterity",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A living spell gains a slam attack it can use imum CR 1). If the living spell is based on multiple spells, once per round. The slam attack deals damage based on increase the CR by one-half the sum of the additional spell the living spell’s size (see the table below), plus its Strength levels (minimum increase +1). bonus × 1-1/2. A successful slam attack also affects the Treasure: None. target as though it were within the spell effect or area (see Alignment: Always neutral. If the original spell had an Special Attacks, below). alignment, the living spell adds that alignment to its neutral alignment. For example, an evil spell would spawn a neutral Living Spell Size Slam Damage evil living spell, a chaotic spell a chaotic neutral living spell, Fine 1 and so forth. Diminutive 1",
+        "name":  "Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— Small 1d3 Medium 1d4 Large 1d6 Huge 1d8 Gargantuan 2d6 Colossal 2d8 91 SPELL LIVING 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 9911 77//1133//0044 55::2277::1122 PPMM CHILLING FOG GLITTERFIRE Large Ooze Medium Ooze",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— A thick fog bank radiates cold as it drifts toward you. A low cloud of bright, crackling motes of light move along the A chilling fog is a living cone of cold ground, causing tiny explosions in its wake. spell, subjecting its prey to deathly frost. Glitterfi re is a living combination of two spells commonly em- Combat ployed on the war-torn fi elds A chilling fog often lurks of the Mournland—glitter- in misty areas, making it dust and fi reball. Armies made difficult to detect until invisible by their allies were it attacks. outlined through the use Cone of Cold (Su): of glitterdust and then de- A creature hit by a chill- stroyed by their enemies ing fog’s slam attack through the judicious use or engulfed by it is of fi reballs. These two en- dealt 9d6 points of ergies merged into a cold damage (Reflex single dangerous form that DC 17 half). seeks out creatures and annihi- Engulf (Ex): A chill- lates them in a gout of fl ame. ing fog can flow around crea- Glitterfi re fl oats a few inches above tures that fit within its space as a Glitterfi re the ground, much like a fog. standard action. It cannot make a slam attack during a round in which it engulfs. The chilling fog merely has to Combat move over the opponents, affecting as many as it can cover. Being unintelligent, glitterfi re simply approaches any living Opponents can make attacks of opportunity against a chill- creature, lighting it up and blinding it with glitterdust while ing fog, but if they do so they are not entitled to a saving erupting in tiny, but dangerous, explosions. throw. Those who do not attempt attacks of opportunity Engulf (Ex): A glitterfi re can fl ow around creatures must succeed on a DC 17 Refl ex save or be engulfed; on a that fit within its space as a standard action. It cannot success, they are pushed back or aside (opponent’s choice) as make a slam attack during a round in which it engulfs. A the spell moves forward. Engulfed creatures take 9d6 points glitter fi re merely has to move over the opponents, affect- of cold damage (Refl ex DC 17 half) and are considered to ing as many as it can cover. Opponents can make attacks of 92 be grappled. opportunity against the glitterfi re, but if they do so they are GNIVIL LLEPS iasT .F yb .sullI 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 9922 77//1133//0044 55::2277::1144 PPMM not entitled to a saving throw. Those who do not attempt Combat attacks of opportunity must succeed on a DC 14 Refl ex save A living blasphemy attacks by slamming into prey with its or be engulfed; on a success, they are pushed back or aside body or engulfi ng foes. (opponent’s choice) as the spell moves forward. Engulfed Blasphemy (Su): A nonevil creature hit by a living blas- creatures are subject to the full normal effect of the fi reball phemy’s slam attack or engulfed by the ooze suffers certain and glitterdust effects each round on the glitterfi re’s turn, effects depending on how many Hit Dice it has, as shown in and are considered to be grappled. the table below. Fireball (Su): A creature hit by a glitterfi re’s slam attack Furthermore, a nonevil extraplanar creature struck or or engulfed by it takes 5d6 points of fi re damage (Refl ex DC engulfed must succeed on a DC 20 Will save with a –4 pen- 14 half). alty or be banished to its home plane and unable to return Glitterdust (Su): A creature hit by a glitterfi re’s slam for 24 hours. The save DC is Charisma-based. attack or engulfed by it is blinded (Will DC 13 negates) and covered in dust for 5 rounds, rendering it visible (if Target’s HD Effect 13 Dazed invisible) and applying a –40 penalty on Hide checks. 9–12 Weakened 4–8 Paralyzed LIVING BLASPHEMY 3 or less Killed Huge Ooze (Evil)",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Slam +10 melee (1d8+4 plus spell effect) Killed: Living creatures die. Undead are destroyed.",
+        "name":  "Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Slam +10 melee (1d8+4 plus spell effect) The effects are cumulative and concurrent. Space/Reach: 15 ft./10 ft. Engulf (Ex): A living blasphemy can fl ow around",
+        "name":  "Full Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— blasphemy’s spell effect each",
+        "name":  "Advancement",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— round on the living blasphe- my’s turn and are considered A 15-foot-tall obelisklike pillar of utter to be grappled and trapped blackness creeps toward you. Its dark sides within its body. reflect back distorted images of the scene as though spiteful. Living Dictum A smooth, gray cube of ooze glides A living blasphemy remains as directly toward you. Fifteen feet wide on each side, its perfect angles belie evidence of dark deeds done in the its jellylike form. name of evil. Once simply a blas- phemy spell cast by an evil cleric, the living blasphemy now has a terrible A living dictum has the same statistics life of its own. It has no pur- and abilities as a living blasphemy, pose in life and seeks only but it has the lawful descriptor the destruction of other instead of the evil descrip- creatures it encounters. tor, and its spell effect ability 93 Living blasphemy affects non lawful creatures. Illus. by D. Allsop SPELL LIVING 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 9933 77//1133//0044 55::2277::1177 PPMM SICKENING SLEEP Target’s HD Effect 13 Deafened Medium Ooze 9–12 Slowed Hit Dice: 1d10 (5 hp) 4–8 Paralyzed",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The creature is slowed, as the slow spell, for 2d4 footed 10 rounds. Base Attack/Grapple: +0/+0",
+        "name":  "Slowed",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— a living blasphemy, but it has the good descriptor instead Feats: — of the evil descriptor, and its spell effect ability affects Environment: Underground non good creatures. Organization: Solitary",
+        "name":  "A living holy word has the same statistics and abilities as Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The creature is paralyzed and helpless for The living spell sickening sleep combines sleep and ray of 1d10 minutes. enfeeblement to debilitating effect.",
+        "name":  "Paralyzed",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Living creatures die. Undead are destroyed. The effects are cumulative and concurrent. Combat A sickening sleep is often encountered in dank under- Living Word of Chaos ground passageways. A roughly cylindrical pillar of gelatin about the height of a giant Engulf (Ex): A sickening sleep can fl ow around creatures wobbles before you. Mostly transparent, letters from various that fi t within its space as a standard action. It cannot make alphabets appear at random in its body and glide away into a slam attack during a round in which it engulfs. A sicken- nothingness. ing sleep merely has to move over the opponents, affecting as many as it can cover. Opponents can make attacks of A living word of chaos has the same statistics and abilities as opportunity against a sickening sleep, but if they do so they a living blasphemy, but it has the chaotic descriptor instead are not entitled to a saving throw. Those who do not attempt of the evil descriptor, and its spell effect ability affects non- attacks of opportunity must succeed on a DC 11 Refl ex save chaotic creatures. or be engulfed; on a success, they are pushed back or aside (opponent’s choice) as the spell moves forward. Engulfed Target’s HD Effect creatures are subject to the ray of enfeeblement and sleep 13 Deafened effects and are considered to be grappled. 9–12 Stunned Ray of Enfeeblement (Su): A creature hit by a sickening 4–8 Confused sleep’s slam attack or engulfed by it takes a 1d6 penalty to 3 or less Killed Strength for 1 minute. Multiple hits are not cumulative, and",
+        "name":  "Killed",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The creature is confused, as by the confusion attack or engulfed by it falls asleep for 1 minute (Will DC spell, for 1d10 minutes. This is a mind-affecting enchant- 11 negates). ment effect.",
+        "name":  "Confused",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Darkvision 60 ft., hold breath, resistance class. Blackscale priests are actually adepts and can select to acid 5 spells from the Protection and Sun domains.",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Poison use Poison use, spells",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell-like abilities Spells, spell-like abilities, turn undead (+1, 2d6+7, 6th)",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+2 +2 LUMI SOCIETY —Darkvision out to 60 feet. The lumi have a highly ordered society with a strict hierarchy —Racial Hit Dice: A lumi begins with two levels of outsider, based on their theology. Each settlement is more or less inde- which provide 2d8 Hit Dice, a base attack bonus of +2, and base pendent, though periodically the High Ecclesiastics of many saving throw bonuses of Fort +3, Ref +3, and Will +3. cities will gather in a hidden cathedral that fl oats alone in —Racial Skills: A lumi’s outsider levels give it skill points the Positive Energy Plane. equal to 5 × (8 + Int modifi er). Its class skills are Concen- The lumi are dedicated to wiping out liars and other deceiv- tration, Diplomacy, Heal, Knowledge (the planes), Listen, ers; they would like nothing more than to invade the Mate- Search, Sense Motive, and Spot. Lumi have a +2 racial bonus rial Plane and execute every dishonest creature. Fortunately, on Search, Sense Motive, and Spot checks. their numbers are far too few for such a scourge—so far. The —Racial Feats: A lumi’s outsider levels give it one feat. It lumi’s numbers are growing quickly. Some worry that within gains Improved Initiative as a bonus feat. less than twenty years, the lumi may have enough soldiers to —Special Attacks: Spell-like abilities (see above) enact their envisioned cleansing. Such an invasion is likely to —Special Qualities: Body of light, clear vision, fl oating have grave consequences. head (see above). —Automatic Languages: Common, Lumi. Bonus Languages: LUMI AS CHARACTERS Abyssal, Celestial, Dwarven, Infernal.",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "—Favored Class: Cleric. All lumi clerics channel positive — +2 Strength, +4 Constitution, +4 Wisdom, –2 Dexterity. energy regardless of their alignment. A lumi cleric worships —Medium size. Light and can choose from the Law, Sun, and War domains. 99 —A lumi’s base land speed is 30 feet. —Level adjustment +2. LUMI 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 9999 77//1133//0044 55::2277::3355 PPMM LURKING STRANGLER Eye Rays (Su): Each of a lurking strangler’s two eye rays Tiny Aberration resembles a spell cast by a 3rd-level caster. One eye acts as",
+        "name":  "Lumi characters possess the following racial traits",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "2d8+2 (11 hp) the cause fear spell, and the other produces a sleep effect. Each",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Eye ray +7 ranged touch or lash +7 melee (1d4–3) Sleep: This ray works like the spell, except that it",
+        "name":  "Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "3–4 HD (Tiny); feather fall effect (as the spell) with 5–6 HD (Small) personal range.",
+        "name":  "Advancement",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— LURKING STRANGLERS A 3-foot-long strand of striated IN EBERRON muscle connects two floating eyeballs. The daelkyr (see page 278 of the The strand flexes and twists. EBERRON Campaign Setting) created the fi rst lurking stranglers out of boredom, Many species enjoy pets that resemble and only later did their beholder min- themselves. Some humans keep monkeys as ions adopt them as companions and pets. companions and some rakshasas keep house cats. Lurking strangler Although the beholders fi nd lurking stranglers Gauths and beholders enjoy lurking stranglers. amusing and occasionally useful as sentries and This lesser creature acts as a companion, pet, and occasional spies, the species wasn’t spawned for either purpose; spy for them. they merely serve as living examples of the daelkyr’s Lurking stranglers are 3 feet long from eyeball to eyeball. willingness to experiment. They weigh 5 pounds. LURKING STRANGLERS IN FAERÛN Lurking stranglers understand Beholder and Common. They have neither a mouth nor any means of speaking. In the FORGOTTEN REALMS setting, beholder mages are the They communicate by twisting their bodies. A wide-open progenitors of lurking stranglers, creating them by means posture usually signifi es assent, and a tight spiral indicates of a spell. Wherever beholder enclaves are found, so too are fear, tension, or disagreement. lurking stranglers. Ooltul, a small city in the Underdark, harbors the largest population of lurking stranglers. COMBAT A lurking strangler primarily uses its eye rays to attack. It can use its entire body to lash at an adjacent foe. However, it prefers to keep its distance and let its eye rays defeat its enemies. Once its victims are asleep, it will coil itself around a foe and choke it to death. 100 GNIKRUL RELGNARTS kahsyaW .J yb .sullI 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 110000 77//1133//0044 55::2277::3377 PPMM MASTODON Huge Animal",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell-like abilities, Wisdom damage behind to fend for themselves. Mindshredder zenthals",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Underground spell-like abilities to distract and confuse its foes before",
+        "name":  "Environment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Darkvision 60 ft., low-light vision, Combative mount, darkvision 60 ft., scent, spell resistance 17 low-light vision, scent, spell resistance 21",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Infi nite Layers of the Abyss bones and corpses, spells that create undead",
+        "name":  "Environment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "None each spell: animate dead, 10d4; create undead, 15d4;",
+        "name":  "Treasure",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "3 slams +24 melee (2d8+14) mal killer spell-like ability. A night twist employs its power- Space/Reach: 10 ft./20 ft. ful slam attack only if opponents fi rst survive the illusion.",
+        "name":  "Full Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Death curse, despair song, spell-like abili- The creature uses its entangle and deeper darkness spell-like ties, wind blast abilities to keep opponents from escaping. When a night",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Damage reduction 10/slashing, low- twist feels threatened, it uses its wind attack and fear spell- light vision, plant traits, unholy grace, vulnerability like ability. to fire Death Curse (Su): Killing a night twist invites a curse",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Fort +23, Ref +8, Will +14 similar to that bestowed by the nightmare spell. The crea-",
+        "name":  "Saves",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Blind-Fight, Diehard, Endurance, Improved Sunder, prepare or ready arcane spells for the next 24 hours. The Iron Will, Power Attack nightmares and resulting damage affect the subject every",
+        "name":  "Feats",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Death curse, despair song, spell-like abili- near the tombs of elf kings, fallen temples, and the bones ties, wind blast of slain dragons. Night twists even threaten travelers",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Hunting cry Hunting cry, spells",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Hide +4, Listen +12*, Move Silently +11, lifting and carrying limits 3/4 those of Medium characters. Spot +8*; Alertness, Stealthy. —A nycter’s base land speed is 20 feet. It has a fl y speed of Blindsense (Ex): A dire bat uses echolocation to pinpoint 40 feet with good maneuverability. creatures within 40 feet. Opponents still have total conceal- —Blindsense: A nycter uses echolocation to pinpoint ment against the bat unless it can actually see them. creatures within 60 feet. Opponents still have total conceal- Link (Ex): This nycter druid can handle its animal ment against the nycter unless it can actually see them. companion as a free action. The nycter also gains a +4 cir- —Darkvision out to 60 feet. cumstance bonus on all wild empathy checks and Handle —Racial Hit Dice: A nycter begins with three levels of Animal checks made regarding its dire bat companion. monstrous humanoid, which provide 3d8 Hit Dice, a base Share Spells (Ex): Any spell this nycter druid casts on itself attack bonus of +3, and base saving throw bonuses of Fort also affects its animal companion if the latter is within 5 feet +1, Ref +3, and Will +3. at the time. It can also cast a spell with a target of “You” on —Racial Skills: A nycter’s monstrous humanoid levels its animal companion. give it skill points equal to 6 × (2 + Int modifi er, minimum",
+        "name":  "Skills and Feats",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Improved grab, spell-like abilities, swal- low whole, throw stones, trample 2d6+10 An odopi tramples foes to get within reach of several",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Improved grab, spell-like abilities, swal- even if rushed or threatened. low whole, throw stones, trample 3d6+16 ODOPIS IN EBERRON",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "4 tentacles +14 melee (1d8+8) and 1 bite +8 otyughs often seek to wound divine spellcasters early in melee (1d6+4) an encounter. Space/Reach: 10 ft./10 ft. (tentacle up to 15 ft.) Constrict (Ex): A lifeleech otyugh deals automatic ten-",
+        "name":  "Full Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Hide +3*, Jump +12, Listen +10, Spot +10 Lifeleech Aura (Su): Whenever a spell or spell-like abil-",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Underground of the healing spell as if it had been one of the spell’s",
+        "name":  "Environment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Solitary, pair, or cluster (3–4) targets. If a healing spell cast within 60 feet of a life-",
+        "name":  "Organization",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+2 (cohort) Lullaby: Any creature within a 20-foot-radius that fails a DC 14 Will save is affected as though by a lullaby spell. A Ahead is a small troupe of tiny humanoid-shaped creatures creature that successfully saves cannot be affected again dressed in garments made from leaves, their petallike by that petal’s lullaby song for 24 hours. The save DC is wings keeping them aloft. Charisma-based. Their beautifully colored",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Masterwork falchion +10/+5 melee (2d4+3/ A phoelarch is a deadly combatant at a distance and in 18–20 plus 1d6 fi re) melee. In a fi ght, it prefers to rely on its empowered scorching Space/Reach: 5 ft./5 ft. ray and other spell-like abilities as long as possible, engaging",
+        "name":  "Full Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Death throes, heat, spell-like abilities in melee with its falchion only if necessary. Charismatic and",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Darkvision 60 ft., healing fi re, immu- engaging, a phoelarch is rarely encountered alone. One is nity to fi re, immunities, rise from the ashes, spell resis- frequently accompanied by companions of similar interests, tance 18, vulnerability to cold or by loyal followers.",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "AlertnessB, Empower Spell-Like Ability (scorching is Constitution-based. ray), Great FortitudeB, Improved Toughness, Quick Draw Heat (Ex): A phoelarch generates so much heat that",
+        "name":  "Feats",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spells, split Spells, split",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Change shape, damage reduction 10/silver, Change shape, damage reduction darkvision 60 ft., immunity to petrifi cation 10/silver, darkvision 60 ft., immunity and poison, resistance to cold 10 and to petrifi cation and poison, resistance electricity 10, spell resistance 24 to cold 10 and electricity 10, spell resistance 24",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Improved Initiative, Improved Natural Improved Initiative, Improved Natural Attack Attack (claws), Iron Will, Lightning (claws), Iron Will, Lightning Refl exes, Refl exes, Multiattack, Powerful ChargeB Multiattack, Powerful ChargeB, Silent Spell",
+        "name":  "Feats",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— — *Includes adjustments for Power Attack feat. RAGE DRAKES IN EBERRON Smite Good (Su): Once per day, a fi endish rage drake can make a normal melee attack to deal an extra 20 points of Rage drakes are found in large numbers on the continent damage against a good foe. of Argonnessen, lairing in caves carved into perilous cliffs near coastal waters. They are also found in alarming num- RAGE DRAKE MOUNTS bers on mainland Khorvaire, battling wyverns for territory. Although they are too intelligent to be trained with the Longships of the Lhazaar Principalities often have fi gure- Handle Animal skill, rage drakes can occasionally be bribed heads carved to resemble rage drakes, and the creatures or bullied into serving as mounts for extremely powerful are hunted, respected, and feared up and down Khorvaire’s riders. Riding a rage drake, even a thoroughly cowed one, eastern coastline. The barbarian tribes of Argonnessen use is always risky, and the rider must be prepared to deal with rage drakes as mounts. the rage drake’s attempt to assert control or turn on its rider. RAGE DRAKES IN FAERÛN Controlling a mount is especially diffi cult when the crea- ture enters a rage—all Ride checks during such a time have Rage drakes populate various mountain ranges in the their DCs increased by 10. Unapproachable East, most notably the Giantspire Moun- A rage drake willing to serve as a mount and trained for tains in Narfell and the Dragonjaw Mountains in Thesk battle costs at least 15,000 gp. Frequent rewards of food, and Aglarond. Enslaved rage drakes also serve various Red drink, and precious gems can keep a rage drake happy and Wizards of Thay. They have been encountered in large reasonably loyal. In general, a rage drake rider should expect numbers as far south as the Toadsquat Mountains of the to spend between 500 and 1,500 gp per month on the crea- Eastern Shaar. Shiertalaran traders have also reported rage ture if he wants to keep the beast content (or as content as a drakes in the Wyrmbones that prey on caravans approach- rage drake ever is). ing the city of Kormul as well as on boats heading up and 131 down the Talar River. RAGE DRAKE 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 113311 77//1133//0044 55::3344::0011 PPMM RAGEWALKER creatures. A ragewalker is often encountered with one Large Fey or more living spells bound to it as guardians, although",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Diplomacy +9, Hide +28, Jump +37, Listen +27, Move then uses its spell-like abilities to divide the battlefi eld to Silently +32, Sense Motive +27, Spot +27 its liking, isolating small groups of foes and then moving",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Solitary or troupe (1 plus 1d3 living spells) rebukes and commands living spells as a cleric with a level",
+        "name":  "Organization",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Pain wave, rebuke undead (+6, 2d6+26, own missions. All rakshasas tend toward solitary existences, 20th), spell-like abilities, spells but communication and coordination between the various",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Change shape, damage reduction 15/ kinds is not unheard of. good and piercing, darkvision 60 ft., outsider traits, spell An ak’chazar rakshasa typically establishes a power resistance 31 base at the site of a great battle, a large cemetery, or some",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +30, Concentration +24, Diplomacy +24, intelligent undead minions. Thereafter, it might make Disguise +16 (+18 acting), Escape Artist +25, Gather contact with a local underworld organization (almost Information +16, Hide +20, Intimidate +22, Knowledge always through intermediaries) or even a corrupt or (arcana) +24, Knowledge (the planes) +24, Listen +24, power-hungry political official. It will play with these Move Silently +20, Sense Motive +14, Spellcraft +26, leaders, offering them advice, power, or Spot +24, Survival +4 (+6 other planes), Use Rope +5 riches as it learns their habits and defin- (+7 bindings) ing characteristics. Then the ak’chazar",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Change shape, damage reduction Naztharune rakshasas speak Common, Infernal, and 15/good and piercing, darkvision 60 ft., evasion, hide Undercommon. in plain sight, improved evasion, improved uncanny COMBAT dodge, outsider traits, shadow jump, spell resistance 21, uncanny dodge Unlike their spellcasting cousins, a naztharune rakshasa",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Balance +21 , Bluff +20* , Diplomacy +4 , Disguise maneuver into fl anking situations. +20* (+22* acting), Escape Artist +19 , Hide +19 , Intimi- Detect Thoughts (Su): A naztharune rakshasa can con- date +4 , Jump +8 , Listen +14 , Move Silently +19 , Search tinuously use detect thoughts as the spell (caster level 18th; +16 , Spot +14 , Survival +0 (+2 following tracks), Tumble Will DC 17 negates). It can suppress or resume this ability +21, Use Rope +5 (+7 bindings) as a free action. The save DC is Charisma-based.",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "By character in form cannot be dispelled, class but a naztharune reverts to",
+        "name":  "Advancement",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Freezing gaze, spell-like abilities enemies as possible before charging the hardiest with a",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Fort +7, Ref +4, Will +6 Spell-Like Abilities: At will—crushing despair (DC 16),",
+        "name":  "Saves",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Str 20, Dex 14, Con 17, Int 5, Wis 12, Cha 8 a single-target web spell; a DC 15 Refl ex save negates the",
+        "name":  "Abilities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Swarm (3d6) When the members of a swarm concentrate this glow, the Space/Reach: 10 ft./0 ft. swarm sheds light equivalent to a daylight spell. This illumi-",
+        "name":  "Full Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Construct traits, damage reduction 10/adamantine, darkvision 60 ft., low-light vision, resistance to acid 10, cold 10, electricity 10, and fi re 10, tunnel fi ghting, spell resistance 23",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+4 straight fi ght, but once battle has started, a spellwarped",
+        "name":  "Initiative",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Morningstar +14 melee (2d6+8) or javelin +6 ranged When it absorbs spell energy, it typically uses the energy to (1d8+8) fi rst increase its Constitution, then its Strength, and fi nally",
+        "name":  "Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "2 morningstars +14/+9 melee (2d6+8) or 2 jav- it gains hit points from any other spell energy absorbed. If elins +6 ranged (1d8+8) hard-pressed and fortunate enough to absorb a spell, a spell- Space/Reach: 10 ft./10 ft. warped ettin will use the energy to increase its base speed",
+        "name":  "Full Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Str 27, Dex 10, Con 19, Int 10, Wis 10, Cha 11 the spell effect is resolved.",
+        "name":  "Abilities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Listen +13, Search +6, Spot +13 Might: The spellwarped ettin gains a +4 enhancement",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The spellwarped ettin gains a +4 enhancement",
+        "name":  "Attack Agility",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Solitary, gang (2–4), troupe (1–2 plus Endurance: The spellwarped ettin gains a +4 enhancement 1–2 brown bears), band (3–5 plus 1–2 brown bears), bonus to Constitution for 1 minute. or colony (3–5 plus 1–2 brown bears and 7–12 orcs or Life: The spellwarped ettin gains temporary hit points 9–16 goblins) equal to 5 × the level of the failed spell.",
+        "name":  "Organization",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "7 Speed: The spellwarped ettin’s base speed increases by a",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Standard number of feet equal to 5 × the level of the failed spell.",
+        "name":  "Treasure",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Usually chaotic evil Resistance: The spellwarped ettin gains resistance 10 to",
+        "name":  "Alignment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A spellwarped crea- ture has all the special qualities of the base creature, plus the following special qualities. Spell Resistance (Ex): A spellwarped creature gains spell resistance equal to 11 + its Hit Dice. If the creature already has spell resistance, use the greater of the two values. Spell Absorption (Su): Whenever a spell fails to penetrate a spellwarped creature’s spell resistance, the creature gains one of the following benefi ts, chosen at the time that the spell resolves.",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The spellwarped creature gains a +4 enhancement bonus to Strength for 1 minute.",
+        "name":  "Might",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The spellwarped creature gains a +4 enhancement bonus to Dexterity for 1 minute.",
+        "name":  "Agility",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The spellwarped creature gains a +4 Spellwarped ettin enhancement bonus to Constitution for 1 minute.",
+        "name":  "Endurance",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The spellwarped creature gains temporary hit points immersed in the draconic Prophecies. Many equal to 5 × the level of the failed spell. of their spellwarped creations survived the ages and con-",
+        "name":  "Life",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The spellwarped creature’s base speed increases by tinue to inhabit Eberron to this day, although few have any a number of feet equal to 5 × the level of the failed spell. recollection of their true origins.",
+        "name":  "Speed",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The spellwarped creature gains resistance 10 to The giants of Xen’drik learned the secrets of creating one energy type (acid, cold, electricity, fi re, or sonic). spellwarped creatures from the dragons and revived the",
+        "name":  "Resistance",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Increase from the base creature as follows: Str arcane practice, creating spellwarped elves, orcs, ettins, +4, Dex +2, Con +4, Int +4. and even more monstrous creatures. Many spellwarped",
+        "name":  "Abilities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "HD 3 or less, as base creature; creatures that once served the giants as slaves now haunt the HD 4 to 10, as base creature +1; HD 11 or more, as base ruins of the giants’ shattered civilization. creature +2. SPELLWARPED",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Usually evil (any). Spellwarped creatures are CREATURES IN FAERÛN typically selfi sh and cruel.",
+        "name":  "Alignment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Camoufl age, damage reduction 5/silver, Camoufl age, damage reduction 5/silver, low-light vision, spell resistance 7, low-light vision, spell resistance 11, superior woodland stride superior woodland stride",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bite +14 melee (2d6+9/19–20 plus poison)* and paralysis, secondary damage 1d4 Con. The save DC is Con- 2 claws +9 melee (1d8+7)* stitution-based. Space/Reach: 5 ft./5 ft. Spell-Like Abilities: 1/day—animal trance (DC 13), cause fear",
+        "name":  "Full Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A greater ssvaklor has a +8 racial bonus on any to rule the city of Hlondeth after his mother’s passing, se- Swim check to perform some special action or avoid a cretly leads the Hlondethan cell of the Cult of the Dragon. hazard. It can always choose to take 10 on a Swim check, Using his contacts within the Cult, Dmetrio has acquired even if distracted or endangered. It can use the run action several black dragon eggs and now seeks the means to while swimming, provided it swims in a straight line. transform them into ssvaklors. Rivals in the Cult of Tia- mat have learned of Dmetrio’s plans and are plotting to SSVAKLORS IN EBERRON recover the eggs. As the Inspired tightened their grip on Sarlona, the yuan-ti natives of that continent fled from their cities in 167 SSVAKLOR pqqqqqqqqqqqqqqqqqqqqrs PSIONIC SSVAKLORS PSIONIC GREATER SSVAKLORS If you are using the Expanded Psionics Handbook and running Greater ssvaklors gain the psionic subtype, have power resis- a psionic campaign, ssvaklors gain the psionic subtype, have tance 28 instead of spell resistance, and gain psi-like abilities. power resistance 18 instead of spell resistance, and gain psi- Psi-Like Abilities: 1/day—aversion (duration 20 hours, DC 18*), like abilities. control light, entangling ectoplasm (affects a Large or smaller crea- Psi-Like Abilities: 1/day—aversion (duration 10 hours, DC ture), id insinuation (affects up to six creatures, no two of which 16*), control light, entangling ectoplasm, id insinuation (affects can be more than 15 feet apart; DC 18*), metamorphosis (giant up to four creatures, no two of which can be more than 15 feet constrictor snake or Huge viper forms only), psionic freedom of apart; DC 16*), psionic freedom of movement. Manifester level movement. Manifester level 15th. The save DCs are Charisma- 7th. The save DCs are Charisma-based. These abilities replace based. These abilities replace the creature’s spell-like abilities. the ssvaklor’s spell-like abilities. *Includes augmentation for the greater ssvaklor’s manifester *Includes augmentation for the ssvaklor’s manifester level. level. pqqqqqqqqqqqqqqqqqqqqrs Illus. by R. Horsley 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 116677 77//1133//0044 55::3377::5555 PPMM STONESINGER This works in the same manner as infl uencing a creature’s Large Aberration (Earth) attitude with Diplomacy, except that the character makes a",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— a victim. Shattering Shriek (Su): Once ev- This scorpionlike creature ery 5 rounds, a stonesinger can emit an moves on a dozen legs and is ear-piercing shriek as an attack. covered with a shiny obsidian This shriek creates a blast of carapace. Its tail ends in an sonic energy that it can direct at opening that looks like a any single target within lamprey’s mouth. 60 feet; the stonesinger makes a Perform (sing) The stonesinger is a check, using the horrible and bizarre target’s touch AC as creature composed the check DC. If suc- of flexible stone. It cessful, the attack deals superfi cially resem- 12d6 points of nonlethal damage bles a scorpion, with a Stonesinger and the victim is stunned for 1d6 rounds (For- wide, fl at body covered by thick scales. It moves titude DC 18 negates the stun). The save DC is about with the aid of its long, spidery legs that end in crystal Constitution-based. claws that can pierce stone. The front of the creature is a nest Spell-Like Abilities: 3/day—meld into stone, stone shape; of six long claws mounted on thick, segmented arms. The 1/day—wall of stone (DC 19). Unlike normal spell-like abili- creature’s “tail” is in fact a long stalk of fl exible black stone ties, these have a verbal component (the stonesinger must that ends in a huge lampreylike mouth surrounded by fi ve sing). Caster level 9th. hooked arms. Skills: A stonesinger has a +8 racial bonus on Climb Although commonly mistaken for outsiders from the checks and can always choose to take 10 on a Climb check, Elemental Plane of Earth, stonesingers are native to the Mate- even if rushed or threatened. rial Plane. They are masters at controlling the earth, and they STONESINGERS IN FAERÛN sing haunting, booming songs that are often mistaken for the wind blowing over hollows in the desolate badlands. Stonesingers are most commonly encountered near the Stonesingers are quite intelligent. They are great appre- Great Rift and represent a constant bane to the gold dwarves ciators of music, and an accomplished performer can some- living there. They can also be encountered as far west as Old 168 times placate an angry stonesinger with an impressive song. Shanatar and as far north as the Earthroot. REGNISENOTS ttocserP .S yb .sullI 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 116688 77//1133//0044 55::3377::5588 PPMM SUMMONING OOZE potent foe. Some summoning oozes set their sights on the Medium Ooze subjugation of humanoid tribes, supplementing their sum-",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "6–8 HD (Medium); moning ooze can summon a creature 9–15 HD (Large) as the summon monster I spell (caster",
+        "name":  "Advancement",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— level 20th). The summoned creature remains for 20 rounds or until slain. A A gelatinous creature slides toward you. summoning ooze can summon a maxi- Its body is nearly transparent except for mum of twice its Hit Dice in creatures a number of strangely glowing arcane per day. symbols that seem to float within its For each additional 2 HD of protoplasm. The symbols seem to form a summoning ooze above 5, the a circle within the ooze, glowing and pulsing as it moves. summoning ooze’s summon mon- ster ability improves by one spell The result of a bizarre summon- level (to summon monster II at ing ritual gone awry, a summon- 7 HD, summon monster III at 9 ing ooze is the living embodiment HD, and so on, up to a maximum of a summoning circle. Capable of of summon monster VI at 15 HD). summoning various creatures to Each 2 HD gained also increases do its bidding, a summoning ooze the summoning ooze’s Challenge is never fought alone. It surrounds Rating by 1 (instead of the normal itself with summoned minions that +1 CR per 4 added HD for oozes). defend it with their lives. Due to the ooze’s Augment Sum- A summoning ooze looks like a moning feat, its summoned creatures translucent blob of protoplasm have a +4 enhancement bonus to roughly 4 feet across. The runes Strength and Constitution for the of its absorbed summoning duration of the ability’s effect. circle shift and fl ash within Skills: Summoning oozes it, swirling together in have a +4 racial bonus on Hide, a flash of golden arcane Listen, and Move Silently checks. light to form a summoning A summoning ooze has a +8 racial circle whenever the ooze uses Summoning ooze bonus on Climb checks and can always its summon monster ability. choose to take 10 on a Climb check, even if rushed A summoning ooze is typically motivated primarily by or threatened. a need to hunt and reproduce. With its reasonable intelli- gence and an ability to produce whatever minions it might 169 need for whatever purpose it can conceive, it can make a Illus. by M. Tedin OOZE SUMMONING 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 116699 77//1133//0044 55::3388::0022 PPMM SUSURRUS through the trees, that has a curiously stupefying effect on Large Aberration undead. As such, intelligent undead try to kill a susurrus",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A susurrus has a +8 racial bonus on Climb checks and can always choose to take 10 on a Climb check, even if rushed or threatened. 170 Susurrus SURRUSUS lekniwhoV .F yb .sullI 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 117700 77//1133//0044 55::3388::0066 PPMM SWAMP STRIDER SWARM spell level). Using skills requiring patience and concen- Diminutive Vermin (Swarm) tration requires a DC 20 Concentration check. The save",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Swarm (2d6) the application of a cure spell or",
+        "name":  "Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Str 1, Dex 20, Con rise to the surface (as per the 10, Int —, Wis 10, Cha 8 spell effect), but if it is forced",
+        "name":  "Abilities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Diplomacy +3, Hide +17, arrows, regardless of Hit Dice, must Listen +9, Move Silently +13, succeed on a DC 16 Fortitude save Search +9, Sense Motive +9, or be affected as though by a sleep Spot +9, Survival +0 (+2 fol- spell. The save DC is Charisma- lowing tracks) based and includes a +2 racial",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A topiary guardian gains the following lization and nature converge. They also protect temples and special attack. shrines of Chauntea, Mielikki, Silvanus, and other similar Merciful (Ex): A topiary guardian can deal nonlethal damage deities. Aquatic elf druids have learned how to fashion with any of its attacks without taking the standard –4 penalty underwater topiary guardians from beds of kelp, while on attack rolls. The creature chooses whether to deal lethal in the Underdark topiary guardians are fashioned from or nonlethal damage depending on the orders it is given by sculpted clumps of living moss. 175 GUARDIAN TOPIARY 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 117755 77//1133//0044 55::3399::3377 PPMM TRILLOCH preventing spellcasting. As creatures drop to negative hit Small Outsider (Chaotic, Extraplanar, Incorporeal) points, it uses its death knell ability to feed off their prema-",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ability Focus (control rage), Improved Initiative, DC 19 Will save. The trilloch can end the rage for any Quicken Spell-Like Ability (death knell) number of creatures prematurely, without affecting",
+        "name":  "Feats",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Damage reduction 5/adamantine, dark- Regeneration (Ex): Unlike with their lesser cousins, vision 90 ft., low-light vision, regeneration 9, scent, spell acid (not fi re) deals normal damage to a war troll. If a war resistance 20 troll loses a limb or a body part, the lost portion regrows in",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "3–5 HD (Small); 6–9 HD (Medium); 10–16 spell-like abilities. HD (Large); 17–25 HD (Huge); 26–34 HD (Gargantuan); Improved Grab (Ex): To use this ability, a vasuthant 35–48 HD (Colossal) must fi rst hit with its slam attack. It can then attempt to",
+        "name":  "Advancement",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Vasuthants have a +2 racial bonus on Listen Caster level 17th. checks and Spot checks. *A vasuthant gains a +4 racial Alter Past (Su): As a free action, a horrifi c vasuthant can bonus on Hide checks in areas of shadowy illumination. produce a rift in time that enables it to replay its last turn. In areas of bright illumination, it takes a –4 penalty on The vasuthant returns to the position it occupied when Hide checks. its turn began, and any effects that occurred during that time are reversed (including any readied actions or attacks HORRIFIC VASUTHANT of opportunity that its actions provoked). If it used any Huge Undead spell-like abilities, it regains the daily uses spent. A horrifi c",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "2 slams +21 melee (2d8+11/19–20) and up to 4 of the emanation. Light sources within the area are sup- enervating crushes (4d6+11 plus 1d8 Str) pressed, not dispelled. If a horrifi c vasuthant moves out of Space/Reach: 15 ft./15 ft. range before the light source’s duration expires, the light",
+        "name":  "Full Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Enervating crush, improved grab, reality source illuminates again (though its illumination still can- distortion, spell-like abilities not extend within the area of the horrifi c vasuthant’s trap",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Command vermin, constrict 1d6+4, from fallen foes. improved grab, poison, spell-like abilities, vermin cloud Command Vermin (Su): A vermin lord can compel",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Darkvision 60 ft., evasion, immunity to vermin to do its bidding. As a standard action, a vermin mind-affecting spells and abilities, regeneration 5, spell lord can target a vermin within 100 feet. The vermin must resistance 25, uncanny dodge succeed on a DC 25 Will save or be controlled. The control-",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Fort +17, Ref +22, Will +18 ling effect functions as a dominate monster spell from a 20th-",
+        "name":  "Saves",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Solitary, pair, or gang (3–6) Spell-Like Abilities: At will—repel vermin (DC 17);",
+        "name":  "Organization",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A voidmind creature gains a masters can take control of the tentacle attack. Even if the base creature already voidmind grimlock, at will, has a tentacle attack, use the damage value on the as the dominate monster spell table below for its new tentacle. In addition, a void- (no save). While controlling the Voidmind grimlock mind creature gains the improved grab ability voidmind grimlock in this fashion, with its tentacle (see Special Attacks, below). a mind fl ayer can manifest its own innate psionic abilities Size Tentacle Damage through the voidmind grimlock, as though the creature Tiny 1d3 Small 1d4 were manifesting the ability itself. Any of the mind fl ayer’s Medium 1d6 psionic powers used in this fashion can target or affect crea- Large 1d8 tures within range, line of sight, and line of effect of the Huge 2d6 voidmind creature. So, for example, a mind fl ayer can use plane shift to send the voidmind grimlock to another plane, Special Attacks: A voidmind creature retains all the spe- or it could send itself to another plane. Likewise, the mind cial attacks of the base creature and also gains the following fl ayer could use suggestion on a target it sees through the special abilities. voidmind grimlock’s eyes. Cone of Slime (Su): Once per day as a standard action,",
+        "name":  "Finally, any one of the three Damage",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Voidmind creatures have a +4 racial bonus on a voidmind creature can expel the psionically charged Bluff, Escape Artist, and Intimidate checks. *In addition, a slime in its head in a 30-foot cone. This attack deals 1d6 grimlock’s dull gray skin helps it hide in its native terrain, points of acid damage per Hit Die of the voidmind creature conferring a +10 racial bonus on Hide checks when the (maximum 20d6). A successful Refl ex save (DC 10 + 1/2 creature is in mountains or underground. voidmind creature’s racial Hit Dice + voidmind creature’s Con modifi er) halves the damage. In addition, any creature CREATING A VOIDMIND CREATURE that takes damage from the spray takes a –2 penalty on “Voidmind” is an acquired template that can be added to its Will saves and is stunned for 1d4+1 rounds (Fortitude 188 any living aberration, animal, dragon, fey, giant, humanoid, save negates the stun; save DC same as above). The psionic DNIMDIOV ERUTAERC iasT .F yb .sullI 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 118888 77//1133//0044 55::4411::1188 PPMM slime replenishes itself automatically in 24 hours. The save spell (no save). While controlling the voidmind creature DCs are Constitution-based. in this fashion, a mind fl ayer can manifest its own innate Constrict (Ex): A voidmind creature gains the ability to psionic abilities through the voidmind creature, as though constrict its victim with a successful grapple check. When the creature were manifesting the ability itself. Any of the it constricts, one of its tentacles deals damage based on the mind fl ayer’s psionic powers used in this fashion can target creature’s size (see the table below), plus its Strength bonus or affect creatures within range, line of sight, and line of × 1-1/2. effect of the voidmind creature. So, for example, a mind Size Constrict Damage fl ayer can use plane shift to send the voidmind creature to Tiny 1d3 another plane, or it could send itself to another plane. Like- Small 1d4 wise, the mind fl ayer could use suggestion on a target it sees Medium 1d6 through the voidmind creature’s eyes. Large 1d8 Spell Resistance (Ex): Voidmind creatures gain spell resis- Huge 2d6 tance equal to 10 + Hit Dice. Improved Grab (Ex): To use this ability, a voidmind crea- Abilities: Change from the base creature as follows: Str ture must hit a creature of its size category or smaller with +4, Dex +2, Con +4, Int +2, Cha –2 (minimum 1). its tentacle attack. It can then attempt to start a grapple as Skills: Voidmind creatures have a +4 racial bonus on a free action without provoking attacks of opportunity. A Bluff, Escape Artist, and Intimidate checks. Otherwise voidmind creature has a +4 racial bonus on grapple checks same as the base creature. made with its tentacle. If the creature wins the grapple Feats: A voidmind creature gains Alertness, Combat check, it establishes a hold and can constrict. Refl exes, and Great Fortitude, if the base creature meets the Sentient Tentacle (Ex): A voidmind creature’s tentacle prerequisites and doesn’t already have these feats. attacks of its own accord. The creature can direct it to attack Organization: Solitary. certain targets, but the psionic nature of the tentacle enables Challenge Rating: +1. it to fl ex and move in combat without hindering the crea- Treasure: Standard. ture’s other combat abilities. A voidmind grimlock that has Alignment: Usually lawful evil (an enslaved voidmind successfully grappled a creature with its tentacle can attack creature has the alignment of its illithid masters, while a another creature at no penalty, as long as that creature is free-willed voidmind creature has the alignment of the within a distance equal to the tentacle’s reach. base creature).",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You gain immunity to sneak attacks and extra damage check penalties cannot be reduced to less than +0. from critical hits, but you lose the ability to be healed by spells of the healing subschool. 192 pqqqqqqqqqqqqqqqqqqqqrs DEGROFRAW 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 119922 77//1133//0044 55::4411::5500 PPMM —Automatic Language: Common. Bonus Languages: 60 pounds. Warforged scouts speak the language of their None. creators, usually Common. —Favored Class: Fighter. —Level adjustment +4. Combat Warforged scouts avoid face-to-face melee, preferring to WARFORGED SCOUT pepper opponents with arrows from cover and then disap- Warforged Scout, 1st-Level Warrior pear before striking again. Small Construct (Living Construct) Composite Plating (Ex): The composite plating used",
+        "name":  "Benefit",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Low-light vision, plant traits, treewalk, as the spell, at will. Attended objects can avoid the effect with vulnerability to fi re a DC 13 Will save (but if a saving throw succeeds, the wood",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell-like abilities Space/Reach: 5 ft./5 ft.",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Damage reduction 5/slashing, low-light Special Attacks: Spell-like abilities, spells vision, plant traits, vulnerability to fi re Special Qualities: Animal companion, damage reduction",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Neutral good Woodling monitor lizards can be aggres- Advancement: By sive, using their powerful jaws to tear at character class prey or enemies. They will also attack Level Adjustment: +3 anyone that threatens their habitat. Spell-Like Abilities: 1/day—entangle You see an amalgam of a human woman and a plant. (DC 7), summon nature’s ally II. Her skin resembles bark, and leaves grow amid her hair. She carries a scimitar and a sling and wears simple clothing",
+        "name":  "Combat Alignment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Improved grab, paralysis, spell-like abili- coming damage reduction. ties, summon yugoloth Improved Grab (Ex): To use this ability, a canoloth must",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Blindsight 40 ft., damage reduction hit with its tongue attack. It can pull a grabbed opponent of 5/good, immunities, resistance to cold 10, fi re 10, and Medium or smaller size into its mouth in the same round electricity 10, spell resistance 18, telepathy 100 ft. and make a bite attack. The canoloth can establish a hold",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell-like abilities, summon yugoloth",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Damage reduction 10/good, immunity to poison and acid, resistance to cold 10, fire 10, and electricity 10, spell resistance 22, telepathy 100 ft.",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bleeding wounds, rake +15 (1d6+5)*, Bleeding wounds, rake +27 (1d8+6)*, improved grab, improved grab, liftoff, liftoff, spell-like abilities, summon spell-like abilities, summon yugoloth yugoloth",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Damage reduction 10/good, immunity Damage reduction 10/good, immunity to poison and to poison and acid, resistance to cold 10, acid, resistance to cold 10, fi re 10, and electricity 10, fi re 10, and electricity 10, spell resistance 24, telepathy 100 ft. spell resistance 24, telepathy 100 ft.",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +13, Concentration +17, Diplomacy Bluff +20, Concentration +25, Diplomacy +20, Hide +13, Hide +8, Intimidate +24, Jump +19, +9, Intimidate +30, Jump +24, Knowledge (arcana) Knowledge (arcana) +11, Knowledge +17, Knowledge (the planes) +17, Listen +26, Move (the planes) +11, Listen +19, Move Silently Silently +17, Search +17, Sense Motive +17, +12, Search +11, Sense Motive +10, Spellcraft +17, Spot +26 Spellcraft +11, Spot +19",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+5 +5 *Includes adjustments for Power Attack feat. Liftoff (Ex): A nycaloth commander can lift Large or with its hind legs. This includes using the Power Attack smaller opponents. A medium load is between 936 and feat to take a –3 penalty on its attack rolls and gain +3 on 2,132 pounds. A heavy load is between 2,133 and 2,800 damage rolls. pounds. A nycaloth commander can’t carry a load of more Spell-Like Abilities: At will—deeper darkness, desecrate, than 2,800 pounds. fear (DC 18), invisibility, mirror image, see invisibility, greater Rake (Ex): Attack bonus +27, damage 1d8+6. A nycaloth teleport (self plus 50 pounds of objects only). commander that gets a hold can make two rake attacks 203 YUGOLOTH 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 220033 77//1133//0044 55::4433::3355 PPMM YUGOLOTH, ULTROLOTH They rarely engage in a stand-up fi ght themselves, leaving Medium Outsider (Evil, Extraplanar, Yugoloth) such work to their minions.",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Hypnotic gaze, spell-like abilities, assist front-line troops. If the battle hangs in the balance, summon yugoloth it uses symbol of death to disrupt the enemy. An ultroloth",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Damage reduction 15/good, immunity engaged in serious melee almost always retreats, reasoning to poison and acid, resistance to cold 10, fi re 10, and elec- that it has already lost the battle at that point. tricity 10, spell resistance 25, telepathy 100 ft. Ideally, ultroloths don’t fi ght at all. They use invisibility",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bleak Eternity of Gehenna Spell-Like Abilities: At will—alter self, deeper dark-",
+        "name":  "Environment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Str 25, Power Attack, Improved Bull Rush, tion of the Quicken Spell-Like Ability feat on the next page. size Large or larger. For example, a creature that uses its spell-like abilities as",
+        "name":  "Prerequisites",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As a standard action, the creature can choose a 13th-level caster can only empower spell-like abilities to subtract 4 from its melee attack roll and deliver an duplicating spells of 4th level or lower. awesome blow. If the creature hits a corporeal opponent Special: This feat can be taken multiple times. Each time smaller than itself with an awesome blow, its opponent it is taken, the creature can apply it to a different one of its must succeed on a Refl ex save (DC equal to damage dealt) spell-like abilites. or be knocked fl ying 10 feet in a direction of the attacking FLYBY ATTACK creature’s choice and fall prone. The attacking creature can only push the opponent in a straight line, and the opponent A creature with this feat can attack on the wing. can’t move closer to the attacking creature than the square Prerequisite: Fly speed. it started in. If an obstacle prevents the completion of the Benefi t: When fl ying, the creature can take a move action opponent’s move, the opponent and the obstacle each take (including a dive) and another standard action at any point 1d6 points of damage, and the opponent stops in the space during the move. The creature cannot take a second move adjacent to the obstacle. action during a round when it makes a fl yby attack.",
+        "name":  "Benefi t",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Base Fortitude save bonus +2. Using a quickened spell-like ability is a swift action that",
+        "name":  "Prerequisite",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The creature gains a number of hit points does not provoke attacks of opportunity. The creature can equal to its current Hit Dice. Each time it gains a Hit Die perform another action—including the use of another spell- (such as by gaining a level), it gains 1 additional hit point. like ability—in the same round that it uses a quickened If it loses a Hit Die (such as by losing a level), it loses 1 hit spell-like ability. The creature can use only one quickened point permanently. spell-like ability per round.",
+        "name":  "Benefit",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Three or more natural attacks. ability that duplicates a spell with a casting time greater",
+        "name":  "Prerequisite",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This feat can be taken multiple times. Each time POWERFUL CHARGE it is taken, the creature can apply it to a different one of its A creature with this feat can charge with extra force. spell-like abilities.",
+        "name":  "Special",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "When the creature charges, if its melee attack Empower and Quicken Spell-Like Ability hits, it deals an extra 1d8 points of damage (if it is of Spell Caster Level Caster Level Medium size). For Large creatures, the extra damage is Level to Empower to Quicken 0 4th 8th 2d6 points; for Huge, 3d6; for Gargantuan, 4d6; and for 1st 6th 10th Colossal, 6d6. 2nd 8th 12th This feat only works when the creature makes a charge. 3rd 10th 14th It does not work when the creature is mounted. If the 4th 12th 16th creature has the ability to make multiple attacks after 5th 14th 18th a charge, it can only apply this extra damage to one of 6th 16th 20th those attacks. 7th 18th — 8th 20th —",
+        "name":  "Benefi t",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A swift action consumes a very small amount action, as stated in the Quicken Spell feat description in the of time, but represents a larger expenditure of effort and energy Player’s Handbook). Likewise, using a quickened spell-like ability than a free action. You can perform one swift action per turn is a swift action. without affecting your ability to perform other actions. In that Casting a spell or using a spell-like ability with a casting time regard, a swift action is like a free action. However, you can of 1 swift action does not provoke attacks of opportunity. pqqqqqqqqqqqqqqqqqqqqrs 207 FEATS MONSTER 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 220077 77//1133//0044 55::4433::4488 PPMM Glossary perfect maneuverability (see the section on Movement, page 216). This section of Monster Manual III provides definitions and descriptions of monster characteristics. If you have Alignment: This line in a monster entry gives the align- come across a term used earlier in this book that you’re not ment that the creature is most likely to have. Every entry familiar with, this is the place to fi nd out more. includes a qualifi er that indicates how broadly that alignment applies to all monsters of that kind.",
+        "name":  "Swift Action",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This subtype usually is used for elemen- she can cast and (if applicable) one prepared spell of that level. tals and outsiders with a connection to the Elemental Plane These gains persist until the positive level goes away. of Earth. Earth creatures usually have burrow speeds, and Positive levels remain for 24 hours or until removed with most earth creatures can burrow through solid rock. a spell, such as restoration. After 24 hours, the positive level automatically goes away. Effective Character Level (ECL): This number repre- Undead react to positive levels the way nonundead react to sents a creature’s overall power relative to that of a character negative levels. An undead character with negative levels at from the Player’s Handbook. A creature with an ECL of 10 is least equal to its current level is instantly destroyed. After 24 roughly equivalent to a 10th-level character. A creature’s ECL hours, an undead must make a Will save (DC 10 + 1/2 attacker’s is the sum of its Hit Dice (including class levels) and level HD + attacker’s Cha modifi er). (The DC is provided in the adjustment. For instance, a splinterwaif has 2 HD and a +4 attacker’s description.) If the saving throw succeeds, the posi- level adjustment. It is the equivalent of a 6th-level character. tive level goes away with no harm to the creature. The affl icted creature makes a separate saving throw for each positive level",
+        "name":  "Earth Subtype",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "An elemental possesses the following traits (unless otherwise specifi ed in the creature’s description, a draining otherwise noted in a creature’s entry). creature gains 5 temporary hit points (10 on a critical hit) —Darkvision out to 60 feet. for each negative level it bestows on an opponent. These —Immunity to poison, sleep effects, paralysis, and temporary hit points last for a maximum of 1 hour. stunning. An affected opponent takes a –1 penalty on all skill checks —Not subject to critical hits or fl anking. and ability checks, attack rolls, and saving throws, and loses —Unlike most other living creatures, an elemental does one effective level or Hit Die (whenever level is used in a die 211 not have a dual nature—its soul and body form one unit. roll or calculation) for each negative level. A spellcaster loses GLOSSARY 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 221111 77//1133//0044 55::4444::2200 PPMM one spell slot of the highest level of spells she can cast and (if that travels the planes can gain or lose this subtype as it goes applicable) one prepared spell of that level; this loss persists from plane to plane. This book assumes that encounters until the negative level is removed. with creatures take place on the Material Plane, and every Negative levels remain until 24 hours have passed or creature whose native plane is not the Material Plane has the until they are removed with a spell, such as restoration. If a extraplanar subtype (but would not have when on its home negative level is not removed before 24 hours have passed, plane). Every extraplanar creature in this book has a home the affected creature must attempt a Fortitude save (DC 10 + plane mentioned in its description. These home planes are 1/2 draining creature’s racial HD + draining creature’s Cha taken from the Great Wheel cosmology of the D\u0026D game modifi er; the exact DC is given in the creature’s descriptive (see Chapter 5 of the Dungeon Master’s Guide). If your cam- text). On a success, the negative level goes away with no paign uses a different cosmology, you will need to assign harm to the creature. On a failure, the negative level goes different home planes to extraplanar creatures. away, but the creature’s level is also reduced by one. A Creatures not labeled as extraplanar are natives of the separate saving throw is required for each negative level. Material Plane, and they gain the extraplanar subtype if they leave the Material Plane. No creature has the extra-",
+        "name":  "Traits",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "An outsider is at least partially composed Traits: A plant creature possesses the following traits of the essence (but not necessarily the material) of some (unless otherwise noted in a creature’s entry). plane other than the Material Plane. Some creatures start —Low-light vision. out as some other type and become outsiders when they —Immunity to all mind-affecting spells or abilities (charms, attain a higher (or lower) state of spiritual existence. compulsions, phantasms, patterns, and morale effects).",
+        "name":  "Outsider Type",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    }
+]

@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "other.json",
+        "description":  "8d8+48 (84 hp) 12d8+60 (114hp) 20d8+200 (290 hp)",
+        "name":  "Hit Dice",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1 (Dex) +0 +0",
+        "name":  "Initiative",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "60 ft. 50 ft. 30 ft., climb 10 ft.",
+        "name":  "Speed",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "16 (–1 size, +1 Dex, +6 natural) 15 (–2 size, +7 natural) 10 (–4 size, +4 natural)",
+        "name":  "AC",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 hooves +11 melee and Slam +14 melee and 2 hooves Slam +26 melee and 2 stamps bite +6 melee +9 melee; or gore +14 melee +21 melee; or gore +26 melee",
+        "name":  "Attacks",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hoof 1d6+6; bite 1d4+3 Slam 2d6+7, hoof 2d4+3; Slam 2d8+15, stamp 2d8+7, gore 2d8+10 gore 4d6+22 Face/Reach: 5 ft. by 10 ft./5 ft. 10 ft. by 20 ft./10 ft. 20 ft. by 40 ft./10 ft.",
+        "name":  "Damage",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— Trample 2d8+10 Trample 4d6+22",
+        "name":  "Special Attacks",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Scent Scent Scent",
+        "name":  "Special Qualities",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort+12, Ref +7, Will +4 Fort +13, Ref +8, Will +4 Fort +22, Ref+12, Will +8",
+        "name":  "Saves",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 22, Dex 13, Con 22, Str 24, Dex 11, Con 20, Str 40, Dex 10, Con 30, Int 2, Wis 14, Cha 10 Int 2, Wis 11, Cha 6 Int 2, Wis 14, Cha 8",
+        "name":  "Abilities",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hide –3, Listen +8, Spot +8 Hide –4, Listen +6, Spot +6 Climb +23, Hide –12, Listen +8, Spot+8",
+        "name":  "Skills",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— — — Climate/Terrain: Any land Temperate and cold forest, hill Warm forest and plains and mountains",
+        "name":  "Feats",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary or herd (6–30) Solitary or herd (6–30) Solitary or herd (6–30)",
+        "name":  "Organization",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4 7 10",
+        "name":  "Challenge Rating",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None None None",
+        "name":  "Treasure",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral Always neutral Always neutral",
+        "name":  "Alignment",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A dire elk receives a +4 racial bonus on Hide Aggressive, wild equines that roam the wilderness, dire checks. horses resist domestication as much as any wild animal does. A dire horse can fight while carrying a rider, but Dire Elephant the rider cannot also attack unless he or she succeeds at a These titanic herbivorcs are somewhat unpredictable Ride check (DC 10). and likely to attack. Giants sometimes use them as",
+        "name":  "Dire Horse Skills",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "12d8+36 (90 hp) 13d8+39 (97 hp) 14d8+70(133hp)",
+        "name":  "Hit Dice",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+10 (Dex) +3 (Dex) +9 (Dex)",
+        "name":  "Initiative",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10 ft., fly 100 ft. (average) 40 ft., climb 20 ft. 60 ft.",
+        "name":  "Speed",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "25 (+1 size, +10 Dex, +4 natural) 19 (+3 Dex, +6 natural) 24 (+9 Dex, +5 natural)",
+        "name":  "AC",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 claws +20 melee and bite +15 melee 2 claws +19 melee and bite +14 melee Bite +19 melee",
+        "name":  "Attacks",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Claw 1d6+2; bite 1d8+1 Claw 1d8+10; bite 2d6+5 Bite 2d6+10 Face/Reach: 5 ft. by 5 ft./5 ft. 5 ft. by 5 ft./5 ft. 5 ft. by 5 ft./5 ft.",
+        "name":  "Damage",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— Rend 2d8+15 Trip",
+        "name":  "Special Attacks",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— Scent Scent",
+        "name":  "Special Qualities",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +11, Ref +18, Will +7 Fort +11, Ref +11, Will +7 Fort +14, Ref +18, Will +6",
+        "name":  "Saves",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 14, Dex 30, Con 16, Sir 30, Dex 16, Con 16, Str 24, Dex 28, Con 20, Int 2, Wis 16, Cha 12 Int2, Wis 16, Cha 10 Int 2, Wis 14, Cha 10",
+        "name":  "Abilities",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hide +14, Listen +10, Spot +10* Climb +19, Move Silently +11, Spot +9 Hide +13, Listen +10, Move Silently +12, Spot +10, Wilderness Lore +4*",
+        "name":  "Skills",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary or pair Solitary or company (2–5) Solitary or herd (5–8)",
+        "name":  "Organization",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "6 7 7",
+        "name":  "Challenge Raring",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None None None",
+        "name":  "Treasure",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral Always neutral Always neutral",
+        "name":  "Alignment",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "12–24 HD (Small) 14–26 HD (Medium-size) 15–30 HD (Medium-size) Legendary Snake Legendary Horse Legendary Bear Large Animal Large Animal Large Animal",
+        "name":  "Advancement",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "16d8+112 (184hp) 18d8+144 (225 hp) 20d8+140 (230 hp)",
+        "name":  "Hit Dice",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+7 (Dex) +2 (Dex) +2 (Dex)",
+        "name":  "Initiative",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft., climb 30 ft., swim 30 ft. 80 ft. 50 ft.",
+        "name":  "Speed",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "22 (–1 size, +7 Dex, +6 natural) 19 (–1 size, +2 Dex, +8 natural) 21 (–1 size, +2 Dex, +10 natural)",
+        "name":  "AC",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +19 melee 2 hooves +21 melee and bite +16 2 claws +27 melee and bite +22 melee melee",
+        "name":  "Attacks",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite 1d8+12 and poison Hoof 2d6+9, bite 1d6+4 Claw 2d6+13, bite 4d6+6 Face/Reach: 5 ft. by 10 ft. (coiled)/10 ft. 5 ft. by 10 ft./5 ft. 5 ft. by 10 ft/5 ft.",
+        "name":  "Damage",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Improved grab, consirict 1d8+12, — Improved grab poison",
+        "name":  "Special Attacks",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Scent Scent Scent",
+        "name":  "Special Qualities",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +17, Ref +17, Will +7 Fort +19, Ref +13, Will +8 Fort +19, Ref +14, Will +9",
+        "name":  "Saves",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 26, Dex 24, Con 24, Str 28, Dex 14, Con 26, Str 36, Dex 14, Con 24, Int 1, Wis 14, Cha 7 Int 2, Wis 14, Cha 10 Int 2, Wis 16, Cha 12",
+        "name":  "Abilities",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Balance +24, Climb +18, Hide +14, Hide –2, Listen +8, Spot +8 Hide –2, Listen +8, Spot +8, Listen +12, Spot +12 Swim +18",
+        "name":  "Skills",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— — — Climate/Terrain: Temperate and warm land, Any land Any forest, hill, mountains, aquatic, and underground plains, or underground",
+        "name":  "Feats",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary Solitary or herd (6–30) Solitary or pair",
+        "name":  "Organization",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "8 8 9",
+        "name":  "Challenge Rating",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None None None",
+        "name":  "Treasure",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral Always neutral Always neutral",
+        "name":  "Alignment",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "17–32 HD (Large) 19–36 HD (Large) 21–40 HD (Large) Legendary Tiger Legendary Shark Large Animal Huge Animal 40 Hit Dice: 26d8+182 (299 hp) 30d8+210(345 hp)",
+        "name":  "Advancement",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+4 (Dex) +4 (Dex) CHAPTER 4: ANIMALS",
+        "name":  "Initiative",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "50 ft. Swim 100 ft.",
+        "name":  "Speed",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "23 (–1 size, +4 Dex, +10 natural) 22 (–2 size, +4 Dex, +10 natural)",
+        "name":  "AC",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 claws +29 melee and bite +24 melee Bite +29 melee",
+        "name":  "Attacks",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Claw 2d6+11; bite 2d8+5 Bite 2d8+13 Face/Reach: 5 ft. by 10 ft./5 ft. 10 ft. by 20 ft./10 ft.",
+        "name":  "Damage",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Improved grab, pounce, rake 2d6+5 Improved grab, swallow whole",
+        "name":  "Special Attacks",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Scent Keen scent",
+        "name":  "Special Qualities",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +22, Ref +19, Will +10 Fort +24, Ref +21, Will +12",
+        "name":  "Saves",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 32, Dex 18, Con 24, Str 28, Dex 18, Con 24 Int 2, Wis 14, Cha 10 Int 1, Wis 14, Cha 6",
+        "name":  "Abilities",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hide +7*, Jump +15, Listen +5, Listen +9, Spot +9 Move Silently +13, Spot +7, Swim +14",
+        "name":  "Skills",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— — Climate/Terrain: Any forest, hill, mountains, Any aquatic plains, and underground",
+        "name":  "Feats",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary or pair Solitary or school (2–5)",
+        "name":  "Organization",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10 10",
+        "name":  "Challenge Rating",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None None",
+        "name":  "Treasure",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral Always neutral",
+        "name":  "Alignment",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "ape, baboon, monkey. (Str), Handle Animal (Cha), Heal (Wis), Hide (Dex),",
+        "name":  "Apelord",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "black bear, brown bear, polar bear. Intuit Direction (Wis), Knowledge (nature) (Int), Jump",
+        "name":  "Bearlord",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "cat, cheetah, leopard, lion, tiger. (Str), and Wilderness Lore (Wis). See Chapter 4 of the",
+        "name":  "Catlord",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "donkey, heavy horse, heavy warhorse. Player’s Handbook for skill descriptions. light horse, light warhorse, mule, pony, warpony.",
+        "name":  "Equinelord",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "crocodile, giant crocodile, octopus, giant oc- Skill Points at Each Level: 2 + Int modifier. topus, porpoise, shark (all), squid, giant squid, whale (all).",
+        "name":  "Marinelord",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "constrictor, giant constrictor, viper (all). Class Features",
+        "name":  "Snakelord",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "dog, riding dog, wolf. The following are class features of the animal lord pres-",
+        "name":  "Wolflord",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "d8. tige class.",
+        "name":  "Hit Die",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The catlord gains Skill Focus (Move foes serve as sacrifices, though in a pinch a criminal will Silently) as a bonus feat. do (or even an innocent, though this a risky move).",
+        "name":  "First Totem",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Once per hour, the catlord can use the Though he is often ruthless, the bane of infidels is sprint extraordinary ability to move at ten times her nonetheless respected by the members of his tribe, to normal speed as a charge action. whom he provides healing, guardianship, and unwaver-",
+        "name":  "Second Totem",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The catlord gains a +2 inherent bonus to ing direction in return for absolute loyalty. Druids are the Dexterity. most likely characters to embrace this lifestyle, though clerics, high-level rangers, and adepts can also adopt this Equinelord prestige class. The tribe of a bane of infidels often in-",
+        "name":  "Third Totem",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The equinelord gains a bonus to her cludes fighters, rangers, barbarians, bards, and sorcerers, speed of +10 feet. but other classes may not be as welcome.",
+        "name":  "First Totem",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The equinelord gains a +2 inherent Hit Die: d8. bonus to Constitution.",
+        "name":  "Second Totem",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The equinelord gains Trample as a Requirements bonus feat. To become a bane of infidels, a character must fulfill the following criteria.",
+        "name":  "Third Totem",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any nongood.",
+        "name":  "Marinelord Alignment",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The marinelord gains Improved Swimming (see Chapter 2) as a bonus feat. Class Skills",
+        "name":  "Second Totem",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The marinelord gains a +2 inherent The bane of infidels’s class skills (and the key ability for bonus to Wisdom. each skill) are Animal Empathy (Cha), Concentration (Con), Craft (any) (Int), Diplomacy (Cha), Handle Snakelord Animal (Cha), Heal (Wis), Intimidate (Cha), Intuit Di-",
+        "name":  "Third Totem",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The snakelord gains Resist Poison (see rection (Wis), Knowledge (nature) (Int), Knowledge (re- Chapter 2) as a bonus feat. ligion) (Int), Profession (any) (Wis), Scry (Int, exclusive",
+        "name":  "First Totem",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The snakelord gains a +2 inherent The following are class features of the bane of infidens bonus to Charisma. prestige class.",
+        "name":  "Third Totem",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "d10. Skill Points at Each Level: 6 + Int modifier. Requirements Class Features To become a bloodhound, a character must fulfill the fol- The following are class features of the bloodhound pres- lowing criteria. tige class.",
+        "name":  "Hit Die",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "d8. (Wis), Hide (Dex), Jump (Str), Knowledge (nature) (Int). Listen (Wis), Move Silently (Dex), Profes- Requirements sion (Wis), Search (Int), Sense Motive (Wis), Spot (Wis), To qualify as a deepwood sniper, a character must fulfill Swim (Str), and Wilderness Lore (Wis). See Chapter 4 of the following criteria. the Player’s Handbook for skill descriptions.",
+        "name":  "Hit Die",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+5.",
+        "name":  "Base Attack Bonus",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hide 4 ranks, Move Silently 4 ranks, Spot 4 Skill Points at Each Level: 4 +Int modifier. ranks.",
+        "name":  "Skills",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "d12. and the effect lasts for 1 hour per eye of Requirements Gruumsh level. To qualify as an eye of Grummsh, a charac- Rage: Also at 1st ter must fulfill the following criteria. level, the eye of Gru-",
+        "name":  "Hit Die",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "orc or half-orc. (A character of umsh gains the abili- another race who grows up among orcs ty to rage as a barbar- may also adopt this prestige class if the ian of a level equal to DM permits.) the total of his bar-",
+        "name":  "Race",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Chaotic evil, chaotic barian and eye of Gru- neutral, or neutral evil. umsh levels. Thus, a",
+        "name":  "Alignment",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+6. Bbn14/eye of Gru-",
+        "name":  "Base Attack Bonus",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The Eyes Of Gruumsh fierce allies against formidable enemies or implacable op- “The cycle of my father’s people is a simple one. You kill, you get ponents dedicated to killing those the heroes love. better at killing, and you kill again. Break the cycle, and you die.” A character can choose this prestige class more than —Krusk once but must select a different hated enemy and start again at 1st level each time. Levels of different foe Though orcs revere eyes of Gruumsh for their unique hunter classes do not stack when determining level- clarity of vision, the average eye of Gruumsh isn’t partic- based class features. ularly well qualified to think for an entire tribe—even Hit Die: d10. though he often assumes leadership of a tribe early in his career. Thus, he relies on a cleric of Gruumsh for wise Requirements counsel. To discourage any unhealthy confusion among To become a foe hunter, a character must fulfill the fol- their followers about who is in charge, both the eye of lowing criteria.",
+        "name":  "Organization",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "d12. score for each forsaker level. Fast Healing (Ex): Forsakers regain hit points at Requirements an exceptionally fast rate. At 1st level, the charac- To qualify as a forsaker, a character ter regains 1 hit point per round, to a maxi- must fulfill the following mum of 10 hit points per day. The number criteria. of hit points regained per round increas-",
+        "name":  "Hit Die",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Great Forti- es by +1 for every four forsaker levels, tude, Iron Will, Light- and the maximum restorable per ning Reflexes. day increases by 10 for every",
+        "name":  "Feats",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The frenzied berserker gains from many sources through the land itself A geomancer Remain Conscious as a bonus feat. may research like a wizard, pray like a cleric, or sing like",
+        "name":  "Remain Conscious",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Knowledge (arcana) 6 ranks, Knowledge (nature) 6 ranks.",
+        "name":  "Skills",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4 + Int modifier. Class Features The following are class features of the geomancer pres- tige class.",
+        "name":  "Skill Points at Each Level",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any nongood. chance) relative to them.",
+        "name":  "Alignment",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+4.",
+        "name":  "Base Fortitude Save Bonus",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hide 4 ranks, Intuit Direction 4 ranks, Wilder- KING/QUEEN OF THE WILD ness Lore 8 ranks, terrain-dependent prerequisite skill Few are brave enough to climb the highest mountains (see below) 4 ranks. and tread the deepest deserts. But where nature’s fury is Feats: Endurance, Track. at its height, there you’ll find the kings and queens of the Special: The character must choose a terrain type (see wild, undaunted by the challenges before them—that is, below) and live in or near such an area. if you’re strong enough to look for them there. When choosing this prestige class, you must specify Class Skills one of the following eight terrain types: desert, Forest, The king/queen of the wild’s class skills (and the key hills, marsh, mountain, plains, sea, skies, or under- ability for each skill) are Balance (Dex), Climb (Str), ground. Other terrain types are not harsh enough to en- Craft (any) (Int), Handle Animal (Cha), Hide (Dex), gender this kind of survivalism. Intuit Direction (Wis), Jump (Str), Listen (Wis), Move Anyone with a tie to nature and sufficient hardiness Silently (Dex), Ride (Dex), Spot (Wis), Swim (Str), Use canbecome a king or queen of the wild. Rangers, bar- Rope (Dex), and Wilderness Lore (Wis). See Chapter 4 barians, and druids tend to be the most comfortable of the Player’s Handbook for skill descriptions. with this lifestyle. However, many adventurers have clashed with snow wizards and desert sorcerers who Skill Points at Each Level: 4 + Int modifier. Class Features The following are class features of the king/queen of the wild prestige class.",
+        "name":  "Skills",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Desert. King/Queen of the Skies",
+        "name":  "Terrain Type",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Spot. Terrain Type: Air.",
+        "name":  "Prerequisite Skill",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fire. Prerequisite Skill: Balance.",
+        "name":  "Terrain Element",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Great Fortitude, Mounted Combat, Run, Terrain Element: Electricity. Skill Focus (Spot), Toughness. Bonus Feats: Flyby Attack, Hover, Skill Focus (Bal- ance), Snatch, Wingover. King/Queen of the Forest",
+        "name":  "Bonus Feats",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Forest. King/Queen of the Underground",
+        "name":  "Terrain Type",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Climb. Terrain Type: Underground.",
+        "name":  "Prerequisite Skill",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fire. Prerequisite Skill: Escape Artist. 66",
+        "name":  "Terrain Element",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "d8.",
+        "name":  "Hit Die",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4 + Int modifier. Requirements To become a shifter, a character must fulfill the following Class Features criteria. The following are class features of the shifter prestige",
+        "name":  "Skill Points at Each Level",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Alertness, Endurance. class.",
+        "name":  "Feats",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "d8. Wilderness Lore (Wis). See Chapter 4 of the Player’s Handbook for skill descriptions. Requirements",
+        "name":  "Hit Die",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4 + Int modifier. following criteria.",
+        "name":  "To qualify as a verdant lord, a character must fulfill the Skill Points at Each Level",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any nonevil. Class Features",
+        "name":  "Alignment",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Profession (herbalist) 8 ranks, Wilderness Lore The following are class features of the verdant lord pres- 8 ranks. tige class. TTTTTaaaaabbbbbllllleeeee 55555–––––1111188888::::: TTTTThhhhheeeee VVVVVeeeeerrrrrdddddaaaaannnnnttttt LLLLLooooorrrrrddddd CCCCClllllaaaaassssssssss BBBBBaaaaassssseeeee FFFFFooooorrrrrttttt RRRRReeeeefffffllllleeeeexxxxx WWWWWiiiiillllllllll LLLLLeeeeevvvvveeeeelllll AAAAAttttttttttaaaaaccccckkkkk BBBBBooooonnnnnuuuuusssss SSSSSaaaaavvvvveeeee SSSSSaaaaavvvvveeeee SSSSSaaaaavvvvveeeee SSSSSpppppeeeeeccccciiiiiaaaaalllll SSSSSpppppeeeeellllllllllsssss pppppeeeeerrrrr DDDDDaaaaayyyyy/////SSSSSpppppeeeeellllllllllsssss KKKKKnnnnnooooowwwwwnnnnn 1st +1 +2 +0 +2 Create Infusion +1 level of existing class 2nd +2 +3 +0 +3 Expert infusion, sun sustenance +1 level of existing class 3rd +3 +3 +1 +3 Spontaneity +1 level of existing class 4th +4 +4 +1 +4 Plant facility +1 level of existing class 5th +5 +4 +1 +4 Fast healing +1 level of existing class 6th +6 +5 +2 +5 Treant wild shape +1level of existing class 7th +7 +5 +2 +5 +1 level of existing class 73 8th +8 +6 +2 +6 Animate tree +1level of existing class 9th +9 +6 +3 +6 +1 level of existing class 10th +10 +7 +3 +7 Caea’s embrace +1 level of existing class CHAPTER 5: PRESTIGE CLASSES",
+        "name":  "Skills",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "At 1st level, the verdant lord gains compulsions, phantasms, patterns, or morale effects). He Create Infusion as a bonus feat. no longer suffers penalties for aging and cannot be mag-",
+        "name":  "Create Infusion",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+5. of study, the windrider can tell how extreme that ability",
+        "name":  "Base Attack Bonus",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Handle Animal 8 ranks, Knowledge (nature) 6 score is—that is, whether the modifier it generates is ranks, Ride 8 ranks. more than 4 points higher or lower than the average tor",
+        "name":  "Skills",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Mounted Combat. that species. The appraise mount ability never produces a",
+        "name":  "Feats",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Must have a mount. numerical rating; DMs must describe the windrider’s findings. TTTTTaaaaabbbbbllllleeeee 55555–––––2222200000::::: TTTTThhhhheeeee WWWWWiiiiinnnnndddddrrrrriiiiidddddeeeeerrrrr CCCCClllllaaaaassssssssss BBBBBaaaaassssseeeee FFFFFooooorrrrrttttt RRRRReeeeefffff WWWWWiiiiillllllllll SSSSSpppppeeeeellllllllllsssss pppppeeeeerrrrr DDDDDaaaaayyyyy LLLLLeeeeevvvvveeeeelllll AAAAAttttttttttaaaaaccccckkkkk BBBBBooooonnnnnuuuuusssss SSSSSaaaaavvvvveeeee SSSSSaaaaavvvvveeeee SSSSSaaaaavvvvveeeee SSSSSpppppeeeeeccccciiiiiaaaaalllll 11111sssssttttt 22222nnnnnddddd 33333rrrrrddddd 44444ttttthhhhh 1st +1 +2 +0 +2 Appraise mount, chosen mount, 0 – – – empathic link, mount proficiency 4 HD 2nd +2 +3 +0 +3 Mount assistance, mount feat 1 1 – – – 3rd +3 +3 +1 +3 Bonus feat, mount healing 1 0 – – 4th +4 +4 +1 +4 Mount proficiency 8 HD 1 1 – – 5th +5 +4 +1 +4 Mount feat 2, mount friendship 1 1 0 – 6th +6 +5 +2 +5 Mount proficiency 12 HD 1 1 1 – 7th +7 +5 +2 +5 Bonus feat, mount link 2 1 1 0 77 8th +8 +6 +2 +6 Mount proficiency 16 HD 2 1 1 1 9th +9 +6 +3 +6 Mount feat 3, mount luck 2 2 1 1 10th +10 +7 +3 +7 Mount proficiency (all) 2 2 2 1 CHAPTER 5: PRESTIGE CLASSES",
+        "name":  "Special",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  ":::: Add this figure to the mount’s round. Mount assistance is usable once per round and Strength requires a standard action.",
+        "name":  "SSSSStttttrrrrreeeeennnnngggggttttthhhhh AAAAAdddddjjjjjuuuuussssstttttmmmmmeeeeennnnnttttt",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Drd 2, Sor/Wiz 2 Small to Tiny: The subject loses 4 points of Strength",
+        "name":  "Level",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, DF while gaining 2 points of Dexterity, a +1 bonus to AC,",
+        "name":  "Components",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1action and a +1 bonus on attack rolls. Overall, this change re-",
+        "name":  "Casting Time",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Close (25 ft. + 5 fr./2 levels) sults in a –1 penalty on melee attack rolls, a +2 bonus",
+        "name":  "Range",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round/level feet/0 feet.",
+        "name":  "Duration",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates (harmless)",
+        "name":  "Saving Throw",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "One animal companion bonded to you by an ani- Animal Reduction mal friendship effect",
+        "name":  "Target",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous",
+        "name":  "Transmutation Duration",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Drd 2, Rgr 3 Saving Throw: Will negates",
+        "name":  "Level",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1action",
+        "name":  "Casting Time",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch Your animal companion performs a trick of your choos-",
+        "name":  "Range",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "One willing animal of size Small, Medium-size, ing that it does not already know. This trick can be any of Large, or Huge those listed in the Animal Companions sidebar in Chap-",
+        "name":  "Target",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 hour/level ter 2 of the DUNGEON MASTER’S Guide or in Chapter 2 of",
+        "name":  "Duration",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates this book. The animal retains no knowledge of the trick",
+        "name":  "Saving Throw",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary 2d10points of damage. If the creator is slain, the bogun",
+        "name":  "Organization",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 also dies, and its body collapses into a heap of rotting",
+        "name":  "Challenge Rating",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None vegetation.",
+        "name":  "Treasure",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any neutral (always the same as the cre- A bogun looks like a vaguely humanoid mound of ator) compost. The creator determines its precise features, but",
+        "name":  "Alignment",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Drd 5 83",
+        "name":  "Level",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, DF",
+        "name":  "Components",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. Body of the Sun",
+        "name":  "Range",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You and all allies and enemies within a 30-ft.-radius Transmutation [Fire] emanation centered on you Level: Drd 2, Sor/Wiz 2",
+        "name":  "Area",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round/level Components: V, S, DF",
+        "name":  "Duration",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates (see text) Casting Time: 1action",
+        "name":  "Saving Throw",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5-ft.-radius emanation centered on you",
+        "name":  "Area",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch",
+        "name":  "Range",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 hour/level",
+        "name":  "Necromancy Duration",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Clr 5, Drd 4 Saving Throw: None",
+        "name":  "Level",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 action",
+        "name":  "Casting Time",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "See text You use a tire source to create a plume of smoke, which",
+        "name":  "Range",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "See text you capture in a special bottle you’re holding. It the",
+        "name":  "Area or Target",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "See text pires, the smoke emerges to form a vaguely horselike",
+        "name":  "Saving Throw",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Rgr 1 laid down. Starting or stopping the smoke trail is a free",
+        "name":  "Level",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S action. The mount and the smoke trail it produces give",
+        "name":  "Components",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 action one-half concealment (.20% miss chance) to anyone",
+        "name":  "Casting Time",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Personal behind them.",
+        "name":  "Range",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You The mount is immune to all damage and other attacks",
+        "name":  "Target",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Drd 1, Rgr 1",
+        "name":  "Level",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M",
+        "name":  "Components",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 action",
+        "name":  "Casting Time",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Personal",
+        "name":  "Range",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You",
+        "name":  "Target",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10 minutes/level You change your coloring to match your environ- ment, gaining a +10 competence bonus on Hide checks.",
+        "name":  "Duration",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Mud painted on your face. Cloak of the Sea Transmutation",
+        "name":  "Material Component",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Drd 5, Sor/Wiz 5",
+        "name":  "Level",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, DF",
+        "name":  "Components",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "An ornate, corked bottle worth at Least 50 gp. Saving Throw: Will negates (harmless)",
+        "name":  "Focus",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Drd 2, Rgr 2 posed of water. While underwater, the subject functions",
+        "name":  "Level",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, DF as if affected by blur, freedom of movement, and water breath-",
+        "name":  "Components",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1action ing and doesn’t suffer subdual damage from water pres-",
+        "name":  "Casting Time",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Plants in a 40-tt.-radius spread (or even partially outside) of water, the subject gains none",
+        "name":  "Area",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1minute/level of these advantages except water breathing. He or she may",
+        "name":  "Duration",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A small glass or pottery vessel worth at least 25 Contagious Touch gp filled with ice, snow, or water. Necromancy",
+        "name":  "Focus",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Drd 6 Darkseed",
+        "name":  "Level",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S Transmutation",
+        "name":  "Components",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 action Level: Drd 0",
+        "name":  "Casting Time",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Personal Components: V, DF",
+        "name":  "Range",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You Casting Time: 1action",
+        "name":  "Target",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1round/level Range: Close (25 ft.+ 5 ft/2 levels)",
+        "name":  "Duration",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Reflex negates",
+        "name":  "Saving Throw",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Drd 0, Rgr 1",
+        "name":  "Abjuration Level",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Drd 3 Components: V",
+        "name":  "Level",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, F Casting Time: 1 action",
+        "name":  "Components",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1action Range: Personal",
+        "name":  "Casting Time",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "One lycanthrope on you",
+        "name":  "Target",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "12 hours Duration: Instantaneous",
+        "name":  "Duration",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates (D) Saving Throw: Fortitude negates (harmless)",
+        "name":  "Saving Throw",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 action",
+        "name":  "Casting Time",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S Transmutation [Cold] Range: Close (25 ft. + 5 ft./2 levels)",
+        "name":  "Creeping Cold Components",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Drd 2 Target: One Medium-size or smaller animal with less",
+        "name":  "Level",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, F than 5HD 86 Casting Time: 1 action Duration: 1round",
+        "name":  "Components",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels) Saving Throw: Will negates",
+        "name":  "Range",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Drd 5",
+        "name":  "Necromancy Level",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Drd 2 Components: V, S",
+        "name":  "Level",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, DF Casting Time: At least 10 minutes (see text)",
+        "name":  "Components",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 action Range: Close (25 ft. + 5 ft/2 levels)",
+        "name":  "Casting Time",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "50 ft. Target: One or more trees",
+        "name":  "Range",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "All enemies within a 50-ft.-radius emanation cen- Duration: 1 day/level or until discharged tered on you Saving Throw: None",
+        "name":  "Area",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "Saving Throw",
+        "source":  "masters_of_the_wild.txt",
+        "_id":  "3ca332d479cc0bcf81dfca435e9b6e5b92bd3b18efc3044f8d4ade8271a1932c"
+    }
+]

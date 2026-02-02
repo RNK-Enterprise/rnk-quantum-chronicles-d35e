@@ -1,0 +1,137 @@
+﻿{
+    "by_category":  [
+                        {
+                            "count":  25,
+                            "category":  "armor"
+                        },
+                        {
+                            "count":  21,
+                            "category":  "monsters"
+                        },
+                        {
+                            "count":  39,
+                            "category":  "powers"
+                        },
+                        {
+                            "count":  1,
+                            "category":  "other"
+                        }
+                    ],
+    "samples":  [
+                    {
+                        "category":  "armor",
+                        "examples":  [
+                                         {
+                                             "name":  "Effect",
+                                             "_id":  "b52f2ec282237ced256fa631237d2f49b802b02389d0a28694835b2d980f4191",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Spell Resistance",
+                                             "_id":  "bc99cbf2651cf187ea3b0807b2e27e07bcdc7e9d1e967a0a5b359fdf987277e7",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Spell Resistance",
+                                             "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Special Attacks",
+                                             "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Trap",
+                                             "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         }
+                                     ]
+                    },
+                    {
+                        "category":  "monsters",
+                        "examples":  [
+                                         {
+                                             "name":  "Hit Die",
+                                             "_id":  "2c61f0d74a7fa62caa32567aa028a968c002e87fe7d35c2303c15b7f7cd80ecb",
+                                             "auto_category":  "monsters",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Special Attacks",
+                                             "_id":  "e3dc8037fb581147eb9f4b66b67256a70a90e4ca7407f4ca628bc3df8b122cc5",
+                                             "auto_category":  "monsters",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Skills and Feats",
+                                             "_id":  "01222f8179ab75fbad36fe3e2292a4a03c72a5a05e1bf49f5d5845a0d57b3eac",
+                                             "auto_category":  "monsters",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Activation",
+                                             "_id":  "434cc8e306fc29537e70cb80371e2da1bc259e7d28c8102a12f04e96f2e9f111",
+                                             "auto_category":  "monsters",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Typical Physical Characteristics",
+                                             "_id":  "e923bdb1eb11dc6ee63bc49845eec11780f61ee7d44bed85acdb011268db5f0b",
+                                             "auto_category":  "monsters",
+                                             "confidence":  "strong"
+                                         }
+                                     ]
+                    },
+                    {
+                        "category":  "powers",
+                        "examples":  [
+                                         {
+                                             "name":  "Benefi t",
+                                             "_id":  "146841d54c561cbb9f472776ec6db3b23a55b5d05947e5863e09d66604157a5b",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Benefit",
+                                             "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Power Points",
+                                             "_id":  "2001fa5e4e4e3c8cb8a522d03d7e8fe74c828de8e5ec4f68ef3cc8eeddb5743c",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Spell Resistance",
+                                             "_id":  "4eb9058c9f90e233ba17c72de161b02ecfd80dbe14a7f9de921eabf0f99be8d5",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Special Attacks",
+                                             "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         }
+                                     ]
+                    },
+                    {
+                        "category":  "other",
+                        "examples":  {
+                                         "name":  "Trades, Upscale",
+                                         "_id":  "433a4ae1a49a3246f8883c9124f4a8fcd738a80f86ef700834d030d022bf7621",
+                                         "auto_category":  "other",
+                                         "confidence":  "weak"
+                                     }
+                    }
+                ],
+    "total_merged":  86
+}

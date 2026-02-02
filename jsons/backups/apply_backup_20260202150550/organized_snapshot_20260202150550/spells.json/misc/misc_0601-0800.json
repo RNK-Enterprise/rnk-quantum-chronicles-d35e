@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "spells.json",
+        "description":  "Caster level 24th; save DC 22 + spell level. All Revised in Monster Manual, p.40. spells of levels 0-6 are automatically quickened. As- modeus can cast 2 quickened spells per round. Demon, Shadow Base Attack/Grapple: +10/+10",
+        "name":  "Spells",
+        "source":  "book_of_vile_darkness.txt",
+        "_id":  "4d1bb342b71534741347f5a788dc2fce41d642c9d33e309956a2fdf2e6d2cd12"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Asmodeus can cast 3 epic spells per day. Space/Reach: 5 ft./5 ft. He is already under the effects of contingent resurrec- Special Qualities: - tion spell. Spells Prepared: Epic û greater ruin (x2), Skills: Bluff +18, Concentration +13, Diplomacy +20, spell worm. Hide +30, Intimidate +20, Knowledge (arcana) +16, Knowledge (the planes) +16, Listen +16, Move Silently +20, Search +16, Spot +16",
+        "name":  "Epic Spells",
+        "source":  "book_of_vile_darkness.txt",
+        "_id":  "4d1bb342b71534741347f5a788dc2fce41d642c9d33e309956a2fdf2e6d2cd12"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration +16, Gather Information +14, Feats: Combat Casting, Dodge, Empower Spell- Hide +11, Intimidate +14, Listen +14, Move like Ability (eye of flame), Improved Initiative, Silently +15, Search +14, Spot +14, Survival +14, Mobility Tumble +15",
+        "name":  "Skills",
+        "source":  "book_of_vile_darkness.txt",
+        "_id":  "4d1bb342b71534741347f5a788dc2fce41d642c9d33e309956a2fdf2e6d2cd12"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Dodge, Improved Initiative, Quicken Spell-like Skills: Escape Artist +2, Hide +6, Listen +5, Move Ability (wrack) Silently +3",
+        "name":  "Feats",
+        "source":  "book_of_vile_darkness.txt",
+        "_id":  "4d1bb342b71534741347f5a788dc2fce41d642c9d33e309956a2fdf2e6d2cd12"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Escape Artist +12, Hide +14, Intimidate +15, Skills: Climb +12, Concentration +10, Hide +15, Listen +22, Move Silently +21, Search +18, Sense Knowledge (arcana) +16, Listen +16, Move Motive +16, Survival +15 Silently +25, Sense Motive +9, Spellcraft +15,",
+        "name":  "Skills",
+        "source":  "book_of_vile_darkness.txt",
+        "_id":  "4d1bb342b71534741347f5a788dc2fce41d642c9d33e309956a2fdf2e6d2cd12"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Cleave, Combat Reflexes, Corrupt Spell-like Jump +31, Knowledge (arcana) +36, Knowledge Ability (fireball), Dark Speech, Great Cleave, (the planes) +45, Listen +45, Move Silently +50, Improved Initiative, Multiattack, Power Attack, Search +40, Sense Motive +42, Spellcraft +34, Quicken Spell-like Ability (fireball), Vile Natural Spot +45, Tumble +49 Attack (claw) Feats: Cleave, Combat Expertise, Dark Speech,",
+        "name":  "Feats",
+        "source":  "book_of_vile_darkness.txt",
+        "_id":  "4d1bb342b71534741347f5a788dc2fce41d642c9d33e309956a2fdf2e6d2cd12"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +19, Climb +7, Concentration +18, Skills: Climb +11, Hide +15, Spot +9 Diplomacy +25, Gather Information +19, Feats: Ability Focus (poison), Eschew Materials (B) Intimidate +21, Knowledge (arcana) +13, Environment: Warm forests Knowledge (nobility and royalty) +17, Listen +17, Organization: Solitary, tangle (2û4 swarms), or colony Search +12, Sense Motive +17, Spellcraft +14, (7û12 swarms) Spot +17 Challenge Rating: 2",
+        "name":  "Skills",
+        "source":  "book_of_vile_darkness.txt",
+        "_id":  "4d1bb342b71534741347f5a788dc2fce41d642c9d33e309956a2fdf2e6d2cd12"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A hivemind swarm gains the ability to cast spells and vile strike. ò Spells: A hivemind swarm can cast spells as a sorcerer, whose level is half its HD (round-down). ò Vile Strike (Ex): Half of the hp damage dealt by its swarm attack is vile damage.",
+        "name":  "Special Attack",
+        "source":  "book_of_vile_darkness.txt",
+        "_id":  "4d1bb342b71534741347f5a788dc2fce41d642c9d33e309956a2fdf2e6d2cd12"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Old, abandoned buildings can come down with dangerous ease. Weakened by age 620_95386_Ch1.indd   31620_95386_Ch1.indd   31 8/21/06   4:48:34 PM8/21/06   4:48:34 PM32 CHAPTER 1 THE SCOPE OF THE CITYand weather, they have half the normal hardness of their component material. An attack or an area spell inside such a building deals damage to the structure more easily. Whenever a decrepit building takes damage, roll 1d20: If the result is at least equal to the damage dealt, the building collapses. Anyone inside a collapsing building takes 1d8 points of bludgeoning damage for each floor of the building’s height (assum- ing 10 feet of height for each story of the structure) and is pinned beneath the rubble. A successful DC 15 Reflex save halves the damage and avoids the pin. A character can escape the pin with a successful DC 24 grapple or Escape Artist check. Each round a character remains pinned, he takes an additional 1d6 points of damage. Lamp Smoke:  In cities that use oil lamps for illumi- nation, smoke can accumulate in small alleys or narrow roads. The smoke causes eyes to water, and obscures vision, but doesn’t provide concealment. Creatures inside the smoke take a –2 penalty on attack rolls, as well as on Search and Spot checks.",
+        "name":  "Decrepit Buildings",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "At ﬁ rst glance, this district appears to be an upper-class residential neighborhood. Many of the towering temples are built of stone, adorned with monolithic pillars and graven images. The surrounding homes and shops belie this ﬁ  rst impression, though, since these are rarely fancy or particularly clean. The truly powerful usually have their own priests on staff, and many districts have their own shrines, but the temple district is where most citizens come to pray. People on these streets come from all walks of life, and they are usually dressed in their best (or at least cleanest) clothes. Incense and the sounds of bells and chanting ﬁ  ll the air, and funeral or celebratory proces- sions are common. Plot Hook:  By using various charm  and nondetection spells, an evil sect has taken over a temple devoted to a good deity. The building’s exterior maintains the public facade of the previous faith, but its inner sanctums now reek with disease and human sacriﬁ  ce. CARAVAN",
+        "name":  "Description",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Never. Buildings:  Warehouses (30%), poor trades (5%), poor services (10%), poor residences (53%). Description: Large, bulky buildings dominate the neighborhood, ﬁ  lled with goods not yet ready for sale or shipment. While a few are well maintained, most warehouses are old and dirty—so long as they are sturdy enough to protect the merchandise, their appearance is unimportant. Many of the people who live nearby work in these warehouses, hauling and stacking crates. Occasionally merchants and nobles—or more likely their servants—escort their goods into storage or come down to check on their possessions. Hired guards protect many warehouses, since the city watch does not reliably patrol poor neighborhoods. Plot Hook:  A n  u n s c r u p u l o u s  m e r c h a n t  h a s  b e e n transporting exotic creatures for sale to the rich and jaded. He keeps the beasts drugged for shipment, but one of them awoke and broke free of its crate, and it is now terrorizing the surrounding neighborhoods. Even if the PCs manage to track down the creature, the merchant uses his political connections to hamper their investigation into where it came from. The distrac- tions caused by this affair are slowing down the rest of his trade, increasing the risk that more creatures will awaken and escape. 620_95386_Ch1.indd   48620_95386_Ch1.indd   48 8/21/06   4:51:10 PM8/21/06   4:51:10 PMn urban adventurer is not quite like her more traditional, far-ranging counterpart. She tends to be less ﬂ  ashy, and perhaps more prone to subtler, more focused techniques. She often lets adven- ture come to her, rather than going in search of it. And while she might certainly seek fortune and glory, she might just be someone who’d rather live an ordinary life, if only circumstances would permit it. This isn’t to say an urban adventurer never  seeks out excite- ment and danger. From the monster-infested sewers to the orc armies at the walls to the demons and doppelgangers in the highest levels of government, most cities boast more than enough evil to seek out and destroy. Still, an urban adventurer likely has close personal ties to the city—or else why would she stay? She might seek to defend her home, to rise through the ranks to a position of power, to support her guild or house, or simply to smite evil and earn a few gold pieces without leaving the comforts of civilization. Whatever the case, her skills and abilities—to say nothing of her attitudes—differ somewhat from those adventurers who wander out into the world, rarely thinking of home. The most important distinction between traditional and urban adventurers, especially spellcasters, has to do with their methods. Fireball and lightning bolt  are main- stays of the dungeon delver or the dragon hunter, but they simply aren’t practical when battling thugs in an alley or monsters on Main Street. The ﬁ  ghter who counts on his wizard’s enlarge person  to make him truly potent when ﬁ  ghting giants could be in a tight spot when he tries to use the same trick inside a guildhall. The city’s enclosed nature, and the presence of innocent bystanders, mean that adventurers must be a lot more selective in their techniques. Save the ﬁ  reballs  for warding off invading armies or battling otyughs in the cavernous chambers deep beneath the city, and read on for more appropriate methods and abilities for city streets and the halls of power. WHAT TO DO, WHERE TO GO Welcome to the city! Now you’re surrounded by dozens of adventure sites, thousands of NPCs, and a concentration of wealth that beggars the hoard of the greediest dragon. Urban adventuring can be overwhelming—compared to dungeons, there’s just more  of everything. Succeeding in a city is often a matter of knowing how to extract what you want from the teeming multitude of choices available. 49Illus. by D. BirchamIllus. by D. Bircham 620_95386_Ch2.indd   49620_95386_Ch2.indd   49 8/22/06   9:13:17 AM8/22/06   9:13:17 AM50 CHAPTER 2 THE URBAN",
+        "name":  "Power Center",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Balance 7 ranks, Jump 7 ranks, Dodge, Mobility, Roofwalker. Beneﬁ  t: The Roof-Jumper feat enables the use of the following tactical maneuvers. You cannot beneﬁ  t from more than one maneuver in the same round. Death from Above:  You do substantial damage if you deliberately leap down to attack a foe beneath you. You must drop at least 20 feet. You must roll to hit; this qualiﬁ  es as a charge attack, with all relevant bonuses and penalties. If you hit, you deal damage as normal, plus an extra 1d6 points for every 10 feet of distance beyond the ﬁ rst 10 feet; thus, a drop of 30 feet causes an extra 2d6 points of damage. You still take whatever damage you would normally take from the fall, but you can reduce the falling damage with a successful Jump check or Tumble check. You cannot use any ability to slow your fall (such as the monk’s slow fall ability, or the feather fall spell) while attacking in this manner. Urban Acrobatics: You can make use of windowsills, awnings, lampposts, and similar features of the city when leaping or falling from buildings. If you deliberately jump downward within arm’s reach of a wall or similar vertical surface, you can move yourself sideways along the wall, traveling up to 5 feet horizontally for every 10 feet you fall. If you accidentally fall, you can move 5 feet horizontally for every 20 feet you fall. You can move up to your full pqqqqqqqqqqqqqqqqqqqqrs pqqqqqqqqqqqqqqqqqqqqrsINTERLUDE: A TRIP TO THE HEALER",
+        "name":  "Prerequisites",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Summons swarm of urban animals and vermin. HEXBLADE SPELLS 1st Level",
+        "name":  "Summon Pest Swarm",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Earthen ground and cobblestones crack and shift, hampering foes. SORCERER/WIZARD SPELLS 1st Level",
+        "name":  "Impeding Stones",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No At your command, the cobblestones of the street shudder and crack, sending your foes staggering about. Stones, bricks, hard dirt, or any similar surface cracks and shifts in its foundations, rendering footing treacherous and potentially tripping anyone in the area. Any creature who fails its Reﬂ  ex save is knocked prone. Those who remain standing can move at only half normal speed. Each round on your turn, standing creatures must make either a new Reﬂ ex save or a Balance check (their choice) to remain upright. Because the stones continuously shift, any attempt at spellcasting requires a Concentration check (DC 15 + spell level), and any attacks made from within the area take a –2 penalty; this does not stack with the penalty for attacking while prone if the attacker failed his save. LEOMUND’S SPACIOUS CARRIAGE Conjuration (Creation)",
+        "name":  "Spell Resistance",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No With a faint shimmering and a rushing breeze, an ornate carriage appears on the street, pulled by four snorting, faintly translucent horses. You conjure up a carriage capable of seating four passengers comfortably or six in cramped conditions, as well as the horses needed to pull it. These “horses” are similar to those created by the phantom steed  spell, though they do not gain any of the special, level-based abilities con-ferred by that spell. They respond to your thoughts alone, and they can pull the carriage at a speed of up to 50 feet. The carriage resists ﬂ  ames as if i t w e r e st o n e . I t is im pe rvi o us t o normal missiles (but not the sort cast by siege engines or giants). The inte- rior contains lush, cushioned seats. The side windows can be opened to allow for missile ﬁ  re or spellcasting. If the windows are open, everyone inside is considered to have cover, SPELL DESCRIPTIONS 620_95386_Ch2.indd   66620_95386_Ch2.indd   66 8/22/06   9:14:30 AM8/22/06   9:14:30 AM67CHAPTER 2 THE URBAN ADVENTURERbut they are not impervious to mis- siles as they would otherwise be.",
+        "name":  "Spell Resistance",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No With a cacophony of shrieks and squeals, a horde of ﬂ  ying, running, and crawling pests appears from the shadows and swarms across your foes. Summon pest swarm  creates a horde of small mammals, birds, and vermin that appear throughout the target area, tear into any creature present, then move in a crawling mass at your volition. The pest swarm (see page 136) stays in one place unless you actively direct it (a move action for you). If the pest swarm moves beyond the spell’s range, it disappears. It takes actions at the beginning of your turn. The pest swarm attacks any creature A summoned pest swarm mauls your enemies nicely, without damaging surrounding structuresIllus. by Daarken 620_95386_Ch2.indd   67620_95386_Ch2.indd   67 8/22/06   9:14:34 AM8/22/06   9:14:34 AM68 CHAPTER 2 THE URBAN ADVENTURERother than you that occupies all or part of its space.",
+        "name":  "Spell Resistance",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Adept, aristocrat, psion ( Expanded Psionics Handbook ), sorcerer, spellthief ( Complete Adventurer ), warlock ( Complete Arcane ), wilder ( Expanded Psionics Handbook ), wizard.",
+        "name":  "Associated Classes",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Craft, Knowledge (arcana), Knowl- edge (history), Knowledge (nobility and royalty), Knowledge (psionics), Spellcraft.",
+        "name":  "Associated Skills",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Barbarian, expert, ﬁ  ghter, ranger, rogue, spellthief ( Complete Warrior ), warrior.",
+        "name":  "Associated Classes",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Members are expected to seek out new infor- mation pertaining to the subject of their interest, and to present such data to the organization at large. Some- times they are called upon to actively pursue important leads, though they might decline for sufﬁ  ciently good reasons. In addition, members are expected to remain both loyal to the organization and objective in their pursuits; revealing conﬁ  dential information to non- members is grounds for expulsion. Lastly, spellcasting members must provide copies of any spell to which the organization does not yet have access, and be available to cast various spells on the organization’s behalf from time to time (no more than twice per month, and the organization offers compensation for all castings at half the going rate). Favored Benefits:  Members can draw on the vast stores of information amassed by their organization. A member can pick any one Knowledge skill associated with his organization. Any time she has unrestricted access to his organization’s records, she receives a +2 insight bonus on checks using that Knowledge skill and a +1 insight bonus on Knowledge checks of any other variety.",
+        "name":  "Duties",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff, Diplomacy, Gather Informa- tion, Knowledge (history), Knowledge (local), Knowledge (nobility and royalty), Knowledge (religion), Perform, Profession (teamster), Sense Motive. Duties:  Political organizations are deﬁ  ned not only by their agendas but by their actions, so each member is required to put in a number of hours per month of service equal to her level × 2. Those who fail to meet this quota must provide a good reason for having done so, and must ensure that they will make up for lost time as soon as they can. Favored Benefits:  The organization pulls bureau- cratic strings on behalf of favored members, reducing by 20% the cost of any fines or levies imposed by the government. Sample Contact:  Ser Rossart of Krae (elf aristocrat 1/expert 6). Rossart will provide free legal advice (and representation in court, if necessary) for a PC or one of his companions. Once per year. 620_95386_Ch3.indd   99620_95386_Ch3.indd   99 8/22/06   9:21:14 AM8/22/06   9:21:14 AM100 CHAPTER 3 POLITICS AND POWERRELIGIOUS ORGANIZATIONS Religious organizations are more varied than any other. Members are unified by their particular faith, with divine spellcasters occupying top positions of authority and inﬂ  u e n c e .  M o s t  s u c h  o r g a n i z a t i o n s  a r e  d e v o t e d to the worship, ideals, or hegemony of their religion, but some are in truth political organizations with a religious backing and agenda. A religious organization can be life-afﬁ  rming to devout new members, a place where they ﬁ  nally can put their ideals to work. Other members (especially older ones) might be consumed with their roles, putting them at odds not only with other faiths, but with those of the same faith who stand outside their organization. Religious organizations favor those of obvious theological conviction, notably clerics and paladins, but accept anyone who wishes to serve. Examples:  Druid sects, ﬁ  end cults, palatine orders, subsects within speciﬁ  c churches.",
+        "name":  "Associated Skills",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff, Concentration, Decipher Script, Diplomacy, Knowledge (history), Knowledge (nature), Knowledge (nobility and royalty), Knowledge (religion), Perform. Duties:  The organization’s deity or faith must come before everything else in the member’s life, and if the organization calls upon its members to act, they must answer. Failure to do so can result in anything from ﬁ  nes to expulsion from the organization (or worse, especially in cults of evil deities). Favored Beneﬁ  ts: The organization reduces the cost of spells cast by its members on behalf of other members by 10%.",
+        "name":  "Associated Skills",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "At each level, you gain new spells per day (and spells known, if applicable) and an increase in caster level as if you had also gained a level in an arcane spellcasting class to which you belonged before adding the prestige class level. You do not, however, gain any other beneﬁ  t a member of that class would have gained. If you had more than one arcane spellcasting class before becoming an urban savant, you must decide to which class you will add each level for the purpose of determining spells per day, caster level, and spells known. If you had no levels in an arcane spellcasting class before acquiring the prestige class level, this class feature confers no advantage.",
+        "name":  "Spellcasting",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Diplomacy, Knowledge (history), Knowledge (nobility and royalty), Knowledge (religion), Knowledge (the planes), Spellcraft. Duties:  Congregants of a dominant church must either donate 10% of their income or volunteer 1 hour a week to aid in maintaining the church’s temples and performing the faith’s works in the city. Unsurpris- ingly, most individuals choose the latter option. True members of the church must spend at least 20 hours a week devoted to religious and administrative duties, which might range from leading services to standing guard over church property to working in the church library. A DC 25 Diplomacy check allows a PC to count time spent adventuring with his companions toward this requirement, if the adventure speciﬁ  cally advances the cause of the church or if the PC is willing to tithe 10% of all treasure he ﬁ  nds to the church. Favored Beneﬁ  ts: A member of a dominant church gains a +1 bonus on Diplomacy and Intimidate checks involving anyone from the local government, major mer- cantile concerns such as guilds, or members of smaller churches in the city. Additionally, a member has access to the church’s library and records. He can take 20 on any Knowledge (history) or Knowledge (religion) check after he has been actively engaged in research in the church library (reading books and speaking to other members), a process that takes 1d4+1 days for each check. Sample Contact:  Archbishop Calapri (expert 12). Calapri will ofﬁ  cially sanction an adventure or quest, allowing the PCs to freely cross borders anywhere the church is dominant, and expanding the PCs’ church-based Diplomacy and Intimidate bonuses to work in those areas as well. Once only. INDEPENDENT An independent church is a temple or association of temples that, due to lack of size, wealth, or political inﬂ  u- ence, is a less powerful entity than the dominant church of the region. Perhaps the deity is not widely worshiped in the city, and has only one temple—or at most a hand-ful of them—to his name. The religion might be new to the city, and thus has not had time to expand, or it might face resistance from the entrenched churches. All too frequently, an independent church has failed to expand because it is oppressed, either by the local government or the dominant church. And sometimes, a church simply fails to catch on in a given population, or exists in a region where the dominant church holds so much of the popula- tion that the smaller faiths cannot compete. Independent churches contain religious guilds and various sects, but not to the same extent as dominant ones. Both obscure gods and well-known but less popular ones make up the bulk of the independent faiths. Examples:  Church of St. Cuthbert, Church of Wee Jas. Associated Skills:  Diplomacy, Knowledge (history), Knowledge (local), Knowledge (religion), Knowledge (the planes), Spellcraft. Duties:  Congregants of an independent church are required to tithe 5% of their income, or volunteer 1 hour of their time per week. Formal members of the church must spend at least 20 hours a week devoted to religious and administrative duties. A successful DC 20 Diplomacy check allows a PC to count time spent adventuring with his companions toward this requirement, if the adven-ture speciﬁ  cally advances the cause of the church or if the PC is willing to tithe 10% of all treasure he ﬁ  nds to the church. 620_95386_Ch3.indd   107620_95386_Ch3.indd   107 8/22/06   9:21:50 AM8/22/06   9:21:50 AM108 CHAPTER 3 POLITICS AND POWER Favored Beneﬁ  ts: Members of independent churches make a concerted effort to aid one another. The discount for hiring a fellow member to cast a spell or perform a service is 10%, rather than the standard 5%. (Characters who abuse this privilege—taking advantage of it when not absolutely necessary—could ﬁ  n d  i t  s tri p p e d  a w a y from them at the DM’s discretion.) Sample Contact:  Father Leopold (cleric 10). Leopold will cast atonement  on a PC or one of his companions. Once only, but could be persuaded to do it a second time if the situation warrants. CULT A cult is a small organization made up of followers asso-ciated with the same faith. Cults are smaller than other churches, with little (if any) political or social power. In most instances, cults are devoted to obscure, unpopular, or even illegal entities. The most common example is a cult devoted to a vile deity or an archﬁ  end, but cults might also be dedicated to foreign gods, or even gods of goodness and light in an evil culture. Also uncommon but not unheard of in major cities are bands of nature-worshipers, many of which qualify as cults. Cults might not have any true temples, relying instead on tiny shrines or altars tucked away in otherwise secular structures. Many cults are secret organizations, and they look with suspicion on anyone who seeks them out. Examples:  Cult of Asmodeus, Cult of Tharizdun, druidic circle. Associated Skills:  Bluff, Knowledge (local), Knowl- edge (religion), Knowledge (arcana, or  nature, or  the planes, whichever is most appropriate), Spellcraft. Duties:  Congregants of a cult must spend at least 4 hours per week in worship and ceremonies. Formal members of the cult must spend at least 20 hours a week in service to it. A successful DC 20 Diplomacy check allows a PC to count time spent adventuring with his companions toward this requirement, if the adventure speciﬁ  cally advances the cause of the cult or if the PC is willing to tithe 10% of all treasure he ﬁ  nds to the cult. Favored Beneﬁ  ts: Membership in this small, tightly knit group strengthens an individual’s faith and determi- nation. When accompanied by at least one other member of the cult, or when within the cult’s shrines or holdings, a member receive a +1 bonus on Will saves made against spells cast by anyone not part of the cult.",
+        "name":  "Associated Skills",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "As the parent church, plus Bluff if the sect is secretive. Duties:  As the parent church, if the sect is open and accepted. In the case of a conﬂ  icted or secret sect, the member’s duties are roughly equivalent to those of an independent church, and the member must keep details of the sect’s activities secret. Favored Benefits: As the parent church, if the sect is open and accepted. In the case of a conflicted or secret sect, members swiftly learn techniques for keeping their affiliation secret. The character gains a +1 bonus on Bluff checks when dealing with matters of religious affiliation. Additionally, he can make use of the Deceptive Spell feat (see page 60) once per day, without the associated increase in spell slot, even if he does not possess that feat. This ability can be applied only to domain spells or to spells that, for reasons  of alignment, could not be cast by members of the parent church.",
+        "name":  "Associated Skills",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Remove all ranks in Knowledge (local); remove 1 rank from each of the other skills (chang- ing the modiﬁ  ers to Concentration +9, Knowledge [religion] +9, Spellcraft +8). Remove Iron Will (changing Will save to +10).",
+        "name":  "Nonhuman Cult Leaders",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "60-foot burst, otherwise as the fear  spell.",
+        "name":  "Fear",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Several of the wizard’s lairs are hidden under the city, and in the wilderness around it. Each lair provides clues that, when combined, lead to the wizard’s greatest and most potent discovery. 2. The city was built on ground consecrated to some forgotten god or demon. Effect on City:  Demons and undead are relatively common here; the city’s graveyards are all affected as if by a desecrate  spell.",
+        "name":  "Plot Hook",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Destructive area spells, such as ﬁ r e b a l l , are forbid- den, but other spells are permissible. Moderate:  The use of any damaging spell, or any spell that affects another individual against his will, is forbidden.",
+        "name":  "Lax",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The Natural Spell feat functions with city-shape just as it does standard wild shape.City Soul The most powerful druids can transform themselves into elementals, representatives of the building blocks of reality itself. A few urban druids, truly taken with the nature and order of the city, prefer more mundane forms.",
+        "name":  "Special",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The Natural Spell feat functions with city soul just as it does standard wild shape. Crowd-WalkerCityscape, Part 1 Certain individuals are comfortable among the throngs of citizens in even the most densely packed city. They know how to maneuver deftly through such environs without impediment.",
+        "name":  "Special",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1st (druid) or 4th (ranger).Replaces: If you select this class feature, you do not gain an animal companion.Benefit: The character gains the companionship of a smaller but far more intelligent creature than she otherwise would have. This is identical to the sorcerer\u0027s ability to summon a familiar (PH 52), including all benefits granted and gained by the familiar, except as noted below. Her functional level for determining the abilities of the companion is equal to her druid level or one-half her ranger level. ●     She does not lose experience points if her urban companion is slain, and she requires only 24 hours to replace one who is lost. ●     Her urban companion has total hit points equal to 3/4 her own hit points, rather than half as per a familiar. ●     The urban companion gains the ability to speak with other animals of its kind when she has an effective master level of 1st, rather than 7th. ●     When she reaches an effective master level of 7th, she can speak with animals of her companion\u0027s kind, Cityscape, Part 1 as per speak with animals. This is a supernatural ability that functions constantly, and it requires only a free action to reactivate if somehow dispelled. Urban Sense Druids native to the sprawling city master a widely differing range of skills than their wilderness-based counterparts.",
+        "name":  "Level",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You may make a suggestion, as the spell, with a caster level equal to your effective binder level. You must wait 5 rounds before attempting another suggestion, and at any given time, you may only have a total number of people under the effects of this ability equal to your Charisma bonus. Desharis, the Sprawling Soul The first of the \"city-born fey,\" represented today by such creatures as the zeitgeist (Cityscape 138) and the gray jester (Heroes of Horror 151), Desharis is a boon to those who work to spread civilization, and anathema to most fey and worshipers of the wild. He grants binders shelter against the dangers of the wild, and he provides powers to carve out their own niche against nature. Desharis",
+        "name":  "Word of Astaroth",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can speak with any humanoid, as per the tongues spell.",
+        "name":  "Language of the City",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels) Area: 30-ft.-radius emanation Duration: 1 round/level (D) Saving Throw: Fortitude negates; see text Spell Resistance: Yes Tendrils of darkness flow from the ground like smoke, filling the area with writhing, shifting darkness. A cold draft Cityscape, Part 2 washes over your soul even as the tendrils rise. The area of deadly shade is filled with shadowy illumination, as per darkness (PH 216). In addition, each time you invoke this mystery, decide if you wish the spell to deal or absorb damage. If you choose to deal damage, anyone within the area who suffers hit point damage from any source must make a Fortitude save. Failure indicates that the subject gains a negative level. Success prevents the negative level, but if the individual is damaged again within the area, he must attempt a new save. These negative levels fade in 1 hour per caster level, and they never cause permanent level loss. If you choose instead to have the deadly shade absorb damage, all creatures within the area gain DR 4/-- and energy resistance 4 against all energy types. (This stacks with other forms of resistance or other sources that grant DR X/--.) Fearful Gloom Initiate, Darkened Alleys Level/School: 4th/Necromancy [Darkness, Fear, Mind-Affecting]",
+        "name":  "Range",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels) Area: 30-ft.-radius emanation Duration: 1 round/level (D) Saving Throw: Will partial; see text Spell Resistance: Yes Plumes of blackness swiftly fill the air like a viscous fog. The shifting of shadow and mists just barely suggests the presence of screaming faces and indescribable horrors lurking in the dark. The area of fearful gloom is filled with shadowy illumination, as per darkness (PH 216). All creatures within the area, or who enter it, must attempt a Will save or become frightened; on a successful save, they are shaken instead. If the creature has fewer than 5 HD, it is panicked on a failed save and frightened on a success. Creatures within the area must repeat the save each round until they either fail or leave the area. Once a creature has left the fearful gloom, the effects last an additional 2d6 rounds. Grasping Shadows Master, Shadowscape Level/School: 7th/Conjuration (Creation)",
+        "name":  "Range",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels) Area: 30-ft.-radius emanation Duration: 1 round/level (D) Saving Throw: Fortitude partial; see text Spell Resistance: Yes An oily black smoke rolls out of nowhere, obscuring sight and sound. It leaves a distasteful residue on Cityscape, Part 2 everything within, and the scent is one of open sewers and putrefied flesh. The area of sickening shadow is filled with shadowy illumination, as per darkness (PH 216). All creatures within the area, or those who enter it, must attempt a Fortitude save or be nauseated. Those who succeed are merely sickened. Creatures within the area must repeat the save each round until they either fail or leave the area. Once a creature has left the sickening shadow, the sickened effect lasts for 2d6 rounds. Nausea lasts for 1d4 rounds and is then followed by an additional 2d6 rounds of being sickened. Trail of Haze Apprentice, Night\u0027s Long Fingers Level/School: 2nd/Illusion (Phantasm)",
+        "name":  "Range",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Touch Target: One creature Duration: 10 minutes/level (D) Saving Throw: Will negates Spell Resistance: No At your touch, the target seems almost to leak. A tiny plume of jet-black mist emerges from his flesh, first in a trickle, then an ever-increasing stream. The mist emerging from the subject is an illusion that only you can see. It constantly drifts from the subject to your location, providing a nearly foolproof way of finding and identifying the subject. The trail stretches for a number of miles equal to half your shadowcaster level, so it is possible for the target to escape your detection if he moves fast enough (or teleports). If the subject leaves the plane, the trail ends, though it resumes if he returns before the duration expires. The haze allows you to track the target, identify him if he disguises himself, or even locate the square he is in should he become invisible. Umbral Fist Apprentice, Night\u0027s Long Fingers Level/School: 3rd/Transmutation",
+        "name":  "Range",
+        "source":  "cityscape.txt",
+        "_id":  "f34f0cee439d5fbbdadea464bc559d9d300e3b6557bce1de454609fc7745efc4"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The Nightsong Enforcer,” by Monte Cook ( DRAGON® Magazine #293); “Class Acts: The Nightsong Inﬁltrator,” by Monte Cook ( DRAGON  #294); “Cloak \u0026 Dagger” by Eric Cagle and Evan Michael Jackson ( DRAGON  #316); “Silent Warriors,” by Matthew Sernett ( DRAGON  #289); “Saying the Right Things” by Eric Cagle ( DRAGON  #303); “Spellbook Archive,” various authors (www. wizards.com); “Pirates: Fact \u0026 Legend,” (www.piratesinfo.com). Based on the original DUNGEONS  \u0026 D RAGONS® rules created by Gary Gygax and Dave Arneson and the new DUNGEONS  \u0026 D RAGONS game designed by Jonathan Tweet, Monte Cook, Skip Williams, Richard Baker, and Peter Adkison.This W IZARDS  OF THE COAST® game product contains no Open Game Content. No portion of this work may be reproduced in any form without written permission. To learn more about the Open Gaming License and the d20 System License, please visit www.wizards.com/d20. Visit our website at www.wizards.com/dndDUNGEONS  \u0026 D RAGONS , D\u0026D, DUNGEON  MASTER , d20, d20 System, FORGOTTEN  REALMS , W IZARDS  OF THE COAST, Player ’s Handbook, Dungeon Master ’s Guide, Monster Manual, Expanded Psionics Handbook, Complete Adventurer , all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast, Inc., in the U.S.A. and other countries. All Wizards characters, character names, and the distinctive likenesses thereof are property of Wizards of the Coast, Inc. Distributed to the hobby, toy, and comic trade in the United States and Canada by regional distributors. Distributed in the United States to the book trade by Holtzbrinck Publishing. Distributed in Canada to the book trade by Fenn Ltd. Distributed worldwide by Wizards of the Coast, Inc., and regional distributors. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material or artwork contained herein is prohibited without the express written permission of Wizards of the Coast, Inc. This product is a work of fiction. Any similarity to actual people, organizations, places, or events is purely coincidental. Printed in the U.S.A. ©2005 Wizards of the Coast, Inc.620-11729-001-EN 9  8  7  6  5  4  3  2  1",
+        "name":  "Acts",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Scouts work well with members of almost any other class. Skilled and adaptable, they thrive when they can complement a slower and louder group of adventurers or soldiers. Scouts move ahead of such a group for brief periods, stealthily checking the next room or forest clearing for foes, and then circling back again to ensure that enemies are not sneaking up on the group from behind. When combat is joined, however, the group remains as a stable base to which a scout can fall back when pressed. Clerics, wizards, and others willing to cast spells that enhance a scout’s mobil - ity or stealth make her job easier, and are welcome companions in combat as well. Conversely, a scout also welcomes a group made up entirely of stealthy char - acters such as rogues, rangers, ninjas, and fellow scouts. This group moves much more quietly than a normal adventuring party, and it is seldom surprised.",
+        "name":  "Other Classes",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Scouts work well with members of almost any other class. Skilled and adaptable, they thrive when they can complement a slower and louder group of adventurers or soldiers. Scouts move ahead of such a group for brief periods, stealthily checking the next room or forest clearing for foes, and then circling back again to ensure that enemies are not sneaking up on the group from behind. When combat is joined, however, the group remains as a stable base to which a scout can fall back when pressed. Clerics, wizards, and others willing to cast spells that enhance a scout’s mobil - ity or stealth make her job easier, and are welcome companions in combat as well. Conversely, a scout also welcomes a group made up entirely of stealthy char - acters such as rogues, rangers, ninjas, and fellow scouts. This group moves much more quietly than a normal adventuring party, and it is seldom surprised.",
+        "name":  "Other Classes",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spellthieves work well with members of almost any other class. Their spells and class skills help them play a variety of roles in an adventuring group. Because they’re not suited to act as front-line melee combatants, they enjoy working with fighters and barbarians more than other classes.",
+        "name":  "Other Classes",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Any, although many spellthieves tend toward neutrality.",
+        "name":  "Alignment",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spellthieves work well with members of almost any other class. Their spells and class skills help them play a variety of roles in an adventuring group. Because they’re not suited to act as front-line melee combatants, they enjoy working with fighters and barbarians more than other classes.",
+        "name":  "Other Classes",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Any, although many spellthieves tend toward neutrality.",
+        "name":  "Alignment",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "4d4 gp. pqqqqqqqqqqqqqqqqqqqqrs SPELLTHIEVES AND PSIONICS A campaign that includes psionic characters, as described in the Expanded Psionics Handbook, would logically have room for psionic-themed spellthieves. If psionics are common in your game, you have two op - tions. The first is to allow spellthieves to affect both spells and psionic powers. The second is to create a new class, the psithief, that functions identically to the spellthief except that its special abilities affect psionic powers only. In either case, a spellthief who can affect psionic powers treats psionic powers as if they were spells of the same level, allowing him to steal, absorb, or discover known psionic powers as normal for spells. A spellthief can’t augment a stolen power, even if he has power points available of his own. Treat psi-like abilities as spell-like abilities for the purpose of a spellthief’s stealing these abilities. pqqqqqqqqqqqqqqqqqqqqrsﬁ  nding a suitable prestige class involves making sure that your character’s new suite of abilities fulﬁ  lls a needed role in the party. If your character is the primary trapﬁ  nder or scout, you’ll want to make sure that the prestige class doesn’t diminish those abilities while still providing you with interesting options in combat. Good Guys/Bad Guys:  Members of these groups define themselves by their alignment and their outlook on the world first, and their other abilities second. Their strengths reflect their alignment choices, and roleplaying one of these characters means putting attitude first.",
+        "name":  "Gold",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Members of these prestige class take one special ability—such as bardic music, the druid’s wild shape ability, or the ability to bond with an animal companion—to the extremes of power. Specialized and extremely effective, these classes provide entirely new types of abilities and innovative ways to use a character’s existing abilities. Spellcasting/Psionics:  Spellcasters are rarely known for their selection of skills, since they often depend on spells to get them through the challenges they face. The classes described here, however, break that mold. Many of these prestige classes not only emphasize skill use but also provide new and interesting options for multiclass spellcasters. One prestige class, the shadowmind, expands the options for psionic characters (see the Expanded Psionic Handbook ).",
+        "name":  "Special Ability",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Jump; Sharklord: Swim; Snakelord: Escape Artist; Wolﬂord: Survival. Low-Light Vision (Ex): At 2nd level, an animal lord gains low-light vision, allowing him to see twice as Table 2–1: Adventurer Prestige Class Groupings Group Prestige Classes Bad guys Dread pirate, ghost-faced killer Good guys  Dread pirate, shadowbane inquisitor, shadowbane stalker, vigilante Melee  Animal lord, daggerspell shaper, dread pirate, ghost-faced killer, nightsong enforcer, shadowbane inquisitor, streetfighter, tempest, wild plains outrider Nature  Animal lord, beastmaster, bloodhound, Fochlucan lyrist, highland stalker, master of many forms, wild plains outrider Special ability  Animal lord, beastmaster, bloodhound, exemplar, master of many forms, ollam, virtuosoSpellcasting/psionics  Daggerspell mage, daggerspell shaper, Fochlucan lyrist, maester, shadowbane stalker, shadowmind, vigilante Stealth  Daggerspell mage, dungeon delver, ghost-faced killer, highland stalker, nightsong enforcer, nightsong infiltrator, shadowbane stalker, shadowmind, spymaster, thief-acrobat Kozakh, an animal lordIllus. by S. EllisCHAPTER 2 PRESTIGE CLASSES 22CHAPTER 2 PRESTIGE CLASSES 23making their use in play involve much more than simply swinging away against the toughest foe present.",
+        "name":  "Horselord",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Members of these prestige class take one special ability—such as bardic music, the druid’s wild shape ability, or the ability to bond with an animal companion—to the extremes of power. Specialized and extremely effective, these classes provide entirely new types of abilities and innovative ways to use a character’s existing abilities. Spellcasting/Psionics:  Spellcasters are rarely known for their selection of skills, since they often depend on spells to get them through the challenges they face. The classes described here, however, break that mold. Many of these prestige classes not only emphasize skill use but also provide new and interesting options for multiclass spellcasters. One prestige class, the shadowmind, expands the options for psionic characters (see the Expanded Psionic Handbook ).",
+        "name":  "Special Ability",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A snakelord gains a poisonous bite as a primary natural attack for 1 round per level. This bite deals 1d4 points of damage (or 1d3 points for Small snake - lords). The poison’s Fortitude save DC is 10 + animal lord level + Con modiﬁer, and it deals initial and secondary damage of 1d3 points of Constitution. At 7th level, the bite damage increases to 1d6 points (or 1d4 points for Small snakelords), and the initial and secondary poison damage increases to 1d4 points of Constitution. Wolﬂord: A wolﬂord gains the scent ability (see page 314 of the Monster Manual ) for 10 minutes per level. At 7th level, the duration increases to 1 hour per level. Speak with Animals (Sp): Beginning at 4th level, an animal lord can use speak with animals  (as the spell) once per day to converse with animals of his selected group. Summon Animal  (Sp): Beginning at 5th level, an animal lord can summon one or more animals of his selected group once per day. This ability functions identi - cally to summon nature’s ally V , except that an animal lord can summon creatures only from his selected group, as detailed below. The duration of the effect is 1 minute per class level.",
+        "name":  "Snakelord",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "At 6th level, an animal lord gains a bonus feat related to his selected group, even if he doesn’t meet the prerequisites. If the animal lord already has the feat, he can choose any other feat for which he meets the prerequisites. Apelord: Brachiation†; Bearlord: Improved Grapple; Birdlord: Flyby Attack (see page 303 of the Monster Manual ); Catlord: Lightning Reﬂexes; Horselord: Trample; Sharklord: Improved Critical (bite); Snakelord: Improved Initiative; Wolﬂord: Improved Trip. †New feat described on page 106 . Animal Growth (Sp): Once per day, an animal lord of 7th level or higher can use animal growth on a single animal from his selected group as a swift action (see Swift Actions and Immediate Actions, page 137) as a spellcaster of his class level. This ability otherwise functions just like the spell. Animal Telepathy (Su): Beginning at 8th level, an animal lord can converse telepathically with any animal of his selected group that he can see within 100 feet.",
+        "name":  "Second Totem",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A snakelord gains a poisonous bite as a primary natural attack for 1 round per level. This bite deals 1d4 points of damage (or 1d3 points for Small snake - lords). The poison’s Fortitude save DC is 10 + animal lord level + Con modiﬁer, and it deals initial and secondary damage of 1d3 points of Constitution. At 7th level, the bite damage increases to 1d6 points (or 1d4 points for Small snakelords), and the initial and secondary poison damage increases to 1d4 points of Constitution. Wolﬂord: A wolﬂord gains the scent ability (see page 314 of the Monster Manual ) for 10 minutes per level. At 7th level, the duration increases to 1 hour per level. Speak with Animals (Sp): Beginning at 4th level, an animal lord can use speak with animals  (as the spell) once per day to converse with animals of his selected group. Summon Animal  (Sp): Beginning at 5th level, an animal lord can summon one or more animals of his selected group once per day. This ability functions identi - cally to summon nature’s ally V , except that an animal lord can summon creatures only from his selected group, as detailed below. The duration of the effect is 1 minute per class level.",
+        "name":  "Snakelord",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "At 6th level, an animal lord gains a bonus feat related to his selected group, even if he doesn’t meet the prerequisites. If the animal lord already has the feat, he can choose any other feat for which he meets the prerequisites. Apelord: Brachiation†; Bearlord: Improved Grapple; Birdlord: Flyby Attack (see page 303 of the Monster Manual ); Catlord: Lightning Reﬂexes; Horselord: Trample; Sharklord: Improved Critical (bite); Snakelord: Improved Initiative; Wolﬂord: Improved Trip. †New feat described on page 106 . Animal Growth (Sp): Once per day, an animal lord of 7th level or higher can use animal growth on a single animal from his selected group as a swift action (see Swift Actions and Immediate Actions, page 137) as a spellcaster of his class level. This ability otherwise functions just like the spell. Animal Telepathy (Su): Beginning at 8th level, an animal lord can converse telepathically with any animal of his selected group that he can see within 100 feet.",
+        "name":  "Second Totem",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A beast- master’s senses grow keen as she learns some of the tricks of the animal kingdom. Accord- ingly, she gains Alertness as a bonus feat at 2nd level. Speak with Animals (Sp): Starting at 3rd level, a beastmaster can use speak with animals once per day as the spell cast by a caster of her class level. She can use this ability twice per day at 6th level and three times per day at 9th level. Extra Animal Companion (Ex): At 4th level, a beastmaster gains a second animal companion, chosen from the list of animal companions available to a 1st-level druid. Treat the beastmaster as a druid whose level is equal to the beastmaster’s class level – 3 for the purpose of improving the animal companion’s statistics (or of selecting an alternative companion at higher levels). At 7th level, a beastmaster gains a third animal com-panion, chosen from the list of animal companions available to a 1st-level druid. Treat the beastmaster as a druid whose level is equal to the beastmaster’s class level – 6 for the purpose of improving the animal companion’s statistics (or of selecting an alternative companion at higher levels). At 10th level, a beastmaster gains a fourth animal companion, chosen from the list of animal companions available to a 1st-level druid. Treat the beastmaster as a druid whose level is equal to the beastmaster’s class level – 9 for the purpose of improving the animal companion’s statistics (or of selecting an alternative companion at higher levels). Other class levels in classes that offer an animal com- panion don’t stack for the purpose of determining the power of a beastmaster’s additional animal companions, nor do they allow her to choose additional animal com-panions from the alternative lists. Low-Light Vision (Ex):  At 5th level, a beastmaster gains low-light vision, allowing her to see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of shadowy illumination. She retains the ability to distinguish color and detail under these conditions. If she already has low-light vision from another source (such as her race), her low-light vision improves, allowing her to see three times as far as a human in conditions of shadowy illumination. Scent (Ex): At 8th level, a beastmaster gains the scent ability (see page 314 of the Monster Manual ). SAMPLE BEASTMASTER",
+        "name":  "Alertness",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A beast- master’s senses grow keen as she learns some of the tricks of the animal kingdom. Accord- ingly, she gains Alertness as a bonus feat at 2nd level. Speak with Animals (Sp): Starting at 3rd level, a beastmaster can use speak with animals once per day as the spell cast by a caster of her class level. She can use this ability twice per day at 6th level and three times per day at 9th level. Extra Animal Companion (Ex): At 4th level, a beastmaster gains a second animal companion, chosen from the list of animal companions available to a 1st-level druid. Treat the beastmaster as a druid whose level is equal to the beastmaster’s class level – 3 for the purpose of improving the animal companion’s statistics (or of selecting an alternative companion at higher levels). At 7th level, a beastmaster gains a third animal com-panion, chosen from the list of animal companions available to a 1st-level druid. Treat the beastmaster as a druid whose level is equal to the beastmaster’s class level – 6 for the purpose of improving the animal companion’s statistics (or of selecting an alternative companion at higher levels). At 10th level, a beastmaster gains a fourth animal companion, chosen from the list of animal companions available to a 1st-level druid. Treat the beastmaster as a druid whose level is equal to the beastmaster’s class level – 9 for the purpose of improving the animal companion’s statistics (or of selecting an alternative companion at higher levels). Other class levels in classes that offer an animal com- panion don’t stack for the purpose of determining the power of a beastmaster’s additional animal companions, nor do they allow her to choose additional animal com-panions from the alternative lists. Low-Light Vision (Ex):  At 5th level, a beastmaster gains low-light vision, allowing her to see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of shadowy illumination. She retains the ability to distinguish color and detail under these conditions. If she already has low-light vision from another source (such as her race), her low-light vision improves, allowing her to see three times as far as a human in conditions of shadowy illumination. Scent (Ex): At 8th level, a beastmaster gains the scent ability (see page 314 of the Monster Manual ). SAMPLE BEASTMASTER",
+        "name":  "Alertness",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "d6. REQUIREMENTS To qualify to become a daggerspell mage, a character must fulﬁll all the following criteria.",
+        "name":  "Hit Die",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sneak attack +1d6. CLASS SKILLS The daggerspell mage’s class skills (and the key ability for each skill) are Balance (Dex), Climb (Str), Concentration (Con), Craft (Int), Handle Animal (Cha), Heal (Wis), Hide (Dex), Jump (Str), Knowledge (arcana) (Int), Listen (Wis), Move Silently (Dex), Profession (Wis), Ride (Dex), Spellcraft (Int), Spot (Wis), Survival (Wis), Swim (Str), and Tumble (Dex).",
+        "name":  "Special",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Common, Elven, Draconic; Orc, Sylvan. Arcane Infusion (Su): Vadamar can infuse arcane spellpower into his daggers, temporarily allowing them to deal extra energy damage. To use this ability, Vadamar must lose a prepared arcane spell from memory. He chooses one dagger that he is holding and a speciﬁc energy type (ﬁre, cold, or electricity) when this ability is activated, and the chosen dagger deals an extra 1d6 points of damage of the chosen energy type. This effect lasts for a number of rounds equal to the spell level lost. Multiple uses of this ability on the same dagger don’t stack, even if different energy types are chosen. If the dagger is thrown, the energy damage applies to that attack, but then the effect immediately dissipates. Using this ability is a swift action that does not provoke attacks of opportunity. Daggercast (Ex):  Vadamar can cast a spell with somatic and material components even when holding a dagger in each hand. If he holds anything other than a dagger, he must have at least one hand free to cast a spell with somatic or material components. Casting a spell in this way still provokes attacks of opportunity normally.Table 2–5: The Daggerspell Mage Base Attack Fort Ref Will Level Bonus Save Save Save Special Spells per Day/Spells Known 1st +0 +0 +2 +2 Daggercast — 2nd +1 +0 +3 +3  Invocation of the knife +1 level of existing arcane spellcasting class  3rd +2 +1 +3 +3  Sneak attack +1d6 +1 level of existing arcane spellcasting class  4th +3 +1 +4 +4 — +1 level of existing arcane spellcasting class 5th +3 +1 +4 +4 Double daggercast +1 level of existing arcane spellcasting class  6th +4 +2 +5 +5  Sneak attack +2d6 +1 level of existing arcane spellcasting class  7th +5 +2 +5 +5  Arcane infusion +1 level of existing arcane spellcasting class 8th +6 +2 +6 +6  Arcane throw +1 level of existing arcane spellcasting class 9th +6 +3 +6 +6  Sneak attack +3d6 +1 level of existing arcane spellcasting class10th +7 +3 +7 +7  Daggerspell flurry +1 level of existing arcane spellcasting classCHAPTER 2 PRESTIGE CLASSES 32CHAPTER 2 PRESTIGE CLASSES 33campaign. The mages, well suited for wizard/rogues of any alignment, could become a deadly group of dagger- and spell-wielding cultists. Furthermore, in a campaign that includes psionics, the daggerspell mage makes an excellent class for psion/ rogues. Simply change the arcane spellcasting require - ment and progression to a similar psionic manifester level requirement and progression, and the daggerspell psion, the third branch of the Daggerspell Guardians, is ready for your campaign.",
+        "name":  "Languages",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "d6. REQUIREMENTS To qualify to become a daggerspell mage, a character must fulﬁll all the following criteria.",
+        "name":  "Hit Die",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sneak attack +1d6. CLASS SKILLS The daggerspell mage’s class skills (and the key ability for each skill) are Balance (Dex), Climb (Str), Concentration (Con), Craft (Int), Handle Animal (Cha), Heal (Wis), Hide (Dex), Jump (Str), Knowledge (arcana) (Int), Listen (Wis), Move Silently (Dex), Profession (Wis), Ride (Dex), Spellcraft (Int), Spot (Wis), Survival (Wis), Swim (Str), and Tumble (Dex).",
+        "name":  "Special",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Common, Elven, Draconic; Orc, Sylvan. Arcane Infusion (Su): Vadamar can infuse arcane spellpower into his daggers, temporarily allowing them to deal extra energy damage. To use this ability, Vadamar must lose a prepared arcane spell from memory. He chooses one dagger that he is holding and a speciﬁc energy type (ﬁre, cold, or electricity) when this ability is activated, and the chosen dagger deals an extra 1d6 points of damage of the chosen energy type. This effect lasts for a number of rounds equal to the spell level lost. Multiple uses of this ability on the same dagger don’t stack, even if different energy types are chosen. If the dagger is thrown, the energy damage applies to that attack, but then the effect immediately dissipates. Using this ability is a swift action that does not provoke attacks of opportunity. Daggercast (Ex):  Vadamar can cast a spell with somatic and material components even when holding a dagger in each hand. If he holds anything other than a dagger, he must have at least one hand free to cast a spell with somatic or material components. Casting a spell in this way still provokes attacks of opportunity normally.Table 2–5: The Daggerspell Mage Base Attack Fort Ref Will Level Bonus Save Save Save Special Spells per Day/Spells Known 1st +0 +0 +2 +2 Daggercast — 2nd +1 +0 +3 +3  Invocation of the knife +1 level of existing arcane spellcasting class  3rd +2 +1 +3 +3  Sneak attack +1d6 +1 level of existing arcane spellcasting class  4th +3 +1 +4 +4 — +1 level of existing arcane spellcasting class 5th +3 +1 +4 +4 Double daggercast +1 level of existing arcane spellcasting class  6th +4 +2 +5 +5  Sneak attack +2d6 +1 level of existing arcane spellcasting class  7th +5 +2 +5 +5  Arcane infusion +1 level of existing arcane spellcasting class 8th +6 +2 +6 +6  Arcane throw +1 level of existing arcane spellcasting class 9th +6 +3 +6 +6  Sneak attack +3d6 +1 level of existing arcane spellcasting class10th +7 +3 +7 +7  Daggerspell flurry +1 level of existing arcane spellcasting classCHAPTER 2 PRESTIGE CLASSES In addition, Vadamar can deliver a touch spell with a dagger attack (either a melee touch attack or a normal melee attack, but not with a thrown dagger). Double Daggercast (Ex):  Vadamar can hold the charge of one touch spell for each dagger that he is holding in his hands. He must designate which dagger holds each touch spell at the time the spell is cast. If one of these daggers leaves Vadamar’s hands, the spell immediately discharges harmlessly.",
+        "name":  "Languages",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "CR —; Diminutive magi - cal beast; HD 5; hp 24; Init +1; Spd 5 ft.; AC 18, touch 15, ﬂat-footed 17; Base Atk +0; Grp –17; Atk or Full Atk —; Space/Reach 1 ft./0 ft.; SA deliver touch spells; SQ amphibious, improved evasion, low-light vision, speak with master; AL N; SV Fort +3, Ref +10, Will +11; Str 1, Dex 12, Con 11, Int 8, Wis 14, Cha 4.",
+        "name":  "Berkich,  Toad Familiar",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Hide +21, Listen +4, Spot +4; Alertness. Deliver Touch Spells (Su): Berkich can deliver touch spells for its master (see Familiars, page 52 of the Player’s Handbook).Zaadi Akanthas, a daggerspell shaperVadamar Lyrr, a daggerspell mage 34 Illus. by W. O’ConnorCHAPTER 2 PRESTIGE CLASSES In addition, Vadamar can deliver a touch spell with a dagger attack (either a melee touch attack or a normal melee attack, but not with a thrown dagger). Double Daggercast (Ex):  Vadamar can hold the charge of one touch spell for each dagger that he is holding in his hands. He must designate which dagger holds each touch spell at the time the spell is cast. If one of these daggers leaves Vadamar’s hands, the spell immediately discharges harmlessly.",
+        "name":  "Skills and Feats",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "CR —; Diminutive magi - cal beast; HD 5; hp 24; Init +1; Spd 5 ft.; AC 18, touch 15, ﬂat-footed 17; Base Atk +0; Grp –17; Atk or Full Atk —; Space/Reach 1 ft./0 ft.; SA deliver touch spells; SQ amphibious, improved evasion, low-light vision, speak with master; AL N; SV Fort +3, Ref +10, Will +11; Str 1, Dex 12, Con 11, Int 8, Wis 14, Cha 4.",
+        "name":  "Berkich,  Toad Familiar",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The daggerspell shapers and their col - leagues, the daggerspell mages, form the two halves of the organization known as the Daggerspell Guardians. Although normally bound together through the guild, these groups need not be used together in every campaign. The shapers, well suited for druid/rogues of any alignment, can become a drastically different group with just a few changes. Adding neutral evil as an alignment requirement might change the shapers into a group of dagger-wielding fanatics dedicated to preserving the sanctity of nature by assassinating those who intrude into the wild.",
+        "name":  "Adaptation",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "d6. REQUIREMENTS To qualify to become a daggerspell shaper, a character must fulﬁll all the following criteria.",
+        "name":  "Hit Die",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Either sneak attack +1d6 or skirmish +1d6. CLASS SKILLS The daggerspell shaper’s class skills (and the key ability for each skill) are Balance (Dex), Climb (Str), Concentra - tion (Con), Craft (Int), Handle Animal (Cha), Heal (Wis), Hide (Dex), Jump (Str), Knowledge (nature) (Int), Listen (Wis), Move Silently (Dex), Profession (Wis), Ride (Dex), Spellcraft (Int), Spot (Wis), Survival (Wis), Swim (Str), and Tumble (Dex).",
+        "name":  "Special",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "6 + Int modiﬁer. CLASS FEATURES All of the following are class features of the daggerspell shaper prestige class.",
+        "name":  "Skill Points at Each Level",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The daggerspell shapers and their col - leagues, the daggerspell mages, form the two halves of the organization known as the Daggerspell Guardians. Although normally bound together through the guild, these groups need not be used together in every campaign. The shapers, well suited for druid/rogues of any alignment, can become a drastically different group with just a few changes. Adding neutral evil as an alignment requirement might change the shapers into a group of dagger-wielding fanatics dedicated to preserving the sanctity of nature by assassinating those who intrude into the wild.",
+        "name":  "Adaptation",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "d6. REQUIREMENTS To qualify to become a daggerspell shaper, a character must fulﬁll all the following criteria.",
+        "name":  "Hit Die",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Either sneak attack +1d6 or skirmish +1d6. CLASS SKILLS The daggerspell shaper’s class skills (and the key ability for each skill) are Balance (Dex), Climb (Str), Concentra - tion (Con), Craft (Int), Handle Animal (Cha), Heal (Wis), Hide (Dex), Jump (Str), Knowledge (nature) (Int), Listen (Wis), Move Silently (Dex), Profession (Wis), Ride (Dex), Spellcraft (Int), Spot (Wis), Survival (Wis), Swim (Str), and Tumble (Dex).",
+        "name":  "Special",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "6 + Int modiﬁer. CLASS FEATURES All of the following are class features of the daggerspell shaper prestige class.",
+        "name":  "Skill Points at Each Level",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Use bardic music ten times per day. See the bard class feature, page 29 of the Player’s Handbook. Countersong (Su):  Use music or poetics to counter magi - cal effects that depend on sound. Fascinate (Sp):  Use music or poetics to cause one or more creatures to become fascinated with her. Inspire Competence (Su): Use music or poetics to help an ally succeed at a task. Inspire Courage (Su):  Use music or poetics to bolster her allies against fear and improve their combat abilities. Inspire Greatness (Su): Use music or poetics to inspire greatness in herself or an ally, granting her target extra ﬁghting capability. Suggestion (Sp): Use music or poetics to make a sug- gestion (as the spell) to a creature that she has already fascinated.",
+        "name":  "Bardic Music",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ability to cast 1st-level arcane and divine spells.",
+        "name":  "Spells",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Use bardic music ten times per day. See the bard class feature, page 29 of the Player’s Handbook. Countersong (Su):  Use music or poetics to counter magi - cal effects that depend on sound. Fascinate (Sp):  Use music or poetics to cause one or more creatures to become fascinated with her. Inspire Competence (Su): Use music or poetics to help an ally succeed at a task. Inspire Courage (Su):  Use music or poetics to bolster her allies against fear and improve their combat abilities. Inspire Greatness (Su): Use music or poetics to inspire greatness in herself or an ally, granting her target extra ﬁghting capability. Suggestion (Sp): Use music or poetics to make a sug- gestion (as the spell) to a creature that she has already fascinated.",
+        "name":  "Bardic Music",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ability to cast 1st-level arcane and divine spells.",
+        "name":  "Spells",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Female half-elf rogue 2/bard 4/druid 4/Fochlucan lyrist 2; CR 12; Medium humanoid (elf); HD 8d6 plus 4d8 plus 3; hp 45; Init +1; Spd 30 ft.; AC 18, touch 12, ﬂ  at-footed 17; Base Atk +9; Grp +8; Atk +10 melee (1d6, +1 spell storing quarterstaff ); Full Atk +10/+5 melee (1d6, +1 spell storing quarterstaff ); SA sneak attack +1d6, spells; SQ animal companion (dire weasel), animal companion beneﬁ  ts, bardic knowledge +7, bardic music 6/day (countersong, fascinate, inspire courage, inspire competence), evasion, half-elf traits, low-light vision, resist nature’s lure, trackless step, trapﬁ  nding, wild empathy +7, woodland stride; AL NG; SV Fort +8, Ref +12, Will +16 (+18 against enchantments); Str 8, Dex 13, Con 10, Int 12, Wis 20, Cha 16.",
+        "name":  "Tyrea Neylis",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Female half-elf rogue 2/bard 4/druid 4/Fochlucan lyrist 2; CR 12; Medium humanoid (elf); HD 8d6 plus 4d8 plus 3; hp 45; Init +1; Spd 30 ft.; AC 18, touch 12, ﬂ  at-footed 17; Base Atk +9; Grp +8; Atk +10 melee (1d6, +1 spell storing quarterstaff ); Full Atk +10/+5 melee (1d6, +1 spell storing quarterstaff ); SA sneak attack +1d6, spells; SQ animal companion (dire weasel), animal companion beneﬁ  ts, bardic knowledge +7, bardic music 6/day (countersong, fascinate, inspire courage, inspire competence), evasion, half-elf traits, low-light vision, resist nature’s lure, trackless step, trapﬁ  nding, wild empathy +7, woodland stride; AL NG; SV Fort +8, Ref +12, Will +16 (+18 against enchantments); Str 8, Dex 13, Con 10, Int 12, Wis 20, Cha 16.",
+        "name":  "Tyrea Neylis",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Common. Evasion (Ex): If Qeng Yi is exposed to any effect that normally allows him to attempt a Reﬂex saving throw for half damage, he takes no damage with a successful saving throw. Frightful Attack (Su): Once per day, Qeng Yi can designate a melee sudden strike attack as a frightful attack. He must use his Power Attack feat and take an attack roll penalty of at least –1. If the attack deals damage to the target, the victim must make a DC 12 Will save. Q eng Yi, a ghost-faced killerIllus. by M. PhillippiCHAPTER 2 PRESTIGE CLASSES 52CHAPTER 2 PRESTIGE CLASSES 53murdered the entire imperial family, plunging the country into bloody civil war once again. No one ever discovered the clan’s honorless actions, and to this day, no one knows what clan the ghost-faced killers came from. Today ghost- faced killers act as assassins and spies for hire, a mercenary clan that hides behind a guise of open and honorable con - duct. When on a mission, they wear porcelain demon- masks of ghostly white to hide their identities and as a symbol of the pact their clan made with the demon-spir - its. Through training and discipline, ghost-faced killers learn the deadliest and most terrifying ways to attack foes, and through their mystic con - nection with spirits, ghost-faced killers learn to turn invisible, walk through walls, and even see with the eyes of the spirits them - selves. Most ghost-faced killers be - gin their careers as rangers or rogues, though ninjas are also common. Fighters are only slightly less common. Few monks, barbarians, or members of spell - casting classes choose to become ghost-faced killers, but such char - acters are not unknown. NPC ghost-faced killers are members of the Ghost-Faced Killer clan of ninjas. This clan disguises itself as a normal samurai clan, loyal to the empire but unworthy of notice. Most of the time a ghost-faced killer simply pursues his responsi - bilities to the clan and the emperor, but when called by money or the clan daimyo the ghost-faced killer dons the mask that means death for his enemies.",
+        "name":  "Language",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This prestige class models a mountain warrior who favors stalking enemies and attacking from ambush—similar to the ranger, but with fewer skills and no spellcasting. Thus, it’s easy to adapt for hunters beyond a mountain setting. A ﬁghter’s base attack bonus and the ability to make skirmish attacks is a compelling combination, so you don’t need to load the prestige class with many other class features.",
+        "name":  "Adaptation",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This prestige class models a mountain warrior who favors stalking enemies and attacking from ambush—similar to the ranger, but with fewer skills and no spellcasting. Thus, it’s easy to adapt for hunters beyond a mountain setting. A ﬁghter’s base attack bonus and the ability to make skirmish attacks is a compelling combination, so you don’t need to load the prestige class with many other class features.",
+        "name":  "Adaptation",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Common,  Gnome; Draconic, Dwarven, Undercommon. Spell-Like Abilities:  1/day— dancing lights, ghost sound (DC 12) , prestidigitation, speak with animals (burrowing mammal only, duration 1 minute).",
+        "name":  "Languages",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Common,  Gnome; Draconic, Dwarven, Undercommon. Spell-Like Abilities:  1/day— dancing lights, ghost sound (DC 12) , prestidigitation, speak with animals (burrowing mammal only, duration 1 minute).",
+        "name":  "Languages",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Knowledge (nature) +12, Listen +18, Search +2, Spot +18, Survival +16; Alertness, Endurance, Natural Spell.",
+        "name":  "Skills and Feats",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Common, Elven; Druidic. Animal Companion (Ex):  Galatea has an eagle named Metrius as an animal companion. Metrius’s abilities and characteristics are summarized below. Animal Companion Beneﬁts: Galatea and Metrius enjoy the link and share spells special qualities. Link (Ex): Galatea can handle Metrius as a free action. She also gains a +4 circumstance bonus on all wild empa - thy checks and Handle Animal checks made regarding her eagle. Share Spells (Ex):  Galatea can have any spell she casts on herself also affect her animal companion if the latter is within 5 feet at the time. She can also cast a spell with a target of “You” on her eagle.",
+        "name":  "Languages",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Attack, guard, seek. Evasion (Ex): If Metrius is subjected to an attack that normally allows a Reﬂex saving throw for half damage, it takes no damage if it makes a successful saving throw. NIGHTSONG ENFORCER Throughout the city, even the vilest assassin does not command more respect than the nightsong enforcers. They could be anywhere—they could strike at any time. You cannot escape their uncanny senses. And worst of all, they often work in elite teams. The enforcers of the Nightsong Guild (see page 177) focus on the stealth-centered combat training that rogues usually learn; they forgo some of the sleight of hand or fast-talking aspects of being a thief. However, nightsong enforcers are not mere thugs. They are deadly opponents who strike from hidden positions and move silently behind their foes. When in battle, their goal is to eliminate their enemies, not to ﬁght. Thus, they strike quickly from the shadows. They do not worry about honor or ﬁghting fair, scofﬁng at such ideals as childish. Rogues most often become nightsong enforcers, although bards, ﬁghters, and urban rangers are also known to undertake the class. On occasion a wizard or sorcerer will endure the intensive training required to join the enforcers’ ranks. When working with others, a nightsong enforcer is the linchpin. She is the very picture of ﬁdelity when it comes to supporting teammates on a mission. It is common for an enforcer to lead a team composed of not only other enforcers, but ﬁghters, spellcasters, or rogues.",
+        "name":  "Tricks",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Knowledge (nature) +12, Listen +18, Search +2, Spot +18, Survival +16; Alertness, Endurance, Natural Spell.",
+        "name":  "Skills and Feats",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Common, Elven; Druidic. Animal Companion (Ex):  Galatea has an eagle named Metrius as an animal companion. Metrius’s abilities and characteristics are summarized below. Animal Companion Beneﬁts: Galatea and Metrius enjoy the link and share spells special qualities. Link (Ex): Galatea can handle Metrius as a free action. She also gains a +4 circumstance bonus on all wild empa - thy checks and Handle Animal checks made regarding her eagle. Share Spells (Ex):  Galatea can have any spell she casts on herself also affect her animal companion if the latter is within 5 feet at the time. She can also cast a spell with a target of “You” on her eagle.",
+        "name":  "Languages",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Attack, guard, seek. Evasion (Ex): If Metrius is subjected to an attack that normally allows a Reﬂex saving throw for half damage, it takes no damage if it makes a successful saving throw. NIGHTSONG ENFORCER Throughout the city, even the vilest assassin does not command more respect than the nightsong enforcers. They could be anywhere—they could strike at any time. You cannot escape their uncanny senses. And worst of all, they often work in elite teams. The enforcers of the Nightsong Guild (see page 177) focus on the stealth-centered combat training that rogues usually learn; they forgo some of the sleight of hand or fast-talking aspects of being a thief. However, nightsong enforcers are not mere thugs. They are deadly opponents who strike from hidden positions and move silently behind their foes. When in battle, their goal is to eliminate their enemies, not to ﬁght. Thus, they strike quickly from the shadows. They do not worry about honor or ﬁghting fair, scofﬁng at such ideals as childish. Rogues most often become nightsong enforcers, although bards, ﬁghters, and urban rangers are also known to undertake the class. On occasion a wizard or sorcerer will endure the intensive training required to join the enforcers’ ranks. When working with others, a nightsong enforcer is the linchpin. She is the very picture of ﬁdelity when it comes to supporting teammates on a mission. It is common for an enforcer to lead a team composed of not only other enforcers, but ﬁghters, spellcasters, or rogues.",
+        "name":  "Tricks",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Lawful good. Skills:  Knowledge (history) 10 ranks, Knowledge (any other) 10 ranks, Perform (oratory) 5 ranks. CLASS SKILLS The ollam’s class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Decipher Script (Int), Diplomacy (Cha), Gather Information (Cha), Heal (Wis), Knowledge (all skills, taken individually) (Int), Listen (Wis), Perform (Cha), Search (Int), Sense Motive (Wis), Speak Language (n/a), and Spellcraft (Int).",
+        "name":  "Alignment",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Lawful good. Skills:  Knowledge (history) 10 ranks, Knowledge (any other) 10 ranks, Perform (oratory) 5 ranks. CLASS SKILLS The ollam’s class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Decipher Script (Int), Diplomacy (Cha), Gather Information (Cha), Heal (Wis), Knowledge (all skills, taken individually) (Int), Listen (Wis), Perform (Cha), Search (Int), Sense Motive (Wis), Speak Language (n/a), and Spellcraft (Int).",
+        "name":  "Alignment",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Detect evil class feature or ability to cast detect evil as a divine spell.",
+        "name":  "Special",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Detect evil class feature or ability to cast detect evil as a divine spell.",
+        "name":  "Special",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Detect evil class feature or ability to cast detect evil as a divine spell.",
+        "name":  "Special",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Detect evil class feature or ability to cast detect evil as a divine spell.",
+        "name":  "Special",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Arcane caster level 1st CLASS SKILLS The virtuoso’s class skills (and the key ability for each skill) are Balance (Dex), Bluff (Cha), Concentration (Con), Craft (Int), Diplomacy (Cha), Disguise (Cha), Escape Artist (Dex), Gather Information (Cha), Intimidate (Cha), Jump (Str), Perform (Cha), Spellcraft (Int), and Tumble (Dex).",
+        "name":  "Spells",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Arcane caster level 1st CLASS SKILLS The virtuoso’s class skills (and the key ability for each skill) are Balance (Dex), Bluff (Cha), Concentration (Con), Craft (Int), Diplomacy (Cha), Disguise (Cha), Escape Artist (Dex), Gather Information (Cha), Intimidate (Cha), Jump (Str), Perform (Cha), Spellcraft (Int), and Tumble (Dex).",
+        "name":  "Spells",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Common, Gnome; Elven. Spell-Like Abilities:  1/day— dancing lights, ghost sound (DC 14) , prestidigitation, speak with animals (burrowing mammal only, duration 1 minute).",
+        "name":  "Languages",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Tevaldo can use bardic music ten times per day. See the bard class feature, page 29 of the Player’s Handbook. Countersong (Su):  Use music or poetics to counter magi - cal effects that depend on sound. Fascinate (Sp):  Use music or poetics to cause one or more creatures to become fascinated with him. Inspire Competence (Su): Use music or poetics to help an ally succeed at a task. Inspire Courage (Su):  Use music or poetics to bolster his allies against fear and improve their combat abilities. Suggestion (Sp): Use music or poetics to make a sug - gestion (as the spell) to a creature that he has already fascinated.",
+        "name":  "Bardic Music",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A paladin can multiclass as a wild plains out - rider without losing her ability to take additional levels in paladin. Joran Vhask, a wild plains outriderIllus. by S. EllisCHAPTER 2 PRESTIGE CLASSES 92CHAPTER 2 PRESTIGE CLASSES 93to add each level for the purpose of determining spells per day and spells known. SAMPLE VIRTUOSO",
+        "name":  "Multiclassing Note",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Common, Gnome; Elven. Spell-Like Abilities:  1/day— dancing lights, ghost sound (DC 14) , prestidigitation, speak with animals (burrowing mammal only, duration 1 minute).",
+        "name":  "Languages",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Tevaldo can use bardic music ten times per day. See the bard class feature, page 29 of the Player’s Handbook. Countersong (Su):  Use music or poetics to counter magi - cal effects that depend on sound. Fascinate (Sp):  Use music or poetics to cause one or more creatures to become fascinated with him. Inspire Competence (Su): Use music or poetics to help an ally succeed at a task. Inspire Courage (Su):  Use music or poetics to bolster his allies against fear and improve their combat abilities. Suggestion (Sp): Use music or poetics to make a sug - gestion (as the spell) to a creature that he has already fascinated.",
+        "name":  "Bardic Music",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Attack, defend, guard, heel. Devotion (Ex):  Ji’ikala’s devotion to Joran is so complete that it gains a +4 morale bonus on Will saves against enchantment spells and effects. Evasion (Ex): If Ji’ikala is subjected to an attack that normally allows a Reﬂex saving throw for half damage, it takes no damage if it makes a successful saving throw. Wild Plains Stalker (Ex):  Ji’ikala uses Joran’s skill ranks, rather than its own, to make Hide and Move Silently checks.",
+        "name":  "Tricks",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The general purposes described here expand on those presented in the Player’s Handbook . To be trained for a purpose, an animal must have an Intelligence of 2. Advanced Fighting (DC 20): An animal trained for advanced ﬁghting knows the tricks assist attack, attack, down, hold, stay, and subdue. Training an animal for advanced ﬁghting takes ﬁve weeks. You can also “upgrade” an animal trained for ﬁghting to one trained for advanced ﬁghting by spending two weeks and making a successful DC 20 Handle Animal check. The new general purpose and tricks completely replace the animal’s previous purpose and any tricks it once knew. Defensive Guarding (DC 20): An animal trained for defensive guarding knows the tricks defend, down, guard, hold, subdue, and warn. Training an animal for defensive guarding takes six weeks. You can also “upgrade” an animal trained for guarding to one trained for defensive guarding by spending three weeks and making a successful DC 20 Handle Animal check. The new general purpose and tricks completely replace the animal’s previous purpose and any tricks it once knew. Thievery (DC 20): An animal trained for thievery knows the tricks fetch, heel, home, seek, steal, and work. Train - ing an animal for thievery takes six weeks.HEAL (WIS) You can use the Heal skill to determine what killed a dead creature. The difﬁculty of this task depends on the nature of the death itself, as shown on the table below. Cause of Death DC Physical wounds 0 Environmental (fire, suffocation, etc.) 5 Spell with visible effects 10 Poison 15 Spell with no visible effects 20 Each day that passes between the time of the creature’s death and the time the examination is made increases the DC of the Heal check to determine the cause of death by 5.",
+        "name":  "Train an Animal for a Purpose",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The general purposes described here expand on those presented in the Player’s Handbook . To be trained for a purpose, an animal must have an Intelligence of 2. Advanced Fighting (DC 20): An animal trained for advanced ﬁghting knows the tricks assist attack, attack, down, hold, stay, and subdue. Training an animal for advanced ﬁghting takes ﬁve weeks. You can also “upgrade” an animal trained for ﬁghting to one trained for advanced ﬁghting by spending two weeks and making a successful DC 20 Handle Animal check. The new general purpose and tricks completely replace the animal’s previous purpose and any tricks it once knew. Defensive Guarding (DC 20): An animal trained for defensive guarding knows the tricks defend, down, guard, hold, subdue, and warn. Training an animal for defensive guarding takes six weeks. You can also “upgrade” an animal trained for guarding to one trained for defensive guarding by spending three weeks and making a successful DC 20 Handle Animal check. The new general purpose and tricks completely replace the animal’s previous purpose and any tricks it once knew. Thievery (DC 20): An animal trained for thievery knows the tricks fetch, heel, home, seek, steal, and work. Train - ing an animal for thievery takes six weeks.HEAL (WIS) You can use the Heal skill to determine what killed a dead creature. The difﬁculty of this task depends on the nature of the death itself, as shown on the table below. Cause of Death DC Physical wounds 0 Environmental (fire, suffocation, etc.) 5 Spell with visible effects 10 Poison 15 Spell with no visible effects 20 Each day that passes between the time of the creature’s death and the time the examination is made increases the DC of the Heal check to determine the cause of death by 5.",
+        "name":  "Train an Animal for a Purpose",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can try to follow someone while remaining unseen. If you stay at least 60 feet away from your quarry, you must succeed on a Hide check (opposed by your quarry’s Spot check) once every 10 minutes. At a distance of less than 60 feet, you must make a Hide check each round. Extraordinary actions on your part (such as spellcasting or attacking) may disrupt this attempt even if you do not fail a check. Tailing someone still requires cover or concealment, as normal for attempting a Hide check. A moderately crowded street provides sufﬁcient cover and conceal - ment to accomplish this goal. Alternatively, you can duck between areas of cover or concealment, as described in Move between Cover (see above). Even if you fail a Hide check while tailing someone or you are spotted while moving too great a distance between hiding places, you can attempt a Bluff check opposed by your quarry’s Sense Motive check to look innocuous. Success means your quarry sees you but doesn’t realize you’re tailing him; failure alerts him that you’re actually following. A modiﬁer may apply to the Sense Motive check, depending on how suspicious your quarry is. The table below provides Sense Motive modiﬁers for particular situations. Sense Motive Your Quarry . . . DC Modifier Is sure nobody is following –5 Has no reason to suspect anybody is following +0 Is worried about being followed +10 Is worried about being followed and knows  you’re an enemy +20OPEN LOCK (DEX) You can rush an Open Lock attempt, reducing the amount of time it takes to perform the attempt.",
+        "name":  "Tail Someone",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can try to follow someone while remaining unseen. If you stay at least 60 feet away from your quarry, you must succeed on a Hide check (opposed by your quarry’s Spot check) once every 10 minutes. At a distance of less than 60 feet, you must make a Hide check each round. Extraordinary actions on your part (such as spellcasting or attacking) may disrupt this attempt even if you do not fail a check. Tailing someone still requires cover or concealment, as normal for attempting a Hide check. A moderately crowded street provides sufﬁcient cover and conceal - ment to accomplish this goal. Alternatively, you can duck between areas of cover or concealment, as described in Move between Cover (see above). Even if you fail a Hide check while tailing someone or you are spotted while moving too great a distance between hiding places, you can attempt a Bluff check opposed by your quarry’s Sense Motive check to look innocuous. Success means your quarry sees you but doesn’t realize you’re tailing him; failure alerts him that you’re actually following. A modiﬁer may apply to the Sense Motive check, depending on how suspicious your quarry is. The table below provides Sense Motive modiﬁers for particular situations. Sense Motive Your Quarry . . . DC Modifier Is sure nobody is following –5 Has no reason to suspect anybody is following +0 Is worried about being followed +10 Is worried about being followed and knows  you’re an enemy +20OPEN LOCK (DEX) You can rush an Open Lock attempt, reducing the amount of time it takes to perform the attempt.",
+        "name":  "Tail Someone",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Improved Unarmed Strike, ability to smite evil. Beneﬁt: Your paladin and monk levels stack for the purpose of determining your unarmed strike damage. For example, a human 3rd-level paladin/1st-level monk would deal 1d8 points of damage with her unarmed strike. Your paladin and monk levels also stack when determining the extra damage dealt by your smite evil ability. In addition, you can multiclass freely between the paladin and monk classes. You must still remain lawful good in order to retain your paladin abilities and take paladin levels, and you must remain lawful in order to continue advancing as a monk. You still face the normal XP penalties for having multiple classes more than one level apart. ASCETIC MAGE You practice an unusual martial art that mixes self-taught spellcasting and melee attacks to great effect.",
+        "name":  "Prerequisite",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Improved Unarmed Strike, ability to smite evil. Beneﬁt: Your paladin and monk levels stack for the purpose of determining your unarmed strike damage. For example, a human 3rd-level paladin/1st-level monk would deal 1d8 points of damage with her unarmed strike. Your paladin and monk levels also stack when determining the extra damage dealt by your smite evil ability. In addition, you can multiclass freely between the paladin and monk classes. You must still remain lawful good in order to retain your paladin abilities and take paladin levels, and you must remain lawful in order to continue advancing as a monk. You still face the normal XP penalties for having multiple classes more than one level apart. ASCETIC MAGE You practice an unusual martial art that mixes self-taught spellcasting and melee attacks to great effect.",
+        "name":  "Prerequisite",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Perform (any) 9 ranks, bardic music. Beneﬁt: You can cast spells unobtrusively, mingling verbal and somatic components into your performances. To disguise a spell, make a Perform check as part of the action used to cast the spell. Onlookers must match or exceed your check result with a Spot check to detect that you’re casting a spell (your performance is obvious to everyone in the vicinity, but the fact that you are casting a spell isn’t). Unless the spell visibly emanates from you, or observers have some other means of determining its source, they don’t know where the effect came from.  A disguised spell can’t be identiﬁed with a Spellcraft check, even by someone who realizes you’re casting a spell. The act of casting still provokes attacks of oppor - tunity as normal. DIVE FOR COVER You can dive behind cover or drop to the ground quickly enough to avoid many area effects.",
+        "name":  "Prerequisite",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can gain this feat multiple times. Its effects stack. EXTRAORDINARY CONCENTRATION Your mind is so focused that you can cast spells even while concentrating on another spell.",
+        "name":  "Special",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration 15 ranks. Beneﬁt:  When concentrating to maintain a spell, you can make a Concentration check (DC 25 + spell level) to maintain concentration with just a move action. If you beat the DC by 10 or more, you can maintain concentra - tion on the spell as a swift action (see Swift Actions and Immediate Actions, page 137). Using this ability is a free action, but if you fail the Concentration check, you lose concentration on the maintained spell and its effect ends. This feat does not give you the ability to maintain concentration on more than one spell at a time.",
+        "name":  "Prerequisite",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentrating on a spell is a standard action. EXTRAORDINARY SPELL AIM You can shape a spell’s area to exclude one creature from its effects.",
+        "name":  "Normal",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spellcraft 15 ranks. Beneﬁt: Whenever you cast a spell with an area, you can attempt to shape the spell’s area so that one creature within the area is unaffected by the spell. To accomplish this, you must succeed on a Spellcraft check (DC 25 + spell level). Casting a spell affected by the Extraordinary Spell Aim feat requires a full-round action unless the spell’s normal casting time is longer, in which case the casting time is unchanged. FORCE OF PERSONALITY You have cultivated an unshakable belief in your self-worth. Your sense of self and purpose are so strong that they bolster your willpower.",
+        "name":  "Prerequisite",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Cha 13. Beneﬁt: You add your Charisma modiﬁer (instead of your Wisdom modiﬁer) to Will saves against mind-affect - ing spells and abilities. GOAD You are skilled at inducing opponents to attack you.",
+        "name":  "Prerequisite",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Cha 13, base attack bonus +1. Beneﬁt: As a move action, you can goad an opponent that threatens you, has line of sight to you, can hear you, and has an Intelligence of 3 or higher. (The goad is a mind-affecting ability.) When the goaded opponent starts its next turn, if it threatens you and has line of sight to you, it must make a Will saving throw (DC 10 + 1/2 your character level + your Cha modiﬁer). If the opponent fails its save, you are the only creature it can make melee attacks against during this turn. (If it kills you, knocks you unconscious, loses sight of you, or otherwise is unable to make melee attacks against you, it may make any remaining melee attacks against other foes, as normal.) A goaded creature can still cast spells, make ranged attacks, move, or perform other actions normally. The use of this feat restricts only melee attacks.",
+        "name":  "Prerequisites",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Perform (any) 9 ranks, bardic music. Beneﬁt: You can cast spells unobtrusively, mingling verbal and somatic components into your performances. To disguise a spell, make a Perform check as part of the action used to cast the spell. Onlookers must match or exceed your check result with a Spot check to detect that you’re casting a spell (your performance is obvious to everyone in the vicinity, but the fact that you are casting a spell isn’t). Unless the spell visibly emanates from you, or observers have some other means of determining its source, they don’t know where the effect came from.  A disguised spell can’t be identiﬁed with a Spellcraft check, even by someone who realizes you’re casting a spell. The act of casting still provokes attacks of oppor - tunity as normal. DIVE FOR COVER You can dive behind cover or drop to the ground quickly enough to avoid many area effects.",
+        "name":  "Prerequisite",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can gain this feat multiple times. Its effects stack. EXTRAORDINARY CONCENTRATION Your mind is so focused that you can cast spells even while concentrating on another spell.",
+        "name":  "Special",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration 15 ranks. Beneﬁt:  When concentrating to maintain a spell, you can make a Concentration check (DC 25 + spell level) to maintain concentration with just a move action. If you beat the DC by 10 or more, you can maintain concentra - tion on the spell as a swift action (see Swift Actions and Immediate Actions, page 137). Using this ability is a free action, but if you fail the Concentration check, you lose concentration on the maintained spell and its effect ends. This feat does not give you the ability to maintain concentration on more than one spell at a time.",
+        "name":  "Prerequisite",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentrating on a spell is a standard action. EXTRAORDINARY SPELL AIM You can shape a spell’s area to exclude one creature from its effects.",
+        "name":  "Normal",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spellcraft 15 ranks. Beneﬁt: Whenever you cast a spell with an area, you can attempt to shape the spell’s area so that one creature within the area is unaffected by the spell. To accomplish this, you must succeed on a Spellcraft check (DC 25 + spell level). Casting a spell affected by the Extraordinary Spell Aim feat requires a full-round action unless the spell’s normal casting time is longer, in which case the casting time is unchanged. FORCE OF PERSONALITY You have cultivated an unshakable belief in your self-worth. Your sense of self and purpose are so strong that they bolster your willpower.",
+        "name":  "Prerequisite",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Cha 13. Beneﬁt: You add your Charisma modiﬁer (instead of your Wisdom modiﬁer) to Will saves against mind-affect - ing spells and abilities. GOAD You are skilled at inducing opponents to attack you.",
+        "name":  "Prerequisite",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Cha 13, base attack bonus +1. Beneﬁt: As a move action, you can goad an opponent that threatens you, has line of sight to you, can hear you, and has an Intelligence of 3 or higher. (The goad is a mind-affecting ability.) When the goaded opponent starts its next turn, if it threatens you and has line of sight to you, it must make a Will saving throw (DC 10 + 1/2 your character level + your Cha modiﬁer). If the opponent fails its save, you are the only creature it can make melee attacks against during this turn. (If it kills you, knocks you unconscious, loses sight of you, or otherwise is unable to make melee attacks against you, it may make any remaining melee attacks against other foes, as normal.) A goaded creature can still cast spells, make ranged attacks, move, or perform other actions normally. The use of this feat restricts only melee attacks.",
+        "name":  "Prerequisites",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Plants are normally immune to all mind-affecting spells and abilities. HEAR THE UNSEEN Your sense of hearing is so acute that you can partially pinpoint an opponent’s location by sound, allowing you to strike even if the opponent is concealed or displaced.",
+        "name":  "Normal",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concen - tration 8 ranks. Beneﬁt: You can make a special Concentration check (DC 20 + spell level) when casting a spell. If the check suc - ceeds, you can cast the spell and move up to your speed as a single standard action. (You can’t use this ability to cast a spell that takes longer than 1 standard action to cast.) If the check fails, you lose the spell and fail to cast it, just as if you had failed a Concentration check to cast the spell defensively. You still provoke attacks of oppor - tunity for casting spells from any creatures who threaten you at any point of your movement. You can cast defensively while using this feat, but doing so increases the Concentration DC to 25 + spell level. NATURAL BOND Your bond with your animal companion is exceptionally strong.",
+        "name":  "Prerequisite",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Plants are normally immune to all mind-affecting spells and abilities. HEAR THE UNSEEN Your sense of hearing is so acute that you can partially pinpoint an opponent’s location by sound, allowing you to strike even if the opponent is concealed or displaced.",
+        "name":  "Normal",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concen - tration 8 ranks. Beneﬁt: You can make a special Concentration check (DC 20 + spell level) when casting a spell. If the check suc - ceeds, you can cast the spell and move up to your speed as a single standard action. (You can’t use this ability to cast a spell that takes longer than 1 standard action to cast.) If the check fails, you lose the spell and fail to cast it, just as if you had failed a Concentration check to cast the spell defensively. You still provoke attacks of oppor - tunity for casting spells from any creatures who threaten you at any point of your movement. You can cast defensively while using this feat, but doing so increases the Concentration DC to 25 + spell level. NATURAL BOND Your bond with your animal companion is exceptionally strong.",
+        "name":  "Prerequisite",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Using Spot or Listen in a reactive fashion is a free action, but actively trying to make a Spot check or Listen check requires a move action. RAZING STRIKE You have mastered the art of delivering precise strikes against nonliving creatures while channeling spell energy through your melee attacks.",
+        "name":  "Normal",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sneak attack, caster level 5th. Beneﬁt: To activate this feat, you must sacriﬁce one of your daily allotment of spells (minimum spell level 1st). Doing this is a swift action that doesn’t provoke attacks of opportunity. In exchange, you gain an insight bonus on your melee attack rolls and damage rolls for 1 round. The bonus on attack rolls equals the level of the spell sacriﬁced. The bonus on damage rolls is 1d6 points per level of the spell sacriﬁced, plus any extra damage based on your sneak attack ability. These bonuses apply against only one type of creature, depending on the type of spell sacriﬁced. If you sacriﬁce an arcane spell, they apply against constructs; if the sacriﬁced spell is divine, the bonuses apply against undead.",
+        "name":  "Prerequisite",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bardic music, Perform 9 ranks, ability to spontaneously cast 2nd-level arcane spells. Beneﬁt: You can expend daily uses of your bardic music to cast any arcane spell that you know and can cast spontaneously. You must still use an action to cast the spell (follow - ing the normal rules for casting time), but using the Lyric Spell feat counts as part of the spellcasting action. Casting a spell requires one use of your bardic music ability, plus one additional use per level of the spell. For example, casting a 3rd-level spell requires four daily uses of your bardic music ability.",
+        "name":  "Prerequisites",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Using Spot or Listen in a reactive fashion is a free action, but actively trying to make a Spot check or Listen check requires a move action. RAZING STRIKE You have mastered the art of delivering precise strikes against nonliving creatures while channeling spell energy through your melee attacks.",
+        "name":  "Normal",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sneak attack, caster level 5th. Beneﬁt: To activate this feat, you must sacriﬁce one of your daily allotment of spells (minimum spell level 1st). Doing this is a swift action that doesn’t provoke attacks of opportunity. In exchange, you gain an insight bonus on your melee attack rolls and damage rolls for 1 round. The bonus on attack rolls equals the level of the spell sacriﬁced. The bonus on damage rolls is 1d6 points per level of the spell sacriﬁced, plus any extra damage based on your sneak attack ability. These bonuses apply against only one type of creature, depending on the type of spell sacriﬁced. If you sacriﬁce an arcane spell, they apply against constructs; if the sacriﬁced spell is divine, the bonuses apply against undead.",
+        "name":  "Prerequisite",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bardic music, Perform 9 ranks, ability to spontaneously cast 2nd-level arcane spells. Beneﬁt: You can expend daily uses of your bardic music to cast any arcane spell that you know and can cast spontaneously. You must still use an action to cast the spell (follow - ing the normal rules for casting time), but using the Lyric Spell feat counts as part of the spellcasting action. Casting a spell requires one use of your bardic music ability, plus one additional use per level of the spell. For example, casting a 3rd-level spell requires four daily uses of your bardic music ability.",
+        "name":  "Prerequisites",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "When used by a bard to inspire courage, a ﬁddle increases the morale bonus on saves against charm and fear by 1. In the hands of a bard with 5 or more ranks in Perform (dance), the morale bonus instead increases by 2. A bard who uses a ﬁddle for bardic music can cast spells while performing, but only if those spells have no somatic, material, or focus components. Flute:  The ﬂute is the highest-pitched of all the wood - winds. This broad category includes instruments ranging from the primitive recorder-ﬂute—a simple, hollow tube that produces music when air is blown straight through it—to the traditional ﬂute, which is held at a right angle to the musician’s mouth. Flutes range in length from 8 inches to about 2 feet. The instrument has six holes (typically), plus a thumbhole that, when covered, lowers each of the other notes by an octave. Flutes have a reputation for producing gentle, idyllic music, but they can also create more martial effects or distorted wailing sounds. Abyssal ﬂutes always have an odd number of ﬁnger holes, and they conform to no scale or key used by humanoid bards. Particularly in the hands of demon pipers, they produce “music” that sounds to mortal ears like a disharmonious combination of sharps, ﬂats, and bizarre, minor-key effects.",
+        "name":  "Bardic Music",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "When used by a bard to inspire courage, a ﬁddle increases the morale bonus on saves against charm and fear by 1. In the hands of a bard with 5 or more ranks in Perform (dance), the morale bonus instead increases by 2. A bard who uses a ﬁddle for bardic music can cast spells while performing, but only if those spells have no somatic, material, or focus components. Flute:  The ﬂute is the highest-pitched of all the wood - winds. This broad category includes instruments ranging from the primitive recorder-ﬂute—a simple, hollow tube that produces music when air is blown straight through it—to the traditional ﬂute, which is held at a right angle to the musician’s mouth. Flutes range in length from 8 inches to about 2 feet. The instrument has six holes (typically), plus a thumbhole that, when covered, lowers each of the other notes by an octave. Flutes have a reputation for producing gentle, idyllic music, but they can also create more martial effects or distorted wailing sounds. Abyssal ﬂutes always have an odd number of ﬁnger holes, and they conform to no scale or key used by humanoid bards. Particularly in the hands of demon pipers, they produce “music” that sounds to mortal ears like a disharmonious combination of sharps, ﬂats, and bizarre, minor-key effects.",
+        "name":  "Bardic Music",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A bard playing a lute is treated as one level higher for the purpose of adjudicating the power of his bardic music effects. For example, a 3rd-level bard using a lute could fascinate  two creatures instead of one, a 6th-level bard using a lute to make a suggestion  would calculate the save DC as if he were 7th level, and a 7th-level bard using a lute to inspire courage would grant a +2 morale bonus on the appropriate rolls. A bard who uses a lute for bardic music can cast spells while performing, but only if those spells have no somatic, material, or focus components.",
+        "name":  "Bardic Music",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A bard playing a lyre can target one more creature than normal with her fascinate  ability and inspire heroics abilities. A bard who uses a lyre for bardic music can cast spells while performing, but only if those spells have no somatic, material, or focus components.",
+        "name":  "Bardic Music",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A bard playing a lute is treated as one level higher for the purpose of adjudicating the power of his bardic music effects. For example, a 3rd-level bard using a lute could fascinate  two creatures instead of one, a 6th-level bard using a lute to make a suggestion  would calculate the save DC as if he were 7th level, and a 7th-level bard using a lute to inspire courage would grant a +2 morale bonus on the appropriate rolls. A bard who uses a lute for bardic music can cast spells while performing, but only if those spells have no somatic, material, or focus components.",
+        "name":  "Bardic Music",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A bard playing a lyre can target one more creature than normal with her fascinate  ability and inspire heroics abilities. A bard who uses a lyre for bardic music can cast spells while performing, but only if those spells have no somatic, material, or focus components.",
+        "name":  "Bardic Music",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Much like a swift action, an immediate action consumes a very small amount of time but represents a larger expenditure of effort and energy than a free action. However, unlike a swift action, an immediate action can be performed at any time—even when it’s not your turn. Casting feather fall is an immedi - ate action (instead of a free action, as stated in the spell description in the Player ’s Handbook ), since the spell can be cast at any time. Using an immediate action on your turn is the same as using a swift action, and counts as your swift action for that turn. You cannot use another immediate action or a swift action until after your next turn if you have used an immediate action when it is not currently your turn (effectively, using an immediate action before your turn is equivalent to using your swift action for the coming turn). You also cannot use an immediate action if you are currently ﬂat-footed. NEW ASSASSIN SPELLS 1ST-LEVEL ASSASSIN SPELLS",
+        "name":  "Immediate Action",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Swift. Make Search check at +2 as free action. Sniper’s Shot: Swift. No range limit on next ranged sneak attack. 2ND-LEVEL ASSASSIN SPELLS",
+        "name":  "Instant Search",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Subject’s speech is 50% unintelligible; subject may miscast spells.",
+        "name":  "Distort Speech",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Gain +1 on attack rolls, skill checks, and ability checks, so long as you don’t speak or cast other spells.",
+        "name":  "Focusing Chant",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Subject has –4 penalty on Intel - ligence-based skill checks and Concentration checks, and must make Concentration check to cast spells.Invisibility, Swift: Swift. You are invisible for 1 round or until you attack.",
+        "name":  "Insidious Rhythm",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Allies gain additional +2 bonus on attack rolls and +1d6 additional damage against ﬂanked foes. 3RD-LEVEL BARD SPELLS",
+        "name":  "Tactical Precision",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You and one other creature can talk, no matter how far apart. 4TH-LEVEL BARD SPELLS",
+        "name":  "Speechlink",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Deal 1d4 damage/level in 30-ft. cone, plus targets panicked or shaken. 6TH-LEVEL BARD SPELLS",
+        "name":  "Wail of Doom",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Swift. You can sneak attack undead for 1 round. 2ND-LEVEL CLERIC SPELLS",
+        "name":  "Grave Strike",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "If you have 5 or more ranks in Heal, you can remove harmful conditions with conjuration (healing) spells.",
+        "name":  "Healing Lorecall",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Much like a swift action, an immediate action consumes a very small amount of time but represents a larger expenditure of effort and energy than a free action. However, unlike a swift action, an immediate action can be performed at any time—even when it’s not your turn. Casting feather fall is an immedi - ate action (instead of a free action, as stated in the spell description in the Player ’s Handbook ), since the spell can be cast at any time. Using an immediate action on your turn is the same as using a swift action, and counts as your swift action for that turn. You cannot use another immediate action or a swift action until after your next turn if you have used an immediate action when it is not currently your turn (effectively, using an immediate action before your turn is equivalent to using your swift action for the coming turn). You also cannot use an immediate action if you are currently ﬂat-footed. NEW ASSASSIN SPELLS 1ST-LEVEL ASSASSIN SPELLS",
+        "name":  "Immediate Action",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Swift. Make Search check at +2 as free action. Sniper’s Shot: Swift. No range limit on next ranged sneak attack. 2ND-LEVEL ASSASSIN SPELLS",
+        "name":  "Instant Search",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Subject’s speech is 50% unintelligible; subject may miscast spells.",
+        "name":  "Distort Speech",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Gain +1 on attack rolls, skill checks, and ability checks, so long as you don’t speak or cast other spells.",
+        "name":  "Focusing Chant",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Subject has –4 penalty on Intel - ligence-based skill checks and Concentration checks, and must make Concentration check to cast spells.Invisibility, Swift: Swift. You are invisible for 1 round or until you attack.",
+        "name":  "Insidious Rhythm",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Allies gain additional +2 bonus on attack rolls and +1d6 additional damage against ﬂanked foes. 3RD-LEVEL BARD SPELLS",
+        "name":  "Tactical Precision",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You and one other creature can talk, no matter how far apart. 4TH-LEVEL BARD SPELLS",
+        "name":  "Speechlink",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Deal 1d4 damage/level in 30-ft. cone, plus targets panicked or shaken. 6TH-LEVEL BARD SPELLS",
+        "name":  "Wail of Doom",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Swift. You can sneak attack undead for 1 round. 2ND-LEVEL CLERIC SPELLS",
+        "name":  "Grave Strike",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "If you have 5 or more ranks in Heal, you can remove harmful conditions with conjuration (healing) spells.",
+        "name":  "Healing Lorecall",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Swift. You can sneak attack plant creatures for 1 round. 2ND-LEVEL DRUID SPELLS",
+        "name":  "Vine Strike",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "If you have 5 or more ranks in Heal, you can remove harmful conditions with conjuration (healing) spells.",
+        "name":  "Healing Lorecall",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Deal 1d6 damage +1/level; you also deal sneak attack damage if you have any. 3RD-LEVEL DRUID SPELLS",
+        "name":  "Wracking Touch",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Swift. Gain ﬂ  y speed of 60 ft. for 1 round. 4TH-LEVEL DRUID SPELL",
+        "name":  "Fly, Swift",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Gain +20 competence bonus on Hide and Move Silently checks in one type of terrain.5TH-LEVEL DRUID SPELL",
+        "name":  "Forestfold",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Gain blur, freedom of movement, and water breathing while in water. NEW PALADIN SPELLS 1ST-LEVEL PALADIN SPELL",
+        "name":  "Cloak of the Sea",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Swift. You can sneak attack undead for 1 round. 2ND-LEVEL PALADIN SPELL",
+        "name":  "Grave Strike",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You gain insight bonus of 5 + caster level on one single skill check. NEW RANGER SPELLS 1ST-LEVEL RANGER SPELLS",
+        "name":  "Divine Insight",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "If you have 5 or more ranks in Heal, you can remove harmful conditions with conjuration (healing) spells.",
+        "name":  "Healing Lorecall",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Swift. You can sneak attack plant creatures for 1 round.2ND-LEVEL RANGER SPELLS",
+        "name":  "Vine Strike",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Affected animal gains additional tricks equal to 1/2 caster level for 1 hour/level. 3RD-LEVEL RANGER SPELLS",
+        "name":  "Train Animal",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You gain +20 competence bonus on Hide and Move Silently checks in one type of terrain. 4TH-LEVEL RANGER SPELLS",
+        "name":  "Forestfold",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Swift. Your speed increases by 30 ft. for 1 round. 2ND-LEVEL SORCERER/ WIZARD SPELLS",
+        "name":  "Trans Expeditious Retreat, Swift",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Swift. Your melee attacks strike as touch attacks for 1 round.Illus. by D. Kovacs140 CHAPTER 5 SPELLS 141CHAPTER 5 SPELLSNEW DRUID SPELLS 1ST-LEVEL DRUID SPELLS",
+        "name":  "Wraithstrike",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Swift. You can sneak attack plant creatures for 1 round. 2ND-LEVEL DRUID SPELLS",
+        "name":  "Vine Strike",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "If you have 5 or more ranks in Heal, you can remove harmful conditions with conjuration (healing) spells.",
+        "name":  "Healing Lorecall",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Deal 1d6 damage +1/level; you also deal sneak attack damage if you have any. 3RD-LEVEL DRUID SPELLS",
+        "name":  "Wracking Touch",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Swift. Gain ﬂ  y speed of 60 ft. for 1 round. 4TH-LEVEL DRUID SPELL",
+        "name":  "Fly, Swift",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Gain +20 competence bonus on Hide and Move Silently checks in one type of terrain.5TH-LEVEL DRUID SPELL",
+        "name":  "Forestfold",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Gain blur, freedom of movement, and water breathing while in water. NEW PALADIN SPELLS 1ST-LEVEL PALADIN SPELL",
+        "name":  "Cloak of the Sea",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Swift. You can sneak attack undead for 1 round. 2ND-LEVEL PALADIN SPELL",
+        "name":  "Grave Strike",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You gain insight bonus of 5 + caster level on one single skill check. NEW RANGER SPELLS 1ST-LEVEL RANGER SPELLS",
+        "name":  "Divine Insight",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "If you have 5 or more ranks in Heal, you can remove harmful conditions with conjuration (healing) spells.",
+        "name":  "Healing Lorecall",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Swift. You can sneak attack plant creatures for 1 round.2ND-LEVEL RANGER SPELLS",
+        "name":  "Vine Strike",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Affected animal gains additional tricks equal to 1/2 caster level for 1 hour/level. 3RD-LEVEL RANGER SPELLS",
+        "name":  "Train Animal",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You gain +20 competence bonus on Hide and Move Silently checks in one type of terrain. 4TH-LEVEL RANGER SPELLS",
+        "name":  "Forestfold",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Swift. Your speed increases by 30 ft. for 1 round. 2ND-LEVEL SORCERER/ WIZARD SPELLS",
+        "name":  "Trans Expeditious Retreat, Swift",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, MCasting Time: 1 swift actionRange: Personal Target: You Duration: 1 round/level (D) While this spell is in effect, you can move at your normal speed when using Balance, Climb, or Move Silently without taking any penalty on your check. This spell does not affect the penalty for using these skills while running or charging.",
+        "name":  "Components",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) This spell makes you and your com - panions extraordinarily ﬂeet of foot. Each creature within the spell’s area gains a 30-foot enhancement bonus to its land speed, up to a maximum of double the creature’s land speed. Affected creatures retain these effects for the duration of the spell, even if they leave the original area.",
+        "name":  "Spell Resistance",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A thin, three-inch-long wooden dowel.3RD-LEVEL SORCERER/ WIZARD SPELL",
+        "name":  "Arcane Material Component",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Swift. Quarterstaff gains improved grab and can constrict grappled foes. 5TH-LEVEL SORCERER/WIZARD SPELLS Trans Nightstalker’s TransformationM: Gain +4 Dex, +3 luck bonus to AC, +5 luck bonus on Ref saves, +3d6 sneak attack, and evasion.",
+        "name":  "Trans Entangling Staff",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Gain +4 on Hide, Move Silently, and Escape Artist checks, and concealment; you can move through obstacles if you have ranks in Escape Artist. 6TH-LEVEL SORCERER/ WIZARD SPELL",
+        "name":  "Illus  Shadow Form",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Gain blur, freedom of movement, and water breathing while in water. 7TH-LEVEL SORCERER/WIZARD SPELL",
+        "name":  "Trans Cloak of the Sea",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, MCasting Time: 1 swift actionRange: Personal Target: You Duration: 1 round/level (D) While this spell is in effect, you can move at your normal speed when using Balance, Climb, or Move Silently without taking any penalty on your check. This spell does not affect the penalty for using these skills while running or charging.",
+        "name":  "Components",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) This spell makes you and your com - panions extraordinarily ﬂeet of foot. Each creature within the spell’s area gains a 30-foot enhancement bonus to its land speed, up to a maximum of double the creature’s land speed. Affected creatures retain these effects for the duration of the spell, even if they leave the original area.",
+        "name":  "Spell Resistance",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A thin, three-inch-long wooden dowel.3RD-LEVEL SORCERER/ WIZARD SPELL",
+        "name":  "Arcane Material Component",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Swift. Quarterstaff gains improved grab and can constrict grappled foes. 5TH-LEVEL SORCERER/WIZARD SPELLS Trans Nightstalker’s TransformationM: Gain +4 Dex, +3 luck bonus to AC, +5 luck bonus on Ref saves, +3d6 sneak attack, and evasion.",
+        "name":  "Trans Entangling Staff",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Gain +4 on Hide, Move Silently, and Escape Artist checks, and concealment; you can move through obstacles if you have ranks in Escape Artist. 6TH-LEVEL SORCERER/ WIZARD SPELL",
+        "name":  "Illus  Shadow Form",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Gain blur, freedom of movement, and water breathing while in water. 7TH-LEVEL SORCERER/WIZARD SPELL",
+        "name":  "Trans Cloak of the Sea",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You see into the past. Arrow stormIllus. by S. EllisCHAPTER 5 SPELLS 144CHAPTER 5 SPELLS 145BLADE STORM Transmutation",
+        "name":  "Div HindsightM",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    }
+]

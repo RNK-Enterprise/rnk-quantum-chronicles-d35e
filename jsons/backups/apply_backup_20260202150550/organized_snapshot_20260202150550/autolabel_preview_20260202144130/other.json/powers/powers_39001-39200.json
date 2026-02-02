@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "other.json",
+        "description":  "+1",
+        "name":  "Initiative",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. (6 squares), fly 80 ft. (poor), swim 30 ft.",
+        "name":  "Speed",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +14 melee (2d6+5)",
+        "name":  "Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +14 melee (2d6+5) and 2 claws +12 melee (1d8+2) and tail slap +12 melee (1d8+7) Space/Reach: 10 ft./5 ft.",
+        "name":  "Full Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Drench, water mastery",
+        "name":  "Special Attacks",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +10, Ref +10, Will +8",
+        "name":  "Saves",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 21, Dex 12, Con 17, Int 8, Wis 14, Cha 11",
+        "name":  "Abilities",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Escape Artist +14, Hide +10*, Listen +17, Search +12, Sense Motive +15, Spot +19, Swim +5",
+        "name":  "Skills",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Alertness, Flyby Attack, Lightning Reflexes, Multiattack",
+        "name":  "Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperate aquatic",
+        "name":  "Environment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary, pair, or cete (3–6)",
+        "name":  "Organization",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "8",
+        "name":  "Challenge Rating",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard",
+        "name":  "Treasure",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually neutral",
+        "name":  "Alignment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "11–19 HD (Large); 20–29 HD (Huge); 30 HD (Gargantuan)",
+        "name":  "Advancement",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A water drake has a +8 racial bonus on any Swim check to perform some special action or avoid ahazard. It can always choose to take 10 on a Swimcheck, even if distracted or endangered. It can usethe run action while swimming, provided it swimsin a straight line. Water drakes have a +4 racialbonus on Spot checks. *They have a +4 racial bonuson Hide checks when submerged. FAERIE DRAGON",
+        "name":  "Skills",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "8d12+6 (58 hp)",
+        "name":  "Small DragonHit Dice",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+8",
+        "name":  "Initiative",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. (6 squares), fly 100 ft. (perfect), swim 30 ft.",
+        "name":  "Speed",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +13 melee (1d6+1)",
+        "name":  "Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +7, Ref +10, Will +9",
+        "name":  "Saves",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 13, Dex 18, Con 12, Int 15, Wis 17, Cha 16",
+        "name":  "Abilities",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bluff +14, Diplomacy +7, Disguise +3 (+5 acting), Hide +19, Intimidate +5, Knowledge (nature) +13, Listen+14, Move Silently +15, Sense Motive + 14, Sleight ofHand +17, Spot +14, Survival +3 (+5 in abovegroundnatural environments), Swim +1",
+        "name":  "Skills",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperate forests",
+        "name":  "Environment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary or pair",
+        "name":  "Organization",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "6",
+        "name":  "Challenge Rating",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard",
+        "name":  "Treasure",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always chaotic good",
+        "name":  "Alignment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "9 HD (Small); 10–13 HD (Medium); 14–19 HD (Large); 20–24 HD (Huge)",
+        "name":  "Advancement",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A faerie dragon has a +8 racial bonus on any Swim check to perform some special action or avoid ahazard. It can always choose to take 10 on a Swim check,even if distracted or endangered. It can use the run actionwhile swimming, provided it swims in a straight line. FANG DRAGON",
+        "name":  "Skills",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperate mountains",
+        "name":  "DragonEnvironment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Wyrmling, very young, young, juvenile, or young adult: solitary or clutch (2–5); adult, mature adult,old, very old, ancient, wyrm, or great wyrm: solitary, pair,or family (1–2 and 2–5 offspring)Challenge Rating: Wyrmling 2; very young 3; young 4; juvenile 6; young adult 8; adult 10; mature adult 12; old15; very old 17; ancient 18; wyrm 19; great wyrm 21",
+        "name":  "Organization",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Double standard",
+        "name":  "Treasure",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always chaotic neutral",
+        "name":  "Alignment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Wyrmling 4–5 HD; very young 7–8 HD; young 10–11 HD; juvenile 13–14 HD; young adult16–17 HD; adult 19–20 HD; mature adult 22–23 HD; old25–26 HD; very old 28–29 HD; ancient 31–32 HD; wyrm 34–35 HD; great wyrm 37+ HD",
+        "name":  "Advancement",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "6d12+12 (51 hp)",
+        "name":  "Hit Dice",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+2",
+        "name":  "Initiative",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "40 ft. (8 squares)",
+        "name":  "Speed",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +10 melee (2d6+5)",
+        "name":  "Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +10 melee (2d6+5) and 2 claws +5 melee (1d8+2); or spikes +7 ranged (1d8+5) Space/Reach: 10 ft./5 ft.",
+        "name":  "Full Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +7, Ref +7, Will +8",
+        "name":  "Saves",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 20, Dex 14, Con 15, Int 10, Wis 12, Cha 8",
+        "name":  "Abilities",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Climb +14, Intimidate +8, Listen +12, Search +9, Spot +12, Survival +10",
+        "name":  "Skills",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Alertness, Iron Will, Point Blank Shot",
+        "name":  "Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperate plains",
+        "name":  "Environment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary or clutch (2–4)",
+        "name":  "Organization",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4",
+        "name":  "Challenge Rating",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "Treasure",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral good",
+        "name":  "Alignment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "7–9 HD (Large); 10–18 HD (Huge)",
+        "name":  "Advancement",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20d12+40 (170 hp)",
+        "name":  "Hit Dice",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+4",
+        "name":  "Initiative",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fly 150 ft. (perfect)",
+        "name":  "Speed",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Incorporeal touch +20 melee (1d4 corruption plus 1d4 Str plus 1d4 Con plus energy drain); or bite +26 melee (2d8+8)",
+        "name":  "Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Incorporeal touch +20 melee (1d4 corruption plus 1d4 Str plus 1d4 Con plus energy drain); or bite +26 melee (2d8+8) and 2 claws +21 melee (2d6+4) and 2 wings +21 melee (1d8+4) and tail slap +21 melee (2d6+12) Space/Reach: 15 ft./10 ft.",
+        "name":  "Full Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +12, Ref +12, Will +15",
+        "name":  "Saves",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 27, Dex 10, Con —, Int 16, Wis 17, Cha 20",
+        "name":  "Abilities",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Clinging Breath, Flyby Attack, Hover, Improved Initiative, Power Attack, Snatch, Wingover",
+        "name":  "Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperate forests",
+        "name":  "Environment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary",
+        "name":  "Organization",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "14",
+        "name":  "Challenge Rating",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "Treasure",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Lawful evil",
+        "name":  "Alignment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "21–22 HD (Huge)",
+        "name":  "Advancement",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The base dragon’s Hit Dice remain the same, but it losesany Constitution bonus to its hitpoints (see Abilities, below). How-ever, a ghostly dragon gains bonushit points equal to twice its HD.",
+        "name":  "Hit Dice",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A ghostly dragon has a fly speed of 30 feet, unless the base dragonhas a higher fly speed. Regardless of its flyspeed, the ghostly dragon has perfect maneuverability .",
+        "name":  "Speed",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As undead, ghostly dragons are immune to any- thing that requires a Fortitude save unless it affects objects.Abilities: As the base dragon, except that the ghostly dragon has no Constitution score, and its Charisma scoreincreases by 4.",
+        "name":  "Saves",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ghostly dragons have a +8 racial bonus on Hide, Listen, Search, and Spot checks.",
+        "name":  "Skills",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary .",
+        "name":  "Organization",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Same as the base dragon +2.",
+        "name":  "Challenge Rating",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None.",
+        "name":  "Treasure",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually same as the base dragon.",
+        "name":  "Alignment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Up to +2 HD.",
+        "name":  "Advancement",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20d10 (110 hp)",
+        "name":  "Large ConstructHit Dice",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+0",
+        "name":  "Initiative",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "40 ft. (8 squares)",
+        "name":  "Speed",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +18 melee (1d10+4)",
+        "name":  "Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +18 melee (1d10+4) and 2 claws +13 melee (1d8+2) and 2 wings +13 melee (1d6+2) and tailslap +13 melee (1d8+6) Space/Reach: 10 ft./5 ft.",
+        "name":  "Full Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fear aura",
+        "name":  "Special Attacks",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +7, Ref +7, Will +7",
+        "name":  "Saves",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 19, Dex 10, Con —, Int —, Wis 11, Cha 10",
+        "name":  "Abilities",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any",
+        "name":  "Environment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary",
+        "name":  "Organization",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "12",
+        "name":  "Challenge Rating",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "Treasure",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral",
+        "name":  "Alignment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "21–30 HD (Large); 31–60 HD (Huge)",
+        "name":  "Advancement",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "35d10 (192 hp)",
+        "name":  "Large ConstructHit Dice",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "–1",
+        "name":  "Initiative",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. (6 squares)",
+        "name":  "Speed",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +36 melee (2d8+11)",
+        "name":  "Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +36 melee (2d8+11) and 2 claws +31 melee (2d6+5) and 2 wings +31 melee (1d10+5) and tailslap +31 melee (2d6+16) Space/Reach: 10 ft./5 ft.",
+        "name":  "Full Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Petrifying breath",
+        "name":  "Special Attacks",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +12, Ref +11, Will +13",
+        "name":  "Saves",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 33, Dex 8, Con —, Int —, Wis 13, Cha 15",
+        "name":  "Abilities",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any",
+        "name":  "Environment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary",
+        "name":  "Organization",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "15",
+        "name":  "Challenge Rating",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "Treasure",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral",
+        "name":  "Alignment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "36–50 HD (Large); 51–70 HD (Huge)",
+        "name":  "Advancement",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "40d10 (220 hp)",
+        "name":  "Large ConstructHit Dice",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "–1",
+        "name":  "Initiative",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. (6 squares)",
+        "name":  "Speed",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +44 melee (2d10+15)",
+        "name":  "Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +44 melee (2d10+15) and 2 claws +39 melee (2d8+7) and 2 wings +39 melee (2d6+7) and tailslap +39 melee (2d8+22) Space/Reach: 10 ft./5 ft.",
+        "name":  "Full Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +13, Ref +12, Will +14",
+        "name":  "Saves",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 41, Dex 8, Con —, Int —, Wis 13, Cha 19",
+        "name":  "Abilities",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "AnyOrganization: Solitary",
+        "name":  "Environment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "17",
+        "name":  "Challenge Rating",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "Treasure",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral",
+        "name":  "Alignment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "41–60 HD (Large); 61–80 HD (Huge)",
+        "name":  "Advancement",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A hoard scarab is immune to all mind- affecting effects (charms, compulsions, phantasms, pat-terns, and morale effects). It also has darkvision out to60 feet.",
+        "name":  "Vermin Traits",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1/8 d8+1 (2 hp) 6d8+6 (33 hp)",
+        "name":  "Hit Dice",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1 +1",
+        "name":  "Initiative",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 ft. (4 squares), climb 20 ft. 20 ft. (4 squares), climb 20 ft.",
+        "name":  "Speed",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +3 melee (1d2–5) Swarm (2d6)",
+        "name":  "Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +3 melee (1d2–5) Swarm (2d6) Space/Reach: 1 ft./0 ft. 10 ft./—",
+        "name":  "Full Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Burrowing Burrowing, distraction",
+        "name":  "Special Attacks",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Tremorsense 20 ft., vermin traits Tremorsense 20 ft., swarm traits, vermin traits",
+        "name":  "Special Qualities",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +3, Ref +1, Will +1 Fort +6, Ref +3, Will +3",
+        "name":  "Saves",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 1, Dex 13, Con 13, Int —, Wis 12, Cha 2 Str 11, Dex 13, Con 13, Int —, Wis 12, Cha 2",
+        "name":  "Abilities",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hide +13*, Listen +5 Hide +13*, Listen +5",
+        "name":  "Skills",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Warm deserts Warm deserts",
+        "name":  "Environment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary or cluster (2–5) Individual swarm or cluster of swarms (2–5)",
+        "name":  "Organization",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1/2 5",
+        "name":  "Challenge Rating",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None None",
+        "name":  "Treasure",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral Always neutral",
+        "name":  "Alignment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None None",
+        "name":  "Advancement",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "32d12+224 (432 hp)",
+        "name":  "Gargantuan DragonHit Dice",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+4",
+        "name":  "Initiative",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "40 ft. (8 squares), burrow 20 ft.",
+        "name":  "Speed",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +40 melee (4d6+12/19–20)",
+        "name":  "Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +40 melee (4d6+12/19–20) and 2 claws +38 melee (2d8+6) Space/Reach: 20 ft./15 ft.",
+        "name":  "Full Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Frightful presence, sandstorm",
+        "name":  "Special Attacks",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Desert adaptation",
+        "name":  "Special Qualities",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +25, Ref +18, Will +21",
+        "name":  "Saves",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 35, Dex 10, Con 24, Int 21, Wis 17, Cha 20",
+        "name":  "Abilities",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bluff +35, Concentration +37, Diplomacy +39, Escape Artist +30, Gather Information +7, Hide +20*,Intimidate +7, Knowledge (arcana) +35, Knowledge(local) +35, Knowledge (nature) +35, Listen +34, MoveSilently +31, Sense Motive +31, Spot +38*, Survival +32Feats: Alertness, Blind-Fight, Cleave, Great Cleave, Improved Critical (bite), Improved Initiative, ImprovedOverrun, Multiattack, Power Attack, Stealthy, Track",
+        "name":  "Skills",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Warm deserts",
+        "name":  "Environment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary, pair, or flight (3–6)",
+        "name":  "Organization",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "18",
+        "name":  "Challenge Rating",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard",
+        "name":  "Treasure",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually neutral evil",
+        "name":  "Alignment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "33–39 HD (Gargantuan); 40–48 HD (Colossal)",
+        "name":  "Advancement",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Desert landwyrms have a +4 racial bonus on Spot checks. *They have a +4 racial bonus on Hide checks when intemperate or warm desert environments. This bonus on Hidechecks increases to +8 when the landwyrm is immobile. FOREST LANDWYRM",
+        "name":  "Skills",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "16d12+48 (152 hp)",
+        "name":  "Large DragonHit Dice",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+5",
+        "name":  "Initiative",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "60 ft. (12 squares), burrow 10 ft.",
+        "name":  "Speed",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +21 melee (2d6+6/19–20)",
+        "name":  "Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +21 melee (2d6+6/19–20) and 2 claws +19 melee (1d8+3) Space/Reach: 10 ft./5 ft.",
+        "name":  "Full Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Frightful presence",
+        "name":  "Special Attacks",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Forest adaptation, commune with nature",
+        "name":  "Special Qualities",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +13, Ref +11, Will +15",
+        "name":  "Saves",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 23, Dex 12, Con 16, Int 13, Wis 21, Cha 16",
+        "name":  "Abilities",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Climb +22*, Concentration +11, Diplomacy +19, Gather Information +5, Hide +13*, Knowledge (local) +9,Knowledge (nature) +9, Listen +13, Move Silently +17,Sense Motive +11, Spot +13, Survival +9",
+        "name":  "Skills",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Improved Critical (bite), Improved Initiative, Multiattack, Power Attack, Stealthy, Track",
+        "name":  "Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperate forests",
+        "name":  "Environment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary, pair, or cluster (3–6)",
+        "name":  "Organization",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10",
+        "name":  "Challenge Rating",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard",
+        "name":  "Treasure",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually lawful neutralAdvancement: 17–19 HD (Large); 20–31 HD (Huge); 32–39 HD (Gargantuan); 40–48 HD (Colossal)",
+        "name":  "Alignment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+3 The noblest of the landwyrms, the forest landwyrm sees itself as a protector of its woodland territory . It takes only what itneeds to survive, and ruthlessly hunts down enemy predators. The hide of a forest landwyrm bears a mottled pattern of green and brown, although in autumn it takes on aspectsof yellow or even red to blend in. When threatened, aforest landwyrm expands a leafy frill of scales from its neck,making it appear even larger than it is. Forest landwyrms brook no competitors within their ter- ritory, chasing out animals, vermin, and even humanoidswho encroach therein. However, they are open to peacefuldiscussions with those who convince the landwyrm they donot pose a threat. In rare instances, a forest landwyrm maybefriend local gnomes, serving as the unofficial protector ofa nearby village. Forest landwyrms speak Draconic, Gnome, Sylvan, and Common. Combat Forest landwyrms prefer to strike from hiding, attackingunwary opponents with its claws and bite. Such attacksmay come from below (thanks to the landwyrm’s burrow-ing ability) or above (as they are quite capable of climbinglarge trees). Commune with Nature (Sp): Once per day a forest land- wyrm can use commune with nature . Caster level 16th. Forest Adaptation (Ex): Forest landwyrms can ignore any concealment provided by foliage. Frightful Presence (Ex): 80-ft. radius, HD 15 or fewer, Will DC 21 negates.",
+        "name":  "Level Adjustment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Forest landwyrms have a +4 racial bonus on Climb checks. *They have a +4 racial bonus on Hide checks when incold or temperate forest environments. This bonus on Hidechecks increases to +8 when the landwyrm is immobile. HILL LANDWYRM",
+        "name":  "Skills",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20d12+100 (230 hp)",
+        "name":  "Huge DragonHit Dice",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+4",
+        "name":  "Initiative",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "50 ft. (10 squares), burrow 10 ft.",
+        "name":  "Speed",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +27 melee (2d8+9/19–20); or claw +25 melee (2d6+4)",
+        "name":  "Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +27 melee (2d8+9/19–20) and 2 claws +25 melee (2d6+4) Space/Reach: 15 ft./10 ft.",
+        "name":  "Full Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Frightful presence, improved grab",
+        "name":  "Special Attacks",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "—",
+        "name":  "Special Qualities",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +17, Ref +10, Will +11",
+        "name":  "Saves",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 29, Dex 10, Con 20, Int 9, Wis 13, Cha 12",
+        "name":  "Abilities",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hide +12*, Intimidate +21, Knowledge (local) +9, Knowledge (nature) +9, Listen +19, Sense Motive +19,Spot +11, Survival +9CHAPTER 4: NEW",
+        "name":  "Skills",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperate hills",
+        "name":  "Environment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary, pair, or brood (3–6)",
+        "name":  "Organization",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "12",
+        "name":  "Challenge Rating",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard",
+        "name":  "Treasure",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually chaotic evil",
+        "name":  "Alignment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "21–31 HD (Huge); 32–39 HD (Gargantuan); 40–48 HD (Colossal)",
+        "name":  "Advancement",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "*Hill landwyrms have a +4 racial bonus on Hide checks when in hills terrain. This bonus on Hide checksincreases to +8 when the landwyrm is immobile. JUNGLE LANDWYRM",
+        "name":  "Skills",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "28d12+168 (350 hp)",
+        "name":  "Huge DragonHit Dice",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+4",
+        "name":  "Initiative",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "50 ft. (10 squares), burrow 10 ft.",
+        "name":  "Speed",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +36 melee (2d8+10/19–20)",
+        "name":  "Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +36 melee (2d8+10/19–20) and 2 claws +34 melee (2d6+5) Space/Reach: 15 ft./10 ft.",
+        "name":  "Full Attack",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Disease, frightful presence, rend, snatch",
+        "name":  "Special Attacks",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Jungle adaptation",
+        "name":  "Special Qualities",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +22, Ref +16, Will +21Abilities: Str 31, Dex 10, Con 22, Int 17, Wis 21, Cha 16",
+        "name":  "Saves",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bluff +31, Climb +38, Concentration +30, Diplomacy +5, Gather Information +5, Hide +22*,Intimidate +24, Knowledge (local) +24, Knowledge(nature) +24, Listen +26, Move Silently +30, SenseMotive +35, Spot +19, Survival +31",
+        "name":  "Skills",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Blind-Fight, Cleave, Combat Expertise, Improved Critical (bite), Improved Initiative, Multiattack, PowerAttack, Rend B, Snatch, Stealthy, Track",
+        "name":  "Feats",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Warm forests",
+        "name":  "Environment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary, pair, or cluster (3–6)",
+        "name":  "Organization",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "16",
+        "name":  "Challenge Rating",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard",
+        "name":  "Treasure",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually neutral evil",
+        "name":  "Alignment",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "29–31 HD (Huge); 32–39 HD (Gargantuan); 40–48 HD (Colossal)",
+        "name":  "Advancement",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "40d12+440 (700 hp)",
+        "name":  "Hit Dice",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+3",
+        "name":  "Initiative",
+        "source":  "draconomicon_the_book_of_dragons.txt",
+        "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46"
+    }
+]

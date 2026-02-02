@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "spells.json",
+        "description":  "The target must succeed on a Will save or be chambers stacked on top of each other. Beholders prefer inacces- affected as though by the spell. Beholders use this ray in the same sible locations that earthbound foes can reach only with difficulty. manner as the charm monster ray.",
+        "name":  "Charm Person",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The target must succeed on a Fortitude save or be BELKER affected as though by the spell. The beholder likes to use this ray on any foe it considers a real threat. Large Elemental (Air, Extraplanar)",
+        "name":  "Disintegrate",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This works like the spell, except that it targets one creature. Hit Dice: 7d8+7 (38 hp)",
+        "name":  "Fear",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The target must succeed on a Fortitude save or be flat-footed 17 slain as though by the spell. The target takes 3d6+13 points of dam- Base Attack/Grapple: +5/+11 age if its saving throw succeeds. Beholders use this ray to elimi- Attack: Wing +9 melee (1d6+2) nate dangerous foes quickly. Full Attack: 2 wings +9 melee (1d6+2) and bite +4 melee (1d4+1)",
+        "name":  "Finger of Death",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The target must succeed on a Fortitude save or be and 2 claws +4 melee (1d3+1) affected as though by the spell. Beholders like to aim this ray at Space/Reach: 10 ft./10 ft. enemy spellcasters. They also use it on any creature whose appear- Special Attacks: Smoke claws ance they find interesting. (After the fight, the beholder takes the Special Qualities: Darkvision 60 ft., elemental traits, smoke statue to its lair as a decoration.) form",
+        "name":  "Flesh to Stone",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This works like the spell, causing Saves: Fort +3, Ref +10, Will +2 2d8+10 points of damage (Will half ). Abilities: Str 14, Dex 21, Con 13, Int 6, Wis 11, Cha 11",
+        "name":  "Inflict Moderate Wounds",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This works like the spell, except that it affects one crea- Alignment: Usually neutral evil ture. The target can make a Will save to negate the effect. Behold- Advancement: 8–10 HD (Large); 11–21 HD (Huge) ers often use this ray against the same creature targeted by their Level Adjustment: — disintegrate, flesh to stone, or finger of death ray. If one of the former rays fails to eliminate the foe, this A mass of dark smoke moves against the breeze, shifting shape as ray might at least hamper it. it comes closer. Cloudlike, roiling, it suddenly explodes into a",
+        "name":  "Slow",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+2 (cohort) Bodaks are the undead remnants of A big canine with yellow-brown fur and large ears appears completely ordi- humanoids who have been destroyed nary. And then it disappears in the blink of an eye and instantly reappears by the touch of absolute evil. in a different location. A bodak retains fleeting memo- ries of its past life and can speak The blink dog is an intelligent canine that has a limited teleporta- Common (or some other human- tion ability. oid language). Blink dogs are social animals, often traveling in packs. They eat equal amounts of meat and plant matter. They avoid human COMBAT lands but drive off evil humanoids that enter their territory. Bodaks love to approach their Blink dogs have their own language, a mixture of barks, yaps, opponents at a leisurely pace, let- whines, and growls that can transmit complex information. ting their gaze do its work before When not hunting, they are playful with each other but very closing. protective of their pups, which outsiders sometimes steal to Death Gaze (Su): Death, range train as guard animals. Blink dogs and displacer beasts are natu- 30 feet, Fortitude DC 15 negates. ral enemies. Humanoids who die from this attack are transformed into bodaks 24 hours COMBAT later. The save DC is Charisma-based. Blink dogs hunt in packs, teleporting in a seemingly random fash- Vulnerability to Sunlight (Ex): ion until they surround their prey, allowing some of them to take Bodaks loathe sunlight, for its advantage of flanking. merest touch burns their Blink (Su): A blink dog can use blink as the spell (caster level impure flesh. Each round of 8th), and can evoke or end the effect as a free action. exposure to the direct rays of Dimension Door (Su): A blink dog can teleport, as dimension the sun deals 1 point of damage door (caster level 8th), once per round as a free action. The ability to the creature. affects only the blink dog, which never appears within a solid object and can act immediately after teleporting. GOD KNILB Blink dog 28 Bodak They are sometimes found commanding goblins and hobgoblins, BUGBEAR whom they bully mercilessly. Medium Humanoid (Goblinoid) Bugbears survive primarily by hunting, and they eat whatever",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Solitary, by a hold monster spell mob (3–6), or flock for 5 rounds. Even after a (7–12) successful save, the crea-",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Fort +4, Ref +7, Will +2 psionics, spells",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "None Spellcraft +15 (+17 scrolls), Spot +16, Survival +4 (+6 following",
+        "name":  "Treasure",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "6–8 HD (Small); 9–15 HD (Medium) Feats: Dodge, Empower Spell, Eschew MaterialsB, Hover,",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Solitary, objects and creatures within 90 feet. A pair, clutch (3–9), or silence spell negates this ability and effec- swarm (6–15) tively blinds the darkmantle.",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Damage reduction 10/cold iron or good, (2d6+8/19–20) and +1 flaming whip +30/+25 melee (1d4+4 plus darkvision 60 ft., immunity to electricity and poison, protec- 1d6 fire plus entangle); or 2 slams +31 melee (1d10+7) tive slime, resistance to acid 10, cold 10, and fire 10, spell Space/Reach: 10 ft./10 ft. (20 ft. with +1 flaming whip) resistance 14, telepathy 100 ft. Special Attacks: Death throes, entangle, spell-like abilities,",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Climb +15, Disable Device +12, Disguise +13, Escape darkvision 60 ft., flaming body, immunity to electricity, fire, Artist +11, Hide +19, Listen +19, Move Silently +19, Open and poison, resistance to acid 10 and cold 10, spell resistance Lock +11, Search +20, Sleight of Hand +11, Survival +1 (+3 28, telepathy 100 ft., true seeing following tracks), Use Rope +1 (+3 with bindings) Saves: Fort +22, Ref +19, Will +19",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Standard +30, Spellcraft +30 (+32 scrolls), Spot +38, Survival +7 (+9",
+        "name":  "Treasure",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Climb +24, Diplomacy +3, Hide +16, Jump +28, Listen +16, Plane Shift (Su): This ability affects only the bebilith. It is Move Silently +16, Search +15, Sense Motive +16, Spot +16, otherwise similar to the spell (caster level 12th). Survival +1 (+3 following tracks) Skills: A bebilith has mottled coloration that gives it a +8 racial",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell-like abilities, summon tanar’ri",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Improved grab, spell-like abilities, summon tanar’ri",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Damage reduction 10/good, darkvision 60 ft., immunity to electricity and poison, resistance to acid 10, cold 10, and fire 10, spell resistance 21, telepathy 100 ft., true seeing",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +22, Concentration +25, Diplomacy +9, Disguise +5 (+7 acting), Intimidate +24, Knowledge (any two) +18, Listen +26, Move Silently +18, Search +18, Sense Motive +18, Spellcraft +18, Spot +26, Survival +3 (+5 following tracks)",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Glabrezu have a +8 racial bonus on Listen and Spot checks. delay poison or neutralize poison spell removes either condition from one creature. Creatures that have immunity to poison are unaffected, HEZROU and creatures resistant to poison receive their normal bonus on their Large Outsider (Chaotic, Extraplanar, Evil, Tanar’ri) saving throws.. The save DC is Constitution-based.",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "30 ft. (6 squares) success. This ability is the equivalent of a 4th-level spell.",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell-like abilities, stench, improved grab, Initiative: +4 summon tanar’ri Speed: 40 ft. (8 squares)",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Infinite Layers of the Abyss Special Attacks: Constrict 4d6+13, improved grab, spell-like",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Always chaotic evil ance to acid 10, cold 10, and fire 10, spell resistance 25, telepa-",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Smite, spell-like abilities, summon tanar’ri",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Damage reduction 10/good, darkvision 60 ft., immunity to electricity and poison, resistance to acid 10, cold 10, and fire 10, spell resistance 22, telepathy 100 ft., true seeing",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Poison, spell-like abilities Special Qualities: Construct traits, darkvision 60 ft., fast healing",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +6, Diplomacy +2, Disguise +0 (+2 acting), Hide +17, Environment: Infinite Layers of the Abyss Intimidate +2, Knowledge (any one) +6, Listen +7, Move Organization: Solitary Silently +9, Search +6, Spellcraft +6, Spot +6 Challenge Rating: 11",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Energy drain, spell-like abilities, summon tanar’ri",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Damage reduction 10/cold iron or good, darkvision 60 ft., immunity to electricity and poison, resistance to acid 10, cold 10, and fire 10, spell resistance 18, telepathy 100 ft., tongues",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "2 claws +15 Spell-Like Abilities: melee (2d6+6) and bite +13 At will—mirror image, melee (1d8+3) and 2 talons +13 telekinesis (DC 18), great- melee (1d6+3) er teleport (self plus 50 Space/Reach: 10 ft./10 ft. pounds of objects only);",
+        "name":  "Full Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Dance of ruin, 1/day—heroism. Caster level spell-like abilities, spores, stun- 12th. The save DCs are Charisma-based. ning screech, summon tanar’ri Spores (Ex): A vrock can release",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Damage reduc- masses of spores from its body once tion 10/good, darkvision 60 ft., every 3 rounds as a free action. The immunity to electricity and poison, spores automatically deal 1d8 points resistance to acid 10, cold 10, and of damage to all creatures adjacent fire 10, spell resistance 17, to the vrock. They then penetrate telepathy 100 ft. the skin and grow, dealing an addi-",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration +20, Diplomacy +5, Hide +11, Intimidate tangle of viny growths. (The vines are harmless +16, Knowledge (any one) +15, Listen +24, Move Silently +15, and wither away in 1d4 days.) A delay poison spell stops the Search +15, Sense Motive +16, Spellcraft +15, Spot +24, spores’ growth for its duration. Bless, neutralize poison, or remove Survival +3 (+5 following tracks) disease kills the spores, as does sprinkling the victim with a vial",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+8 success. This ability is the equivalent of a 3rd-level spell.",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "20 ft. (4 squares) Spell-Like Abilities: At will—darkness, ghost sound; 1/day—",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Poison use, spell-like abilities, sneak attack checks. +1d6",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Blind-Fight, Improved Initiative The leaders of the derro are spellcasters called savants, whom",
+        "name":  "Feats",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Team (2–4), squad (5–8 plus 1 3rd-level sorcerer), level sorcerers; they have one to three Knowledge skills (usu- or band (11–20 plus 30% noncombatants plus 3 3rd-level ally arcana and other esoteric fields). A savant is accompanied sorcerers and 1 sorcerer of 5th–8th level) by two lower-level students. Savants use their spells to confuse",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Disrupting tissue misery upon mortals. and rending bone, this Many devils are surrounded by a fear aura, which they use to attack deals 4d6 break up powerful groups and defeat opponents piecemeal. Devils with spell-like abilities use their illusion abilities to delude and confuse foes as much as possible. A favorite trick is to create illusory reinforcements; enemies can never be entirely sure if a threat is only a fig- ment or real summoned devils joining the fray. The most numerous devils are the baatezu, infamous for their strength, evil temperament, and ruthlessly efficient organization. Baatezu have a rigid caste system, in which authority derives not only from power but also from station. They occupy themselves mainly with extending their influence throughout the planes by cor- rupting mortals. Baatezu who further this goal are usually rewarded with improved stations.",
+        "name":  "Flesh",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Fear, improved grab, impale 3d8+9, summon to summon 1d6 bearded devils or another barbed devil with a 35% baatezu chance of success. This ability is the equivalent of a 4th-level spell.",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Str 23, Dex 23, Con 23, Int 12, Wis 14, Cha 18 Spell-Like Abilities: At will—greater teleport (self plus 50",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "40 ft. (8 squares) and resists healing spells. The continuing hit point loss can be",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Glaive +9 melee (1d10+3 plus infernal wound) or claw +8 creature damaged by a bearded devil’s glaive must succeed on a DC melee (1d6+2) 16 caster level check, or the spell has no effect on the injured char-",
+        "name":  "Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Damage reduction 5/silver or good, dark- claw attacks, it automatically hits with its beard. The affected crea- vision 60 ft., immunity to fire and poison, resistance to acid ture takes 1d8+2 points of damage and must succeed on a DC 16 10 and cold 10, see in darkness, spell resistance 17, telepathy Fortitude save or be infected with a vile disease known as devil 100 ft. chills (incubation period 1d4 days, damage 1d4 Str). Damage is",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+6 equivalent of a 3rd-level spell. BONE DEVIL (OSYLUTH) The first thing that stands out about this creature is the massive saw- toothed glaive it carries. The creature’s pointed ears and moist, scaly skin Large Outsider (Baatezu, Evil, Extraplanar, Lawful) mark it as an outsider. It has a long tail, clawed hands and feet, and a Hit Dice: 10d8+50 (95 hp) snaky, disgusting beard. Initiative: +9",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Damage reduction 10/good, darkvision 60 ft., Base Attack/Grapple: +8/+10 immunity to fire and poison, resistance to acid 10 and cold 10, Attack: Chain +10 melee (2d4+2/19–20) see in darkness, spell resistance 21, telepathy 100 ft. Full Attack: 2 chains +10 melee (2d4+2/19–20)",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +15, Concentration +18, Diplomacy +6, Disguise +2 Special Qualities: Damage reduction 5/silver or good, dark- (+4 acting), Hide +14, Intimidate +17, Knowledge (any one) vision 60 ft., immunity to cold, regeneration 2, spell resist- +15, Listen +17, Move Silently +18, Search +15, Sense Motive ance 18 +15, Spot +17, Survival +2 (+4 following tracks) Saves: Fort +8, Ref +8, Will +6",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "9d8+45 (85 hp) success. This ability is the equivalent of a 3rd-level spell.",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "30 ft. (6 squares), fly 50 ft. (good) spell (caster level 14th).",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Entangle, spell-like abilities, summon baatezu Attack: Claw +13 melee (1d8+6)",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Damage reduction 5/good, darkvision 60 Full Attack: 2 claws +13 melee (1d8+6) and bite +8 melee ft., immunity to fire and poison, resistance to acid 10 and (2d8+3) cold 10, see in darkness, spell resistance 20, telepathy 100 ft., Space/Reach: 10 ft./5 ft. true seeing Special Attacks: Improved grab, pounce, rake 1d8+3",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Str 21, Dex 21, Con 21, Int 14, Wis 18, Cha 20 invisible in light, resistance to fire 10, scent, spell resistance",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "20 ft. (4 squares), fly 50 ft. (average) 23 Will save or be affected as though by a fear spell (caster level",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spiked chain +25/+20/+15 melee (2d6+15 plus ity is a function of the horned devil, not of the spiked chain. stun) and bite +22 melee (2d8+5) and tail +22 melee (2d6+5 Infernal Wound (Su): The damage a horned devil deals with plus infernal wound); or 2 claws +24 melee (2d6+10) and its tail attack causes a persistent wound. An injured creature loses bite + 22 melee (2d8+5) and tail +22 melee (2d6+5 plus infer- 2 additional hit points each round. The wound does not heal natu- nal wound) rally and resists healing spells. The continuing hit point loss can Space/Reach: 10 ft./10 ft. (20 ft. with spiked chain) be stopped by a DC 24 Heal check, a cure spell, or a heal spell. How-",
+        "name":  "Full Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Fear aura, infernal wound, spell-like abilities, ever, a character attempting to cast a cure spell or a heal spell on a stun, summon baatezu creature damaged by a horned devil’s tail must succeed on a DC 24",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Damage reduction 10/good and silver, dark- caster level check, or the spell has no effect on the injured charac- vision 60 ft., immunity to fire and poison, resistance to acid 10 ter. A successful Heal check automatically stops the continuing and cold 10, regeneration 5, see in darkness, spell resistance hit point loss as well as restoring hit points. The check DC is Con- 28, telepathy 100 ft. stitution-based.",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +24, Climb +28, Concentration +24, Diplomacy +10, of success, 1d6 barbed devils with a 35% chance of success, or Disguise +6 (+8 acting), Hide +21, Intimidate +26, Listen +22, another horned devil with a 20% chance of success. This ability is Move Silently +23, Search +20, Sense Motive +22, Spot +22, the equivalent of a 6th-level spell. Survival +4 (+6 following tracks) Regeneration (Ex): A horned devil takes normal damage",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+5 chance of success. This ability is the equivalent of a 4th-level spell.",
+        "name":  "Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Fear aura, slow, spell-like abilities, summon baatezu Base Attack/Grapple: +3/–5",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Damage reduction 10/good, darkvision 60 ft., Attack: Sting +8 melee (1d4 plus poison) immunity to fire and poison, resistance to acid 10 and cold 10, Full Attack: Sting +8 melee (1d4 plus poison) regeneration 5, see in darkness, spell resistance 25, telepathy Space/Reach: 2-1/2 ft./0 ft. 100 ft. Special Attacks: Poison, spell-like abilities",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +22, Climb +23, Concentration +23, Diplomacy +9, resistance to fire 5 Disguise +5 (+7 acting), Intimidate +24, Jump +27, Knowledge Saves: Fort +3, Ref +6, Will +4 (any three) +23, Listen +25, Move Silently +22, Search +23, Abilities: Str 10, Dex 17, Con 10, Int 10, Wis 12, Cha 14 Sense Motive +23, Spellcraft +23, Spot +25, Survival +6 Skills: Diplomacy +8, Hide +17, Knowledge (any one) +6, (+8 following tracks) Listen +7, Move Silently +9, Search +6, Spellcraft +6, Spot +7,",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Damage reduction 5/good or silver, dark- Space/Reach: 10 ft./10 ft. vision 60 ft., immunity to fire and poison, mindless, resistance Special Attacks: Constrict 2d8+26, fear aura, improved grab, to acid 10 and cold 10, mindless, see spell-like abilities, summon baatezu in darkness Special Qualities: Damage reduction 15/good and",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Str 10, Dex 10, resistance to acid 10 and cold 10, regeneration 5, see in Con 10, Int —, Wis 11, darkness, spell resistance 32, telepathy 100 ft. Cha 5 Saves: Fort +19, Ref +19, Will +21",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— Silently +29, Search +29, Spellcraft +31, Spot +29, The creature surges forward, Survival +8 (+10 on other not unlike a molten mass of planes, +10 when tracking), flesh oozing across the ground. It Tumble +31 has a human-shaped head and Feats: Cleave, Great Cleave, torso, but its body is a shape- Improved Initiative, Iron Will, less mass below the Multiattack, Power Attack, waist. A permanent ex- Quicken Spell-Like Ability (fire- pression of anguish twists ball) across its face. Environment: Nine Hells of Baator",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "3 use detect thoughts as the spell (caster level 18th; Will DC 13",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+4 of any Small or Medium humanoid. In humanoid form, the doppelganger loses its natural attacks. A doppelganger can This gaunt, gray-skinned humanoid has long, remain in its humanoid form until it chooses to assume a new gangly limbs and a bulbous head with large, one. A change in form cannot be dispelled, but a doppelganger octopoid eyes. Its face is otherwise blank reverts to its natural form when killed. A true seeing spell or and featureless. ability reveals its natural form. I l l u s . b y S . Wo o d G A N G E R D O P P E L - Displacer beast 67 Doppelganger",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff, Hide, and Spellcraft are considered class skills for flex DC 27 half. blue dragons. Create/Destroy Water(Sp): 3/day—as createwater, but can also be used to destroy water. Caster level 7th; Will DC 25 negates.",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell-like abilities charm person (DC 13), deep slumber (DC 15),",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Dwarf traits Duergar traits, spell-like abilities",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "An eladrin possesses the following traits (unless otherwise noted in a creature’s entry). —Darkvision out to 60 feet and low-light vision. —Immunity to electricity and petrification. —Resistance to cold 10 and fire 10. —Tongues (Su): All eladrins can speak with any creature that has a language, as though using a tongues spell (caster level 14th). This ability is always active. BRALANI Medium Outsider (Chaotic, Eladrin, Extraplanar, Good)",
+        "name":  "Eladrin Traits",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Alternate form, damage reduction 10/cold attacks and whirlwind blast attacks, and use spell-like abilities. iron or evil, darkvision 60 ft., immunity to electricity and A bralani remains in one form until it chooses to assume a new petrification, low-light vision, resistance to cold 10 and fire 10, one. A change in form cannot be dispelled, nor does the bralani spell resistance 17, tongues revert to any particular form when killed. A true seeing spell, how-",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration +15, Diplomacy +5, Escape Artist +14, of any type. Handle Animal +16, Hide +14, Knowledge (any two) +16, Alternate Form (Su): A ghaele can shift between its humanoid Listen +16, Move Silently +14, Ride +16, Sense Motive +16, and globe forms as a standard action. In humanoid form, it cannot Spot +16, Use Rope +1 (+3 with bindings) fly or use its light rays, but it can use its gaze attack and spell-like",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Combat Expertise, Improved Disarm, Improved Initiative, abilities, make physical attacks, and cast spells. In globe form, it Improved Trip can fly, use its light rays, and use spell-like abilities, but it cannot",
+        "name":  "Feats",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Olympian Glades of Arborea cast spells or use its gaze attack. The globe form is incorporeal, and",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Always chaotic good revert to any particular form when killed. A true seeing spell or abil-",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— — — only as many creatures trapped inside the whirlwind at one time diameter equal to half the whirlwind’s height. The cloud obscures as will fit inside the whirlwind’s volume. all vision, including darkvision, beyond 5 feet. Creatures 5 feet The elemental can eject any carried creatures whenever it away have concealment, while those farther away have total con- wishes, depositing them wherever the whirlwindhappens to be. A cealment. Those caught in the cloud must succeed on a Concen- summoned elemental always ejects trapped creatures before tration check (DC 15 + spell level) to cast a spell. returning to its home plane. An elemental in whirlwind form cannot make slam attacks and If the whirlwind’s base touches the ground, it creates a swirling does not threaten the area around it. cloud of debris. This cloud is centered on the elemental and has a ELEMENTAL Earth Elemental, Small Earth Elemental, Medium Earth Elemental, Large Small Elemental Medium Elemental Large Elemental (Earth, Extraplanar) (Earth, Extraplanar) (Earth, Extraplanar)",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "None Poison, spell-like abilities",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Elven traits Drow traits, spell resistance 12",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ethereal filchers have a +8 racial bonus on Sleight of quickly from the Ethereal Plane to attack opponents on the Mate- Hand checks, and a +4 racial bonus on rial Plane. Listen and Spot checks. Ethereal marauders live and hunt on the Ethereal Plane. Their ecology and habits are obscure at best—few have observed them in their natural habitat for any length of time, and their appear- ances on the Material Plane are limited to those occasions when they are attacking prey. They are assumed to have no society or cul- ture in the traditional sense, being motivated solely by the need for sustenance and survival. Ethereal marauders’ coloration ranges from bright blue to deep violet. An ethereal marauder stands about 4 feet tall, but its overall length is about 7 feet. It weighs about 200 pounds. Ethereal marauders speak no known languages. Survivors of their attacks on the Material Plane claim that they emit an eerie, high whine that varies in pitch depending on the creature’s speed and health. COMBAT Once a marauder locates prey, it shifts to the Material Plane to attack, attempting to catch its victim flat-footed. The creature bites its victim, then retreats quickly back to the Ethereal Plane. When badly hurt or wounded, a marauder escapes to its home plane rather than continuing the fight. Ethereal Jaunt (Su): An ethereal marauder can shift from the Ethereal Plane to the Material Plane as a free action, and shift back again as a move action. The ability is otherwise identical with the ethereal jaunt spell (caster level 15th).",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Cure serious wounds, hive mind, Hive mind, immunity to poison, Hive mind, immunity to poison, immunity to poison, petrification, petrification, and cold, resistance to petrification, and cold, resistance and cold, make whole, resistance to electricity 10, fire 10, and sonic 10, to electricity 10, fire 10, and electricity 10, fire 10, and sonic 10 spell resistance 18 sonic 10, spell resistance 21, telepathy 100 ft.",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Poison,spell-likeabilities Spell-likeabilities,spells",
+        "name":  "SpecialAttacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Fasthealing2,hivemind,immunitytopoison, Fasthealing2,hivemind,immunitytopoison, petrification,andcold,resistancetoelectricity10, petrification,andcold,resistancetoelectricity10, fire10,andsonic10,spellresistance25 fire10,andsonic10,spellresistance30,telepathy",
+        "name":  "SpecialQualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "12 The queen does not fight. She Treasure: None has no ability to move. If nec- Alignment: Usually neutral essary, a team of workers Advancement: 15–21 HD (Huge); 22–42 HD and myrmarchs (or dom- (Gargantuan) inated slaves) haul her Level Adjustment: — enormous bulk to where she needs to go. This sort This long, blue-white creature has of occurrence is very rare, huge mandibles and a strange however, and most of the nodule atop its head from which it time the queen remains generates a trilling sound. within her well-defended chambers. Terror of the frozen Despite her utter lack lands, the frost worm of physical activity, the spends most of its life queen can cast spells and burrowing through use spell-like abilities to the ice, snow, and even great effect in her own de- the frozen earth. It sur- fense as well as the defense of faces only to attack its the hive-city. prey. Frost worms eat yaks,",
+        "name":  "Combat Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Air mastery, spell-like abilities, whirlwind points of damage. It must also succeed on a second DC 20 Reflex",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Appraise +12, Concentration +12, Craft (any one) +12, can leave if the save is successful. The save DC is Strength-based Diplomacy +4, Escape Artist +14, Knowledge (any one) +12, and includes a +3 racial adjustment. Listen +12, Move Silently +14, Sense Motive +12, Spellcraft Creatures trapped in the whirlwind cannot move except to go +12, Spot +12, Use Rope +4 (+6 with bindings) where the djinni carries them or to escape the whirlwind. Crea-",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Combat Casting, Combat Reflexes, Dodge, Improved tures caught in the whirlwind can otherwise act normally, but InitiativeB must make a Concentration check (DC 15 + spell level) to cast a",
+        "name":  "Feats",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Elemental Plane of Air spell. Creatures caught in the whirlwind take a –4 penalty to Dex-",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+6 If the whirlwind’s base touches the ground, it creates a swirling 114 cloud of debris. This cloud is centered on the djinni and has a The being looks like a well-formed human with a dark complexion, but diameter equal to half the whirlwind’s height. The cloud obscures nearly twice as tall. all vision, including darkvision, beyond 5 feet. Creatures 5 feet EINEG GENIE away have concealment, while those farther away have total con- This being looks like a mighty giant with brick-red skin, fiery eyes, small cealment. Those caught in the cloud must succeed on a Concen- horns, and jutting tusks. tration check (DC 15 + spell level) to cast a spell. A djinni in whirlwind form cannot make melee attacks and The efreet (singular efreeti) are genies from the Elemental Plane of does not threaten the area around it. Fire. They are said to be made of basalt, bronze, and congealed flames. Noble Djinn Efreet are infamous for their hatred of servitude, desire for re- Some djinn (1% of the total population) are noble. A noble djinni venge, cruel nature, and ability to beguile and mislead. Their pri- can grant three wishes to any being (nongenies only) who captures mary home is the fabled City of Brass, but there are many efreet it. Noble djinn perform no other services and, upon granting the outposts throughout the Elemental Plane of Fire, military sta- third wish, are free of their servitude. Noble djinn tions for watching or harassing others on the are as strong as efreet (see below), with plane. Efreet are enemies of the 10 Hit Dice. djinn and attack them whenever they meet. EFREETI The efreet are ruled by a grand Large Outsider (Extra- sultan who makes his home in planar, Fire) the City of Brass. He is advised by",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Change Efreeti hot regions of the plane size, heat, spell-like abili- and is bordered by seas ties and lakes of glowing",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +15, Craft The city’s (any one) +14, Concentration popula- +15, Diplomacy +6, Disguise tion far +2 (+4 acting), Intimidate +17, outnumbers Listen +15, Move Silently +16, that of any of Sense Motive +15, Spellcraft +14, the great cities of the Spot +15 Material Plane.",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Combat Casting, Combat Reflexes, An efreeti stands about 12 feet Dodge, Improved InitiativeB, Quicken Spell- tall and weighs about 2,000 pounds. Like Ability (scorching ray) Efreet speak Auran, Common, Ignan, and Infernal.",
+        "name":  "Feats",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Change size, spell-like abilities —Darkvision out to 60 feet.",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Solitary, company (2–4), or band (6–15) —Special Attacks (see above): Change size, spell-like abilities.",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Greatclub +17 melee (2d8+12) or slam +17 melee (1d4+8) ronment. These giant elders have Charisma scores of at least 15 or rock +11 ranged (2d8+12) and spell-like abilities, which they use as 10th-level sorcerers.",
+        "name":  "Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "35 ft. (7 squares), swim 30 ft. (6 squares) in breastplate; indefinitely and can freely use their spell-like abilities while base speed 50 ft., swim 40 ft. submerged.",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell-like abilities lairs. If the natural harvest is not enough to sustain them, they",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Standard level spell.",
+        "name":  "Treasure",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Any neutral Spell Resistance (Ex): A githzerai has spell resistance equal to",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— Spell-likeabilities",
+        "name":  "SpecialAttacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Gnometraits Gnometraits,svirfneblintraits,spellresistance12",
+        "name":  "SpecialQualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+0 +3 132 —Pass without Trace (Su): A forest gnome has the innate ability Goblins are small humanoids that many consider little more than to use pass without trace (self only, as a free action) as the spell cast a nuisance. However, if they are unchecked, their great numbers, by a druid of the forest gnome’s class levels. rapid reproduction, and evil disposition enable them to overrun — +1 racial bonus on attack rolls against kobolds, goblinoids, and despoil civilized areas. orcs, and reptilian humanoids. A goblin stands 3 to 3-1/2 feet tall and weigh 40 to 45 pounds. —Automatic Languages: Gnome, Elven, Sylvan, and a simple Its eyes are usually dull and glazed, varying in color from red to language that enables them to communicate on a very basic level yellow. A goblin’s skin color ranges from yellow through any with forest animals (this replaces the rock gnome’s speak with ani- shade of orange to a deep red; usually all members of a single tribe mals ability). Bonus Languages: Common, Draconic, Dwarven, are about the same color. Goblins wear clothing of dark leather, Giant, Goblin, Orc. This trait replaces the rock gnome’s automatic tending toward drab, soiled-looking colors. and bonus languages. Goblins speak Goblin; those with Intelligence scores of 12 or — +4 racial bonus on Hide checks, which improves to +8 in a higher also speak Common. wooded area. Most goblins encountered outside their homes are warriors; the information in the statistics block is for one of 1st level. GOBLIN COMBAT Goblin, 1st-Level Warrior Being bullied by bigger, stronger creatures has taught goblins to Small Humanoid (Goblinoid) exploit what few advantages they have: sheer numbers and mali-",
+        "name":  "LevelAdjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— the golem (as the slow Environment: Any spell) for 1d6 rounds Organization:Solitary or gang (2–4) and deals 1d12 points Challenge Rating: 7 of damage. Treasure: None",
+        "name":  "Adisintegrate spell slows Feats",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "An avoral’s sharp eyes give it a +8 racial bonus on Spot treated as good-aligned for the purpose of overcoming damage checks. reduction. Roar (Su): A leonal can roar up to three times per day. Each roar LEONAL releases a blast in a 60-foot cone that duplicates the effects of a holy Medium Outsider (Extraplanar, Good, Guardinal) word spell and deals an extra 2d6 points of sonic damage (Fortitude",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Roar, pounce, improved grab, rake 1d6+8, spell-like abilities",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Damage reduction 10/evil and silver, darkvision 60 ft., immunity to electricity and petrification, lay on hands, low- light vision, protective aura, resistance to cold 10 and sonic 10, speak with animals, spell resistance 28",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell-like abilities,",
+        "name":  "Large Monstrous Humanoid Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "40 ft. (8 squares) spell resistance 18",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Improved grab, rake Casting, Great Fortitude 1d6+7, rend 2d6+10, spell-like abilities Environment: Temperate marshes",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Damage reduction Organization:Solitary or covey (3 hags of any 2/bludgeoning, darkvision 60 ft., spell kind plus 1–8 ogres and 1–4 evil giants) resistance 19 Challenge Rating: 5",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— Combat Green hags prefer to attack from hiding, usually after distracting This creature looks like an ancient female human, but impossibly tall. It foes. They often use darkvision to their advantage by attacking has deep blue skin and filthy black hair. during moonless nights. Spell-Like Abilities: At will—dancing lights, disguise self, ghost The dreaded annis may be the most horrible of hags. An annis sound(DC 12), invisibility, pass without trace, tongues, water breathing. commonly uses its disguise self ability to take the form of an excep- Caster level 9th. The save DC is Charisma-based. tionally tall human, a fair giant, or an ogre. Weakness (Su): A green hag can weaken a foe by making a spe- An annis stands some 8 feet tall and weighs about 325 pounds. cial touch attack. The opponent must succeed on a DC 16 Forti- HAG Green hag 143 tude save or take 2d4 points of Strength damage. The save DC is Amphibious (Ex): Although sea hags are aquatic, they can sur- Charisma-based. vive indefinitely on land. Mimicry (Ex): A green hag can imitate the sounds of almost Skills: A sea hag has a +8 racial bonus on any Swim check to any animal found near its lair. perform some special action or avoid a hazard. It can always",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Amphibious, spell resistance 14 Spell-Like Abilities: 3/day—animate dead, bestow curse (DC 17),",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "9d10+36 (90 hp) aura of good (see the detect good spell) as the 9th-level cleric of a",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Daylight, smite evil, spells, spell-like abilities, ture). A half-celestial also has the ability to use remove disease as a turn undead 7/day half-celestial spell-like ability (see above).",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A half-celestial retains all the special attacks of Combat the base creature and also gains the following special abilities. The half-celestial paladin strives to meet his foes in blade-to-blade Daylight (Su): Half-celestials can use a daylight effect (as the combat, resorting to flyby attacks only when confronted by a number spell) at will. of dangerous foes. Against a powerful evil creature, the half-celestial Smite Evil (Su): Once per day a half-celestial can make a normal paladin readies himself for close combat with his spells and spell-like melee attack to deal extra damage equal to its HD (maximum of abilities, and then makes good use of his ability to smite evil. +20) against an evil foe. Daylight (Su): Half-celestials can use daylight (as the spell) at Spell-Like Abilities: A half-celestial with an Intelligence or will as a standard action. Wisdom score of 8 or higher has two or more spell-like abilities, Smite Evil (Su): Twice per day, this half-celestial paladin may depending on its Hit Dice, as indicated on the table below. The attempt to smite evil with one normal melee attack. He adds his +4 abilities are cumulative; a half-celestial wyrmling brass dragon (4 Charisma modifier to his attack roll and deals 9 points of extra HD) can use protection from evil and bless as well as aid and detect evil. damage (1 per paladin level) if the attack hits. If he accidentally Unless otherwise noted, an ability is usable once per day. Caster smites a creature that is not evil, the smite has no effect but it is level equals the creature’s HD, and the save DC is Charisma-based. still used up for that day. HD Abilities Also, once per day this half-celestial paladin can make a normal 1–2 Protection from evil 3/day, bless melee attack with no additional bonus to deal 9 points of extra 3–4 Aid, detect evil damage against an evil foe (this is a benefit of the half-celestial 5–6 Cure serious wounds, neutralize poison template). 7–8 Holy smite, remove disease Spell-Like Abilities (Half-Celestial): 3/day—protection from 9–10 Dispel evil evil; 1/day—aid, bless, cure serious wounds (DC 17), dispel evil (DC 19), 11–12 Holy word holy smite (DC 18), neutralize poison, remove disease. Caster level 9th. 13–14 Holy aura 3/day, hallow The save DCs are Charisma-based. 15–16 Mass charm monster Turn Undead (Su): This paladin turns undead as a 6th-level 17–18 Summon monster IX (celestials only) cleric. 19–20 Resurrection 145 -FLAH NOGARD",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration +12, Diplomacy +6, Knowledge (arcana) creature’s damage values, whichever are greater. +6, Knowledge (religion) +6, Heal +9, Spellcraft +3, Spot +9 Bite Claw",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Enervation ray, spell-like abilities, vampiric 13th). touch Skills: A kolyarut has a +4 racial bonus on Disguise, Gather",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Construct traits, damage reduction Information, and Sense Motive checks. 10/chaotic, darkvision 60 ft., fast healing 5, low-light vision, spell resistance 22 MARUT",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "14–22 HD (Medium); 23–39 HD (Large) Special Attacks: Fists of thunder and lightning, spell-like",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell-like abilities Survival +2 (+4 following tracks)",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+1 lightspell.",
+        "name":  "Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Darkvision 60 ft., ink cloud, jet, low-light vision, spell-like abilities",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration +21, tunity against the sun- Diplomacy +7, Hide +0, der attempt. Severing a Intimidate +16, kraken’s tentacle or arm deals dam- age to the kraken equal to half the limb’s full normal hit points. A kraken usually withdraws from combat if it loses both tentacles or three of its arms. A kraken regrows severed limbs in 1d10+10 days. Improved Grab (Ex): To use this ability, the kraken must hit with an arm or tentacle attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can constrict. Constrict (Ex): A kraken deals automatic arm or tentacle damage with a successful grapple check. Jet (Ex): A kraken can jet backward once per round as a full- round action, at a speed of 280 feet. It must move in a straight line, but does not provoke attacks of opportunity while jetting. N E K A R K Kraken 162 Ink Cloud (Ex): A kraken can emit a cloud of jet-black ink in Scare (Ex or Su): As a standard action, a krenshar can pull the an 80-foot spread once per minute as a free action. The cloud pro- skin back from its head, revealing the musculature and bony vides total concealment, which the kraken normally uses to structures of its skull. This alone is usually sufficient to scare away escape a fight that is going badly. Creatures within the cloud are foes (treat as a Bluff check with a +3 bonus). considered to be in darkness. Combining this scare ability with a loud screech produces an Spell-Like Abilities: 1/day—control weather, control winds, dom- unsettling effect that works like a scare spell from a 3rd-level inate animal (DC 18), resist energy. Caster level 9th. The save DC is caster (Will DC 13 partial). A creature that successfully saves Charisma-based. cannot be affected again by the same krenshar’s scare ability for",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell-like abilities, Wisdom drain visitor is directly combating evil. They tolerate neutral beings but",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "10–13 HD (Large); COMBAT 14–27 HD (Huge) A lammasu attacks with spells or its",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration +13, Diplomacy +4, Concentration +19, Diplomacy +19, Knowledge (arcana) +17, Knowledge (arcana) +13, Listen +13, Knowledge (the planes) +17, Listen +18, Search +17, Sense Motive +18, Sense Motive +13, Spot +15 Spellcraft +19, Spot +20, Survival +18 (+20 other planes and tracking)",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+3 their spells and spell-like abilities to",
+        "name":  "Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Constrict 2d6+5, improved grab, spells, spell- successful grapple check. Constricting uses the entire lower por- like abilities tion of its body, so it cannot take any move actions when con-",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Appraise +12, Concentration +12, Diplomacy +16, grapple check, it establishes a hold and can constrict. Knowledge (arcana) +12, Listen +13, Perform (any one) +14, Spells: A lillend casts arcane spells as a 6th-level bard. Sense Motive +13, Spellcraft +14, Spot +13, Survival +17 Typical Bard Spells Known (3/4/3; save DC 14 + spell level): 0—",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "7 Spell-Like Abilities: 3/day—darkness, hallucinatory terrain (DC",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Company (2–4), patrol (11–20 plus 2 3rd-level LOCATHAH CHARACTERS sergeants and 1 leader of 3rd–6th level), or tribe (30–100 plus A locathah’s favored class is barbarian, and most locathah leaders 100 noncombatants plus 1 3rd-level sergeant per 10 adults, 5 are barbarians. Most locathah spellcasters are adepts. Locathah 5th-level lieutenants, and 3 7th-level captains) clerics worship Eadro. A locathah cleric has access to two of the",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Standard Spell-Like Abilities: 1/hour—scorching ray (DC 14) as the spell",
+        "name":  "Treasure",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Mind blast, psionics, improved grab, extract Mind blast, psionics, improved grab, extract, spells",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell resistance 25, telepathy 100 ft. Spell resistance 34, telepathy 100 ft.",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +11, Concentration +11, Diplomacy +7, Bluff +14, Concentration +22, Craft (alchemy) Disguise +3 (+5 acting), Hide +10, Intimidate +9, +13, Diplomacy +11, Disguise +7 (+9 acting), Hide +11, Knowledge (any) +12, Listen +11, Move Silently Intimidate +21, Knowledge (arcana) +20, Knowledge +10, Sense Motive +7, Spot +11 (the planes) +15, Listen +13, Move Silently +11, Spellcraft +13, Spot +13, Survival +4 (+6 planes)",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Improved grab, paralyzing touch, create Minotaurs prefer melee combat, where their great strength spawn serves them well. Special Qualities: Darkvision 60 ft., undead traits Powerful Charge (Ex): A minotaur typically begins a Saves: Fort +4, Ref +10, Will +9 battle by charging at an opponent, lowering its head to Abilities: Str 21, Dex 19, Con —, Int 11, Wis 10, bring its mighty horns into play. In addition to the Cha 10 normal benefits and hazards of a charge, this Skills: Climb +13, Hide +21, Listen +11, Move allows the beast to make a single gore attack Silently +21, Spot +15, Swim +9 with a +9 attack bonus that deals 4d6+6 points Feats: Alertness, Dodge, Improved Initiative, of damage. Lightning Reflexes, Mobility Natural Cunning (Ex): Although mino- Environment: Any taurs are not especially intelligent, they pos- Organization: Solitary, gang (2–4), or mob sess innate cunning and logical ability. This (2–4 plus 5–10 zombies) gives them immunity to maze spells, prevents Challenge Rating: 8 them from ever becoming lost, and enables Treasure: None them to track enemies. Further, they are Alignment: Always chaotic evil never caught flat-footed. Advancement: 15–21 HD (Medium); 22–28",
+        "name":  "COMBAT Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Despair, mummy rot Despair, mummy rot, rebuke undead, spells",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bite +12 melee (2d6+7 plus poison) or spit +9 Full Attack: Bite +9 melee (2d6+6 plus poison) ranged touch (poison) Space/Reach: 10 ft./5 ft. Space/Reach: 10 ft./5 ft. Special Attacks: Charming gaze, poison, spells",
+        "name":  "Full Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Poison, spit, spells Special Qualities: Darkvision 60 ft.",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Str 21, Dex 14, Con 19, Int 16, Wis 19, Cha 18 Skills: Concentration +13, Listen +14, Spellcraft +10, Spot +14",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +18, Concentration +19, Listen +13, Diplomacy +8, Feats: Ability Focus (charming gaze), Alertness, Combat Casting, Disguise +4 (+6 acting), Intimidate +6, Sense Motive +18, Eschew MaterialsB, Lightning Reflexes Spellcraft +17, Spot +13 Environment: Temperate marshes",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— son. Its head is vaguely human, with stringy hair. The odor of carrion hangs heavy in the air about it. This beautiful creature looks like a snake with a human face and green- gold scales. A golden frill runs from the top of its head to the tip of its tail. The sweet scent of flowers accompanies the creature. Wise and good, guardian nagas often protect Spirit sacred places or main- Naga tain a lookout against evil deeds. A guardian naga tends to raise its crest when it becomes angry. Guardian nagas speak Celestial and Common. Combat Guardian nagas usually warn off intruders before attacking. If the warning is ignored, they may begin a spell assault or spit poison. Spirit nagas are named for their habit of inhabiting ruined and 192 Poison (Ex): Injury or contact, Fortitude DC 19, initial and sec- dismal places; they are thoroughly evil and seek to do harm when- ondary damage 1d10 Con. The save DC is Constitution-based. ever they can. Spit (Ex): A guardian naga can spit its venom up to 30 feet as a Spirit nagas speak Abyssal and Common. NIGHT HAG Combat Combat Spirit nagas meet foes boldly so as to use their gaze attacks to best Water nagas prefer to stay mostly concealed in a body of water effect. They quickly slither forward to bite foes that avert their eyes. while they launch a spell attack. Charming Gaze (Su): As charm person, 30 feet, Will DC 19 Poison (Ex): Injury, Fortitude DC 17, initial and secondary negates. The save DC is Charisma-based. damage 1d8 Con. The save DC is Constitution-based. Poison (Ex): Injury, Fortitude DC 18, initial and secondary Spells: Water nagas cast spells as 7th-level sorcerers but never damage 1d8 Con. The save DC is Constitution-based. use fire spells.",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bite +7 melee Space/Reach: 5 ft./5 ft. (2d6+4 plus poison) Special Attacks: Spell-like Space/Reach: 10 ft./5 ft. abilities, dream haunting",
+        "name":  "Full Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Poison, Special Qualities: Damage spells Night hag reduction 10/cold iron and",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration +12, Abilities: Str 19, Dex 12, Con Listen +7, Spellcraft +8, 18, Int 11, Wis 15, Cha 12 Spot +7, Swim +11 Skills: Bluff +12,",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Temperate aquatic Motive +13, Spellcraft +11, Spot +15",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bite +29 melee (4d6+21/19–20) and sting +24 melee The save DC for the cauchemar’s smoke attack (DC 24) is (2d8+11/19–20 plus poison) adjusted for its greater number of Hit Dice and higher Constitu- Space/Reach: 20 ft./15 ft. tion score. Special Attacks: Desecrating aura, energy drain, spell-like abili-",
+        "name":  "Combat Full Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration +32, Diplomacy +6, Hide +16, Knowledge and absolute evil. Their chilling malevolence hangs heavily about (arcana) +33, Listen +33, Move Silently +28, Search +33, Sense them, along with the smell of an open grave on a winter’s morning. Motive +23, Spellcraft +35, Spot +33, Survival +5 (+7 following Nightshades can read and understand all forms of communica- tracks) tion; however, they communicate with others by telepathy. Feats: Blind-Fight, Combat Casting, Great Fortitude, Improved Critical (bite), Improved Critical (sting), Improved Initiative, COMBAT Iron Will, Power Attack, Quicken Spell-Like Ability (cone of Each of the three known varieties of nightshade is a terrible crea- cold) ture with unique powers and abilities. Their tactics vary according Environment: Plane of Shadow to their abilities, but they all make liberal use of haste. Organization:Solitary or pair",
+        "name":  "Nightshades are powerful undead composed of equal parts darkness Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration +24, Diplomacy +6, Hide +16*, Listen +25, Skills: Concentration +10, Diplomacy +6, Escape Artist +12, Move Silently +24, Search +24, Sense Motive +25, Spellcraft Handle Animal +13, Heal +12, Hide +12, Listen +12, Move +24, Spot +25, Survival +5 (+7 following tracks) Silently +12, Ride +5, Sense Motive +12, Spot +12, Swim +8,",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+2 +2 —Automatic Languages: Common, Giant. Bonus Languages: Combat Dwarven, Orc, Goblin, Terran. Ogre mages rely on their spell-like abilities, resorting to physical —Favored Class: Barbarian. combat only when necessary. When faced with obviously superior —Level adjustment +2. forces, they prefer to retreat using gaseous form rather than fight a losing battle. Ogre mages hold deep, abiding grudges, however, and the unwise person who crosses one would do well to keep OGRE MAGE looking over one’s shoulder. Large Giant Spell-Like Abilities: At will—darkness, invisibility; 1/day—",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell-like abilities tachment takes 1 minute. If",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Darkvision 90 ft., low-light vision, the head or some other vital regeneration 5, spell resistance 19 organ is severed, it must be",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration +11, Listen +10, parts. Spellcraft +10, Spot +10",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "An ochre jelly has a +8 racial bonus on Climb checks and venient for them. can always choose to take 10 on a Climb check, even if rushed or Light Sensitivity threatened. (Ex): Orcs are dazzled in bright sunlight or within the radius of a daylightspell. ORC Orc, 1st-Level Warrior Medium Humanoid (Orc)",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Fort +9, Ref +5, Will +2 spell-like abilities",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+2 (cohort) coat of feathers and fur. Its body is like a bear’s, but it has an avian This creature looks like a horse but has two large, head with big, round eyes and a feathered wings. Its coat and wings are pure white. hooked beak. The pegasus is a magnificent winged horse that sometimes serves Owlbears are extraordinarily vicious predators with a reputation the cause of good. Though highly prized as aerial steeds, pegasi are for ferocity, aggression, and sheer ill temper. They tend to attack wild and shy creatures not easily tamed. nearly anything that moves without provocation. Pegasi mate for life, building their nests in high, remote loca- Scholars have long debated the origins of the owlbear. The most tions. A mated pair have either 1–2 eggs or 1–2 young in their common theory is that a demented wizard created the first speci- nest. men by crossing a giant owl with a bear. An owlbear’s coat ranges A typical pegasus stands 6 feet high at the shoulder, weighs in color from brown-black to yellowish brown; its beak is a dull 1,500 pounds, and has a wingspan of 20 feet. Rumors tell of some ivory color. A full-grown male can stand as tall as 8 feet and weigh specimens that are brown or black instead of white. up to 1,500 pounds. Adventurers who have survived encounters Pegasi cannot speak, but they understand Common. with the creature often speak of the bestial madness they glimpsed in its red-rimmed eyes. COMBAT Owlbears inhabit wilderness areas, making their lairs within Pegasi attack with their sharp hooves and powerful bite. Mated tangled forests or in shallow underground caverns. They can be pairs and herds attack as a team, fighting to the death to defend active during the day or night, depending on the habits of the their eggs and young. available prey. Adults live in mated pairs and hunt in packs, leav- Spell-Like Abilities: At will—detect good anddetect evil within a ing their young in the lair. A lair usually has 1d6 young, fetching a 60-foot radius. Caster level 5th. price of 3,000 gp each in many civilized areas. While owlbears Skills: Pegasi have a +4 racial bonus on Listen and Spot checks. cannot be domesticated, they can still be placed in strategically important areas as free-roaming guardians. Professional trainers TRAINING A PEGASUS charge 2,000 gp to rear or train an owlbear (DC 23 for a young crea- Although intelligent, a pegasus requires training before it can bear ture, DC 30 for an adult). a rider in combat. To be trained, a pegasus must have a friendly attitude toward the trainer (this can be achieved through a suc- COMBAT cessful Diplomacy check). Training a friendly pegasus requires six Owlbears attack prey—any creature bigger than a mouse—on weeks of work and a DC 25 Handle Animal check. Riding a pega- sight, always fighting to the death. They slash with claws and beak, sus requires an exotic saddle. A pegasus can fight while carrying a trying to grab their prey and rip it apart. rider, but the rider cannot also attack unless he or she succeeds on Improved Grab (Ex): To use this ability, an owlbear must hit a Ride check. with a claw attack. It can then attempt to start a grapple as a free Pegasus eggs are worth 2,000 gp each on the open market, while action without provoking an attack of opportunity. young are worth 3,000 gp per head. Pegasi mature at the same rate RAEBLWO Owlbear 206 This creature looks like a brown and greenish-brown mass with a cluster of nodules atop the main mass, though it is visible only when dead. A cluster of nodules atop the main mass serve as sensory organs. The creature feeds and attacks with a gaping maw lined with rows of teeth. Four stumpy legs support the creature and allow it to move about. This ambulatory fungus is naturally invis- ible, making it a feared predator among subterranean inhabitants. COMBAT A phantom fungus usually roams quietly, hunting for prey. It attacks lone individuals almost any- where, but when tackling groups it prefers an open space where it has a better chance . Greater Invisibility (Su): This ability is constant, allowing a phantom fungus to remain invisible even when attacking. It works like greater invisibility (caster level 12th) and lasts as long as the phan- tom fungus is alive. This ability is not subject to the invisibility purge spell. A phantom fungus becomes visible 1 minute after it is killed. as horses. Professional trainers charge 1,000 gp to Skills: A phantom fungus has a +5 racial bonus on Move rear or train a pegasus, which serves a good or neutral master with Silently checks. absolute faithfulness for life.",
+        "name":  "This creature has a thick, shaggy Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +20, Climb +7, Craft (any one) +12, Alternate Form (Su): A phasm can assume any form of Large Diplomacy +12, Disguise +20 (+22 acting)*, Intimidate size or smaller as a standard action. This ability functions as a poly- +4, Knowledge (any one) +18, Listen +12, Spot +12, Survival +8 morphspell cast on itself (caster level 15th), except that the phasm",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Blindsense 60 ft., darkvision 60 ft., immunity not follow their inherent tendencies and heed the call to evil. A to sleep and paralysis, low-light vision, spell resistance 19, few defy their nature, but still must fight against popular opinion telepathy 60 ft. (if their nature is known) or the feeling of otherworldly “wrong- Saves: Fort +4, Ref +5, Will +4 ness” that seems to follow them wherever they go. Abilities: Str 6, Dex 15, Con 13, Int 10, Wis 12, Cha 10",
+        "name":  "Twisted, devious, and untrustworthy, tieflings more often than Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "16–32 HD (Gargantuan); 33–48 HD (Colossal) Special Attacks: Detect thoughts, spells",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— Special Qualities: Change shape, damage reduction 15/good and piercing, darkvision 60 ft., spell resistance 27",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bluff +17*, Concentration +13, Diplomacy +7, Disguise +17 (+19 acting)*, Intimidate +5, Listen +13, Move Silently +13, Perform (oratory) +13, Sense Motive +11, Spellcraft +11, Spot +11",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+7 This being looks like a humanoid tiger garbed in expensive clothes. The body seems mostly human except for a luxurious coat of tiger’s fur and its tiger head. Some say rakshasas are the very embodiment of evil. Few beings are more malevolent. A closer look at a rakshasa reveals that the palms of its hands are where the backs of the hands would be on a human. While this doesn’t detract from the creature’s manual dexterity, it makes a rakshasa look very disturbing to those unfamiliar with the creature. A rakshasa is about the same height and weight as a human. Rakshasas speak Common, Infernal, and Undercommon. COMBAT In close combat, which a rakshasa disdains as ignoble, it employs its sharp claws and powerful bite. Whenever possible, it uses its other abilities to make such encounters unnecessary. Detect Thoughts (Su): A rakshasa can continuously use detect thoughts as the spell (caster level 18th; Will DC 15 negates). It can suppress or resume this ability as a free action. The save DC is Charisma-based.",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— This creature has a long, serpentine body that trails away as it floats effortlessly through the air, and a single claw that juts forward near its head. Ravids are creatures from the Positive Energy Plane. These bizarre entities imbue creatures with energy by their touch and animate lifeless objects around them. Ravids that make their way to the Mater- ial Plane wander about aimlessly, followed by the objects to which they have given life. A ravid is about 7 feet long and weighs about 75 pounds. COMBAT Ravids fight only in self-defense. A ravid itself is not very power- ful but is always accompanied by at least one animated object that defends it. R A V I D Rast 213 Positive Energy Lash (Su): A ravid can make a touch attack or hit with a claw or tail slap attack to infuse a target with posi- tive energy. The energy produces an unpleasant tingle in living creatures, and against undead foes (even incor- poreal ones) it deals 2d10 points of damage. Animate Objects (Su): Once per round, a random object within 20 feet of a ravid animates as though by the spell animate objects (caster level 20th). Skills: These objects defend the ravid to the best of their abil- Listen +8, ity, but the ravid isn’t intelligent enough to employ elabo- Spot +8 rate tactics with them. Feats: Awesome Blow, Flight (Su): A ravid can cease or resume flight as a Improved Bull Rush, Power Attack free action. A rast that loses this ability falls and can Environment: Cold desert perform only a single action (either a move action Organization:Solitary or an attack action) each round. Challenge Rating: 7",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Drag, strands, weakness they are often considered bad omens. These enormous creatures Special Qualities: Darkvision 60 ft., immunity to electricity, are 30 feet long from the beak to the base of the tail, with wing- low-light vision, resistance to cold 10, spell resistance 30, spans as wide as 80 feet. A roc weighs about vulnerability to fire 8,000 pounds. Saves: Fort +10, Ref +8, Will +8",
+        "name":  "In a few rare instances, red, black, or white rocs are sighted, but Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Fort +3, Ref +4, Will +4 sunlight or a daylightspell) blinds sahuagin for round. On subse-",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Constrict1d4plus1d6fire,heat, Constrict2d6+1plus1d6fire,heat, Constrict2d8+3plus1d8fire,heat, improvedgrab improvedgrab improvedgrab,spell-likeabilities",
+        "name":  "SpecialAttacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "50 ft. (10 squares) flame spell, does not negate this ability. A daylight spell,",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Brood (2–5) ster spell, but they have only a or pack (6–15) limited chance of success. Roll",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Standard ity is the equivalent of a 3rd-level spell.",
+        "name":  "Treasure",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ever- only when hungry or Changing Chaos of Limbo riled. Once aroused, Organization: Solitary, pair, however, a red slaad gang (3–5), or pack (6–10) fights to the death. Challenge Rating: 8 Pounce (Ex): If a Treasure: Standard red slaad charges, it Alignment: Usually can make a full chaotic neutral attack in the same Advancement: 9–12 round. HD (Large); 13–24 Implant (Ex): A HD (Huge) red slaad that hits Level with a claw attack can Adjustment: +6 inject an egg pellet into the opponent’s body. The This hulking creature affected creature must suc- looks like a strapping ceed on a DC 16 Fortitude save to blue-skinned humanoid avoid implantation. The save DC is toad, as big as an ogre, with almost no neck Constitution-based. and a massive, flat head. It is bipedal, with clawed hands and feet. It has Often the slaad implants an unconscious or otherwise helpless wicked-looking, bony hooks on the backs of its hands. creature (which gets no saving throw). The egg gestates for one week before hatching into a blue slaad that eats its way out, killing Blue slaadi gather to wage horrific battles against other societies the host. Twenty-four hours before the egg fully matures, the and their own. They are bullies that value only strength and victim falls extremely ill (–10 to all ability scores, to a minimum of power. 1). A remove disease spell rids a victim of the pellet, as does a DC 25 A blue slaad is about 10 feet tall and very broad. It weighs about Heal check. If the check fails, the healer can try again, but each 1,000 pounds. As its name suggests, a blue slaad is mostly blue, attempt (successful or not) deals 1d4 points of damage to the darker along the back and paler around the belly. patient. Blue slaadi are most often found in groups and work well If the host is an arcane spellcaster, the egg pellet instead hatches together—at least, better than red slaadi. into a green slaad. SLAAD Blue Slaad Death slaad 229",
+        "name":  "Red slaadi usually attack Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell-like abilities, summon slaad darkness,fireball (DC 14). Caster",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Climb +18, Concentration +10, Hide +9, Jump +18, ance). A green slaad remains in one form until it chooses to Listen +12, Move Silently +13, Search +12, Spot +12, assume a new one. A change in form cannot be dispelled, but the Survival +6 (+8 following tracks) slaad reverts to its natural form when killed. A true seeing spell",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "9 ability is the equivalent of a 5th-level spell.",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell-like abilities, summon slaad Abilities: Str 21, Dex 23, Con 21, Int 18, Wis 18, Cha 18",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Climb +17, Concentration +15, Hide +16, Jump +17, Sunder, Multiattack, Power Attack Knowledge (arcana) +15, Listen +15, Move Silently +16, Search Environment: Ever-Changing Chaos of Limbo +15, Spellcraft +17, Spot +15, Survival +5 (+7 following tracks) Organization:Solitary or pair",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "30 ft. (6 squares) equivalent of a 6th-level spell. SLAAD 231 Sunlight Powerlessness (Ex): Spectres are powerless in natu- SPECTRE ral sunlight (not merely a daylightspell) and flee from it. A spectre Medium Undead (Incorporeal) caught in sunlight cannot attack and can take only a single move",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Darkvision 60 ft., freedom of movement, low- symbol of fear, asymbol of insanity, asymbol of pain, asymbol of persua- light vision, scent sion,asymbol of sleep, and a symbol of stunning as the spells (caster Saves: Fort +9, Ref +5, Will +2 level 18th), except that all save DCs are 22 and each symbol re- Abilities: Str 21, Dex 13, Con 21, Int 2, Wis 12, Cha 10 mains a maximum of one week once scribed. The save DCs are Skills: Listen +10, Spot +11 Charisma-based. Feats: Alertness, Dodge",
+        "name":  "Once per week a gynosphinx can create a symbol of death, a Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "10–14 HD (Large); 15–27 HD venom takes effect. Spider eaters do not like to give up (Huge) their prey, and foes who harry them with spells or",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "+3 (cohort) ranged attacks provoke a determined counterattack. Implant (Ex): Female spider eaters lay their eggs inside This creature is bigger than a horse and has a tawny lion body, great paralyzed creatures of Large or larger size. The young emerge falcon wings, and the head of a falcon. about six weeks later, literally devouring the host from inside. Poison (Ex): Injury, Fortitude DC 17, initial damage none, sec- Of all the sphinxes, only these creatures are evil at heart. They are ondary damage paralysis for 1d8+5 weeks. The save DC is Con- always male. They spend much of their time searching for a stitution-based. gynosphinx but are generally just as happy to maul someone. Freedom of Movement (Su): Spider eaters have a continuous freedom of movement ability as the spell (caster level 12th). When Combat the spider eater serves as a mount, this effect does not extend to its Hieracosphinxes can make short work of even the most danger- rider. ous opponents with their claws. They are not particularly intelli- Skills: Spider eaters have a +4 racial bonus on Listen and Spot gent, but are cunning enough to dive at their enemies from above checks. with their flying ability. Rake (Ex): Attack bonus +13 melee, damage 1d6+2. TRAINING A SPIDER EATER",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell-like abilities, fiddle Saves: Fort +0, Ref +5, Will +3",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Damage reduction 5/cold Abilities: Str 7, Dex 16, Con 11, iron, low-light vision, spell resistance 17 Int 12, Wis 13, Cha 18",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A nixie has a +8 racial bonus on any Swim check to per- One pixie in ten can use Otto’s irresistible dance (caster level 8th) form some special action or avoid a hazard. It can always choose to once per day. take 10 on a Swim check, even if distracted or endangered. It can Special Arrows (Ex): Pixies sometimes employ arrows that use the run action while swimming, provided it swims in a deal no damage but can erase memory or put a creature to sleep. straight line. Memory Loss: An opponent struck by this arrow must succeed on *Nixies have a +5 racial bonus on Hide checks when in the a DC 15 Will save or lose all memory. The save DC is Charisma- water. based and includes a +2 racial bonus. The subject retains skills, lan- guages, and class abilities but forgets everything else until he or PIXIE she receives a heal spell or memory restoration with limited wish, Small Fey wish, or miracle.",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "20 ft. (4 squares), fly 60 ft. (good) by a sleep spell. The save DC is Charisma-based and includes a +2",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell-like abilities, special arrows — –4 Strength, +8 Dexterity, +6 Intelligence, +4 Wisdom, +6",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "2–3 HD (Small) iron, greater invisibility, spell resistance equal to 15 + class levels.",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Carapace, damage reduction 15/epic, immunity to fire, poison, disease, energy drain, and ability damage, regeneration 40, scent, spell resistance 32",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Heat, burn spell-like abilities",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Fort +4, Ref +2, Will +2 vision 60 ft., spell",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— (any one) +28, Diplomacy +11, Disguise +7 (+9 This creature has a sinuous body that is acting), Heal +20, segmented like an earthworm’s. The whole body Intimidate +32, Jump glows with orange-white heat. +38, Knowledge (any one) +28, Listen +32, The thoqqua is a wormlike monster with a Perform (oratory) +30, body hot enough to melt solid rock. It has a Sense Motive +32, Search 242 choleric mood and a foul temper. Although native to the Titan +28, Spellcraft +17, Spot +32, Elemental Plane of Fire, it is also known to inhabit the Elemental Survival +9 (+11 following Plane of Earth. tracks), Swim +16 TOHANIDA",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Awesome Blow, Blind-Fight, Cleave, Improved Bull Rush, like abilities: At will—bestow curse (DC 21), deeper darkness, unholy Improved Sunder, Power Attack, Quicken Spell-Like Ability blight (DC 21); 1/day—Bigby’s crushing hand (DC 26). Caster level (chain lightning) 20th. The save DCs are Charisma-based.",
+        "name":  "Feats",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Always chaotic (any) Spell-Like Ability feat, it can use chain lightning as a free action,",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Standard Special Attacks: Spell-like abilities",
+        "name":  "Treasure",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "2d8+4 (13 hp) poisonorneutralize poison spell removes the effect",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Rend2d6+9 Rend2d6+10,spells",
+        "name":  "SpecialAttacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— Turn undead 13/day, smite evil, spells",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Jump +21, Listen +11, Move Silently +9, Concentration +11, Knowledge (nature) +9, Spot +11, Survival +8* Knowledge (religion) +8, Listen +15, Move Silently +12, Spellcraft +5, Spot +15, Survival +15 (+17 aboveground)*",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Unarmed strike +14 melee year and a day. (1d10+5 plus energy drain) or +2 Half-Elf Traits (Ex): Immu- keen kama +16 melee (1d6+7) or +1 nity to sleep spells and effects; +2 frost sling +14 ranged (1d4+1 plus 1d6 racial bonus on saves against cold) enchantment spells or effects; low-",
+        "name":  "Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A vampire retains all the special attacks of Gaseous Form (Su): As a standard action, a vampire can assume the base creature and gains those described below. Saves have a gaseous form at will as the spell (caster level 5th), but it can remain DC of 10 + 1/2 vampire’s HD + vampire’s Cha modifier unless gaseous indefinitely and has a fly speed of 20 feet with perfect noted otherwise. maneuverability. Blood Drain (Ex): A vampire can suck blood from a living victim Resistances (Ex): A vampire has resistance to cold 10 and electric- with its fangs by making a successful grapple check. If it pins the ity 10. foe, it drains blood, dealing 1d4 points of Constitution drain each Spider Climb (Ex): A vampire can climb sheer surfaces as though round the pin is maintained. On each such successful attack, the with a spider climb spell. vampire gains 5 temporary hit points. Turn Resistance (Ex): A vampire has +4 turn resistance. 252 Children of the Night (Su): Vampires command the lesser crea- Abilities: Increase from the base creature as follows: Str +6, tures of the world and once per day can call forth 1d6+1 rat Dex +4, Int +2, Wis +2, Cha +4. As an undead creature, a vampire swarms, 1d4+1 bat swarms, or a pack of 3d6 wolves as a standard has no Constitution score.",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    }
+]

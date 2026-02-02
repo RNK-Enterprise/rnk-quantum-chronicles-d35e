@@ -1,0 +1,137 @@
+﻿{
+    "by_category":  [
+                        {
+                            "count":  26,
+                            "category":  "powers"
+                        },
+                        {
+                            "count":  29,
+                            "category":  "monsters"
+                        },
+                        {
+                            "count":  27,
+                            "category":  "armor"
+                        },
+                        {
+                            "count":  1,
+                            "category":  "other"
+                        }
+                    ],
+    "samples":  [
+                    {
+                        "category":  "powers",
+                        "examples":  [
+                                         {
+                                             "name":  "Special Qualities",
+                                             "_id":  "b52f2ec282237ced256fa631237d2f49b802b02389d0a28694835b2d980f4191",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Creatures",
+                                             "_id":  "b23601a81bab0bb28837857cc1300f74e1c83173a1d8e83d4f51d3a6d080071c",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Special Qualities",
+                                             "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Target",
+                                             "_id":  "2001fa5e4e4e3c8cb8a522d03d7e8fe74c828de8e5ec4f68ef3cc8eeddb5743c",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Creatures",
+                                             "_id":  "a7af01ac27b3ae2721d17f1d37cbbda87043f4b81348c48324fc31d8c895090a",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         }
+                                     ]
+                    },
+                    {
+                        "category":  "monsters",
+                        "examples":  [
+                                         {
+                                             "name":  "Benefi t",
+                                             "_id":  "2c61f0d74a7fa62caa32567aa028a968c002e87fe7d35c2303c15b7f7cd80ecb",
+                                             "auto_category":  "monsters",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Target",
+                                             "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2",
+                                             "auto_category":  "monsters",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Typical Physical Characteristics",
+                                             "_id":  "e923bdb1eb11dc6ee63bc49845eec11780f61ee7d44bed85acdb011268db5f0b",
+                                             "auto_category":  "monsters",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "CR",
+                                             "_id":  "4e67928dd0575d4a67d3532e0a0949c326d94d719de7dd9af5bab3faa6bea838",
+                                             "auto_category":  "monsters",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Target",
+                                             "_id":  "3328a482bb923d04043438dee42539ae53658a435f97a8628c489ca983575ebc",
+                                             "auto_category":  "monsters",
+                                             "confidence":  "strong"
+                                         }
+                                     ]
+                    },
+                    {
+                        "category":  "armor",
+                        "examples":  [
+                                         {
+                                             "name":  "Target",
+                                             "_id":  "bc99cbf2651cf187ea3b0807b2e27e07bcdc7e9d1e967a0a5b359fdf987277e7",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Skills",
+                                             "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Summoning Focus",
+                                             "_id":  "e3dc8037fb581147eb9f4b66b67256a70a90e4ca7407f4ca628bc3df8b122cc5",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Creatures",
+                                             "_id":  "e7c57779d217354d7898aaf253a1b6566be73907e2ff0439b53b8d6f1b5d5248",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Target",
+                                             "_id":  "06cbec5703c0f3e41cd896db7c89be3888901fdd4b6ecdf8c76a12976b6bbb46",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         }
+                                     ]
+                    },
+                    {
+                        "category":  "other",
+                        "examples":  {
+                                         "name":  "The following creatures are active in this area",
+                                         "_id":  "0a595b347fb0269114f6d6ea68043fa7ea7b1d16c87c2743915eedd2528e324f",
+                                         "auto_category":  "other",
+                                         "confidence":  "weak"
+                                     }
+                    }
+                ],
+    "total_merged":  83
+}

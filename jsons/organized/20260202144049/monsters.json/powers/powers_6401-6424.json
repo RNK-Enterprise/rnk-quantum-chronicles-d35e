@@ -1,0 +1,170 @@
+﻿[
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This value is the Challenge Rating of an indi- as immunity to poison or to sleep effects). vidual creature of this kind. Resist and SR: If the creature has resistance to",
+        "name":  "CR",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The one- or two-letter abbreviation energy type and the number of points resisted per that appears here denotes the creature’s alignment. attack (acid 10, for example). This information is",
+        "name":  "Alignment",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This value is the creature’s modifier on initia- resistance, if any, appears after the other resistances tive checks. on the same line. 26 3 RETPAHC FO SMETI YCAGEL",
+        "name":  "Init",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This entry gives the creature’s Base Atk: The Base Atk entry gives the creature’s saving throw modifiers. base attack bonus without any modifiers.",
+        "name":  "Fort, Ref, Will",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The creature’s ability scores appear here in the customary order (Str, Dex, Con, Int, Roleplaying Hook Wis, Cha). When appropriate, a Hook entry appears at the end",
+        "name":  "Abilities",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Any special qualities not presented earlier in of a statistics block, set off in its own section. This is the statistics block appear here. These entries are often a tidbit of information to help you run the creature class features or other abilities that are not generally in a fl avorful or memorable way. Generally, this relevant in combat. information is present only if the statistics block",
+        "name":  "SQ",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This entry lists all the feats the creature describes a unique named character. It might be a possesses, including those that appear elsewhere in quote or a battle cry, or an indication of the kind of the statistics block. characters the creature is most likely to attack. If",
+        "name":  "Feats",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This entry shows all the skill modifiers the descriptive text that accompanies a creature’s or for skills in which the creature has ranks. Modifiers character’s statistics block includes facts about the are also provided for skills to which racial modi- individual’s behavior or outlook that could serve as a fiers, bonuses from synergy, or other modifiers roleplaying hook, the Hook entry is omitted. Such is apply, whether or not the creature has ranks in the case for the NPCs in the adventure seeds in this those skills. chapter—information that would normally appear",
+        "name":  "Skills",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You must defeat a creature with ture with the earth subtype within 60 feet. You must the earth subtype in personal combat. The creature’s concentrate (a standard action) to do so. The hammer Challenge Rating must be equal to or greater than ignores any damage reduction an earth-subtype crea- your character level. Cost: 2,200 gp. Feat Granted: Least ture possesses. Legacy (Bloodcrier’s Hammer). Pathbreaker (Su): Beginning at 7th level, once per",
+        "name":  "Trial By Earth",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Once per day, while wearing the gauntlets, you can learn the most commonly used name of any one creature by looking that creature in the eyes. The target gets a Will save (DC 10 + 1/2 your HD + your Wisdom bonus) to negate the effect. This is a divina- tion effect (caster level 3rd). HISTORY Pelt was the scrawny, illegitimate child of a prostitute, and a target Bullybasher’s Gauntlets for every bully in his turned a tormented weakling into a champion town. He earned his of the downtrodden keep by cleaning shop and smelting metal for these matches only to a local blacksmith. The save enough gold to leave older boys of the streets the city, but he drew the hunted poor Pelt down ev- attention of a powerful local ery day, but the boy refused to cower crime gang called the Green to anyone. It didn’t matter how much the other Daggers. The gang wanted Pelt to muscle their “tax” kids ganged up on him, he heeded his mother’s words from the neighborhood businesses. Most storekeepers and never fought back. Pelt didn’t throw a single punch, paid into the protection racket without complaint, but his unwillingness to be intimidated earned him a except for a solitary blacksmith—the same one who regular beating. While Pelt was healing from one par- had raised Pelt after his mother died. Pelt defi ed the ticularly bad thrashing, his mother caught a seasonal gang and defended his adoptive father. He proceeded to virus. The impoverished woman couldn’t afford medi- take out every leg-breaker and assassin sent after him. cine while Pelt was incapacitated, and the gang that Taking this as a sign of weakness, the other gangs in the skimmed her profi ts wouldn’t help either. She died, and local underworld made quick work of the remaining the blacksmith took Pelt in. When he recovered, Pelt Green Daggers. (DC 25; Call Them Out) took a pair of discarded metal gloves from the black- It was around this time that the local shop owners smith and began wearing them in public. These gloves approached Pelt and offered to pay him for his protec- came to be known as Bullybasher’s Gauntlets.(DC 15) tion. Pelt accepted. The community was too large for The oversized gauntlets made Pelt a target right away, one man to look after, so Pelt recruited deputies from which was exactly what he wanted. He watched the among the townsfolk who used to bully him when faces of the street kids contort into ugly expressions they were children. With their help, he organized of greed as they rushed him. Outnumbered as usual, a militia to resist the new gangs that had formed Pelt fought back this time. He kept throwing punches when the Green Daggers were dismantled. Without until each attacker had been fl attened in turn, sending realizing it, Pelt had decided to stay put. The city had boy after boy sprawling on the cobblestones. Pelt had somehow become more appealing, and Pelt now felt taken his thumps over the years, but he had learned like he belonged. Under his stewardship, the com- from each one. (DC 20; Knock Them Down) munity prospered. Pelt used much of his own wealth It wasn’t long before Pelt’s skills as a pugilist attracted an to fi nance a hospital for the poor, so poverty would unscrupulous merchant who organized bouts against the never again make the difference between one of them young man for entertainment and profi t. Pelt fought in living or dying. (DC 30; Build Them Up) Illus. by D. Crabapple 44 3 RETPAHC FO SMETI YCAGEL Table 3–6: Bullybasher’s Gauntlets ——————— Personal Costs ——————— Wielder Attack Skill Check Hit Point Skill Point Level Penalty Penalty Loss Loss Abilities 5th — — — — Sturdy grip 6th — — 2 4 Knock silly 2/day 7th –1 — — — Solitary warrior 8th — — — — Cheat death 1/day 9th — — — — — 10th — –1 2 2 Power of one +2 11th — — — — Rough and tumble 12th — — — 2 +2 gauntlets 13th –2 — — — Giant bearing 14th — — 2 — Power of one +4 15th — — — 2 Stone gathering 16th — –2 — — +3 gauntlets 17th — — — — Frightful presence 18th — — 2 2 No wound too big, power of one +6 19th — –3 — 2 Lightning punch 20th — — — 2 +4 gauntlets LEGACY RITUALS Sturdy Grip (Su): At 5th level, while wearing Bully- Three rituals are required to unlock all the abilities basher’s Gauntlets, you gain a +4 bonus on opposed of Bullybasher’s Gauntlets. grapple checks to establish a hold (but no other",
+        "name":  "Omen",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You must defeat in personal Dolphin’s Breath (Su): Beginning at 6th level, combat a hostile creature with the aquatic subtype you can go an entire hour without needing to take a and a CR equal to your level or higher (maximum breath. However, if you don’t get a breath after that CR 10). Cost: 1,200 gp. Feat Granted: Least Legacy hour elapses, you must hold your breath or begin (Coral’s Bite). to drown (see Drowning, page 304 of the Dungeon",
+        "name":  "Hero of the Pod",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Silver holy symbol of In the span of one night, strategies were concoct- resistance +1; Cost 1,550 gp; Weight 1 lb. If you have ed, forming first, second, and third lines of defense, the ability to turn undead, all language-speaking always keeping the mountains at the united army’s creatures within 30 feet can understand you when back. Carthid gathered all the holy persons around you speak, regardless of language. This does not give him the next morning and meditated before battle. you any ability to understand others’ languages. When the undead arrived, Divine Spark became the",
+        "name":  "Nonlegacy Game Statistics",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Divine Spark transforms into your focal point for every consecrated person present, preferred holy symbol while you carry it. allowing them to channel their turning abilities through Carthid and raise his pow- HISTORY er by a degree based on all who Divine Spark was created when remained in their circle. They a great swelling evil threat- were unstoppable together, cutting ened to overrun the world and a swath through the undead wher- extinguish all human life. The ever they moved. If one cleric most powerful necromancers of was slain, all the others’ the known realms formed turning abilities were im- an unholy pact, creat- mediately refreshed. No ing armies of ghouls, death was in vain. It quickly skeletons, wights, and became obvious the overconfi- zombies that wiped out dent necromancers had stretched entire regions, adding the slain to themselves too thin. That day, their numbers. Church leaders in the tide of battle shifted with- the land could not afford to let out any divine intervention. bickering and religious differ- The members of the human na- ences come between them any tions survived by saving themselves. longer. One man united them— Carthid disappeared into obscurity Carthid Ufander. Carthid did not Divine Spark brought together those of shortly thereafter, but he has long believe in any deity, for what god pure heart to resist overwhelming evil been remembered as the man who would allow so many people to suf- single-handedly, though only briefly, fer at the hands of rabid, amoral creatures that made united all religions. (DC 25; Belief in Kin) feasts out of human flesh? Carthid did believe in some- LEGACY RITUALS thing greater than himself, however—the resilience of humanity. To him, nothing was more divine than Two rituals are required to unlock all the abilities of this one truth. (DC 15) Divine Spark.",
+        "name":  "Omen",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You are required to defeat in Marked Target (Su): At 5th level and higher, on personal combat a creature with the fi re subtype and command, you can cock and fi re the empty Flamecast- a CR equal to or greater than your level (maximum er’s Bolt to launch a harmless bolt of energy. With a CR 10). Cost: 4,500 gp. Feat Granted: Least Legacy successful ranged touch attack, the bolt strikes a single (Flamecaster’s Bolt). target up to 400 feet away, with no range increment",
+        "name":  "Suffer the Flames",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  " You have to take something from three different strang- ers, without them noticing, using Sleight of Hand. If even one of these Sleight of Hand checks fails, or a creature notices even one attempt, the ritual is unsuccess- The wearer of Ghostfolly’s Gloves is ful. Cost: 3,700 gp. Feat Granted: Least superbly garbed for missions Legacy (Ghost folly’s Gloves). of infi ltration",
+        "name":  "Test of Tenaciousness",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+1 longspear; Cost the triton hero Oceaneid, bore the Notched Spear into 2,305 gp. When set against a charge, Notched Spear battle against the great shark-fiend. The clash lasted for deals an extra 1d6 points of damage on a successful three tides. In the end, the shark swallowed Oceaneid attack against a charging creature (on top of the whole even as the triton’s spear pierced its gullet and normal double damage). killed it. The monster’s carcass, along with the body",
+        "name":  "Nonlegacy Game Statistics",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You must kill a foe with Lash, you can heal yourself for 3d8+10 hit points as a a Challenge Rating of 18 or higher, again fastening swift action. This ability also eliminates any fatigue or the slain creature’s skull to Skull Lash. Cost: 40,500 gp. exhaustion you currently suffer. Caster level 10th.",
+        "name":  "Rite of the Third Skull",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The skull of any animal grants a set of abilities enhancing your savage nature. At 7th level, you gain a +5 bonus on Survival checks. At 13th level, you gain the scent ability (see page 314 of the Monster Manual). At 19th level, you gain a +6 enhancement bonus to Constitution.",
+        "name":  "Animal Skull",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You have to defeat an outsider Stalker’s Insight (Su): At 18th level and higher, once in personal combat. The creature’s CR must be equal per day on command, you gain a +10 insight bonus on to or greater than your character level. Cost: 40,500 gp. Hide, Listen, Move Silently, Spot, and Survival checks",
+        "name":  "Trial of the Outsider",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You must locate a dead tree ever Stormchaser’s Cudgel delivers a critical hit against struck by lightning. By dealing yourself 4 points of a humanoid creature with 4 or fewer Hit Dice, that slashing or piercing damage, you must then water the creature must succeed on a Will save or be dazed for tree’s roots with your blood, dealing an additional 1 round. The save DC is 10, or 10 + your Charisma 6 points of damage to yourself. Cost: 12,500 gp. Feat modifier, whichever is higher. Caster level 5th.",
+        "name":  "Ancestral Roots",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "hp 32 (see page 257 of the Monster Manual). Secret Hideout This mossy cavern is underneath a pond and has been reinforced with stout beams. Almost half of the cavern fl oor is covered with water. 166 3 RETPAHC FO SMETI YCAGEL THANIFEX Thanifex became instrumental in making Javen’s dark Thanifex (sometimes called the “Spear of the Erst- pledge possible. (DC 15) while”) is a long, broad-bladed spear constructed from As the years churned by, more slaves were always a sheer, black metal that defies detailed examination. brought to the city. Javen rose through the ranks of It has been surmised the greatspear is fashioned slavery, finally becoming a master stonecutter. While from pure “void.” he enjoyed the benefits of his skilled position,",
+        "name":  "Suldan Kabrel, Wraith",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Elemental Plane of Fire MONSTERS",
+        "name":  "Environment",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— IRONHEART, SERVANT OF FIRE Ironheart was a fairly typical This example uses a fiendish azer azer cleric, worshiping Therme- cleric as the base creature. khûl (the dwarven patron of fire and battle; see Races of Stone, page Ironheart 19) and guiding his kin through their Medium Outsider (Extraplanar, duties in life. When his community was Fire) threatened by invading yugoloths from Male Azer Cleric 3 the Bleak Eternity of Gehenna, he",
+        "name":  "Level Adjustment",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Lawful evil Omen: All creatures within 15 feet of Shuluth",
+        "name":  "Alignment",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    }
+]

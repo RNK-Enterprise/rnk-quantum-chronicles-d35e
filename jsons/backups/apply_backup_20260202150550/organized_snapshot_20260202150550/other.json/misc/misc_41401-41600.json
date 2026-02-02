@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "other.json",
+        "description":  "Swim speed.",
+        "name":  "Prerequisite",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "When swimming, you can take a move action and another standard action (such as an attack) at any point during the move. You cannot take a second move action during a round when you make a swim-by attack.",
+        "name":  "Benefi t",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Without this feat, you take a standard action either before or after your move, but not in the middle of your move. TOOTHED BLOW You are able to hammer your foes more effectively underwater.",
+        "name":  "Normal",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 13, Improved Unarmed Strike.",
+        "name":  "Prerequisites",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bardic music class feature, Perform Prerequisites: Bardic music class feature, Perform (sing (sing) 4 ranks. or wind instruments) 5 ranks.",
+        "name":  "Prerequisites",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "By tremendous effort of will and sheer musical Benefi t: By expending a daily bardic music use, you ability, you can use Perform (sing) underwater even though can lull the winds around a single ship into well-tamed you cannot breathe water. This is more like a forceful hum- gusts. They continue to blow into the sails of the ship ming than singing, and words are not intelligible, but you as normal for their speed, but their effects on the crew are able to produce bardic music effects. The maximum are one stage in intensity less (see Table 1–2 on page 23). distance of such effects (where applicable) is unchanged. Thus, a strong wind affected by this ability continues to This feat does not help with Perform checks involving propel the ship along as normal for a strong wind, but it oratory or wind instruments. only affects the crew as though it were a moderate wind.",
+        "name":  "Benefi t",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The maximum amount by Propulsion which the vessel can change its speed (either speeding While some crude rafts or barges might not have any up or slowing down) in a single round. A vessel cannot ability to move under their own power, most vessels are exceed its maximum speed given the current wind strength designed to travel as their crews direct. This requires some and direction. sort of motive force—sails, oars, paddlewheels, propellers, Reverse: Only oared vessels can travel in reverse. A vessel or even draft animals. The most important types are sails, cannot go backwards unless its speed was zero in the preced- oars, or propellers. Some vessels have both sails and oars. ing round, and a vessel moving in reverse must first come",
+        "name":  "Maximum Speed Change",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Vessels with rowers need not worry much about fier is applied to any Profession (sailor) checks the captain wind direction. They simply move their given speed in or master makes in order to avoid foundering, sinking, and any direction the helmsman sees fit to steer. pqs",
+        "name":  "Oars",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Some vessels have both sails and oars. The ship uses either its rowing speed or its sailing speed, as MANEUVERABILITY AND NARRATIVE COMBAT the master chooses. Changing propulsion modes requires If you are using the narrative ship combat rules described in Chapter 1, you can ignore all maneuverability characteristics 1 full round. other than maximum speed change. The narrative system as-",
+        "name":  "Oars and Sails",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The ship’s agility and nimbleness. This Cargo: The capacity of the vehicle’s hold, in tons (1 ton = modifier is applied to Profession (sailor) checks the captain 2,000 pounds). Most ships are slowed to 3/4 normal speed or master makes in order to avoid collisions, come about, if carrying half this load or more. sail close to the wind, and other situations that small, swift Cost: The vehicle’s cost in gold pieces. vessels avoid more easily than large and clumsy ones.",
+        "name":  "Shiphandling",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The ship’s speed and its nautical maneuver- VESSELS ability rating. The following boats and ships are only a small sample",
+        "name":  "Speed",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sailing vessels have a base speed, which is then of the types most typically found on the seas, lakes, and modified by the wind strength. For example, a ship with rivers of a fantasy world. a speed of “wind×15 feet” has a speed of 15 feet if the wind speed modifier is ×1, 30 feet if the modifier is ×2, or 45 feet Table 5–2: Boats and Ships if the modifier is ×3. See Wind and Weather, page 22. Vessel Complement Speed Cost Barge 120/5/40 1/2 mph 6,000 gp",
+        "name":  "Wind",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The ship’s speed while being rowed. Caravel 30/7 3 mph* 10,000 gp",
+        "name":  "Oars",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The AC of the ship as a whole. Ships of Huge (sailing ship) size or larger rarely use this, since an attacker targets a single Cog 20/4 2 mph* 6,000 gp hull section at a time when attacking a Huge or larger ship. Coracle 2/1 1 mph 5 gp Dhow 25/5 2 mph 7,000 gp",
+        "name":  "Overall AC",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The number of hull sections the ship Dromond 200/7/100 2 mph* 25,000 gp possesses. (warship) or 3 mph",
+        "name":  "Hull Sections",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The number of destroyed hull sections necessary Dugout 4/1 1 mph 20 gp to sink the ship outright. A ship can sink from the destruc- Elf wingship 30/5 4 mph* 40,000 gp Galley 300/10/160 1-1/2 mph* 30,000 gp tion of a single hull section, but it is not automatic. or 2 mph",
+        "name":  "Sink",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The number of hit points and the hardness Greatship 500/20 2-1/2 mph* 60,000 gp of each hull section. Ironclad 120/5/60 1 mph* 50,000 gp",
+        "name":  "Section hp",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The number of rigging sections the Keelboat 16/3/12 1 mph* 3,000 gp ship possesses. Generally, each rigging section is equal to or 1 mph one mast. Launch 8/1/2 1-1/2 mph 500 gp",
+        "name":  "Rigging Sections",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The number of hit points and the hardness Longship 60/3/40 1-1/2 mph* 10,000 gp or 2 mph of each rigging section. Pinnace 15/3/8 3 mph* 4,500 gp",
+        "name":  "Rigging hp",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The damage dealt by the vehicle per 10 feet of or 1/2 mph speed it currently possesses if it rams another object. For Raft 8/1/2 1/2 mph 100 gp example, a ship with a base ram damage of 3d6 deals 3d6 Rowboat 4/1 1 mph 50 gp Theurgeme 40/1 3-1/2 mph 80,000 gp points of damage if moving at a speed of 10 feet, 6d6 at a Trireme 100/3/70 1-1/2 mph* 12,000 gp speed of 20 feet, 9d6 at a speed of 30 feet, and so on. or 2 mph",
+        "name":  "Ram",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The length and width of the area taken up by the ship. Complement: The first number in this entry is the ship’s",
+        "name":  "Space",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The height of the main deck above the water- complement, or the total number of Small or Medium line. Most large vessels will have deckhouses, forecastles, humanoids that can normally be carried on board as or sterncastles that are above this level. crew and passengers. The second number is the ship’s",
+        "name":  "Height",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The number of crewmembers necessary to make watch requirement, or the minimum number of people course changes, adjust for wind changes, and generally handle necessary to control the ship without penalty. The third the ship. Usually the watch consists of a helmsman, a lookout number, when present, indicates the number of rowers or two, and a small number of deckhands who can go aloft to required in addition to the normal watch; a ship doesn’t change the set of the sails as necessary. On an oar-powered need rowers to sail, but does need rowers to use its oared vessel, the watch includes the number of rowers necessary movement rate. for the ship to make use of its full oared speed. Speed: The ship’s sailing speed. Sailing vessels have",
+        "name":  "Watch",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Medium vehicle; Seawor- The dromond is a medium-sized galley that thiness –4; Shiphandling +0; Speed is fast, nimble, and eminently suitable for oars 10 ft. (good); Overall AC 5; Hull warfare. It has two masts and sails better hp 10 (hardness 2); Ram —; than it rows with any kind of favorable Mounts —; Space 5 ft. by 5 ft.; wind. It is fully decked, and the rowers Height 1 ft. (draft 2 ft.); Com- are covered from attack. The dromond plement 2; Watch 1; Cargo 100 usually has a small deckhouse pounds; Cost 5 gp. or fighting platform at the stern. The dromond is the Dhow most advanced galley design, The dhow is a moderately and not many seafaring folk sized sailing vessel with a have the expertise and skills single mast and a full deck. to build a dromond. It might have a small stern- The warship mentioned under castle or deckhouse at the Transport in Chapter 7 of the Player’s stern. Many dhows are made Handbook is a dromond. of sewed or stitched hulls—the Dromond: Colossal vehicle; Seawor- hull planks are sewed to one anoth- thiness +0; Shiphandling +2; Speed wind × er with sturdy cord. 20 ft., or oars 30 ft. (average); Overall AC –3; Hull",
+        "name":  "Coracle",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Colossal vehicle; then riveted or bolted onto Seaworthiness +4; Shiphandling +4; Speed its sides. Most ironclads are wind × 40 ft. (good); Overall AC –3; Hull built by seafaring dwarves sections 12 (sink 3 sections); Section hp who turn their remarkable 150 (hardness 6); Section AC 3; Rigging knack for metallurgy and en- Sections 2; Rigging hp 80 (hardness 0), AC gineering to the construction 1; Ram 4d6; Mounts 2 light and 1 heavy; Space of these warships. 60 ft. by 10 ft.; Height 10 ft. (draft 10 ft.); Comple- Ironclad: Colossal vehicle; Seaworthi- An elf wingship ment 30; Watch 5; Cargo 30 tons (Speed wind × ness –2; Shiphandling –4; Speed wind × 10 ft. 30 ft. if 15 tons or more); Cost 40,000 gp. or oars 10 ft. (poor); Overall AC –3; Hull sections 72 (sink 18 sections); Section hp 150 (hardness 10); Section AC 3; Galley Rigging Sections 1; Rigging hp 60 (hardness 0), AC 1; Also known as the quinquireme, or great galley, this is Ram 6d6; Mounts 8 light, 2 heavy, ram; Space 80 ft. by the largest oared vessel normally built. It is fully decked, 30 ft.; Height 15 ft. (draft 15 ft.); Complement 120; Watch with a complicated arrangement of oars in multiple banks. 5 plus 60 rowers; Cargo 20 tons; Cost 50,000 gp. Great galleys are usually warships, vessels whose primary purpose is service in a fleet. Junk",
+        "name":  "Elf Wingship",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Gargantuan vehicle; Seaworthiness –2; Ship- beaches that other vessels couldn’t manage. handling +2; Speed wind × 10 ft. or oars 10 ft. (good); Overall Longship: Colossal vehicle; Seaworthiness +2; Ship- AC 1; Hull sections 3 (sink 1 section); Section hp 50 (hard- handling +0; Speed wind × 15 ft., or oars 20 ft. (average); ness 5); Section AC 3; Rigging Sections 1; Rigging hp 60 Overall AC –3; Hull sections 14 (sink 3 sections); Sec- (hardness 0), AC 1; Ram 3d6; Mounts 1 light; Space 30 ft. tion hp 50 (hardness 5); Section AC 3; Rigging Sections by 10 ft.; Height 5 ft. (draft 5 ft.); Complement 16; Watch 1; Rigging hp 60 (hardness 0), AC 1; Ram 4d6; Mounts 2 plus 8 rowers; Cargo 20 tons (Speed wind × 5 ft. or oars 2 light; Space 70 ft. by 20 ft.; Height 5 ft. (draft 5 ft.); 5 ft. if 10 tons or more); Cost 3,000 gp. Complement 60; Watch 3 plus 40 rowers; Cargo 40 tons (Speed wind × 10 ft. or oars 15 ft. if 20 tons or more); Launch Cost 10,000 gp. Also known as a whaleboat, the launch is a large, open dinghy with a stout, round-bottomed hull that can stand Pinnace up to surprisingly rough seas. Launches are often carried The pinnace is a small, two-masted sailing vessel. It’s sturdy by larger ships for use in landing in places where the larger enough to undertake long open-water voyages and handy ship can’t go. enough to use close to shore. A pinnace is fully decked, A launch is too small to have different hull sections, but its sterncastle is hardly worthy of the name; it’s little and therefore only has an overall AC and a single hp total more than a cramped cabin. for the hull. Pinnace: Gargantuan vehicle; Seaworthiness +2; Ship-",
+        "name":  "Keelboat",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Huge vehicle; Seaworthiness –4; Shiphandling +0; (hardness 6); Section AC 3; Ram 4d6; Mounts 4 light, 2 Speed oars 5 ft. (poor); Overall AC 3; Hull hp 30 (hardness heavy, ram; Space 70 ft. by 20 ft.; Height 10 ft. (draft 10 ft.); 5); Ram 2d6; Mounts —; Space 15 ft. by 10 ft.; Height 2-1/2 ft. Complement 40; Watch 1; Cargo 100 tons (Speed oars 20 ft. (draft 2-1/2 ft.); Complement 8; Watch 1 plus 2 rowers; Cargo if 50 tons or more); Cost 80,000 gp. 2 tons (Speed oars 5 ft. if 1 ton or more); Cost 100 gp. Trireme Rowboat The average galley is a single-masted bireme or trireme. Also called a skiff, punt, or pirogue, this is a flat-bottomed While it is quick and nimble in fair weather, it is not boat for use in calm waters. very seaworthy and liable to founder in high seas or bad",
+        "name":  "Raft",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Nothing like gunpowder works in the campaign, Gunpowder: Gunpowder is commonplace and inexpensive. so bombards (and other firearms) do not exist. Bombards and other firearms are fairly common, and the",
+        "name":  "Unavailable",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Inhabitants of rainy climates and misty for Small characters. seacoasts, and those who make their living from the sea,",
+        "name":  "Oilskin Suit",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Blibdoolpoolp, Sekolah, Yeathan suck in and batter foes.",
+        "name":  "Deities",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Aventernus, Deep Sashelas, Ishtishia, Umber- damage to all within 20-ft. radius, pushes targets back, lee, Valkur, Whale Mother sinks ships.",
+        "name":  "Deities",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Aventernus, Eadro, Whale Mother Quickswim: Your swim speed increases by 10 ft.",
+        "name":  "Deities",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Your swim speed increases by 10 ft. Depthsurge: Water slam deals 2d6 + caster level damage",
+        "name":  "Quickswim",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Target gains +4 on Swim and is less hindered to all within 20-ft. radius, pushes targets back, sinks by bog terrain. ships.",
+        "name":  "Webfoot",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Transforms tails, tentacles, or finned Red Tide: Creates a surge of tainted water that sickens, extremities into humanoid legs and feet. weakens, and nauseates.",
+        "name":  "Fins to Feet",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject gains a bite attack.",
+        "name":  "Jaws of the Moray",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject breathes air as easily as water.",
+        "name":  "Air Breathing",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Changes current direction and without fatigue. speed. Urchin’s Spines: Target grows spines that damage",
+        "name":  "Control Currents",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Turns blood to seawater, dealing 1d6/level opponents. damage. Webfoot: Target gains +4 on Swim and is less hindered",
+        "name":  "Thalassemia",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Create blackwater tentacle that Tojanida Sight: Gain all-around vision. attacks your foe.",
+        "name":  "Blackwater Tentacle",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Water surrounding you becomes Trans Airy Water: Turn normal water into a breathable cloudy, granting concealment. substance; negate underwater movement and",
+        "name":  "Turbidity",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Water pressure deals 4d6 damage melee attack penalties. to submerged targets. Transformation of the Deeps: Grant water",
+        "name":  "Evoc Pressure Sphere",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject loses buoyancy. within a 40-ft. radius.",
+        "name":  "Sink",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Detect and identify ships. Conj Mordenkainen’s Capable Caravel: Creates magi-",
+        "name":  "Div Detect Ship",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject breathes air as easily as levels from a storm. water. Evoc Depthsurge: Water slam deals 2d6 + caster level",
+        "name":  "Trans Air Breathing",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Seafolk 6, sorcerer/wizard 5 tures walking on the bottom do not",
+        "name":  "Level",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "S, M pay any movement penalty for walk- Transmutation [Air] Casting Time: 1 standard action ing on sand, stone, or pebble seafloor",
+        "name":  "AIR BREATHING Components",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cleric 3, druid 3, sorcerer/ Range: 0 ft. and only pay 2 squares of movement wizard 3 Area: 20-ft.-radius emanation per square of muck or mud entered",
+        "name":  "Level",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "S, M/DF centered on you (see Marine Dungeon Terrain on",
+        "name":  "Components",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Duration: 10 min./level (D) page 21).",
+        "name":  "Casting Time",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch Saving Throw: None Finally, airy water negates under-",
+        "name":  "Range",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 hours/level attacks, although ranged attacks",
+        "name":  "Duration",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Range: Close (25 ft. + 5 ft./2 levels) Area: 20-ft./level radius emanation",
+        "name":  "Casting Time",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Medium (100 ft. + 10 ft./level) Effect: One tentacle centered on you",
+        "name":  "Range",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20-ft. radius Duration: 1 round/level (D) Duration: 10 min./level",
+        "name":  "Area",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round/level (D) Saving Throw: Fortitude partial Saving Throw: None",
+        "name":  "Duration",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bone or scale is destroyed. DARK TIDE of a fish that dwells in the deep, sun- Material Component: Powdered squid Necromancy [Evil, Water] less parts of the ocean. beak and a single dried sucker from Level: Blackwater 7 a kraken’s tentacle. Components: V, S, DF",
+        "name":  "Material Component",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 full round",
+        "name":  "BLACKWATER Casting Time",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Long (400 ft. + 40 ft./level) Conjuration (Creation) [Evil, Water] Transmutation [Water] Area: One-half mile radius spread",
+        "name":  "TENTACLE CONTROL CURRENTS Range",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Blackwater 5, druid 5, Level: Druid 4 Duration: 1 hour/level (D) sorcerer/wizard 5 Components: V, S Saving Throw: Fortitude half",
+        "name":  "Level",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 8, Seafolk 8, sorcerer/ ascertained depends on whether the it appear as a ship of another type of wizard 8 ships in question are within sight or your choice. You can choose what",
+        "name":  "Level",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M not yet visible. it appears as down to small details",
+        "name":  "Components",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Long (400 ft. + 40 ft./level) ence of ships other than your own in what flags it is flying. You can make",
+        "name":  "Range",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 ft. radius the area. A DC 15 Profession (sailor) the ship to be any other water-going",
+        "name":  "Area",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous check allows you to determine the vessel, though it cannot seem to be",
+        "name":  "Duration",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fortitude partial number, direction, and range to each more than 50% smaller or larger.",
+        "name":  "Saving Throw",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None FAVORABLE WIND can easily propel a sailing vessel",
+        "name":  "Saving Throw",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 3, sorcerer/wizard 3 directing the wind forward to fill",
+        "name":  "Level",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Seafolk 2, druid 2, sorcerer/ another subject in contacted with wizard 2 the water and make a new scrying Size Damage Fine 1d2",
+        "name":  "Level",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S attempt each round. Diminutive 1d3",
+        "name":  "Components",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Arcane Material Component: A piece Tiny 1d4",
+        "name":  "Casting Time",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch of limestone. Small 1d6",
+        "name":  "Range",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 hour/level JAWS OF THE MORAY Large 2d6 Huge 2d8",
+        "name":  "Duration",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fortitude negates Transmutation Gargantuan 4d6 (harmless) Level: Druid 2, sorcerer/wizard 2 Colossal 4d8",
+        "name":  "Saving Throw",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action JIG OF THE WAVES",
+        "name":  "Casting Time",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch bite attack when used as a secondary point of origin are affected first. Hit",
+        "name":  "Range",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "60-ft. radius natural attack. Dice that are not sufficient to affect",
+        "name":  "Area",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates; see text attack, it attaches itself to the foe and Those who are dancing receive",
+        "name":  "Saving Throw",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 1, ranger 1, sorcerer/ each round. They remain trapped In the Form of the Killer, you wizard 2 for 2d4 rounds. Subjects of Large swell in size, increasing by one size",
+        "name":  "Level",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action bottom of the vortex. Huge, Gargan- Manual for guidelines on changes to",
+        "name":  "Casting Time",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch tuan, or Colossal subjects are ejected abilities and traits for such a change).",
+        "name":  "Range",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 hour/level benefits of the Form of the Hunter,",
+        "name":  "Duration",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates MEGALODON and the rough hide of the megalodon (harmless) EMPOWERMENT fully manifests—those who strike",
+        "name":  "Saving Throw",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Blackwater 8, Ocean 8 a predator without peer, capable of to that gained from the size increase),",
+        "name":  "Level",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, DF finding and destroying your prey. and you gain a +3 competence bonus",
+        "name":  "Components",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round/level lar. Your skin darkens to a blue-black ity, you can assume the shapes of",
+        "name":  "Duration",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Reflex negates hue and becomes slightly rough animals one size category larger",
+        "name":  "Saving Throw",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sorcerer/wizard 8 except that they are visible and can must make a Reflex save. Those who",
+        "name":  "Level",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, F go anywhere within the extradimen- fail take 8d6 points of damage and",
+        "name":  "Components",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10 minutes sional space. are buried (see Avalanches on page",
+        "name":  "Casting Time",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels) Since the place can be entered only 90 of the Dungeon Master’s Guide).",
+        "name":  "Range",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 day/2 levels (D) to the plane beyond. Bad weather aflame (such as salamanders, azers,",
+        "name":  "Duration",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None or other marine hazards can still and fire elementals) instead take 8d8",
+        "name":  "Saving Throw",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M/DF Evocation [Water] Casting Time: 1 standard action RED TIDE",
+        "name":  "PRESSURE SPHERE Components",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Blackwater 2, druid 2, Range: Personal Evocation [Water] sorcerer/wizard 2 Target: You Level: Druid 8",
+        "name":  "Level",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S Duration: 1 hour/level (D) Components: V, S, DF",
+        "name":  "Components",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Casting Time: 1 standard action",
+        "name":  "Casting Time",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20-ft.-radius spread speed by 10 feet; this adjustment Area: Burst in the shape of a circular",
+        "name":  "Area",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous counts as an enhancement bonus. It disk, 10 ft. wide/level, 5 ft. high",
+        "name":  "Duration",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fortitude half has no effect on other modes of move- Duration: Instantaneous",
+        "name":  "Saving Throw",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M bonus +1/three caster levels, maxi- Casting Time: 1 action",
+        "name":  "Components",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action mum of +5. However, because of your Range: Close (25 ft. + 5 ft./2 levels)",
+        "name":  "Casting Time",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round/level (D) Material Component: Handful of Saving Throw: Will negates",
+        "name":  "Duration",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Paladin 2 Level: Druid 6, sorcerer/wizard 6 Level: Druid 2, sorcerer/wizard 2",
+        "name":  "Level",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, DF Components: V, S, DF Components: V, S, M",
+        "name":  "Components",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Casting Time: 1 full round Casting Time: 1 round",
+        "name":  "Casting Time",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch Range: Touch Range: Medium (100 ft. + 10 ft./level)",
+        "name":  "Range",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None Duration: Instantaneous Saving Throw: None",
+        "name":  "Saving Throw",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "S, M",
+        "name":  "Transmutation TOJANIDA SIGHT Components",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 2, ranger 1, sorcerer/ Divination Casting Time: 1 standard action wizard 2 Level: Druid 2, ranger 2 Range: 0 ft.",
+        "name":  "Level",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M/DF Components: S Area: 20-ft.-radius spread centered",
+        "name":  "Components",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Casting Time: 1 standard action on you",
+        "name":  "Casting Time",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch Range: Personal Duration: 1 min./level",
+        "name":  "Range",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates (harmless) You gain all-around vision, allow- You cause the water surrounding",
+        "name":  "Saving Throw",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A handful",
+        "name":  "Necromancy Material Component",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M/DF weather since the trail was made +1 1 round/caster level.",
+        "name":  "Components",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Trail leads through vigorous +2 The acid dissolves metallic objects currents",
+        "name":  "Casting Time",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch it contacts. It deals 1d6 points of Trail leads through dangerous +5",
+        "name":  "Range",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates; Poor visibility (apply only the makes a Fortitude saving throw each largest): see text (harmless) round for half damage. Moonlight +3",
+        "name":  "Saving Throw",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 4, ranger 3 Components: V, S, M that looks exactly like a tornado",
+        "name":  "Level",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M Casting Time: 1 standard action made of water. A body of water at",
+        "name":  "Components",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Range: Medium (100 ft. + 10. ft./level) least 10 feet wide and 20 feet deep",
+        "name":  "Casting Time",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "One ship Duration: Instantaneous wasted. If the waterspout encoun-",
+        "name":  "Target",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "24 hours Saving Throw: None ters insufficient depth after it has",
+        "name":  "Duration",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates Components: V, S, XP spout if they are Medium or smaller. (harmless) Casting Time: 10 minutes",
+        "name":  "Reflex saves or be sucked into the Saving Throw",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sorcerer/wizard 1",
+        "name":  "Level",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V",
+        "name":  "Components",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 immediate action",
+        "name":  "Casting Time",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Medium (100 ft. + 10 ft./level)",
+        "name":  "Range",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10 min./level",
+        "name":  "Duration",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "Saving Throw",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4,000 XP. area (whether or not they are in the Transmutation [Water] water) are sickened while they remain",
+        "name":  "RIVER DRAGON XP Cost",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, XP Transmutation [Evil] bloody water does not diffuse into",
+        "name":  "Components",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 rounds Range: 300 ft. where you designate within the",
+        "name":  "Duration",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You ing those who try to telepathically",
+        "name":  "Target",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Seer 6 Manifesting Time: 1 standard action",
+        "name":  "HELMSMAN Level",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Auditory Range: Personal",
+        "name":  "Clairsentience Display",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Seer 2 Manifesting Time: 1 standard action Target: You",
+        "name":  "Level",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Auditory Range: Personal Duration: 1 hour/level (D)",
+        "name":  "Display",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Target: You Power Points: 5",
+        "name":  "Manifesting Time",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Personal Duration: 1 hour/level (D)",
+        "name":  "Range",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You Power Points: 11 With the smell of the sea and the sound",
+        "name":  "Target",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 hour/level (D) of rushing waves, your body adapts",
+        "name":  "Duration",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Listen +10, Spot +9, Swim +12; Alertness, construct of the same size as the object Iron Will. (see Animated Object on page 13 of the",
+        "name":  "Skills and Feats",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperate aquatic statistics and abilities except as noted here.",
+        "name":  "Environment",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Double standard Size is unchanged.",
+        "name":  "Treasure",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "3d8+6 (28 hp)",
+        "name":  "Hit Dice",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+6",
+        "name":  "Combat Initiative",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "An amphibious medusa has a +8 racial bonus on Special Qualities: Darkvision 90 ft. , landwalking, light any Swim check to perform some special action or avoid a blindness, speak with eels, vulnerability to fire hazard. It can always choose to take 10 on a Swim check, Saves: Fort +5, Ref +3, Will +3 even if distracted or endangered. It can use the run action Abilities: Str 15, Dex 14, Con 15, Int 10, Wis 14, Cha 6 while swimming, provided it swims in a straight line. Skills: Hide +10 (+14 in coral, rock, or kelp), Listen +2, Spot +10, Survival +6, Swim +10",
+        "name":  "Skills",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Improved Initiative, Multiattack",
+        "name":  "CREATING AN Feats",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2",
+        "name":  "Challenge Rating",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard",
+        "name":  "Treasure",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually lawful evil",
+        "name":  "Alignment",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "By character class",
+        "name":  "Advancement",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1d8+1 (5 hp)",
+        "name":  "Hit Dice",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+0",
+        "name":  "Initiative",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. (6 squares), swim 30 ft.",
+        "name":  "Speed",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Spear +3 melee (1d8+1)",
+        "name":  "Attack",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Spear +3 melee (1d8+1) Space/Reach: 5 ft./5 ft.",
+        "name":  "Full Attack",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "—",
+        "name":  "Special Attacks",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Aventi traits",
+        "name":  "Special Qualities",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +3, Ref +0, Will –1",
+        "name":  "Saves",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8",
+        "name":  "Abilities",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Handle Animal +2, Intimidate +2, Swim +9",
+        "name":  "Skills",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperate aquatic",
+        "name":  "Environment",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Squad (2–4), company (11–20 plus 2 3rd-level sergeants and 1 leader of 4th–6th level), or band (30–100 plus 20% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 Aventi 7th-level captains)",
+        "name":  "Organization",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1/2 sergeant per 10 adults, 5 5th-level lieutenants, and 3",
+        "name":  "Challenge Rating",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard 7th-level captains)",
+        "name":  "Treasure",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Often lawful good Challenge Rating: 3",
+        "name":  "Alignment",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "By character class Treasure: Standard",
+        "name":  "Advancement",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+0 Alignment: Often lawful good",
+        "name":  "Level Adjustment",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "By character class",
+        "name":  "Advancement",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+0 3rd-Level Aventi Fighter Medium Humanoid (Human, Aquatic) The being before you seems human at fi rst glance, but his hair has a slight greenish tinge, and his forearms and calves have",
+        "name":  "AVENTI SERGEANT Level Adjustment",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1 and carries a spear.",
+        "name":  "Initiative",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. (6 squares), swim 30 ft.",
+        "name":  "Speed",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Masterwork halberd +7 melee (1d10+3/×3) who sought to preserve his people in the face of a terrible",
+        "name":  "Attack",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Masterwork halberd +7 melee (1d10+3/×3) cataclysm. They live in kingdoms ruled by paladin-kings Space/Reach: 5 ft./5 ft. of their god and protected by elite fi ghters and paladins,",
+        "name":  "Full Attack",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— including the Order of the Pearl, knights clad in shim-",
+        "name":  "Special Attacks",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Aventi traits mering pearlsteel.",
+        "name":  "Special Qualities",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +5, Ref +2, Will +2 Aventi are of human height and proportions, with",
+        "name":  "Saves",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 15, Dex 13, Con 14, Int 10, Wis 8, Cha 12 human features (excepting their hair color, which tends",
+        "name":  "Abilities",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Handle Animal +7, Intimidate +5, Swim +12 toward green or bluish tints). They have folding spurs or",
+        "name":  "Skills",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperate aquatic An aventi can easily pass for human by covering his legs",
+        "name":  "Environment",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+3",
+        "name":  "Initiative",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Swim 40 ft. (8 squares)",
+        "name":  "COMBAT Speed",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Blood rage, poison ability scores before racial adjustments: Str 13, Dex 11, Con Special Qualities: Blood tracker, darkvision 60 ft., 12, Int 10, Wis, 9, Cha 8. The aventi sergeant presented here damage reduction 5/slashing, scent, undead traits had the following ability scores before racial adjustment: Saves: Fort +1, Ref +4, Will +5 Str 15, Dex 13, Con 14, Int 10, Wis 8, Cha 12. Abilities: Str 20, Dex 17, Con —, Int 12, Wis 12, Cha 16",
+        "name":  "The aventi warrior presented here had the following Special Attacks",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Damage reduction 5/—, darkvision whose blood it has scented, so long as it and its prey are 60 ft., elemental traits, siren’s call, summon watery ally in the same ocean. Saves: Fort +16, Ref +2, Will +4",
+        "name":  "A blackskate is capable of inexorably tracking anyone Special Qualities",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 26, Dex 9, Con 30, Int 15, Wis 12, Cha 14",
+        "name":  "Abilities",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Concentration +22, Listen +13, Spot +13, Swim +28",
+        "name":  "COMBAT Skills",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "*When it is lying still along the seafloor, a itself, so that it can consume them. It often lures sailors blackskate gains a +4 racial bonus on Hide checks. A blackskate has a +8 racial bonus to any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line. CALLER FROM THE DEEPS Huge Elemental (Water)",
+        "name":  "Skills",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "9d8+90 (130 hp)",
+        "name":  "Hit Dice",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "–1",
+        "name":  "Initiative",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Swim 50 ft. (10 squares)",
+        "name":  "Speed",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Tentacle +13 melee (2d6+8)",
+        "name":  "Attack",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 tentacles +13 melee (2d6+8) Space/Reach: 15 ft./15 ft.",
+        "name":  "Full Attack",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A caller from the deeps has a +8 racial bonus on Advancement: 2 HD (Small) any Swim check to perform some special action or avoid a Level Adjustment: — hazard. It can always choose to take 10 on a swim check, even if distracted or endangered. It can use the run action MEDIUM MONSTROUS CRAB while swimming, provided it swims in a straight line. Medium Vermin (Aquatic)",
+        "name":  "Skills",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "3d8+6 (19 hp)",
+        "name":  "Hit Dice",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+0 CRAB, MONSTROUS",
+        "name":  "Initiative",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 claws +4 melee (1d6+2) Special Qualities: Amphibious, low-light vision, scent Space/Reach: 5 ft./5 ft. Saves: Fort +10, Ref +4, Will +4",
+        "name":  "Full Attack",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Constrict 2d6+2, improved grab Abilities: Str 25, Dex 11, Con 14, Int —, Wis 11, Cha 2",
+        "name":  "Special Attacks",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    }
+]

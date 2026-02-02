@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "monsters.json",
+        "description":  "To charge, a creature moves with the Conceal special ability, at double speed directly toward the such as a displacer beast, is as much nearest enemy it can see at the a question of raw luck as skill. start of its turn. If nothing slows it When another creature gets an attack down and it moves at least 2 squares, that creature can result against such a creature that would make a single melee attack against that enemy with a +2 bonus be a hit, the attacker must roll 1d20 again. on its attack roll. The charging creature must move to the near- If the result of the second roll equals or est unoccupied space from which it can attack the nearest exceeds the creature’s Conceal rating, enemy. If any line traced between the creature’s starting space the attack hits; otherwise, it is an auto- and ending space passes through a square that slows or prevents matic miss. Even a natural 20 on movement, or contains a creature (even an ally), the charge is the attack roll is a miss if the not allowed. attacker’s roll against the de-",
+        "name":  "Charge",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A bard’s song can interfere with enemy com- Sneak Attack ability. This ability does not affect creatures that are manders’ ability to get the best from their troops. immune to sneak attacks. Creatures within 6 squares of a creature with this ability can- Death Burst (ENERGY [#]; DC [#]):When a creature with not benefit from or suffer from enemy commanders’ Comman- this special ability is destroyed by damage, all adjacent creatures der Effects. The Commander Effects of enemy commanders take the given amount of the indicated type of damage. A suc- within 6 squares of this creature do not function. cessful save reduces the damage to half.",
+        "name":  "Countersong",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A single entity represented by a single miniature. tion lose those points.",
+        "name":  "Creature",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A hit that strikes a vital area and deals double (Difficult 5) can be put under command only by a commander damage. Critical hits occur when the attacker rolls a natural 20 whose Commander rating is 5 or higher. on the attack roll. Certain creature types are immune to critical Unlike normal creatures, an out of command creature with the hits; a roll of natural 20 is still an automatic hit, but it deals only Difficult special ability must rush the nearest enemy creature it normal damage. can see if it can reach that enemy during its turn. If the nearest",
+        "name":  "Critical Hit",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A type of creature. your control in most ways. For as long as you control the creature, Fire:(Damage Keyword) A type of energy. it counts as eliminated for victory points—even if it is still on the Flanking/Flanked:A creature is flanked if it is in a square battle grid. If it is destroyed while under your control, you keep threatened by enemies on opposite sides or corners. If an imagi- the victory points for eliminating it. nary line between two attacking creatures’ centers passes",
+        "name":  "Treat a dominated creature as part of your army and under Fey",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A creature type. Dragons come in all sizes, from the normally slow movement, such as difficult terrain or statues. It little crested felldrake to the mighty true dragons. must still fly around walls (which extend to the ceiling of the",
+        "name":  "Dragon",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Immune Paral- dungeon). It can move over a pit but cannot end its movement on ysis, Sleep. one. A flying creature is immune to Entangle effects.",
+        "name":  "All Dragons have the following special ability",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "(Damage Keyword) A type of energy. The creature can move and even charge through squares that",
+        "name":  "Electricity",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A type of creature. The fury of fire and the other creatures occupy (though it cannot end its movement in a resilience of stone have their uses on the battlefield. space occupied by another creature or in an illegal position). It",
+        "name":  "Elemental",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Higher-level bards can use their successful (no roll needed) and deals double damage. Ranged songs to thwart enemy commanders. attacks deal normal damage and still need an attack roll to hit, but A creature with this ability is considered to have the Counter- the attacker gets a +4 bonus on the roll. song ability (see above). In addition,enemy creatures within 6 Other creatures can move through a helpless creature’s space squares of this creature cannot be put under command by other but cannot end their movement there. creatures. Enemy commanders within 6 squares of this creature",
+        "name":  "Any melee attack against a helpless creature is automatically Improved Countersong",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A type of creature. There are many subtypes of has Immune Inhibit. humanoids, including Elf, Halfling, Human, and Orc. Incorporeal:The wraith floats through walls to ambush its",
+        "name":  "Humanoid",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A Large creature has a 40 mm base and occupies a space sight to that target even if you could draw an unblocked line 2 squares wide and 2 squares long. between its space and the target’s.",
+        "name":  "Large",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "An active creature can always take its entire turn to move 1 square in any direction, even diagonally, regard- less of difficult terrain or narrow spaces. (This rule doesn’t allow a creature to move through impassable terrain or to move when all movement is prohibited, such as while paralyzed.) Minions ([#] CREATURES):If you add a creature that has minions to your warband, you also get the indicated number of creatures at no additional cost. These minions do not add to your warband’s cost, nor do they score victory points for the opponent who eliminates them. Minions do not count against the twelve creature limit for your warband; a warband can contain twelve creatures plus minions.",
+        "name":  "Minimum Move",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A creature with this special ability gains a +4 bonus to its AC against attacks of opportunity. 122",
+        "name":  "Mobility",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A type of creature. :5 RETPAHC HSIMRIKS SELUR 620_96582_MinisHndbk.qxd 8/19/03 11:49 AM Page 122 LLiinnee AA lliinnee aaffffeeccttss ccrreeaattuurreess iinn aa ssttrraaiigghhtt lliinnee aawwaayy ffrroomm tthhee ccaasstteerr ttoowwaarrdd tthhee nneeaarreesstt eenneemmyy.. TTrraaccee aann iimmaaggiinnaarryy lliinnee ffrroomm aa ccoorrnneerr ooff aa ssqquuaarree iinn tthhee aattttaacckkiinngg ccrreeaattuurree’’ss ssppaaccee ttoo aa ccoorrnneerr ooff aa ssqquuaarree iinn tthhee ttaarrggeett ccrreeaattuurree’’ss ssppaaccee.. TThhee lliinnee aaffffeeccttss aallll OOrrcc WWaarrrriioorr ssqquuaarreess tthhaatt tthhee lliinnee ggooeess tthhrroouugghh oorr ttoouucchheess.. TThhee lliinnee ccoonnttiinnuueess ttoo iittss ffuullll rraannggee,, uussuuaallllyy ggooiinngg ppaasstt tthhee ttaarrggeett aanndd OOrrcc ppoossssiibbllyy aaffffeeccttiinngg BBeerrsseerrkkeerr ttaarrggeett ccoorrnneerr mmoorree ccrreeaattuurreess.. AA lliinnee ddooeess nnoott aaffffeecctt ccrreeaattuurreess mmoorree tthhaann 1122 ssqquuaarreess aawwaayy.. EEllff PPyyrroommaanncceerr wwiitthh wwaanndd ooff lliigghhttnniinngg bboolltt",
+        "name":  "Monstrous Humanoid",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The nearest enemy to a affected by anything in play, but it counts as elim- specific creature is the nearest enemy that it inated and scores victory points normally until it can see. Another enemy that is closer, but out returns to play. A creature that has phased out still of line of sight, does not qualify as the nearest. takes a turn as normal (which can be important if it When rushing or charging, count the dis- is capable of returning to play). tance to the enemy taking into account any Plant: A type of creature.All Plant creatures have movement costs for terrain and any special the following special ability: Immune Confusion, Critical movement mode of the moving creature, Hits, Dominate, Incite, Paralysis, Poison, Sleep, Sneak such as Flight or Burrow. By contrast, Attack, Stun. ranged attacks and effects ignore terrain Poison (EFFECT; DC [#]):When a creature is hit by an that does not block line of sight and line attack or subject to an effect that includes the word “Poison,” of effect. (Thus, the nearest enemy when that creature must make a save against the indicated DC or charging or rushing might not be the same be poisoned and subject to the indicated effect. Poison as the nearest enemy for a ranged attack.) If effects can include immediate damage (a successful save two or more enemies are at the same dis- results in half damage), Paralysis, or even death. tance, the acting creature can choose any of However, most Poison effects state “5 damage whenever them as the nearest. poisoned creature activates.” Until the end of the skirmish,",
+        "name":  "Nearest Enemy",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "(Damage Keyword) A type of dam- at the start of the poisoned creature’s turn and before it age. Negative damage is unaffected by damage takes any actions, it takes 5 points of damage immediately. reduction. Negative damage removes damage Identically worded Poison effects do not stack. from Undead creatures and has no effect on Positive:(Damage Keyword) A type of damage. Construct creatures. Positive damage is unaffected by damage reduc-",
+        "name":  "Negative",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Constructs and Undead crea- tion. Heal effects are considered to deal positive tures are nonliving creatures. damage to Undead creatures. Positive damage has no effect on",
+        "name":  "Nonliving",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A creature with this abil- Construct creatures. ity cannot benefit from the Commander Effects of commanders in Powerful Charge +[#]:A creature with this special ability deals its warband. It also ignores Commander Effects of enemy com- the indicated amount of extra melee damage when it charges. manders that affect only enemies, such as that of the Mind Flayer. Precise Shot: A creature with this special ability can make",
+        "name":  "Not Subject to Commander Effects",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A creature pushed away from another creature must always damage for as long as it remains on that square. Sacred circles move into a square that is farther from the pushing creature. have no effect on movement.",
+        "name":  "Push",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One of the two attack types (see also Melee Save +[#]:Add the indicated bonus to all this creature’s saves. Attack, above). A creature can’t make a ranged attack if it is in a Scout:Instead of placing a creature with this special ability on square threatened by an enemy. your assembly tile at the start of the battle, place it on a feature Ranged Sneak Attack +[#]:This works just like Sneak Attack tile of your choice that does not already have a creature on it. If (see that entry, below), but the creature must be making a ranged this creature enters the battle grid after the first turn, it enters attack within 6 squares of the target, and the defender must be like any other creature. either stunned, helpless, or unable to see the creature. Shot on the Run:A creature with this ability can move, make",
+        "name":  "Ranged Attack",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "An out of command creature can rush toward the enemy creature. nearest enemy it can see if it can reach that enemy during its Sneak Attack +[#]:A creature with this special ability gains turn. It moves up to double its normal speed toward that the indicated bonus on its melee damage rolls under certain con- enemy and can take any path, so long as it ends its movement ditions: The creature must be flanking the defender, or the adjacent to that enemy. (It can even charge if it’s able to meet defender must be stunned, helpless, or unable to see the creature. 124 the conditions.) Sonic:(Damage Keyword) A type of energy. :5 RETPAHC HSIMRIKS SELUR 620_96582_MinisHndbk.qxd 8/19/03 11:49 AM Page 124 125 RULES Illus. by D. Hanley SKIRMISH CHAPTER 5: 620_96582_MinisHndbk.qxd 8/19/03 11:50 AM Page 125",
+        "name":  "Rush",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The square or squares that a creature occupies. melee damage +10 from two castings of bull’s strength.",
+        "name":  "Space",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A creature with this special ability can move, the appropriate miniature or miniatures.) A summoned crea- make a melee attack, and then move again, as long as the distance ture does not activate on the round it appears, but afterward it it moves during its turn doesn’t exceed its speed. The creature activates as a normal member of the warband. A summoned gains no special protection from attacks of opportunity caused by creature does not add to a warband’s cost, nor does it score vic- its movement. tory points for the opponent who eliminates it. Summoned creatures do not count against the twelve creature limit for your squares an additional bonus on its morale save equal to the given warband; a warband can contain twelve creatures plus sum- number. However, if the save fails, that creature is destroyed moned creatures. Commanders cannot be summoned. instead of routing. The opponent whose creature triggered the A summoned creature is immediately eliminated if the crea- morale save or originally caused the creature to rout receives vic- ture that summoned it is eliminated. Ignore any Requires CREA- tory points for eliminating the creature. TURE special ability of the summoned creature. Uncanny Dodge:When a creature with this special ability is",
+        "name":  "Spring Attack",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Immune Flanking, include creature type, faction, and cost. Sneak Attack.",
+        "name":  "Common restrictions on the type of creature to be summoned active, it has the following special ability",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "If two or more players tie on a die roll, the with Vulnerable Fire that takes 5 points of fire damage takes player with the highest bonus on the die roll wins. If two or more no further damage. If that creature instead takes 15 points of players are tied for the highest bonus, the tied players reroll. fire damage, it takes an extra 5 points, for a total of 20 points",
+        "name":  "Tied Die Rolls",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This formed unit of Medium creatures is on the standard 5-inch tray. It has four ranks, so the unit takes up a space 5 inches wide and 4 inches deep.",
+        "name":  "Formed Unit",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This unformed unit of Medium creatures is also on the standard 5-inch tray. Its space is 5 inches wide and 3 inches deep. Unformed units have no facing.",
+        "name":  "Unformed Unit",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Large and Small creatures also use the standard 5-inch tray, fitting fewer or more creatures into a unit, respectively. edis side 620_96582_MinisHndbk.qxd 8/19/03 12:07 PM Page 131 LLeeggaall aanndd IIlllleeggaall UUnniittss LLeeggaall UUnniittss IIlllleeggaall UUnniittss FFoorrmmeedd uunniitt wwiitthh ffiivvee FFoorrmmeedd uunniitt wwiitthh MMeeddiiuumm ccrreeaattuurreess iinn ffoouurr MMeeddiiuumm iittss ffrroonntt rraannkk.. ccrreeaattuurreess iinn iittss ffrroonntt rraannkk.. UUnnffoorrmmeedd uunniitt wwiitthh UUnnffoorrmmeedd uunniitt wwiitthh ccrreeaattuurreess aalliiggnneedd ccrreeaattuurreess nnoott aalliiggnneedd aaggaaiinnsstt aa lleeaaddiinngg eeddggee.. aaggaaiinnsstt aa lleeaaddiinngg eeddggee.. UUnnffoorrmmeedd uunniitt wwiitthh ttwwoo UUnnffoorrmmeedd uunniitt wwiitthh ccrreeaattuurreess aass nneeaarr aass ttwwoo ccrreeaattuurreess nnoott aass ppoossssiibbllee ttoo eeaacchh ootthheerr.. nneeaarr aass ppoossssiibbllee ttoo eeaacchh ootthheerr.. no facing rear",
+        "name":  "Creature Size",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This formed unit of Medium creatures is on the standard 5-inch tray. It has four ranks, so the unit takes up a space 5 inches wide and 4 inches deep.",
+        "name":  "Formed Unit",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This unformed unit of Medium creatures is also on the standard 5-inch tray. Its space is 5 inches wide and 3 inches deep. Unformed units have no facing.",
+        "name":  "Unformed Unit",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Formed units aren’t legal. Unformed units are Smaller Armies: Since your units usually have fewer creatures in called squads. (The battle plays faster if units don’t have facing.) them, squad-level battles work better with a lower point cost. Try 300",
+        "name":  "No Formed Units",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "If the unit isn’t routing and engages one or more enemy units, it must make all melee attacks it’s allowed against those units. It also must shift as much as it is able (up to 1 inch) to be in contact with the maximum number of enemy creatures. (See Movement, below, for detailed rules on shifting.)",
+        "name":  "Attack",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "If the unit isn’t routing and can’t attack an enemy unit from its current location, it must stand. However, a standing unit can adjust its position slightly. A formed unit may move forward up to 1 inch, pivot freely, or move backward up to 1/2 inch. An unformed unit may move up to 1 inch in any direction. A stand- ing unit may not attack, even if this movement puts it in a loca- tion where normally it could attack. Commanders and Actions Commanders never require command points, not even their own, to act. They are never forced to take compulsory actions. MOVEMENT Armies can’t clash until they move close enough to each other to unleash their attacks. A unit can move and then attack, attack and then move, or move at double speed if it takes no other actions (or if it charges). All intended moves can be premeasured. You don’t have to esti- mate distances before deciding what actions to take. FORMED UNIT MOVEMENT A formed unit moves straight ahead unless it takes a special move option: drift, pivot, or back up. UNFORMED UNIT MOVEMENT Unformed units have no facing and so can move in any direction. Drift Thus, they do not need to drift or back up as a special maneuver. Any time a formed unit moves straight ahead more than its speed (such as by making a double move or a charge), it can Pivot drift, ending its move up to 1 inch to the left or right of the An unformed unit can pivot around any point. Determine the path. Drift does not count against the unit’s movement capacity. distance moved by measuring the line traced by the corner of It represents the unit moving in a straight line but veering off the unit’s space that is most distant from the pivot point. This dis- at a slight angle rather than directly forward. For convenience, tance counts against the unit’s movement for that turn. simply move the unit 1 inch sideways at any point in its path Unformed units don’t need to pivot as often as formed units do (but only once). because they have no facing. This means they can move sideways or even diagonally without pivoting first. Pivot A formed unit can pivot, wheeling around one of its front cor- MOVING AND FRIENDLY UNITS ners to change direction. A formed unit cannot move through a friendly unit unless the To pivot, choose either front corner as the center of the pivot, friendly unit is an unattached commander. No unit other than an then swing the unit’s front forward around the pivot point, as unattached commander can move through a formed unit. shown in the diagram. Determine the distance moved in a pivot An unformed unit can move freely through another friendly by measuring the line traced by the corner of the unit’s space that unformed unit, but it cannot end its move overlapping the space is most distant from the pivot point. This distance counts against occupied by the other unit. the unit’s movement for that turn. Once the pivot is completed, Even lone creatures can’t move through formed units, nor the unit can continue its movement, with its new facing, to the can a formed unit move through a lone creature. However, limit allowed by its speed. unattached commanders can move through friendly formed A unit may pivot more than once, as long as it has enough units. As with two unformed units, however, the unattached movement remaining to do so. commander and the formed unit can’t end a turn occupying the same space. Back Up A formed unit may back up instead of moving forward. Backing MOVING AND ENEMY UNITS up works the same as moving forward, except that it costs twice A unit can never move through an enemy unit, but it can move as much as moving forward. to enter melee combat with an enemy. Doing this involves three A formed unit can’t drift while backing up, because even with basic steps. a double move it can’t move farther than its speed. A formed unit First, the unit moves until it touches the enemy unit. can’t pivot while backing up, because a pivot is made around a Second, if the units aren’t lined up edge to edge, the moving 135 front corner. unit swings around until they are lined up. RULES MASS BATTLE CHAPTER 6: 620_96582_MinisHndbk.qxd 8/19/03 12:08 PM Page 135 PPiivvoottiinngg SSuunn SSoouull IInniittiiaattee uunniitt 66 iinncchheess OOrrcc WWaarrrriioorr uunniitt NNoott wwaannttiinngg ttoo bbee aattttaacckkeedd oonn iittss ssiiddee,, aanndd uunnaabbllee ttoo mmaanneeuuvveerr ssiiddeewwaayyss ttoo eennggaaggee tthhee eenneemmyy hheeaadd--oonn,, tthhee ffoorrmmeedd OOrrcc WWaarrrriioorr uunniitt ppiivvoottss ttoo ffaaccee tthhee SSuunn SSoouull IInniittiiaattee uunniitt.. TThhee ffaarr ccoorrnneerr ooff tthhee uunniitt mmoovveess 66 iinncchheess,, aanndd ssiinnccee tthhee OOrrcc uunniitt’’ss ssppeeeedd iiss 66,, tthhiiss iiss aa ssiinnggllee mmoovvee.. TThhee uunniitt ccaann nnooww mmoovvee aaggaaiinn.. attack. This follows the normal rules for melee contact (see Attacks and Damage, below), but if the enemy unit is formed, only one rank of creatures in it can attack. Each creature that does so can make only a single attack roll as part of the attack of opportunity. If the moving unit converges, this attack happens after the pivot. A moving unit avoids this attack if it has a Melee Reach rating at least as high as that of the defending unit. Unlike in the skirmish rules, a unit with Melee Reach does not fight at a distance. Even if both units have Melee Reach, the moving unit converges to bring its edge flush against the other’s edge. CHARGE Any unit may charge the nearest enemy unit to cover more ground and attack at an advantage. Movement To charge, a unit moves toward the nearest enemy unit it can see. If two or more enemy units are equally near, the attacking unit’s player chooses which one to charge. A charging unit can move up to double speed and must be able to move at least 2 inches before making its attack. A charging unit must move in a straight line (although it can drift). If any line traced between the unit’s starting and ending positions passes through terrain that slows or prevents move- ment, or terrain that contains a unit (even a friendly one or a lone creature), the charge is not allowed. When the charging unit engages the enemy unit, it makes a single set of melee melee attack rolls (also known as a mass Third, the moving unit makes a melee attack (if the movement strike) with a +2 bonus. A unit with multiple melee attacks can was part of a charge, or if the unit has moved its speed or less). use only one of these on a charge. A formed unit can charge forward (which can include drift- Engaging ing), but it can’t pivot or move backward as part of a charge. An A moving unit must stop when any part of it touches any part of an enemy unit. It now engages the enemy. Converging Once a unit has moved to engage an enemy unit, it must con- verge with that unit. Converging means pivoting to line up edge to edge with the enemy unit. (If the units are already edge to edge, the moving unit obviously doesn’t have to converge.) The converging unit must pivot in one direction or the other, depending on which edge is closer to the enemy unit. If two edges are equally close, the acting player chooses. Converging doesn’t count as part of a unit’s movement. Normally a formed unit can only pivot forward around a front corner. These restrictions don’t apply to converging. (A formed unit that is converging pivots around the point of contact.) A unit that starts its turn engaging an enemy unit at an angle must either converge or disengage (see below). However, it cannot converge if doing so would cause it to disengage from another enemy unit. Melee Attack If the converging unit has completed a charge or has moved its speed or less, it can now make a single melee attack against the enemy unit. (If creatures in the converging unit have multiple melee attacks, they can make only one set of melee attack rolls.) Engaging an Enemy with Melee Reach If a unit moves to engage an enemy unit that has the Melee Reach special ability, the enemy unit can immediately make an 136 attack of opportunity against it before the moving unit can :6 RETPAHC ELTTAB SSAM SELUR nippaT .S yb .sullI 620_96582_MinisHndbk.qxd 8/19/03 12:08 PM Page 136 Man-at-Arms CChhaarrggiinngg MMaann--aatt--AArrmmss uunniitt OOrrcc WWaarrrriioorr uunniitt 11 iinncchh WWhheenn aa ffoorrmmeedd uunniitt mmoovveess ffoorrwwaarrdd mmoorree tthhaann iittss ssppeeeedd,, iitt mmaayy ddrriifftt 11 iinncchh ttoo tthhee lleefftt oorr rriigghhtt aatt aannyy ppooiinntt iinn tthhee mmoovvee.. TThhiiss aaddddiittiioonnaall mmoovveemmeenntt ddooeessnn’’tt ccoouunntt aaggaaiinnsstt tthhee uunniitt’’ss mmoovveemmeenntt ccaappaacciittyy.. IIff tthhee ffoorrmmeedd uunniitt iiss cchhaarrggiinngg,, iitt mmuusstt ddrriifftt iiff ddooiinngg ssoo bbrriinnggss mmoorree ooff tthhee uunniitt iinnttoo mmeelleeee ccoonnttaacctt wwiitthh tthhee eenneemmyy uunniitt.. TThhee OOrrcc WWaarrrriioorr uunniitt cchhaarrggeess tthhee MMaann--aatt--AArrmmss uunniitt.. TThhee cchhaarrggiinngg uunniitt hhaass ttoo ddrriifftt lleefftt ttoo bbrriinngg aann aaddddiittiioonnaall ccrreeaattuurree iinnttoo mmeelleeee ccoonnttaacctt.. unformed unit can move in any direction and usually does not enemy unit from which it is disengaging then gains an attack need to pivot, but it can. of opportunity against the disengaging unit. The enemy unit A unit can’t charge if it starts its turn engaged by an enemy makes a melee attack against the disengaging unit as normal, unit. (All it can do is either attack that unit or disengage; see except that each creature can make only a single attack roll (not below.) A unit can’t charge if it can’t see an enemy unit at the start all the melee attacks it might have). This attack of opportunity of its turn. doesn’t count against any other attacks the unit might be able to If anything prevents a unit from charging the nearest enemy make in the round. unit, it can’t charge at all. A disengaging unit can take no actions other than moving. (For example, it can’t make an attack and then move away.) It can Engaging the Enemy move up to its speed and may even drift, pivot, or back up (if it’s If the charging unit is formed and can get more of its creatures a formed unit). into melee contact (see below) with the enemy unit by drifting, A disengaging unit must end its movement at least 1 inch it must do so. away from the enemy unit from which it is disengaging. If it If the charging unit is unformed, it must charge the nearest edge cannot, due to movement penalties or space limitations, then the of the enemy unit. It can’t, for example, charge to contact a formed unit cannot disengage. unit’s side if there is a shorter path to the formed unit’s front. ATTACKS AND DAMAGE Casualties and Morale Saves If the charging unit causes any casualties to the defending unit, The rules for melee and ranged attacks in mass battles are simi- the defending unit must make a morale save. If the charging lar. This section begins with a discussion of melee attacks and unit fails to cause even one casualty to the defending unit, then then describes the ways in which ranged attacks differ. the charging unit must make a morale save. (Lone creatures, When a unit attacks an enemy unit, all eligible creatures however, do not cause or make morale saves when they charge or make their attack rolls simultaneously. Usually this involves are charged.) rolling several d20s at once. (A set of melee attacks is some- In either case, a unit must make two morale saves instead of times referred to as a “mass strike.”) Each roll is modified by the one if the other unit’s level is 5 or more higher than its own (see unit’s attack rating (melee or ranged, as appropriate) and com- Charging and Morale Saves). pared to the defending unit’s AC. Each hit deals damage to the defending unit. DISENGAGE A unit may attempt to disengage from (move out of contact with) Critical Hits an enemy unit that it starts the turn engaged with, but doing so Every time an attacking unit rolls a natural 20 (an unmodified 20 is risky. on a roll of 1d20), that attack automatically hits and deals double Before actually moving, the disengaging unit first must make damage. Some creatures are immune to critical hits and do not 137 a morale save with a –4 penalty. Regardless of the save’s result, the take double damage, but a natural 20 still hits. RULES MASS BATTLE CHAPTER 6: 620_96582_MinisHndbk.qxd 8/19/03 12:09 PM Page 137 MMaann--aatt--AArrmmss ttwwoo ccaassuuaallttiieess uunniitt ffoouurr aattttaacckkeerrss OOrrcc WWaarrrriioorr uunniitt OOrrcc WWaarrrriioorr uunniitt ccoonnvveerrggeess OOrrcc WWaarrrriioorr uunniitt aattttaacckkss cchhaarrggeess ((aanndd ddrriiffttss)) CChhaarrggiinngg EExxaammppllee",
+        "name":  "Stand",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  ": SSuussttaaiinniinngg ccaassuuaallttiieess ffrroomm aa cchhaarrggee mmeeaannss tthhee MMaann--aatt--AArrmmss uunniitt hhaass ttoo mmaakkee aa mmoorraallee ssaavvee ((DDCC 2200)).. TThhee uunniitt hhaass aa ++44 bboonnuuss oonn iittss mmoorraallee ssaavvee bbeeccaauussee tthheerree aarree ssttiillll ttwwoo rraannkkss lleefftt aafftteerr ssuussttaaiinniinngg tthhee ccaassuuaallttiieess.. IIff iitt ffaaiillss tthhee ssaavvee,, tthhee uunniitt bbeeccoommeess sshhaakkeenn ((––22 ppeennaallttyy oonn aattttaacckkss,, AACC,, aanndd mmoorraallee ssaavveess)).. MELEE CONTACT When hostile units engage each other, use the rules for melee contact to determine how many creatures in each unit can attack. Frontage Even though creatures in a unit are on round bases, they are con- sidered to be in melee contact with enemy creatures whose frontage touches their own. A creature’s frontage is the portion of its unit’s edge that corresponds to the width of the miniature’s base. Lining Up Units (Offset) When hostile units engage each other, line them up so that their creatures’ frontages overlap, never directly opposite one another. This allows melee contact between the greatest number of indi- vidual creatures. If the frontages of one unit line up exactly with those of the other, then the unit that moved into position lines up slightly to one side or the other to offset the frontages. Formed Units A formed unit can make a number of attack rolls equal to the number of its creatures in melee contact with the enemy unit, plus one for each adjacent creature in the same rank as those creatures (or in the same file, if the attack is against the unit’s side). There may be a creature on one or both sides of a group of crea- tures in melee contact, so the unit may be able to make one or two more attacks than the number of creatures in actual contact. See the accompanying diagram for an example.",
+        "name":  "MMoorraallee SSaavvee",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "If a formed unit consists of Small or Medium creatures with Melee Reach 2 or better, it can make additional melee attack rolls against enemies to its front. The second rank of creatures can attack as if they were in the front rank, determining melee contact in the same way. Large units having Melee Reach 3 or better also get this benefit. (In the best case, Melee Reach allows a formed unit to make twice as many attack rolls as normal.) Melee Reach does not allow units to make more melee attack rolls when attacking to a side or to the rear. Unformed Units An unformed unit has empty space between any two creatures. Unformed units, therefore, get fewer attack rolls in melee because they can’t bring as much force to bear against the enemy. Since no two creatures in an unformed unit are really adjacent, a creature can attack only if it or the adjacent empty space is in melee contact. (Treat the empty space as having a frontage equal to its width.)",
+        "name":  "MeleeReach",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Unformed units, because of their loose order, cannot make extra melee attack rolls by using the Melee Reach ability. Engaged with Multiple Units A unit attacks all enemy units that it engages. A given creature, 138 however, can contribute to attacks against only one enemy unit. :6 RETPAHC ELTTAB SSAM SELUR 620_96582_MinisHndbk.qxd 8/19/03 12:09 PM Page 138 MMeelleeee CCoonnttaacctt ((22)) MMaann--aatt--AArrmmss uunniitt aattttaacckk 22 –– 22 AACC –– OOrrcc WWaarrrriioorr uunniitt aattttaacckk ++22 ++22 AACC MMaann--aatt--AArrmmss UUnniitt:: TThhee uunniitt ccaann aattttaacckk wwiitthh oonnllyy ttwwoo ccrreeaattuurreess (( bbootthh ccoonnssiiddeerreedd ttoo bbee iinn mmeelleeee ccoonnttaacctt)).. IItt hhaass aa ––22 ppeennaallttyy oonn aattttaacckk rroollllss ffoorr aattttaacckkiinngg aann eenneemmyy ttoo iittss ssiiddee.. TThhee OOrrcc WWaarrrriioorr uunniitt iiss bbeeiinngg aattttaacckkeedd ffrroomm tthhee ffrroonntt,, ssoo iitt hhaass aa++22 bboonnuuss ttoo AACC..",
+        "name":  "MeleeReach",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  ": FFoouurr ccrreeaattuurreess ccaann aattttaacckk tthhee IInniittiiaattee uunniitt.. TThhrreeee aarree iinn mmeelleeee ccoonnttaacctt,, aanndd aa ffoouurrtthh iiss aaddjjaacceenntt ttoo aa ccrreeaattuurree oonn tthhee ssaammee eeddggee tthhaatt iiss iinn mmeelleeee ccoonnttaacctt.. SSiinnccee tthhee OOrrcc uunniitt iiss aattttaacckkiinngg aann eenneemmyy ttoo iittss ffrroonntt,, iitt hhaass aa ++22 bboonnuuss oonn aattttaacckk rroollllss.. If a creature in a formed unit is in melee contact with one enemy unit and is adjacent to a creature in melee contact with another enemy unit, it can’t contribute to attacks against the second unit. If a creature is in melee contact with two enemy units, it can contribute to attacks against either one but not against both. If it is adjacent to creatures that are in contact with two different units, it can contribute to attacks against either one but not against both. (When the attacking creatures are in an unformed unit, treat the adjacent empty spaces in the unit as adjacent creatures for purposes of this rule.) Before you make melee attack rolls against an enemy unit, you commit to which creatures are contributing to that attack. You can’t roll first and then decide to add other creatures to the attack. Shifting A unit that starts its turn engaged by an enemy unit can shift to one side to put more of its edge in melee contact with the enemy unit. The distance of this shift is equal to the width of the base of one of the creatures in the unit. A shift does not count as movement. A unit of creatures with multiple melee attacks can make all of its attacks after shifting. A unit can’t shift if doing so doesn’t increase the length of the edge that’s in melee contact with the enemy. A unit also can’t shift when doing so would take it out of contact with a second enemy unit or reduce the length of the edge that’s in melee contact with any enemy unit. Pivoting around a Point of Contact An unformed unit can pivot around a point of contact with an enemy unit if doing so brings more creatures into contact with Units of Differing Size the enemy unit. It can’t perform this pivot if it would be disen- Often a unit made up of smaller creatures has more of them in gaging from other units by doing so. This movement counts nor- melee contact than an opposing unit with bigger creatures has. mally against the unit’s movement in a round. For instance, when a formed unit of Small creatures (six per rank) is lined up front to front with a formed unit of Large crea- tures (three per rank), all six Small creatures are in contact with the three Large creatures. All six Small creatures contribute to the melee attack, making six attack rolls, while the three Large creatures respond with three attack rolls. Narrow Gaps between Units Sometimes terrain or another unit prevents a unit from con- verging completely with an enemy that it engages. In this case, creatures along the nearer edge are considered to be in melee contact if they’re within 1 inch of the enemy unit. (Walls, other creatures, and other obstacles that would prevent a creature from moving up to the enemy prevent this contact.) GENERAL MELEE RULES All units abide by these rules for melee combat, whether formed or unformed. Multiple Melee Attacks Some creatures have multiple melee attacks, indicated on the stat card by two or more numbers separated by a slash (such as +7/+2). A unit of such creatures first makes a mass strike using the number preceding the slash. After the effects of damage are applied (including any morale saves by the defending unit), a unit may make another mass strike using the number following the slash, and so on for each attack available. All of the attacks made by a creature in the unit must be made against the unit the creature attacked during the first mass strike. If a unit with multiple melee attacks moves at all in its turn, it 139 can make a mass strike only once (using the number preceding RULES MASS BATTLE CHAPTER 6: 620_96582_MinisHndbk.qxd 8/19/03 12:10 PM Page 139 SShhiiffttiinngg MMaaannn---aaattt---AAArrrmmmsss uuunnniiittt OOrrcc WWaarrrriioorr uunniitt 11 iinncchh MMaann--aatt--AArrmmss uunniitt OOrrcc WWaarrrriioorr uunniitt TThhee MMaann--aatt--AArrmmss uunniitt bbeeggiinnss iittss ttuurrnn aallrreeaaddyy eennggaaggeedd wwiitthh tthhee OOrrcc WWaarrrriioorr uunniitt.. IInn tthhiiss ppoossiittiioonn,, tthhee MMaann--aatt--AArrmmss uunniitt ccaann mmaakkee ffoouurr mmeelleeee aattttaacckk rroollllss aaggaaiinnsstt tthhee eenneemmyy uunniitt.. TThhee MMaann--aatt--AArrmmss uunniitt hhaass tthhee ooppttiioonn ooff sshhiiffttiinngg oonnee bbaassee wwiiddtthh ((11 iinncchh)) ttoo tthhee rriigghhtt ttoo bbrriinngg mmoorree ooff iittss eeddggee iinnttoo mmeelleeee ccoonnttaacctt wwiitthh tthhee OOrrcc WWaarrrriioorr uunniitt.. AAfftteerr ddooiinngg ssoo,, iitt ccaann mmaakkee ffiivvee mmeelleeee aattttaacckk rroollllss iinnsstteeaadd ooff ffoouurr.. MMaann--aatt--AArrmmss uunniitt hhiigghh wwaallll OOrrcc WWaarrrriioorr uunniitt MMeelleeee CCoonnttaacctt oonn aa CCoorrnneerr TThhee OOrrcc WWaarrrriioorr uunniitt hhaass eennggaaggeedd tthhee MMaann--aatt--AArrmmss uunniitt bbuutt ccaann’’tt ccoonnvveerrggee bbeeccaauussee ooff tthhee hhiigghh wwaallll.. CCrreeaattuurreess wwiitthhiinn 11 iinncchh ooff tthhee eenneemmyy uunniitt\u0027\u0027ss nneeaarreerr ssiiddee ((eeaacchh uunniitt\u0027\u0027ss ffrroonntt,, iinn tthhiiss ccaassee)) aarree iinn mmeelleeee ccoonnttaacctt,, aanndd aaddjjaacceenntt ccrreeaattuurreess ccaann aallssoo aattttaacckk.. FFoouurr ccrreeaattuurreess iinn tthhee OOrrcc WWaarrrriioorr uunniitt ccaann aattttaacckk tthhee MMaann--aatt--AArrmmss uunniitt,, aanndd tthhrreeee ccrreeaattuurreess iinn tthhee MMaann--aatt--AArrmmss uunniitt ccaann aattttaacckk tthhee OOrrcc WWaarrrriioorr uunniitt.. the first slash). If the attacks deal different damage, it can choose volley using the number preceding the slash. After the effects of which one to use. A unit that attacks more than once can’t damage are applied, it may fire another volley using the number move afterward. following the slash, and so on for each attack available. A ranged unit with multiple attacks may select a different Melee Attacks against Lone Creatures legal target for each volley. Usually the unit must attack the Lone creatures are easy for groups of enemies to surround and nearest enemy unit, but exceptions exist. For example, an Elf overwhelm. When a formed unit attacks a lone creature, twice as Archer unit might ignore a lone Troll to shoot at an Orc Spear- many creatures as normal can attack it. (The unit still can’t have fighter unit. Its first volley deals enough damage to cause the more creatures attack than it has creatures.) Orc unit to become shaken. In light of the Orc unit’s lowered morale state, the lone Troll is a more serious threat, so the RANGED ATTACKS second volley targets it. Just as in melee, a unit makes all ranged attack rolls simultane- Just as with melee attacks, if a unit with multiple ranged ously, each modified by the unit’s ranged attack rating. (A set of attacks moves at all in its turn, it can fire a volley only once (using ranged attack rolls is also called a “volley.”) Most of the units that the number preceding the first slash). If the attacks deal different make ranged attacks are unformed, but some creatures with damage, it can choose which one to use. A unit that attacks more limited-use ranged attacks can be in formed units. than once can’t move afterward. Choosing a Target MODIFIERS TO RANGED COMBAT A ranged attack must be against the nearest enemy unit in line The following modifiers apply to ranged combat. (These modi- of sight and within range. The nearest enemy unit is the one fiers and others are summarized on Table 6–4.) that contains the nearest creature. When determining which unit is nearest, an attacking unit may ignore lone creatures (but Melee Contact it does not have to). A unit can target only one enemy unit with A unit cannot make a ranged attack if it is engaged by an enemy a volley; you can’t split ranged attack rolls to attack two or more unit. targets at once. Commanders can give a unit of creatures with ranged attacks Cover (also called a “ranged unit”) a special order to ignore nearer units Units and certain terrain features, such as walls, trees, and and target more distant units. statues, provide cover against ranged attacks. Cover makes it",
+        "name":  "OOrrcc WWaarrrriioorr UUnniitt",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "When a formed unit takes casualties, minia- to make saves to avoid the Ghoul Touch special ability. tures are removed from the unit’s rearmost rank. When some but not all creatures in a unit are subject to an",
+        "name":  "Formed Units",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "When an unformed unit takes casualties, effect, the defender usually chooses between having that whole miniatures farthest from the unit’s leading edge are removed first. unit take the effect or eliminating the affected creatures. All crea-",
+        "name":  "Unformed Units",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Sometimes a unit may take on specific conditions. enough casualties that creatures in an enemy unit engaging it are no longer in melee con- MORALE tact. In this case, that enemy unit may ad- vance so that its creatures remain in contact. When a unit’s fortunes shift, or something unexpected hap- This movement is free and occurs even if pens, there is a possibility that its morale state will change. The it’s not that player’s phase. An enemy morale state of a unit is the general attitude of the crea- unit may advance in this way even if it tures in a unit. It usually changes only if the unit fails didn’t cause the casualties, and even if it’s a morale save. Morale saves are special saves that units a formed unit moving sideways (which it must make in response to triggering conditions, normally can’t do). A unit can’t advance in as set out below. this way if it would be disengaging from Normal:Units exist in this morale state by other units by doing so. default, when everything is going well.",
+        "name":  "Advancing to Maintain Contact",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A unit makes a morale save when it takes its Engaged enemy unit to the rear –4 first casualty. Simply taking damage is not enough to force a Engaged enemy unit is on higher ground –1 morale save: The unit has to lose a creature. Unit is shaken –2 Unit is routing –4",
+        "name":  "First Casualty",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A unit makes a morale save when it takes casu- Unit is formed +2/rank alties for the first time that bring it to half its original strength or Unit is disengaging –4 below (round down). For example, a unit containing fifteen crea- Attached commander at rear +1/2 Commander rating tures makes a morale save when it takes its eighth casualty, leav- Attached commander at front + Commander rating ing only seven creatures. Special orders By order; see Special If a unit takes its first casualty and is reduced to half strength Orders, below in the same attack, it must make a morale save for both condi- tions. For instance, a unit with an original strength of five crea- tures that takes three casualties in the first attack against it makes MORALE STATES two morale saves. Every unit exists in one of three morale states: normal, shaken, or routing. Charging and Morale Saves Normally, any charge entails one or more morale saves. Normal",
+        "name":  "Half Strength",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Lone creatures don’t make or cause morale saves by charging or being charged. Routing A routing unit flees combat. It routs immediately when it Disengaging descends to this morale state, even if the unit has not yet been A disengaging unit makes a morale save at a –4 penalty before activated. starting its move. (See Disengage, earlier in this chapter.) A routing unit moves at double speed along the most efficient path toward its edge of the battlefield. The most efficient path is Becoming Unformed the one that gets it closest to that edge, taking into account addi- A formed unit makes a morale save if it becomes unformed. This tional movement costs for terrain. This could be a path that is not usually happens when it loses so many miniatures that it can no straight, as long as it gets the routing unit closer to the edge than longer maintain even a single rank. other paths. When a routing unit moves away from enemy units that Commander No Longer Leading from the Front engage it, each enemy unit may make an attack of opportunity If a commander is leading a unit from the front, the unit makes against the routing unit. However, if the unit is routing as the a morale save when the commander detaches, moves to the result of an attack from a unit engaging it, the unit that just rear, or is destroyed. (See Attached Commanders, below, for attacked it doesn’t get this attack of opportunity. more information.) A unit that routs off the battlefield is eliminated. A unit is off the battlefield if any part of the base of any miniature in it goes CUMULATIVE MORALE SAVES over the edge. Morale saves that result from charging or becoming unformed A routing unit can’t make any attacks, including ranged attacks. are cumulative with any that result from casualties. For example, A routing unit takes a –4 penalty on morale saves. A routing an undamaged, formed Man-at-Arms unit contains five 1st-level unit that fails a morale save immediately moves again at double creatures with 5 hp each. It is charged by an Umber Hulk (8th speed toward the battlefield edge. level), which deals 15 points of damage to the unit, enough to When a routing unit activates, it continues to move at double cause three casualties. The Man-at-Arms unit, which now con- speed along the same path it had been traveling, unless a com- sists of two creatures, must make five morale saves: one for mander successfully rallies it. taking its first casualty, one for dropping to half strength, two for Whether a routing unit is formed or unformed, facing is ig- taking casualties when charged by a unit at least 5 levels higher, nored for the purpose of attacks against it. The unit takes a –4 and one for becoming unformed (the unit now has too few crea- penalty to AC. 143 tures to fill a complete rank). RULES MASS BATTLE CHAPTER 6: 620_96582_MinisHndbk.qxd 8/19/03 2:46 PM Page 143 RALLYING LONE CREATURES AND COMMANDERS A unit’s morale state may be improved by one step with a special Lone creatures and commanders make morale saves differently morale save called a rally check. from units. Whenever a shaken or routing unit activates, an allied com- mander may activate as well and attempt to rally that unit. Lone Creatures and Morale Saves The commander must be in command range (see Command When its hit points first drop to half or less of its starting Range, below), and it must put the unit under command. amount, a lone creature makes a morale save. If it fails, it routs. Attempting to rally a unit is a standard action for a commander. Charging and being charged do not involve morale saves for Thus, a commander may move before or after attempting to rally lone creatures, or for the units that charge or are charged by a unit, but it cannot also attack on that turn. them. Commanders can’t attach to lone creatures, so morale saves When a commander makes a rally attempt, the shaken or rout- for attached commanders do not apply. ing unit makes another morale save. If it succeeds, its morale A lone creature (other than a commander) makes a rally check state improves by one step (shaken becomes normal; routing in the same way as any other unit, but if the check succeeds, its becomes shaken). If it fails, the unit’s morale state is unchanged. morale state returns to normal. A lone creature is never In any event, the commander completes its turn and the unit shaken—it’s either fine, or it’s running away. then takes its turn. Commanders and Morale Saves Results of Rally Check A commander’s morale works like a lone creature’s, even if it is If a unit’s morale state improved from shaken to normal, the suc- attached to a unit. It makes a morale save only when its hit points cessful rally check counts as a move action. The unit can now first drop to half or less of its starting amount. It is never affected move up to its speed or make a single attack. when the unit to which it is attached fails a morale save. If the unit’s morale state improved from routing to shaken, An attached commander leading from the front gains the the successful rally check counts as a standard action. The unit same modifier on its morale saves as the unit itself, such as +2 can now move up to its speed, but it can’t attack during its turn per rank. (It does not, however, add the bonus for having an (even if it has multiple attacks). A formed unit that goes from attached commander leading from the front.) A commander routing to shaken regains normal facing and can pivot to face always adds its full Commander rating to its own morale save, any direction (unless it would be disengaging from other units whether it’s leading from the front or the rear, or even if it’s not by doing so). attached to a unit. If the unit’s morale state did not improve because the rally A routing commander moves at double speed toward its check failed, then it takes its turn as normal. Failing to rally doesn’t edge of the battlefield normally. If it was attached to a unit, it take up any of the unit’s time. detaches. Detaching counts as a move action, and also triggers a morale save 144 :6 RETPAHC ELTTAB SSAM SELUR nippaT .S yb .sullI 620_96582_MinisHndbk.qxd 8/19/03 2:47 PM Page 144 A commander can attach to a unit and lead either from the rear or from the front. for the unit left behind. A routing commander can’t spend Table 6–6 summarizes what commanders of various sorts are command points, put units under command, attach to a unit, capable of. Each of the table entries is explained in detail in the or use its Commander Effect. It can attempt to rally itself on its following section. own turn, adding its own Commander rating to the roll. If it succeeds, it is no longer routing but can take no further actions ATTACHED COMMANDERS that turn. If it fails, it continues to move at double speed A commander may be attached to a unit. An attached commander toward the battlefield edge. benefits its unit but is less able to command nearby units. A com- mander may begin a battle attached to a unit, or it may attach itself to a unit at a later time. COMMANDERS Every army requires at least Attaching to a Unit one commander, or its Any time an unattached commander comes into con- battlefield lifetime will be tact with a unit in its army, it may take a move measured in just a few action to attach, choosing to lead either from the rounds. If you’ve translated front or the rear. If the unit hasn’t activated yet, your D\u0026D roleplaying charac- the newly attached commander can move with ter to use in mass battles, most the unit but not attack with it. likely he or she is a commander. Unlike commanders in the skir- Numbers, Ranks, and Attached mish rules, commanders in mass Commanders battles have a number of command Only a single commander may be points equal to their Commander attached to a given unit. Place the rating, which they use to put units attached commander’s minia- under command and to help units fight. ture on the unit’s tray. Commanders can spend command points An attached commander counts regardless of whether they’re currently toward filling ranks in a formed activating. unit. Thus, a formed unit that con- A commander on the battlefield is either tains four Medium creatures and attached to a unit or unattached. An attached a commander has one complete commander activates and moves with the unit. rank. (It doesn’t matter if the An unattached commander behaves as a commander is a different size lone creature and can activate during any from the others.) Additionally, a commander can be phase without counting against the limit attached to a unit that already has the maximum 145 of three activations per phase. number of creatures. The commander’s miniature is RULES Illus. by S. Tappin MASS BATTLE CHAPTER 6: 620_96582_MinisHndbk.qxd 8/19/03 2:47 PM Page 145 AAttttaacchheedd CCoommmmaannddeerrss",
+        "name":  "Lone Creatures",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "If a commander leads from the front, it A commander leading from the rear is vulnerable, however, can spend command points on and issue special orders to only its if an enemy with multiple attacks eliminates the unit and has own unit. attacks left over. In this case, the attacking unit can direct its remaining attacks against the commander (which is now a Leading from the Rear lone creature).",
+        "name":  "Command Range",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A commander leading from the rear can switch to the front at the beginning of the unit’s (and the Attacks and Unattached Commanders commander’s) turn. Doing this is a free action, so the commander Unattached commanders can attack and be attacked just like any can move and attack as normal. other lone creature.",
+        "name":  "Moving from Rear to Front",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A commander leading from the front can switch to the rear at the end of the Morale and Unattached Commanders unit’s (and the commander’s) turn. Doing this An unattached commander makes morale saves just like other is a free action. However, the troops may lone creatures. It doesn’t normally affect the morale of other interpret such a move as a sign units, though it can spend command points to do so (see of weakness or fear. The unit to Orders, below). which the commander is attached must make an immediate morale Commander Effects and Unattached Commanders save (adding 1/2 its Commander An unattached commander’s Commander Effect does not affect rating for leading from the rear, not the commander’s allies. If the Commander Effect is effective the full Commander rating for lead- against enemy creatures, it affects all enemy units that the com- ing from the front). mander engages. If the unit is not engaged, you may make the morale save first and decide Command Range whether to move the commander after An unattached commander may spend command seeing the result. If it will hurt the unit’s points on and issue special orders to units within morale to do so, you can cancel the 24 inches to which it has line of sight, or planned switch. within 6 inches if line of sight is blocked.",
+        "name":  "Moving from Front to Rear",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This order is not issued to a unit. Each creature is worth its cost in victory points to the player The commander simply spends 1 command point to challenge who eliminates it. Each commander is worth an additional 20 initiative. points over its printed cost. Eliminating a creature can be",
+        "name":  "Challenge Initiative",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Normally, a unit must choose the nearest accomplished by destroying it or causing it to rout off the 149 enemy unit as the target of a ranged attack or a charge. For each battlefield. You win when you have scored victory points equal RULES MASS BATTLE CHAPTER 6: 620_96582_MinisHndbk.qxd 8/19/03 2:48 PM Page 149 to the cost of your own army, or when all opponents’ creatures Variable-Length Battle are eliminated. Beginning at the end of the sixth round, roll 1d6. On a result of In a two-player battle with balanced armies, this victory con- 1 or 2, the battle ends, and the winner is the player with the high- dition amounts to simply eliminating your opponent’s army. est victory point total. Otherwise, continue playing, rolling 1d6 These same victory conditions, however, work fine for at the end of each round until a 1 or 2 is rolled. multiplayer battles and contests between somewhat unbalanced armies. Reconnaissance in Force",
+        "name":  "Ignore Targets",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "As always in these You don’t always have to kill your enemies to win. rules, units may not attack allied units. If you eliminate This victory condition also rewards conservation of your own creature, or if your creature is eliminated your forces. through no action of an enemy (such as by routing You win when you have scored victory off the battle grid because of the Cowardly ability), points equal to the cost of your own army. your opponents split the victory points for that You score victory points both for the creature, rounding down. (In a two-player battle, cost of enemy creatures you eliminate your opponent would receive all andfor the cost of your own creatures the points.) that move off the opponent’s edge of",
+        "name":  "Eliminating Your Own Creatures",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "If no creature has the battlefield. made an attack roll or saving throw This victory condition only works for 5 full rounds, the winner is the well for two-player battles. player who has eliminated the most points of enemy creatures. If players CUSTOM BATTLES are still tied, the winner is the player Sometimes a battle results from activities in who has a unit closest to the center of a roleplaying campaign. In such cases, the cam- the battlefield. paign determines the setup, terrain, and armies involved. Sometimes the DM sets everything Quick Strike up; other times the PCs can, through their ac- This victory condition rewards tions, affect the battle conditions. They early success, benefiting players might, for example, recruit allies or who fight hard instead of hang- lure the enemies onto a battlefield that ing back. will work against them. Instead of trying to score victory points equal to your army’s cost, you win by eliminating enemy creatures Roleplaying Victories whose total cost is equal to 70% of your army’s cost. If the battle pits the PCs and their troops on one side against the For a two-player battle between unevenly matched armies, this DM’s army, then the “victory conditions” are whatever makes victory condition provides a more even contest. sense in the campaign. The battle is a “win” or a “loss” only in the sense that any other D\u0026D combat is. It’s possible, for example, Contested Ground that the player characters’ army could carry the field but take In a scenario using this victory condition, armies vie to hold a such severe casualties that it’s effectively a loss. The DM doesn’t strategically important piece of terrain. set victory conditions for such a battle any more than he or she Place a piece of terrain in the center of the battlefield, ideally does for any other fight in the roleplaying campaign. something significant, such as a ruined tower or a dragon skull. (You can arrange this terrain any way you like, as long as it covers Competitive Victory Conditions the center point and is legally placed.) Beginning on the fifth If you want to fight out the battle competitively as a game in its own round, victory goes to the first player who both begins and ends right, you’ll need hard and fast victory conditions. To even the odds a round as the only player whose creatures occupy that central in an unbalanced battle, let the weaker side win if it can merely rack terrain. “Occupying” the terrain might mean being within 2 up a certain number of victory points rather than having to wipe inches of it, if it is impassible. out the larger army. That way, a player can earn a tactical victory for The creatures that end the round occupying the terrain don’t doing better than expected, even if the army in the roleplaying have to be the same creatures that started the round there. You campaign eventually gets defeated by a larger force. still win even if enemy creatures occupy the terrain during the A simple way to test a custom battle for balance is to give the round, so long as they’re gone at the end of the round. player who didn’t set up the battle the choice of sides. Alterna- tively, if both players want to play the same side (such as dwarves Ten-Round Battle defending a bridge), they can “bid” victory points to play that Stop the battle at the end of 10 rounds. The winner is the player side. Each player decides how many bonus victory points he or with the highest victory point total. she will “pay” the opponent in exchange for choosing the favored side. The other player starts with victory points equal to the number bid, which count normally toward victory. Special Scenarios Just as a DM creates adventures, you can create special mass battle scenarios. Your custom battles can be as detailed as you like, telling a story much as a roleplaying adventure does. Below are some ideas that you can use, combine, and alter. Ultimately, 150 custom scenarios rely on your own imagination. :6 RETPAHC ELTTAB SSAM SELUR yelnaH .D yb .sullI 620_96582_MinisHndbk.qxd 8/19/03 2:49 PM Page 150 Lizardfolk pqs MASS BATTLES CAMPAIGN You can run a mass battles campaign the same way you run a skirmish campaign (see Chapter 5), except that armies are ten times the size of skirmish warbands. For example, an army might start with 700 points’ worth of creatures instead of 70. pqs",
+        "name":  "Tiebreaker",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One side defends a wide bridge over a corps of orc-hunters. This unit must charge, approach, or attack chasm while the other side tries to break through. units containing orcs (creatures whose stat card includes the Orc",
+        "name":  "Defend the Bridge",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creatures that are sensitive to light take center of the battlefield. The unit contains 1d6 creatures and is combat penalties according to standard D\u0026D rules. (Battles are now part of the Human Blackguard player’s army. If a Kobold normally assumed to take place under cloud cover or in indirect Warrior unit appears in a spot where another such unit already sunlight, such as early morning or late afternoon). exists and is not engaged, the two combine (up to a maximum of",
+        "name":  "Noontime Battles",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One side has a larger army, but it is sixteen creatures). Since Kobold Warriors have the Cowardly spe- held together only by the personal presence of the army’s leader cial ability, these units might flee before even joining the battle (the commander with the highest Commander rating). If that unless the Lawful Evil commanders can send allied units near commander is killed, the army routs. them or bring them near allied units.",
+        "name":  "Supreme Commander",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Dwarves and hobgoblins, both lawful creatures, have sworn a temporary and uncomfortable pact to TERRAIN defeat the chaotic and evil drow and orcs. The lawful army has both good and evil creatures in it, but good commanders can’t Few battles occur on open plains with no variation in elevation issue orders to evil units, and vice versa. In fact, a good unit or landscape. Copses of trees, stone walls, hills, and other terrain can’t voluntarily come within 6 inches of an evil unit, because features make battles far more challenging and interesting. the two of them are liable to forget the pact and attack each Terrain in general affects movement and cover. Special terrain other. If a unit involuntarily ends up within 6 inches of an can affect other aspects of battle. allied unit of opposing alignment (for example, because it is routing), it still cannot voluntarily move closer. (You can instead TERRAIN EFFECTS eliminate units to make room for units of the other align- ON MOVEMENT ment,but then the opponent gets the points for those Units move at full speed only on eliminated units.) open ground. They are slowed or diverted",
+        "name":  "Uneasy Alliance",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One army deploys in a small area. The by landscape features. There are three general other deploys spread out around the battlefield, classifications of terrain that affect unit move- its creatures not yet arrayed in battle formation. ment: open, difficult, and impassable. The army that’s in one place has the advan- tage of being concentrated. The army that’s Open Terrain scattered can more easily surround the Open terrain amounts to no terrain at all. Obviously, it enemy. The scattered army still deploys in units, doesn’t affect movement. but no unit can be closer than 6 inches to an allied unit or closer than 12 inches Difficult Terrain to an enemy unit. Terrain that is difficult still allows units passage, but it",
+        "name":  "Disarray",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "As with any other type of cover, all a as wide as the base of each miniature in the unit. The unit must unit needs is clear line of sight to at least one creature in the be able to move to a position in which no part of it overlaps the defending unit for the attack to be legal. You still can’t attack impassable terrain. (It can’t stop partway through the gap.) with more creatures than have a clear shot. If total cover even",
+        "name":  "An unformed unit can pass through a gap that is at least twice Clear Line of Sight",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The following types of terrain partly obscures the path between an attacking and defending constitute impassable terrain. creature, then the shot is blocked. —High walls Total Cover Terrain Types:The following types of terrain pro- —Giant dragon skulls vide total cover. —Cliffs —High walls —Lakes —Hills —Deep rivers —Giant dragon skulls —Buildings —Buildings —Enormous boulders TERRAIN EFFECTS ON COVER Sometimes ranged attacks are obscured by intervening terrain, Minimum Movement which provides cover. There are three types of cover: partial cover A unit can always use its turn to move 1 inch in any direction, (such as from trees), low cover (such as from low walls), and total regardless of how much distance this move counts as. (This cover (such as from high walls). rule doesn’t allow a unit to move through impassable terrain or to move when all movement is prohibited, such as while it Partial Cover is paralyzed.) Partial cover protects units behind it, but it does not block line of sight. UNITS AND TERRAIN",
+        "name":  "Impassable Terrain Types",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "As with intervening units (see Cover, By default, however, treat a unit as a single entity. earlier in this chapter), the defending unit does not benefit from cover if the attacking unit has clear line of sight. The attacking PLACING TERRAIN unit has the option of making fewer than the allowed number of You typically place terrain according to ranged attack rolls, attacking only with creatures that have a clear what you have available, what sort of line of sight to the enemy unit. battle you might be simulating, and the play",
+        "name":  "Clear Line of Sight",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Slows movement (as dif- Other forms of healing can also help creatures in ficult terrain) in one direction but not the unit, but only one at a time. Heal effects that the other. can raise an individual creature’s",
+        "name":  "Row of Stakes",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Difficult means you have to keep track of terrain; creatures miss outright how many creatures in the unit half the time (hit only on 11+ have their full hit points and on a separate 1d20 roll); blocks how many have reduced hit line of sight but not line of points. Damage applies first to effect. those with lower hp scores.)",
+        "name":  "Circle of Darkness",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Difficult terrain; deals 5 fire dam- Army:The equivalent of a skir- age to any creature that enters or starts its mish warband in the mass battles turn on the terrain. rules.",
+        "name":  "Lava Pit",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One commander can MASS BATTLES be attached to a unit (but not to a lone creature). An attached com- GLOSSARY mander can lead from the front or The skirmish glossary at the end of Chapter from the rear. An attached com- 5: Skirmish Rules explains game terms, as mander leading from the front fights well as keywords that appear on stat cards. alongside the creatures in the unit. An It also contains detailed information on attached commander leading from the certain special abilities that are too long to explain on the rear directs the unit it is attached to and stat cards. possibly directs nearby units. This glossary is supplemental to the skirmish glossary. Some A Unique creature (see that entry) can attach to a unit just glossary entries are unique to the mass battles rules, while others as a commander can, and can even attack if leading from the are mass battles versions of entries that also appear in the skir- front. mish glossary. This glossary also describes the mass battles rules Attack:When a unit attacks, it makes a number of attack rolls. for some special abilities that are written out in full on the stat The number of melee attack rolls (also known as a mass strike) cards. If a term doesn’t appear here, it appears in the skirmish depends on how many creatures are in melee contact with the glossary and means the same thing in mass battles as it means in enemy. The number of ranged attacks (also known as a volley) the skirmish rules. depends on how many creatures are in the unit, their size, and This glossary uses the same shorthand terms as the skirmish whether they have a clear line of sight to the target. glossary. Attack of Opportunity:A free melee attack made by a unit, usually not on its turn. If an enemy disengages from a unit, that DEFINITIONS unit makes a single mass strike as an attack of opportunity The following terms are listed in alphabetical order. against the disengaging enemy. A unit with Melee Reach gets an",
+        "name":  "Attached",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Units are adjacent to all other units they touch and attack of opportunity against an enemy that moves to engage it to all creatures in those units, except possibly commanders lead- (unless that enemy has Melee Reach with at least the same ing from the rear. A commander leading from the rear is adjacent rating). Attacks of opportunity don’t count against a unit’s attacks only to its unit and to allied units touching its unit. for the round.",
+        "name":  "Adjacent",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A unit with this special ability sees invisible units amount against a unit, or the indicated damage against a lone crea- and engages them normally. Otherwise this special ability works ture or attached commander. If the cone has a nondamaging effect, as it does in the skirmish rules. such as Stun, it affects up to two creatures in the unit. Burrow [#]:A unit with an attached commander can’t burrow If creatures assigned to attack an attached commander lead- unless the commander can burrow. Otherwise, this special abil- ing from the front in melee use a cone effect, the cone strikes ity works as it does in the skirmish rules. the commander and the unit to which it is attached. The unit",
+        "name":  "Blindsight",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Once per mass strike, if a unit with this ability 1–5 A random opponent controls this unit on this turn as if it destroys one or more creatures by reducing their hit points to 0 were that opponent’s unitandas if it had the Difficult 20 with a mass strike, one of that unit’s creatures can immediately ability. If the unit has a commander attached, the make one extra melee attack roll. Usually, a unit gets only one commander immediately detaches (but the unit makes no extra Cleave attack per turn, but if it is attacking multiple enemy morale save even if the commander was leading from the units or if the unit can make multiple mass strikes, then it may front). Place the commander adjacent to the unit. If an attached commander is confused, it immediately detaches be able to get more (up to one for each mass strike against a par- (triggering a morale save as normal if the commander was ticular unit). leading from the front), and the opponent controlling the If a commander is leading from the front and participating commander places the miniature adjacent to its unit. Your in the attack, treat it as separate from the unit for purposes of other units can make attacks of opportunity against this Cleave. Both the commander and the unit may get Cleave unit if you wish, but the opponent temporarily controlling attacks, but only if they separately meet the requirements. the confused unit receives the victory points if it is elimi-",
+        "name":  "Cleave",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Each commander gets a supply of command Countersong:Enemy units engaged by a unit with this spe- points that it can spend each round. The number of command cial ability cannot benefit from special orders. Commanders points equals the creature’s Commander rating. Commanders use engaged by such a unit (or attached to units engaged by the unit) command points to put units under command, issue special can’t use their Commander Effects. orders, and challenge initiative. You can’t save command points Cover:Certain terrain features provide cover against attacks, from one round to the next; unspent points are lost. Command granting a +4 bonus to the defender’s AC. A unit making a ranged points replenish at the beginning of each round. attack can attack with only those creatures that have a clear shot",
+        "name":  "Command Point",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Commanders may be lone creatures (see that at a creature in the defending unit. entry) or may attach to units. A commander costs an extra 20 Cowardly:If a unit with this special ability is not within 6 154 points to purchase for an army. inches of another allied unit after an allied unit is destroyed, it :6 RETPAHC ELTTAB SSAM SELUR 620_96582_MinisHndbk.qxd 8/19/03 2:58 PM Page 154 makes a morale save. (If it’s a lone creature and it fails the morale Half Damage:When a unit gets a save for half damage, total save, it routs.) the damage first. For example, an Azer Raider unit hits a Troll",
+        "name":  "Commander",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Any time a formed unit moves straight ahead more than its speed, such as by making a double move or charging, it can drift (move 1 inch sideways at any point in its path). A formed unit making a charge must drift if doing so brings more of its creatures into melee contact with the enemy unit.",
+        "name":  "Drift",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A creature with the Flight ability can move over creature (if the amount healed is high enough). It is best for obstacles as in the skirmish rules. It can even fly over walls. In restoring damage from area-effect attacks, which reduce a unit’s addition, it may take a full-round action (see that entry) to fly overall hp (see the Area-Effect Damage entry). high into the air, causing itself to be phased out (see the Phase Heal effects can’t be used on destroyed units, including lone Out entry in the skirmish glossary). On its turn, a phased out or attached creatures. For example, you can’t use a heal effect creature with Flight may take a full-round action to return to any on a unit to bring back the commander that had been attached legal position on the battlefield. to it.",
+        "name":  "Flight",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A number of creatures fighting as a can treat a helpless enemy unit as an allied unit when moving. group in close order. A player decides during deployment For example, an unformed unit can move through an un- which of his or her units will be formed or unformed, and they formed enemy unit that is helpless. remain so throughout the battle. Only a few types of creatures Hide: If all the creatures in a unit with this can make up formed units; all others must be unformed (see special ability have partial cover or low cover that entry). Each of a formed unit’s ranks contain up to six against a nonadjacent enemy unit, the unit Small, five Medium, or four Large creatures. Its depth can is considered to have the Invisible spe- never be greater than its width. Formed units, unlike cial ability against that enemy unit. unformed units, have a front, sides, and a rear (see the HP:Hit points. A unit has a hit Facing entry). It fights at an advantage point rating equal to the hit point rating of the crea- to the front and at a disadvantage to the tures that make up the unit. Every time damage to side and rear. A formed unit moves the unit accumulates to the point at which it equals backward at half speed and can’t move the unit’s hp, the unit loses one creature. sideways. It must pivot to change the direc- If a unit gains hit points, such as with the Consti- tion it faces. tution Drain or Feed special abilities, these extra hit",
+        "name":  "Formed Unit",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A creature’s frontage is the por- points first remove damage from the unit. Hit points tion of its unit’s edge that corresponds to the gained in excess of what’s needed to heal the unit width of the miniature’s base. When enemy units becomes a “fund” of bonus hit points that absorbs are in contact with each other, the frontages of damage the unit later takes. If this fund ever equals 5 their creatuers are offset, not lined up. times the number of creatures in the unit, the unit’s Full-Round Action:An action that uses up a hit point rating increases by 5, and the fund is reduced unit’s entire turn. by an appropriate amount. For example, if a unit",
+        "name":  "Frontage",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "While an un- melee contact still limit the number of formed unit doesn’t have a front, attacks that the unit can make. For example, if you still arrange the miniatures in Death Strike allows a unit to make a mass strike its space so that they’re all as close with five attack rolls, but only three creatures are as possible to one edge, which then in melee contact with an enemy, the unit gets only becomes that unit’s leading edge. three attack rolls. This rule simply keeps the unit com- Often, the rules simply refer to a unit making a pact (so you can’t arrange miniatures “melee attack,”which means making a mass strike in an L, T, or X configuration). and involves multiple attack rolls.",
+        "name":  "Leading Edge",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "An attached com- Medium:Medium creatures can make up formed mander leads either from the front or from the units of up to twenty-five creatures, or unformed units rear. While leading from the front, a com- of up to nine. Up to six Medium creatures in an un- mander can spend command points only on the formed unit can make a ranged attack. unit to which it’s attached, and it can fight with Melee Attack:When a unit makes a melee attack, it’s the unit. sometimes called a mass strike. A limited number of",
+        "name":  "Leading from the Front",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "An attached com- creatures in the attacking unit can each make melee mander leads either from the front or from attack rolls. If the creatures in a unit can make multiple the rear. While leading from the rear, a melee attacks, then the unit can make multiple mass commander can spend command points strikes, provided it doesn’t move. on allied units within 6 inches, and it does Melee Contact: Creatures are in melee contact with not fight with its unit. enemy creatures whose frontage touches their own. A",
+        "name":  "Leading from the Rear",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A unit that can see another unit has line of opportunity if it has a Melee Reach rating at least as high as the sight to it. Certain kinds of terrain, such as walls, block line of defender’s. The moving unit takes the attack of opportunity and sight, as do effects such as the Invisible special ability. A unit has applies any results before making its own attack. (So a unit line of sight to another if at least one creature in the first unit has routed by the attack of opportunity, for example, doesn’t make a clear view of at least one creature in the other unit. A clear view its attack.) is prevented by any terrain that blocks line of sight and that inter- Second, a formed unit with Melee Reach gets extra attack rolls venes even partially between the two creatures. when attacking to the front. Creatures in the second rank are (This is different from the skirmish rules, where two creatures considered to be in melee contact as though they were in the don’t need a clear view to have line of sight to each other.) front rank. A Large unit, however, gets these extra attacks only if",
+        "name":  "Line of Sight",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A unit consisting of one creature. Comman- its Melee Reach rating is 3 or higher. (Melee Reach 2 isn’t enough ders attached to units don’t count as lone creatures. The acting to let the second rank of creatures reach past the Large creatures player may ignore lone creatures for purposes of determining in the front rank.) An unformed unit does not get extra melee 158 the nearest enemy or ally, but does not have to. A lone creature attacks for having Melee Reach. :6 RETPAHC ELTTAB SSAM SELUR nippaT .S yb .sullI 620_96582_MinisHndbk.qxd 8/19/03 2:59 PM Page 158 Evoker’s Apprentice",
+        "name":  "Lone Creature",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "When a unit with this special abil- any special movement mode of the moving unit, such as Flight or ity makes a ranged attack, it gets two free volleys against the same Burrow. By contrast, ranged attacks and effects ignore terrain unit (but not against a lone creature). that does not block line of sight and line of effect. If two or more",
+        "name":  "Mighty Rock Throwing",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "When a unit with this special ability makes enemies are at the same distance, the acting player can choose any normal melee attack (including an attack of opportunity), it any of them as nearest. The acting player may ignore lone crea- gets two free mass strikes against the same unit (but not against tures for purposes of determining the nearest enemy, but does a lone creature). It gets only one free mass strike against a unit not have to. with two creatures in it. On Terrain:Same as “in” terrain (see that entry).",
+        "name":  "Mighty Swing",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "When moving at double If Poison causes an effect, such as Paraly- speed (but not making a charge), a unit with this sis, each hit that doesn’t destroy a defending special ability can make a single mass strike at creature requires the unit to make any point in its path and can disengage from the a save or have a creature become unit that it attacked without having to make a subject to that effect. For example, morale save. if a Thri-Kreen Ranger unit scores",
+        "name":  "Mounted Melee Attack",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The amount of space on the battlefield a unit occu- can switch positions only if there is a legal placement for the pies. A unit containing the maximum number of creatures larger unit. Each unit must end up on at least part of the space occupies a square 5 inches on a side. A unit’s space is defined the other unit occupied. The player who controls the effect con- by its maximum width and depth. Units are 5 inches wide trols the exact location, so long until they have so few creatures that they no longer span 5 as it is a legal position. Being inches (three Small creatures, two Medium creatures, or one switched while engaged by an Large creature). enemy unit is not disengag-",
+        "name":  "Space",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Rules text that refers to “squares” converts to inches in the mass battles rules. For example, the Sidestep ability refers to a creature moving only 1 square, which means a unit moving 1 inch in the mass battles rules.",
+        "name":  "Square",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A creature with this special ability is one of a kind Wall:Walls and solid stone block movement and line of sight. and has a given name, such as Tordek, Dwarf Fighter. A creature A unit can’t move or make a ranged attack through a wall. Count with the Unique special ability is sometimes referred to as a around walls to see if commanders are close enough to influence character. You cannot have more than one Unique creature the creatures in their army. with the same given name in your army. For example, Tordek, Wandering Monster:Deploy a unit with this special abil- Dwarf Fighter and Tordek, Dwarf Champion both count as ity randomly, as follows. Place the unit in the middle of the “Tordek”; you can only have one or the other in your army. Each board, randomly determine a player, then roll 1d20. The unit’s of your opponents and teammates can have their own copy of a center is 1d12 inches in a random direction from that player’s Unique creature. starting point: Unique creatures can attach to units just as commanders do, d20 Direction and they can attack if “leading” from the front. Lacking a Com- 1–5 Closer mander rating, they provide no other benefits to the unit, but 6–10 Farther they trigger no morale save for changing their attachment. 11–15 Left",
+        "name":  "Unique",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A group of one or more creatures that act together. The 16–20 Right creatures must all have the same name, with the exception of an Whirlwind Attack:On its turn, if a unit with this special attached commander (if any). Unless attached to a unit, a crea- ability has moved 1 inch or less, each of its creatures can make ture all by itself is its own unit, called a lone creature. two melee attack rolls (except for attacks against lone or",
+        "name":  "Unit",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Pick a room on the map to serve as the entrance to the objectives. dungeon and start the characters there. The PCs arrange them- Playing without a DM: You can play without a DM, but selves in front of the door leading out of the room. The encounter someone will have to prepare the dungeon. Also, you’ll need to starts when the PCs open the door. The DM randomly deter- make decisions ahead of time on questions such as who makes mines the creatures in the encounter (see below). Everyone rolls rolls for the monsters. for initiative. After the combat is over, the party finds a treasure. Roll on Table 7–1: Random Dungeon Treasures (near the end of THE DUNGEON DECK this chapter). Creatures that have been killed are left on the battle grid, knocked over, to indicate which rooms have already The heart of a random dungeon is the array of miniatures rep- been conquered. The players take the stat cards for the creatures resenting the denizens and the deck of cards that goes with they’ve defeated to keep track of their progress. Then they go to them. Choose twenty or so miniatures for your dungeon. Some the next door. should stand alone as encounters while others may be part of",
+        "name":  "Play",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "If the characters defeat monsters whose CRs total a level rating. This is the same as the level of the party you expect 8 or more, they win. If the characters are killed before they defeat to delve into the dungeon. Choose monsters that make encoun- monsters whose CRs total 8 or more, they lose. The possibility of ters of an EL appropriate to the party. In making your choices, losing (having all the characters killed) is much higher in a create a mix of creatures with Challenge Ratings close to the random dungeon than in a standard D\u0026Dgame, but if the play- level of the dungeon. ers lose they can always try again with new characters! Go ahead and be aggressive. A random dungeon is more fun when it’s tougher than normal. The whole point is to have fun in CREATING A a short period of time, not to nurture characters to high level over the course of years. If characters die, that’s all right. A tough DUNGEON DELVE challenge is more fun than a cakewalk, especially if the players The preceding section describes how easy it can be to run a dun- don’t care about the characters’ long-term career goals. geon delve—but there’s a lot more you can do to spice it up. Rooms can have interesting features, creatures can have particu- Groups lar habits, and encounters can unfold in unusual ways. You can A group is a collection of creatures that might be encountered run dungeon delve campaigns, and even play without a DM. together. You make up groups as you see fit, depending on how you’d like creatures to be encountered in your dungeon. When- CONSIDERATIONS ever two or more creatures of the same group are drawn together When creating your dungeon delve, you’ll want to keep several for an encounter, they all work together against the party. factors in mind. All the topics mentioned here are covered in By default, identical creatures always form a group. However, more detail throughout this chapter. you can expand the definition of “group” to include other criteria.",
+        "name":  "Winning",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You should have around twenty creatures for A group might be based on a creature type or subtype. For your dungeon. The creatures need to be about the right CR for example, you could say that “undead” is a group. If you drew a the dungeon level—you don’t want CR 7 creatures in a 1st- Ghoul card and a Skeleton card from the dungeon deck, those level dungeon. The dungeon is most fun if some monsters form creatures would be encountered together. groups (such as reptilian creatures or undead), which allow crea- You can also create groups based on alignment (all lawful tures of different kinds to be encountered together. evil creatures are part of the same group, for example) or fac-",
+        "name":  "Creatures",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "one for the minia- Put only one boss in the deck. tures rules and the other for the roleplaying rules. As a result, You don’t want the boss to show up right away—the delve if you simply draw cards from the top of the deck, the players would be over before it had the chance to pick up steam. When will always be able to tell what’s coming next. Furthermore, if you first draw the boss, the characters catch a glimpse of it as you add homemade cards to the deck, your players will see it escapes. (Most bosses take this opportunity to utter a taunt those cards ahead of time when one of them reaches the top of such as “You’ve fallen into my trap, foolish adventurers— the deck. never again shall you see the light of day!” and then laugh Opaque-backed card sleeves are a convenient way of hiding maniacally before slipping out through a secret door.) Draw a information. You can shuffle once at the beginning of the game replacement for the boss card and shuffle the boss back into and draw all cards from the top of the deck. the deck with the other cards that have not been used yet. A If you don’t have card sleeves, you can avoid this problem really tricky boss might escape twice before finally confronting simply by not drawing from the adventurers. the top of the deck. Another way to handle the boss is to leave the card out of Instead, beforeeach the deck at the beginning of the dungeon. After the PCs encounter, shuffle have defeated one or two designated monsters, the and cut the deck, boss gets shuffled into the deck. Suppose the boss is a then draw your Drow Cleric of Lolth. There may be four drow encounter fighters (minions of the cleric) in the dun- geon deck. Once three of the minions have been killed, the boss gets shuffled in. That way, the characters always meet the min- ions first. The boss can also be a lurker or one of a pair of twins (see those entries, below). Making it a twin increases the odds that it will appear later in the delve rather than earlier.",
+        "name":  "Stat cards have information on both sides",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The adventurers have inter- 165 rupted a fight between the lone survivor of DUNGEONS Illus. by D. Hanley RANDOM CHAPTER 7: 620_96582_MinisHndbk.qxd 8/19/03 3:17 PM Page 165 Carrion Crawler an evil adventuring party and the monsters that have finished When you draw a lurker card, set it aside for a moment. Deter- off the adventurer’s allies. The survivor fights both the mon- mine the encounter as normal using the remaining cards. The sters and the good adventurers. lurker appears on the battle grid outside the room, attacking the When you draw an enemy, set it aside. Draw an additional card party from behind or from the side. If there’s more than one to replace it, then determine the encounter as normal. The enemy direction the lurker could come from, determine the direction appears in the room with the other creatures, but it is not on randomly. Place it on the board as far away in that direction as it those creatures’ side. could be and still be in line of sight. Usually it will appear around Evil NPCs can be enemies, as can various monsters. Generally, a corner or at the far side of a door. an enemy is the only creature of its kind in the dungeon deck. An If you have long, unobstructed lines of sight on your board, enemy’s CR can be at the dungeon level, above it, or below it. A assume that the dungeon is gloomy and that the lurker appears stronger enemy can do more damage to the monsters—but can 60 feet away from a character with darkvision or low-light vision, do more damage to the party as well. or 30 feet away from a character with normal vision. A lurker",
+        "name":  "Enemy",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The adventurers have interrupted a fight between the with ranks in the Hide skill starts the combat hiding, if it has lone survivor of an adventuring party and the monsters that have cover. A harsh DM might decide where the lurker is but keep it finished off the adventurer’s allies. The survivor joins the adven- off the board until it comes out into the open or a character turers in fighting the monsters. makes a Listen or Spot check to notice it. Rogues and vermin are When you draw a friend, set it aside. Draw two additional cards, typical lurkers. then determine the encounter as normal. The friend appears in In dungeons with tough lurkers, parties may find that it the room with the other creatures, but it is a good creature and it pays to place lookouts at corners in the rear to keep lurkers at fights on the side of the characters. (Either the DM or the players a distance. can control its actions.) After the fight, the grateful friend heads Pet: The trials of dungeon life have forced this creature to for the surface without expecting a share of the treasure. team up with dissimilar creatures. Various good characters and creatures can count as friends. A When you draw a pet card, set it aside for a moment. Deter- friend’s CR should be one or two lower than the dungeon level. mine the encounter as normal using the remaining cards. The A devious DM might put both a friendly dwarf and an evil pet appears in the room with the other creatures and fights on enemy dwarf in his dungeon deck so that the players can’t tell their side. at the start of the fight whether the dwarf they’ve met is a friend A pet might be a monster of some sort that has been trained or enemy. by other dungeon denizens, or an evil warrior whose band has",
+        "name":  "Friend",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A sneaky, wandering opportunist has found the adven- been defeated and who looks to the other creatures for safety. 166 turers and attacks them while they’re fighting other creatures. Because it adds to the danger of the encounter, a pet should :7 RETPAHC MODNAR SNOEGNUD htimS .A yb .sullI 620_96582_MinisHndbk.qxd 8/19/03 3:17 PM Page 166 A lurker makes any encounter more challenging. have a CR at least a few steps lower than the dungeon level. If you use this option, it’s best to include three Draw +1 cards Even a really weak creature can have some role in an encounter in your deck. Ideally, you would draw two Draw +1 cards over the if it’s teamed with more powerful creatures. (The “pet” role may course of the game; if you draw more or fewer, the dungeon can merely be comic relief, but it is a way to stick a kobold into a become unbalanced. (If you like to create larger dungeon decks, 7th-level dungeon.) with more than twenty or so stat cards, include four or five Draw",
+        "name":  "Lurker",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A pair of creatures (not necessarily the same kind) inhab- +1 cards.) its the dungeon. They are never seen apart from each other. When you start the dungeon, draw only three cards per en- If you draw a single twin card, set it aside. Determine the counter. As play progresses and Draw +1 cards come into effect, encounter as normal using the remaining cards. After determin- you’ll be drawing four or five cards per encounter. ing the encounter, shuffle the twin card back into the deck. Draw +1 cards give the delve a sense of progress: Early If you draw both twins, and they form the most challenging encounters are easier, and later encounters are tougher. Statues encounter you can make, the two twins are the encounter. (see below) are also more likely to be found deeper in the dun- The twins could be a mated pair of displacer beasts, or an evil geon (because you’re drawing more cards per encounter later cleric with her pet hell hound. Because twin encounters are in the delve). likely to appear at the end of the delve (when the deck is thin and Draw Two:The adventurers have stumbled into an important it’s more likely that you draw both twins), they should make for room in the dungeon. a climactic battle. Each twin should have a CR about equal to the Discard this card and draw two more. Don’t shuffle this card dungeon’s level. back into the deck.",
+        "name":  "Twin",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The adventurers have run into a large number of For more fun, you can include a Draw Three card or even a creatures. (Hopefully, they aren’t the most powerful creatures in Draw Four card. the deck.) Lock and Key:The adventurers find a locked door and a key You can designate a creature card as “×2,” “×3,” or “×4.” This to that door, not necessarily in that order. This option uses two means that the card actually represents two, three, or four of cards: a Lock card and a Key card. those creatures. This method lets you have encounters When you draw a Lock card or a Key card, set it with weak creatures such as kobolds without aside. Draw an additional card to replace jamming your dungeon deck full of them. Of it, then determine the encounter as course, you can go as high as you want, but normal. (If you draw both cards, if it takes more than twelve of a mon- set aside only the first one ster to meet the Encounter drawn. Shuffle the other Level you’re look- back into the deck and ing for, chances draw a card to replace it.) are it’s not a very After the encounter is interesting mon- complete, the characters ster to throw at the find the lock or key. party. (Refer to Table 4–1: Challenge The Lock card represents the Ratings and Encounter Levels for location of a locked secret door, details on combining creatures and one too tricky to pick. Leave a marker determining their Encounter Level.) in that room on the map; when the char- A creature designated as multiple could also acters find the key they can return to open the lock. have any of the other special encounter types. For The Key card is the key to that lock. If the charac- example, it could also be a twin (see above). An Orc Warrior ters find it, they can take it with them, either returning to the site card designated “×4” could be the twin of a Cleric of Gruumsh of the lock (if they’ve already located it) or keeping it with them card, representing four orcs who are dedicated bodyguards for until they find the lock. their leader. When the party opens the lock, they find a big treasure (roll three times on Table 7–2: Random Dungeon Treasure).",
+        "name":  "Multiples",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "After determining the encounter challenge, send the party through a higher- or lower-level for this room, draw an extra card. If it’s not a creature, ignore dungeon. A dungeon that is one level lower than the average it. (Shuffle it back into the deck.) If it is a creature, add it to party level is usually fine for a three-character party. A dun- the encounter. geon one level higher than the party level is usually good for",
+        "name":  "Extra Creature Chance",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "If you use the Boss option (see Special Encounter sure suitable for a single encounter. Types, above), defeating the boss can be the goal of the delve. The Table 7–1: Random Dungeon Treasure party wins when it finds and defeats this creature. This goal is a lot of fun because players love to have a climactic battle with a bad guy. GP Level None Mundane Minor Medium Major Value* 1st 01–35 36–80 81–100 — — 360 PLAYING THE DELVE 2nd 01–20 21–30 31–100 — — 740 Once you have characters, a map, a dungeon deck, and a goal, 3rd 01–20 — 21–97 98–100 — 1,100 4th 01–20 — 21–93 94–100 — 1,400 you’re ready to play. 5th 01–20 — 21–88 89–100 — 1,900 INITIATIVE 6th 01–20 — 21–83 84–100 — 2,300 7th 01–20 — 21–78 79–99 100 3,100 Initiative in a random dungeon is usually handled just like in the 8th 01–20 — 21–71 71–98 99–100 4,000 standard D\u0026Drules. Make initiative checks normally when the 9th 01–20 — 21–60 61–97 98–100 5,300 party opens a door. When the fight is over, initiative no longer 10th 01–20 — 21–46 47–96 97–100 6,900 applies until the party opens the next door. 11th 01–20 — 21–30 31–94 95–100 8,900 This system works fine if you don’t have wandering mon- 12th 01–20 — — 21–88 89–100 12,000 sters (or other factors producing time pressure). If you include 13th 01–20 — — 21–75 76–100 16,000 wandering monsters or you want to change the pace of the delve 14th 01–20 — — 21–60 61–100 20,000 a bit, you have a couple of other options. 15th 01–20 — — 21–40 41–100 26,000",
+        "name":  "Kill the Boss",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "If you have wandering monsters between 16th 01–55 — — — 56–100 ×2 36,000 fights, the characters are going to be scrambling through the 17th 01–65 — — — 66–100 ×3 42,000 dungeon trying to get to the next encounter before more mon- 18th 01–55 — — — 56–100 ×3 54,000 sters show up. Whenever monsters appear on the battle grid, 19th 01–40 — — — 41–100 ×3 72,000 reroll for initiative. 20th 01–20 — — — 21–100 ×3 96,000 Taking 10:A faster method is to have everyone take 10 on ini- *The approximate average gold piece value of treasure for the given tiative. The players will always act in the same order, because level. their initiative modifiers don’t change. The only change to the initiative order is where the monsters fit into it. You can have the SPECIAL DELVE RULES monsters also take 10, or roll for them to allow some randomness While a random delve is meant to be simple and fast, many DMs without creating a lot of work or taking a lot of time. like to add detail to their dungeons. These options allow you to",
+        "name":  "Ongoing Initiative",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A wandering monster tailor the delve experience. that shows up when a battle is not underway simply acts in ini- Keep your first delve simple so you can get a feel for the tiative order (just as if the characters were opening a dungeon rhythm of a random delve. Then you can add special rules to cus- door). A wandering monster joining a battle that’s underway tomize the experience. goes first in the initiative order. (That’s the standard rule for a creature joining a battle that it’s aware of; see page 24 of the Doors Dungeon Master’s Guidefor more details.) However, since it may Doors normally open easily and stay open from then on—but be easier for the DM to have all the monsters go at once, for you can get more detailed if you like. In general, additional detail 171 DUNGEONS RANDOM CHAPTER 7: 620_96582_MinisHndbk.qxd 8/19/03 3:30 PM Page 171 pqqqqrs PLAYERS AND SECRET INFORMATION delve is more like a board game and less a simulation of adventure in When playing a random dungeon, it’s reasonable to let players have a fantastic world. If players use information to make smart decisions, information that their characters wouldn’t have, even down to the that makes the game more fun. So when you’re running a random monsters’ statistics and the floorplan of the dungeon. (You don’t have delve, don’t feel obliged to run it with the same secrecy that you’d use to reveal this information, but it’s okay to do so.) A random dungeon when running a regular D\u0026Dadventure. pqqqqrs adds to the game only if you include wandering monsters or Once you’re familiar and comfortable with how wandering some other form of time pressure. monsters work, you can add your own touches of realism or tac- Opening a door usually means starting an encounter. Any tics. Perhaps certain monsters have the ability to call for help, character next to a door has the option of opening it as a move inviting a greater chance for the appearance of additional wan- action. If there are no monsters in play when the door is opened, dering monsters. Or perhaps your dungeon involves creatures reroll for initiative. If there are monsters in play, the initiative at war with one another, and the appearance of some wandering count just keeps going. monsters may create a truly confused melee as creatures attack",
+        "name":  "Wandering Monsters and Initiative",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "If a character at a closed door succeeds on a Listen one another as well as the PCs. check (DC 20 + dungeon level), the DM shows the characters Generating Wandering Monsters:At the end of each round, what creatures are in the room before the door is opened. Each roll d%. There is a 20% chance of a wandering monster appearing. attempt is a standard action, and you can listen at a door only if If the dice indicate that one appears, draw a card. You can use a you’re directly in front of it. DMs who hunger for a touch of real- separate wandering monster deck (see below) or simply draw a ism can adjust the Listen DC depending on what’s actually in card out of the standard dungeon deck. the room. If you draw a creature, it appears outside the party’s current If the dungeon has wandering monsters (see below), char- room, ready to attack the party from behind or from the side. If acters can listen at doors all they want to. If the dungeon there’s more than one direction a wandering monster could come doesn’t have wandering monsters or some other form of time from, determine the direction randomly. Place it on the battle pressure, one character may make a single Listen check at a grid as far away in that direction as it could be and still be in line particular door. of sight. Usually it will appear around a corner or at the far side",
+        "name":  "Listening",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Some or all doors may be locked, though this of a door. detail is really interesting only if you’re using wandering mon- If you draw something other than a creature (such as a special sters or some other form of time pressure. The DC to open a lock card), ignore it. (Shuffle it back into the deck.) Do not draw again. is 20 + dungeon level; the DC to force open a door is 12 + dun- No wandering monster appears. geon level. Each attempt is a standard action, and you can open a Wandering Monster Deck:You can create a separate wan- lock or force open a door only if you’re directly in front of it. If dering monster deck, drawing from it instead of from the normal the characters attempt to force a door, the noise may attract dun- dungeon deck when a wandering monster appears. Wandering geon denizens—the DM rolls twice for wandering monsters at monsters may be of a different sort from the monsters found in the end of the round. the dungeon deck. Maybe they’re scavengers and ghouls attracted",
+        "name":  "Locked Doors",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "When your creatures rout, they move off the battle grid from exit squares on your assembly tile, if they can.",
+        "name":  "Exit",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "When your creatures rout, they move at double speed toward the exit corner on your assembly tile.",
+        "name":  "Exit Corner",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Walls block movement, line of sight, and line of effect. A creature can’t move diagonally past a corner or end of a wall. Count around walls to see if a commander is close enough to influence the creatures in its warband. EXIT EXIT E X IT C O R N E R Assembly Tile 620_96582_MinisHndbk.qxd 8/19/03 3:31 PM Page 174 front attack +2, +2 AC Formed Unit Medium Creatures edis CA 2 ,2 kcatta – – attack –2, –2 AC side front attack +2, +2 AC Formed Unit Medium Creatures Morale +2 per rank Must have one full rank or become unformed Half speed forward Quarter speed backward Attack +2 and double attacks against lone creatures CA 4– ,4– kcatta raer Unformed Unit Medium Creatures No facing No minimum number of creatures No movement restrictions No morale bonus Up to six ranged attacks edis CA 2 ,2 kcatta – – attack –2, –2 AC side Morale +2 per rank Must have one full rank or become unformed Half speed forward Quarter speed backward Attack +2 and double attacks against lone creatures CA 4– ,4– kcatta raer Unformed Unit Medium Creatures No facing No minimum number of creatures No movement restrictions No morale bonus Up to six ranged attacks .esu lanosrep rof egap siht ypocotohp ot detnarg noissimreP .cnI ,tsaoC eht fo sdraziW 3002© EXIT EXIT EXIT EXIT E X IT C O R N E R Assembly Tile 620_96582_MinisHndbk.qxd 8/19/03 3:31 PM Page 175 front attack +2, +2 AC Formed Unit Large Creatures Unformed Unit Large Creatures edis CA 2 ,2 kcatta – – attack –2, –2 AC side Morale +2 per rank Must have one full rank or become unformed Half speed forward Quarter speed backward Attack +2 and double attacks against lone creatures CA 4– ,4– kcatta raer No facing No minimum number of creatures No movement restrictions No morale bonus Up to two ranged attacks .esu lanosrep rof egap siht ypocotohp ot detnarg noissimreP .cnI ,tsaoC eht fo sdraziW 3002© EXIT EXIT TIXE TIXE RR EE NN RR OO CC TT XXII EE Assembly Tile .esu lanosrep rof egap siht ypocotohp ot detnarg noissimreP .cnI ,tsaoC eht fo sdraziW 3002© EXIT EXIT Assembly Tile with Statue",
+        "name":  "Wall",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "When your creatures rout, they move off the battle grid from exit squares on your assembly tile, if they can.",
+        "name":  "Exit",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "When your creatures rout, they move at double speed toward the exit corner on your assembly tile.",
+        "name":  "Exit Corner",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "It costs 2 squares to move into a square containing a statue (3 squares if moving diagonally). A creature can’t end its movement in a square containing a statue. A statue provides cover to creatures behind it but does not block line of sight.",
+        "name":  "Statue",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Walls block movement, line of sight, and line of effect. A creature can’t move diagonally past a corner or end of a wall. Count around walls to see if a commander is close enough to influence the creatures in its warband. TIXE TIXE R E N R O C T XI E Assembly Tile 620_96582_MinisHndbk.qxd 8/19/03 3:32 PM Page 176 front attack +2, +2 AC Formed Unit Large Creatures Unformed Unit Large Creatures edis CA 2 ,2 kcatta – – attack –2, –2 AC side Morale +2 per rank Must have one full rank or become unformed Half speed forward Quarter speed backward Attack +2 and double attacks against lone creatures CA 4– ,4– kcatta raer No facing No minimum number of creatures No movement restrictions No morale bonus Up to two ranged attacks .esu lanosrep rof egap siht ypocotohp ot detnarg noissimreP .cnI ,tsaoC eht fo sdraziW 3002© front attack +2, +2 AC Formed Unit Large Creatures Unformed Unit Large Creatures edis CA 2 ,2 kcatta – – attack –2, –2 AC side Morale +2 per rank Must have one full rank or become unformed Half speed forward Quarter speed backward Attack +2 and double attacks against lone creatures CA 4– ,4– kcatta raer No facing No minimum number of creatures No movement restrictions No morale bonus Up to two ranged attacks .esu lanosrep rof egap siht ypocotohp ot detnarg noissimreP .cnI ,tsaoC eht fo sdraziW 3002© EXIT EXIT TIXE TIXE R E N R O C T XI E Assembly Tile 620_96582_MinisHndbk.qxd 8/19/03 3:32 PM Page 177 .esu lanosrep rof egap siht ypocotohp ot detnarg noissimreP .cnI ,tsaoC eht fo sdraziW 3002© front attack +2, +2 AC Formed Unit Small Creatures Morale +2 per rank Must have one full rank or become unformed Half speed forward Quarter speed backward Attack +2 and double attacks against lone creatures edis CA 2 ,2 kcatta – – attack –2, –2 AC side Abattoir CA 4– ,4– kcatta raer Unformed Unit Small Creatures No facing No minimum number of creatures No movement restrictions No morale bonus Up to eight ranged attacks Blood",
+        "name":  "Wall",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Any creature on the blood rock terrain scores a critical hit when its melee attack roll is a natural 19 or 20. The attack automatically hits no matter how high the defender’s AC, even if the defender is immune to double damage from critical hits. Ranged attacks are not affected by the blood rock terrain type.",
+        "name":  "Blood Rock",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Walls block movement, line of sight, and line of effect. A creature can’t move diagonally past a corner or end of a wall. Count around walls to see if a commander is close enough to influence the creatures in its warband. Blood",
+        "name":  "Wall",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "19 –20 critical hit in melee 620_96582_MinisHndbk.qxd 8/19/03 3:33 PM Page 178 .esu lanosrep rof egap siht ypocotohp ot detnarg noissimreP .cnI ,tsaoC eht fo sdraziW 3002© front attack +2, +2 AC Formed Unit Small Creatures Morale +2 per rank Must have one full rank or become unformed Half speed forward Quarter speed backward Attack +2 and double attacks against lone creatures edis CA 2 ,2 kcatta – – attack –2, –2 AC side CA 4– ,4– kcatta raer Unformed Unit Small Creatures No facing No minimum number of creatures No movement restrictions No morale bonus Up to eight ranged attacks .esu lanosrep rof egap siht ypocotohp ot detnarg noissimreP .cnI ,tsaoC eht fo sdraziW 3002© front attack +2, +2 AC Formed Unit Small Creatures Morale +2 per rank Must have one full rank or become unformed Half speed forward Quarter speed backward Attack +2 and double attacks against lone creatures edis CA 2 ,2 kcatta – – attack –2, –2 AC side Abattoir CA 4– ,4– kcatta raer Unformed Unit Small Creatures No facing No minimum number of creatures No movement restrictions No morale bonus Up to eight ranged attacks Blood",
+        "name":  "Rock",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Walls block movement, line of sight, and line of effect. A creature can’t move diagonally past a corner or end of a wall. Count around walls to see if a commander is close enough to influence the creatures in its warband. .esu lanosrep rof egap siht ypocotohp ot detnarg noissimreP .cnI ,tsaoC eht fo sdraziW 3002© 620_96582_MinisHndbk.qxd 8/19/03 3:33 PM Page 180 Corridor Ruined Wall Mighty ruins from long ago rise from the grass.",
+        "name":  "Wall",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "It costs 2 squares to move into a square containing a statue (3 squares if moving diagonally). A creature can’t end its movement in a square containing a statue. A statue provides cover to creatures behind it but does not block line of sight.",
+        "name":  "Statue",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Walls block movement, line of sight, and line of effect. A creature can’t move diagonally past a corner or end of a wall. Count around walls to see if a commander is close enough to influence the creatures in its warband. Dragon Skull The power of an ancient dragon still lives in the very stones that surround its skull.",
+        "name":  "Wall",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Walls block movement, line of sight, and line of effect. A creature can’t move diagonally past a corner or end of a wall. Count around walls to see if a commander is close enough to influence the creatures in its warband. 620_96582_MinisHndbk.qxd 8/19/03 3:46 PM Page 185 Shrine",
+        "name":  "Wall",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "It costs 2 squares to move into a square containing a statue (3 squares if moving diagonally). A creature can’t end its movement in a square containing a statue. A statue provides cover to creatures behind it but does not block line of sight.",
+        "name":  "Statue",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Walls block movement, line of sight, and line of effect. A creature can’t move diagonally past a corner or end of a wall. Count around walls to see if a commander is close enough to influence the creatures in its warband. mooR eutatS 620_96582_MinisHndbk.qxd 8/19/03 3:47 PM Page 186 Stand of Trees This stand of sparse trees is perhaps the gravesite of an ancient druid.",
+        "name":  "Wall",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "It costs 2 squares to move into a square containing a statue (3 squares if moving diagonally). A creature can’t end its movement in a square containing a statue. A statue provides cover to creatures behind it but does not block line of sight.",
+        "name":  "Statue",
+        "source":  "miniatures_handbook.txt",
+        "_id":  "2267d1ad420e45a48ad79516dfa4691e56dcff61e85e57ddb9405af5586b7d6f"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creature touched. Level: Sor/Wiz 1.",
+        "name":  "Targets",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "None. Targets: One living humanoid creature.",
+        "name":  "Saving Throw",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creature touched. Arcane Material Components: A piece of cloth and a",
+        "name":  "Targets",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creatures viewing target.",
+        "name":  "Targets",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A sock or handful of beauties/studs all drawn from the desires and needs rags suitably placed. hidden in the subject’s mind. Each creature viewing the room sees something according to their own HHHHHyyyyypppppnnnnnoooootttttiiiiiccccc RRRRRuuuuummmmmppppp preferences, which can lead to some interesting situations when there is an incompatibility between Enchantment (Charm) two viewers ideas.",
+        "name":  "Arcane Material Component",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creatures of correct orientation with line of such time as it dissipates, which can lead to some sight to buttocks. awkward moments and some expensive dry",
+        "name":  "Effect",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One living creature.",
+        "name":  "Targets",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One living creature. Range: Touch.",
+        "name":  "Targets",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One living creature.",
+        "name":  "Targets",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One creature. and immediately left on an expedition, knowing his",
+        "name":  "Targets",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1 day per level. does not work against non-humanoid monsters or",
+        "name":  "Duration",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "None. any creature not intending their proximity to",
+        "name":  "Saving Throw",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Crushed flower petals SSSSSooooofffffttttt FFFFFooooocccccuuuuusssss that are sprinkled in a three-foot circle around the Illusion (Phantasm) creature to be warded.",
+        "name":  "Arcane Material Component",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Brd 0, Sor/Wiz 0. Targets: Self or one humanoid creature.",
+        "name":  "Level",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One dressed target. sexual act to take place. The creature summoned",
+        "name":  "Targets",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One or more summoned creatures, no two of SSSSSuuuuummmmmmmmmmooooonnnnn SSSSSeeeeexxxxx PPPPPaaaaarrrrrtttttnnnnneeeeerrrrr IIIII which can be more than 30 ft. apart. Conjuration (Summoning) [see text] As summon sex partner I except you can summon",
+        "name":  "Effect",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One or more summoned creatures, no two of Conjuration (Summoning) [see text] which can be more than 30 ft. apart.",
+        "name":  "Effect",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One or more summoned creatures, no two of As summon sex partner I except you can summon which can be more than 30 ft. apart. one partner from the 3rd level list, 1d3 partners of the same type from the 2nd level list or 1d4+1 partners of As summon sex partner I except you can summon the same type from the 1st level list. one partner from the 8th level list, 1d3 partners of the same type from the 7th level list or 1d4+1 partners of SSSSSuuuuummmmmmmmmmooooonnnnn SSSSSeeeeexxxxx PPPPPaaaaarrrrrtttttnnnnneeeeerrrrr IIIIIVVVVV the same type from a lower level list. Conjuration (Summoning) [see text]",
+        "name":  "Effect",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One or more summoned creatures, no two of Conjuration (Summoning) [see text] which can be more than 30 ft. apart.",
+        "name":  "Effect",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One or more summoned creatures, no two of As summon sex partner I except you can summon which can be more than 30 ft. apart. one partner from the 4th level list, 1d3 partners of the same type from the 3rd level list or 1d4+1 partners of As summon sex partner I except you can summon the same type from a lower level list. one partner from the 9th level list, 1d3 partners of the same type from the 8th level list or 1d4+1 partners of SSSSSuuuuummmmmmmmmmooooonnnnn SSSSSeeeeexxxxx PPPPPaaaaarrrrrtttttnnnnneeeeerrrrr VVVVV the same type from a lower level list. Conjuration (Summoning) [see text]",
+        "name":  "Effect",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One or more summoned creatures, no two of Enchantment (Compulsion) which can be more than 30 ft. apart.",
+        "name":  "Effect",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One creature. the same type from a lower level list.",
+        "name":  "Target",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One or more summoned creatures, no two of to expedite a speedier end to romantic encounters which can be more than 30 ft. apart. leaving them more time free to devote to serious research. As summon sex partner I except you can summon one partner from the 7th level list, 1d3 partners of the",
+        "name":  "Effect",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Same as the base creature. irresponsible.",
+        "name":  "Speed",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A lust element creature retains any SSSSShhhhhuuuuuddddddddddeeeeerrrrr QQQQQuuuuuaaaaakkkkkeeeeesssss of the special attacks of the base creature and in Occasionally a moaning wind howls across the addition gains the supernatural ability to induce lust plane, rustling the trees and blowing a spicy scent in those creatures around it. All creatures within 30 across the inhabitants, it is soon followed by a ft. must make a Will save (DC 10 + ½ creatures hit trembling in the ground as though the land itself dice + Charisma modifier) or give in to their lusts, were having an orgasm. The shudders vary in immediately stopping what they were doing and intensity but never do more than throw people from engaging in intimate and passionate relations with their feet. Only the most ramshackle of dwellings is the nearest viable candidate. ever knocked over.",
+        "name":  "Special Attacks",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Same as the base creature. SSSSSuuuuuggggggggggeeeeessssstttttiiiiivvvvveeeeennnnneeeeessssssssss",
+        "name":  "Special Qualities",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Same as the base creature. Absolutely everything on the plane of lust is suggestive. The fruit and flowers resemble sexual",
+        "name":  "Saves",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Increase from the base creature as follows: organs if you so much as squint slightly at them, the Str +0, Dex +2, Con +2, Int +0, Wis +0, Cha +4. clouds form a tableau of suggestive images in the All lust element creatures are extremely dextrous, sky that would make a wench blush and the towers enduring, attractive, well proportioned and gifted of polyamora ‘jut proudly into the air, erect and with prodigious sexual characteristics. firm.’ The hills form images that look like giant naked figures lying on the ground and springs do",
+        "name":  "Abilities",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A creature of lust has 8 skill points, plus its not bubble – they spurt. Even the trees look like Intelligence modifier, per Hit Die. Treat skills from naked bodies twined together (and with dryads they the base creature’s list as class skills and other skills often are). as cross-class. If the creature has a class, it gains skills for class levels normally. If there is the slightest opportunity for something to take on an even partial sexual connotation, it will.",
+        "name":  "Skills",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A creature of lust has 1 feat for every 4 full hit dice it possesses or the base creature’s number of",
+        "name":  "Feats",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creature feats, whichever is greater. In addition, all creatures of Lust of lust possess the Endurance and Bedroom Proficiency feats for free. Creatures of lust dwell on the plane of lust, appearing as well endowed and energetic creatures Climate/Terrain: Same as the base creature. similar to their counterparts on the material world, Organisation: Same as the base creature. but tend to be reddish or pinkish in colour. Their Challenge Rating: Same as the base creature +1. eyes are always deep and soulful and they are always Treasure: Half standard. extremely randy. Alignment: Usually chaotic neutral.",
+        "name":  "Template",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "17th; Weight: 5 lb. cannot be removed without the loss of another 1d6 permanent hit points. The eye confers the following abilities upon its user, all cast as if by a 15th level wizard. 46 CREATURES OF LUST Creatures surrounding waters, then releases them, usually with a crushed foot. of Lust The clam steals the money to lay as bait around its position as fish are attracted to the coins as they glitter in the sun. A pretty face or an offer of sex has been the downfall of many a hero – not all of the Bearded clams are a prized gourmet food and are hazards lust presents are confined to considered to be an aphrodisiac; they have a footpads waiting in an alley for you and the saucy delicate flavour with a slight ‘electric zing’ to the harlot you just picked up to come stumbling down taste. One clam in ten contains a pearl worth 10d10 over the rubbish. gp and requires a Search check (DC 20) to find. There are monsters that lure using sex, monsters that CCCCCooooommmmmbbbbbaaaaattttt propagate themselves in symbiosis with sex and The clam is not a malicious or intelligent creature it monsters that are just rude sounding and suggestive. operates purely by reflex. Here then is but a small selection to terrorise and titillate. Improved Grab (Ex): If the clam is successful in its first attack it clamps hold of the victims leg and does BBBBBeeeeeaaaaarrrrrdddddeeeeeddddd CCCCClllllaaaaammmmm automatic damage each round until it has either Small Vermin taken all of their money or been killed.",
+        "name":  "Caster Level",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Str 10, Dex 14, Con 12 Int -, Wis 12, Cha Colossal Beast 2.",
+        "name":  "Abilities",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Listen +11, Spot +11, Perform (sing) +11. nutrients and feeling around with the tentacles of their beard-like fringe for movement. When they Climate/Terrain: Warm forest, hill, plains and sense a creature walking through the water they marsh. open up and lay out their ‘beard,’ waiting for it to",
+        "name":  "Skills",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Chaotic neutral. the poor person has lost all their money to the 47 CREATURES OF LUST",
+        "name":  "Alignment",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Improved grab, constrict (1d6+1 plus acid). 48 CREATURES OF LUST Spurt (Ex): By expending one of its hit points the giant crab on someone, they will up stakes and move creamy ooze can move in a sudden spurt in addition on to new pastures, after all ‘the pubes are always to its normal movement. This enables it to move an greener on the other side’. The migratory nature of additional 20 ft. per round and if this would move it the bugs means that one of the best, though onto an area occupied by another creature it gains a antisocial, methods of getting rid of them is to ‘sleep free additional attack. around’. GGGGGiiiiiaaaaannnnnttttt CCCCCrrrrraaaaabbbbbsssss CCCCCooooommmmmbbbbbaaaaattttt Fine Vermin Giant crabs are content to live peacefully if left",
+        "name":  "Special Attacks",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Bite 1 + disease, claw 1 blooded living creature. Face/Reach: ½ ft. by ½ ft./0 ft.",
+        "name":  "Damage",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Str 1, Dex 14, Con 14, Int -, Wis 10, Cha 2. While monsters that carry the crabs are tough, foul",
+        "name":  "Abilities",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "½-1 HD (Diminutive) 4 -3 8 -4 Giant crabs, lobsters, bard’s bane, the dreaded knob 16+ -5 nobbler, these vermin go by many names and are spoken of in horror by any who have had a case of *This penalty applies to a character’s AC, attack them, and terrified awe by those who have not yet rolls, ability checks and skill checks. had ‘the pleasure’. Disease (Ex): The giant crabs are carriers of a Enormous pubic lice, the giant crabs are an inch horrible disease know as minge rot, knob dropper, long with large front pincers and a pointed proboscis rotten rod and foul flaps. The disease causes the used for piercing the skin to drink blood. Their person’s john thomas or love tunnel to become armoured carapace and speedy movement makes covered in large, stinking, weeping sores not unlike them hard to catch and kill. Crushing them with chicken pox spots. This disease is transmitted your thumb simply does not work. though the crab’s bite, has an incubation period of 1d3 days and causes 1d3 points of Charisma damage Giant crabs reproduce rapidly, doubling in number unless the character makes a successful Fortitude every week until they reach their maximum colony save (DC 10 + 1/5 crabs infesting a host). size of 20 on a medium-size creature, increasing or decreasing by half for each size category up or OOOOOnnnnneeeee-----EEEEEyyyyyeeeeeddddd TTTTTrrrrrooooouuuuussssseeeeerrrrr SSSSSnnnnnaaaaakkkkkeeeee down. Giant crabs are often carried by goblinoids Fine Animal and ogres, and can make a nasty post-mortem",
+        "name":  "Advancement",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Spit +14 ranged. and migrate to the other partner. If there is only one 49 CREATURES OF LUST",
+        "name":  "Attacks",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Slam 2d10+8. Face/Reach: 5 ft. by 5 ft./10 ft. The one-eyed trouser snake is a remarkable creature.",
+        "name":  "Damage",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "None. creatures that might attack it.",
+        "name":  "Treasure",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Str 18, Dex 12, Con 14, Int -, Wis 13, Cha flower must first hit with its slam attack. 11. Climate/Terrain: Temperate and warm forest, jungle Implant Seedpod (Ex): A siren flower can attempt to and underground. implant a seedpod into the anus of any creature with",
+        "name":  "Abilities",
+        "source":  "nymphology___blue_magic.txt",
+        "_id":  "be113ee7cc9add2b9a1e9bd9430694bfdf5f34e7a7a50dcf1d839a158a65fff6"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The step from the nezumi\u0027s scavenging have long snouts,pinkears,andpronouncedincisors,likeordi- lifestyle to the life of an adventurer is not a large one, and nary rodents.Theirbodies arecoveredwith roughfur, ranging nezumi adventurersareusuallymotivatedbythesimple desire+\u0027 in shadefrom whitethrough gray and brownto black, some- to makethemostoftheirshortlivesthat they can. timessolidandsometimespatterned.Furpatterns tend to run in ratlingfamilies. NEZUMI RACIAL TRAITS The nezumi have five-fingered hands, opposable thumbs, \" +2 Constitution, -2 Charisma. Nezumi are hale and hardy and sharpclaws.Theirlong tails aremostly hairless and have thesamepink colorationas theirearsandpalms.Theirlegs are butrathercrudebyhumanstandards. bent like thoseofrats andhave only threetoes. Medium-size: As Medium-size creatures, nezumi have no Like humanbarbarians,nezumi oftenwearearrings in their specialbonusesorpenaltiesdueto size. Nezumi base speedis 40feet. piercedears,necklacesmade ofboneorteeth, andsimilarorna- mentationthat humans usuallyconsidersavage. Low-lightVision:Nezumi canseetwiceasfaras ahumanin",
+        "name":  "Adventurers",
+        "source":  "oriental_adventures.txt",
+        "_id":  "e8785e92755d28629c91c552122643ce5fdb032c3649f42a3805f41ebbf4ba58"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Nezumi have a better sense of smell than world, andneverfeel completely at home in themundanelife humans do,and are oftenmore able to distinguishhumans ofahumanvillage. fromeach otherbyscentthanby sight. Asafeat,anezumi As spirits, spiritfolkoftengetalongwell with hengeyokai, with aWisdom of 11 or highercantake Scent.This feat lets andthey mayhavefriendsandallies amongotherspirit races anezumidetect approachingenemies, sniffouthiddenfoes, as well. andtrackbysenseofsmell. Alignment:Perhapsbecauseoftheirstrong tiesto thenatu- Anezumi with the Scent feat candetect opponents by ralworld, spirit folk tend to seek balance betweenextremes. senseofsmellasafree action,generallywithin 30feet.Ifthe Theytend toward neutralalignments. opponentis upwind,therangeis 60feet.Ifit is downwind, Spirit Folk Lands: Spirit folk live among humans, but therange is 1s feet. The nezumi can detect strong scents, usuallynearregionsofuntouchedwilderness-uncutbamboo such as smokeor rottinggarbage, at twicetheseranges.The groves,pure streamsandrivers,anddeepoceanwaters.Unlike nezumicandetectoverpoweringscents,such as skunkmusk hengeyokai, they are more tightly integrated into human ortroglodyte stench,atthreetimestheseranges. communities,boundbyfamilyties.Theydonotusuallyjoinin The nezumi detects anothercreature\u0027s presence butnot communitieswith otherspiritfolk. its specific location. Noting the direction ofthe scent is a Religion: Spirit folk share the religious habits ofhumans, move-equivalent action. If he moves within s feet of the veneratingahost ofspiritsandFortunes.They typicallyvener- scent\u0027ssource,thenezumicanpinpointthat source. atetheirhumanancestorsas wellas theirspirit forebears.",
+        "name":  "Keen Scent",
+        "source":  "oriental_adventures.txt",
+        "_id":  "e8785e92755d28629c91c552122643ce5fdb032c3649f42a3805f41ebbf4ba58"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Spirit folk speak Common in their human making aWisdom checktofindorfollowatrack.Thetypical communities,butcanalso converseintheSpiritTonguethatis DC for a fresh trail is 10. The DC increases or decreases used amongspirit creatures. dependingonhowstrongthequarry\u0027sodoris,thenumberof Names:Spiritfolkusuallyhave humannames,thoughtheir creatures, andtheageofthetrail.Foreachhourthatthetrail givennamesoftenreflecttheirancestry. is cold,the DCincreasesby2.The abilityotherwise follows Adventurers: Some spirit folk feel their difference from therulesfortheTrackfeat.Nezumi trackingbyscentignore theirhumanneighborsmore acutelythan othersoftheirkind, theeffectsofsurfaceconditions andpoor visibility. andtake upthelife ofan adventurerinordertofindtheirown Nezumi with the Scent feat can identify familiar odors way in theworld. Sometimes, sheerwanderlust drives aspirit justas humansdofamiliar sights. folkto exploretheworld. Water, particularly runningwater, ruinsatrail. False, powerful odors caneasily mask other scents.The SPIRIT FOLK RACIAL TRAITS presence of such an odor completely spoils the ability to Theseabilitiesarecommon toallthreesubraces ofspirit folk. properly detect or identify creatures, and thebase Wilder- Medium-size:Asmedium-sizecreatures,spirit folk have no ness Lore DC to trackbecomes20ratherthan 10. specialbonusesorpenaltiesdueto size.",
+        "name":  "Anezumiwith theScentfeatcanfollowtracks bysmell, Language",
+        "source":  "oriental_adventures.txt",
+        "_id":  "e8785e92755d28629c91c552122643ce5fdb032c3649f42a3805f41ebbf4ba58"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "AsdescribedinthePlayer\u0027sHandbook,adventur- samuraiclass, and mercenaries, includingmanymembersof ing is thebestwayforabarbariancharacter-whatever his theYoritomofamily. origin-tofind aplacein civilizedsociety.Though fewbarbar- Fighters in othercampaign settings generallyfollow the ians will ever earn therecognitionofa daimyoor anykind of guidelinesinthePlayer\u0027s Handbook. socialstatus,withanadventuringpartyabarbariancanfeellike Races:In Rokugan, humans arethemostcommon fighters, anequalamong samuraiandshugenjas. Forsome barbarians, butnezumiandShadowlandscreaturescanbecomefighters as thatis enough;othersquestaftertheimpossible,hopingbythe well.Aratlingfighteris unusuallywell trainedforhisspecies, greatnessoftheirdeedstowinaplaceamongthenobility. andmayhave studiedwithaCrabsamurai,forexample.",
+        "name":  "Adventures",
+        "source":  "oriental_adventures.txt",
+        "_id":  "e8785e92755d28629c91c552122643ce5fdb032c3649f42a3805f41ebbf4ba58"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Ronins fallinto twocategories:\"Clanronins\" are raised bythemonks, heimin or hininpeasants, samurai are members ofthegreatclanswhohavefallen outoffavor nobles,retiredgenerals,spirit folk andhengeyokai, andeven with theirlord.Themostcommon reasonforthis is somehow therare ratling,korobokuru,or vanara allmaydedicate their allowingthelord to die-eitherin battle or underan assassin\u0027s livesto enlightenmentandlearnthespiritualandphysicaldis- blade. Clanronins clingto the hope of regaining theirlost ciplines ofamonk.Whatever theirsocial or racial origin, honor. \"Trueronins\"have neverbelonged to oneoftheclans, monksdevote theirwholeloyaltytothepathofenlightenment, usuallycomingfromaroninfamily. claiming kinshiponlywithothermonks, notwith clan or Otherfighters in Rokuganinclude some Scorpion bushi, family.In theCelestialOrderof Rokugan\u0027ssociety, monksare whousuallydonotmeetthealignmentrestrictionofthe equalto thefarmerheimins, whatevertheirbirth. ThemonksofRokuganarevigilantchampionsofenlighten- is generallyunderstood in DUNGEONS \u0026DRAGONS.Rangersare ment,opponentsofthedarkness-whether that darkness is morelikelythan anyothercharactertoventureintothewilder- manifested in theShadowlandsor in simple ignorance. Since ness fortheexpresspurposeofkillingmonsters.Also, they theBattleofOblivion\u0027sGate,themonksofRokuganhavecome work with armies ofsamurai and warriors, leading them to realize that theirphilosophy ofwithdrawal from theworld throughdangerousterrainand scouting outenemypositions. wasnotsufficientto protecttheworldfromdarkness,andthey Background:AmongtheCrabclanofRokugan, theskills of have adoptedamore aggressive strategy ofteachingtheclans rangersaretaught in aformal school, whichprides itselfon thetruths oftheTao.As a result,theranks ofthemonksare being anintegral part ofthe Empire\u0027s defense againstthe swelling,andmanysamuraiandshugenjasarelearning at least Shadowlands. Otherrangers undergomore informal training, thebasicteachingsofShinsei. oftenundertheguidanceofamentororparent.",
+        "name":  "Background",
+        "source":  "oriental_adventures.txt",
+        "_id":  "e8785e92755d28629c91c552122643ce5fdb032c3649f42a3805f41ebbf4ba58"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "d12. tionalability,whichhe canusewhen hehitswithaclawattack. Hisface becomes5feetby10feet. TABLE 3-3:THE BEAR WARRIOR .. Class Base Fort Ref Will Level Attack Bonus Save Save Save Special 1st +1 +2 +0 +2 Bearform (block) 1/day 2nd +2 +3 +0 +3 3rd +3 +3 +1 +3 Scent 4th +4 +4 +1 +4 Bearform (brown) 2/day 5th +5 = - +4 +1 +4 Extraraging 6th +6 +5 +2 +5 8th +8 +6 +2 +6 Bearform (dire) 3/day 9th +9 +6 +3 +6 10th +10 +7 +3 +7 Extra raging At8thlevel,thebearwarriorcanassumebearform threetimes eachday(while in a rage,fury, or hi frenzy)andcan choose betweenblack, brown,anddirebearforms.Indire bearform,the bearwarrior\u0027sStrengthincreasesby+20, hisDexterityby+2,and hisConstitutionby +8. He gains a+7naturalAC bonus, and becomes size Large. Hisclaw attacksdeal 2d4points ofdamage plus hisStrengthbonus, andhisbite attack deals2d8points of damageplusone-halfhisStrengthbonus.He gainstheimproved grabexceptionalability,whichhecanusewhenhehitswith aclaw attack.Hisface becomes10feetby20feet,andhisreachis 10feet. Scent(Ex):At3rdlevel, abearwarriorgainsthescentspecial ability.This allows thecharacterto detect opponentsbysenseof smellasafreeaction,generallywithin 30feet.Iftheopponentis upwind,therangeis 60feet.Ifit is downwind,therangeis 15 feet.Thebearwarriorcandetectstrongscents,suchas smokeor rottinggarbage, at twicethese ranges.The bear warriorcan detect overpowering scents,such as skunkmusk or troglodyte stench,atthreetimestheseranges. Thebear warriordetectsanothercreature\u0027s presence butnot itsspecificlocation.Notingthedirectionofthescentis amove- equivalent action. Ifhe moveswithin 5feet ofthescent\u0027s source,thebearwarriorcanpinpointthatsource. The bearwarrior canfollow tracks by smell, making a Wisdom checkto find or follow atrack.ThetypicalDC for afresh trailis 10.TheDC increasesordecreasesdependingon howstrong thequarry\u0027s odoris,thenumber of creatures,and theageofthetrail.Foreach hourthat the trailis cold, theDC increasesby2.Theabilityotherwise followstherulesforthe Trackfeat.Bearwarriors trackingbyscentignore theeffectsof surfaceconditions andpoor visibility. Bear warriors canidentify familiar odorsjust as normal humans dofamiliar sights.Water, particularly runningwater, ruinsatrail. False, powerful odorscaneasily mask otherscents.Thepres- ence ofsuch an odorcompletely spoils theabilityto properly detect or identify creatures,and thebase Wilderness Lore DC to trackbecomes20 rather than 10.",
+        "name":  "Hit Die",
+        "source":  "oriental_adventures.txt",
+        "_id":  "e8785e92755d28629c91c552122643ce5fdb032c3649f42a3805f41ebbf4ba58"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Yougain a+2bonusonDisguise andGather infor- Creatures that are immune to stunning attacksarealso mation checks. immunetothisfeat,as areanycreaturesthataremore thanone size categorylargerthan thefeatuser. LUCK OF HEROES [ANCESTOR] You aredescendedfrom the quick-footed andquick-witted POWER ATTACK - IAIJUTSU Hiruma,thearchetypalhunter andscout. [ANCESTOR]",
+        "name":  "Benefit",
+        "source":  "oriental_adventures.txt",
+        "_id":  "e8785e92755d28629c91c552122643ce5fdb032c3649f42a3805f41ebbf4ba58"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Crab. featagainstacreature withtheShadow-",
+        "name":  "Clan",
+        "source":  "oriental_adventures.txt",
+        "_id":  "e8785e92755d28629c91c552122643ce5fdb032c3649f42a3805f41ebbf4ba58"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Aflashpowdergrenadeis effectiveonly when Eggshell grenade, pepper _ 10gp throwninto afiresource,whereit explodes in abrilliantflashof Eggshell grenade, poison smoke 150gp light.Anycreature within 10feet mustmakeasuccessfulForti- Flashpaper (square) \" 5gp tude save(DC10)orbeblindedfor1d4rounds.Thereisnoeffect jade powder (flask) 100gp ifthegrenademisses thefire (thoughthegrenadeis ruined). Liquid smoke(flask) 20gp",
+        "name":  "Flashpowder",
+        "source":  "oriental_adventures.txt",
+        "_id":  "e8785e92755d28629c91c552122643ce5fdb032c3649f42a3805f41ebbf4ba58"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Bardic music ability. plants and plant creatures.",
+        "name":  "Prerequisite",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A character may gain this feat multiple they infl uence plants and plant creatures in addition to times. any other creatures they would normally affect.",
+        "name":  "Special",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You can use any skill untrained, even those RReqeuqiueimem [G [Geneenrearla]l ] that normally require training and those that are exclu- Your bardic music affects undead creatures. sive to classes you don’t have. You cannot, however, gain Prerequisite: Bardic music ability, 12+ ranks in Perform. ranks in a skill unless you are allowed to select it. Benefi t: You can extend your mind-affecting bardic music and virtuoso performance effects so that they LiLnignegreirnign gS oSnogn g[G [Geneenrearla]l] infl uence even the undead. All bardic music effects Your bardic music stays with the listeners long after on undead creatures have only half the duration they the last note has died away. normally would against the living.",
+        "name":  "Benefi t",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Smugglers are always looking for new 51–60 Fugitives/refugees sources of contraband and new ways to sneak it into 61-65 Political tracts the city. Even if they have reliable channels, they 66-80 Stolen goods still need backups to ensure that they won’t be out of 81-90 Dangerous monsters business if something goes awry. Furthermore, black 91-95 Dead bodies for necromantic research markets rely on monopoly pricing, so the leaders of 96-100 Artworks depicting forbidden subjects a smuggler cartel work aggressively to eliminate any rival bootleggers. The exact composition and actual value of the smuggled",
+        "name":  "Goals",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Each guild in this type of confl ict has war—and fi nd themselves in the crossfi re. its own structure, which mimics one of the other types A beginning character might decide to adopt the life detailed in this section. It’s unlikely that two parallel of an adventurer after her mentors fi nd themselves on thieves’ guilds would evolve in the same city at the same the losing end of a thieves’ war. time, so the warring guilds are usually of different types. MMoonnstsetre-rB-Basaesded G Guiuldild Two similar guilds are possible, however, if a leadership struggle in a monolithic thieves’ guild has resulted in Thieves’ guilds operate from the shadows, and their the breakup of the organization. In that case, the factions leaders rarely see the light of day. That makes guild would start out with the same protocols and styles but leadership a perfect vehicle for a spectre (or any other quickly diverge. monster wishing to infl uence city dwellers) to use in",
+        "name":  "Organization",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Loyalty is the most important element accomplishing its goals. Another such guild is the type in a guild war. Even when members are under constant dominated by members of one humanoid race. Like scrutiny, betrayals are common. all guilds, a monster-based guild typically takes on the",
+        "name":  "Guild Rules",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Advancing in rank is characteristics of its members. often easier in this situation than it is when a town has Organization: A guild dominated by a particular only one guild. War causes attrition in both guilds’ ranks, racial or monster type has either a traditional guild so openings are common. Of course, some thieves try to structure or one that refl ects the society of the crea- advance by switching sides and offering the enemy infor- tures involved. Dwarf-dominated thieves’ guilds, for mation, but this is particularly risky—no one really trusts example, are organized into “clans” with hereditary a traitor. leaders. A thieves’ guild run by mind fl ayers, on the",
+        "name":  "Advancement Opportunities",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "If the guilds are truly separate, each has the of the creatures involved. same sorts of bases it otherwise would. If a single thieves’ Assets: The key assets for this guild are the unusual guild has split into warring factions, however, most of the abilities of its members. Shadows, for example, are totally splinter groups quickly establish their own small, secret silent, so they can glide into almost any building and bases and hideouts. eavesdrop. (They leave the actual thieving to other guild",
+        "name":  "Locations",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Most factions in a thieves’ war share one goal: members, however, since they can’t pick up solid objects.) Wipe out the other factions and become the only thieves’ An all-kobold thieves’ guild might have a number of sor- guild in the city. However, small factions may simply cerers in its ranks, and an elven guild would approach its want to survive, or a losing faction might want to move political moves with the patience of thieves who can af- to another city where the pickings are easier. (Of course, ford to case a location for decades. such a relocation could result in confl ict with the thieves’ Locations: Because few cities have large populations guild in the new city.) of unusual creatures, the leaders of a monster-based",
+        "name":  "Goals",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The primary confl ict each guild faces in thieves’ guild take extra pains to provide a safe haven this situation is with rival guilds, of course, but all the where members can live when not actually thieving. usual pressures are still present as well. Law enforce- Many monsters favor underground locations, although ment doesn’t stop just because the thieves are killing any secret place works. Some creatures (doppelgangers, each other, and merchants and nobles remain just as for example) don’t require anything special in terms of committed to protecting their riches. Finally, a thieves’ a hideout because hiding is part of their nature. A guild guild that splintered once can certainly do so again. Just dominated by a single race, on the other hand, usually has because a thieves’ war is raging doesn’t mean that every locations that fi t its members’ heritage. Halfl ing guilds, guild member has put away all grudges and rivalries. for example, are more mobile than their traditional",
+        "name":  "Confl icts",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The characters fi nd themselves allied (on counterparts, so their leaders often disguise their guild purpose or through circumstance) with one faction in headquarters as trade caravans. 69 a thieves’ war. This, of course, draws attacks from the Goals: Most monster-based thieves’ guilds have the other factions. same goals as their human-centered counterparts: Get CHAPTER 4: ORGANIZATIONS FOR BARDS \u0026 ROGUES rich, avoid detection, and strengthen the membership. Assets: These guilds lack many of the resources that Occasionally, however, a guild is just part of some larger established guilds have. Their leaders aren’t rich, they effort. For example, forming a thieves’ guild of wererats don’t have extensive contacts in the community, and might be the fi rst step in a dark plan to infect an entire they don’t have the personnel to carry out big jobs. city with lycanthropy. But sometimes small size is an asset. Small groups",
+        "name":  "Hooks",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Though this college considers any Rivalries sometimes emerge between two Arcanobiolo- nonhumanoid monster worthy of study, each member gists who both claim the same discovery, but that’s an- tends to focus on either one kind of creature (such as other problem for the regents to settle. nagas or sphinxes) or one aspect of monsters in general Dues: Each member must pay annual dues of 500 gp. (such as internal anatomy or lair selection). Some Ar- Relations: In general, Arcanobiologists get along canobiologists spend their time in laboratories, dissect- well with members of other academic colleges, such as ing specimens and breeding creatures in captivity. Oth- the College of Concrescent Lore and the Conservatory ers go out into the fi eld to track and observe creatures in of the Ineffable Chord. Intelligent creatures who are their natural habitats. the subjects of an Arcanobiologist’s study react with at-",
+        "name":  "Area of Study",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The College of Arcanobiological titudes that range from amusement to enmity. For ex- Studies consists of many schools, each devoted to a par- ample, phasms fi nd the attention fl attering, but lamias ticular specialty, but there’s no rhyme or reason to these want to “dissect the dissectors.” divisions.ıSome schools focus on all aspects of a certain LaLmamenetnetresr’s O’ Ordrderer creature type, while others study behaviors common to many creatures. Thus, two different researchers—one The members of this college study death: how people from the school of chimeras and one from the school prepare for it, what occurs at the moment it happens, and of reproduction—might both have reason to observe a how the survivors grieve afterward. Some Lamenters are mother chimera’s lair. passive observers, awaiting their own opportunities to Fourteen regents attempt to make sense of this study life’s greatest mystery. Others do more active re- college’s dozens of schools. These former researchers ad- search by hastening the end for those they would study. minister the college’s entrance examinations, decide on Understandably, such Lamenters have given the entire promotions and transfers, and seek funds from nobles college an unsavory reputation. and kings to continue research. Turnover among the Area of Study: This college began as a musical one regents is high—after a few years of management, most devoted to the creation and performance of funeral regents are eager to get back to their laboratories and music. Its members were sought out to provide dirges fi eld-blinds. and tribute-songs for funerals in many lands. Eventual- 73",
+        "name":  "Organization",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Candidates for membership must pres- usually means more practice and a long journey. ent themselves before the High Council at the moun- Conservatory members who’ve retired from active tain citadel for testing. Finding the place is diffi cult composition and performance serve as instructional staff enough, but getting there is also a challenge because for the college’s campuses in return for sizable stipends. the surrounding wilderness is full of monsters and other Most of these teachers live on campus. dangers. Those who attain the citadel must pass an oral Activities: Every troubadour must study both compo- examination in arcana, history, the planes, or religion. A sition and performance. A bard who is accomplished at successful Knowledge check (DC 20) in the appropriate the lute but unable to pen his own songs is quickly shown area earns admission. the door, as is a songwriting prodigy who can’t sing like",
+        "name":  "Admission",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Anything of interest to tattoo on each League member’s left forearm. Though Explorers and The travelers is of interest to the League. The wearing actual red boots is not required, most members League college offers no formal, academic studies, do put red trim on their boots. In addition, every mem- The League of Boot and Trail but its members are renowned guides and ber carves two small notches in each boot heel so as to counts many royal explorers scouts. They know, for example, the loca- leave distinctive tracks. among its members. Some of tions of toll booths, the best way to cross Admission: To join the League of Boot and Trail, a the world’s most legendary ad- the Midnight Desert, and which church prospective member must present three gifts, all originat- venturers recruit for their expe- now rules the province of Aramador. ing from at least 300 miles away, to a station head. One of ditions by posting offers of em- Organization: Because its members these gifts must be a case of liquor worth at least 250 gp, ployment on the walls of League are rarely in the same place for long, the one must be an object of art worth at least 300 gp, and the station common rooms. After League of Boot and Trail has little formal last must be a riding horse or warhorse. If the gifts meet all, anyone heading beyond the organization and no central leadership. all the requirements, the candidate is tattooed with the edge of the world should have Nearly every city of any size has a League red boot and accepted as a member after a riotous party. some seasoned travelers along. station, where members can fi le reports on Membership Benefi ts: The most signifi cant benefi t A typical League station might their travels, conduct research for future to membership in the League of Boot and Trail is access have the following postings: journeys, and share drinks and tales of to the reports of previous travelers. A League station’s • Travel with Karil Minick to the road. A senior member serves as sta- information about travel hazards, monsters, and current the mirrored ice caves of tion head at each such location. If a crisis events isn’t always up-to-date, of course, but when it is, affects the college as a whole, as many it’s highly reliable. Suskana. Hiring experienced station heads as possible meet somewhere Any member can use the spartan accommodations at guards, scouts, healers, and and reach a solution by consensus. a League station free of charge. Many League stations arcanists. Pays 10 gp/day + a",
+        "name":  "Area of Study",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You provoke an attack of If the line between two allies passes through opposite opportunity from the target you are trying to garrote. If corners of an enemy’s area, the allies fl ank that creature. the attack of opportunity deals you damage, your garrote For example, on the map labeled Diagonal Corners and attack fails.",
+        "name":  "DDiaigaognoanla Cl oCronrenresr sa nadn dF lFalnakniknigng Attack of Opportunity",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The caster’s instrument. Fanfare creates a trumpet blast so loud that it can shake CrCersecsecnednodo the foundations of buildings or stop an army in its tracks. Evocation Every creature within the area must make a Fortitude",
+        "name":  "Focus",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Brd 2 save. Success means the creature is stunned for 1d4",
+        "name":  "Level",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1 action means the creature takes 4d6 points of damage in addi-",
+        "name":  "Casting Time",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Living creatures with fewer than 5 HD song, the fascinate effect of bardic music, or a horn of blast-",
+        "name":  "Area",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A fox’s tail. Healthful slumber doubles the subjects’ natural healing HHaramrmonoinci cC Chohroursus rate. Each affected creature regains twice the hit points Transmutation it otherwise would have during that day, depending on",
+        "name":  "Material Component",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One living creature Evocation [Good, Sonic]",
+        "name":  "Target",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "None that’s exactly what happens. A dancing creature suffers",
+        "name":  "Saving Throw",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Living creatures within a 15-ft.-radius burst but the effect is realistic enough to fool anyone who can’t",
+        "name":  "Area",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One living creature per level Perform checks and bardic music prerequisites, the 94 Duration: Concentration (see text) creature uses its own ranks in Perform or half of yours,",
+        "name":  "Targets",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Concentration plus 1 round/level (D) Sympathetic vibration cannot affect living creatures. A",
+        "name":  "Duration",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Brd 6 besides. Each creature that fails its Will save takes 1d4",
+        "name":  "Level",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One freestanding structure creature has a 50% chance to drop whatever it’s hold-",
+        "name":  "Target",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "David Noonan, John D. Rateliff, run this mini-adventure. and Penny Williams Editing Miranda Horner Text in shaded boxes is player information. Monster",
+        "name":  "Design",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Julia Martin ated, but provide the MONSTERMANUALpage number.",
+        "name":  "Web Production",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Two otyughs (see creature entries in the • The abandoned thieves’ lair is located in a portion MONSTERMANUAL) have made their lair in a particularly of what is now the city’s sewers. The document large and disgusting pile of refuse in the section of that reveals this information also recounts a pub- sewer where the abandoned lair is located. Their eye- lic proclamation that all the passages leading to stalks protrude just above the refuse; the rest of their this section were filled in when Andrella’s father bodies are concealed by the muck. broke up the old guild. (A successful Search check dOtyughs (2):hp 32, 38, see MONSTERMANUALpages [DC 25] at this point reveals that though the for- 147–148. mer baron announced that he had destroyed the Once the characters have defeated the two otyughs, a lair, he may not actually have done so. There is a successful Search check (DC 15) in the refuse pile decided lack of passage-filling supplies ordered reveals their treasure: a bag containing 500 gp, one tour- during that time , and all other expenditures look maline (200 gp), one deep blue spinel (475 gp), one aqua- normal for the period when compared to the marine (600 gp), a masterwork dagger, and a chain shirt. months just before and just after the proclama-",
+        "name":  "Creatures",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "30,600 gp. for lair details), the characters must enter the vast net- work of sewer passages through a street-level access Encounter 8B: Abandoned Lair point on the north side of town and traverse at least one (EL 4) mile of dark, crumbling passageways. These passages Beyond the door, a passage leads into the darkness. It connect stormwater drains, catacombs, trash pits, and splits into two passageways about 100 feet from the other unsavory areas. A number of equally unsavory door, and on either side, three empty chambers open creatures call them home. from its twisting length. The corridors in the section As with wandering monster rolls in a dungeon, beyond this door have not been filled in—in fact, they there’s a base 10% chance per hour that characters can are in remarkably good condition for an abandoned encounter something in the city sewers. In addition, lair. Though the passages are dark and dank, the walls there’s a 10% chance every time they make noise or and floors seem clean. Both passages eventually con- visit a high-traffic area within the sewer network that verge at a single chamber. they can encounter a monster. The DM may use the",
+        "name":  "Market Price",
+        "source":  "song_and_silence.txt",
+        "_id":  "ddaabb6653bef00d7f9b1849e0a8e2f1be4e817552c98048e3be3b3c331d42d0"
+    }
+]

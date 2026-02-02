@@ -1,0 +1,124 @@
+﻿{
+    "by_category":  [
+                        {
+                            "count":  25,
+                            "category":  "armor"
+                        },
+                        {
+                            "count":  27,
+                            "category":  "monsters"
+                        },
+                        {
+                            "count":  26,
+                            "category":  "powers"
+                        }
+                    ],
+    "samples":  [
+                    {
+                        "category":  "armor",
+                        "examples":  [
+                                         {
+                                             "name":  "Effect",
+                                             "_id":  "b52f2ec282237ced256fa631237d2f49b802b02389d0a28694835b2d980f4191",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Duration",
+                                             "_id":  "76d922b77dffbab29d28593625766df419e1035e9de98a271e102c3432a9564c",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Description",
+                                             "_id":  "4eb9058c9f90e233ba17c72de161b02ecfd80dbe14a7f9de921eabf0f99be8d5",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Example",
+                                             "_id":  "057363f21c12bb098ca8fd2c5dfa2ae34471a558424d4443186bd2365eec5a93",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "DDMindshredder Zenthal",
+                                             "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555",
+                                             "auto_category":  "armor",
+                                             "confidence":  "strong"
+                                         }
+                                     ]
+                    },
+                    {
+                        "category":  "monsters",
+                        "examples":  [
+                                         {
+                                             "name":  "Support",
+                                             "_id":  "2c61f0d74a7fa62caa32567aa028a968c002e87fe7d35c2303c15b7f7cd80ecb",
+                                             "auto_category":  "monsters",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Dogma",
+                                             "_id":  "bc99cbf2651cf187ea3b0807b2e27e07bcdc7e9d1e967a0a5b359fdf987277e7",
+                                             "auto_category":  "monsters",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Spell Resistance",
+                                             "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2",
+                                             "auto_category":  "monsters",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "A morkoth can hypnotize any number of creatures at one Abilities",
+                                             "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3",
+                                             "auto_category":  "monsters",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Summoning Focus",
+                                             "_id":  "e3dc8037fb581147eb9f4b66b67256a70a90e4ca7407f4ca628bc3df8b122cc5",
+                                             "auto_category":  "monsters",
+                                             "confidence":  "strong"
+                                         }
+                                     ]
+                    },
+                    {
+                        "category":  "powers",
+                        "examples":  [
+                                         {
+                                             "name":  "Laboratory Transfusion Apparatus",
+                                             "_id":  "a15734a6dd71eea57fd734fcec656008a0f471ef03af6934f84ba3d8d6994472",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "The following section describes new uses for the skills noted Try Again",
+                                             "_id":  "b23601a81bab0bb28837857cc1300f74e1c83173a1d8e83d4f51d3a6d080071c",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Author",
+                                             "_id":  "3596e59ece9afe3015d46c26d1760922072ca8764497348e9e42506608de533d",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Physical or Mental Entry",
+                                             "_id":  "78bfa5cbfec64fbc9ffc9ccf3b5e4e85b8c8993cf18bfadb9d0bd10cb53f1a90",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         },
+                                         {
+                                             "name":  "Power Points",
+                                             "_id":  "2001fa5e4e4e3c8cb8a522d03d7e8fe74c828de8e5ec4f68ef3cc8eeddb5743c",
+                                             "auto_category":  "powers",
+                                             "confidence":  "strong"
+                                         }
+                                     ]
+                    }
+                ],
+    "total_merged":  78
+}

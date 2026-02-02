@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "other.json",
+        "description":  "2 slams +8 melee and butt +6 melee 2 claws +14 melee and bite +9 melee",
+        "name":  "Attacks",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam 1d6+4, butt 1d3+2 Claw 1d4+6, bite 1d6+3 Face/Reach: 5 ft. by 5 ft./5 ft. 5 ft. by 5 ft./5 ft.",
+        "name":  "Damage",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Celestial traits, horn powers, outsider traits Celestial traits, dodge missiles, DR 20/+2, outsider traits, scent",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +6, Ref +7, Will +7 Fort +7, Ref +11, Will +10",
+        "name":  "Saves",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 18, Dex 17, Con 15, Int 12, Wis 17, Cha 16 Str 23, Dex 20, Con 13, Int 16, Wis 18, Cha 15",
+        "name":  "Abilities",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Multiattack, Power Attack Alertness, Power Attack, Track Climate/Terrain: Elysium or any forest Elysium or any forest, plain, or hills",
+        "name":  "Feats",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary, pair, or team (3–6) Solitary, pair, or pack (3–8)",
+        "name":  "Organization",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "3 5",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None None",
+        "name":  "Treasure",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually neutral good Usually neutral good",
+        "name":  "Alignment",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "7d10 (38 hp)",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+3",
+        "name":  "Initiative",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. (can’t run)",
+        "name":  "Speed",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "21 (+3 Dex, +8 natural), touch 13, flat-footed 18",
+        "name":  "AC",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 chain rakes +9 melee",
+        "name":  "Attacks",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Chain rake 1d8+4 plus wounding Face/Reach: 5 ft. by 5 ft./10 ft.",
+        "name":  "Damage",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Chain barrier, wounding",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +2, Ref +5, Will +2",
+        "name":  "Saves",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 18, Dex 17, Con —, Int —, Wis 11, Cha 1",
+        "name":  "Abilities",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Dodge (B), Expertise (B), Improved Disarm (B), Improved Trip (B) Climate/Terrain:Any land or underground",
+        "name":  "Feats",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary",
+        "name":  "Organization",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "Treasure",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral",
+        "name":  "Alignment",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4d10+4 (26 hp) to regrow or reattach",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+2 lost body parts.",
+        "name":  "Initiative",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft., climb 30 ft., fly 40 ft. (poor) Scent (Ex):A cloaked",
+        "name":  "Speed",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "16 (+2 Dex, +4 natural), touch 12, flat-footed 14 ape can detect ap-",
+        "name":  "AC",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 claws +4 melee and bite –1 melee proaching enemies,",
+        "name":  "Attacks",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Claw 1d6, bite 1d6 sniff out hid-",
+        "name":  "Damage",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Improved grab den foes, and",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Darkvision 60 ft., DR 5/silver, track by sense fast healing 3, low-light vision, scent of smell.",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +5, Ref +6, Will +2",
+        "name":  "Saves",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 11, Dex 14, Con 12, Int 3, Wis 12, Cha 5",
+        "name":  "Abilities",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Climb +9, Listen +3, Spot +3, Tumble +4, Wilderness Lore +3",
+        "name":  "Skills",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Flyby Attack Climate/Terrain:Warm forest",
+        "name":  "Feats",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary, pair, or pack (5–20)",
+        "name":  "Organization",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral",
+        "name":  "Alignment",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4d10 (22 hp) 8d10 (44 hp)",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+2 +2",
+        "name":  "Initiative",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. 30 ft.",
+        "name":  "Speed",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "19 (+1 size, +1 Dex, +7 natural), 22 (+1 size, +2 Dex, +9 natural), touch 12, flat-footed 18 touch 13, flat-footed 20",
+        "name":  "AC",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Razor saw +5 melee, or pressure dart +5 ranged Razor saw +9 melee",
+        "name":  "Attacks",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Razor saw 1d8+1, pressure dart 2d4+1 Razor saw 1d10+3 Face/Reach: 5 ft. by 5 ft./5 ft. 5 ft. by 5 ft./5 ft.",
+        "name":  "Damage",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— Lightning bolt",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +1, Ref +2, Will +3 Fort +2, Ref +4, Will +5",
+        "name":  "Saves",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 12, Dex 13, Con —, Int 5, Wis 14, Cha 5 Str 14, Dex 15, Con —, Int 9, Wis 16, Cha 11",
+        "name":  "Abilities",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Point Blank Shot (B), Precise Shot (B) Cleave (B), Power Attack (B), Sunder (B) Climate/Terrain: Any land and underground Any land and underground",
+        "name":  "Feats",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Pair or component (3–8) Module (1–2 plus 3–12 electrum horrors)",
+        "name":  "Organization",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4 5",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "50% coins, 50% goods (gems only) 50% coins, 50% goods (gems only)",
+        "name":  "Treasure",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always lawful evil Always lawful evil",
+        "name":  "Alignment",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— — Platinum Horror Adamantine Horror Small Construct Small Construct",
+        "name":  "Advancement",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "12d10 (66 hp) 16d10 (88 hp)",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+3 +8",
+        "name":  "Initiative",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "40 ft. 50 ft.",
+        "name":  "Speed",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "25 (+1 size, +3 Dex, +11 natural), 28 (+1 size, +4 Dex, +13 natural), touch 14, flat-footed 22 touch 15, flat-footed 24",
+        "name":  "AC",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Razor saw +13 melee Razor saw +18 melee",
+        "name":  "Attacks",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Razor saw 1d12+4 Razor saw 2d10+7 Face/Reach: 5 ft. by 5 ft./5 ft. 5 ft. by 5 ft./5 ft.",
+        "name":  "Damage",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +4, Ref +7, Will +9 Fort +5, Ref +9, Will +12",
+        "name":  "Saves",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 16, Dex 17, Con —, Int 13, Wis 20, Cha 15 Str 20, Dex 19, Con —, Int 17, Wis 24, Cha 21",
+        "name":  "Abilities",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cleave (B), Great Cleave (B), Power Attack(B), Cleave (B), Great Cleave (B), Improved Initiative Sunder (B) (B), Power Attack (B), Sunder (B) Climate/Terrain: Any land and underground Any land and underground",
+        "name":  "Feats",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Series (1 plus 1–2 gold horrors Assembly (1 plus 1–2 platinum horrors, 3–4 and 4–16 electrum horrors) gold horrors, and 5–20 electrum horrors)",
+        "name":  "Organization",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "7 9",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "50% coins, 50% goods (gems only) 50% coins, 50% goods (gems only)",
+        "name":  "Treasure",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always lawful evil Always lawful evil",
+        "name":  "Alignment",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Darkvision 60 ft., levitate, low-light PLATINUM HORROR vision, protection from arrows, telekinesis",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Thanks to its coloration, a cloud ray has a +16 racial bonus on Hide checks. *When it tires of drifting through the sky, it settles to the ground for rest. Through a combina- tion of telekinesis and moving its great wing-flaps, it covers itself with dust, dirt, rocks, logs, uprooted bushes, and what- ever else is nearby. While it is thus camouflaged, its Hide modifier rises to +32. The ray may rest on the ground thus covered for a few hours or a few weeks.",
+        "name":  "Skills",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1d10 (5 hp)",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+3",
+        "name":  "Initiative",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10 ft., fly 60 ft. (good)",
+        "name":  "Speed",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "17 (+2 size, +3 Dex, +2 natural), touch 15, flat-footed 14",
+        "name":  "AC",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Claw +6 melee",
+        "name":  "Attacks",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Claw 1d3–5 Face/Reach:2 1/2 ft. by 2 1/2 ft./0 ft. and tearing food. Its throat empties directly into its intestines, Special Attacks:Color spray so the ray must chew its food thoroughly to ensure proper Special Qualities: Darkvision 60 ft., DR 5/silver, low-light digestion. Once inside the ray’s throat, the opponent takes vision, SR 12 3d10+22 points of bludgeoning, slashing, and piercing Saves:Fort +2, Ref +5, Will +2 damage per round from its teeth and muscular contractions. Abilities:Str 1, Dex 17, Con 11, Int 2, Wis 14, Cha 16",
+        "name":  "Damage",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30d12 (195 hp)",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+2",
+        "name":  "TRAINING A COROLLAX Initiative",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "13d12 (84 hp) an additional 1d4 points of Constitution damage. The crim-",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+9 son death craves blood, so it usually presses its attack until it",
+        "name":  "Initiative",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fly 30 ft. (perfect) can deal at least 12 points of Constitution damage.",
+        "name":  "Speed",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "17 (Dex +5, deflection +2), touch 17, flat-footed 12 Seize (Ex):When a crimson death makes a successful",
+        "name":  "AC",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 incorporeal touches +11 melee incorporeal touch attack, one of its tendrils wraps around",
+        "name":  "Attacks",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Blood drain, seize Escape Artist or grapple check (grapple bonus +11). Upon",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Incorporeal subtype, lift, undead traits seizing an opponent, the crimson death begins draining",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +4, Ref +11, Will +10 blood (see above).",
+        "name":  "Saves",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str —, Dex 21, Con —, Int 17, Wis 15, Cha 14 Incorporeal Subtype:A crimson death can be harmed",
+        "name":  "Abilities",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "11 deflection bonuses and force effects",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard work normally against them. A",
+        "name":  "Treasure",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral evil crimson death always moves",
+        "name":  "Alignment",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "9d8+27 (67 hp) A darktentacles speaks Common and Aquan.",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+2",
+        "name":  "Initiative",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5 ft., swim 20 ft. COMBAT",
+        "name":  "Speed",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 19, Dex 15, Con 17, Int 14, Wis 12, Cha 12 only one tentacle. It can use a maximum of three tentacles",
+        "name":  "Abilities",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Concentration +11, Hide +14, Listen +6, Move against all foes in any single 5-foot by 5-foot area. Silently +14, Spot +6 Constrict (Ex): With a successful grapple check, a dark-",
+        "name":  "Skills",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary slam attack, it deals normal damage and attempts to start a",
+        "name":  "Organization",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "7 grapple as a free action without provoking an attack of",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard opportunity (grapple bonus +30; includes a +16 racial bonus",
+        "name":  "Treasure",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always chaotic evil on grapple checks). If it gets a",
+        "name":  "Alignment",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30d12 (195 hp) tered on itself. This heals both the deathbringer and any",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+2 undead compatriots it has in the area while also harming",
+        "name":  "Initiative",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "40 ft. its opponents.",
+        "name":  "Speed",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Heavy flail +16/+11/+6 melee and heavy flail +16 Negative Burst (Su): A deathbringer can release a melee, or 2 slams +19 melee silent burst of negative energy at a range of up to 100 feet.",
+        "name":  "Attacks",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Undead traits other undead within the area of as",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +10, Ref +12, Will +19 much damage as it would otherwise",
+        "name":  "Saves",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 20, Dex 15, Con —, deal. Once a deathbringer Int 13, Wis 14, Cha 7 releases a negative burst,",
+        "name":  "Abilities",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Intimidate +22, it must wait 1d4 rounds Listen +26, Move before it can do so again. Silently +20, Spot +25 Trample (Ex): As a stan-",
+        "name":  "Skills",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary, pair, Undead Traits: A deathbringer is or gang (3–5) immune to mind-affecting effects, poi-",
+        "name":  "Organization",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "17 son, sleep, paralysis, stunning, disease,",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None death effects, necromantic effects, and",
+        "name":  "Treasure",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually neutral evil any effect that requires a Fortitude save",
+        "name":  "Alignment",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2d8+2 (11 hp) 2d8+2 (11 hp) 3d8+9 (22 hp)",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+0 +2 +4",
+        "name":  "Initiative",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. 40 ft. 50 ft.",
+        "name":  "Speed",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "15 (+5 natural), touch 10, 15 (+1 size, +2 Dex, +2 natural), 17 (–1 size, +4 Dex, +4 natural), flat-footed 15 touch 13, flat-footed 13 touch 13, flat-footed 13",
+        "name":  "AC",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +5 melee 2 claws +5 melee Sting +6 melee",
+        "name":  "Attacks",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite 2d8+4 Claw 1d2 Sting 1d4+4 plus poison Face/Reach: 5 ft. by 5 ft./5 ft. 5 ft. by 5 ft./5 ft. 5 ft. by 10 ft./5 ft.",
+        "name":  "Damage",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Rend fallen — Poison",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Outsider traits Outsider traits Acid resistance 20, cold resistance 20, immunity to poison, outsider traits, scent",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +4, Ref +3, Will +2 Fort +4, Ref +5, Will +5 Fort +6, Ref +7, Will +4",
+        "name":  "Saves",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 17, Dex 10, Con 13, Str 10, Dex 15, Con 12, Str 17, Dex 19, Con 17, Int 6, Wis 9, Cha 8 Int 13, Wis 14, Cha 9 Int 6, Wis 12, Cha 8",
+        "name":  "Abilities",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Climb +7, Jump +7, Listen +5, Hide +9, Listen +7, Move Jump +7, Listen +6, Move Spot +1 Silently +7, Spot +7 Silently +6, Sense Motive +4, Spot +4, Wilderness Lore +2",
+        "name":  "Skills",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary, pair, or gang (3–5) Solitary, pair, or gang (3–5) Solitary, pair, or gang (3–5)",
+        "name":  "Organization",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 2 5",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None None None",
+        "name":  "Treasure",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always chaotic evil Always chaotic evil Always chaotic evil",
+        "name":  "Alignment",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4d8+18 (36 hp) 8d8+24 (60 hp) 10d8+20 (65 hp)",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+2 +3 +1",
+        "name":  "Initiative",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. 30 ft. 30 ft., fly 50 ft. (average)",
+        "name":  "Speed",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "16 (+1 size, +2 Dex, +3 natural), 23 (+3 Dex, +10 natural), 20 (+1 Dex, +9 natural), touch 13, flat-footed 14 touch 13, flat-footed 20 touch 11, flat-footed 19",
+        "name":  "AC",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +7, Ref +6, Will +4 Fort +9, Ref +9, Will +7 Fort +9, Ref +8, Will +10",
+        "name":  "Saves",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 12, Dex 15, Con 16, Str 19, Dex 16, Con 16, Str 17, Dex 13, Con 15, Int 7, Wis 10, Cha 7 Int 13, Wis 12, Cha 11 Int 14, Wis 16, Cha 14",
+        "name":  "Abilities",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary, pair, or gang (3–4) Solitary Solitary or squad (1 plus 2–4 wights)",
+        "name":  "Organization",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5 8 9",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard None Standard",
+        "name":  "Treasure",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always chaotic evil Always chaotic evil Always chaotic evil",
+        "name":  "Alignment",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10d8+80 (125 hp) 12d8+36 (90 hp)",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+9 +14",
+        "name":  "Initiative",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "60 ft. 30 ft., fly 60 ft. (good)",
+        "name":  "Speed",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "32 (–1 size, +9 Dex, +14 natural), 35 (+10 Dex, +15 natural), touch 18, flat-footed 23 touch 20, flat-footed 35",
+        "name":  "AC",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 claws +22 melee and bite +19 melee +1 scimitar of greater wounding+16/+11/+6 melee and +1 dagger of wounding +16/+11 melee",
+        "name":  "Attacks",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Claw 2d6+12/18–20/×3, +1 scimitar of greater wounding1d6+6/18–20 plus poison, bite 2d8+6/18–20/×3 +1 dagger of wounding1d4+3/19–20 plus poison Face/Reach: 10 ft. by 5 ft./5 ft. 5 ft. by 5 ft./5 ft.",
+        "name":  "Damage",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Augmented critical, DR 30/+3, outsider traits, DR 20/+2, enhanced detection, evasion, outsider traits, scent, SR 25, summon tanar’ri,tanar’ri traits SR 26, summon tanar’ri, tanar’ri traits, uncanny dodge",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +15, Ref +16, Will +8 Fort +11, Ref +18, Will +11",
+        "name":  "Saves",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 35, Dex 29, Con 27, Int 8, Wis 12, Cha 14 Str 21, Dex 31, Con 16, Int 17, Wis 16, Cha 16",
+        "name":  "Abilities",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary, pair, or pride (6–10) Solitary",
+        "name":  "Organization",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "13 18",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always chaotic evil Always chaotic evil",
+        "name":  "Alignment",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "12d8+48 (102 hp) demonkind because of its size—it stands barely 5 feet tall. Initiative: +3 Because of its size and its humanoid shape, it can be mis- Speed:20 ft. (40 ft. when galloping), climb 30 ft. taken for a human if it uses a touch of disguise to hide its AC: 20 (–1 size, +3 Dex, +5 natural, +3 masterwork studded rosy red skin. leather), touch 12, flat-footed 17",
+        "name":  "The kelvezu is remarkable among the higher ranks of Hit Dice",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A ray deals 5d6 points of sonic damage to any crea- its hands are free. ture or object it strikes. This attack has a range of 30 feet. Speak with Bats(Sp):This ability functions like a speak with",
+        "name":  "Ray",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "125 gp (175 with cable); Weight: 2 lb. (6 lb. with cable). leads a colony’s council of elders, and fighters also lead most",
+        "name":  "Cost",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 gp; Weight: 2 lb.",
+        "name":  "Cost",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "40 gp; Weight:1 lb. tures. This ability enables it to discern",
+        "name":  "Cost",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5 gp; Weight: —. are immune to the despair and stunning screech abilities",
+        "name":  "Cost",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4d8+4 (22 hp) 4d8+12 (30 hp) 10d8+50 (95 hp)",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+7 +6 +6",
+        "name":  "Initiative",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 ft., fly 60 ft. (good) 20 ft., fly 60 ft. (good) 20 ft., fly 40 ft. (good)",
+        "name":  "Speed",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 (+7 Dex, +3 natural), 20 (–1 size, +6 Dex, +5 natural), 23 (–2 size, +6 Dex, +9 natural), touch 17, flat-footed 13 touch 15, flat-footed 14 touch 14, flat-footed 17",
+        "name":  "AC",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +10 Bite +5 melee Bite +12 melee",
+        "name":  "Attacks",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite 1d6+3 Bite 1d8+4 plus wounding Bite 2d6+10 Face/Reach: 5 ft. by 5 ft./5 ft. 5 ft. by 5 ft./5 ft. 10 ft. by 10 ft./10 ft.",
+        "name":  "Damage",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Trip Wounding —",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Blindsight 120 ft., immunities, Blindsight 120 ft., immunities Blindsight 120 ft., immunities scent",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +5, Ref +11, Will +4 Fort +7, Ref +10, Will +6 Fort +12, Ref +13, Will +9",
+        "name":  "Saves",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 15, Dex 24, Con 13, Str 17, Dex 22, Con 17 Str 25, Dex 22, Con 21, Int 2, Wis 16, Cha 7 Int 2, Wis 14, Cha 7 Int 2, Wis 14, Cha 7",
+        "name":  "Abilities",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hide +16, Listen +14*, Listen +15*, Move Silently +11, Listen +11*, Move Silently +11, Move Silently +19, Spot +14* Spot +15* Spot +11*",
+        "name":  "Skills",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary or colony (5–8) Solitary or colony (5–8) Solitary or colony (5–8)",
+        "name":  "Organization",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "3 3 5",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None None None",
+        "name":  "Treasure",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral Always neutral Always neutral",
+        "name":  "Alignment",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4d8+12 (30 hp) 9d8+9 (49 hp) 16d8+96 (168 hp)",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+5 +4 –1",
+        "name":  "Initiative",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft., fly 40 ft. (good) 30 ft., fly 60 ft. (average) 40 ft., fly 120 ft. (average)",
+        "name":  "Speed",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "17 (–1 size, +1 Dex, +7 natural), 21 (+11 natural), touch 10, 24 (–2 size, –1 Dex, +17 touch 10, flat-footed 16 flat-footed 21 natural), touch 7, flat footed 24",
+        "name":  "AC",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4 claws +8 melee and sting Touch +10 melee Huge masterwork trident +3 melee +25/+20/+15/+10 melee and gore +22 melee, or Huge masterwork trident +25/+20/+15/+10 melee and bite +22 melee, or 2 claws +24 melee and gore +22 melee, or 2 claws +24 melee and bite +22 melee",
+        "name":  "Attacks",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Claw 1d6+5, sting 1d4+2 Touch 2d4 plus feeblemind Huge masterwork trident plus poison 2d8+15, claw 2d4+10, gore 2d6+5, bite 2d6+5 Face/Reach: 5 ft. by 5 ft./10 ft. 5 ft. by 5 ft./5 ft. 10 ft. by 10 ft./15 ft.",
+        "name":  "Damage",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Baatezu traits, DR 5/+1, Baatezu traits, outsider traits, Baatezu traits, DR 25/+2, outsider traits, regeneration 2, regeneration 4, secure intelligence, outsider traits, regeneration 8, SR 15 SR 18 SR 20",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +7, Ref +5, Will +4 Fort +7, Ref +6, Will +8 Fort +16, Ref +9, Will +9",
+        "name":  "Saves",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 20, Dex 13, Con 17, Str 12, Dex 11, Con 13, Str 30, Dex 9, Con 23, Int 8, Wis 11, Cha 10 Int 16, Wis 15, Cha 10 Int 10, Wis 9, Cha 10",
+        "name":  "Abilities",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary, pair, team (3–4), squad Solitary, pair, team (3–4), or troupe Solitary, pair, team (3–4), or (5–10), or swarm (11–20) (1–3 amnizus plus 2–4 advespas) squad (5–10)",
+        "name":  "Organization",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "3 7 9",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None Standard Standard",
+        "name":  "Treasure",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always lawful evil Always lawful evil Always lawful evil",
+        "name":  "Alignment",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "3d10+9 (25 hp) 10d10+30 (85 hp) 9d10+72 (121 hp)",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+3 +1 –2",
+        "name":  "Initiative",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Swim 60 ft. 50 ft. 20 ft.",
+        "name":  "Speed",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "16 (–1 size, +3 Dex. +4 natural), 14 (–2 size, +1 Dex, +5 natural); 22 (–2 size, –2 Dex, +16 natural); touch 12, flat-footed 13 touch 9, flat-footed 13 touch 6, flat-footed 22",
+        "name":  "AC",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +5 melee Bite +12 melee and 2 claws +7 melee Tail slap +13 melee",
+        "name":  "Attacks",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite 1d8+6 Bite 2d8+7, claw 2d4+3 Tail slap 2d6+13 Face/Reach: 5 ft. by 10 ft./10 ft. 10 ft. by 10 ft./15 ft. 10 ft. by 30 ft./10 ft.",
+        "name":  "Damage",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Improved grab, swallow whole Improved grab, rake 2d8+3, swallow Trample 2d12+13 whole, trample 5d8+10",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Darkvision 60 ft., low-light Darkvision 60 ft., low-light Darkvision 60 ft., low-light vision, scent vision, scent vision, scent",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +6, Ref +6, Will +2 Fort +10, Ref +8, Will +5 Fort +14, Ref +4, Will +2",
+        "name":  "Saves",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 18, Dex 16, Con 17, Str 24, Dex 12, Con 17, Str 29, Dex 7, Con 26, Int 2, Wis 13, Cha 9 Int 2, Wis 15, Cha 11 Int 1, Wis 9, Cha 8",
+        "name":  "Abilities",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hide +4, Listen +6, Spot +6 Listen +9, Spot +10 Listen +4, Spot +4 Climate/Terrain: Warm aquatic Warm forest, hills, plains, Warm forest, hills, plains, and marsh and marsh",
+        "name":  "Skills",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary or school (20–40) Solitary or pair Solitary, pair, or herd (20–40)",
+        "name":  "Organization",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "3 7 7",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None None None",
+        "name":  "Treasure",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral Always neutral Always neutral",
+        "name":  "Alignment",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10d10+50 (105 hp) 32d10+288 (464 hp) 20d10+120 (230 hp)",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1 –1 +1",
+        "name":  "Initiative",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 ft., fly 100 ft. (poor) 20 ft. 40 ft.",
+        "name":  "Speed",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "17 (–2 size, +1 Dex, +8 natural), 11 (–8 size, –1 Dex, +10 natural), 16 (–4 size, +1 Dex, +9 natural), touch 9, flat-footed 16 touch 1, flat-footed 11 touch 7, flat-footed 15",
+        "name":  "AC",
+        "source":  "monster_manual_ii.txt",
+        "_id":  "99241a43074dbb2d9fa3df32ec94f1829edb5df606e1eec922277973846cd2b3"
+    }
+]
