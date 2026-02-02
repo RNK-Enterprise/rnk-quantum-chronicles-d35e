@@ -1,0 +1,23 @@
+# Ignore generated compendium SQLite DBs
+jsons/foundry_compendiums/
+
+# Ignore large generated JSON artifacts and local run outputs
+jsons/*.db
+jsons/dry_runs/
+jsons/*/index_resplit.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual envs
+env/
+venv/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
