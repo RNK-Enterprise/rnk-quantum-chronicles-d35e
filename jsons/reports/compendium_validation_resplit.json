@@ -1,0 +1,92 @@
+{
+  "armor.json": {
+    "db_path": "jsons\\foundry_compendiums\\armor.json\\armor.json.db",
+    "count": 5241,
+    "sample_count": 100,
+    "sample_id_lengths": [
+      16
+    ],
+    "sample_ids_hex16": true,
+    "manifest_total_seen": 0
+  },
+  "foundry_journals.json": {
+    "db_path": "jsons\\foundry_compendiums\\foundry_journals.json\\foundry_journals.json.db",
+    "count": 1,
+    "sample_count": 1,
+    "sample_id_lengths": [
+      16
+    ],
+    "sample_ids_hex16": true,
+    "manifest_total_seen": 0
+  },
+  "gear.json": {
+    "db_path": "jsons\\foundry_compendiums\\gear.json\\gear.json.db",
+    "count": 858,
+    "sample_count": 100,
+    "sample_id_lengths": [
+      16
+    ],
+    "sample_ids_hex16": true,
+    "manifest_total_seen": 0
+  },
+  "magic_items.json": {
+    "db_path": "jsons\\foundry_compendiums\\magic_items.json\\magic_items.json.db",
+    "count": 8689,
+    "sample_count": 100,
+    "sample_id_lengths": [
+      16
+    ],
+    "sample_ids_hex16": true,
+    "manifest_total_seen": 0
+  },
+  "monsters.json": {
+    "db_path": "jsons\\foundry_compendiums\\monsters.json\\monsters.json.db",
+    "count": 7052,
+    "sample_count": 100,
+    "sample_id_lengths": [
+      16
+    ],
+    "sample_ids_hex16": true,
+    "manifest_total_seen": 0
+  },
+  "other.json": {
+    "db_path": "jsons\\foundry_compendiums\\other.json\\other.json.db",
+    "count": 44486,
+    "sample_count": 100,
+    "sample_id_lengths": [
+      16
+    ],
+    "sample_ids_hex16": true,
+    "manifest_total_seen": 0
+  },
+  "parsed_data.json": {
+    "db_path": "jsons\\foundry_compendiums\\parsed_data.json\\parsed_data.json.db",
+    "count": 1,
+    "sample_count": 1,
+    "sample_id_lengths": [
+      16
+    ],
+    "sample_ids_hex16": true,
+    "manifest_total_seen": 0
+  },
+  "spells.json": {
+    "db_path": "jsons\\foundry_compendiums\\spells.json\\spells.json.db",
+    "count": 10268,
+    "sample_count": 100,
+    "sample_id_lengths": [
+      16
+    ],
+    "sample_ids_hex16": true,
+    "manifest_total_seen": 0
+  },
+  "weapons.json": {
+    "db_path": "jsons\\foundry_compendiums\\weapons.json\\weapons.json.db",
+    "count": 14641,
+    "sample_count": 100,
+    "sample_id_lengths": [
+      16
+    ],
+    "sample_ids_hex16": true,
+    "manifest_total_seen": 0
+  }
+}

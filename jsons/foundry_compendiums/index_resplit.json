@@ -1,0 +1,60 @@
+{
+  "created_on": "2026-02-02T21:07:39.405853",
+  "packs": [
+    {
+      "source": "armor.json",
+      "db": "jsons\\foundry_compendiums\\armor.json\\armor.json.db",
+      "count": 5241,
+      "total_seen": 5241
+    },
+    {
+      "source": "foundry_journals.json",
+      "db": "jsons\\foundry_compendiums\\foundry_journals.json\\foundry_journals.json.db",
+      "count": 1,
+      "total_seen": 1
+    },
+    {
+      "source": "gear.json",
+      "db": "jsons\\foundry_compendiums\\gear.json\\gear.json.db",
+      "count": 858,
+      "total_seen": 858
+    },
+    {
+      "source": "magic_items.json",
+      "db": "jsons\\foundry_compendiums\\magic_items.json\\magic_items.json.db",
+      "count": 8689,
+      "total_seen": 8689
+    },
+    {
+      "source": "monsters.json",
+      "db": "jsons\\foundry_compendiums\\monsters.json\\monsters.json.db",
+      "count": 7052,
+      "total_seen": 7052
+    },
+    {
+      "source": "other.json",
+      "db": "jsons\\foundry_compendiums\\other.json\\other.json.db",
+      "count": 44486,
+      "total_seen": 44486
+    },
+    {
+      "source": "parsed_data.json",
+      "db": "jsons\\foundry_compendiums\\parsed_data.json\\parsed_data.json.db",
+      "count": 1,
+      "total_seen": 1
+    },
+    {
+      "source": "spells.json",
+      "db": "jsons\\foundry_compendiums\\spells.json\\spells.json.db",
+      "count": 10268,
+      "total_seen": 10268
+    },
+    {
+      "source": "weapons.json",
+      "db": "jsons\\foundry_compendiums\\weapons.json\\weapons.json.db",
+      "count": 14641,
+      "total_seen": 14641
+    }
+  ],
+  "duplicates_map": "jsons\\reports\\duplicates_preserved_map_resplit.json"
+}
