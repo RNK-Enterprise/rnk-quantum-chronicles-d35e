@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "other.json",
+        "description":  "2d8+2 (11 hp) 4d8+12 (30 hp) 8d8+32 (68 hp)",
+        "name":  "Hit Dice",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "–1 (Dex) –1 (Dex) –1 (Dex)",
+        "name":  "Initiative",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. 30 ft. 30 ft.",
+        "name":  "Speed",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "16 (+1 size, –1 Dex, +6 natural) 17 (–1 Dex, +8 natural) 17 (–1 size, –1 Dex, +9 natural)",
+        "name":  "AC",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam +5 melee Slam +8 melee Slam +12/+7 melee",
+        "name":  "Attacks",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam 1d6+4 Slam 1d8+7 Slam 2d8+10 Face/Reach: 5 ft. by 5 ft./5 ft. 5 ft. by 5 ft./5 ft. 5 ft. by 5 ft./10 ft.",
+        "name":  "Damage",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Burn Burn Burn",
+        "name":  "Special Attacks",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Elemental, fire subtype Elemental, fire subtype Elemental, damage reduction 10/+1, fire subtype",
+        "name":  "Special Qualities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +4, Ref –1, Will +0 Fort +7, Ref +0, Will +1 Fort +10, Ref +1, Will +2",
+        "name":  "Saves",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 17, Dex 8, Con 13, Str 21, Dex 8, Con 17, Str 25, Dex 8, Con 19, Int 4, Wis 11, Cha 11 Int 4, Wis 11, Cha 11 Int 6, Wis 11, Cha 11",
+        "name":  "Abilities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Listen +5, Spot +5 Listen +7, Spot +7 Listen +12, Spot +12",
+        "name":  "Skills",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "16d8+80 (152 hp) 21d8+105 (199 hp) 24d8+120 (228 hp)",
+        "name":  "Hit Dice",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "–1 (Dex) –1 (Dex) –1 (Dex)",
+        "name":  "Initiative",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. 30 ft. 30 ft.",
+        "name":  "Speed",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "17 (–2 size, –1 Dex, +10 natural) 19 (–2 size, –1 Dex, +12 natural) 21 (–2 size, –1 Dex, +14 natural)",
+        "name":  "AC",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam +19/+14/+9 melee Slam +23/+18/+13 melee Slam +27/+22/+17/+12 melee",
+        "name":  "Attacks",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam 2d10+13 Slam 2d10+15 Slam 2d10+16 Face/Reach: 10 ft. by 5 ft./15 ft. 10 ft. by 5 ft./15 ft. 10 ft. by 5 ft./15 ft.",
+        "name":  "Damage",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Burn Burn Burn",
+        "name":  "Special Attacks",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Elemental, damage reduction Elemental, damage reduction Elemental, damage reduction 10/+2, fire subtype 10/+2, fire subtype 15/+3, fire subtype",
+        "name":  "Special Qualities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +15, Ref +4, Will +5 Fort +17, Ref +6, Will +7 Fort +19, Ref +7, Will +8",
+        "name":  "Saves",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 29, Dex 8, Con 21, Str 31, Dex 8, Con 21, Str 33, Dex 8, Con 21, Int 6, Wis 11, Cha 11 Int 6, Wis 11, Cha 11 Int 6, Wis 11, Cha 11",
+        "name":  "Abilities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Listen +14, Spot +14 Listen +23, Spot +23 Listen +26, Spot +26",
+        "name":  "Skills",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cleave, Great Cleave, Improved Cleave, Great Cleave, Improved Cleave, Great Cleave, Improved Bull Rush, Power Attack Bull Rush, Improved Critical Bull Rush, Improved Critical (slam), Power Attack (slam), Power Attack Ooze Paraelemental, Small Ooze Paraelemental, Medium Ooze Paraelemental, Large Small Elemental Medium-Size Elemental Large Elemental (Earth, Water) (Earth, Water) (Earth, Water)",
+        "name":  "Feats",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2d8+2 (11 hp) 4d8+12 (30 hp) 8d8+32 (68 hp)",
+        "name":  "Hit Dice",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+0 +1 (Dex) +2 (Dex)",
+        "name":  "Initiative",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 ft., swim 50 ft. 20 ft., swim 50 ft. 20 ft., swim 50 ft.",
+        "name":  "Speed",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "17 (+1 size, +6 natural) 18 (+1 Dex, +8 natural) 20 (–1 size, +2 Dex, +9 natural)",
+        "name":  "AC",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam +4 melee Slam +6 melee Slam +10/+5 melee",
+        "name":  "Attacks",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam 1d6+3 and 1d4 acid Slam 1d8+4 and 1d6 acid Slam 2d8+7 and 1d6 acid Face/Reach: 5 ft. by 5 ft./5 ft. 5 ft. by 5 ft./5 ft. 5 ft. by 5 ft./10 ft.",
+        "name":  "Damage",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Acid Acid Acid",
+        "name":  "Special Attacks",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Elemental Elemental Elemental, damage reduction 10/+1",
+        "name":  "Special Qualities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +4, Ref +0, Will +0 Fort +7, Ref +2, Will +1 Fort +10, Ref +4, Will +2",
+        "name":  "Saves",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 14, Dex 10, Con 13, Str 16, Dex 12, Con 17, Str 20, Dex 14, Con 19, Int 4, Wis 11, Cha 11 Int 4, Wis 11, Cha 11 Int 6, Wis 11, Cha 11",
+        "name":  "Abilities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Listen +5, Spot +5 Listen +7, Spot +7 Listen +12, Spot +12",
+        "name":  "Skills",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Power Attack Power Attack Power Attack, Sunder Ooze Paraelemental, Huge Ooze Paraelemental, Greater Ooze Paraelemental, Elder Huge Elemental (Earth, Water) Huge Elemental (Earth, Water) Huge Elemental (Earth, Water)",
+        "name":  "Feats",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "16d8+80 (152 hp) 21d8+105 (199 hp) 24d8+120 (228 hp)",
+        "name":  "Hit Dice",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+4 (Dex) +5 (Dex) +6 (Dex)",
+        "name":  "Initiative",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 ft., swim 50 ft. 20 ft., swim 50 ft. 20 ft., swim 50 ft.",
+        "name":  "Speed",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "21 (–2 size, +4 Dex, +9 natural) 22 (–2 size, +5 Dex, +9 natural) 23 (–2 size, +6 Dex, +9 natural)",
+        "name":  "AC",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam +17/+12/+7 melee Slam +21/+16/+11 melee Slam +25/+20/+15/+10 melee",
+        "name":  "Attacks",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam 2d10+10 and 1d6 acid Slam 2d10+12 and 2d6 acid Slam 2d10+13 and 2d6 acid Face/Reach: 10 ft. by 5 ft./15 ft. 10 ft. by 5 ft./15 ft. 10 ft. by 5 ft./15 ft.",
+        "name":  "Damage",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Acid Acid Acid",
+        "name":  "Special Attacks",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Elemental, damage reduction Elemental, damage reduction Elemental, damage reduction 10/+2, fire immunity 10/+2, fire immunity 15/+3, fire immunity",
+        "name":  "Special Qualities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +15, Ref +9, Will +5 Fort +17, Ref +12, Will +7 Fort +19, Ref +13, Will +8",
+        "name":  "Saves",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 24, Dex 18, Con 21, Str 26, Dex 20, Con 21, Str 28, Dex 22, Con 21, Int 6, Wis 11, Cha 11 Int 6, Wis 11, Cha 11 Int 6, Wis 11, Cha 11",
+        "name":  "Abilities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Listen +18, Spot +18 Listen +23, Spot +23 Listen +26, Spot +26",
+        "name":  "Skills",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2d8 (9 hp) 4d8+8 (26 hp) 8d8+24 (60 hp)",
+        "name":  "Hit Dice",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+7 (+3 Dex, +4 Improved +9 (+5 Dex, +4 Improved +11 (+7 Dex, +4 Improved Initiative) Initiative) Initiative)",
+        "name":  "Initiative",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fly 90 ft. (good) Fly 90 ft. (good) Fly 90 ft. (good)",
+        "name":  "Speed",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "17 (+1 size, +3 Dex, +3 natural) 18 (+5 Dex, +3 natural) 20 (–1 size, +7 Dex, +4 natural)",
+        "name":  "AC",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Claws +5 melee Claws +8 melee Claws +12/+7 melee",
+        "name":  "Attacks",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Claws 1d3 Claws 1d4+1 Claws 1d6+3 Face/Reach: 5 ft. by 5 ft./5 ft. 5 ft. by 5 ft./5 ft. 5 ft. by 5 ft./10 ft.",
+        "name":  "Damage",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Smoke claws Smoke claws Smoke claws",
+        "name":  "Special Attacks",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Elemental Elemental Elemental, damage reduction 10/+1",
+        "name":  "Special Qualities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +0, Ref +6, Will +0 Fort +3, Ref +8, Will +1 Fort +5, Ref +13, Will +2",
+        "name":  "Saves",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 10, Dex 17, Con 10, Str 12, Dex 21, Con 14, Str 14, Dex 25, Con 16, Int 4, Wis 11, Cha 11 Int 4, Wis 11, Cha 11 Int 6, Wis 11, Cha 11",
+        "name":  "Abilities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Listen +5, Spot +5 Listen +7, Spot +7 Listen +12, Spot +12",
+        "name":  "Skills",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "16d8+64 (136 hp) 21d8+84 (179 hp) 24d8+96 (204 hp)",
+        "name":  "Hit Dice",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+13 (+9 Dex, +4 Improved +14 (+10 Dex, +4 Improved +15 (+11 Dex, +4 Improved Initiative) Initiative) Initiative)",
+        "name":  "Initiative",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fly 90 ft. (good) Fly 90 ft. (good) Fly 90 ft. (good)",
+        "name":  "Speed",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "21 (–2 size, +9 Dex, +4 natural) 26 (–2 size, +10 Dex, +8 natural) 27 (–2 size, +11 Dex, +8 natural)",
+        "name":  "AC",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Claws +17/+12/+7 melee Claws +23/+18/+13 melee Claws +27/+22/+17/+12 melee",
+        "name":  "Attacks",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Claws 2d4+6 Claws 2d4+7 Claws 2d4+9 Face/Reach: 10 ft. by 5 ft./15 ft. 10 ft. by 5 ft./15 ft. 10 ft. by 5 ft./15 ft.",
+        "name":  "Damage",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Smoke claws Smoke claws Smoke claws",
+        "name":  "Special Attacks",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Elemental, damage reduction Elemental, damage reduction Elemental, damage reduction 10/+2 10/+2 15/+3",
+        "name":  "Special Qualities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +9, Ref +19, Will +5 Fort +11, Ref +22, Will +7 Fort +12, Ref +25, Will +8",
+        "name":  "Saves",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 18, Dex 29, Con 18, Str 20, Dex 31, Con 18, Str 22, Dex 33, Con 18, Int 6, Wis 11, Cha 11 Int 6, Wis 11, Cha 11 Int 6, Wis 11, Cha 11",
+        "name":  "Abilities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Listen +18, Spot +18 Listen +23, Spot +23 Listen +26, Spot +26",
+        "name":  "Skills",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "turn whence Solitary they came. A",
+        "name":  "Organization",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "yugoloth that is Small 1; medium 3; large 5; huge 7; itself summoned can- greater 9; elder 11 not use its own summon ability for 1 hour.",
+        "name":  "Challenge Rating",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None Summoning a yugoloth poses a serious risk. There is a",
+        "name":  "Treasure",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually neutral 25% chance that a summoned yugoloth turns on its sum-",
+        "name":  "Alignment",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5d8 (22 hp) 8d8+8 (44 hp)",
+        "name":  "Hit Dice",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+4 (Improved Initiative) +4 (Improved Initiative)",
+        "name":  "Initiative",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "50 ft. 40 ft.",
+        "name":  "Speed",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 (+10 natural) 18 (+8 natural)",
+        "name":  "AC",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Tongue +8 melee, bite +6 melee 2 claws +11 melee (or trident +12/+7 melee); or trident +12 ranged",
+        "name":  "Attacks",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Tongue 1d4+3, bite 2d6+1 Claw 1d4+3; trident 1d8+3 Face/Reach: 5 ft. by 5 ft./5 ft. (tongue 20 ft.) 5 ft. by 5 ft./5 ft.",
+        "name":  "Damage",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Damage reduction 10/+1, SR 18, Damage reduction 10/+1, SR 22, yugoloth immunities, yugoloth qualities, scent qualities",
+        "name":  "Special Qualities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +4, Ref +4, Will +7 Fort +7, Ref +6, Will +6",
+        "name":  "Saves",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 17, Dex 10, Con 11, Str 16, Dex 11, Con 13, Int 5, Wis 17, Cha 12 Int 7, Wis 10, Cha 14",
+        "name":  "Abilities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hide +5, Listen +11, Move Silently +7, Hide +9, Intimidate +10, Listen +11, Spot +11 Move Silently +9, Spot +11",
+        "name":  "Skills",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary or pack (3–7) Solitary, squad (4–8), or platoon (10–18 plus 1 ultroloth)",
+        "name":  "Organization",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "6 7",
+        "name":  "Challenge Rating",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None Standard",
+        "name":  "Treasure",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral evil Always neutral evil",
+        "name":  "Alignment",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "6–10 HD (Medium-size); 11–15 HD (Large) 9–18 HD (Medium-size); 19–24 HD (Large) Nycaloth Ultroloth Large Outsider (Evil) Medium-Size Outsider (Evil)",
+        "name":  "Advancement",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "11d8+33 (82 hp) 13d8+13 (71 hp)",
+        "name":  "Hit Dice",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+2 (Dex) +3 (Dex)",
+        "name":  "Initiative",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "40 ft., fly 90 ft. (good) 30 ft.",
+        "name":  "Speed",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "17 (–1 size, +2 Dex, +6 natural) 21 (+3 Dex, +8 natural)",
+        "name":  "AC",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Damage reduction 20/+2, SR 24, Damage reduction 30/+3, SR 25, yugoloth qualities yugoloth qualities",
+        "name":  "Special Qualities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +10, Ref +9, Will +7 Fort +9, Ref +11, Will +10",
+        "name":  "Saves",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 20, Dex 14, Con 17, Str 13, Dex 16, Con 13, Int 13, Wis 10, Cha 16 Int 16, Wis 15, Cha 19",
+        "name":  "Abilities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary or squad (4–8) Solitary or pair",
+        "name":  "Organization",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "13 16",
+        "name":  "Challenge Rating",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral evil Always neutral evil",
+        "name":  "Alignment",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str +0, Dex +2, Con +2, Int +2, Wis +2, Cha +2. and sorcerers, and half-water elementals favor clerics and",
+        "name":  "Air",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str +4, Dex –2, Con +4, Int +0, Wis +0, Cha +0. druids. Half-elemental clerics serve deities appropriate for",
+        "name":  "Earth",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str +0, Dex +4, Con +0, Int +2, Wis +0, Cha +2. their elements.",
+        "name":  "Fire",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str +2, Dex +0, Con +2, Int +2, Wis +2, Cha +2.",
+        "name":  "Water",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +4, Ref +5, Will +5 following ones:",
+        "name":  "Saves",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 23, Dex 8, Con 19, Int 7, Wis 10, Cha 8 • Cold resistance of 5 + 1 per HD, to a maximum of 20.",
+        "name":  "Abilities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Intimidate +8, Jump +8, Listen +12, Search +11, • Darkvision with a range of 60 feet. Spot +12 • Low-light vision.",
+        "name":  "Skills",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard",
+        "name":  "Treasure",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4 the following ones:",
+        "name":  "Challenge Rating",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None • Elemental: Immune to poison, sleep, paralysis, and",
+        "name":  "Treasure",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always lawful evil stunning. Not subject to critical hits.",
+        "name":  "Alignment",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fly 100 ft. (perfect) as similar material beings, with darker bits of fog for eyes AC:18 (+5 Dex, +3 natural) and mouth. Attacks:10 arms +4 melee, bite –1 melee",
+        "name":  "They appear as shifting clouds in the same general form Speed",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Change to d8. Skills:Listen +7, Spot +7",
+        "name":  "Hit Dice",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually neutral.",
+        "name":  "Alignment",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Change to d8. Speed:30 ft., burrow 20 ft.",
+        "name":  "Hit Dice",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Change to d8. Initiative:+2 (Dex)",
+        "name":  "Hit Dice",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Change to d8. AC:14 (–1 size, +2 Dex, +3 natural)",
+        "name":  "Hit Dice",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Change to d8. AC:23 (–1 size, +14 natural)",
+        "name":  "Hit Dice",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite 1d6+3, claw 1d3+1; spike 1d6+1 type is unchanged. The template uses all the base crea- Face/Reach:5 ft. by 5 ft./5 ft. ture’s statistics and special abilities except as noted here.",
+        "name":  "Damage",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 16, Dex 19, Con 15, Int 2, Wis 12, Cha 6 normal attack to deal additional damage equal to its HD",
+        "name":  "Abilities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary or pair • Fire, electricity, sonic, and cold resistance (see the",
+        "name":  "Organization",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 table below).",
+        "name":  "Challenge Rating",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "Treasure",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually neutral Fire, Electricity, Cold,",
+        "name":  "Alignment",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "9d10+45 (94 hp)",
+        "name":  "Hit Dice",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Leap, smite chaos",
+        "name":  "Special Attacks",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "SR 18, scent, tremorsense, linked minds, darkvision 60 ft.; cold, elec- tricity, fire, and sonic resistance 5",
+        "name":  "Special Qualities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +11, Ref +8, Will +4",
+        "name":  "Saves",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 27, Dex 15, Con 20, Int 3, Wis 13, Cha 6",
+        "name":  "Abilities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Jump +12, Listen +6 Climate/Terrain: Any land and underground",
+        "name":  "Skills",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary or pair",
+        "name":  "Organization",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "9",
+        "name":  "Challenge Rating",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "Treasure",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always lawful neutral",
+        "name":  "Alignment",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always chaotic (any). In general, petitioners appear in the form that they had",
+        "name":  "Alignment",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "14d8+70 (133 hp) ers are humanoid in appearance (although there are",
+        "name":  "Hit Dice",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1 (Dex) exceptions even there).",
+        "name":  "Initiative",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "50 ft. Who goes to heaven? Whoever you decide. What",
+        "name":  "Speed",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Poison, smite law ficiently high ability scores (treants are in, assassin",
+        "name":  "Special Attacks",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Damage reduction 5/+1, fast healing vines are out). Undead and constructs are not usually 5, darkvision 60 ft., immune to polymorph and petrifi- made into petitioners, although the souls of their origi- cation; acid, cold, electricity, fire, and sonic resistance 5 nal forms may be. Elementals and outsiders tend to",
+        "name":  "Special Qualities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +9, Ref +5, Will +10 meld with their native planes, and as such do not",
+        "name":  "Saves",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 27, Dex 12, Con 21, Int 7, Wis 12, Cha 6 become petitioners (their souls may still be called back",
+        "name":  "Abilities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Climb +16, Jump +16, Listen +7, Spot +7 from the dead).",
+        "name":  "Skills",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary, gang (2–4), or tribe (7–12) only those chosen by the deities are so favored, with the",
+        "name":  "Organization",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "9 remainder of the dead’s energies scattered among the Outer",
+        "name":  "Challenge Rating",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sor/Wiz 8 where you will come out in the waking world.",
+        "name":  "Level",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S Dream travel can also be used to travel to other planes",
+        "name":  "Components",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch ing into the Dreamheart, where you are subject to the",
+        "name":  "Range",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 hour/level (D) plane of existence requires 1d4 hours on Dream (which",
+        "name":  "Duration",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates (harmless) corresponds to 1d4×6 minutes as time is measured on most",
+        "name":  "Saving Throw",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  " RReeggiioonn ooff DDrreeaammss DDrreeaammssccaappeess DDrreeaammssccaappeess DDrreeaammhheeaarrtt pqqqqrs LUCID DREAMING (WIS; TRAINED ONLY) *You must first successfully grapple your opponent. Use this skill to realize that you are dreaming, consciously direct Then, instead of attempting to pin him or her, make a Lucid elements of a dream, and move into other dreamscapes. Dreaming check (DC 25) on your next action. If you succeed,",
+        "name":  "APPENDIX",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Clr 5, Sor/Wiz 7 other mirrors without being seen, allowing you to spy on",
+        "name":  "Level",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 full round are within easy reach, or even grapple with someone within",
+        "name":  "Casting Time",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch arm’s reach of the mirror. A grappled individual will be drawn",
+        "name":  "Range",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "a stone keep securely lashed to the trunk of a dessicated tree a mile in diameter. This was an out- post of wizards too intent on discovering forbidden knowledge to fear for their own sanity. Nor do they fear insanity now, for rational thought has departed those who still live. Amid the wreckage of a laboratory, barracks, kitchen, are needed to swim through it. Moving between layers is small library, and specimen cells, some powerful wizards as easy as willing oneself to do so. Nonnatives exist on and their servants yet wander. Daruth Winterwood, an only one layer at a time, but large Far Realm entities often elven wizard, led the expedition, but now his brain is full exist on several simultaneously. of spiders. Literally.",
+        "name":  "Plane",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The Secret of the Other Universe:Most of the inhab-",
+        "name":  "The only changes to traits are the following",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Unchanged, except that there are itants of the twin Material Planes are unaware that they two Material Planes, and natives of each plane think the have a doppel-universe waiting on the other side of the other plane is an alternate Material Plane and a twisted Plane of Shadow. But powerful and learned characters on mockery of the “real” Material Plane. both Material Planes know the truth and often keep tabs",
+        "name":  "Material Planes",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The Astral Plane is confined to con- on the other plane—especially their own doppels. duits piercing the Inner Plane and a band separating the Guardians of Shadow:The Plane of Shadow is a Inner Plane from the Outer Planes. There are two Ethereal deadly place, roamed by great dragons made of shadow- Planes, each connected to its own Material Plane. The Plane stuff known as Guardians of Shadow. The guardians are of Shadow connects both Material Planes. relentless in pursuit of anyone they perceive to be on the",
+        "name":  "Transitive Planes",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  " Outer Plane as if the two planes were one. However, Observatorium incautious characters can become stranded on one Within the Orrery cosmology, the demiplane known as plane or another once the three-day period of ascen- the Observatorium has the additional feature of being the dancy is over. central pivot of this universe, the true hub around which In addition, areas that are holy or unholy often contain the rest of the universe orbits. By controlling the Obser- intermittent portals that allow characters to move vatorium, a character could control the motions of the between the planes during the right equinox or solstice. planes themselves. The location of the Observatorium is Traveling to Dread Conquest might be a matter of step- unknown, perhaps even to the deities. ping into a long-deserted torture chamber during the autumn equinox, and perhaps demons from Lurking Fear WINDING ROAD invade the Material Plane from a particular haunted COSMOLOGY graveyard during every summer solstice. In this variant cosmology, the Universe is not a Great FEATURES OF THE ORRERY COSMOLOGY Wheel but rather a road with no beginning or end. Each The physical nature of this cosmology, more than any plane abuts the next, spiraling endlessly through the other, has a deep effect on the natives of the Material Astral Plane. Travelers move from plane to plane along Plane. In addition to particular elements favoring par- this road, passing through a multitude of planes. ticular seasons, the four Outer Planes also affect the fes- Within the Winding Road cosmology, the definition tivals throughout the year. These four great festivals of whether a plane is a Material Plane, Outer Plane, or dominate the lives of the inhabitants of the Material Inner Plane breaks down. Instead, each plane has its Plane; the name of each festival is taken from the name own traits that may indicate it is one type or another. of the appropriate Outer Plane. Gods tend to live on planes with the divinely morphic The winter solstice, when the Golden Halls is domi- trait, for example, but those planes aren’t Outer Planes, nant, is called Gold and is a time of gift-giving and cele- just further steps on the Winding Road. Unlike the bration. Archons are seen in holy places, and a feeling of D\u0026D cosmology, there is no central plane. The Material good will settles over everyone. Wild things and evil Plane that most travelers are familiar with is just one beings lay low during this period. more stop along an endless ribbon. The spring equinox, when God’s Choice is dominant, is called Choice and is a time of tricks and pranks, of merry WINDING ROAD PLANAR RELATIONS celebrations, and of making decisions for the coming Each plane borders two other planes, as well as the Astral year as well as planting. Plane and the Plane of Shadow. Each plane has its own The summer solstice, when Lurking Fear is dominant, Ethereal Plane, but the Ethereal Planes of two different is called Fear. Its warm nights are when men and women planes don’t connect. Ethereal curtains allow a character keep to their homes for fear of the wild things that hide to step from an Ethereal Plane to the next plane on the in the darkness. Hunting horns blown by inhuman lips Winding Road, however. sound over the fields during this festival, and most civi- The two planes on either “side” of a plane may be simi- lized races keep to the safety of the cities. lar or radically different. There is no apparent order to the The autumn equinox, when Dread Conquest stalks planar traits on the Winding Road. the land, is called Dread and is a time of preparation. A single Plane of Shadow extends along the Road, con- Communities make sure the harvest will be sufficient necting each plane like beads on a string. Also called the to see them through winter, that walls are stout enough Dark Road, the Plane of Shadow allows travelers to move to withstand invasion, and that family and neighbors to adjacent planes if they are willing to brave the wild are healthy enough for the dark months ahead. It is a dark lands between them. somber festival marked by hard work, a time of judg- There is a single Astral Plane that allows movement to ment and vengeance, when one’s sins are evaluated and any plane along the Winding Road with astral projection blame assigned. andplane shift. But permanent portals only connect to adjacent planes; there are no shortcuts. There are no Elemental or Energy Planes on the Wind- ing Road, though the elements and energies still exist. WINDING ROAD TRAITS The traits for the Transitive Planes are the same as their D\u0026D cosmology counterparts. You can choose traits for other planes along the Winding Road or roll them randomly on the tables below. All planes on the Winding Road have the infinite size trait. 218 :XIDNEPPA SENALP TNAIRAV SEIGOLOMSOC \u0026 pqs",
+        "name":  "APPENDIX",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The legendary trade city of Thar constantly anomalies can change the local landscape dramatically. moves from plane to plane. It accomplishes this task by",
+        "name":  "Though small compared to a single infinite plane, these Thar",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sue Cook trying to eliminate their competition? These questions",
+        "name":  "Typesetting",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Julia Martin",
+        "name":  "Web Production",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Mark Jindra may never be answered, and a host more may never be",
+        "name":  "Web Development",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Tony DiTerlizzi asked. No one but a modron truly understands a",
+        "name":  "Marching Modron Illustration",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +2, Ref +2, Will +0 Since a messenger monodrone has no arms, it is limited",
+        "name":  "Saves",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 10, Dex 10, Con 10, Int 3, Wis 7, Cha 8 to a bite attack in combat.",
+        "name":  "Abilities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hide, +4, Listen +2, Spot +2 Modron Traits:Immune to mind-influencing effects;",
+        "name":  "Skills",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Alertness not subject to subdual damage, ability damage, ability drain, or energy drain; not subject to critical hits. Climate/Terrain:Any land Outsider Traits:Darkvision 60 ft.; cannot be raised or",
+        "name":  "Feats",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Squad 12 (plus 1 duodrone), patrol resurrected. 13–48 (plus 1 duodrone per 12 monodrones), platoon Resistances (Ex):Acid, cold, and fire resistance 10. 49–84 (plus 1 duodrone per 12 monodrones), battal- ion 85–120, or company 121–144 (plus 1 duodrone per 12 monodrones and 3 tridrones) DUODRONE (Base Modron)",
+        "name":  "Organization",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1/2 Small Outsider",
+        "name":  "Challenge Rating",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None Hit Dice:2d8 (9 hp)",
+        "name":  "Treasure",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always lawful neutral Initiative:+0",
+        "name":  "Alignment",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 HD (Small); 3 HD (Medium-size) Speed:30 ft., fly 30 ft. (poor)",
+        "name":  "Advancement",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "14 (+1 size, +3 natural)",
+        "name":  "AC",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 claws +4 melee; or halfspear +4 melee eye. It has four spiderlike limbs (two arms and two Damage:Claw 1d4+1; or halfspear 1d6+1 legs). Face/Reach:5 ft. by 5ft./5 ft.",
+        "name":  "A monodrone looks like a small sphere with a single Attacks",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Modron traits, outsider traits, resist- up most of the population of Regulus. They are unable ances to speak or read, but they can understand commands Saves:Fort +3, Ref +3, Will +2 spoken in the modron tongue. They accept orders only Abilities:Str 12, Dex 11, Con 11, Int 6, Wis 8, Cha 9 from duodrones and exist only for their work. Skills:Diplomacy +3, Hide +4, Listen +5, Spot +5 A monodrone is a single-function modron; that is, it Feats:Alertness can carry out only one command at a time. If told to attack, it does so until slain or told to stop—even if that Climate/Terrain:Any land means attacking another monodrone after obliterating Organization:Solitary, squad 1 (plus 12 monodrones), the enemy. If ordered to guard, it does so without rest- pair 2 ing. It is fortunate that monodrones feed on the very Challenge Rating:1 substance of air around them; otherwise, it would be Treasure:None necessary to order them to eat every day. Alignment:Always lawful neutral",
+        "name":  "Monodrones are barely intelligent modrons that make Special Qualities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Immune to mind-influencing effects; cial companies. Three tridrones typically supervise each not subject to subdual damage, ability damage, ability company, relaying orders to the twelve duodrones, who drain, or energy drain; not subject to critical hits. in turn pass them along to the monodrones.",
+        "name":  "Modron Traits",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Darkvision 60 ft.; cannot be raised or resurrected. Combat Resistances (Ex):Acid, cold, and fire resistance 10. A tridrone attempts to hurl its javelins before entering melee with its claws. All-Around Vision (Ex): With its three eyes, a TRIDRONE (Base Modron) tridrone can see in all directions at once. Because of this, it gains a +4 racial bonus on Spot and Search Medium-Size Outsider",
+        "name":  "Outsider Traits",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "3d8+3 (16 hp) checks and cannot be flanked.",
+        "name":  "Hit Dice",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1 Modron Traits:Immune to mind-influencing effects;",
+        "name":  "Initiative",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. not subject to subdual damage, ability damage, ability",
+        "name":  "Speed",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "15 (+1 Dex, +4 natural) drain, or energy drain; not subject to critical hits.",
+        "name":  "AC",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "3 claws +5 melee; or 3 javelins +4 ranged Outsider Traits:Darkvision 60 ft.; cannot be raised or",
+        "name":  "Attacks",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +4, Ref +4, Will +3",
+        "name":  "Saves",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 14, Dex 12, Con 12, Int 9, Wis 11, Cha 10 Medium-Size Outsider",
+        "name":  "Abilities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Diplomacy +5, Intuit Direction +4, Listen +8, Hit Dice:4d8+4 (22 hp) Search +3, Sense Motive +4, Spot +8 Initiative:+2",
+        "name":  "Skills",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Alertness Speed:30 ft.; winged quadrone: 30 ft., fly 30 ft. (poor)",
+        "name":  "Feats",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "16 (+2 Dex, +4 natural) Climate/Terrain:Any land Attacks:4 claws +7 melee; or 2 longspears +7 melee; or",
+        "name":  "AC",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +5, Ref +6, Will +5 drain, or energy drain; not subject to critical hits.",
+        "name":  "Saves",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 16, Dex 15, Con 13, Int 12, Wis 12, Cha 11 Outsider Traits:Darkvision 60 ft.; cannot be raised or",
+        "name":  "Abilities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Alertness, Rapid Shot can attack with all its arms at no attack penalty. Climate/Terrain:Any land",
+        "name":  "Feats",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary, squad 12, or battle (16 PENTRADRONE (Base Modron) quadrones plus 864 monodrones, 295 duodrones, 164 Medium-Size Outsider tridrones, and 12 messenger monodrones)",
+        "name":  "Organization",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5d8+10 (32 hp)",
+        "name":  "Hit Dice",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "3",
+        "name":  "Challenge Rating",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+3",
+        "name":  "Initiative",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "Treasure",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "50 ft.",
+        "name":  "Speed",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always lawful neutral",
+        "name":  "Alignment",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "17 (+3 Dex, +4 natural)",
+        "name":  "AC",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5–12 HD (Medium-size)",
+        "name":  "Advancement",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5 slams +9 melee",
+        "name":  "Attacks",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam 1d4+4 A quadrone appears as a cube with six spiderlike limbs Face/Reach:5 ft. by 5ft./5 ft. (two legs and four arms). Equipped with sensory organs",
+        "name":  "Damage",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "All-around vision, damage reduc- its senses to detect sights, sounds, and smells up to tion 10/+1, levitation, modron traits, outsider traits, 150% as far away as a human can under similar circum- resistances stances.",
+        "name":  "Special Qualities",
+        "source":  "manual_of_the_planes.txt",
+        "_id":  "f6945557fc687e28b89c6da258352d5812f6cd79ecfebd32caabcf7b514dca44"
+    }
+]

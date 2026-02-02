@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "other.json",
+        "description":  "Combat Casting, Iron Will.",
+        "name":  "Feats",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ancient Suloise.",
+        "name":  "Language",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Common, Dwarven, Gnome, Goblin, Terran, Undercommon.",
+        "name":  "Languages",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "d4. Requirements To qualify to become a wild mage, a character must ful ﬁ ll all the following criteria.",
+        "name":  "Hit Die",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any chaotic.",
+        "name":  "Alignment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A character ’s warmage edge is equal to his In- telligence modi ﬁ er. EXTRA INVOCATION You learn an additional invocation.",
+        "name":  "Normal",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ability to use lesser invocations. Bene ﬁ t: You learn one ad- ditional invocation from the list available to you, choos- ing an invocation of one grade lower than the highest grade of invocation you know. For example, a 6th- level warlock could learn a least in- vocation, while a 16th-level warlock could learn any least, lesser, or greater invocation.",
+        "name":  "Prerequisite",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sonic energy deals 1d4 damage/level (max 10d4).",
+        "name":  "Resonating Bolt",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Turn Small or smaller quantity of water into animated object.",
+        "name":  "Animate Water",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Turn Small or smaller ﬁ re into animated object.",
+        "name":  "Animate Fire",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject gets +10 on Hide checks.",
+        "name":  "Chameleon",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ranged touch attack deals 1d8 acid damage + 1d8/two levels beyond 1st (max 5d8).",
+        "name":  "Conj Orb of Acid, Lesser",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ranged touch attack deals 1d8 cold damage + 1d8/two levels beyond 1st (max 5d8).",
+        "name":  "Orb of Cold, Lesser",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ranged touch attack deals 1d8 electricity damage + 1d8/two levels beyond 1st (max 5d8).",
+        "name":  "Orb of Electricity, Lesser",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ranged touch attack deals 1d8 ﬁ re damage + 1d8/two levels beyond 1st (max 5d8).",
+        "name":  "Orb of Fire, Lesser",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ranged touch attack deals 1d6 sonic damage + 1d6/two levels beyond 1st (max 5d6).",
+        "name":  "Orb of Sound, Lesser",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Gain +6 Str and natural slam attack. Low-Light Vision: See twice as far as a human in poor illumination.",
+        "name":  "Trans  Fist of Stone",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Adjacent subjects take 1d8/level ﬁ re damage.",
+        "name":  "Evoc  Fireburst",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Shadow barrier obscures vision and deters passage.",
+        "name":  "Wall of Gloom",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Arm made of earth and soil grapples foes.",
+        "name":  "Trans  Earthen Grasp",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Repairs 2d8 +1/level damage (max +10) to any construct. Swim:  Subject gains swim speed, +8 bonus on Swim checks.",
+        "name":  "Repair Moderate Damage",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Metallic bands immobilize or entangle target for 1 round/level.",
+        "name":  "Conj  Bands of Steel",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sonic energy deals 1d4 damage/ level (max 10d4).",
+        "name":  "Evoc  Resonating Bolt",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Repairs 3d8 +1/level damage (max +15) to any construct.",
+        "name":  "Trans  Repair Serious Damage",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Arm made of soil and rock grapples foes.",
+        "name":  "Stony Grasp",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "60-ft. cone of ﬁ re (1d6/level damage).",
+        "name":  "Conj  Blast of Flame",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ranged touch, 1d6/level acid damage and target might be sickened.",
+        "name":  "Orb of Acid",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ranged touch, 1d6/level cold damage and target might be blinded.",
+        "name":  "Orb of Cold",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ranged touch, 1d6/level electric- ity damage and target might be entangled.",
+        "name":  "Orb of Electricity",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ranged touch, 1d6/level ﬁ re damage and target might be dazed.",
+        "name":  "Orb of Fire",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Globe of force deals 1d6/level damage (max 10d6).",
+        "name":  "Orb of Force",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ranged touch, 1d4/level sonic damage and target might be deafened.",
+        "name":  "Orb of Sound",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sphere of light blinds crea- tures, deals 2d6 ﬁ re damage in 50-ft.-radius spread.",
+        "name":  "Evoc  Blistering Radiance",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cloudy gray sphere knocks enemies prone, hurls them upward for subsequent falling damage.",
+        "name":  "Defenestrating SphereF",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Target takes 1d8 acid damage plus 1d8 ﬁ re damage/round.",
+        "name":  "Necro  Burning Blood",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Repairs 4d8 +1/level damage (max +20) to any construct.",
+        "name":  "Repair Critical Damage",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Create 2d6 unseen servants +1/level (max +15).",
+        "name":  "Servant Horde",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "S u b j e c t s  w i t h i n  1 0  f t .  t a k e 1d8/level ﬁ re damage.",
+        "name":  "Fireburst, Greater",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ray of light blinds target, deals random effect.",
+        "name":  "Prismatic Ray",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Wall of spirit-forms causes panic, deals 1d10 damage if touched, can bestow negative levels if passed through.",
+        "name":  "Necro  Spiritwall",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Controlled blinking between the Material and Ethereal Planes grants defenses for 1 round/level.",
+        "name":  "Trans  Blink, Greater",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch attack deals 3d6 + 1/level ﬁ re damage (max +20); target can be engulfed by ﬂ ame for additional damage.",
+        "name":  "Evoc  Emerald Flame Fist",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Exchange your heart with stone heart to gain damage reduction, resistance to energy for 1 year.",
+        "name":  "Heart of StoneF,X",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject is invisible to sight, hearing, and scent for 1 min./level, and can attack.",
+        "name":  "Illus  Superior Invisibility",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Orb deals 1d3 acid damage.",
+        "name":  "Acid Splash",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Deals 1d6 damage to one undead.",
+        "name":  "Disrupt Undead",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Object shines like a torch.",
+        "name":  "Light",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1d4/level ﬁ re damage (max 5d4).",
+        "name":  "Burning Hands",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "One touch/level deals 1d6 damage and pos- sibly 1 Str damage. Fist of Stone*:  Gain +6 Str and natural slam attack. Hail of StoneM*: Rain of stone deals 1d4/level damage (max 5d4).",
+        "name":  "Chill Touch",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch delivers 1d6/level electricity damage (max 5d6).",
+        "name":  "Shocking Grasp",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Makes a permanent, heatless torch.",
+        "name":  "Continual FlameM",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Opened object deals 1d4 +1/level ﬁ re damage. Fireburst*: Adjacent subjects take 1d8/level ﬁ re damage.",
+        "name":  "Fire TrapM",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Turns ﬁ re into blinding light or choking smoke.",
+        "name":  "Pyrotechnics",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ranged touch attack deals 4d6 ﬁ re damage, +1 ray/four levels (max 3).",
+        "name":  "Scorching Ray",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1d6 damage per level, 20-ft. radius.",
+        "name":  "Fireball",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Arrows deal +1d6 ﬁ re damage.",
+        "name":  "Flame Arrow",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Blows away or knocks down smaller crea- tures.",
+        "name":  "Gust of Wind",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hail deals 5d6 damage in cylinder 40 ft. across.",
+        "name":  "Ice Storm",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Electricity deals 1d6/level damage.",
+        "name":  "Lightning Bolt",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hampers vision and movement.",
+        "name":  "Sleet Storm",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Infects subject with chosen disease. Evard ’s Black Tentacles: Tentacles grapple all within 20- ft. spread. Orb of Acid*:  Ranged touch, 1d6/level acid damage and target might be sickened. Orb of Cold*:  Ranged touch, 1d6/level cold damage and target might be blinded. Orb of Electricity*:  Ranged touch, 1d6/level electricity damage and target might be entangled. Orb of Fire*:  Ranged touch, 1d6/level ﬁ re damage and target might be dazed. Orb of Force*: Globe of force deals 1d6/level damage (max 10d6). Orb of Sound*:  Ranged touch, 1d4/level sonic damage and target might be deafened.",
+        "name":  "Contagion",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fearsome illusion kills subject or deals 3d6 damage.",
+        "name":  "Phantasmal Killer",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Deafens all within cone and deals 5d6 sonic damage.",
+        "name":  "Shout",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fog deals acid damage.",
+        "name":  "Acid Fog",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Wall of blades deals 1d6/level damage.",
+        "name":  "Blade Barrier",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1d6/level damage; 1 secondary bolt/ level each deals half damage.",
+        "name":  "Chain Lightning",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1d6/level ﬁ re damage; you can postpone blast for 5 rounds.",
+        "name":  "Delayed Blast Fireball",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Intense tremor shakes 80-ft. radius.",
+        "name":  "Earthquake",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Kills one subject.",
+        "name":  "Finger of Death",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Rays hit subjects with variety of effects.",
+        "name":  "Prismatic Spray",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Beam blinds and deals 4d6 damage.",
+        "name":  "Sunbeam",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Deals 1d6/level damage within 30 ft.",
+        "name":  "Horrid Wilting",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cloud deals 4d6 ﬁ re damage/round.",
+        "name":  "Incendiary Cloud",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ranged touch attack deals 1d6/level cold damage.",
+        "name":  "Polar Ray",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Wall ’s colors have array of effects.",
+        "name":  "Prismatic Wall",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Twisting colors make target con- fused, stunned, or unconscious.",
+        "name":  "Scintillating Pattern",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Summons multiple elementals.",
+        "name":  "Elemental Swarm",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Four exploding spheres each deal 6d6 ﬁ re damage.",
+        "name":  "Meteor Swarm",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Creates torches or other lights.",
+        "name":  "Fire Dancing Lights",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ray deals 1d3 cold damage.",
+        "name":  "Water Ray of Frost",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Inscribes a personal rune (visible or invisible).",
+        "name":  "Arcane Mark",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Deals 1d6 damage to one undead.",
+        "name":  "Disrupt Undead",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Figment sounds.",
+        "name":  "Ghost Sound",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Object shines like a torch.",
+        "name":  "Light",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5-pound telekinesis.",
+        "name":  "Mage Hand",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Makes minor repairs on an object.",
+        "name":  "Mending",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Whispered conversation at distance. Open/Close:  Opens or closes small or light things.",
+        "name":  "Message",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Performs minor tricks.",
+        "name":  "Prestidigitation",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Makes a rope move at your command.",
+        "name":  "Animate Rope",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Makes one person your friend.",
+        "name":  "Charm Person",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Changes your appearance. Ghost Light*:  Ghostly green radiance can be shaped and manipulated, causes fear.",
+        "name":  "Disguise Self",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Holds door shut.",
+        "name":  "Hold Portal",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject gets bonus on Jump checks.",
+        "name":  "Jump",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Creates minor illusion of your design.",
+        "name":  "Silent Image",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+20 on your next attack roll.",
+        "name":  "True Strike",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Invisible force obeys your commands.",
+        "name":  "Unseen Servant",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Turns ﬁ re into blinding light or choking smoke. Metal Entangling Scarf*:  Successful ranged touch attack entangles a foe.",
+        "name":  "Pyrotechnics",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject immune to most ranged attacks. Rain of Needles*: Ranged attacks deal total 1d4/level damage (max 5d4).",
+        "name":  "Protection from Arrows",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bends wood (shaft, handle, door, plank).",
+        "name":  "Wood Warp Wood",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Rearranges wooden objects to suit you.",
+        "name":  "Wood Shape",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Attacks miss subject 20% of the time. Chameleon* : Subject gets +10 on Hide checks.",
+        "name":  "Blur",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Paralyzes one humanoid for 1 round/level.",
+        "name":  "Hold Person",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject is invisible for 1 min./level or until it attacks. Kiss of the Toad*:  Touch deals 1d6 Con damage, repeats in 1 min.",
+        "name":  "Invisibility",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Senses direction toward object (speci ﬁ c or type).",
+        "name":  "Locate Object",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As silent image,  plus some sound.",
+        "name":  "Minor Image",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Grants ability to walk on walls and ceil- ings.",
+        "name":  "Spider Climb",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject becomes insubstantial and can ﬂ y slowly. Steam Breath*:  Superheated steam deals 1d6/level ﬁ re damage (max 10d6).",
+        "name":  "Water Gaseous Form",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Nauseating vapors, 1 round/ level.",
+        "name":  "Stinking Cloud",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subjects can breathe underwa- ter.",
+        "name":  "Water Breathing",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Attacks miss subject 50%.",
+        "name":  "Displacement",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As silent image,  plus sound, smell, and ther- mal effects.",
+        "name":  "Major Image",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Frees object or person from curse.",
+        "name":  "Remove Curse",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Compels subject to follow stated course of action.",
+        "name":  "Suggestion",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Spies on subject from a distance.",
+        "name":  "ScryingF",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Teleports you short distance.",
+        "name":  "Earth Dimension Door",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "I g n o r e  1 0  p o i n t s  o f  d a m a g e  p e r attack.",
+        "name":  "StoneskinM",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Opened object deals 1d4 damage +1/ level.",
+        "name":  "Fire TrapM",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Y o u r  t o u c h  c o r r o d e s  i r o n  a n d alloys.",
+        "name":  "Rusting Grasp",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hail deals 5d6 damage in cylinder 40 ft. across.",
+        "name":  "Water Ice Storm",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Blocks vision and slows movement.",
+        "name":  "Solid Fog",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Keeps animated plants at bay.",
+        "name":  "Wood Antiplant Shell",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Creates undead skeletons and zombies.",
+        "name":  "Animate DeadM",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subjects behave oddly for 1 round/level. Creeping Darkness* : Cloud of inky blackness moves at your command.",
+        "name":  "Confusion",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subjects take –2 on attack rolls, damage rolls, saves, and checks.",
+        "name":  "Crushing Despair",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As invisibility,  but subject can attack and stay invisible.",
+        "name":  "Invisibility, Greater",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Creates one cloth or wood object. Pain*:  Wracking pain gives targets –4 on attack rolls, skill and ability checks.",
+        "name":  "Minor Creation",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sculpts stone into any shape. Terra Cotta LionM*: Statuette becomes a Huge animated object which ﬁ ghts for you.",
+        "name":  "Earth Stone Shape",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "One animal/two levels doubles in size. Arc of Lightning*: Line of electricity between two crea- tures (1d6/level damage).",
+        "name":  "Animal Growth",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Transforms subject into harmless animal.",
+        "name":  "Baleful Polymorph",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Controls humanoid telepathically.",
+        "name":  "Dominate Person",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sends message to anyone sleeping.",
+        "name":  "Dream",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject ’s Int and Cha drop to 1.",
+        "name":  "Feeblemind",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As minor creation,  plus stone and metal.",
+        "name":  "Major Creation",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sends vision dealing 1d10 damage, fatigue.",
+        "name":  "Nightmare",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Creates passage through wood or stone wall.",
+        "name":  "Passwall",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As major image,  but no concentration required. Servant Horde*: Create 2d6 unseen servants +1/level (max +15). Spirit Self*:  Your incorporeal spirit separates from your body.",
+        "name":  "Persistent Image",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantly transports you as far as 100 miles/level.Vitriolic Sphere*:  Potent acid deals 1d4/level damage (max 15d4) plus possible damage in following two rounds.",
+        "name":  "Teleport",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Digs trenches and builds hills.",
+        "name":  "Move Earth",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Acorns and berries become grenades and bombs. Metal Spirit Needle*:  Needle pins spirit in place in cor- poreal form.",
+        "name":  "Fire Fire Seeds",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 hp/four levels, can topple onto foes.",
+        "name":  "Wall of IronM",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Raises or lowers bodies of water.",
+        "name":  "Water Control Water",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Pushes away wooden objects.",
+        "name":  "Repel Wood",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Changes weather in local area.",
+        "name":  "Control Weather",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Includes sight sound and smell.",
+        "name":  "Permanent Image",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As major image,  plus triggered by event.",
+        "name":  "Programmed ImageM",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Corpse answers one question/two levels. Spirit Binding*:  As lesser spirit binding , but traps up to 16 HD of spirits.",
+        "name":  "Speak with Dead",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As suggestion,  plus one subject/level.",
+        "name":  "Suggestion, Mass",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Lets you see all things as they really are.",
+        "name":  "True SeeingM",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As scrying,  but faster and longer.",
+        "name":  "All Scrying, Greater",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject can become a statue at will.",
+        "name":  "Earth Statue",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1d6/level ﬁ re damage; you can postpone blast for 5 rounds. Metal Decapitating Scarf* : Ranged attack decapitates target or deals 1d4 damage/level (max 20d4).",
+        "name":  "Fire Delayed Blast Fireball",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You become ethereal for 1 round/level. Giant Size*:  You grow to Huge or larger size.",
+        "name":  "Ethereal Jaunt",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As teleport,  but no range limit and no off-target arrival.",
+        "name":  "Teleport, Greater",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Intense tremor shakes 80-ft. radius.",
+        "name":  "Earth Earthquake",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cloud deals 4d6 ﬁ re damage/ round.",
+        "name":  "Fire Incendiary Cloud",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Pushes away metal and stone. Water Cloud Chariot* : You and allies ﬂ y on a fast-moving cloud. Horrid Wilting: Deals 1d6/level damage within 30 ft.",
+        "name":  "Metal Repel Metal or Stone",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Changes any subject into any- thing else.",
+        "name":  "Polymorph Any Object",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Projects you and companions onto Astral Plane.",
+        "name":  "Astral ProjectionM",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Travel to Ethereal Plane with companions.",
+        "name":  "Etherealness",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Connects two planes for travel or summoning.",
+        "name":  "GateX",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Entombs subject beneath the earth.",
+        "name":  "Imprisonment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You act freely for 1d4+1 rounds. Transmute Rock to Lava*: Transforms one 10-ft. cube with subsequent ﬁ re damage and effects.",
+        "name":  "Time Stop",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sorcerer/wizard 9, wu jen 9",
+        "name":  "Level",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S",
+        "name":  "Components",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action",
+        "name":  "Casting Time",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Personal",
+        "name":  "Range",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Warmage 1, wu jen 1",
+        "name":  "TransmutationLevel",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M",
+        "name":  "Components",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action",
+        "name":  "Casting Time",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch",
+        "name":  "Range",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10 min./level",
+        "name":  "Duration",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates (harm- less, object)",
+        "name":  "Saving Throw",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sorcerer/wizard 5, wu jen 5",
+        "name":  "AbjurationLevel",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "S",
+        "name":  "Components",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 swift action",
+        "name":  "Casting Time",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Personal",
+        "name":  "Range",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels)",
+        "name":  "Range",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels)",
+        "name":  "Range",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 1, wu jen 1 (wood)",
+        "name":  "TransmutationLevel",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M",
+        "name":  "Components",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round",
+        "name":  "Casting Time",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch",
+        "name":  "Range",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "One Small or smaller wooden object",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "INVOCATIONSSaving Throw",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sorcerer/wizard 4",
+        "name":  "Level",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, F",
+        "name":  "Components",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round",
+        "name":  "Casting Time",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 hour/level",
+        "name":  "Duration",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "Saving Throw",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sorcerer/wizard 8",
+        "name":  "Level",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10 minutes",
+        "name":  "Casting Time",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Wu jen 2",
+        "name":  "Level",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M",
+        "name":  "Components",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round",
+        "name":  "Casting Time",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch",
+        "name":  "Range",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round/levelSaving Throw:  Will negates",
+        "name":  "Duration",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A miniature palette dotted with paints of assorted colors. ARC OF LIGHTNING Conjuration (Creation) [Electricity]Level: Druid 4, sorcerer/wizard 5, warmage 5, wu jen 5",
+        "name":  "Material Component",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M/DF",
+        "name":  "Components",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    }
+]

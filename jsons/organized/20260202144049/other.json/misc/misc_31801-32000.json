@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "other.json",
+        "description":  "Cures 2d8 damage +1/level (max +10). Transmute Mud to Rock: Transforms two 10-ft. cubes per level.",
+        "name":  "Cure Moderate Wounds",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "60-ft. radius of bright light. Transmute Rock to Mud: Transforms two 10-ft. cubes per level.",
+        "name":  "Daylight",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Reduces size or blights growth of normal plants. Tree Stride: Step from one tree to another far away.",
+        "name":  "Diminish Plants",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject animal obeys silent mental commands. Unhallow M: Designates location as unholy.",
+        "name":  "Dominate Animal",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Grows vegetation, improves crops.",
+        "name":  "Plant Growth",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch deals 1d10 Con damage, repeats in 1 min. Bear’s Endurance, Mass: As bear’s endurance, affects one subject/",
+        "name":  "Poison",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Absorb 12 points/level of damage from level. one kind of energy. Bull’s Strength, Mass: As bull’s strength, affects one subject/level.",
+        "name":  "Protection from Energy",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cures all diseases affecting subject.",
+        "name":  "Remove Disease",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cures 1d8 damage +1/level for many",
+        "name":  "Cure Light Wounds, Mass",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You can talk to normal plants and plant crea-",
+        "name":  "Speak with Plants",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Shows most direct way to a location. tures.",
+        "name":  "Find the Path",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Acorns and berries become grenades and bombs.",
+        "name":  "Fire Seeds",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sculpts stone into any shape.",
+        "name":  "Stone Shape",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Digs trenches and builds hills.",
+        "name":  "Move Earth",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subjects can breathe underwater. Owl’s Wisdom, Mass: As owl’s wisdom, affects one subject/level.",
+        "name":  "Water Breathing",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Pushes away wooden objects.",
+        "name":  "Repel Wood",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Talk to natural or worked stone.",
+        "name":  "Stone Tell",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Keeps animated plants at bay. Transport via Plants: Move instantly from one plant to another of",
+        "name":  "Antiplant Shell",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Withers one plant or deals 1d6/level damage to plant crea- the same kind. ture. Wall of Stone: Creates a stone wall that can be shaped.",
+        "name":  "Blight",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cures 3d8 damage +1/level (max +15).",
+        "name":  "Cure Serious Wounds",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "One or more plants animate and fight for you.",
+        "name":  "Animate Plants",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Your staff becomes a treant on command.",
+        "name":  "Changestaff",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Smite foes with divine fire (1d6/level damage).",
+        "name":  "Flame Strike",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Changes weather in local area.",
+        "name":  "Control Weather",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject moves normally despite imped-",
+        "name":  "Freedom of Movement",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Swarms of centipedes attack at your command. iments.",
+        "name":  "Creeping Doom",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cures 2d8 damage +1/level for",
+        "name":  "Cure Moderate Wounds, Mass",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Deals 1d6/level fire damage.",
+        "name":  "Fire Storm",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hail deals 5d6 damage in cylinder 40 ft. across.",
+        "name":  "Ice Storm",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cures 10 points/level of damage, all diseases and mental",
+        "name":  "Heal",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Brings dead subject back in a random body. conditions.",
+        "name":  "Reincarnate",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Insects, spiders, and other vermin stay 10 ft. away.",
+        "name":  "Repel Vermin",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As scrying, but faster and longer.",
+        "name":  "Scrying, Greater",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Spies on subject from a distance.",
+        "name":  "Scrying F",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Beam blinds and deals 4d6 damage.",
+        "name":  "Sunbeam",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Lets you see all things as they really are.",
+        "name":  "True Seeing M",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "One ally/level polymorphs into chosen animal. Cure Moderate Wounds: Cures 2d8 damage +1/level (max +10).",
+        "name":  "Animal Shapes",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Intense tremor shakes 5-ft./level radius. Heal Mount: As heal on warhorse or other special mount.",
+        "name":  "Earthquake",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Pushes away metal and stone. radius and 10 min./level.",
+        "name":  "Repel Metal or Stone",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Blinds all within 10 ft., deals 6d6 damage.",
+        "name":  "Sunburst",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Allies +1 bonus on most rolls, enemies –1 penalty.",
+        "name":  "Prayer",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Frees object or person from curse.",
+        "name":  "Remove Curse",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cures 4d8 damage +1/level for",
+        "name":  "Cure Critical Wounds, Mass",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Summons multiple elementals.",
+        "name":  "Elemental Swarm",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "“Sixth sense” warns of impending danger. Cure Serious Wounds: Cures 3d8 damage +1/level (max +15).",
+        "name":  "Foresight",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Makes holy water. Alarm: Wards an area for 2 hours/level.",
+        "name":  "Bless Water",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Creates 2 gallons/level of pure water.",
+        "name":  "Create Water",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Calms (2d4 + level) HD of animals.",
+        "name":  "Calm Animals",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cures 1d8 damage +1/level (max +5).",
+        "name":  "Cure Light Wounds",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Makes one animal your friend.",
+        "name":  "Charm Animal",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Stops poison from harming subject for 1 hour/level.",
+        "name":  "Delay Poison",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Reveals undead within 60 ft.",
+        "name":  "Detect Undead",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Detects kinds of animals or plants.",
+        "name":  "Detect Animals or Plants",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You gain +1 per three levels on attack and damage",
+        "name":  "Divine Favor",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Reveals natural or primitive traps.",
+        "name":  "Detect Snares and Pits",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Exist comfortably in hot or cold environments.",
+        "name":  "Endure Elements",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Exist comfortably in hot or cold environments.",
+        "name":  "Endure Elements",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Plants entangle everyone in 40-ft.-radius circle. Protection from Chaos/Evil: +2 to AC and saves, counter mind control, hedge out elementals and outsiders. Hide from Animals: Animals can’t perceive one subject/level.",
+        "name":  "Entangle",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject gains +1 on saving throws. Longstrider: Increases your speed.",
+        "name":  "Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject gains 1 temporary hp. Pass without Trace: One subject/level leaves no tracks.",
+        "name":  "Virtue",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You can communicate with animals.",
+        "name":  "Speak with Animals",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Stops poison from harming subject for 1 hour/level. Summon Nature’s Ally I: Calls animal to fight for you. Eagle’s Splendor: Subject gains +4 to Cha for 1 min./level. Owl’s Wisdom: Subject gains +4 to Wis for 1 min./level.",
+        "name":  "Delay Poison",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ignores 10 (or more) points of damage/attack from Bear’s Endurance: Subject gains +4 to Con for 1 min./level. specified energy type. Cat’s Grace: Subject gains +4 to Dex for 1 min./level.",
+        "name":  "Resist Energy",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Conceals alignment for 24 hours. Hold Animal: Paralyzes one animal for 1 round/level.",
+        "name":  "Undetectable Alignment",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Wards an area for 2 hours/level.",
+        "name":  "Abjur Alarm",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Exist comfortably in hot or cold envi-",
+        "name":  "Endure Elements",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You can talk to normal plants and plant crea- ronments. tures.",
+        "name":  "Speak with Plants",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Holds door shut.",
+        "name":  "Hold Portal",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Summons riding horse for 2 hours/level.",
+        "name":  "Mount",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cures 2d8 damage +1/level (max +10).",
+        "name":  "Cure Moderate Wounds",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fog surrounds you.",
+        "name":  "Obscuring Mist",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "See 60 ft. in total darkness.",
+        "name":  "Darkvision",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Reduces size or blights growth of normal plants. you.",
+        "name":  "Diminish Plants",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Invisible force obeys your commands. +1/three caster levels on attack and damage rolls (max +5).",
+        "name":  "Unseen Servant",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You understand all spoken and",
+        "name":  "Div Comprehend Languages",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Immunizes subject against poison, detoxifies written languages. venom in or on subject. Detect Secret Doors: Reveals hidden doors within 60 ft.",
+        "name":  "Neutralize Poison",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Grows vegetation, improves crops. Detect Undead: Reveals undead within 60 ft.",
+        "name":  "Plant Growth",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cures all diseases affecting subject. True Strike: +20 on your next attack roll.",
+        "name":  "Remove Disease",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject treads on water as if solid. Evoc Burning Hands: 1d4/level fire damage (max 5d4).",
+        "name":  "Water Walk",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch delivers 1d6/level electricity",
+        "name":  "Shocking Grasp",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "One animal/two levels doubles in size. damage (max 5d6).",
+        "name":  "Animal Growth",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Learn about terrain for 1 mile/level. Tenser’s Floating Disk: Creates 3-ft.-diameter horizontal",
+        "name":  "Commune with Nature",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cures 3d8 damage +1/level (max +15). disk that holds 100 lb./level.",
+        "name":  "Cure Serious Wounds",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Step from one tree to another far away. Silent Image: Creates minor illusion of your design.",
+        "name":  "Tree Stride",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Throws voice for 1 min./level.",
+        "name":  "Ventriloquism",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ray deals 1d6 +1 per two levels Str (CANTRIPS) damage.",
+        "name":  "Ray of Enfeeblement",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject gains +1 on saving throws. Trans Animate Rope: Makes a rope move at your command.",
+        "name":  "Abjur Resistance",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject gets bonus on Jump checks.",
+        "name":  "Jump",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Creates torches or other lights.",
+        "name":  "Evoc Dancing Lights",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Object shines like a torch.",
+        "name":  "Light",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Figment sounds. Obscure Object: Masks object against scrying.",
+        "name":  "Illus Ghost Sound",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Deals 1d6 damage to one undead. Protection from Arrows: Subject immune to most ranged",
+        "name":  "Necro Disrupt Undead",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch attack fatigues target. attacks.",
+        "name":  "Touch of Fatigue",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ignores first 10 (or more) points of",
+        "name":  "Resist Energy",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5-pound telekinesis. damage/attack from specified energy type.",
+        "name":  "Trans Mage Hand",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Makes minor repairs on an object.",
+        "name":  "Mending",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fog obscures vision.",
+        "name":  "Conj Fog Cloud",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Whispered conversation at distance.",
+        "name":  "Message",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Inscribes a personal rune (visible or invis- round +1 round/three levels. ible).",
+        "name":  "Univ Arcane Mark",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Performs minor tricks. for you. 192 :11 RETPAHC SLLEPS",
+        "name":  "Prestidigitation",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fills 20-ft.-radius spread with sticky spiderwebs.",
+        "name":  "Web",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Allows “listening” to surface thoughts.",
+        "name":  "Div Detect Thoughts",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Deals 6d6 damage when read.",
+        "name":  "Explosive Runes",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hides subject from divination, scrying.",
+        "name":  "Nondetection M",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Absorb 12 points/level of damage action. from one kind of energy. Tasha’s Hideous Laughter: Subject loses actions for 1",
+        "name":  "Protection from Energy",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Creates text symbol that immobilizes",
+        "name":  "Sepia Snake Sigil M",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject takes 1d6 points of Int, Wis, and reader. Cha damage.",
+        "name":  "Touch of Idiocy",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hampers vision and movement.",
+        "name":  "Sleet Storm",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Makes a permanent, heatless torch.",
+        "name":  "Evoc Continual Flame M",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Nauseating vapors, 1 round/level.",
+        "name":  "Stinking Cloud",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20-ft. radius of supernatural shadow.",
+        "name":  "Darkness",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Creates rolling ball of fire, 2d6 damage, for you. lasts 1 round/level.",
+        "name":  "Flaming Sphere",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Blows away or knocks down smaller crea- Clairaudience/Clairvoyance: Hear or see at a distance for tures. 1 min./level.",
+        "name":  "Gust of Wind",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ranged touch attack deals 4d6 fire damage,",
+        "name":  "Scorching Ray",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Speak any language. +1 ray/four levels (max 3).",
+        "name":  "Tongues",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sonic vibration damages objects or crystalline",
+        "name":  "Shatter",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Paralyzes one humanoid for 1 round/level.",
+        "name":  "Hold Person",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Attacks miss subject 20% of the time.",
+        "name":  "Illus Blur",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subjects gains +2 to Str and Con, +1 on Will saves, –2",
+        "name":  "Rage",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject is invisible for 1 min./level or until it",
+        "name":  "Invisibility",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "60-ft. radius of bright light.",
+        "name":  "Evoc Daylight",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1d6 damage per level, 20-ft. radius.",
+        "name":  "Fireball",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Creates decoy duplicates of you (1d4 +1 per",
+        "name":  "Mirror Image",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Electricity deals 1d6/level damage. three levels, max 8).",
+        "name":  "Lightning Bolt",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Attacks miss subject 50%. object.",
+        "name":  "Illus Displacement",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Only intended reader can decipher. Necro Blindness/Deafness: Makes subject blinded or deafened.",
+        "name":  "Illusory Script M",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Makes everyone within 10 ft. invisible.",
+        "name":  "Invisibility Sphere",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As silent image, plus sound, smell and thermal mands. effects.",
+        "name":  "Major Image",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Gain 1d10 temporary hp +1/level (max +10).",
+        "name":  "False Life",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Preserves one corpse.",
+        "name":  "Necro Gentle Repose",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Paralyzes one subject, which exudes stench",
+        "name":  "Ghoul Touch",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Immobilizes undead for 1 round/level. that makes those nearby sickened.",
+        "name":  "Halt Undead",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ray makes subject exhausted.",
+        "name":  "Ray of Exhaustion",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch deals 1d6/two levels damage;",
+        "name":  "Vampiric Touch",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Creates disembodied glowing hand to caster gains damage as hp. deliver touch attacks.",
+        "name":  "Spectral Hand",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You randomly vanish and reappear for 1 round/level.",
+        "name":  "Trans Blink",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Arrows deal +1d6 fire damage. Bear’s Endurance: Subject gains +4 to Con for 1 min./level.",
+        "name":  "Flame Arrow",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject flies at speed of 60 ft. Bull’s Strength: Subject gains +4 to Str for 1 min./level.",
+        "name":  "Fly",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject becomes insubstantial and can fly Cat’s Grace: Subject gains +4 to Dex for 1 min./level. slowly.",
+        "name":  "Gaseous Form",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "See 60 ft. in total darkness.",
+        "name":  "Darkvision",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject moves up and down at your direction.",
+        "name":  "Levitate",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Changes one page to hide its real content. Owl’s Wisdom: Subject gains +4 to Wis for 1 min./level.",
+        "name":  "Secret Page",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Turns fire into blinding light or choking",
+        "name":  "Pyrotechnics",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "One subject/level takes only one action/round, –2 to smoke. AC, –2 on attack rolls.",
+        "name":  "Slow",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subjects can breathe underwater. mensional space.",
+        "name":  "Water Breathing",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sends a short message 1 mile/level.",
+        "name":  "Whispering Wind",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bars extradimensional movement.",
+        "name":  "Abjur Dimensional Anchor",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Opened object deals 1d4 damage +1/level.",
+        "name":  "Fire Trap M",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Creates one cloth or wood object. Wall of Stone: Creates a stone wall that can be shaped.",
+        "name":  "Minor Creation",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Blocks vision and slows movement. Div Contact Other Plane: Lets you ask question of extraplanar entity.",
+        "name":  "Solid Fog",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1d4 +1/level floating eyes scout for you. for you. Rary’s Telepathic Bond: Link lets allies communicate. Div Arcane Eye: Invisible floating eye moves 30 ft./round.",
+        "name":  "Prying Eyes",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Controls humanoid telepathically.",
+        "name":  "Ench Dominate Person",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Spies on subject from a distance.",
+        "name":  "Scrying F",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subjects in fog get –10 to Wis and Will checks.",
+        "name":  "Mind Fog",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subjects behave oddly for 1 round/level. into catatonic slumber.",
+        "name":  "Confusion",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subjects take –2 on attack rolls, damage Evoc Bigby’s Interposing Hand: Hand provides cover against rolls, saves, and checks. one opponent.",
+        "name":  "Crushing Despair",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Commands subject of 7 HD or less. Cone of Cold: 1d6/level cold damage.",
+        "name":  "Geas, Lesser",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hail deals 5d6 damage in cylinder 40 ft. across. Illus Dream: Sends message to anyone sleeping. Otiluke’s Resilient Sphere: Force globe protects but traps False Vision M: Fools scrying with an illusion. one subject. Mirage Arcana: As hallucinatory terrain, plus structures.",
+        "name":  "Ice Storm",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Deafens all within cone and deals 5d6 sonic damage. Nightmare: Sends vision dealing 1d10 damage, fatigue.",
+        "name":  "Shout",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Deals 2d4 fire damage out to 10 ft. and 1d4 out Persistent Image: As major image, but no concentration to 20 ft. Passing through wall deals 2d6 damage +1/level. required.",
+        "name":  "Wall of Fire",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Makes one type of terrain appear",
+        "name":  "Illus Hallucinatory Terrain",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Wall, floor, or ceiling looks real, but",
+        "name":  "Illusory Wall",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As invisibility, but subject can attack with pain. and stay invisible.",
+        "name":  "Invisibility, Greater",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Several targets become fatigued.",
+        "name":  "Waves of Fatigue",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fearsome illusion kills subject or deals",
+        "name":  "Phantasmal Killer",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "One animal/two levels doubles in size. 3d6 damage.",
+        "name":  "Trans Animal Growth",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Transforms subject into harmless",
+        "name":  "Baleful Polymorph",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Mimics conjuration below 4th level,",
+        "name":  "Shadow Conjuration",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You fly at a speed of 40 ft. and can hustle",
+        "name":  "Overland Flight",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Creates undead skeletons and zombies. over long distances.",
+        "name":  "Necro Animate Dead M",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "–6 to an ability score; –4 on attack rolls,",
+        "name":  "Bestow Curse",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Creates passage through wood or stone wall. saves, and checks; or 50% chance of losing each action.",
+        "name":  "Passwall",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject gains 1d4 negative levels.",
+        "name":  "Enervation",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Transforms two 10-ft. cubes per",
+        "name":  "Transmute Mud to Rock",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subjects within cone flee for 1 round/level. level.",
+        "name":  "Fear",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Transforms two 10-ft. cubes per",
+        "name":  "Transmute Rock to Mud",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Gives one willing subject a new form. level. Rary’s Mnemonic Enhancer F: Wizard only. Prepares extra",
+        "name":  "Polymorph",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sculpts stone into any shape.",
+        "name":  "Stone Shape",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As lesser globe of invulnerability,",
+        "name":  "Globe of Invulnerability",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fog deals acid damage. viewing or scrying an area for 24 hours.",
+        "name":  "Conj Acid Fog",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As lesser planar binding, but up to 12 HD.",
+        "name":  "Planar Binding",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Kills 3 HD or less; 4–6 HD save or die, 6+ HD",
+        "name":  "Conj Cloudkill",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Gives +4 bonus on attack rolls, saves, Scrying, Greater: As scrying, but faster and longer. skill checks; immunity to fear; temporary hp. Vision M X: As legend lore, but quicker and strenuous.",
+        "name":  "Heroism, Greater",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As suggestion, plus one subject/level. Ench Hold Person, Mass: As hold person, but all within 30 ft.",
+        "name":  "Suggestion, Mass",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1d6/level damage; 1 secondary bolt/level Evoc Bigby’s Grasping Hand: Hand provides cover, pushes, or each deals half damage. grapples.",
+        "name":  "Chain Lightning",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1d6/level fire damage; you can Otiluke’s Freezing Sphere: Freezes water or deals cold postpone blast for 5 rounds. damage.",
+        "name":  "Delayed Blast Fireball",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cube or cage of force imprisons all inside.",
+        "name":  "Forcecage M",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Includes sight, sound, and smell. opponents.",
+        "name":  "Permanent Image",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As major image, plus triggered by Prismatic Spray: Rays hit subjects with variety of effects. event. Illus Invisibility, Mass: As invisibility, but affects all in range.",
+        "name":  "Programmed Image M",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Target becomes panicked, sickened, and comatose. your command.",
+        "name":  "Eyebite",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You become ethereal for 1 round/level. Bull’s Strength, Mass: As bull’s strength, affects one subject/",
+        "name":  "Ethereal Jaunt",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject can become a statue at will. Cat’s Grace, Mass: As cat’s grace, affects one subject/level.",
+        "name":  "Statue",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Raises or lowers bodies of water.",
+        "name":  "Control Water",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Digs trenches and build hills. Conj Incendiary Cloud: Cloud deals 4d6 fire damage/round. Owl’s Wisdom, Mass: As owl’s wisdom, affects one subject/ Maze: Traps subject in extradimensional maze. level. Planar Binding, Greater: As lesser planar binding, but up to",
+        "name":  "Move Earth",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject is invisible to sight and scrying; renders",
+        "name":  "Sequester",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As prying eyes, but eyes have true Conj Drawmij’s Instant Summons M: Prepared object appears seeing. in your hand.",
+        "name":  "Prying Eyes, Greater",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Utilizes an array of techniques to imprison a",
+        "name":  "Binding M",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As many as eight subjects travel to another ft. plane.",
+        "name":  "Plane Shift F",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As sending, plus you can send suggestion.",
+        "name":  "Demand",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As teleport, but no range limit and no off-",
+        "name":  "Teleport, Greater",
+        "source":  "players_handbook_core_rulebook_i_v35.txt",
+        "_id":  "21cc5c3220c6325bb43b7fa8344bd936a16350948fa135cc3b0b1735281a38e4"
+    }
+]

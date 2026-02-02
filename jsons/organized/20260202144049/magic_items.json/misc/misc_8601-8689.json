@@ -1,0 +1,625 @@
+﻿[
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "You regain hit points equal to level of spell restored is equal to half the character five times the character level of the defeated foe. You level of the defeated foe (maximum 9th). sdlonyeR .W yb .sullI The winner of a contest between legacy items gains some of the defeated item’s power 13 Illus. by D. Kovacs n a world of menace, where creatures of savage CHANNEL LEGACY [LEGACY] hunger stalk the vulnerable, and where ancient, You can call upon the hidden strength within evil gods encourage villainy and mayhem, the your legacy item to empower yourself for a single abilities of the heroic few are sorely tested. For spectacular effort. aid, heroes can call upon potent spells, abilities honed Prerequisites: Least Legacy, legacy ability with by diligent training and experience, and cunning a daily use limit. items of magical might. Benefit: Choose one of your item’s available But there is deeper and more ancient lore too. legacy abilities with a daily use limit. As an This chapter provides additional resources for immediate action (see the sidebar on page wielders (and founders) of items of legacy, including 15), you can expend all the daily uses of that new feats, spells, psionic powers, and a legacy-themed ability to grant yourself a bonus on all attack prestige class. rolls, saves, and checks. This bonus lasts until the start of your next turn and depends on the power of the legacy ability, as shown in the LEGACY FEATS following table. Unlocking the legacy abilities of an item requires the related legacy feat (least, lesser, or greater). Other Legacy Ability Expended Bonus legacy-related feats allow you to further enhance the Least +2 Lesser +4 item’s abilities. Greater +6 In addition to the listed prerequisites, you must physically possess (carry, wear, or wield) your legacy item to benefit from any legacy feat. All daily uses of the legacy ability are expended The feat descriptions below use the same format without their normal effect. You choose the presented in the Player’s Handbook. ability when you use this feat. 14 2 RETPAHC FO SEOREH YCAGEL Table 2–1: Legacy Feats Feats Prerequisites Benefit Least Legacy Character level 5th, perform Gain access to item’s least legacy abilities associated least legacy ritual Lesser Legacy Least Legacy, character level 11th, Gain access to item’s lesser legacy abilities perform associated lesser legacy ritual Greater Legacy Least Legacy, Lesser Legacy, Gain access to item’s greater legacy abilities character level 17th, perform associated greater legacy ritual Channel Legacy Least Legacy, legacy ability Expend legacy ability to gain bonus on attacks, saves, checks with daily use limit Master Legacy Channel Legacy, Least Legacy, +1 level for using legacy abilities Use Magic Device 4 ranks Curative Legacy Least Legacy, legacy ability with daily Heal when activating legacy ability use limit, ability to cast cure light wounds Empower Legacy Least Legacy, spell-like or command- Increase legacy ability’s variable, numeric effects activated legacy ability by 50% Legacy Focus Least Legacy +1 bonus on save DCs against legacy abilities Quicken Legacy Least Legacy, spell-like or command- Trigger legacy ability as a swift action activated legacy ability Transfer Legacy Least Legacy, legacy ability Transfer ability from legacy item to another magic item with daily use limit",
+        "name":  "Legacy Healing",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "You cannot use this feat to expend any EMPOWER LEGACY [LEGACY] legacy ability that does not have its full daily comple- You can use one of your item’s legacy abilities to ment of uses remaining. For example, if a legacy greater effect. ability is usable three times per day, all three daily Prerequisites: Least Legacy, spell-like or command- uses must be available to use this feat. activated legacy ability.",
+        "name":  "Special",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "When you select this feat, choose one CURATIVE LEGACY [LEGACY] available spell-like legacy ability of a specific item, Your item’s legacy ability is so linked with your or one whose effect is triggered by a command word. aura that it restores your health each time it is Three times per day, you can choose to increase by activated. one-half all variable, numeric effects of that ability",
+        "name":  "Benefit",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "When you select this feat, choose one times. Its effects do not stack. Each time you take the of your item’s available legacy abilities with a daily feat, it applies to a new legacy ability. use limit. Each time you activate the chosen ability, you regain hit points as though a cure spell were cast GREATER LEGACY [LEGACY] on you. You cannot gain more hit points than your You awaken the most powerful abilities of a specific full normal total. The amount of damage healed item of legacy. depends on the power of the ability, as shown in the Prerequisites: Least Legacy, Lesser Legacy, charac- following table. ter level 17th, learn and perform the associated greater legacy ritual of the chosen item.",
+        "name":  "Benefit",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Choose one item of legacy (or candidate Activated Restored item, if you are founding a legacy). If you meet the Least 5 other prerequisites for wielding that item, you can Lesser 10 use any of the item’s greater legacy abilities that are Greater 25 available to a character of your level.",
+        "name":  "Legacy Ability Hit Points Benefit",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "You can gain Curative Legacy multiple times. Its effects do not stack. Each time you take the LEAST LEGACY [LEGACY] feat, it applies to a new legacy ability. You awaken the basic abilities of a specific item of legacy. 15 LEGACY HEROES OF CHAPTER 2",
+        "name":  "Special",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Character level 5th, learn and Prerequisites: Channel Legacy, Least Legacy, Use perform the associated least legacy ritual of the Magic Device 4 ranks. chosen item. Benefit: Once per day as a free action, you can",
+        "name":  "Prerequisites",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Choose one item of legacy (or candidate treat your character level as if it were one higher for item, if founding a legacy). If you meet the other determining which legacy abilities you can use. You prerequisites for wielding that item, you can use any do not pay any new personal costs associated with of the item’s least legacy abilities that are available to the increased level, but you cannot access any abili- a character of your level. ties for which you have not met the prerequisites. For example, a 10th-level character gains no benefit LEGACY FOCUS [LEGACY] from this feat, since she has not yet gained the Lesser Your item’s legacy abilities are more potent than normal. Legacy feat required to use legacy abilities of 11th",
+        "name":  "Benefit",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Add +1 to the Difficulty Class for all saving This effect lasts for 1 hour or until you activate throws against your legacy item’s abilities. a legacy ability with a daily use limit, whichever comes first. LESSER LEGACY [LEGACY] You awaken more powerful abilities of a specific item QUICKEN LEGACY [LEGACY] of legacy. You can activate one of your item’s legacy abilities",
+        "name":  "Benefit",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Least Legacy, character level 11th, with a moment’s thought. learn and perform the associated lesser legacy ritual Prerequisites: Least Legacy, spell-like or command- of the chosen item. activated legacy ability.",
+        "name":  "Prerequisites",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Choose one item of legacy (or candidate Benefit: When you select this feat, choose one avail- item, if founding a legacy). If you meet the other able spell-like legacy ability of a specific item, or one prerequisites for wielding that item, you can use any whose effect is triggered by a command word. Three of the item’s lesser legacy abilities that are available times per day, you can trigger that power as a swift to a character of your level. action, as the Quicken Spell feat (see the definition of swift actions in the sidebar below). MASTER LEGACY [LEGACY] Special: You can gain Quicken Legacy multiple You temporarily gain access to legacy abilities beyond times. Its effects do not stack. Each time you take the your normal reach. feat, it applies to a new legacy ability. pqqqqqqqqqqqqqqqqqqqqrs SWIFT AND IMMEDIATE ACTIONS",
+        "name":  "Benefit",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "A swift action consumes a very small Using an immediate action on your turn is the same as amount of time, but represents a larger expenditure of using a swift action, and counts as your swift action for effort and energy than a free action. You can perform that turn. You cannot use another immediate action or one swift action per turn without affecting your ability a swift action until after your next turn if you have used to perform other actions. In that regard, a swift action is an immediate action when it is not currently your turn like a free action. However, you can perform only a single (effectively, using an immediate action before your turn swift action per turn, regardless of what other actions is equivalent to using your swift action for the coming you take. You can take a swift action any time you would turn). You also cannot use an immediate action if you normally be allowed to take a free action. Swift actions do are flat-footed. not provoke attacks of opportunity. pqqqqqqqqqqqqqqqqqqqqrs 16 2 RETPAHC FO SEOREH YCAGEL TRANSFER LEGACY [LEGACY] 5th-Level Bard Spell You can temporarily transfer one of your legacy item’s Revitalize Legacy, Lesser: Get extra use of chosen abilities to another magic item. lesser legacy ability.",
+        "name":  "Swift Action",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Choose one of your item’s available legacy abilities with a daily use limit. Once per day, you 3rd-Level Cleric Spell can transfer that ability from your legacy item to Revitalize Legacy, Least: Get extra use of chosen another magic item. This transfer requires you to least legacy ability. touch the legacy item to the recipient magic item (a standard action). 5th-Level Cleric Spell For the next 24 hours, you cannot activate the Revitalize Legacy, Lesser: Get extra use of chosen transferred ability. However, the wielder of the lesser legacy ability. recipient magic item can activate the transferred ability as the legacy item’s wielder, for as many uses 9th-Level Cleric Spell as remain in the day. The recipient wielder need not Revitalize Legacy, Greater: Get extra use of chosen meet any prerequisites for activating or using the greater legacy ability. donor legacy item. NEW DRUID SPELLS",
+        "name":  "Benefit",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Get extra use of chosen incantations to manipulate the abilities of legacy greater legacy ability. items. Some of these spells benefit an item’s NEW HEXBLADE SPELL wielder, while others are preferred by the enemies of those individuals. 4th-Level Hexblade Spell SPELL LISTS",
+        "name":  "Over the years, spellcasters have developed a few Revitalize Legacy, Greater",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Target temporarily loses all legacy Some of these spells are usable by classes other abilities of one item. than those in the Player’s Handbook. The hexblade is described in Complete Warrior. Spells granted to the NEW PALADIN SPELL shugenja (Complete Divine) fall into the “All” category for that class. The favored soul and spirit shaman (also 3rd-Level Paladin Spell from Complete Divine) can cast any spell available to Revitalize Legacy, Least: Get extra use of chosen clerics or to druids, respectively. Spells granted to least legacy ability. the wu jen (Complete Arcane) do not belong to any NEW RANGER SPELL elemental group. NEW BARD SPELLS 3rd-Level Ranger Spell",
+        "name":  "Suppress Legacy",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Target temporarily loses all shugenja 3, sorcerer/wizard 3, wu jen 3 legacy abilities of one item. Components: V, S, F",
+        "name":  "Necro Suppress Legacy",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Your legacy item; see text 8th-Level Sorcerer/Wizard Spell Duration: 1 hour/level or until expended",
+        "name":  "Target",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Target permanently loses all Saving Throw: None legacy abilities. Power Resistance: No 9th-Level Sorcerer/Wizard Spell Choose one of your legacy item’s least legacy abilities",
+        "name":  "Necro Sever Legacy",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Get extra use with a daily use limit. You regain one daily use of the of chosen greater legacy ability. chosen ability. This use must be expended within the spell’s duration, or it is lost. NEW WU JEN SPELLS If all daily uses of all least legacy abilities of the item are still available, this spell has no effect (that 3rd-Level Wu Jen Spell is, it can’t increase the number of available daily",
+        "name":  "Trans Revitalize Legacy, Greater",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Get extra use of uses above the normal maximum). No legacy item chosen least legacy ability. can be affected by this spell more than once in a 24-hour period. 5th-Level Wu Jen Spells Focus: Your legacy item, which you must be holding,",
+        "name":  "All Revitalize Legacy, Least",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Target temporarily loses all Revitalize Legacy, Lesser legacy abilities of one item. Transmutation",
+        "name":  "Suppress Legacy",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Permanent of a legacy item, so, too, are psionically aware creatures",
+        "name":  "Duration",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Will negates able to influence items of legacy through the powers",
+        "name":  "Saving Throw",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Yes of the mind. For more about the presentation of psionic powers, You permanently disrupt the bond between the target see Chapter 5 of the Expanded Psionic Handbook. creature and its legacy item (or items). The target is PSION/WILDER POWERS treated as if it had not performed any of the legacy rituals for its item or items. It loses all of the following feats it has gained for all of its legacy items: Greater 3rd-Level Psion/Wilder Power Legacy, Least Legacy, Lesser Legacy. Revitalize Legacy, Psionic: Get extra use of chosen If the target’s Hit Dice total exceeds your caster legacy ability. level, the target adds the difference as a bonus on its Will save to negate the effect. Any creature that suc- 5th-Level Psion/Wilder Power cessfully saves against this spell cannot be affected Suppress Legacy, Psionic: Target temporarily loses by it again for 24 hours. all legacy abilities of one item. The target does not regain any of the personal costs paid to gain access to legacy abilities. It can regain 8th-Level Psion/Wilder Power access to its item’s legacy abilities by performing the Sever Legacy: Target permanently loses all legacy requisite rituals again. In this case, it does not pay abilities. again any personal costs that it has already paid. PSYCHIC WARRIOR POWERS Other than by again performing the legacy rituals to regain lost feats, the effect of this spell can be negated only by miracle or wish. 3rd-Level Psychic Warrior Power",
+        "name":  "Spell Resistance",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Your legacy item; see text creature and a single legacy item it possesses. The Duration: 1 hour/level or until expended target loses access to all legacy abilities granted by Saving Throw: None that item. For the duration of the spell, it cannot Power Resistance: No activate any of the item’s legacy abilities, nor do any Power Points: 5 continuous effects of the legacy item grant any benefit to the target. As the least revitalize legacy spell (see above), except If the target has more than one legacy item, deter- as noted here. To manifest this power, you must be mine randomly which one is affected. holding, wearing, or wielding your legacy item. 19 LEGACY HEROES OF CHAPTER 2",
+        "name":  "You temporarily disrupt the bond between the target Target",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "You can augment this power in one of LEGACY CHAMPION the following ways. 1. If you spend 4 additional power points (9 total), “In my hand, talismans of ancient manufacture have no you regain one daily use of a chosen lesser ability. secrets. Their primeval power is mine.” 2. If you spend 12 additional power points (17 — Marrush Scarhand total), you regain one daily use of a chosen greater ability. As a legacy champion, you are so devoted to the history and chronicle of a particular item of legacy that you Sever Legacy, Psionic enjoy enhanced access to your item’s legacy abilities. Telepathy You can learn the needed rituals more quickly and",
+        "name":  "Augment",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Psion/wilder 8 use the item’s abilities more often, and you can even",
+        "name":  "Level",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Mental customize the item’s abilities to your own purpose.",
+        "name":  "Display",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "1 round The story of a particular legacy item becomes central",
+        "name":  "Manifesting Time",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Will negates aspects of your item.",
+        "name":  "Saving Throw",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "15 BECOMING A LEGACY CHAMPION As the sever legacy spell (see above), except as noted To become a legacy champion, you must already pos- here. sess an item of legacy, have unlocked its least abilities, Other than by again performing the legacy rituals to and be on the cusp of unlocking its lesser abilities. regain lost feats, this effect can be negated by miracle, No particular class is most associated with legacy psychic chirurgery, reality revision, or wish. champions—obsession can be visited upon anyone.",
+        "name":  "Power Points",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Must possess a legacy item, character",
+        "name":  "Special",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Yes to the fullest the potential of your legacy item. Your",
+        "name":  "Power Resistance",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "For every 2 additional power points you legacy abilities at greatly reduced cost. spend, this power’s range increases by 5 feet and its Class Features: At each level except 1st and 7th, save DC increases by 1. you gain class features and an increase in effective level as if you had also gained a level in a class to which you belonged before adding the prestige class level. The specific class features you gain include spells per day (and spells known, if applicable), improved chance of turning or destroying undead, metamagic 20 2 RETPAHC FO SEOREH YCAGEL or item creation feats, bonus feats, monk special abili- Extra Legacy Ability Use (Su): As your bond ties, sneak attack progressions, and so on, depending with your legacy item strengthens, you can draw on the class. You do not, however, gain the benefit of on its abilities more often than normal. At 3rd level, your previous class’s Hit Dice, attack progression, choose one of your item’s least abilities with a daily skill points, or saving throws. If you had more than use limit. You can use that ability one extra time per one class before becoming a legacy champion, you day. Once you have chosen an ability, you cannot must decide to which class to add each level for the change it later. purpose of determining class abilities. At 6th level, you can also gain an extra daily use",
+        "name":  "Augment",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "The name of the legacy paragraph in an item’s history. item is followed by a description of the item’s appear- Additional methods of researching a legacy ance and easily observed abilities. Unless you succeed item’s history are discussed in Alternatives to on the DC 15 Knowledge (history) check concerning Knowledge (history) Checks, page 205. the item, its name isn’t automatically evident. Legacy Rituals: Every legacy item has",
+        "name":  "Name and Description",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "This entry contains at least one ritual associated with it—a information that can be gleaned by inspection and task that must be successfully completed in with an identify spell. The cost listed here is for a normal order to unlock a range of abilities for your use. magic item of the legacy item’s kind, its true status A legacy item can have least, lesser, and greater remaining unknown. Legacy items are priceless. rituals, which grant you access to least, lesser, 24 3 RETPAHC FO SMETI YCAGEL and greater abilities, respectively, but only if you less the column’s header notes a specifi c save, the complete the required ritual. penalty applies on all saves (Fortitude, Refl ex, and",
+        "name":  "Nonlegacy Game Statistics",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Legacy items have more total reduction applied. requirements than simply gaining the associated Manifester Level Penalty: This is a permanent legacy feats. Such requirements are listed here, much reduction in your manifester level for all psionic like the prerequisites for entering a prestige class. powers. It affects all level-dependent variables of These requirements do not affect your ability to use psionic powers, as well as the maximum number of the nonlegacy abilities of the item. power points you can expend on any one power. Mul-",
+        "name":  "Wielder Requirements",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Every legacy item is described in terms tiple values in the same column are not cumulative, of a table that lays out conferred abilities according to instead representing the total reduction applied. the following information. Hit Point Loss: You permanently lose the listed",
+        "name":  "Item Table",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "You must possess this character level number of hit points. The values are cumulative. to gain the legacy item abilities in the same row of Skill Point Loss: The listed number of skill points the table, assuming you meet any other require- are deducted from the skill points you gain at the ments. Since a character below 5th level cannot indicated level. If you cannot pay this personal cost gain access to legacy abilities, each table starts with in full, you must immediately pay as much as you can that level. and continue to pay toward the cost, before acquiring",
+        "name":  "Wielder Level",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "All legacy items exact some sort any further skill ranks, until it is entirely paid. Only of personal costs. These costs apply once you gain when the total cost is paid do you gain access to the access to the legacy abilities of that level, and they legacy abilities of the level exacting the cost. The apply whether or not you are actively wielding the values are cumulative. item of legacy. If you renounce your legacy (see page Spell Slot Loss: You lose the listed spell slot (or slots) 9), these costs are negated. Specifi c types of personal from your daily number of spells. These entries are costs are explained here. not cumulative; each entry on this column replaces",
+        "name":  "Personal Costs",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "This is a permanent penalty on your saving throws. Un- lekniwhoV .F yb .sullI Research is necessary to trace a suspected legacy item’s place in history 25 LEGACY ITEMS OF CHAPTER 3",
+        "name":  "Save Penalty",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "If all the requirements are met, including other sensory special quality. This information is character level, ritual completion, and personal costs, followed by the creature’s modifiers on Listen and the legacy item confers the indicated ability or abili- Spot checks (even if the creature has no ranks in ties upon you. those skills).",
+        "name":  "Abilities",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Lesser Legacy (Bloodcrier’s Hammer). struck item opens 1 round later. Bloodcrier’s Hammer",
+        "name":  "Granted",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Bright Evening Star; down to focus on magical research. When the two Cost 1,500 gp; Weight —. At will, by uttering a parted, Eldarniel gave Alenea Bright Evening Star. He command word, you can use light as the spell. Caster told her their love would last as long as the moonlight level 2nd. and the stars. Alenea wore the ring constantly, but",
+        "name":  "Nonlegacy Game Statistics",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Although the ring fits any hand, nonelves she seldom called upon its powers. Because she rarely have always reported the loop feels a bit loose or tight. used it and almost never spoke of it, Bright Evening Elves find it sizes perfectly. Star goes unmentioned in many stories about Ale- nea. (DC 25; Love of the Stars) HISTORY Alenea continued adventuring for two Judging from the style of the setting and the hundred years before she decided form of the Elven letters in the inscrip- to retire. She then returned tion, Bright Evening Star is of high-elf to Eldarniel, who had in craftsmanship. The name “Alenea” the intervening years might well be a reference to the risen from skilled ar- sorcerer Alenea, a legendary tificer to the position elf hero of three millen- of court mage. The nia ago. An adventurer two were married. and a wanderer, Ale- Some obscure texts nea was the lover of hint that Alenea the wizard Eldarn- crafted a ring with iel, court magician powers of moonlight to a powerful el- for her husband’s wed- ven king of old. ding band, but if this is Since Eldarniel was true, no other tales men- a legendary crafter tion the ring and it has been of magic items, espe- lost to the ages. Sadly, the couple’s cially rings, it seems bliss was short-lived. Just a decade likely that he created after his marriage, Eldarniel was Bright Evening Star for Ale- killed when one of his magical ex- nea, perhaps to aid and protect Bright Evening Star commemorates the love periments backfired and destroyed her on her travels. (DC 15) of the elves Eldarniel and Alenea his entire lab. Alenea maintained Little is known of Alenea’s the hope that he had merely been early life before she completed her magical training shunted to an alternate plane of existence, but she and began her adventuring career. She was born in a finally accepted the truth after years of searching. small fishing village on the coast, and at a young age, She never remarried. When she died, her body was she entered one of the elves’ many spellcasting acad- placed next to Eldarniel’s empty tomb, but Bright Eve- emies. When her studies were completed, she joined ning Star was not buried with her. What happened to up with an adventuring troupe along with another the ring remains a mystery. (DC 31, Return What young mage, Eldarniel. Together they explored an- Was Lost) cient ruins and plumbed arcane secrets, but their LEGACY RITUALS chief passion was finding and cataloging the mystical properties of moonlight and starlight. Some lore- Three rituals are required to unlock all the abilities masters credit them with discovering silver’s effects of Bright Evening Star. on lycanthropes and crafting the first ring of shooting Starlight on Water: You have to find a natural pool stars. Whether these claims are accurate or not, the of pure, still water and immerse Bright Evening Star in nitraM .D yb .sullI 41 LEGACY ITEMS OF CHAPTER 3 Table 3–5: Bright Evening Star ——————— Personal Costs ——————— Wielder Save Skill Check Caster Level Spell Slot Level Penalty Penalty Penalty Loss Abilities 5th — — — — Starbright 6th –1 — — 1st Fire of the heart 7th — — –1 — Enthralling lights 3/day 8th — –1 — 2nd Color spray 3/day 9th — — — — — 10th — — — 3rd Blinding flash 3/day 11th — — — — Shooting stars 2/day 12th — — — 4th — 13th — — –2 — Glittering motes 1/day 14th — — — 5th Starlight resistance 15th — — — — — 16th — — — 6th Twinkle 3/day 17th — — — — Silver starlight 1/day 18th — — — 7th Starlight dispelling 1/day 19th — — — — Tales in the sky 1/day 20th — — — 8th Call down a star 1/2 days it from dusk until dawn. Cost: 4,000 gp. Feat Granted: have innate low-light vision, the range of your sight Least Legacy (Bright Evening Star). triples in starlight.",
+        "name":  "Omen",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "You are required to spend a full Fire of the Heart (Sp): At 6th level and higher, at day and night in study, contemplation, or appreciation will on command, you can evoke a burst of magical of the stars. This might take the form of stargazing starlight, which works as a faerie fire spell. The light at night, studying astrological charts, reading texts created is blue. Caster level 5th. or myths about the stars, or even composing poems Enthralling Lights (Sp): Starting at 7th level, or odes to their beauty. Cost: 13,500 gp. Feat Granted: three times per day on command, you can create an Lesser Legacy (Bright Evening Star). area of dancing stars and glowing dust, duplicating",
+        "name":  "Love of the Stars",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Any music played on Celdoriath’s Clarion is The king could not clear, sweet, and hauntingly beautiful. Furthermore, the ignore Celdoriath’s instrument never tarnishes or shows any sign of heroic deeds, but he wear during regular use—it remains as bright didn’t want the scout to and unsullied as the day it was created. rise to a high enough rank to petition for Indiriel’s hand in mar- HISTORY riage. (DC 18; Watcher’s Vigil) Celdoriath’s Clarion appears to be an elven While he was disgusted and scout’s horn, albeit an ornate and high- embittered by his king’s actions, Cel- quality one. Outriders, rangers, and doriath could not bring himself to leave other advance units of elven armies his home or the woman he loved. With carry such horns. Used to maintain no formal military rank, he signed back communication and summon aid over on with Aldonar’s army as a mercenary, long distances, these instruments are performing the same duties he had always usually simple affairs made of horn carried out. Now, however, he was looked on or brass. Celdoriath’s Clarion clearly be- as little more than a dog that might turn on its longed to a wealthy or infl uential master at any moment. Mercenaries were disliked scout, or one who at best in the elven military, and Celdoriath’s presence was rewarded for was tolerated only because of his skill and the renown some great ser- he had won from the incident with the orcs. Though vice to the elven he was sneered at by the offi cers, most of whom were people. Elf kings drawn from the nobility and were perfectly aware of and nobles give the real reason Celdoriath was discharged, the rang- only their most loyal er’s keen mind and knowledge of woodcraft won him scouts silver trum- Celdoriath’s Clarion awaits a ranger friends and allies among the enlisted soldiers. Three pets, and then only in who proves worthy of its heroic legacy years into his tour as a mercenary, Celdoriath was on recognition of some patrol deep in the heart of an uninhabited region of truly heroic act. Few such instruments are ascribed the forest. There, a huge section of ground collapsed magical properties in the elven histories. Clearly, Cel- inward, revealing a subterranean cavern out of which doriath’s Clarion is something extraordinary. (DC 15) boiled thousands of drow and their arachnoid servants. Celdoriath was a ranger serving as a scout in the forces Surrounded and cut off from any hope of escape, Cel- of the elven king Aldonar, the ruler of an enormous doriath raised his silver trumpet to his lips and blew forest realm. Though he was merely a low-ranking a long, clear blast. Much to his surprise, not only was soldier in his king’s army, Celdoriath was in love with the call answered, it was answered in force—a brigade King Aldonar’s daughter, Indiriel. More signifi cantly, of elf mages had been training in the region, and with the princess loved Celdoriath in return. Her father their potent magic, they were able to contain the drow refused to allow her to marry so far below her sta- assault and drive the dark elves back underground. tion, however. Resigned to love from afar, Celdoriath (DC 25; Prayer of Thanksgiving) abandoned his hopes of marrying Indiriel and threw After saving the kingdom from certain destruction himself into his duties. He spent three months tracking twice, Celdoriath could no longer simply be brushed an orc horde along the borders of the forest during a aside by King Aldonar. Reluctantly, the king restored Illus. by D. Martin 54 3 RETPAHC FO SMETI YCAGEL Table 3–9: Celdoriath’s Clarion ——————— Personal Costs ——————— Wielder Save Skill Check Hit Point Skill Point Level Penalty Penalty Loss Loss Abilities 5th — — — — Strengthen morale 6th — — 2 3 Fell blast at will 7th — –1 — — Summon least ally 1/day 8th –1 — — 3 — 9th — — — — Call compatriot 1/day 10th — — 2 — — 11th — — — — Heartening call 3/day 12th –2 — — 3 Note of opening at will 13th — — — — — 14th — –2 — — Summon lesser ally 1/day 15th — — — — Call swarm 5/day 16th — — — — — 17th — — — — Phantasmal blast 3/day 18th — — — 3 Summon greater ally 1/2 days 19th — –3 — — — 20th — — — 3 Call divine ally 1/month Celdoriath’s rank and status, removing the only Watcher’s Vigil: You must track a creature or group of obstacle to the ranger’s marriage to Indiriel. The couple creatures for at least one full week in severe weather. The were at long last wed, a century and a half after they weather should include at least one element that threatens first met, and their child was named the royal heir- your safety, be it temperature, wind, or precipitation. designate. King Aldonar died in the child’s fifth year. Blinding blizzards, scorching temperatures, and drench- (Some claimed his death was the result of assassination, ing rains are all appropriate. You must either keep your even placing the blame on the king’s own daughter). quarry in sight or remain on its trail at all times. If you With the child still far too young to take the throne, lose the trail for more than two days, the ritual fails. Cost: Celdoriath ruled as regent for the next hundred years. 1,800 gp. Feat Granted: Least Legacy (Celdoriath’s Clarion).",
+        "name":  "Omen",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "+1 scimitar; money could buy and fi lled his home Cost 2,315 gp. On a successful attack, Desert with enough magical wards and traps to Wind deals 1 point of fi re damage in protect an entire lost city. On top of these addition to normal damage. precautions, in case all his defenses failed",
+        "name":  "Nonlegacy Game Statistics",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "You must travel to LEGACY ITEM ABILITIES the temple of Pelor where Saint Ardtan was raised, and there spend 24 hours in fasting and meditation. Cost: All the following are legacy item abilities of 2,200 gp. Feat Granted: Least Legacy (Durindana). Durindana.",
+        "name":  "First Station of Saint Ardtan",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "hp 45 (see page 52 Dark Reliquary of the Monster Manual). A niche in this wall can be located with a DC 20 Search check. Inside this recess are various items the priests Aedwar’s Tomb of old considered too dangerous or blasphemous to be Sarcophagi allowed to remain in the wide world. Several molder- These stone coffins are covered by heavy granite lids ing copies of the holy canons of various evil faiths carved with effigies of the priests buried within them. rest within, as does an amulet of death’s calling. This Inside each coffin are a silver holy symbol (25 gp) and amulet is a perfect candidate for the Sanctification a gold-and-crystal vial of holy water (50 gp). of Darkness ritual (see above). pqqqqqqqqqqqqqqqqqqqqrs AMULET OF DEATH’S CALLING This amulet is made of pale alabaster, carved into the like- day on command, it allows the wearer to use death knell ness of a small gong or bell with a skull motif sculpted on as the spell. the face. It is usually worn on a fine chain of steel that has Faint necromancy; CL 3rd; Craft Wondrous item, death been blackened as though by a tremendous fire. Once per knell; Price 2,160 gp; Weight 1 lb. pqqqqqqqqqqqqqqqqqqqqrs 83 LEGACY ITEMS OF CHAPTER 3 FIENDKILLER’S FLAIL shortly thereafter. Seeing one leader alive and the other Fiendkiller’s Flail is an oversized flail with a spiked dead, he drew the obvious conclusion. Although the head and chain forged from an amalgam of cold iron nalfeshnee claimed innocence, not all were convinced. and silver. The handle is made from the forearm bone (DC 20; Appearance of Guilt) of a horned devil and wrapped in the cured skin of The mariliths and horned devils believed that a marilith. the nalfeshnees were responsible for killing their",
+        "name":  "Charenthoth, Bearded Devil",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "The staff is cold to the warn Sorelius, but others in his tribe touch, and when squeezed, vapor prevented him from doing so, trap- rises from its entire length as if it ping and binding him. The berserkers were dry ice. successfully infiltrated the valley and climbed up the steps leading to the HISTORY mountain city, and many elves were lost. Sorelius loved to stray from home and Sorelius, with her staff, joined a group roam across the snow-covered, alpine of archers who flanked the barbarians meadows for days. She carried with and ambushed them, exterminating them. her the staff that came to be known as Nobody blamed Sorelius for leading the Frostburn’s Wrath. The wild elf maiden humans to the city. No proof existed to al- lived in an ancient city carved out of a low such a claim. She felt responsible for the mountain peak. Her ancestors created the damage done and every life lost nevertheless, beautiful aerie so Sorelius and her fellow and she silently blamed Faedrion for it all. (DC wild elves could live in self-sustaining isola- 25; Envy Most Foul) tion. But seclusion was something Sorelius The loss of so many innocent lives was the no longer craved. She always described her worst tragedy to befall the wild elf community explorations as uneventful to any who asked, in centuries. Sorelius could tell the berserkers but on one such venture, she discovered a came from Faedrion’s clan by examining their handsome human man lost in the track- garb. Fury and the sting of treachery washed over less mountains, freezing in the bitter cold. the wild elf sorceress as she flew down from the Sorelius saved him from certain death. Her mountain like a scorned force of nature. Sorelius people forbade interaction with humans for could guess where Faedrion lived, but the exact any reason, but Sorelius and the human, who location didn’t matter. She razed every human was called Faedrion, continued meeting each encampment in her path with the cold embrace other in secret. (DC 15) of Frostburn’s Wrath, raging on until she came Sorelius and Faedrion sustained their love to the most prominent village in the human affair for years. She shared stories of her home, lands. There, Sorelius unleashed a blizzard un- but she refused to show him where to fi nd the like any seen in the harshest winters, freezing mountain city, since he would be killed on sight flesh on bone until it crystallized and flaked if he were to go there. During this time Sorelius away in the wind. Finally satisfied with the grew increasingly clever at avoiding suspicion blood price she had exacted, Sorelius landed about her frequent outings and even managed to on the ground to survey firsthand the dam- evade the trackers her parents sometimes hired. age she had wrought. It was then she saw her Faedrion, however, was not so subtle. Although lover’s corpse, still tied to a post, seemingly he never spoke of Sorelius to anybody, members by his own people. Innocent of duplicity and of his clan followed him to one of his arctic ren- betrayed himself, Faedrion had been slain dezvous. When Sorelius returned home after the by Sorelius’s own hand. The elf dropped meeting, a human ranger shadowed her through Frostburn’s Wrath where she stood, and she the secret paths and caverns that led was never heard from again. (DC 30; to the valley and city of the wild elves. Fury at betrayal powers the icy Blind Justice) (DC 20; Coveted Secrets) death of Frostburn’s Wrath Illus. by D. Martin 94 3 RETPAHC FO SMETI YCAGEL Table 3–22: Frostburn’s Wrath ——————— Personal Costs ——————— Wielder Save Skill Check Caster Level Spell Slot Level Penalty Penalty Penalty Loss Abilities 5th — — — — Freezing spread 1/week 6th –1 — — 1st Storm vision, winter embrace 7th — — –1 — Ice spike 3/day 8th — –1 — 2nd — 9th — — — — Freezing bolt (CL 5th) 1/day 10th — — — 3rd — 11th — — — — Freezing bolt (CL 10th) 1/day 12th — — — 4th Resistance to cold 10 13th — — –2 — Freezing rain 2/day 14th — — — 5th Masterwork/+1 frost quarterstaff 15th — — — — — 16th — — — 6th Plague of hail 2/day 17th — — — — Freezing bolt (CL 10th) 5/day 18th — — — 7th Globe of ice 1/day 19th — — — — Unforgiving cold 1/week 20th — — — 8th Torrential frost 2/day LEGACY RITUALS LEGACY ITEM ABILITIES Three rituals are required to unlock all the abilities All the following are legacy item abilities of Frost- of Frostburn’s Wrath. burn’s Wrath.",
+        "name":  "Omen",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "You are required to locate the spot Ice Spike (Su): Beginning at 7th level, three where Faedrion died and maintain a bonfire in his times per day on command, you can launch a spike memory for three days. Cost: 39,000 gp. Feat Granted: of ice at any target within 100 feet. If you hit with Greater Legacy (Frostburn’s Wrath). a ranged touch attack, the spike deals 3d6 points of cold damage. WIELDER REQUIREMENTS Freezing Bolt (Sp): At 9th level and higher, once The wielders of Frostburn’s Wrath are invariably sorcer- per day on command, you can use lightning bolt as the ers or wizards. spell, substituting cold damage for electricity damage. The save DC is 14, or 13 + your Charisma modifier, Frostburn’s Wrath Wielder Requirements whichever is higher. Caster level 5th. Ability to cast arcane spells When you attain 11th level, the caster level for this Knowledge (geography) 2 ranks feature increases to 10th. Beginning at 17th level, you Speak Language (Elven) can use this ability five times per day. 95 LEGACY ITEMS OF CHAPTER 3 Resistance to Cold (Su): At 12th level, you gain cold resistance 10. Freezing Rain (Sp): Starting at 13th level, two times per day on command, you can use sleet storm as the spell. Caster level 7th. Plague of Hail (Sp): At 16th level and higher, two times per day on command, you can use ice storm as the spell. Caster level 7th. Globe of Ice (Sp): Beginning at 18th level, once per day on command, you can use Otiluke’s freezing sphere as the spell, except you cannot refrain from fi ring the globe when the command word is spoken. The save DC is 19, or 16 + your Charisma modifi er, whichever is higher. Caster level 15th. Unforgiving Cold (Sp): At 19th level and higher, once per week on command, you can use control weather as the spell, except that you can change the weather only in cold regions and create only condi- tions allowed in winter. Caster level 15th. Torrential Frost (Sp): Starting at 20th level, two times per day on command, you can use cone of cold as the spell. The save DC is 17, or 15 + your Charisma modifi er, whichever is higher. Caster level 15th. ADVENTURE SEED (EL 5) When Sorelius disappeared, leaving Frostburn’s Wrath with deep snow, but the inner gorge is less thickly in the middle of a crystallized village, the few surviv- fi lled, making it the easiest way to travel through ing humans had already fl ed. The bodies of the dead the area. were left to the scavengers of the land. Foremost among these was a band of trolls, who were drawn Trail down from the mountains by the smell of freshly The narrow path enters the innermost portion of thawed meat. The trolls picked through the settle- the gorge. ment for food and eventually discovered Frostburn’s Wrath, causing them to viciously contend for the item Gorge until only one remained. That one is named Wordug. The deepest part of the gorge is 30 feet below the Despite his best efforts, Wordug was never able to overhang on which Wordug waits. activate the magic within the staff. He now carries the item as a pretty trophy, relying on tooth and claw Tree Bridge in battle. The troll has created a crude bridge over the gorge",
+        "name":  "Blind Justice",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "You have to emulate Rosie Apple- LEGACY ITEM ABILITIES cask by performing an act of uncommon larceny. To do so, you must infiltrate a site and steal an object All the following are legacy item abilities of Full Moon’s worth at least 4,300 gp. During the theft, you must Trick. Many of the abilities of this legacy item depend on overcome traps, guards, or other hazards with an the state of the omen ability. When the blade is clouded, Encounter Level of 6 or higher. While avoiding detec- certain abilities can be used and others cannot; when tion is not necessary, you must evade capture and later unclouded, the same is true. See the Omen entry for arrest. Cost: 4,300 gp (the value of the stolen item). Feat details on clouding or unclouding the blade.",
+        "name":  "Sneak Thievery",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Least Legacy (Hammer of Witches). LEGACY ITEM ABILITIES",
+        "name":  "Feat Granted",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "You must locate a cell of All the following are legacy item abilities of Hammer the Holy Circle of the Light of Faith and petition of Witches. the cult for membership. The Light requires various Magefinder (Sp): Although Hammer of Witches tests of ability, works of faith, and acts of penance to glows brightly in the presence of arcane magic, this prove your loyalty. Cost: 11,500 gp. Feat Granted: Lesser automatic detection lacks precision and discernment. Legacy (Hammer of Witches). At 5th level and higher, at will on command, you can",
+        "name":  "Rite of Hidden Light",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "When wearing Infiltrator, you can focus your an invaluable resource to the royal army. (DC 20; vision, gaining the visual effects of a magnifying glass Behind the Lines) or a spyglass (see pages 130 and 127 of the Player’s Dekarius made a reputation for himself among his Handbook, respectively). superiors, who came to rely on the information he provided. His spying was so dependable that battles HISTORY were often delayed until he returned The product of a misspent youth, from a mission. Eventually, Dek- Dekarius Daystorm was a sneaky arius was given the most covert adolescent scion of a wealthy assignment he had ever taken. merchant family that made He was to infiltrate a retreat- its fortune building siege ing enemy army, earn the engines for its nation’s trust of their commanding armies. Dekarius was de- officers, and serve as their termined to learn all his scout. Only Dekarius and family’s dark secrets, and his superiors were privy he had a knack for ser- to this plan. Dekarius endipitously overhearing was allowed to provide whispered confidences. the enemy leaders some According to his father, the useful intelligence, but lad possessed too much talent for only to gain their trust. Sly this skill. Something about Dekari- disinformation would follow. us caused people to open up around The operation worked perfectly, him. The entire family came to fear allowing Dekarius to send cru- his insatiable curiosity and powers cial facts to his commanders on a of deduction—extortion, infidelity, regular basis. During a stay in an en- and even murder ran through their emy metropolis, however, Dekarius history, all there for the idle young was taken aback when he spotted his man to discover. So, without telling father in the streets. Younger shad- his son beforehand, Dekarius’s father owed elder through the city’s avenues enlisted him into the royal army, hop- The wearer of Infiltrator can avoid and byways. The older man went into ing the military could make good use various sorts of detection a military barracks, and Dekarius re- of his incisive skills. Dekarius was alized he was supplying siege engines sent on his way with the shirt of mithral chain that to both sides in the war. (DC 25; Inside Track) would later become Infiltrator. (DC 15) When Dekarius discovered his father was double- Dekarius raged and fumed at the underhanded dealing, his patriotism wrestled with his family way his father had enrolled him into the army, but loyalty. The young soldier confronted his father, who the youth could do nothing about it. The paperwork revealed he had been secretly traveling back and was signed. To spite his father, Dekarius excelled in forth across the war lines for years. The Daystorm all tasks assigned him and quickly demonstrated a cartel even worked to maintain an artificial balance natural aptitude for gathering information about of power to keep its industry alive. Dekarius’s father any enemy. As a result, he was sent deep into hostile made it clear the whole family would suffer if this territory, always returning with, at the very least, a duplicitous trading were stopped. Such deals were detailed report of armaments, deployments, and troop wholly responsible for the family’s current wealth. numbers. Dekarius, however, was never satisfied with Dekarius weighed these words against everything such a superficial accounting. He often dressed as a he knew about his kin and the corruption running Illus. by D. Crabapple 110 3 RETPAHC FO SMETI YCAGEL Table 3–27: Infiltrator ——————— Personal Costs ——————— Wielder Reflex Save Skill Check Hit Point Skill Point Level Penalty Penalty Loss Loss Abilities 5th — — — — Low-light vision 6th — — 2 3 Collecting facts +5 7th –1 –1 — — Local garments 8th — — — 3 Thorough sweep +5 9th — — — — — 10th — — 2 — Higher vantage 11th — — — — Darkvision 12th –2 — — — +3 mithral chain shirt 13th — — — 3 Local tongue 14th — –2 — — — 15th — — — — Fly on the wall at will 16th — — — 3 Incisive mind at will 17th — — — — Blindsense 18th — — — 3 Collecting facts +15 19th — –3 — — Thorough sweep +15 20th — — — 3 Nondetection deep through their history. Money had brought them Infiltrator Wielder Requirements only misery. As he told his father to flee and never show Gather Information 2 ranks himself in their homeland again, Dekarius could sense Listen 2 ranks Sense Motive 2 ranks the old man’s bodyguards approaching from behind. He turned to face the cutthroats, only to feel the chill LEGACY ITEM ABILITIES ache of steel driving into his back and out through his chest. The Daystorm business was preserved. (DC All the following are legacy item abilities of Infiltrator. 30; Between the Lines) Low Light Vision (Su): At 5th level, you gain low- light vision. LEGACY RITUALS Collecting Facts (Su): At 6th level, Infiltrator grants Three rituals are required to unlock all the abilities you a +5 competence bonus on Spot checks. At 18th of Infiltrator. level, this bonus increases to +15.",
+        "name":  "Omen",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Merikel Wielder Requirements Pious Redemption requires you to perform an act Ability to cast 1st-level divine spells of redemption, such as atoning for a personal sin or Base attack bonus +3 convincing a thief to leave behind her life of crime LEGACY ITEM ABILITIES and put her talents to good use. To enact Down the Dark Path, you must perform a wicked act, such as All the following are legacy item abilities of Merikel. deliberately breaking a promise made in good faith Dual Legacy Properties: At each level where two or convincing a new cleric to abandon his holy tenets abilities are listed on the table, you gain the ability asso- and desert his faith. Cost: 4,500 gp. Feat Granted: Least ciated with the ritual path you’re following but not the Legacy (Merikel). other ability. The first ability listed is associated with",
+        "name":  "Pious Redemption or Down the Dark Path",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "You have to steal an item worth round. The effects of successive strikes in the same round 1,000 gp from a close friend, relative, or compatriot. are not cumulative. The save DC is 11, or 11 + your Cha-",
+        "name":  "Nothing Personal",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "4,500 gp (which includes the value of the stolen risma modifier, whichever is higher. Caster level 5th. item). Feat Granted: Least Legacy (Mindsplinter). Virtue Denied (Su): Starting at 6th level, once per day",
+        "name":  "Cost",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "The Rod of Trimeg dislikes idleness. If was a cunning scoundrel, and she bore a long- it is left unattended, it moves when no one is standing grudge against the sorcerer Malkuth. watching it. The rod never goes far, nor does it As it happened, Trimeg was delivering a missive leave your vicinity, but it is frequently found in from Malkuth to the count of Blandish—along odd places. with a gift of a beautiful magic necklace for the countess—respectfully requesting permission HISTORY to gather specimens of exotic beasts from the In a kingdom long since crumbled to dust, the count’s forest reserve. Nariel learned of this caduceus—a rod capped with a winged crown, through her infernal sources. Taking the guise twined with two serpents—was a potent magical of a simple but beautiful peasant girl, she met symbol. It represented knowledge, healing, and Trimeg on the road and convinced him to stay his travelers, along with countless other emblematic mission merely for the evening. While Trimeg meanings. Messengers and envoys commonly slept later that night, Nariel switched the mes- carried the caduceus as a mark of their offi ce sage and gift with her own and departed for and inviolability, much like a white flag of the Abyss. The demon could not so easily fool truce. The herald Trimeg, a legendary messenger the wily Trimeg. He recognized her wormwood credited with many supernatural feats, carried perfume as an odor especially pleasing to beings this particular rod. (DC 15) from the Abyss. Before he even entered Nariel’s Trimeg’s name first rose to prominence home, Trimeg had already swapped the real mes- eight hundred years ago, during a fierce war sage for a false one and the real gift for an empty between the monarchies of Althec and Kar- box. With the true epistle and amulet tucked kos. The rulers of the two nations had once safely into his cloak, he enjoyed the company been fast friends, but when they both discov- of the succubus and traveled on in the morning. ered evidence of the other sovereign making (DC 25; Canny Trickster) clandestine plans of invasion and conquest, Many more stories are told of Trimeg and his they immediately declared war upon one anoth- adventures, but the greatest—and, ironically, the er. Many costly battles followed. Trimeg, who least well known—is his fi nal tale. When Trimeg was then in the service of Althec’s monarch, had grown old and could no longer run as swiftly was wary of the circumstanc- as he had in his youth, he passed es that led the two realms to A messenger bearing the Rod of Trimeg his rod to Kadmon, his nephew. war. He kept his eyes open can never become lost or diverted Kadmon carried on his uncle’s Illus. by W. England 134 3 RETPAHC FO SMETI YCAGEL Table 3–35: Rod of Trimeg ——————— Personal Costs ——————— Wielder Attack Skill Check Hit Point Skill Point Level Penalty Penalty Loss Loss Abilities 5th — — — — Masterwork/+1 quarterstaff 6th — — 2 4 Fleetness 7th –1 — — — +1/+1 quarterstaff 8th — –1 — — Survivor 9th — — — 2 Whispering wind 1/day 10th — — 2 — Nighteye 1/day 11th — — — — Winged feet 1/day 12th — — — 2 — 13th –2 — — — +2/+2 quarterstaff 14th — — 2 — Bend space 1/day 15th — — — — — 16th — –2 — — Locate creature 1/day 17th — — — — Find the path 1/day 18th — — 2 2 +2/+2 quarterstaff of speed 19th — –3 — 2 Wind walk 1/day 20th — — — 2 Walk worlds 1/day legacy honorably, but all those who knew him Player’s Handbook. Cost: 1,700 gp. Feat Granted: Least agreed that he was no Trimeg, merely an adequate Legacy (Rod of Trimeg). messenger. Trimeg was saddened at how his nephew Canny Trickster: As Trimeg himself was a clever was mocked, not for being a poor messenger, but and sly trickster, you must likewise have a sharp wit merely for not living up to an impossible legacy. The and a quick mind. You must outwit or defeat through old herald resolved to do something about it. He set guile an intelligent creature with a higher CR than off once more, intending to travel the planes until he your character level. Cost: 12,000 gp. Feat Granted: found Fharlanghn, the god of roads, and entreated Lesser Legacy (Rod of Trimeg). the deity to bless Kadmon with gifts greater than his Honor the Traveler: You have to travel to the own. Trimeg scoured the planes for a whole year, and Concordant Domain of the Outlands and visit the though the myths disagree on whether he circled the site where Trimeg died. There you must pay homage Great Wheel one time, three times, or seven times, to the hero’s memory. Cost: 40,000 gp. Feat Granted: he at long last found Fharlanghn in the Outlands. Greater Legacy (Rod of Trimeg). Trimeg was near death by then, but he told the god WIELDER REQUIREMENTS why he had come. Fharlanghn was so impressed by the mortal’s tenacity, he agreed to Trimeg’s request. Rogues and rangers are the most likely to benefit from The deity touched Kadmon’s caduceus, the very the Rod of Trimeg. Any character routinely traveling same one the young man inherited from Trimeg, long distances, or through hostile terrain, can garner and imbued it with the speed, guile, and trickery advantages from the staff. of Kadmon’s grandfather. When he saw this done, Trimeg smiled, thanked Fharlanghn, and died. The Rod of Trimeg Wielder Requirements fables say Fharlanghn took Trimeg’s soul to himself Climb 4 ranks and made the renowned courier his personal emissary. Survival 4 ranks Swim 4 ranks (DC 31; Honor the Traveler) Run LEGACY RITUALS LEGACY ITEM ABILITIES Three rituals are required to unlock all the abilities of the Rod of Trimeg. All the following are legacy item abilities of the Rod",
+        "name":  "Omen",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "According to the tales, Trimeg ran from of Trimeg. Althec to Karkos in a single night to stop a war. While Fleetness (Su): At 6th level, you gain a 5-foot you need not accomplish such a superhuman feat, you enhancement bonus to your base land speed. are required to run without stopping from dusk until Survivor (Su): At 8th level, you gain a +5 compe- dawn. Use the rules for hustling on page 164 of the tence bonus on Survival checks. 135 LEGACY ITEMS OF CHAPTER 3 Whispering Wind (Sp): Sometimes, a messenger cannot complete his task directly. Starting at 9th level, once per day on command, you can use whispering wind as the spell. Caster level 5th. Nighteye (Sp): At 10th level and higher, once per day with the command word “nighteye,” you can use darkvision as the spell. Caster level 5th. Winged Feet (Sp): Beginning at 11th level, once per day on command, you can use fl y as the spell. Caster level 10th. Bend Space (Sp): At 14th level and higher, once per day on command, you can use dimension door as the spell. Caster level 11th. Locate Creature (Sp): Starting at 16th level, once per day on command, you can use locate creature as the spell. Caster level 11th. Find the Path (Sp): At 17th level and higher, once per day on command, you can use fi nd the path as the spell. Caster level 15th. Wind Walk (Sp): Beginning at 19th level, once per day on command, you can use wind walk as the spell. Caster level 15th. Walk Worlds (Sp): At 20th level and higher, once per day on command, you can use plane shift as the spell. Only willing creatures can be transported. Caster level 15th. Balance Beam (CR 3) The narrow beam set across this 60-foot-deep pit ADVENTURE SEED (EL 5) requires a DC 15 Balance check to negotiate. Characters While exploring the ruins of an ancient border fort, failing by 5 or more fall off of the beam, but they can the PCs come across a secret chamber hidden behind catch themselves with a DC 20 Refl ex save. Those a false wall (Search DC 20 to locate). Traps and hazard- who fall into the pit take 6d6 points of damage from ous terrain guard the room, but at the far end of the the plunge. chamber, something can be seen gleaming on a large, stone pedestal. Characters who navigate the traps can Gust of Wind Trap claim the Rod of Trimeg. Designed to discourage fl ying creatures from cir- cumventing the balance beam, this trap consists Pits (CR 2) of permanent gust of wind spells traveling from left The fi rst three pits are 15 feet across and 20 feet deep. to right. The wind is easily heard, and it crosses the Nasty spikes line their bottoms. The DC to jump balance beam at the point indicated on the map. A the fi rst pit is 15, since enough room exists to get a large grid of spikes mounted on the right wall waits 20-foot running start. The remaining pits, however, for those blown far enough to hit them. Someone require a DC 30 Jump check. The walls of the pits who hits the spikes is attacked by 1d4+1 of them. are smooth, requiring a DC 25 Climb check to scale Each spike has a +10 melee attack bonus and deals (the DC drops to 5 if a rope can be secured for the 1d4 points of damage. climb). A fall into one of these pits deals 2d6 points of damage, and 1d4+1 spikes attack the faller. Each Altar spike has a +10 melee attack bonus and deals 1d4 The Rod of Trimeg rests atop this altar. Amazingly, it points of damage. is not trapped or protected in any way. 136 3 RETPAHC FO SMETI YCAGEL SCALES OF BALANCE odd, ascetic philosophy. Within weeks of This 6-foot-tall, polished quarterstaff is made half from beginning his training, he would often stay white ash and half from darkwood so black it resembles up through the night, debating philosophy a clouded sky on a moonless night. At the center of with the order’s founders. Hemsi concluded the staff, the two woods fuse together in a blend of that to truly understand the unity of positive neutral gray. The staff is unadorned, but simply hold- and negative forces, one must experience each ing it is enough to reveal its unusual properties. to the fullest extreme possible. He became the",
+        "name":  "Long Run",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "You have to spend at least one All the following are legacy item abilities of Scales week immersing yourself in all aspects of positive of Balance. existence—creation, spontaneity, physical exertion, Eye of Mortality (Su): At 6th level and higher, healing, and so on. The DM is free to extend the time three times per day as a standard action, you can point requirement of this ritual. Cost: 3,600 gp. Feat Granted: Scales of Balance at another creature to determine that Least Legacy (Scales of Balance). creature’s nature. This works like the detect undead",
+        "name":  "Road of Creation",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Scarab of resistance +1; neered an ambush. When Prince Dalwin made Cost 1,500 gp. You also gain a +1 bonus on caster level landfall at the third island kingdom on his itinerary, checks made to dispel or counter a magical conflagration slew everyone in a spell. his company, but the protective forces",
+        "name":  "Nonlegacy Game Statistics",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "If you are capable of the Scarab of Aradros saved him. of casting arcane spells The prince barely escaped inland, and wear the scarab for burned but alive, all alone in a at least 1 hour, it grows nation alerted to his presence warm and the beetle and certain of his evil intent. occasionally twitches Dalwin was overcome despite and chirps (audible several heroic stands, including only to the wearer). the Clash at Umandil, the Battle of Uyn, and the Stand at Sea’s Edge. HISTORY The Scarab of Aradros was lost and The Scarab of Aradros was its power forgotten. (DC 27; forged in ancient days Dalwin’s Lament) when the world was dif- The Scarab of Aradros ferent, and races more protected its noble wearer LEGACY in ancient times RITUALS primal than those alive today stalked its primor- Two rituals are required to dial darks. Humans were all but unknown, and unlock all the abilities of elves were numerous. Several mighty clans of elves the Scarab of Aradros. battled each other for supremacy over lands since Quest of Far Jour- fallen beneath the waves. One of these great elven neys: You are required to houses was named Aradros, and the Scarab of Aradros journey from whatever locale takes its moniker from that lineage. (DC 17) you currently inhabit and spend at In the time primeval, the water-bounded dominion least one week traveling. During that week, you must of Aradros grew strong and influential. Neighboring journey at least one hundred miles from where you realms, on nearby isles and the distant mainland, began and end up in a place you have never visited. began to have their doubts about the house. Other Cost: 2,500 gp. Feat Granted: Least Legacy (Scarab clans started to fear that the magically inclined of Aradros). scions of Aradros wished to expand their influence Dalwin’s Lament: You must pay special homage more significantly and at the expense of other to Dalwin on any shoreline of a great ocean or domains. Perhaps this fear was justified, because sea, the words and form of which are revealed as it was during the reign of Aradros VI that the part of the successful Knowledge (history) check.",
+        "name":  "Omen",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "You are required to free another of this ability at any one time—if a new animal is individual from any form of coercion or threat from charmed, the previous target is freed from the effect. a demon, whether mundane or magical. You can use The save DC is 11, or 11 + your Charisma modifier, any means to remove the demonic influence, as long whichever is higher. Caster level 5th. as it is removed permanently. Cost: 12,500 gp. Feat Summon Lion (Sp): Starting at 8th level, once",
+        "name":  "Cutting Jigoku",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "You have to defeat in personal LEGACY ITEM ABILITIES combat a creature with the air subtype and a CR equal to or greater than your level (maximum CR 10). Cost: 1,000 All the following are legacy item abilities of Sling of gp. Feat Granted: Least Legacy (Sling of the Dire Wind). the Dire Wind.",
+        "name":  "Harness the Gale",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "You have to venture deep into unexplored wilderness by yourself, with nothing more than Stormchaser’s Cudgel as protection, until LEGACY ITEM ABILITIES you become truly lost (see Getting Lost, page 86 of the All the following are legacy item abilities of Storm- Dungeon Master’s Guide). Cost: 2,100 gp. Feat Granted: chaser’s Cudgel. Least Legacy (Stormchaser’s Cudgel). Dazing Strike (Su): Beginning at 5th level, when-",
+        "name":  "The Traceless Path",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "With Stormchaser’s Cudgel in Stormchaser’s Cudgel is thrown into the air, it always hand and no other mundane or magical protection, lands on the ground with its top end pointing toward you are required to allow bolts of naturally occurring true magnetic north. Caster level 5th. lightning to strike you, dealing you no fewer than Healing Spark (Sp): Starting at 8th level, once per 5d10 points of damage. You can accomplish this day as a swift action, you can use cure light wounds on feat by seeking the highest point of an area during a yourself, as the spell. Caster level 5th. thunderstorm or by being struck by bolts from a call Crush the Weak (Su): At 10th level and higher, the lightning or call lightning storm spell. Cost: 40,500 gp. critical threat range of Stormchaser’s Cudgel doubles (to",
+        "name":  "Tempting the Storm",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "hp 91 (see page 189 of the Altar Monster Manual). The legacy greatspear Thanifex rests on this altar. 169 LEGACY ITEMS OF CHAPTER 3 TREEBROTHER As Anda, Tarnla, and Nidria fell back toward the sacred Treebrother is a deceptively simple, knotted staff of heart of the forest, they pooled their magic for one stout oak. Unpolished and rough, the wood looks last, desperate spell to drive the invaders back. Using freshly cut from the bough of an ancient tree. The Nidria’s sacred oak as the spell’s focus, they conjured staff is thick and sturdy, ideally suited for use either forth a vast wave of vines and greenery, swallowing the as a walking stick or a quarterstaff. orc multitude. Their victory came at great cost—the",
+        "name":  "Javen Blunt, Mohrg",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Treebrother; Cost 1,100 spell’s energy destroyed Nidria’s tree, and the effort of gp; Charges 50. On command, Treebrother can summon casting it claimed the lives of Anda and Tarnla alike. a cloud of bright motes resembling fireflies, creating The dryad survived only thanks to Treebrother, whose illumination equivalent to a light spell. Caster level magic held enough residues from her oak to sustain 5th. When you cast barkskin, your caster level is treated her. Grief-stricken, the dryad buried Anda and Tarnla as one level higher than normal. together beneath a sacred mound, atop which she",
+        "name":  "Nonlegacy Game Statistics",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "You are required to hunt and Keen Sight (Su): You gain a +5 competence bonus slay a dire bear, again with the restrictions described on Spot checks at 9th level. in Swift Hooves of the Deer. You must once again Swift Stride (Su): Starting at 10th level, three times dress the body and perform a ritual offering to the per day as a swift action, you can grant yourself a 30- bear spirits. Cost: 38,000 gp. Feat Granted: Greater foot enhancement bonus on your base land speed. Legacy (Ur). The increase lasts 1 round. Caster level 5th. 175 LEGACY ITEMS OF CHAPTER 3",
+        "name":  "Strength of the Bear",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "LEGACY ITEM FOUNDING RESTRICTIONS at a given level. (The relative values of abilities in the",
+        "name":  "BEHIND THE CURTAIN",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "On legacy item menus presented in this chapter also follow the one hand, the items must be exciting and unique, this principle.) Taking these factors into account, as well while on the other, they can’t be so powerful that they de- as the customized ritual and personal costs of each item, stroy game balance. Thus legacy abilities and costs are all no more than a +1 enhancement bonus (or equivalent balanced against a character’s expected power and wealth ability) is appropriate for a starting item. pqqqqqqqqqqqqqqqqqqqqrs 182 4 RETPAHC GNIDNUOF SEICAGEL new rituals must also be tied to the item’s history, Legacy Minimum Ritual Character Level however short it might be. Least 5th When you perform the founding least legacy ritual, Lesser 11th you must pay all the gp costs associated with that Greater 17th ritual (see Setting Costs on page 184). In addition, you must expend a set amount of experience points, Least Legacy Founding Ritual as described under Least Legacy Founding Ritual (see The least legacy ritual, when performed for the first below). Lesser and greater legacy founding rituals also time, turns the item into an item of legacy. This ritual require an expenditure of XP; see the Lesser Legacy establishes the general nature and theme of the item, Founding Ritual and Greater Legacy Founding Ritual influencing all its later legacy abilities, as well as sections for details. Those who wield the legacy item establishing the abilities available from 5th through after you do not spend these experience points, and 10th level. Designing an appropriate least legacy must only pay the material (gp) costs associated with ritual requires some forethought as well as personal each ritual. adaptation of the item’s specific abilities.",
+        "name":  "Designing the rules for items of legacy is a challenge",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "In addition to the gp cost for raw materials undergo and pay all costs for the ritual yourself before (see Setting Costs on page 184), designing and per- you or any other wielder can access the legacy abili- forming a least legacy founding ritual requires the ties associated with that ritual. The legacy founding expenditure of 500 XP. Upon completing the ritual, process is ruined if you pass the item to another you gain the Least Legacy feat specific to your item wielder without first paying all costs, and you must as a bonus feat. start anew. You gain the benefits of a given legacy ritual only Lesser Legacy Founding Ritual if you have reached the specified character level, as The lesser legacy ritual, when performed for the first set out below. time, brings a legacy item to the next level of power. pqqqqqqqqqqqqqqqqqqqqrs GENERAL LEGACY RITUAL EXAMPLES engage in mentally or physically demanding activities, Many of these example rituals involve a trial, test, dedica- such as combat or spellcasting. If your meditation is inter- tion, or similar commitment. Within one day of complet- rupted, the ritual fails and must be restarted; however, you ing the listed activity (whether before or after), you must do not need to pay its gp cost again. expend raw materials as determined by the ritual type Pledge: Dedicate yourself to some principle or philoso- (least, lesser, or greater). phy related to the founding event. Each time you fail to",
+        "name":  "Whenever you design a founding ritual, you must Cost",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Choose one creature type (such as an el- act in accordance with this pledge, you are unable to use emental, dragon, aberration, and so on), or a specific foe the two highest-level available abilities of your legacy item (such as an evil half-dragon). You must defeat a chosen for one day. If you repeatedly fail to honor the pledge, you foe with a Challenge Rating equal to or greater than your lose access to those abilities for additional days. character level. Knowledge: Educate yourself in some area of knowledge",
+        "name":  "Trial By Enemy",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "The item must be purified in some way. recovering a magnificent relic, surviving a mythically This might involve bathing it in special waters, anointing dangerous passage, and so on. Unless you specify other- it with blessed oils, or some other action and materials wise, you are presumed to be following the quest; how- relating to the founding event. ever, each day after the initial pledge that you have not",
+        "name":  "Purification",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Meditate on the item for one day per char- completed the quest, you have a 10% chance of being acter level. You must spend at least 8 continuous hours unable to use the two highest-level available abilities of in meditation each day; during this period, you cannot your legacy item. pqqqqqqqqqqqqqqqqqqqqrs 183 LEGACIES FOUNDING CHAPTER 4 It allows you to establish further legacy abilities, a suite of interesting and flavorful abilities that har- available from 11th through 16th level. monize to form a unique creation.",
+        "name":  "Meditation",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "In addition to the gp cost for raw materials You have two options when assigning legacy abil- (see Setting Costs on page 184), designing and per- ities. On completing a given founding ritual, you forming a lesser legacy founding ritual requires the can choose all the abilities that are accessible to the expenditure of 1,100 XP. Upon associated legacy feat, effectively creating a completing the ritual, you “road map” to follow over the rest of your gain the Lesser Legacy career. Alternatively, if your DM allows, feat specific to your item you can choose each legacy abil- as a bonus feat. ity when you attain the next character level that allows Greater Legacy access to a new ability. You Founding Ritual must still select abilities The greater legacy ritual, available for the appropri- when performed for the ate legacy feat you have first time, brings a lega- (least abilities if you have cy item to the “highest the Least Legacy feat). The level” of power. It allows second option allows you to establish ultimate much more flexibility legacy abilities, avail- but needs the approval able from 17th through of the DM to prevent 20th level. abuse—otherwise you",
+        "name":  "Cost",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "In addition to the could simply choose the gp cost for raw materials best ability for whatever (see Setting Costs on page challenge you happen to be 184), designing and perform- facing at the time. ing a greater legacy founding To guide you in choosing appro- ritual requires the expenditure of A founding ritual requires both priate legacy abilities, this chapter 1,700 XP. Upon completing the ritual, dedication and imagination presents a series of menus. Each menu you gain the Greater Legacy feat spe- includes a range of abilities of roughly cific to your item as a bonus feat. equivalent value, allowing a nearly limitless variety of legacy items. These are not exhaustive—you can also create new abilities of roughly the same cost, ASSIGNING even if they’re not found on the menus. (In fact, LEGACY ABILITIES many of the legacy items presented in Chapter 3 The process of assigning legacy abilities—the powers feature custom abilities that do not exactly match that give a legacy item its identity—is complex. As a menu choices.) If you do so, determine a reasonable player whose character is founding an item of legacy, value for the ability (as a guide, try comparing it to you should work with your Dungeon Master to create equivalent magic item properties) or just compare pqqqqqqqqqqqqqqqqqqqqrs",
+        "name":  "Cost",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "least 1,500 gp; lesser 13,000 gp; greater Ritual Costs: least 1,700 gp; lesser 12,000 gp; greater 40,000 gp. 40,000 gp. presented in Chapter 3 do not follow them precisely. throws. These are most appropriate for items intended Each progression lists the gp cost of the least, lesser, for fighters, paladins, barbarians, and other charac- and greater legacy rituals, as well as the personal costs ters who focus on martial talents. Table 4–2 applies assessed against the wielder and the levels at which a penalty only to a single saving throw (Fortitude, those costs are assessed. The ritual costs for each Reflex, or Will, at the founder’s option), but the progression are similar but not identical. penalty is more severe than the general penalties A given progression is appropriate for a certain assessed in Table 4–1. Neither of these progressions class of legacy items. For example, a progression that is suitable for characters who don’t rely on attack rolls applies attack penalties has little effect on the average (such as wizards). Hit point losses are cumulative, wizard, whereas skill penalties don’t mean much to but penalties on attacks and saves represent the total combat-focused characters such as fighters. at a given level. Tables 4–1 and 4–2 impose significant hit point Tables 4–3 and 4–4 impose costs related to both losses, along with penalties on attack rolls and saving combat (hit points or attack penalty) and skill use 186 4 RETPAHC GNIDNUOF SEICAGEL Table 4–5 Table 4–7 Character Skill Check Save Hit Point Skill Point Character Attack Hit Point Spell Slot Level Penalty Penalty Loss Loss Level Penalty Loss Loss 5th — — — — 5th — — — 6th — — 2 3 6th — 2 1st 7th –1 –1 — — 7th — 2 — 8th — — — 3 8th –1 — 2nd 9th — — — — 9th — 2 — 10th — — 2 — 10th — — 3rd 11th — — — — 11th — — — 12th — –2 — — 12th — — 4th 13th — — — 3 13th — 2 — 14th –2 — — — 14th — — 5th 15th — — — — 15th — 2 — 16th — — — 3 16th — — 6th 17th — — — — 17th — — — 18th — — — 3 18th — — 7th 19th –3 — — — 19th — 2 — 20th — — — 3 20th — — 8th",
+        "name":  "Ritual Costs",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "one abil- 6th level he will lose 4 hit points, and another 2 at 9th. ity that would otherwise be available from Menu A at 6th He takes a –1 penalty on all saving throws at 8th level, level and one at 7th level. Therefore, Dave’s character and a –1 penalty on all attack rolls at 9th level. If he de- unlocks no new legacy ability at 6th level, instead waiting cides to unlock the Praetorian Bulwark’s lesser abilities, until 7th level before Praetorian Bulwark’s enhancement he must pay the appropriate ritual and personal costs bonus improves to +3. from the same table. pqqqqqqqqqqqqqqqqqqqqrs 188 4 RETPAHC GNIDNUOF SEICAGEL of spell slots. (Soulknives should use a progression sound or sounds your item makes and under what appropriate to combat-focused characters, since their circumstances. Once customized, the omen does psionic abilities don’t rely on power points.) Table 4–9 not change. is intended for classes such as the psion or wilder who Auditory: The item sings, weeps, whispers, or makes focus entirely on psionic powers. Table 4–10 is better some other sound. If the item produces words, they suited to the psychic warrior and similar psionic cannot be more than preprogrammed phrases. classes, imposing a lower power point cost progres- Material: The item displays some minor material sion at the cost of hit point losses and attack penalties. effect. This might manifest as illusory substances, Hit point and power point losses are cumulative, but such as seeping blood, running shadows, or slime, penalties on attacks and manifester level represent or as programmed visual illusions, such as a blinking the total at a given level. eye or a snarling mouth. No blood, slime, or other Some characters don’t fi t neatly into these categories. material is actually produced. That’s okay—just use your best judgment. You don’t Mental: A threatening voice echoes telepathi- have to fi nd a perfect match in these tables, as long cally in the mind of specifi ed creatures, promising as the personal costs are appropriate for the wielder’s eventual death by the legacy item, or some similar character archetype and represent meaningful, but preprogrammed phrase. Examples of such targets are reasonable, expenditures. creatures whose alignments differ from your own, members of a particular race or class, and so on.",
+        "name":  "A Menu B choice uses up two least ability slots",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "This spell reveals all the standard magical any three abilities from Menu A. abilities of a legacy item but none of its legacy abili- Legacy Ability Menu C—Mutable Legacy: Select ties. It does, however, grant a +2 bonus on Knowledge any two abilities from Menu B. (history) checks (or alternative checks) to research the Legacy Ability Menu E—Mutable Legacy: Select item’s background. any three abilities from Menu D.",
+        "name":  "Identify",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Standard coins; abilities when tempered in the double goods (nonflamma- fire of extreme experience, certain bles only); standard items creatures sometimes undergo expe- (nonflammables only) riences so extreme that their very Alignment: Neutral bodies can become imbued with Advancement: By character legacy abilities. class",
+        "name":  "Just as some items take on legacy Treasure",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Slam +13 melee (2d8+5) of nonmagical origin if these are of Large size or",
+        "name":  "Attack",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "2 slams +13 melee (2d8+5) smaller. It can dispel magical fi re it touches as dispel Space/Reach: 10 ft./10 ft. magic (CL 12th).",
+        "name":  "Full Attack",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "— Vhuuksssh was summoned by a planar ally spell to perform a service for an elemental temple. But when the water elemental had fulfilled its pact and the time came to release it from service, the cleric who had summoned Vhuuksssh refused to uphold the terms of the bargain. By claiming the elemental had not met the letter of the agreement, he denied it return to its home plane. With the fury of a storm-tossed sea, Vhuuksssh lashed out at its enslaver. Battered by the cleric’s elemental magic, it was nearly destroyed, but finally the elemental caught up the traitor in its vortex and dashed his head against the temple walls. Now truly free, Vhuuksssh could have returned to the Elemental Plane of Water—but it felt different, as though stirred by a fresh current. Vhuuksssh had escaped a magical pact by doing what no other planar ally had dared: turning on its Vhuuksssh struck back against a faithless summoner summoner. It absorbed some of the elemental power and has found new elemental power yelsaE .J yb .sullI 215 RULES OPTIONAL CHAPTER 5 feet tall. Vhuuksssh controls the exact height, but it Omen: Vhuuksssh flickers with fiery glints that must be at least 10 feet. seem to run across its surface. Vhuuksssh’s movement while in vortex form Speed Enhancement (Su): Vhuuksssh’s land speed does not provoke attacks of opportunity, even if it has increased by 5 feet. enters the space another creature occupies. Another Skills: Vhuuksssh has a +8 racial bonus on any Swim creature might be caught in the vortex if it touches check to perform some special action or avoid a hazard. or enters the vortex, or if Vhuuksssh moves into or It can always choose to take 10 on a Swim check, even through the creature’s space. Medium and smaller if distracted or endangered. It can use the run action creatures might take damage when caught in the while swimming, provided it swims in a straight line. vortex and might be swept up by it. An affected CREATING A creature must succeed on a DC 19 Reflex save when MONSTER OF LEGACY it comes into contact with the vortex or take 2d6 points of damage. It must also succeed on a second “Monster of legacy” is an acquired template that can DC 19 Reflex save or be picked up bodily and held be added to any aberration, dragon, elemental, giant, suspended in the powerful currents, automatically magical beast, monstrous humanoid, ooze, outsider, or taking 2d6 points of damage each round. An affected undead (hereafter referred to as the base creature). creature is allowed a Reflex save each round to escape The base creature must also have the following: the vortex. The creature still takes damage, but can • Intelligence 3 or more; leave if the save is successful. • 5 or more HD; Creatures trapped in the vortex cannot move except • At least one supernatural or spell-like ability. to go where Vhuuksssh carries them or to escape the In addition, the monster must experience the same vortex. Creatures caught in the vortex can otherwise sort of dramatic event that paves the way for creating act normally, but must make a Concentration check an item of legacy. (DC 10 + spell level) to cast a spell. Creatures caught Monsters of legacy do not perform legacy rituals or in the vortex take a –4 penalty to Dexterity and a –2 pay for materials, nor do they incur any personal costs penalty on attack rolls. Vhuuksssh can have only as for their legacy abilities. No legacy feat (such as Least many creatures trapped inside the vortex at one time Legacy) is required to unlock their legacy abilities. as will fit inside its volume. Vhuuksssh can eject any A monster of legacy uses all the base creature’s carried creatures whenever it wishes, depositing them statistics and special abilities except as noted here. wherever the vortex happens to be. Special Attacks/Special Qualities: A monster of If the vortex’s base touches the bottom, it creates a swirl- legacy retains all the special attacks and special quali- ing cloud of debris. This cloud is centered on Vhuuksssh ties of the base creature. It also gains legacy abilities and has a diameter equal to half the vortex’s height. as described here. The cloud obscures all vision, including darkvision, To assign abilities, use the legacy ability menus in beyond 5 feet. Creatures 5 feet away have concealment, Chapter 4: Founding Legacies. Treat the monster as both while those farther away have total concealment. Those an item of legacy and its wielder. It selects a number of caught in the cloud must make a Concentration check ability choices determined by its total Hit Dice, as well (DC 15 + spell level) to cast a spell. as a choice from the omen menu. Use the following While in vortex form, Vhuuksssh cannot make slam table to determine which menus it can choose from. attacks and does not threaten the area around it. Water Mastery (Ex): Vhuuksssh gains a +1 bonus 5–10 HD 11–16 HD 17+ HD on attack and damage rolls if both it and its opponent Menu A Menu D Menu G Menu B Menu E Menu H are touching water. If the opponent or Vhuuksssh is Menu C Menu F Menu I touching the ground, Vhuuksssh takes a –4 penalty on attack and damage rolls. (These modifiers are not included in the statistics block.) In one of the examples given above, Shuluth the Vhuuksssh can easily overturn craft up to 60 feet illithid is an 8 Hit Die creature. Thus, it could choose long, stop larger vessels (up to 120 feet long), and slow three abilities from Menu A, or one from Menu A and large ships (up to 240 feet long) to half speed. one from Menu B, or a single ability from Menu C. It",
+        "name":  "Level Adjustment",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Adjust the creature’s Challenge obvious example, would not have been nearly as interest- Rating based on the number of legacy abilities to ing a story if Frodo could call upon the full powers of which it has access. These increases are not cumulative the One Ring from the moment he put it on. with each other. One solution to this dilemma is to convert the item into a legacy item, allowing its wielder to gain access Legacy Abilities Awakened CR Increase to its most powerful abilities over time. Two or more least +1 Two or more lesser +2 CONVERTING STANDARD Two or more greater +3 MAGIC ITEMS TO LEGACY ITEMS Using the standard item’s abilities as a guideline, it should",
+        "name":  "Challenge Rating",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "This chapter presents two epic legacy ability menus, 150,000 gp for a Menu Y legacy ability or 500,000 gp which provide examples of the power level of such for a Menu Z legacy ability. (See the epic legacy ability abilities. These menus can’t begin to cover all the menus below.) fantastic possibilities available to an epic legacy item. Once you have learned and completed the ritual, Feel free to create additional abilities as you see fit, you might select Epic Legacy at the next opportunity using the costs of the sample abilities in this chapter to take an epic feat. (The ritual does not grant it as a as a guide: Menu Y abilities have an average value of bonus feat.) 300,000 gp, while Menu Z abilities have an average Unlike nonepic legacy rituals, each new epic legacy value of 1,000,000 gp. ability requires you to perform a new legacy ritual. You Epic legacy items have standardized personal costs, as can do this no more often than once per three levels, as shown on the following table. At every level that does shown in Table 5–3: Designing an Epic Legacy Item. not allow a new legacy ability (and associated ritual), the wielder permanently loses 3 hp. This applies only Epic Founding Events and Rituals if the wielder has unlocked that “tier” of legacy abilities Even for items with an existing legacy, it might be by undergoing the requisite ritual and selecting the appropriate to require an additional founding event Epic Legacy feat. For example, if you attain 25th level that propels the item into the realm of epic power. but have unlocked only one epic legacy ability, you do pqqqqqqqqqqqqqqqqqqqqrs EPIC LEGACY [EPIC, LEGACY] Special: You can gain this feat multiple times. Each time You unlock an epic ability of a specific item of legacy. you take the feat, you must perform the associated epic",
+        "name":  "You must pay a cost for the raw materials of the ritual",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "magic_items.json",
+        "description":  "Character level 21st, Least Legacy, Lesser ritual. The ritual can be completed up to 30 days before Legacy, Greater Legacy, design (or learn) and perform the or after you choose the feat. epic ritual associated with the chosen item. Unlike nonepic legacy feats, Epic Legacy is not granted",
+        "name":  "Prerequisites",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    }
+]

@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "spells.json",
+        "description":  "This spell can start a fi re. make a foundering check (DC equal to 10 + 2 per 10 feet",
+        "name":  "Meteor Swarm",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The cloud does not move with you. Rusting Grasp: This spell holes one hull section of an Otiluke’s Freezing Sphere: If you create ice that touches iron-hulled vessel. the enemy vessel’s hull along at least 50% of its length on Scorching Ray: This spell does not start fi res. one side (or surrounds the ship altogether), its speed falls Shatter: You can’t damage a vessel with this spell. to zero for the duration of the spell. Solid Fog: See acid fog.",
+        "name":  "Obscuring Mist",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You hole one section of the enemy ship. The Stinking Cloud: See fog cloud. section counts as destroyed (as if destroyed by damage), Storm of Vengeance: The cloud does not move with the but when the spell ends it is restored to its normal target vessel (although a target vessel can require some condition. number of rounds to sail out from under it due to the",
+        "name":  "Passwall",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Any vessel of Huge size or larger spell’s large area). is too big to be affected by this spell. Sympathetic Vibration: You attack one section at a time",
+        "name":  "Polymorph any Object",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The energy damage dealt by this spell with this spell. does not start fi res. Wall of Fire: This spell does not start fi res.",
+        "name":  "Prismatic Spray",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This spell is useful for putting out fires, of Warp Wood: You can’t damage a ship with this spell; the course. area affected is too small. leppA .C yb .sullI 31 MAELSTROM INTO THE CHAPTER 1 Attacks on the Crew When a ship catches fire, half of the squares exposed to Many spells are directed at an enemy crew and affect the the attack (minimum 1 square) ignite. A burning square rest of the ship as an afterthought. Fireball is perhaps the is on fire, dealing 2d6 points of damage per round to that best example of this—the real point of a fireball is to kill hull section and dealing the same damage to any character or incapacitate a number of enemy crewmen quickly; if who enters the square. Each round that the fire burns, it damages some hull sections and sets the ship on fire, roll d%: 01–10, 1 square of the fire dies out; 11–75, no all the better. change; 76–100, the fire spreads to 1 adjacent square (a On the main deck, the gunwales provide cover (+4 fire typically spreads to 1 new square for each 4 squares bonus to AC, and +2 bonus on Reflex saves) against attacks currently burning). originating from outside. Characters inside the sterncastle As a full-round action, a character can attempt to or forecastle, or fighting through a port, hatch, or window, extinguish a fire in an adjacent square by beating it out, enjoy improved cover (+8 bonus to AC, and +4 bonus on stomping it, scattering burning materials, dousing the Reflex saves) against attacks from outside. flames with sand or water, or similar efforts. A DC 10",
+        "name":  "Quench",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Losing able-bodied crewmembers makes Strength check extinguishes 1 square; a DC 20 check it more difficult to handle a ship, depending on their extinguishes 2 squares. A create water spell extinguishes 1 assigned tasks. burning square per 4 gallons created (minimum 1 square).",
+        "name":  "Crew Losses",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One hull section is destroyed (reduced to 0 hit Fires points). When a hull section is destroyed, all hull sections Wooden ships are not floating tinderboxes (at least, not adjacent to that section are weakened, and immediately until the introduction of powder magazines). Fires can reduced to 50% of their normal hit points in the follow- and do destroy ships, but it usually takes more than a ing round. This collateral damage can cascade across a single flaming sphere to start an unstoppable fire. When a ship from round to round and section to section, possibly ship is exposed to an effect that can start a fire (a fire spell destroying more sections in succession if they were suf- of the right type, alchemist’s fire, etc.), make a fire check. ficiently damaged to begin with. This is an unmodified d20 roll; the DC is determined as A holed ship is severely damaged (see above), since shown below. Spells that cause an instantaneous blast of the destruction of a section and the damage dealt to the fire usually don’t catch inanimate objects on fire, whereas neighboring sections meet the criteria for that condition fire spells that burn for multiple rounds are more likely as well. to start a shipboard fire. Each time a ship is holed, it must make a sinking check (see below). DC Fire Check Cause A vessel with at least 25% of its sections destroyed has 5 Struck by flaming arrow been demolished, and sinks immediately. 8 Struck by alchemist’s fire or firebomb",
+        "name":  "Holed",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Able to cast 1st-level divine spells. AC 20, touch 11, flat-footed 20",
+        "name":  "Spellcasting",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Animal companion with aquatic subtype or swim hp 13 (5 HD) speed. 77 CLASSES CHAPTER 3 Table 3–9: The Wavekeeper Hit Die: d8 Base Attack Fort Ref Will Level Bonus Save Save Save Special Spellcasting 1st +0 +2 +0 +2 Masterful swimmer, mysteries of the sea — 2nd +1 +3 +0 +3 Beast of the sea, wave master 1/day +1 level of existing divine spellcasting class 3rd +2 +3 +1 +3 Mastery of breath, water breathing +1 level of existing divine spellcasting class 4th +3 +4 +1 +4 Wave master 2/day +1 level of existing divine spellcasting class 5th +3 +4 +1 +4 Current mastery +1 level of existing divine spellcasting class 6th +4 +5 +2 +5 Wave master 3/day +1 level of existing divine spellcasting class 7th +5 +5 +2 +5 Wave form +1 level of existing divine spellcasting class 8th +6 +6 +2 +6 Wave master 4/day +1 level of existing divine spellcasting class 9th +6 +6 +3 +6 Wave form (Huge) +1 level of existing divine spellcasting class 10th +7 +7 +3 +7 Call of the abyss, +1 level of existing divine spellcasting class current mastery (20 ft.), wave master 5/day Skills (4 + Int per level): Concentration, Craft, Handle Animal, Heal, Hide, Intimidate, Jump, Knowledge (nature), Listen, Move Silently, Profession, Search, Spellcraft, Spot, Survival, Swim. CLASS FEATURES Current Mastery (Ex): At 5th level, you gain the ability The following are class features of the wavekeeper. to create currents that move the water in your vicinity.",
+        "name":  "Special",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "In some seafaring societies, a ship’s with both hands while sliding along the rope, gaining a crew is not complete without a windsinger—a charac- +10 bonus on the Balance check. ter whose spells can soothe or command the winds. A windsinger is usually a bard or a druid, but sorcerers and Narrow or Difficult Surface Heeling deck DC 10 wizards can fill this job as well, provided they know the Sargasso, heavy mat DC 10 right spells. The windsinger’s duties are generally not Surf, light DC 10 as militant or officious as a ship’s mage or ship’s prelate; Roll, heavy DC 15 few ships carry all three. Windsingers help ships avoid Surf, heavy DC 15 Yardarm DC 15 battles, not win them, and they often serve as spokesmen Green water DC 20 for the crew. . A windsinger is usually a bard or druid of Sargasso, light mat DC 30 3rd ro 6th level with several ranks in Profession (sailor) and Knowledge (nature). 84 4 RETPAHC DNA SLLIKS STAEF",
+        "name":  "Windsinger",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Characters who dive into water take no damage on a successful DC 15 Swim check or DC 15 Tumble check, so long as the water is at least 10 feet deep for every 30 feet fallen. Water 30 feet deep is sufficient for a dive from any height. However, the DC of the check increases by 5 for every 50 feet of the dive. The table below summarizes these rules: Dive Min. Safe Damage for Height Depth DC Failed Dive 10 ft. 10 ft. 15 None 20 ft. 10 ft. 15 None 30 ft. 10 ft. 15 1d3 nonlethal 40 ft. 20 ft. 15 2d3 nonlethal 50 ft. 20 ft. 20 2d3 nonlethal + 1d6 60 ft. 20 ft. 20 2d3 nonlethal + 2d6 70 ft. 30 ft. 20 2d3 nonlethal + 3d6 80 ft. 30 ft. 20 2d3 nonlethal + 4d6 90 ft. 30 ft. 20 2d3 nonlethal + 5d6 100 ft. 30 ft. 20 2d3 nonlethal + 6d6 110 ft. 30 ft. 25 2d3 nonlethal + 7d6 120 ft. 30 ft. 25 2d3 nonlethal + 8d6 160 ft. 30 ft. 30 2d3 nonlethal + 12d6 210 ft. 30 ft. 35 2d3 nonlethal + 17d6 240 ft. 30 ft. 35 2d3 nonlethal + 20d61 An aquatic elf puts the Aquatic Shot feat to good use 1 Maximum falling damage. Spell allows a druid to cast spells while in a form that lacks If the water is not deep enough for a safe dive, add 5 to hands or even forelimbs. the DC and treat your dive or fall as 30 feet higher than In addition to the feats found in the Player’s Handbook, its actual height on the table above. a number of new feats described here can be quite",
+        "name":  "Diving",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Withdrawing from combat is a full-round bonus on Balance and Tumble checks, and a +1 bonus on action (see page 143 of the Player’s Handbook). initiative checks. SAILOR’S BALANCE SHIP’S MAGE You are experienced with the rolling decks of the ship and You form a potent supernatural bond with a ship. Your maintain strong footing, even in a terrible storm. spells have a more potent effect when cast aboard this",
+        "name":  "Normal",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Profession (sailor) 4 ranks. ship. Those spellcasters who possess this feat are greatly",
+        "name":  "Prerequisites",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You gain a +5 competence bonus on Balance favored as ship crew. checks made while on the deck or in the rigging of a ship. Prerequisites: Profession (sailor) 2 ranks, Spellcraft You can move across a slippery deck (see page 20) at your 4 ranks. normal speed. Benefit: Add +1 to the caster level of all spells cast while",
+        "name":  "Benefit",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Without this feat, each square of movement you are aboard a ship that is familiar to you. In addition, across a slippery deck costs 2 squares of movement. spells you cast while aboard a ship that is familiar to you deal no damage to that ship. SANCTIFY WATER [DIVINE] It takes one week of living and working aboard a ship You can call upon positive energy to momentarily trans- to become familiar with it. You can only be familiar with form normal water around you into holy water. This feat one ship at a time; the familiarity with a particular ship is often learned by the clerics and paladins of sea gods, as fades should you become familiar with another ship. well as aquatic clerics of all stripes. Additionally, should you remain away from the ship you",
+        "name":  "Normal",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spellcraft 4 ranks.",
+        "name":  "Prerequisites",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You need not make a Spellcraft check to suc- WATER ADAPTATION cessfully cast spells or use spell-like abilities with the fi re You favor your aquatic elf parent and have developed the descriptor targeted on water (see page 93 of the Dungeon ability to breathe and move about in water easily. Master’s Guide). Prerequisite: Aquatic half-elf.",
+        "name":  "Benefi t",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You are immune to pressure damage 9 Doom of the Seas*: Summons a fiendish from descending into even the greatest of oceanic kraken under your command. depths. *New spell described in this chapter. 110 6 RETPAHC DNA SLLEPS SMETI CIGAM OCEAN DOMAIN 8 Depthsurge*: Water slam deals 2d6 + caster level",
+        "name":  "Granted Power",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You gain Expert Swimmer or Rapid Swimming (your choice) as a bonus feat. 2ND-LEVEL BARD SPELL",
+        "name":  "Granted Power",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Landslide buries, mires creatures within a 3RD-LEVEL CLERIC SPELL 40-ft. radius.",
+        "name":  "Mudslide",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Subject breathes air as easily as water. Stormwalk: Teleport yourself and one creature/2 levels from a storm. DRUID SPELLS 7TH-LEVEL DRUID SPELL",
+        "name":  "Air Breathing",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Water rises up into a whirling vortex that 1ST-LEVEL DRUID SPELLS deals 3d8 damage and sucks creatures in. Kuo-Toa Skin: Subject gains +8 on Escape Artist checks and cannot be snared by webs. 8TH-LEVEL DRUID SPELLS",
+        "name":  "Waterspout",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Gain scent, water breathing, 2ND-LEVEL DRUID SPELLS swim speed for 1 hour/level.",
+        "name":  "Megalodon Empowerment",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Water pressure deals 4d6 damage to 9TH-LEVEL DRUID SPELL submerged targets. Doom of the Seas: Summons a fiendish kraken under",
+        "name":  "Pressure Sphere",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Subject gains swim speed and +8 bonus on Swim your command. checks. Tern’s Persistence: Subject can travel overland 50% longer PALADIN SPELLS without fatigue.",
+        "name":  "Swim",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Gain all-around vision. Urchin’s Spines: Target grows spines that damage 2ND-LEVEL PALADIN SPELL opponents. Steed of the Seas: Make your special mount amphibious. 3RD-LEVEL DRUID SPELLS RANGER SPELLS",
+        "name":  "Tojanida Sight",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Produces a strong wind that lasts 10 min./level. 1ST-LEVEL RANGER SPELLS",
+        "name":  "Favorable Wind",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Your swim speed increases by 10 ft. 4TH-LEVEL DRUID SPELLS Tern’s Persistence: Subject can travel overland 50% longer",
+        "name":  "Quickswim",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can track a ship across the sea. by bog terrain. 5TH-LEVEL DRUID SPELLS 2ND-LEVEL RANGER SPELL",
+        "name":  "Wake Trailing",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can scry creatures in contact with a body 3RD-LEVEL RANGER SPELLS of water. Scales of the Sealord: Add 10 ft. to swim speed or",
+        "name":  "Flowsight",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Disguises a ship. SORCERER/WIZARD SPELLS",
+        "name":  "Illus Disguise Ship",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Subject’s skin undergoes a horrible transformaton. 1ST-LEVEL SORCERER/WIZARD SPELLS",
+        "name":  "Necro Aboleth Curse",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Your swim speed increases by 10 ft. 5TH-LEVEL SORCERER/WIZARD SPELLS Wave Blessing. Keeps one creature/level from Conj Blackwater Tentacle: Create blackwater tentacle sinking. that attacks your foe.",
+        "name":  "Trans Quickswim",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You can scry creatures in contact with a 2ND-LEVEL SORCERER/WIZARD SPELLS body of water. Abjur Stormrunner’s Ward: Add +4 (+1/4 levels) to ship’s Necro Thalassemia: Turns blood to seawater, dealing checks to weather storms. 1d6/level damage.",
+        "name":  "Div Flowsight",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Subject gains a bite attack. Kuo-Toa Skin: Subject gains +8 on Escape Artist 6TH-LEVEL SORCERER/WIZARD SPELLS checks and cannot be snared by webs. Conj Mudslide: Landslide buries, mires creatures",
+        "name":  "Jaws of the Moray",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Subject gains swim speed and +8 bonus on Necro Blackwater Taint: Desecrate water, deal 1d6/2 levels Swim checks. negative energy damage, bestow a negative level. Tern’s Persistence: Subject can travel overland 50% longer without fatigue. 7TH-LEVEL SORCERER/WIZARD SPELL Urchin’s Spines: Target grows spines that damage Conj Waterspout: Water rises up into a whirling vortex opponents. that deals 3d8 damage and sucks creatures in. 3RD-LEVEL SORCERER/WIZARD SPELLS 8TH-LEVEL SORCERER/WIZARD SPELLS",
+        "name":  "Swim",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Transforms 1 cu. ft./level of water damage to all within 20-ft. radius, pushes targets into acid. back, sinks ships. 4TH-LEVEL SORCERER/WIZARD SPELLS 9TH-LEVEL SORCERER/WIZARD SPELL Ench Siren’s Call: Compel one creature/2 levels to Conj Planar Navigation: Send a whole ship to another submerse itself. plane. SPELLS",
+        "name":  "Water to Acid",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action forms into a transparent, glistening This curse cannot be dispelled,",
+        "name":  "Casting Time",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Living creature touched formed must keep this membrane curse spell if cast within 24 hours.",
+        "name":  "Target",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Living creatures touched Spell Resistance: No water combat penalties for all melee",
+        "name":  "Target",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Will negates This spell turns normal water (or still take the normal underwater (harmless) watery solutions) into a frothy sub- penalty.",
+        "name":  "Saving Throw",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) stance that is as breathable as air. The spell does not filter or purify Both air-breathing and water-breath- solid particles, so casting airy water The transmuted creature can breathe ing creatures within the area can on very turbid liquids, for example, air freely. Divide the duration evenly breathe normally. would produce an area filled with among all the creatures you touch. Moving through airy water is easier dust or smoke (and impose similar The spell does not make creatures than moving through normal water. penalties). unable to breathe water. Swimmers make a DC 10 Swim Material Component: A small hand- Air breathing counters and dispels check once per round; they swim at ful of alkaline salts. water breathing. their normal speed on a success, or",
+        "name":  "Spell Resistance",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A tiny half their normal speed on a failure. BLACKWATER TAINT vial of water. Creatures with a swim speed can Necromancy [Evil, Water] simply use their swim speed without Level: Blackwater 6, sorcerer/wizard 6 penalty. Creatures can instead use Components: V, S, M Illus. by F. Hooper Mialee and Tordek explore the seafloor with an airy water spell 114 6 RETPAHC DNA SLLEPS SMETI CIGAM",
+        "name":  "Arcane Material Component",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Fortitude partial Spell Resistance: No Spell Resistance: No",
+        "name":  "Saving Throw",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes You create a tentacle-shaped mass You alter the flow of water in the area In the dark, sunless abysses of the of blackwater, drawn from the surrounding you. You can change deep ocean, shadows gather, the deepest ocean trenches, to attack the direction of an existing current, cold beckons, and the corpses of an enemy as you direct it. The boost its strength, or cause still water many things in the oceans lie slowly tentacle appears at a particular to flow at a desired rate. The new rotting. These black waters are point within range and can’t move current speed and direction persists often poisoned with the energies of from that location. It attacks the until the spell ends or you decide undeath. When this spell is cast, you opponent you designate once each to alter the effect, which requires call up the cold blackness of those round, starting with the round the concentration. You can choose to stygian depths, infusing the waters spell is cast. It has a reach of 20 create an area of calm water up to in the spell’s area with negative feet (though it can’t make attacks 80 feet in diameter at the center of energy. Those in or entering the area of opportunity). the affected area if you so desire, must make a Fortitude save to resist Its attack bonus is equal to your and you can create a limited effect its terrible power. caster level plus the ability modi- in a smaller circular area within the Those who fail the save are chilled fier you would normally use to set spell’s range. to the bone, taking 1d6 points of the save DC (Wisdom for cleric Current Direction: You can choose damage per two levels (to a maximum or druid, Intellgence for wizard, one of two basic current patterns to of 10d6) and gain a negative level. Charisma for sorcerer). The tentacle function over the spell’s area. Those who make the save take half deals 2d8 + caster level (max. +20) • You can direct the current to flow damage and avoid the negative level. points of damage with a successful in one direction across the entire area All undead in the area are healed of hit. Any Large or smaller creature from one side to the other. 1d6 points of damage per two caster hit by a blackwater tentacle must • You can create a rotation, causing levels (maximum of 10d6). Further- succeed on a Fortitude save or gain the water to swirl around the center more, the spell’s area is treated as a negative level. Multiple hits by in a clockwise or counterclockwise though there were a desecrate spell the same tentacle are cumulative, direction. active within it. but the negative levels last only for Current Strength: For every three This area of blackwater remains in the duration of the spell. caster levels, you can increase or place for the spell’s duration, affect- The tentacle never provides nor decrease the current’s speed by 10 ing creatures who enter the area in benefits from a flanking bonus. Once feet. For example, a 9th level druid subsequent rounds. A creature can a tentacle has been directed to attack could increase the speed of a vigor- only be affected once by the spell, a foe, it continues to do so until the ous current (20 feet per round) to a regardless of success or failure on spell is redirected to a new target (a dangerous current (50 feet per round) the saving throw, so creatures who move action). or reduce it to calm, placid water. leave and reenter the area take no The tentacle has 5 hit points per See Currents and Streams, page 10, additional effect (although the des- caster level and an AC of 10 + your for more information about current ecrate effect remains throughout the caster level. It automatically fails all strength and Swim checks. spell’s duration). saves. If reduced to 0 hp, the tentacle",
+        "name":  "Spell Resistance",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S, M Casting Time: 1 standard action Spell Resistance: Yes",
+        "name":  "Components",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Special hung on a golden chain and worn area takes 1d6 points of negative Target: You about the neck while the spell is in energy damage for every hour they Duration: 24 hours (D) effect. This focus is worth 50 gp. remain in the dark, murky waters Saving Throw: None (no save). Spells that protect against Spell Resistance: No DISGUISE SHIP negative energy damage will prevent Illusion (Glamer) the Strength damage. You gain the ability to discern the Level: Sorcerer/wizard 4 Creatures who take damage from presence of ships around you. You Components: V, S, M the dark tide are considered shaken perceive ships located within a Casting Time: 1 standard action as long as they remain in the area. distance of 1 mile per caster level, Range: Touch This spell is a favored first move regardless of current visibility (or Target: One ship by sahuagin and other blackwater- even whether or not they are beyond Duration: 1 hour/level (D) dwelling creatures before they attack the horizon). You need not be seeking Saving Throw: Will disbelief (if the settlements of their enemies. them to become aware that they are interacted with) there—this spell will alert you to the Spell Resistance: No DEPTHSURGE presence of a ship if you are below Evocation [Water] decks or asleep. Exactly what can be You cloak a ship in illusion, making",
+        "name":  "Additionally, every creature in the Range",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes new ship you sense. If you sense a Creatures within the area are not ship’s direction and range, you con- hidden or changed in appearance, The water within the area suddenly tinue to be aware of this information nor are their possessions. explodes outward in a massive surge, until the other ship is no longer in Material Component: A tiny replica as if driven by a powerful explo- range of the spell. of a ship. sion. Each creature or object in Within Sight: If a ship is actually the area is subject to damage equal within sight, you can gain additional DOOM OF THE SEAS to 2d6 + caster level. Any creature information by studying the vessel Conjuration (Summoning) [Evil] struck by this attack must then for 1 round. You need not be able to Level: Blackwater 9, druid 9 succeed on a Fortitude save or be see the vessel clearly—a spot on the Components: V, S, DF, XP driven 10 feet away from the center horizon is sufficient. A Profession Casting Time: 1 full round of the blast. (sailor) check gives you information Range: Touch",
+        "name":  "Spell Resistance",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Evocation [Air] by standing astern of the mast and",
+        "name":  "Spell Resistance",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V, S the sails. of blackwater caverns dwell krakens Casting Time: 1 standard action Tiny or smaller creatures in of immense power, horrific creatures Range: 60 ft. the path of the wind are knocked touched by malevolent extraplanar Area: Cone-shaped emanation prone, or if flying are blown back powers. Though this might certainly Duration: 10 min./level (D) 1d6×10 feet. be true, it is likely that most experi- Saving Throw: Fortitude negates Small creatures are checked and ences with such creatures comes as Spell Resistance: No cannot make headway against the a result of this spell. wind. Small airborne creatures are With this spell, you summon a This spell produces a stream of wind instead blown back 1d6×5 feet. fiendish kraken from the depths. that can fill a ship’s sails, disperse Medium and larger creatures can (The statistics block for this crea- vapors and gases, and keep flying move normally within the effect. ture appears below.) The doom of creatures at bay. The wind force A favorable wind can’t push a crea- the seas obeys you for the duration is strong, with a speed of about 30 ture beyond the limit of its range. of the spell. mph. It begins where you stand and Any creature, regardless of size,",
+        "name":  "It is said that in the deepest recesses Components",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) Components: V, S",
+        "name":  "Spell Resistance",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Touch Enchantment (Compulsion) [Mind- or finned extremities into humanoid Target: Creature touched Affecting] legs and feet. Creatures so affected Duration: 1 min./level Level: Bard 2 lose any natural swim speed they Saving Throw: Will negates Components: V, S possess but gain a land speed instead. (harmless) Casting Time: 1 standard action",
+        "name":  "This spell transforms tails, tentacles, Range",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 minute with the Multiattack feat) for the those who are closest to the spell’s",
+        "name":  "Casting Time",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) Transmutation you with unarmed or natural attacks",
+        "name":  "Spell Resistance",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 full round When the spell is initially cast, on Fortitude and Reflex saves.",
+        "name":  "Casting Time",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Long (400 ft. + 40 ft./level) you take what is called the Form of You lose the ability to cast spells",
+        "name":  "Range",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Whirlpool 120 ft. wide and the Hunter: your features undergo a (but not to use spell-like abilities). 60 ft. deep subtle change, becoming more angu- If you possess the wild shape abil-",
+        "name":  "Effect",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A potion of foodstuffs and preparation equip- mires those caught in its path. The water breathing and three teeth from ment to serve three full meals per mud covers the area of the spell to a shark of at least Large size. day per person per caster level. A a depth of about 10 feet (although it staff of near-transparent pursers (up might fill low-lying areas or fail to MORDENKAINEN’S to two per caster level), liveried and cover high points in the area, at the CAPABLE CARAVEL obedient, wait upon all who enter. DM’s discretion). Conjuration (Creation) They function as unseen servant spells Creatures within the spell’s effect",
+        "name":  "Material Component",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No threaten the vessel, but even if it or 3d8 points of damage, respectively. sinks, the passenger space remains A creature who escapes burial ends You conjure into existence a fine, safe and isolated (though exiting it up on top of the mudslide, mired in seaworthy ship to carry you and your might prove difficult). deep mud. companions safely and comfortably. The ship is crewed by a minimum After the initial slide, the mudslide A caravel is a fairly small, double- complement of spectral deckhands, persists indefinitely, producing an decked sailing ship (see page 98 which perform the basic tasks of area of deep bog (average depth 10 for more information). It holds a maintenance. These, like the cabin feet) until the water in it evaporates. generous amount of cargo and offers servants, behave as unseen servants but It requires 4 squares of movement to cramped quarters for crew and pas- can travel anywhere on board ship enter 1 square of deep bog, and run- sengers. The ship produced by this and can enter the extradimensional ning or charging are impossible in spell has even more room for cargo space if you so direct. The spectral the area. Underwater, the mudslide and passengers, contained within an deckhands respond to the direc- remains indefinitely, producing extradimensional space. tion of the helmsman, reducing the an area of deep muck. It costs 2 The entry point to this space is a number of crew necessary to control squares of movement to enter a hatch on the aft upper deck. Lifting the caravel to 1. If you do not provide square containing deep muck, the the hatch reveals a set of wooden a real helmsman, the ship will steer DC of Balance and Tumble checks stairs, which descend about 6 feet to itself on the last course a living increases by 5, and the DC of Move a horizontal shimmering in the air helmsman provided but will not be Silently checks increases by 2. about 4 feet wide. Only those you des- able to avoid collisions or hazards or Aboveground, the mud normally ignate can enter this space, and the adjust to changing conditions. dries out in 2 to 3 days. A transmute extradimensional portal is shut and Focus: A miniature ship carved from mud to rock spell hardens the slide made invisible behind you when you mahogany, rigged with silk sails into stone, trapping any creatures enter. Those without authorization to and gold thread, with a total value still within. enter instead continue descending of 500 gp. the steps to an ordinary cargo hold. PLANAR NAVIGATION You can open the portal again from MUDSLIDE Conjuration (Teleportation) your own side at will. Conjuration (Creation) [Earth, Water] Level: Sorcerer/wizard 9 Those who pass beyond the portal’s Level: Druid 6, sorcerer/wizard 6 Components: V, S, F/DF entrance find themselves in a Components: V, S, M/DF Casting Time: 1 minute magnificent foyer with many state- Casting Time: 1 standard action Range: Touch rooms whose doors open from this Range: Medium (100 ft. + 10. ft./level) Target: One ship space. The atmosphere is clean, fresh, Effect: 40-ft.-radius spread Duration: Instantaneous and warm. Duration: Instantaneous Saving Throw: Will negates",
+        "name":  "Spell Resistance",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Reflex half; see text Spell Resistance: Yes desire within the limit of the spell’s Spell Resistance: No 120 6 RETPAHC DNA SLLEPS SMETI CIGAM You move yourself and the contents deals 4d6 points of damage (Fortitude RAPTURE OF THE DEEP of an entire ship to another plane of save for half). Enchantment (Charm) [Mind- existence. When you begin casting The area of the spell can be con- Affecting] the spell, a fog descends about the strained by the available water; it has Level: Bard 6 vessel, and clears within a minute. no effect on creatures or objects that Components: V, F",
+        "name":  "You can create any deck plan you Saving Throw",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Medium (100 ft. + 10 ft./level) This spell increases your base swim Range: Medium (100 ft. + 10 ft./level)",
+        "name":  "Range",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes ment, such as land speed, burrow, Saving Throw: Fortitude partial; climb, or fly. If you do not have a see text",
+        "name":  "Spell Resistance",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Will partial; see text thick scales. Spell Resistance: Yes",
+        "name":  "Saving Throw",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes SINK The targets of this spell hear a sudden, The ocean’s voice is a terrible and Transmutation (Water) distant song that instills in them a majestic thing. Bards understand the Level: Sorcerer/wizard 2 longing for the sea. Those who have 122 6 RETPAHC DNA SLLEPS SMETI CIGAM heard it compare it to the song of mount gains a swim speed equal to Upon casting the spell, the storm a siren. half its normal speed. suddenly intensifies in the area where A target who fails a saving throw A mount under the effects of this the spell was cast, obscuring sight of against this spell moves immediately spell is able to breathe water; in fact, those affected—whether because of toward the nearest stretch of ocean it is amphibious and thus subject to a thickening of fog, a sudden increase that it can find and attempts to com- no ill effect in or out of the water. in the downfall of hail and sleet, or pletely submerse itself in the water. a strike of lightning. On the next This flight will be by the safest means STORMRUNNER’S round, the disturbance disappears possible, withdrawing from combat, WARD and the characters affected by the fighting defensively, and not passing Abjuration spell are gone. through threatened areas. Level: Sorcerer/wizard 2 Though the targets of the spell The target will only fight if some- Components: V, S, M disappear instantaneously once the one actively attempts to prevent it Casting Time: 1 full round spell is cast, they do not immediately from following through with its Range: Touch reappear at the spell’s destination. search for the ocean; if this fight is Target: One ship Instead, 10 minutes elapse during with an ally, the target is granted a Duration: 1 hour/level (D) which a storm quickly develops in second saving throw to throw off the Saving Throw: None the target location. This is plainly not effects of the spell. Spell Resistance: No a natural occurrence to anyone who In some environments, this means witnesses it, unless there is already a that those affected simply flee in the You ward a single ship against foun- storm in progress. direction of the nearest coast. Along dering and storm damage, making it Then an intensification of this a shoreline, targets often plunge easier to sail in dangerous weather. storm obscures sight at the target into the surf. Aboard ship, they leap You add a +4 bonus on any checks location, and the targets of the spell overboard. If the subject has no idea made to sail in severe winds, wind- reappear. The targets always appear where to find a substantial body of storms, or gales. You also add this in some place that is open to the water, it simply chooses a random bonus to foundering checks and storm—thus, they can appear on the direction and continues until the capsizing checks for that ship. This upper parapets of a castle, but not spell expires. bonus improves by +1 per 4 caster inside the castle. Once the spell’s subjects are in the levels, to a maximum of +8. Though 10 minutes have passed water, they begin swimming toward The stormrunner’s ward does noth- since they disappeared, it appears to the deepest part of it they can reach, ing to protect the crew from the the travelers as though the transport immersing themselves completely winds and green water that might were instantaneous. Additionally, for and refusing to come up for air, roll over the side of the ship. the 10 minutes while the targets are though they hold their breath as long Material Component: Handful of gone, they are treated as though they as they are able. copper powder. were in another plane. STEED OF THE SEAS STORMWALK SWIM Transmutation Conjuration (Teleportation) Transmutation [Water]",
+        "name":  "Spell Resistance",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Saving Throw: None and Will Spell Resistance: Yes (harmless) negates (object)",
+        "name":  "Spell Resistance",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes The target of this spell gains the swimming, provided it swims in a ability to breathe water and is straight line. This spell thins the target creature’s rendered immune to damage from If the creature is carrying more blood to little more than seawater, both the temperature and the pres- than a light load, it must make Swim dealing 1d6 points of damage per level sure in extreme depths of water. checks to move (taking the normal (maximum 15d6). Only living crea- Additionally, she gains darkvision penalty for weight carried), but all tures with a circulatory system and out to 60 feet. other benefits and bonuses of the blood can be affected by this spell; it Material Component: A bit of stone spell still apply. does not harm creatures immune to or mud from a deep ocean trench.",
+        "name":  "It can use the run action while Spell Resistance",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "24 hours Duration: 10 min./level (D) Spell Resistance: No",
+        "name":  "Duration",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) ing you to see in any direction. you to swirl and fill with suspended You gain a +4 bonus on Spot and sediments, decreasing visibility and The subject gains the sea bird’s abil- Search checks, and you cannot making it harder for foes to attack ity to travel great distances without be flanked for the duration of the you. This roiling cloud obscures all undue exertion. The subject can spell. However, you cannot avert vision, including darkvision, beyond travel overland 50% longer than your eyes when confronted by a 5 feet. Creatures within the area up to normal before risking injury or creature with a gaze attack, though 5 feet from an attacker have conceal- fatigue. For example, a character can you can still close your eyes in such ment (20% miss chance), while those walk up to 12 hours overland before a circumstance. farther away have total concealment having to make Constitution checks (50% miss chance). Creatures other to avoid fatigue, or can hustle for TRANSFORMATION than you within this cloud must 90 minutes before taking nonlethal OF THE DEEPS make a Concentration check to cast damage. The subject still can’t run Transmutation a spell (DC 15 + spell level). Ranged for extended periods, but it can move Level: Blackwater 4, druid 5, sor- attacks that pass through the turbidity at run speed tactically for a number cerer/wizard 5 automatically fail. of rounds equal to 1-1/2 times its Components: V, S, M A vigorous current (1–3 knots) dis- Constitution score. Casting Time: 1 standard action perses the clouded water in 4 rounds;",
+        "name":  "Spell Resistance",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "None This spell only functions under",
+        "name":  "Saving Throw",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) water.",
+        "name":  "THALASSEMIA Spell Resistance",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Druid 2, ranger 1, sorcerer/ acid damage. Underwater, the acid was made wizard 2 created by this spell dissipates after Every hour of water-affecting",
+        "name":  "Level",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A spine wood wrapped with red thread. Saving Throw: Reflex negates from a sea urchin. Spell Resistance: No WATER TO ACID WAKE TRAILING Transmutation [Water] Waterspout causes water to rise up Divination [Water] Level: Sorcerer/wizard 3 into a whirling, cylindrical column",
+        "name":  "Arcane Material Component",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Touch Area: Up to 1 cu. ft./level must be present, or the spell is",
+        "name":  "Range",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "None Spell Resistance: No formed, it collapses.",
+        "name":  "Saving Throw",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Touch PART THE WATERS within 10 feet of the spout (below Target: Creature touched Abjuration [Water] and on all sides) also must make Duration: 10 min./level Spellcraft DC: 68",
+        "name":  "Waterborne creatures or objects Range",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) Range: Personal takes 3d8 points of damage and Area: Cylinder, up to 300 ft. radius is then trapped for 1d3 rounds as The transmuted creature becomes and 30 ft. high (S); see text explained above. better acclimated to wetlands and Duration: 1 hour (D) Only the smallest boats—canoes, watery environments. It gains a +4 To Develop: 612,000 gp; 13 days; kayaks, coracles, and the like—can bonus on Swim checks and is not 24,480 XP. Seed: ward (DC 14); be sucked into the spout. The occu- hindered when moving through Factors: Change from touch to pant of any such craft can make a shallow bog terrain. It treats an area of personal (–2 DC), change area from Profession (sailor) check instead of deep bog as shallow bog for purposes radius to 10-ft.-by-30-ft. cylinder a Reflex save to avoid being sucked of movement and Tumble checks (+4 DC), increase area by 3000% into the waterspout. (see Marsh Terrain on page 88 of the Dungeon Master’s Guide). WAVE BLESSING Transmutation [Water]",
+        "name":  "Anything sucked into the spout Spell Resistance",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "78 SEAS OF BLOOD and for 1d6 rounds after leaving. The",
+        "name":  "Spellcraft DC",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 minute Spellcraft DC: 64 its surroundings.",
+        "name":  "Casting Time",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "75 ft. Components: V, S, Ritual, XP When you finish casting the spell,",
+        "name":  "Range",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Area: 200-ft.-radius emanation spell’s area and act immediately on",
+        "name":  "Saving Throw",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Duration: Permanent your turn. The sharks depart after",
+        "name":  "Spell Resistance",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "702,000 gp; 14 days; Saving Throw: Fortitude negates; 20 rounds, but thenceforth whenever 28,080 XP. Seeds: summon (DC see text a good-aligned creature enters the 14) and transform (DC 21); Factors: Spell Resistance: Yes bloody area, another group of fiendish transform inanimate object to To Develop: 576,000 gp; 12 days; dire sharks appear and attack. creature (+10 DC), summon differ- 23,040 XP. Seeds: summon (DC The bloody water provides conceal- ent creature type (+10 DC, dragon), 14) and transform (DC 21); Factors: ment (20% miss chance) to creatures summon CR 23 creature (+42 DC), Change from target to area (+12 up to 10 feet away and total conceal- transform 36 HD creature (+42 DC, 20-ft. radius), increase area ment (50% miss chance) beyond DC). Mitigating Factors: Burn by 1000% (+40 DC, 200-ft. radius), that distance. 4,000 XP (–40 DC), half cost summon CR 11 creature (+18 DC), This is a ritual spell requiring five to summon from transformed multiply summon seed by 3 for other spellcasters, each of whom must creature (–21 DC). extra creatures (+64 DC). Mitigat- contribute one 9th-level spell slot to ing Factors: Increase casting time the casting. NEW PSIONIC POWERS The following new powers supple- Level: Psion/wilder 4 With blackwater mind, you surround ment those described in the Expanded Display: Visual your mind in mental patterns Psionics Handbook for psionics adven- Manifesting Time: 1 standard action inspired by the blackwaters of the turing in maelstrom environments. Range: Personal ocean depts, confusing and distress-",
+        "name":  "To Develop",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Anesthetize, blood drain, disease, with a successful save, spellcasting or concentrating on distraction spells within the area of a swarm requires a Concentration",
+        "name":  "Special Attacks",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Str 4, Dex 15, Con 12, Int 1, Wis 12, Cha 2 nity to poison, spell resistance 16, protective slime",
+        "name":  "Abilities",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— would not gain a swim speed but should be able to scuttle about underwater as quickly as its terrestrial kin can on land Stingrays are smaller cousins of the manta ray having (40 ft.), although its land movement might suffer (typically barbed, venomous tails. reduced by half, or to 20 ft./rd. in this case). A water-adapted An average stingray’s body is roughly 3 feet across and bird might become clumsy in the air but “fly” with speed weighs about 25 pounds. Its tail is about the same length, and grace just below the surface of the water. with one or more poisonous barbs near the base. Finally, if the creature has a slashing or bludgeoning attack, this attack is not subject to the penalties described Combat in Table 3–22: Combat Adjustments Underwater on page Stingrays feed on crustaceans and shellfish, usually cruis- 92 of the Dungeon Master’s Guide. Instead, treat any water- ing just over the sea bottom. Sometimes they burrow just adapted creature fighting underwater as if it enjoyed the beneath the surface. This is when they present the greatest benefits of a freedom of movement spell. danger to unsuspecting creatures, who might step on or near them. A threatened stingray lashes out with its tail DIVING SPIDER, MONSTROUS barb, injecting a terribly painful venom that leaves its Some breeds of monstrous spider are adapted for an aquatic targets virtually helpless. existence. Rather than constructing webs, they build Poison (Ex): Injury, Fortitude DC 12, nauseated 1d4 submerged, air-filled domes of spidersilk where they lie hours/1d3 Dex. The save DC is Constitution-based and in wait for prey to wander too close. includes a +2 racial bonus. A creature that makes its Diving spiders spend their lives underwater, except for saving throw against the poison’s initial damage is instead brief trips to the surface to replenish air. The spider’s furry sickened for 1d6 rounds. body holds air bubbles that it releases into the dome. They",
+        "name":  "Level Adjustment",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The monstrous diving spider retains land and in water, many air-breathing animals and vermin all the special qualities of a typical monstrous spider, with have become adept at living in aquatic environments while the following adjustment. returning to the surface periodically for air. All such water- Tremorsense (Ex): A diving spider’s tremorsense allows it adapted creatures have several features in common. to detect and pinpoint creatures in the water as easily as those on land. 170 7 RETPAHC SRETSNOM Hold Breath (Ex): A diving spider can hold its breath for NEW CREATURES a number of rounds equal to 4 × its Constitution score before AND SUMMON SPELLS it risks drowning. For a typical diving spider (Medium or Large), this is 48 rounds, or almost 5 minutes. When incorporating the material in this book into a",
+        "name":  "In addition to amphibious creatures able to breath both on Special Qualities",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A diving spider has a +8 racial bonus on any Swim campaign, bear in mind that the summon spells in the check to perform some special action or avoid a hazard. Player’s Handbook are balanced, both by the level of power It can always choose to take 10 on a Swim check, even if of a particular creature and by the resources available to distracted or endangered. It can use the run action while casters of the spell. With each summon monster or summon swimming, provided it swims in a straight line. nature’s ally spell, a spellcaster has an intentionally limited",
+        "name":  "Skills",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Temperate aquatic. repertoire of options. Clerics and druids face additional restrictions based on alignment (for instance, good clerics SEA SNAKE can’t summon evil creatures). The sea snake is a particularly venomous variation on the Ignore these built-in limitations and the spells simply typical viper that lives in warm, shallow seas. It typically become too good for their level. This means that care attacks only if provoked. Even then it usually bites once needs to be taken when adding new creatures to the lists. and withdraws, waiting for the venom to take effect. For each creature you add to a spellcaster’s summoning Sea snakes have the same statistics as the vipers options, consider the role it will fulfill. Is it exception- presented on page 280 of the Monster Manual, with the ally mobile? A good spellcaster? A big bruiser? Take away following adjustments: a monster of comparable power that fulfills that (or an",
+        "name":  "Environment",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "10 ft. (2 squares), swim 30 ft. equally important) role. Poison (Ex): A sea snake’s poison is extraordinarily Table 7–1: Adding New Creatures to Summon Spells virulent. It has a +2 racial bonus on the poison’s save DC. describes where the new monsters in this book best fit Hold Breath (Ex): A sea snake can hold its breath for on the summoning lists. The table also offers a recom- a number of rounds equal to 6 × its Constitution score mendation about which creature each new monster before it risks drowning. For a typical sea snake, this is should replace. 66 rounds, or over 6 minutes. The amphibious template shouldn’t be used by spell-",
+        "name":  "Speed",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Most folk try to avoid the Tamor- the mountainside, Tamoreus makes his home within the ean Vast, but a few will rush in where others fear to sail, old lair of the Queen of Mists, a series of caverns beneath so as to confront whatever lurks therein. The characters the ocean floor. The entrance to this complex is a massive might be contacted by a contingent of aquatic elves cavern entrance deep in the rift. who seek champions to aid them in hunting down the Open Water: From the surface to about 80 feet down remaining anguillians who escaped the destruction of is open water. Murky light filters down from above (the their city a generation ago, or by aventi who are seeking sunlight usually has a hard time piercing the fog and mist pqqqqqqqqqqqqqqqqqqqqrs THE DREAD MISTS OF THE VAST Though the precise reasons are unknown, the mists of the Tamorean Rumor suggests that these mists are the reason why some Vast have some peculiar qualities. These qualities are not caused ships disappear. If sailors’ tales are to be believed, ships that by Tamoreus, though they were one of the reasons the Queen of disappear in the mists are pulled into another, darker world of Mists settled here and a reason why Tamoreus remains. terror from which nothing escapes. Of course, most such disap- The area within the mists of the Tamorean Vast has spell pearances are the work of Tamoreus and Galoril, but it is note- resistance 30 against divination (scrying) spells and effects. worthy that they are not responsible for all the disappearances. Simply put, a spellcaster must make a DC 30 caster level check When this unnatural fog lies thick and terrible above the waves, to affect anything within the Vast itself with a divination spell, Tamoreus and his servants are careful to avoid the surface and or to make a divinatory inquiry (such as an augury) about its dreadful cloak of fog. anything within it. pqqqqqqqqqqqqqqqqqqqqrs 202 8 RETPAHC ERUTNEVDA SELACOL that sits heavily on the sea here). These open waters are rule with the permission of Tamoreus, the true master home to many large rays, as well as the occasional anguil- of this place. lian patrol. Light: Tamoreus’s Watch receives scant light from the",
+        "name":  "Bounties to Collect",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Brightstone Keep............8 Disabling Wondrous Architecture....................70 Do-It-Yourself Spellcasting.................................9 Wondrous Architecture Descriptions..............70",
+        "name":  "Component Example",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "500 gp A single spellcaster using this laboratory and having",
+        "name":  "Cost",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Acolyte; Upkeep:30 gp per month. HP: 40 per inch of thickness; Break DC: 34 + 2 per Wizard’s Research: This well-appointed area has inch of thickness. everything a wizard would want for arcane experi- Bone: This jumble of bone grants a permanent dese- ments and spell research. crate effect (as the spell cast by a 5th-level cleric) in",
+        "name":  "Staff",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Alchemist, apprentice spellcaster; Upkeep:60 gp of thickness. per month. Deep Coral: Underwater builders can shape this species of coral into vast palaces beneath the waves. It automatically repairs 1 point of damage every minute. WALLS Treat deep coral as stone for the purposes of blocking Walls are a part of any stronghold, although you can detection spells and the like. choose wooden walls in aboveground structures or HP: 15 per inch of thickness; Break DC: 20 + 2 per hewn stone walls below ground at no extra cost. In inch of thickness. 34 general, you pick both an interior wall type and an Earth: Typically found as part of primitive strong- exterior wall type, and pay for each proportionately. holds or as an extra layer sandwiched between stone or 620_88166_001_StrngBuild3a.qxd 1/24/02 2:35 PM Page 35 CHAPTER 2: STRONGHOLD COMPONENTS masonry walls (to increase the overall thickness of the HP:15 per 2 inches of thickness (masonry and supe- wall at a low cost). rior masonry), 15 per inch of thickness (reinforced",
+        "name":  "Staff",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This specially bred wood, found in Stone: Generally, only underground strongholds elven forest strongholds, regrows quickly if damaged. use hewn stone walls because of the high price for that It repairs 1 point of damage every round. Treat living quantity of stone. wood as wood for the purposes of blocking detectspells The price for unworked stone actually reflects the and the like. difficulty in finding natural caverns of the right size",
+        "name":  "Living Wood",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The typical secure stronghold has walls of (for minor reshaping). masonry: stones piled atop one another and usually HP: 15 per inch of thickness; Break DC: 20 + 2 per held in place with mortar. Superior masonry walls have inch of thickness. tighter-fitting stones and less cracking, making climb- Wall of Force:Resistant to all but a few forms of attack, ing them difficult. Reinforced masonry walls include walls of force represent the ultimate in stronghold iron bars on one or both sides of the wall, or placed defense. Of course, the spell’s lack of versatility limits within the wall itself to strengthen it. Treat any form of its usefulness, since you can’t put doors or windows in masonry as stone for the purposes of blocking detect a wall of force. spells and the like. HP:n/a; Break DC:n/a. Table 2–5: Wall Materials Material Thickness Hardness HP Break DC Climb DC Cost per Space Notes Adamantine 3 in. 20 120 40 25 30,000 gp Bone 1 ft. 3 60 23 10 6,000 gp Deep coral 3 ft. 8 540 92 15 2,000 gp Available underwater only. Earth, packed 3 ft. 2 30 19 15 250 gp Glass 3 in. 1 3 18 25 3,000 gp Ice 1 ft. 10 36 27 30 10,000 gp Half price in cold climate. Iron 3 in. 10 90 30 25 6,000 gp Living wood 6 in. 5 60 20 21 2,000 gp Masonry 1 ft. 8 90 35 15 2,500 gp Masonry, superior 1 ft. 8 90 35 20 3,000 gp Masonry, reinforced 1 ft. 8 180 45 15 4,500 gp Mithral 3 in. 15 90 35 25 20,000 gp Obdurium 3 in. 30 180 60 25 60,000 gp Stone, hewn 3 ft. 8 540 92* 22 6,000 gp No cost if below ground; –5% cost in mountain terrain. Stone, unworked** 5 ft. 8 900 140* 20 1,000 gp Available underground only. Wall of force as spell n/a n/a n/a n/a 40,000 gp Wood 6 in. 5 60 20 21 1,000 gp No cost for ground floor; –10% cost in forest terrain. 35 *Note that this is different from the values listed in the DUNGEONMASTER’s Guide. These statistics use the guidelines for stone walls given in the wall of stonespell. **Includes natural caverns. 620_88166_001_StrngBuild3a.qxd 1/24/02 2:35 PM Page 36 CHAPTER 2: STRONGHOLD COMPONENTS",
+        "name":  "Masonry",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "10 per inch of thickness; Break DC: 14 + 1 per In this way, they share the costs of the wall and some- inch of thickness. times even the guards that watch over it, agreeing to come to the mutual defense of their fellows. Freestanding Walls A freestanding wall is any wall that isn’t part of a Building Freestanding Walls stronghold component. You must purchase, modify, You can purchase any freestanding wall in multiple and augment freestanding walls separately from your units. The wall sections on the table below are assumed stronghold components. They tend to be much thicker to be 10 feet tall and 10 feet wide each. See the DUN- due to the lack of structural support found in a more GEON MASTER’s Guide for more on how the different complex structure. kinds of walls work in the game. Freestanding walls are Sometimes, stronghold builders construct freestand- cheaper than those inside a stronghold because of the ing walls (also called curtain walls) after the stronghold greater ease of building in the open, with fewer consid- is already in place, whether to guard against unwanted erations of engineering and design. visitors or simply to add privacy. If you want to build freestanding walls higher than Some older strongholds add a freestanding wall due 10 feet, you must add an extra layer of thickness to to population growth beyond the stronghold’s ability each lower 10-foot layer on the stack. This addition is to house them. In fact, in older cities or towns that cumulative; for example, a 20-foot tall wall of once began as much smaller strongholds, you might masonry has a single 2-foot thick layer for the top 10 find several rings of freestanding walls encircling the feet and a double-thick (4 feet) layer for the lower 10 original stronghold and everything that has grown out feet, while a 30-foot-tall masonry wall would be 2 feet of it over the years. In other cases, a common wall thick at the top (one layer), 4 feet thick in the middle going around them both or simply attaching the two, (two layers), and 6 feet thick at the bottom (3 layers). leaving a common courtyard between them, might The accompanying illustration shows examples of unite two strongholds. masonry and hewn stone walls of 10-foot, 20-foot, and WWaallll CCrroossss--SSeeccttiioonnss 3300 FFeeeett GGaarrddeerroobbee FFiigguurree 11:: HHeewwnn SSttoonnee 2200 FFeeeett FFiigguurree 33:: FFiigguurree 22:: 3300 3300 HHeewwnn MMMaaasssooonnnrrryyy FFeeeett FFeeeett SSttoonnee AA ccaassttllee hhaass mmaannyy ttooiilleettss,, ccaalllleedd aanndd 2200 ggaarrddeerroobbeess.. TThheeyy aarree llooccaatteedd iinn tthhee PPaacckkeedd FFeeeett oouutteerr wwaallllss ooff tthhee ccaassttllee.. EEaarrtthh 1100 FFeeeett 36 620_88166_001_StrngBuild3a.qxd 1/25/02 2:27 PM Page 37 CHAPTER 2: STRONGHOLD COMPONENTS Table 2–6: Freestanding Walls Material Thickness Hardness HP Break DC Climb DC Cost per SectionNotes Adamantine 6 in. 20 240 46 25 3,000 gp Bone 2 ft. 6 120 25 10 600 gp Deep coral 6 ft. 8 1080 164 15 200 gp Available underwater only. Earth, packed 3 ft. 2 30 19 15 10 gp Glass 6 in. 1 6 21 25 300 gp Ice 20 in. 10 60 35 30 1,000 gp Half price in cold climate. Iron 6 in. 10 180 33 25 600 gp Living wood 1 ft. 5 120 26 21 200 gp Masonry 2 ft. 8 180 35 15 250 gp Masonry, superior 2 ft. 8 180 35 20 300 gp Masonry, reinforced 2 ft. 8 360 45 15 450 gp Mithral 6 in. 15 180 41 25 2,000 gp Obdurium 6 in. 30 420 72 25 6,000 gp Stone, hewn 6 ft. 8 1,080 164* 22 600 gp No cost if below ground; –5% cost in mountain terrain. Wall of force As spell n/a n/a n/a n/a 4,000 gp Wood 1 ft. 5 120 26 21 100 gp No cost for ground floor; –10% cost in forest terrain. *Note that this is different from the values listed in the DUNGEONMASTER’s Guide. These statistics use the guidelines for stone walls given in the wall of stonespell. 30-foot height, indicating the number of layers twice the listed price; see Windows below for pricing required. arrow slits.",
+        "name":  "HP",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "extra no effect on a wall’s statistics as they grow taller, thanks to the need for a thick, thick walls (pick the same thing twice), (hardness, hp, break DC, stable base. However, most stronghold builders have and composites (a layer of iron over climb DC), though it will block walls that are customized for defense. hewn stone). detection spells and other Figure 3: Figure 2: 30 30 Crenellation: The most common customization to a When building a tall freestanding effects blocked by this mate- Masonry Feet Hewn Feet wall, this notched battlement is made up of alternate wall, you can substitute other materials rial. This costs 1,000 gp per Stone crenels (opening) and merlons (square sawteeth). They (such as packed earth) for the extra stronghold space (or per A castle has many toilets, called and provide cover to castle defenders standing upon the layers required; however, these layers 1,600 square feet of freestand- 20 garderobes. They are located in the Packed wall. No cost exists to carve merlons into the top feet must be at least as thick as the layer of ing wall) so protected. Feet outer walls of the castle. Earth of a wall. material they replace (which may re- 10",
+        "name":  "Walls are generally sheer structures that grow thinner method is good for two things",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "When creating this augmenta- fog cloud; Market Price: 3,000 gp. tion, choose one face of the wall. Any chaotic character Fog Veil, Killing: This augmentation works like on the chosen side of the wall (or standing atop the fog veil, except that the fog is sickly green and poison- wall) gains a +4 deflection bonus to AC and a +4 resist- ous. Any living creature in the killing fog veilwith 3 or ance bonus on saves. They also gain spell resistance 25 less HD dies instantly (no save). Creatures of 4–6 HD against lawful spells and spells cast by lawful creatures. must make Fortitude saves (DC 17) or die. Those that Furthermore, they are protected from possession and survive (including all creatures above 6 HD) take mental influence as per protection from law. 1d10 points of poison damage each round, whether",
+        "name":  "Chaotic Guarding",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The Ethereal Plane is mostly an solid fog; Market Price: 14,000 gp. insubstantial mirror of the Material Plane, but some Fog Veil, Stinking: This augmentation works like fog solids exist there that have no reality on the Material veil, except that any living creature in the stinking fog veil Plane. If a sufficiently large ethereal solid coexists with must make a Fortitude save (DC 14) every round or be the part of the plane where your stronghold stands, overcome by nausea, unable to attack, cast spells, con- ethereal intruders can’t sneak inside (any more than centrate on spells, and so on. A nauseated creature may 39 they could pass through a huge rock on the Material only make a single move each turn. This effect lasts Plane). 1d4+1 rounds after the subject leaves the affected area. 620_88166_001_StrngBuild3a.qxd 1/24/02 2:36 PM Page 40 CHAPTER 2: STRONGHOLD COMPONENTS",
+        "name":  "Ethereal Solid",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This augmentation works like fog under the effect of a spider climbspell (though you need veil, except that a 10-foot-thick cloud of burning smoke not have bare hands and feet to use it). When creating extends out from the chosen side. Any creature in the this augmentation, you may choose for it to affect only smoke takes 4d6 points of fire damage every round. one side of a wall. For instance, you might place it on (Reflex save DC 22 halves.) the inner side of a freestanding wall to obviate the",
+        "name":  "Incendiary Veil",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "When creating this augmentation, choose Level: Clr 3, Drd 3, Sor/Wiz 3 one face of the wall. A 10-foot-thick web (as the spell) Components: V, S, M extends out from the chosen side. Casting Time: 1 minute Any damaged or burned section of webs automati- Range: Close (25 ft. + 5 ft./2 levels) cally reforms 24 hours later. Target: Object of up to 200 cubic ft./level",
+        "name":  "Webbed",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "2,950 gp (9th) Elemental, elder 15,230 gp 15,310 gp Fiendish dire tiger 10,610 gp 10,690 gp Arcane Lock Fiendish dire wolverine 4,700 gp 4,780 gp Fiendish giant squid 8,900 gp 8,980 gp Arcane lock is a wonderful spell if your character can Fiendish girallon 5,700 gp 5,780 gp cast it—or if the caster heads up your stronghold’s Fiendish griffon 5,700 gp 5,780 gp security. Otherwise, it can prove more hindrance than Formian taskmaster 5,900 gp 5,980 gp help, because only the spellcaster can easily bypass the Formian warrior 4,200 gp 4,280 gp lock. That’s where improved arcane lock (see below) Gelugon 9,230 gp 9,310 gp Ghaele eladrin 8,230 gp 8,310 gp comes in handy, since it allows the caster to designate Hamatula 7,110 gp 7,190 gp others who can freely pass through the portal. Add 5 Hellcat 5,860 gp 5,940 gp gp to the price for each individual attuned to the Hound archon 5,200 gp 5,280 gp improved arcane lockspell. Invisible stalker 6,610 gp 6,690 gp",
+        "name":  "Permanent",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Cost varies by creature bound; see table for can hide the light whenever you wish. sample creatures Casting: 110 gp (Wiz3) or 130 gp (Sor4) or 200 gp (Clr5) Bless Water If you’re having troubles with undead or evil outsiders, Curse Water it can be to your advantage to have a steady supply of This spell essentially works the same as bless water, as holy water on hand, and that’s what a bless water spell noted above. However, it affects good outsiders instead can do for you. This method of obtaining holy water is of undead, which means that a large stash of this stuff more expensive than buying it on the open market, but would generally be found only in an evil character’s few temples have large quantities just lying around. stronghold. If you have a low-level cleric or a paladin on Casting: 35 gp (Clr1) staff—which you may if you have a chapel in your stronghold—he can take care of this duty for you, Dancing Lights replenishing your supplies as they run dry. At first glance, a permanent casting of dancing lights",
+        "name":  "Casting",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1,630 gp (Wiz15) or 1,710 gp (Sor16) This functions essentially the same as the standard glyph of warding, but packs more punch. Guards and Wards At the minimum caster level, the greater blast glyph While guards and wards doesn’t have the longer-lasting does 5d8 points of damage. effects of the other spells in this section, it is specifi- A greater glyphcan store any harmful spell up to 6th cally designed to protect strongholds. Note that that level. This includes all those listed under the glyph of guards and wardsonly protects up to 200 square feet per warding note above, plus antilife shell, banishment, blade level, about half the volume of a standard stronghold barrier, circle of doom, dismissal, flame strike, forbiddance, space, although it can cover up to 20 feet above this geas/quest, greater dispelling, harm, inflict critical wounds, area, about twice as high as a standard stronghold insect plague, mark of justice, plane shift, poison, slay living, space. In other words, a clever caster could stack two summon monster IV, summon monster V, and summon separate levels with two castings of this spell, although monster VI. the two levels would have to be one atop the other for The DC to find and disable a greaterglyph of warding it to work. is 31. The spell’s effects last up to 22 hours, assuming you",
+        "name":  "Greater Glyph of Warding Casting",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1,060 gp (Clr11) use the lowest-level caster possible, so you could have the spell cast once per day, although the costs would Greater Planar Binding add up quickly. For the ability to cast the spell when This spell can be used similarly to a binding spell, but you need it, see the Wondrous Architecture section of you only have one choice: to call and capture some ele- this book. mentals or outsiders (up to 24 HD worth) to act as Casting: 660 gp (Wiz11) or 720 gp (Sor12) guardians or servants in your stronghold. Creatures called through greater planar binding have Gust of Wind three ways to escape: by using their spell resistance, by A permanent gust of wind can help ventilate under- 54 using dimensional travel to escape, or by succeeding at ground passageways or other parts of a stronghold that a Charisma check. Smart spellcasters use dimensional may otherwise become dank. This proves especially anchor to prevent dimensional travel and use a calling useful in storage areas, such as basements or dungeons. 620_88166_001_StrngBuild3a.qxd 1/24/02 2:38 PM Page 55 CHAPTER 2: STRONGHOLD COMPONENTS It virtually eliminates the risk of mildew and rot set- door, a pit trap, or anything else that you want to be ting into such areas. concealed. Vain characters can apply a gust of windto one side of Despite its name, illusory wall works just as well to a flagpole standing over the stronghold. This ensures create illusions of floors and ceilings. that your personal, family, or national banner always Casting: 280 gp (Wiz7) or 320 gp (Sor8) billows dramatically over your stronghold. A permanent gust of wind can also provide motive Invisibility power to a flying stronghold with sails. Such a strong- Invisibility’s multitude of useful functions marks it as hold moves at two miles per hour in the direction set one of the most valuable spells for a stronghold by the position of the sails. builder. You can use it to make protected windows by",
+        "name":  "Casting",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "5,500 gp (10th) Sometimes characters use permanent imageto show a group of guards at an entrance. Careful observation Mark of Justice determines that these people aren’t real, though, since If you want to make sure you can trust your staff, con- they never move. No guards are that stoic. sider using mark of justice. As a condition of employ- Even at minimum caster level, this spell can cover ment, you can have mark of justiceinscribed on the skin about three stronghold spaces at once. Some strong- of a prospective employee, forbidding him to betray hold owners use several overlapping versions of perma- you or your family (or however you would like to put nent imageto conceal their entire stronghold. Cunning it). Then, if the employee does you wrong, you and he owners make arrangements for this kind of conceal- both know he’ll pay for it. ment before they even break ground, all the better to Tread cautiously here, though. Some otherwise loyal hide any trace of the place they plan to build. employees may be offended by having to bear the mark Casting: 760 gp (Wiz11) or 820 gp (Sor12) or 1,060 of justice. When that happens, they may go out of their gp (Brd16) way to have itremoved. After that, they’re free to do as they wish, and the first thing on their list may be retri- Phase Door bution for your lack of trust in them. A phase doorprovides one of the best kinds of security More circumspect ways of calming your fears exist. devices you can have in a home. You must set it into Few, though, are as effective. wood, plaster, or stone, but it then operates as a door",
+        "name":  "Permanent",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Dead men tell While a phase door is useful as an entrance, it can no tales. prove even more handy as an exit. When you place For good or even neutral characters, though, killing such a spell strategically in your bedchamber or the 56 off your workers isn’t an option worth considering. By main meeting hall, you can rest assured that you carefully limiting the number of people who have always have a means for a quick getaway for yourself access to your stronghold’s secrets while it’s being and any you have entrusted with your secret. 620_88166_001_StrngBuild3a.qxd 1/24/02 2:38 PM Page 57 CHAPTER 2: STRONGHOLD COMPONENTS When cast by a 13th level spellcaster, the phase door Other characters mount a permanent prismatic sphere only allows six uses total from either direction. Once in the single doorway into their stronghold. This effec- the uses are gone, the spell ends, and the phase door is tively keeps anyone else from leaving or entering the no more. place, so this tactic is mostly used only by hermits or If you want the convenience and power of a phase characters who have other means of getting their staff doorat all times, use it with the permanency spell. Since members in and out of the place. this costs more than twenty separate castings of phase Similarly, such a sphere could cover an escape hatch- door, make sure you choose wisely and don’t waste your way, making it difficult if not impossible for pursuers money. On the other hand, having a permanent phase to follow you into the sphere one way and then out the doormeans never having to worry about being caught other. on the wrong side of the doorwhen its uses are gone. Casting: 1,530 gp (Clr17 or Wiz17) or 1,620 gp",
+        "name":  "For evil characters, the answer is simple",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "8,050 gp (11th) Consider placing a permanent alarm spell on the far edge of the solid fog. That, combined with the effect the Simulacrum solid fog has on movement, should give you plenty of Have you ever wished you could be in two places at time to react to anyone who manages to find his way once? Simulacrumcan make it seem that way. through the soupy stuff.",
+        "name":  "Permanent",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "6,530 gp (Wiz17) or 6,620 gp (Sor18) make doorways or windows, so it’s not much good for your stronghold itself. For a freestanding wall outside Unhallow your stronghold, it’s much better. In that case, the wall This spell is the evil version of hallow (see above). It of force is the best, most durable material to use for a works much the same way, including the ability to wall. add the effects of certain spells to the affected area for Permanent walls of force can be useful inside the a year. stronghold as well. For instance, using a wall of forceas",
+        "name":  "Casting",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Short of completely rebuilding the trap, Hidden Lock: A hidden lock combines the features there’s no way to trigger it more than once. Spell traps above, requiring a Search check (DC 25) to locate and have the no reset element. an Open Lock check (DC 30) to open.",
+        "name":  "No Reset",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell traps produce the spell’s effect as Bloodroot +1 described in the appropriate entry in the Player’s Hand- Blue whinnis +1 book. as with all spells, each spell-based trap that allows Burnt othur fumes +6 a saving throw has a save DC equal to 10 + spell level + Carrion crawler brain juice +1 caster’s relevant ability modifier. Deathblade +5",
+        "name":  "Spell Traps",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "If two or more traps act (trapmaking) skill, casting spells, or some combination independently (that is, neither depends on the success of these steps. of the other to activate), use their CRs to determine their combined Encounter Level as though they were Mechanical Traps monsters, according to Table 4–1 in the DUNGEON Building a mechanical trap is a three-step process. You MASTER’s Guide. The resulting Encounter Level is the must first calculate the DC for the Craft (trapmaking) CR for the combined traps. check, then purchase the raw materials, and finally make a Craft (trapmaking) check every week until the Step 4: Figure out the Cost construction is finished. Cost depends on the type of trap. Calculations are The Craft Check DC: The base DC for the Craft given below for the three basic types. (trapmaking) check depends on the CR of the trap, as given in Table 2–5. Mechanical Trap Table 2–19: Craft (Trapmaking) DCs The base cost of a mechanical trap is 1,000 gp. Apply all the modifiers from Table 2–2 for the various fea- Trap CR Base Craft (Trapmaking) DC 1–3 20 tures you have added to the trap to get the modified 4–6 25 base cost. 7–10 30 The market price is the modified base cost × the Modifier to Craft Challenge Rating + extra costs. The minimum market Additional Components (Trapmaking) DC price for a mechanical trap is 100 gp per +1 CR. Proximity trigger +5 After you have multiplied the modified base cost by Automatic reset +5 the Challenge Rating, add the price of any poison or alchemical devices you incorporated into the trap. If Add any modifiers from the second part of the table to the trap uses one of these elements and has an auto- the base value obtained in the first part. The result is matic reset, multiply the poison or alchemical device the Craft (trapmaking) DC. cost by 20 to ensure an adequate supply. Buying Raw Materials: Raw materials (including",
+        "name":  "Multiple Independent Traps",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Any creature entering this summoned into this space. room acts as if under the influence of a hastespell. The The consecrated chapelmust contain an altar, shrine, or main reason for having a room such as this is so that other permanent fixture dedicated to the creator’s you can get things done more quickly. Those extra par- chosen deity. tial actions add up after a while. Most tasks can be com- A desecrate spell negates the effect of the consecrated pleted in about half the normal time. chapelfor the duration of the desecrate spell. After that,",
+        "name":  "Chamber of Speed",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The entire stronghold fixture dedicated to chosen higher power, consecrate; space is under the influence of an antilife shell. Most Market Price: 5,500 gp. living creatures cannot enter the space. The exceptions Desecrated Shrine: The entire stronghold space is are constructs, elementals, outsiders, or undead. No desecrated, as per the spell. All Charisma checks to turn saving throw is allowed to permit other types of crea- undead suffer a –6 penalty. Undead in the space gain a tures to enter the space affected. profane +2 bonus on attack and damage rolls and saves. The chamber of the unlivingis most often found in the Undead cannot be created within nor summoned into stronghold of a necromancer, because the spellcaster’s this space. Undead summoned or created in this space minions can move through the space freely, even if she gain +2 hit points per HD. cannot. Such places are often also encountered in an The desecrated shrine must contain an altar, shrine, or extraplanar stronghold, because the outsiders that live other permanent fixture dedicated to the creator’s there can move about without pause, while most visi- chosen higher power. tors from the Material Plane cannot. A consecrate spell negates the effect of the desecrated",
+        "name":  "Chamber of the Unliving",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This effect covers up to attempts to direct the platform of levitation at once, the eight contiguous 5-foot-by-5-foot squares on the sur- winner of an opposed Wisdom check gains control for face of a liquid. Any creature that walks on the that round. In the case of a tie, the platform stays enchanted area treats the liquid as if it were entirely remains in place for 1 round. When not in use, the solid, as per a water walk spell. Creatures that wish to platform levitates in place. avoid this effect must make a Will save (DC 14). The lesser platform of levitation measures 5 feet on a",
+        "name":  "Path of Watery Solidity",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Each creature entering this Speaking Stones: Any character that enters this stronghold space becomes protected by a sanctuary stronghold space can understand and communicate spell. Anyone trying to attack such a target (including with the stone and rock in the space, whether natural with targeted spells, but not with area or effect spells) or worked. This functions like a stone tellspell. must make a Will save (DC 11) to do so. Otherwise, While this bit of wondrous architecture is most that action of the attacker is wasted, and the attacker often created as part of an open courtyard lined with cannot attack that target again until the target leaves rocks or floored with stones, you can just as easily the room. If the target reenters the room, the attacker work it into an any other place in which you might may attempt a new Will save. If someone protected by wish to speak with rocks. Some stronghold owners the sanctum’s effects attacks, he loses the benefits of the place this upon a vault or other important room, allow- sanctumand can be attacked normally. ing them to question the walls themselves about",
+        "name":  "Sanctum Sanctorum",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The entire stronghold space is stone tell; Market Price: 33,000 gp. affected by a mind blank spell. No one in the chamber Stable of Understanding: Any character in this can be affected by devices and spells that detect, influ- stronghold space can understand and communicate ence, or read emotions and thoughts, up to and includ- with animals in the space (not including beasts, magi- ing miracle or wish. Even a scrying that scans an area cal beasts, and vermin). This works like a speak with ani- does not work. Most throne rooms of mighty rulers mals spell, although the effect ends as soon as either use this effect. the character or the animal leave the space.",
+        "name":  "Secure Chamber",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This table (which seats up to 12 Tree of Jaunting: This tree looks like an ordinary people) automatically purifies any food or drink put member of its species. When you enter this tree, you upon it (as the purify food and drinkspell). This makes it may immediately teleport to a nearby tree of the same safe to consume, no matter how spoiled or poisonous. species as if you had cast tree stride. The tree you enter 84 If left on the table, the substance rots again naturally. and the tree you appear in must be wider around than However, if taken from the table and returned, the you are for this to work. table again purifies it. 620_88166_001_StrngBuild3a.qxd 1/24/02 2:42 PM Page 85 CHAPTER 2: STRONGHOLD COMPONENTS",
+        "name":  "Table of Freshness",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The ghostwalker benefits from the arena floor (much to the chagrin of their anonymity, but should his name ever become known surprised opponents). In some rare cases, arenas to his foes, his powers are weakened. On those feature “spellcaster duels” or pit a warrior against a enemies who know his name, his resolute aura no wizard, making sure that the spellcaster’s repertoire longer functions. If they are hostile, he cannot feign is suitably flashy and unlikely to harm the specta- death, become ethereal, or shadow walk in their pres- tors. Becoming a gladiator is a simple matter, say the ence (to a distance of 100 feet), and his painful reck- veterans of the pits. “Survive your first match, and oning bonus, if any, is halved against them. you can call yourself a gladiator. Lot of good it will",
+        "name":  "Anonymity",
+        "source":  "sword_and_fist.txt",
+        "_id":  "f18a0fe00e1073be41dcd28ee590f2464bfe3abe7bb84f9d188e8a66b0dd11a0"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Calling on the obscure, mystic forces PerformorIntimidate: 4 ranks. (Crowds respond that drive him to wander the world, the ghostwalker best to the most attractive and most menacing has the power to become ethereal, as per the spell ethe- combatants.) real jaunt. The effect persists for 1 round per level of the Feats: Must have at least two feats from the list of ghostwalker. This is an extraordinary ability. fighter bonus feats. You do not have to earn them as a",
+        "name":  "Etherealness",
+        "source":  "sword_and_fist.txt",
+        "_id":  "f18a0fe00e1073be41dcd28ee590f2464bfe3abe7bb84f9d188e8a66b0dd11a0"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The ghostwalker can shadow walk, fighter, but they must appear on that list. as per the spell. The character travels at a rate of one mile in (11 – the number of ghostwalker levels) Class Skills minutes. The maximum time that the ghostwalker can The gladiator’s class skills (and the key ability for each shadow walk is 1 hour per level per day. The ghost- skill) are Bluff (Cha), Climb (Str), Craft (Int), Handle walker can shadow walk three times per day. In addi- Animal (Cha), Intimidate (Cha), Jump (Str), Perform tion, while in this state, the ghostwalker heals at the (Cha), Ride (Dex), and Tumble (Dex). See Chapter 4: rate of 3 hit points per ghostwalker level. This is an Skills in the Player’sHandbook for skill descriptions. extraordinary ability.",
+        "name":  "Shadow Walk",
+        "source":  "sword_and_fist.txt",
+        "_id":  "f18a0fe00e1073be41dcd28ee590f2464bfe3abe7bb84f9d188e8a66b0dd11a0"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "By rattling his chains as a standard action, the them. It costs 25 gp to modify a chain in this manner, master can induce fearin a creature as the spell of the and 10 gp to add new spikes once the modified chain same name, using his class level as the caster level (see has been used five times. (After five uses, the modified the Player’sHandbook). The master can use this extraor- chain can be used as a normal spiked chain.) Only 8th dinary ability only once per day. level and above masters of chains can make and use",
+        "name":  "Scare",
+        "source":  "sword_and_fist.txt",
+        "_id":  "f18a0fe00e1073be41dcd28ee590f2464bfe3abe7bb84f9d188e8a66b0dd11a0"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "If a ninja can catch an opponent when and never risk accidentally poisoning themselves she is unable to defend herself effectively from his attack, when applying poison to a blade. he can strike a vital spot for extra damage. Any time the Fast Climb: The ninja can scurry up a wall at unbe- ninja’s target would be denied her Dexterity bonus to AC lievable speed. With each successful Climb check, the (whether she actually has a Dexterity bonus or not), the ninja can move half his speed as a move-equivalent ninja’s attack deals +1d6 points of damage. This extra action or his speed as a full-round action. Further- damage increases by an +1d6 points every other level more, he retains his Dex bonus to AC while climbing. (+2d6 at 3rd level, +3d6 at 5th level, and so on). Should Silencing Attack: If the ninja successfully hits a the ninja score a critical hit with a sneak attack, this extra flat-footed opponent with a melee attack, the oppo- damage is not multiplied. This class ability stacks with nent is unable to speak for one round. This prevents any other sneak attack the character possesses. casting spells with a verbal component and shouting It takes precision and penetration to hit a vital spot, warnings or alarms. so ranged attacks only count as sneak attacks if the Fast Sneak:When using Move Silently and Hide, target is 30 feet away or less. the ninja can move at his normal speed without suffer- A ninja can only sneak attack living creatures with ing a penalty to those skills. discernible anatomies—undead, constructs, oozes, Invisibility: The ninja can turn invisible (as the plants, and incorporeal creatures lack vital areas to spell invisibility, but targeting himself only) once daily attack. Additionally, any creature immune to critical for each level of ninja. hits is similarly immune to sneak attacks. Also, the Opportunist: Once per round, the ninja can make ninja must also be able to see the target well enough to an attack of opportunity against an opponent who has pick out a vital spot and must be able to reach a vital just been struck for damage in melee by another char- spot. The ninja cannot sneak attack while striking at a acter. This attack counts as the ninja’s attacks of oppor- creature with concealment or by striking the limbs of tunity for that round. Even a ninja with the Combat a creature whose vitals are beyond reach. If a ninja gets Reflexes feat cannot use the opportunist ability more a sneak attack bonus from another source (such as than once per round. rogue levels), the bonuses to damage stack. Gaseous Form:You can assume gaseousform, as the",
+        "name":  "Sneak Attack",
+        "source":  "sword_and_fist.txt",
+        "_id":  "f18a0fe00e1073be41dcd28ee590f2464bfe3abe7bb84f9d188e8a66b0dd11a0"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "By focusing his ki, the ninja can become ethereal for a moment or two. Three times a Requirements day as a free action, the ninja can make an ethereal To qualify as an initiate, a charater must fulfill all the jaunt (as the spell of the same name, except the dura- following criteria: tion is only 1 round). BaseAttack Bonus:+5. Knowledge(religion):2 ranks. See Complete Warrior",
+        "name":  "Ethereal Jaunt",
+        "source":  "sword_and_fist.txt",
+        "_id":  "f18a0fe00e1073be41dcd28ee590f2464bfe3abe7bb84f9d188e8a66b0dd11a0"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You have plumbed the true To qualify to become a Red Avenger, a character must depths of horror and hopelessness. Once per day, you fulfill all the following criteria. can trigger a spell-like ability similar to the arcane BaseAttack Bonus:+5. spell phantasmal killer (save DC 14 + the Ravager’s Feats: Improved Unarmed Strike, Stunning Fist. class level) as a standard action. To the foe you select, Listen:8 ranks. you seem to take on the visage of what the target fears Tumble:8 ranks. most. To others including yourself, no effect is discernible. In order for the phantasm to touch the Class Skills target, the Ravager must make a successful touch The Red Avenger’s class skills (and the key ability for attack. In all other respects, this ability functions as each skill) are Balance (Dex), Gather Information the spell in the Player’sHandbook. (Cha), Hide (Dex), Listen (Wis), Move Silently (Dex), Spot (Wis), Tumble (Dex).",
+        "name":  "Visage of Terror",
+        "source":  "sword_and_fist.txt",
+        "_id":  "f18a0fe00e1073be41dcd28ee590f2464bfe3abe7bb84f9d188e8a66b0dd11a0"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Cavalier prestige class. spell—the undead are not susceptible to that spell.",
+        "name":  "Goal",
+        "source":  "sword_and_fist.txt",
+        "_id":  "f18a0fe00e1073be41dcd28ee590f2464bfe3abe7bb84f9d188e8a66b0dd11a0"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Balance 8, Concentration 8, Listen 13, to eliminate the mount entirely. This is not easy, since Move Silently 8, Spellcraft 3, Spot 13, Tumble 8; Deflect any rider with the Mounted Combat feat can replace his Arrows, Dodge, Improved Initiative, Improved Trip, mount’s AC with the result of a Ride skill check. Power Attack. However, unless your opponent is of low level, the",
+        "name":  "Skills and Feats",
+        "source":  "sword_and_fist.txt",
+        "_id":  "f18a0fe00e1073be41dcd28ee590f2464bfe3abe7bb84f9d188e8a66b0dd11a0"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration +6, Intimidate +8, bonus. Her AC is 24, and her attacks are +15/+10/+5. Knowledge (religion) +4, Ride +10; Mounted Combat, Stunned by François’s ferocious attack, Shaez quickly Spirited Charge, Ride-By Attack, Trample. finds her feet, tumbling past him and leaping on top of Spells (–/2): cure light wounds, divine favor. the table he just left. Tumbling past an opponent without",
+        "name":  "Skills and Feats",
+        "source":  "sword_and_fist.txt",
+        "_id":  "f18a0fe00e1073be41dcd28ee590f2464bfe3abe7bb84f9d188e8a66b0dd11a0"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "On command, this ring imbues the monk level 3rd+; Market Price:5,000 gp. wearer’s hands with electrical energy. The wearer can Sandals of the Tiger’s Leap: These sandals allow the make touch attacks that deal 1d8+3 electrical damage. wearer to make devastating flying kicks. The wearer As with a regular touch spell, the wearer can also must have 5 ranks of Jump or Tumble to use them. On simply make unarmed attacks normally, the ring a charge, she can perform a flying kick. Treat this as an discharging whenever the wearer successfully hits. unarmed attack that deals double normal damage.",
+        "name":  "ShockingBlows",
+        "source":  "sword_and_fist.txt",
+        "_id":  "f18a0fe00e1073be41dcd28ee590f2464bfe3abe7bb84f9d188e8a66b0dd11a0"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration +6, Knowledge (arcana) +8, Move Silently +4, Profession (gardener) +5, Spellcraft +8; Dodge, Toughness.",
+        "name":  "Skills and Feats",
+        "source":  "sword_and_fist.txt",
+        "_id":  "f18a0fe00e1073be41dcd28ee590f2464bfe3abe7bb84f9d188e8a66b0dd11a0"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "YounolongersufferfromLight Sensitivity andsuffernopenaltieswhile working in bright sunlightor within the radiusof adaylight spell. PSYCHOLOGY TheDerroaretaughtfromanearlyagethat only thefittestsurvive. As childrenthey struggleto stayalive asindividualsand groups. Theylearnquickly to recognise thestrongestamongthemandfollow theirlead. Powerisrespectedamongthe derro,while weaknessisacalltobeculledfromthe Lessthantenpercentof derrohavethisgenetic clan. mutation,thosewhodoareoftenchosenasleaders orbecomesavants.It isworthnotingthatunlike Derroaretold from childhoodof their inherentright mostderrochildren,Sun-braversareaffordedmuch to ruleoverall thelands,belowandabove. They morecareandinturn haveamuchhighersurvival believethemselvesto bethefittestof all theraces rate. Thiscareisbornmoreoutof recognitionof the andthenaturalrulersof theworld. Theonlything child\u0027s importto theclanratherthananytrue thatholdsthemfrom their rightful positionisthe affection. cursedsun,aproblemtheyhavespentgenerations struggling against. Shade-stalkersarederrobornwith thesame vulnerability to thesunastheir kin but unlike other derro,withan improvedabilitytoseeincomplete It is perhapsfor these reasonsthat savantsand Sun- braversaresoreveredamongstthederro. They darkness.SomeShade-stalkersalsodevelopthe representboththepowerandthepromisethatone ability toseewith theirothersenses,allowing them to operateeffectively without everrelying ontheir day the world above will be theirs. eyes. Also ingrainedinto thederropsycheisthepursuitof battleby stealthanddiversion. Derroleadersand New Feats savantsaremastersof harassmentandconfusion. Sun-braver(Unique) Direct combatisavoidedatall costs;preferring",
+        "name":  "Benefit",
+        "source":  "the_slayers_guide_to_derro.txt",
+        "_id":  "e7a5b30d3538b341721e073bd438f2443bb152cc2a96a4c87cd0c8fe3e52c528"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Younolongersufferfrom the effects of Sunlight Vulnerability insteadyou suffer from Light Whensuccessfulraidsor conquestsreturnderroare Sensitivity. Light Sensitivity causesyouto suffera unconcernedfor their captives\u0027well being,putting -2 circumstancepenaltyto attackrolls, savesand them toworkintheirfungusfarms,minesandlabour checksin bright sunlightor within theradiusof a camps,immediately. Perhapsslaveswho cannot daylight spell. handlethehardlabourare,in thefinal analysis,",
+        "name":  "Benefit",
+        "source":  "the_slayers_guide_to_derro.txt",
+        "_id":  "e7a5b30d3538b341721e073bd438f2443bb152cc2a96a4c87cd0c8fe3e52c528"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A Regnarre Skrubba persecutorcastsdivine Stelte Vasha spells. A persecutor mayprepareandcast anyspellonthecleric\u0027s spelllist, providedhe cancastspellsof that ROLEPLAYING WITH DERRO level. TheDifficulty Classfor asavingthrow affectedby staggeringtouchthepersecutorcan againstapersecutor\u0027sspellis 10+ thespell\u0027slevel+ makeIntimidatechecksata+1circumstance thepersecutor\u0027sWisdommodifier. modifierfor eachpointof damage.A successfulWill Eachpersecutormustchooseatimeatwhichhe savenegateshalf thedamageandall of the mustspendanhoureachdayin quietcontemplation circumstancemodifiers. TheDifficulty Classfor a or supplicationto regainhis daily allotmentof savingthrow againstthepersecutor\u0027sstaggering spells. Timespentrestinghasnoeffectonwhethera touchis 10+ thepersecutor\u0027slevel+ thepersecutor\u0027s persecutorcanpreparespells. Charismamodifier. Staggeringtouchcanonly be In additionto his standardspells,apersecutorgets usedacertainnumberof timesperday(determined onedomainspellof eachspelllevel,startingat 1st. by level).",
+        "name":  "Obsidenne Polva Spellsper Day",
+        "source":  "the_slayers_guide_to_derro.txt",
+        "_id":  "e7a5b30d3538b341721e073bd438f2443bb152cc2a96a4c87cd0c8fe3e52c528"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "With asuccessfultouchattacka comefromoneof histwo domains,chosenfrom persecutorcancausethevictim to suffer 1d6points amongstthefollowing: Chaos,Destruction,Evil and of normaldamagefor anumberof roundsequalto Trickery. hiswisdommodifier. Intimidatechecksata+2",
+        "name":  "Whenapersecutorpreparesadomainspell,it must Tormenting Touch",
+        "source":  "the_slayers_guide_to_derro.txt",
+        "_id":  "e7a5b30d3538b341721e073bd438f2443bb152cc2a96a4c87cd0c8fe3e52c528"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A persecutorcanconvert circumstancemodifierfot eachpointof damage.A preparedspellsinto inflict spells(inflict spellsare successfulWill savenegateshalf thedamageandall thoseprefixedwith \u0027inflict\u0027 in thetitle). A of thecircumstancemodifiers. TheDifficulty Class persecutorcan\u0027t usespontaneouscastingto convert for asavingthrowagainstthepersecutor\u0027s domainspellsinto inflict spells. Thesespellsarise tormentingtouchis 10+ thepersecutor\u0027slevel+ the from theparticularpowersof TheTormentor,not persecutor\u0027sCharismamodifier. Tormentingtouch divine energyin general. Chaotic,Evil, Goodand canonlybeusedacertainnumberof timesperday",
+        "name":  "SpontaneousCasting",
+        "source":  "the_slayers_guide_to_derro.txt",
+        "_id":  "e7a5b30d3538b341721e073bd438f2443bb152cc2a96a4c87cd0c8fe3e52c528"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A persecutorcan\u0027tcastspellsof an (determinedby level). alignmentopposedto hisownor to TheTormentor\u0027s RebukeUndead:A persecutormayusethisability a alignment. numberof timesperdayequalto threeplusthe persecutor\u0027sCharismamodifier. Thepersecutorturns",
+        "name":  "Lawful Spells",
+        "source":  "the_slayers_guide_to_derro.txt",
+        "_id":  "e7a5b30d3538b341721e073bd438f2443bb152cc2a96a4c87cd0c8fe3e52c528"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "With asuccessfultouchattacka undeadasaclericof two levelslowerwould. A persecutorcancausethevictim to suffer 1d6points persecutormayattemptto rebukeundeadanumber of subdualdamagefor anumberof roundsequalto of timesperdayequalto threeplushisCharisma hiswisdommodifier. Duringtheroundsavictim is modifier. The Persecutor Level BaseAttack Fort Save RefSave Will Save Special 1 +0 +2 +0 +2 SpontaneousCasting,StaggeringTouch 1/day 2 +1 +3 +0 +3 Totmenting Touch1/dlay 3 +2 +4 +1 +4 RebukeUndead 4 +3 +4 11:-1 +4 CharmingVoicel1day 5 +3 +5 +1 +5 StaggeringTouch2/day 6 +4 +5 +2 +5 Tormenting Touch2/day 7 +5 +6 +2 +6 ProgrammingVoice 1/day 8 +6/+1 +2 +6 Charming VOICel/day 11:-6 9 +6/+1 +7 +3 +7 StaggeringTouch3/day 10 +71+2 +7 11:-3 +7 Tormenting TOuch3/day Spells per Day Level Otb 1st 2nd 3rd 41h 1 2 1+1 - - - 2 3 1+1 - - - 3 3 2+1 - - - - - 4 4 2+1 1+1 5 5 2+1 1+1 - - - - 6 5 3+1 2+1 7 6 3+1 2+1 1+1 - 8 7 4+1 2+1 1+1 - 9 7 4+1 3+1 2+1 1+1 10 8 4+1 3+1 2+1 1+1 ROLEPLAYING WITH DERRO",
+        "name":  "StaggeringTouch",
+        "source":  "the_slayers_guide_to_derro.txt",
+        "_id":  "e7a5b30d3538b341721e073bd438f2443bb152cc2a96a4c87cd0c8fe3e52c528"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "With asuccessfulIntimidation checkthepersecutorcancharm(asif by thespellof thatname)asinglehumanoid. A successfulWill savenegatestheeffects. TheDifficulty Classfor a savingthrow againstthepersecutor\u0027scharming voiceis 10+ thepersecutor\u0027slevel+ thepersecutor\u0027s Charismamodifier. Charmingvoicecanonly be usedacertainnumberof timesperday(determined by level).",
+        "name":  "Charming Voice",
+        "source":  "the_slayers_guide_to_derro.txt",
+        "_id":  "e7a5b30d3538b341721e073bd438f2443bb152cc2a96a4c87cd0c8fe3e52c528"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Onceperdayapersecutor mayattemptto programasimpleinstruction(no longerthentwenty-five words)into the subconsciousof asinglehumanoid. In orderto be successfulthepersecutormustsucceedatanumber of Intimidation checksequalto theHD of the humanoidbeingprogrammed. A singlesuccessful Will savenegatestheentireprocessandforcesthe persecutorto wait until thenextday. TheDifficulty Classfor asavingthrowagainstthepersecutor\u0027s programmingvoiCeis 10+ one-halfof the persecutor\u0027slevel+ thepersecutor\u0027sCharisma modifier. SAVANTS Tobeasavantistobethemasterof theclan. It isto havethesecretsof theagesatyourfmgertipsandit istoweavetheveryfabricof theworldto yourwill. Tobeasavantistobetheinstrumentof The Tormentor,to beanextensionof His divinewill that determinesif life shallbefilled with poweror empty Concentration(Con),Craft (Int), Knowledge(any) of promise. (Int), Profession(Wis), Scry(Int, exclusive skill) and Spellcraft(Int). -An excerpt from The Tome of Forbidden Names",
+        "name":  "Programming Voice",
+        "source":  "the_slayers_guide_to_derro.txt",
+        "_id":  "e7a5b30d3538b341721e073bd438f2443bb152cc2a96a4c87cd0c8fe3e52c528"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "d4. charactergainsnewspellsperdayasif hehadalso",
+        "name":  "Hit Die",
+        "source":  "the_slayers_guide_to_derro.txt",
+        "_id":  "e7a5b30d3538b341721e073bd438f2443bb152cc2a96a4c87cd0c8fe3e52c528"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No Transmutation Thecastercallsuponthespirit of adeceasedderro",
+        "name":  "SpellResistance",
+        "source":  "the_slayers_guide_to_derro.txt",
+        "_id":  "e7a5b30d3538b341721e073bd438f2443bb152cc2a96a4c87cd0c8fe3e52c528"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Answersareusuallybrief,cryptic,or repetitive. If Thisspellgrantsaderrothebenefitsof theGifted thedeceasedhasbeensubjectto anameof thedead Shade-stalkerfeatfor alimited amountof time. This or speakwith deadspellwithin thepastweek,the spellonly affectsderrowhodonothavetheGifted newspellfails. Any deceasedderrothathasbeen Shade-stalkerfeat. turnedinto anundeadcreaturecan\u0027t bespokento with thisspell. ThecastermustbeusingTheBook Day-Seer of ForbiddenNamesashisdivine focus. Transmutation",
+        "name":  "SpellResistance",
+        "source":  "the_slayers_guide_to_derro.txt",
+        "_id":  "e7a5b30d3538b341721e073bd438f2443bb152cc2a96a4c87cd0c8fe3e52c528"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes",
+        "name":  "SpellResistance",
+        "source":  "the_slayers_guide_to_derro.txt",
+        "_id":  "e7a5b30d3538b341721e073bd438f2443bb152cc2a96a4c87cd0c8fe3e52c528"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "I hour/level Thisspellgrantsaderrothebenefitsof theSeasoned",
+        "name":  "Duration",
+        "source":  "the_slayers_guide_to_derro.txt",
+        "_id":  "e7a5b30d3538b341721e073bd438f2443bb152cc2a96a4c87cd0c8fe3e52c528"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes spellonly affectsderrowhodonothavethe Thisspellgrantsaderrothebenefitsof theShade- SeasonedSun-braverfeat. stalkerfeatfor alimitedamountof time. Thisspell only affectsderrowhodonothavetheShade-stalker feat. SCENARIO HOOKS AND IDEAS SCENARIO thefinal stagesof crafting The Tome of Forbidden Names for theirnewclan. RAIDERS, RAIDERS HOOKS AND EVERYWHERE Constantraidsfrom aderrotribe havehoundedthe IDEAS localpopulationfor thelastmonthandseemto be growingin bothnumberandaudacity. Uponthe D erro are the perfect encounter for almost any players\u0027 arrival, thelocal authoritiesrequesthelp group of adventurertshatistraversingthe dealingtheseraidersaseriousblow. A localranger Underdeepsbetheylow level neophytesor hasdiscoveredthecavefrom whichthederromake high levelveterans.GamesMastersshouldalso their forayseacheveningandneedshelpin setting havetheoccasionalOverearthencounterwith the upanambush.Of course,assoonasthingslookbad derrojust to keeptheplayersontheirguardandto for themthederrowill retreatbackinto thecaves makeit perfectlyclearthatthederroareactiveboth andbeginfighting adefensive,at leastfor alittle belowandabovetheearth. With thewidevarietyof while. If theplayersfollow theretreatingforcesthey derrosquadsandplatoonsto choosefrom Games shouldmeetever-increasingtrapsandderro. Those Mastershavetheability to tailor derroencountersto whodonotknowwhento retreatwill mostlikely anappropriatelevelfor theirplayers. Provided find themselvestheservantsof thederro. At this belowisalist of scenariohooksandideasthat point if anyderrohasseentheplayersandsurvived GamesMasterscanuseto bothintroduceand to reportbackto theMandare,thenit will bethe highlight thederroin hisexisting campaign. Mandare\u0027sprimarygoalto seeanendputto these \u0027meddlesomeoverearthers.\u0027 MISSING MERCHANT DERRO IN THE DAYLIGHT A well-knownandrespectedmerchantandhis caravanhavegonemissing. Heistwoweeks In astrange twist of fate a single derro clan hashad overdueandlocal authoritiesareworried that anabundanceof Sun-braversborninto its ranksover somethinghashappenedto him andhiscaravanin thepasthundredyears. With this suddeninflux of themountainpasses.Theplayerscaneitherheartell Sun-braverstheclanhasbeenpreparingfor its first of thisandinvestigatethemselvesor canbe daylightraid into thesurroundingregion. A Sun- approachedby themerchant\u0027sfamily or thelocal braversavantandhis studentsareto accompanythe authoritiesandhired to look into thedisappearance. raidingpartyto assesstheirsuccess.If thingsgo Ambushesandcavedelving shouldaboundasthe well thederrowill beginto operatedayandnight in playersfind cluesthatleadthemto arecently thelocalareaandevenattemptto takeandhold resettledderrolair andtheirnewly acquiredslaves, fortifications onthesurface. Theclanbelievesthat themerchant\u0027scaravan. TheTormentorhasblessedthemwith anopportunity to begintheconquestof theOverearth. Theplayers VANGUARD happento bein theareawhenthisdaylightraid isto takeplace. If theysoundlydefeattheraidersthey A derrovanguardunithasnotreceivedwordfrom will havesetbacktheclan forawhile,but themaintribeof its successfulrelocation. The eventuallyit will try again. Theonly wayto truly savanthasdecidedthatthevanguardmustmoveon stopthisclan will betoexterminatethemfromthe andassumetheworst. Theyheadouttothe area,but doingsowill bedifficult andwill doubtless secondarysite,anabandoneddwarvenoutpostset bring abouttheenmityof theclan. intothesideof amountain. It isnotthebestof locales,but it will haveto dountil thisvanguardcan becomeaclanin itsownright. Theplayersin this scenarioeitherby havingthemcomeacrossthe dwarvenoutpostandits fledgling derroclanduring theirtravelsor heartell of alegendarytreasureheld within theruinedwallsof theoutpost. Whenthe playersarriveit isataninconvenienttime for the fledglingclan. Their savantandpersecutorarein FINNIUS\u0027S MINE FINNIUS\u0027S THE REAL STORY WhatFinniusfoundwasmuchmorethanjust a cavernmadeof mithril, it wasaminingchamberof a MINE full-fledged derrosettlementandneedlessto saythe derrowerenotpleasedby Finnius\u0027sintrusion. As it happenedFinniuswaslucky thathehadfoundthe cavernwhenhedid. Thederrohadonly recently THE LEGEND discoveredit andwerenotyet activelymining the E area. Unfortunatelyfor Finniusheneverthoughtto very legendbeginswith anameandthat investigatetheothertunnelleadinginto thecavern. namehappensto beFinniusGraple. Finnius Otherwisehewouldhavenoticedthatit wasa wasaprospectorwhofirst discoveredand miningtunnelnotunlikehisown. Upononeof his workedthecavernsnowknownasFinnius\u0027sMine. tripsdownto themithril cavernFinniusheardthe Hedid well for himselfovertheyearsandslowly soundof diggingandstrangevoices. Whenhe expandedhisoperationto includeadozenor somen investigated,Finniusfoundhimself staringataderro from thenearesttown.Finniuswould sendhisfellow miningcrewmadeupof adozendifferentraces. minershomeeachwinter to restandenjoytheir Renderedunconsciousfrom awell-delivered year\u0027sgainswith family andfriends,while he knockoutbolt, heawoketo find himselfaslaveof remainedattheminein asmallcabinhehadbuilt thederroandworking in themithril chamberhehad neartheentrance. Occasionally,old Finniuswould straponhismining bootsanddosomediggingto \u0027discovered\u0027. Theteamof minerssentto lookfor Finniussufferedasimilarfateandwereputtowork keepwarm. Onewinterhedidjust suchathingand tohisamazemenhtefoundacavernfull of the in thederrominesbesidetheiroldboss. Therehave beenafewminor incursionsfrom adventurers,but fabledmaterialknownasmithril. Tosayhewas thusfar therehasnotbeenanythingthatthederro elatedwould beanunderstatement.Heimmediately could not handle. extractedasmalllumpof mithril from thewall and madehiswaybackto hiscabinandhisledger. THE CLAN",
+        "name":  "SpellResistance",
+        "source":  "the_slayers_guide_to_derro.txt",
+        "_id":  "e7a5b30d3538b341721e073bd438f2443bb152cc2a96a4c87cd0c8fe3e52c528"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Darkvision 30 ft., Dwarven Traits, LIST Spell resistance 18, (Sunlight Vulnerability- only if savant is a Shade-Stalker)",
+        "name":  "Special Qualities",
+        "source":  "the_slayers_guide_to_derro.txt",
+        "_id":  "e7a5b30d3538b341721e073bd438f2443bb152cc2a96a4c87cd0c8fe3e52c528"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Str 8, Dex, 15, Con 13, Int 14, Wis 12, Cha 10 Medium-Size Humanoid (Derro) 7thLevel Fighter Skills: Alchemy +12, Concentration +11, Knowledge (arcana) +12, Spellcraft +12",
+        "name":  "Abilities",
+        "source":  "the_slayers_guide_to_derro.txt",
+        "_id":  "e7a5b30d3538b341721e073bd438f2443bb152cc2a96a4c87cd0c8fe3e52c528"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Darkvision SAVANT 30 ft., Dwarven Traits, Spell resistance 18,(Sunlight Vulnerability- only if persecutor is a Shade-Stalker) Medium-Size Humanoid (Derro) 5thLevel Sorcerer/2nd level Savant Saves:Fort +7, Ref +2, Will +7",
+        "name":  "Special Qualities",
+        "source":  "the_slayers_guide_to_derro.txt",
+        "_id":  "e7a5b30d3538b341721e073bd438f2443bb152cc2a96a4c87cd0c8fe3e52c528"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Darkvision 30 (Derro) ft., Dwarven Traits, Spell resistance 1st Level Rogue 18, Sunlight Vulnerability",
+        "name":  "Special Qualities",
+        "source":  "the_slayers_guide_to_derro.txt",
+        "_id":  "e7a5b30d3538b341721e073bd438f2443bb152cc2a96a4c87cd0c8fe3e52c528"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Darkvision30ft.,DwarvenTraits, Featsin italics aregrantedby raceor class. * Spell resistance 18, (Sunlight Vulnerability- only if scout is a Shade-Stalker) RAIDERS",
+        "name":  "SpecialQualities",
+        "source":  "the_slayers_guide_to_derro.txt",
+        "_id":  "e7a5b30d3538b341721e073bd438f2443bb152cc2a96a4c87cd0c8fe3e52c528"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Darkvision 30 ft., Dwarven AC: 14(-I size,+I Dex,+4natural) Traits, Spell resistance 18, Sunlight Attacks: Bite +7melee",
+        "name":  "Special Qualities",
+        "source":  "the_slayers_guide_to_derro.txt",
+        "_id":  "e7a5b30d3538b341721e073bd438f2443bb152cc2a96a4c87cd0c8fe3e52c528"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Light lanceId6-1pluspoison (witherweed extract) (greenbloodoil); or netpluspoison(witherweed Face/Reach:5 ft. x 5 ft./5 ft. extract) Special Qualities: Darkvision 30 ft., Dwarven Traits, Face/Reach5:ft. x 5 ft./5 ft. Spell resistance 18, Sunlight Vulnerability",
+        "name":  "Damage",
+        "source":  "the_slayers_guide_to_derro.txt",
+        "_id":  "e7a5b30d3538b341721e073bd438f2443bb152cc2a96a4c87cd0c8fe3e52c528"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Darkvision30ft., DwarvenTraits, Saves:Fort +3, Ref +2, Will +0 Spellresistance18,SunlightVulnerability Abilities: Str 9, Dex, 14,Con 13,Int 10,Wis 10,",
+        "name":  "SpecialQualities",
+        "source":  "the_slayers_guide_to_derro.txt",
+        "_id":  "e7a5b30d3538b341721e073bd438f2443bb152cc2a96a4c87cd0c8fe3e52c528"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "claw 1d4+1, bite 1d4, or javelin 1d6+1; himself when you succeed. Such benisons as SV Fort +8, Ref +7, Will +8; AL NE; Str 13, Dex 15, knighthoods, lesser titles, grand serjeant for Con 17, Int 9, Wis 17, Cha 9. example, for those of common birth, made citizens Skills and feats: Animal empathy +7, Balance +6, too. Each brave defender of his realm will be given Concentration +13, Handle animal +9, Hide +2, a silver casket containing 1,000 gold coins. Of Jump +7, Listen +3, Move silently +2, Spot +6, course any monetary treasure taken in the process Swim +9; Extend spell, Heighten spell, Multiattack, of carrying out your commission will be one-half Skill focus (animal empathy). your own, the other portion being that of the state.",
+        "name":  "You will each receive honours from the Archpriest Damage",
+        "source":  "the_slayers_guide_to_dragons.txt",
+        "_id":  "01222f8179ab75fbad36fe3e2292a4a03c72a5a05e1bf49f5d5845a0d57b3eac"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Spell-like abilities (At will, 30 ft.; AC 16 (-1 size, +1 Dex, +5 natural); Attack: darkness and invisibility; 1/day, charm person, cone Bite +10 melee (1d10+7); SA -; SQ -; AL N; SV Fort of cold, gaseous form, polymorph self, and sleep +9, Ref +5, Will +2; Str 25, Dex 13, Con 21, Int 2, save DC 13 + spell level; cast as 9th level sorcerer; Wis 12, Cha 2.",
+        "name":  "Special Attacks",
+        "source":  "the_slayers_guide_to_dragons.txt",
+        "_id":  "01222f8179ab75fbad36fe3e2292a4a03c72a5a05e1bf49f5d5845a0d57b3eac"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration +6, Listen +5, *Hide +10 in overgrown areas Spellcraft +4, Spot +5; Improved Initiative The lizardmen have amassed an assortment of",
+        "name":  "Skills and Feats",
+        "source":  "the_slayers_guide_to_dragons.txt",
+        "_id":  "01222f8179ab75fbad36fe3e2292a4a03c72a5a05e1bf49f5d5845a0d57b3eac"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "By the4thand5th levels,theskulk hasbecomeamasterof surprise. At 4th level, askulk canneverbe caughtflatfooted andcannotbeflanked or surprised. Conversely,whentheysurprise anenemytheyreceiveafull ratherthan partialaction.Skulks alsogaina+2on their initiative rolls following asurprise round in which they successfully surprise afoe. At 5thlevel, skulksgaina+2 competencebonustoattackrolls during asurpriseround againstsurprisedfoes. Their critical threatrangeisalsodoubled onsuchattacks. GOBLIN SPELLS Blood Glyph Abjuration",
+        "name":  "Surprise Mastery",
+        "source":  "the_slayers_guide_to_goblins.txt",
+        "_id":  "4e67928dd0575d4a67d3532e0a0949c326d94d719de7dd9af5bab3faa6bea838"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "V,S of awolf tocastthespell,althoughnotnecessarilythat",
+        "name":  "Components",
+        "source":  "the_slayers_guide_to_goblins.txt",
+        "_id":  "4e67928dd0575d4a67d3532e0a0949c326d94d719de7dd9af5bab3faa6bea838"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "50-ft. doublethebaseradiusof thespell. A fire pit of atleast",
+        "name":  "Range",
+        "source":  "the_slayers_guide_to_goblins.txt",
+        "_id":  "4e67928dd0575d4a67d3532e0a0949c326d94d719de7dd9af5bab3faa6bea838"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This spelldoesnotensure the worg\u0027s favour, nor treatedasspelleffectsfor thepurposeof extinguish doesit guaranteethecreatureisnotalreadyallied with light. anothertribe. This spellmaynotbeusedtocounterlight-producing Child of the Mighty One spellsandnormal firesextinguished bythespellcanbe Transmutation relit normally.",
+        "name":  "Note",
+        "source":  "the_slayers_guide_to_goblins.txt",
+        "_id":  "4e67928dd0575d4a67d3532e0a0949c326d94d719de7dd9af5bab3faa6bea838"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes(harmless) Divination",
+        "name":  "Vision of the Wolf Spell Resistance",
+        "source":  "the_slayers_guide_to_goblins.txt",
+        "_id":  "4e67928dd0575d4a67d3532e0a0949c326d94d719de7dd9af5bab3faa6bea838"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No ability asdescribedin CoreRulebookI.",
+        "name":  "Spell Resistance",
+        "source":  "the_slayers_guide_to_goblins.txt",
+        "_id":  "4e67928dd0575d4a67d3532e0a0949c326d94d719de7dd9af5bab3faa6bea838"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "TheGameMasterisencouragedto avoidcontactif possible,sizinguptheiropponents. placebloodwards(seenewspells)throughoutthe Oneormorerunnersmaybedispatchedtothe warren.Eachshamancanmaintainthreewardsand warrenif trespassersappearwell equippedorheaded eachpriestmayhavesix. Thesewardsshouldalso forthelair. If timeallows,goblinswill prepare beplacedintheareasurroundingthewarrenandcan anambush.After striking with surprisetheywill beusedaspartof aneffectiveambush. retreattowardapreparedtraporambushsite. Asa THE TORN HEADS WARREN lastresort,theywill split intosmallguerrillabands 3CavalryWarriors Cave(ELVaries,2+): Thisroom andharasstheenemywith missilefire,retreatingto isstrewnwith oldbones,unfinishedmealsandold furs. whereanothergroupliesinwait.Theywill headto A roughwoodentableandstumpchairsprovideasense thewarrenonlyoncetheyhaverepelledanenemy of furnishing. Therewill beId8 cavalrywarriorshere, andwill avoidleadingotherstothelair. therestbeingonpatrolwith theworg. Females(1d2), belongingtothecavalry,arealsopresent. Inthelair,defenderswill fall backfrom invaders, fightingtoslowprogressandallow for ambushor Tactics: Thesewarriorswill fight butwill seek for alliestoachieveflankingpositions. Femalesand away to call or retreat to their worg or involve youngwill beevacuatedatthefirstsignofdanger. reinforcements from area4. Thetribe\u0027swolvesareitsfirstlineof defenceand theywill attackfiercely,hopingtointimidate, 4Rogues(Scouts)Cave(ELVaries,2+): Therogues overrunorforceinvadersaway. Failingaquick ofthetribearehousedhereand1d12arepresentatany victory,warriorswill taketothetunnels,harassing time. Theroomisstrewnwith largeboulders,furs(for enemieswith missilefireandusingthenatural sleeping)andotherclutter. Females(1d2),belongingto bottleneckofthesmallertunnelstoslowthem. If the thescoutswill alsobepresent. situationbecomesdire,warriorswill attackdirectly while leadersprepareabetterplanorretreatfromthe",
+        "name":  "BloodWard",
+        "source":  "the_slayers_guide_to_goblins.txt",
+        "_id":  "4e67928dd0575d4a67d3532e0a0949c326d94d719de7dd9af5bab3faa6bea838"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Smitepoweronceperday,Evil hischapterprovidesGamesMasterswith spells+1casterlevel;CR: 5. avarietyof ready-madegoblins. These creaturesarecompleteandeasilydropped directly intoagamewith nopreparationorcan GOBLIN HERO/ beeasilycustomisedtomeetcampaignneeds. An attempthasbeenmadetooffer awiderange LIEUTENANT ofarchetypesbutgreatvarietystill existsamong 2ndLevel Warrior/2nd Level Fighter/1 s1 Level Rogue differing tribes. Adventurersshouldnevermake",
+        "name":  "T Domain Power",
+        "source":  "the_slayers_guide_to_goblins.txt",
+        "_id":  "4e67928dd0575d4a67d3532e0a0949c326d94d719de7dd9af5bab3faa6bea838"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "DC 11+ spell level 0 Create Water, Ghost javelin +6 ranged; Damage: javelin 1d4-1, light - Sound, Guidance; 1st Bless,Burning Hands, Sleep; lance or morningstar 1d6-1; SV: Fort +3, Ref+3,",
+        "name":  "Spells",
+        "source":  "the_slayers_guide_to_goblins.txt",
+        "_id":  "4e67928dd0575d4a67d3532e0a0949c326d94d719de7dd9af5bab3faa6bea838"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Whirlpool (kraken) surface would be dolphins, sharks, whales and, of A kraken can use its size and power to spin a course, ships. In this mode they often resemble captured surface ship to assist in dragging it below small islands or sandbars. This particular style of the surface. attack is strange in that the kraken certainly does not need to do it. It could just as easily lurk in the Benefit: The kraken must spend one minute for depths and then dart up to grasp the helpless victim. every structure point of the captive vessel, spinning The only plausible reason is that they enjoy doing it around on its axis, to cause a whirlpool sufficient it. It entertains them to bask in the sunlight until to suck it beneath the waves. Without this feat, the something ignorantly comes to investigate, and then kraken must spend two minutes for every structure they gain malicious glee in attacking. The point spinning the ship. The constricting tentacles commonality of this attack is well attested in of a kraken will cause damage to a ship in standard literature and the cautious sailor treats any floating fashion, with every ten hit points counting as one object with the respect it deserves. None-the-less, structural point. Note: any damage done to the ships are often lost to this attack and the low captured ship by the crushing tentacles, or the biting survival rate of the crew of these unfortunate vessels beak, reduces the time needed to pull it under. means that word of this devious and evil assault are Additionally, any ship within 300 feet of the more often than not written off as apocryphal. doomed vessel is pulled toward the growing whirlpool and will be sucked down along with it The more common, and terrifying, attack mode of unless they have more structure points than the the kraken is to ascend below the hull of a passing target. ship, pass its gigantic tentacles around either side, and slowly but inexorably draw the whole ship Characters fighting a kraken aboard a ship that is beneath the surface. Usually the first anyone is being spun in a whirlpool suffer a -1 attack penalty aware of this attack is when the mighty limbs burst for every full minute that the spinning occurs. from the water and start to fold over the decks, snapping rigging and downing masts in the process. Such attacks occur only in deep water, usually where the depth below the hull is at least 2,000 feet. Even though the kraken can successfully operate in depths as shallow as 100 feet, it seems that their 13 ROLEPLAYING KRAKEN Roleplaying god of the deep sea. It lives an immortal, and predominantly neutral, existence counting the tides and maintaining the enormously long food chain. kraken There, helpers surround the Kraken and live fulfilling existences caring for all things great and small, husbanding the complex politics of the realm. T he kraken view themselves, and are However, not all of the helpers are satisfied with this sometimes viewed by others, as gods. They lot. Even though they have immortality, comfort do not worship anything except themselves and power, they are brought to life harbouring and they create disgusting slave societies so that resentment, and a craving for power and cruelty. they might be worshipped. Individual kraken do not They are, in short, evil. The Kraken banishes these recognise any other member of their species as being few from the elemental plane of water to the material as powerful or exalted as themselves and morld. In the fall they are stripped of their consequently, except for the rare moments when immortality and thrust into a world where they must they come together to mate, they avoid each other. fend for themselves. A kraken views any other kraken as a heretic, a false god, a pretender. Driving each kraken is the desire for revenge, an overwhelming repentance, or a terrible fear. All most The reason for this lies in their origin. They are want is to return to their home, seeking to find the native to the elemental plane of water, wherein legendary gate, hidden somewhere on the sea floor, resides the Kraken, the ultimate that will transport them back. In their fall they are less than they were. They know this, but they also sense that they are more powerful than anything else in the sea. In this knowledge each and every one concludes that it is a god, albeit a wronged one that will do anything to make others suffer and to find a way to achieve power either here or back home. Were any kraken ever to achieve this return they would without doubt create mischief. They would attempt to recruit creatures in their home realm to overthrow the Kraken and establish their own rule. The inhabitants actively fear civil wars of this nature and precautions are taken to patrol, report on and muster to defeat any such incursion. The ongoing policy of expelling kraken that have evil tendencies perhaps indicates the mercurial nature of the inhabitants of the elemental plane of water and the lengths that they will go to control these tendencies. Each and every kraken is a self- proclaimed deity. As such they are beyond such considerations of law or chaos: neither the group, nor the individual, is important. Only they have value and they believe that only the strong around them may lay claim to life. Societies of their creation, or under their protection, will exist, prosper, or fail through 14 ROLEPLAYING KRAKEN The Shepherd of the Sea Class Base Fort Ref Will Level Attack Save Save Save Special Spells per Day/Spells Known 1 +0 +2 +2 +0 Healing Circle (1d8+1) +1 level of existing class 2 +1 +3 +3 +0 Animal Growth 1/day 3 +2 +3 +3 +1 Healing Circle (2d8+2), +1 level of existing class Alter Life (+1 HD) 4 +3 +4 +4 +1 Animal Growth 2/day 5 +3 +4 +4 +1 Healing Circle (3d8+3), +1 level of existing class Companions (10 HD) 6 +4 +5 +5 +2 Animal Growth 3/day, Alter Life (+1 HD) 7 +5 +5 +5 +2 Healing Circle (4d8+4) +1 level of existing class 8 +6 +6 +6 +2 Animal Growth 4/day 9 +6 +6 +6 +3 Healing Circle (5d8+5), +1 level of existing class Alter Life (+1 HD) 10 +7 +7 +7 +3 Animal Growth 5/day, Companions (20 HD) whim alone as the kraken does not attach any Shepherd of the Sea particular value to them. This realm is petty and The shepherd of the sea is somewhat of an oddity insignificant in comparison to the one they came amongst the kraken, a regression of beliefs to from. something resembling the neutrality and outlook of the Kraken. While still undeniably evil, these Contact with kraken is always guided by these kraken have allowed their nurturing side to develop, beliefs. To them all other life is inferior and worthy albeit with selfish intent. They are perhaps the only to serve it, worship it, or entertain it by dying. closest to neutrality that any fallen kraken can be. Negotiations with a kraken can take place, but they are always from a position of god to insignificant A shepherd of the sea cultivates a collection of creature. A deal that has the kraken agree to not animal companions in a spirit of mutual protection. molest ships that fly a certain flag will only be Even though the shepherd believes itself to be far bought at the cost of that entire population more important than any of it’s followers, and most regarding that kraken as their god. They must adorn likely would not hesitate to sacrifice one if it meant their clothes, flags and other works of art with it. the kraken’s survival, it shows an almost maternal They must regularly worship it. They must cast instinct towards them. sacrifices to it. The kraken gains no spiritual or power benefit from this attention: it is all for vanity. Over time the shepherd’s animal companions Similarly, the worshippers will never gain divine become as twisted and evil as their master – such is powers from their deity. But if defied, that petty and the effect of associating with a creature of this evil god will not hesitate to destroy them. nature. Kraken Prestige",
+        "name":  "Naturally, the only things worthy of note near the New Feat",
+        "source":  "the_slayers_guide_to_kraken.txt",
+        "_id":  "2364c2bde0370bb5262856c2cc4173481135d40cb5f1173e79430ad90e12efdd"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "d10. Classes Requirements Particularly powerful kraken are able to take levels To qualify to become a shepherd of the sea, a in one of the core character classes or a prestige character must fulfil all the following criteria. class. Presented below are two prestige classes, one for the kraken itself and one for a devout follower of Race: Kraken. the kraken. These are designed to add flavour to any Skills: Animal Empathy as a class skill. encounter with either a kraken or one of it’s Spells: Able to cast 3rd level divine spells. communities and, as such, should be used sparingly. 15 ROLEPLAYING KRAKEN Class Skills A shepherd gains an additional use per day of this The shepherd’s class skills (and the key ability for ability at each even level they attain (4th, 6th, 8th, each skill) are Animal Empathy (Cha), 10th). Concentration (Con), Handle Animal (Cha), Heal (Wis), Knowledge (nature) (Int), Swim (Str), and Alter Life (Ex): Beginning at 3rd level, the Wilderness Lore (Wis). See Core Rulebook I for skill shepherd’s influence and presence has a warping descriptions. effect on its companions. This grants all of the shepherd’s companions one bonus Hit Dice for every",
+        "name":  "Hit Die",
+        "source":  "the_slayers_guide_to_kraken.txt",
+        "_id":  "2364c2bde0370bb5262856c2cc4173481135d40cb5f1173e79430ad90e12efdd"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Neutral evil. Animal Growth (Sp): Beginning at 2nd level, a Skills: Swim 10 ranks. shepherd of the sea can cast an animal growth spell once per day, exactly as detailed in Core Rulebook I. 16 ROLEPLAYING KRAKEN The True Disciple Class Base Fort Ref Will Natural Level Attack Save Save Save Armour Special 1 +1 +2 +2 +0 +1 Natural Swimmer 2 +2 +3 +3 +0 +2 Empathic Link 3 +3 +3 +3 +1 +3 4 +4 +4 +4 +1 +4 Speak With Master 5 +5 +4 +4 +1 +5 Tentacle Arms",
+        "name":  "Alignment",
+        "source":  "the_slayers_guide_to_kraken.txt",
+        "_id":  "2364c2bde0370bb5262856c2cc4173481135d40cb5f1173e79430ad90e12efdd"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "laboured to rebuild his power and locate the kraken - the holder of his priceless phylactery. When he had † 4 frigates. Might of the Waves, Glorious done so he again set out: this time to find and slaughter the monster. Again his ship was crewed by Commerce, Horned Tentacle, and Black Night. zombies, but it was a stouter vessel, and he was confident of victory. Yet again, the ship was † 1 heavy frigate. Architeutis. destroyed, and Xardan reformed without the prize he sought. Many more decades passed and several Detailing the Navy more attempts failed. If you are using the Seas of Blood accessory by Mongoose Publishing, the ships listed above are of Finally, out of frustration with this never-ending the Fleur, Orca, High Seas, Voyager and Typhoon duel, the kraken surfaced in its lair (the submarine classes, respectively. cave beneath Antangil), disgorged the remains of Xardan on the beach and waited in the darkness. To accommodate the increased traffic the docks have When the lich reformed the kraken spoke to him. been enlarged several times, ten ships can now be The patience of both was immense and they talked serviced simultaneously. Slipways similarly have sprung up and the skeletons of new ships are slowly but surely taking form. The terrible twist revealed 300 years ago, Xardan Darkfyre was an adventurer, a sorcerer and a necromancer. He studied his dark arts well and grew in power, succumbing to the madness of that particular discipline. Eventually he took the ultimate step as his natural life drew to a close: he secluded himself in his forest keep, crafted a phylactery, concocted the lethal potion and became a lich. For many years he continued to study, preying upon the local kingdom until they eventually rose up and conspired to drive him out. In secret he abandoned his home of more than a century and set out to find a new territory where he could carry out his master plan, creating a perfect kingdom of his own. Thinking that the realms across the sea might offer greater opportunities, he bought and crewed a stout ship and ventured across uncharted waters. Soon all of that fated crew were zombies and troubled him no more with their hateful singing and banter. But all of his plans were undone when the kraken seized the vessel, crushed it, spun it, and dragged it beneath the surface. Even though the battle was fierce, Xardan was ripped apart and consumed, his precious phylactery, a stone bound into a necklace, was parted from him and lodged in the beast’s gut. He later reformed on the sea bottom, and it took him the next six months to walk to shore. For roughly twenty years he 25 ANTANGIL for many years of what was to be done. Eventually, a Xardan Darkfyre, High Priest of the Cult pact was formed. Xardan thirsted for the power to of the Kraken make a kingdom and the kraken thirsted to be Male lich Sor12; CR 14; Medium-size undead; HD recognised in its true divinity. Together they would 12d12; hp 84; Init +2 (Dex); Spd 30 ft.; AC 15 further both these goals, entwined into one exquisite (touch 10, flat-footed 15); Atk +7/+2 melee touch plan. To ensure that Xardan would never double- (1d8+5 and paralysis, touch) or +8/+3 melee (1d6+1, cross him, the kraken kept the phylactery, but in masterwork scimitar), or +8/+3 ranged (1d4+1, compensation he provided the lich with corpses to dagger); SA Damaging touch, fear aura, paralysing animate and ink to sell. touch, spells; SQ +4 turn resistance, damage reduction 15/+1, immunities, undead; AL LE; SV With a newly-risen army of skeleton workers the lich Fort +4, Ref +6, Will +10; Str 12, Dex 15, Con –, Int tunnelled out of the cave, now renamed the 17, Wis 14, Cha 17. cathedral, into the sunlight air of the unsuspecting island republic. Meanwhile, the kraken had been",
+        "name":  "Protecting these are the following",
+        "source":  "the_slayers_guide_to_kraken.txt",
+        "_id":  "2364c2bde0370bb5262856c2cc4173481135d40cb5f1173e79430ad90e12efdd"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You cast conjuration spells at +1 9 Foresight caster level. Spells 1 Miniature Portal The divine and arcane spellcasters of the mist 2 Make Whole elves have, by virtue of their long heritage, access 3 Create Food and Water to dweomers and incantations that seem alien 4 Minor Creation and strange to those of other races. Though 5 Major Creation commonplace within the cairns of the daoine, the 6 Heal knowledge of the arcane spells, especially, are highly 7 Resurrection prized among other spellcasters. 8 Clone 9 True Resurrection Any mist elf spellcaster may freely select from the spells below, so long as he otherwise qualifies for it Fellowship Domain (being of the right class and level). The spellcasters of other races may attempt to learn the arcane",
+        "name":  "Granted Power",
+        "source":  "the_slayers_guide_to_mist_elves.txt",
+        "_id":  "3328a482bb923d04043438dee42539ae53658a435f97a8628c489ca983575ebc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Elven Allfather spells of the mist elves but to do so they must either",
+        "name":  "Deities",
+        "source":  "the_slayers_guide_to_mist_elves.txt",
+        "_id":  "3328a482bb923d04043438dee42539ae53658a435f97a8628c489ca983575ebc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes (harmless) This spell is a handy boon in conventional melee combat. Whenever the target would normally provoke an attack of opportunity, distraction creates some kind of auditory or visual figment. The illusion is heard/seen only by the creature making the attack of opportunity. If the attacker succeeds in a Will save then he may attack normally. If the save fails, Ability Echo the attack of opportunity is effectively nullified. The creature protected by distraction is only defended Transmutation once in this manner during its duration.",
+        "name":  "Spell Resistance",
+        "source":  "the_slayers_guide_to_mist_elves.txt",
+        "_id":  "3328a482bb923d04043438dee42539ae53658a435f97a8628c489ca983575ebc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Casting Time: 1 standard action",
+        "name":  "Spell Resistance",
+        "source":  "the_slayers_guide_to_mist_elves.txt",
+        "_id":  "3328a482bb923d04043438dee42539ae53658a435f97a8628c489ca983575ebc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 standard action Spell Resistance: Yes",
+        "name":  "Casting Time",
+        "source":  "the_slayers_guide_to_mist_elves.txt",
+        "_id":  "3328a482bb923d04043438dee42539ae53658a435f97a8628c489ca983575ebc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels) be created by spellcasters with access to a mist elf",
+        "name":  "Range",
+        "source":  "the_slayers_guide_to_mist_elves.txt",
+        "_id":  "3328a482bb923d04043438dee42539ae53658a435f97a8628c489ca983575ebc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Wall whose area is up to 1-ft. square/level cairn or one of their high level spellcasters. This",
+        "name":  "Effect",
+        "source":  "the_slayers_guide_to_mist_elves.txt",
+        "_id":  "3328a482bb923d04043438dee42539ae53658a435f97a8628c489ca983575ebc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "1 round/level does not, of course, prevent a spellcaster of another",
+        "name":  "Duration",
+        "source":  "the_slayers_guide_to_mist_elves.txt",
+        "_id":  "3328a482bb923d04043438dee42539ae53658a435f97a8628c489ca983575ebc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  " four highly sophisticated members of mist elf society on which all their people rely. From the To qualify to become a master of battle, a character aggressive defence of the Master of Battle to the must meet all the following criteria. decisive spellcasting of the Master of Mysteries, the mist elves have evolved these positions within their Race: Mist elf or half-elf. culture to be the safeguard of their long heritage. Base Attack Bonus: +8 or higher.",
+        "name":  "Requirements",
+        "source":  "the_slayers_guide_to_mist_elves.txt",
+        "_id":  "3328a482bb923d04043438dee42539ae53658a435f97a8628c489ca983575ebc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Skill Focus (Concentration). of answering, all eyes and ears turn to the master Skills: Knowledge (history) 12 ranks, Knowledge (local) 12 ranks, Knowledge (nobility and royalty) of lore for the solution. Born with an innate desire 10 ranks. to learn, the master’s formative years are spent at the feet of every craftsman and ballad singer in the Spellcasting: Ability to cast arcane spells of 3rd level or higher. community. He exposes his mind to every subject from mathematics to metalworking to historical narrative. Using history as a template, the master Class Skills The master of lore’s class skills (and the key ability of lore intuitively sees why individuals choose the for each) are Appraise (Int), Balance (Dex), Bluff paths they do in life and how those paths affect the (Cha), Concentration (Con), Craft (Int), Decipher world around them. He uses the experiences of Script (Int), Diplomacy (Cha), Disable Device others to dictate how best to manage his personal (Int), Forgery (Int), Gather Information (Cha), Hide affairs. Knowing that X led to a tragic consequence, (Dex), Knowledge (all, taken individually) (Int), the master instead chooses not to do X. The greater Listen (Wis), Move Silently (Dex), Open Lock purpose of the class, however, is to try and decipher (Dex), Perform (Cha), Search (Int), Sense Motive which direction is the best for the daoine people (Wis), Sleight of Hand (Dex), Speak Language (n/a), as a whole. By studying history in the broadest Spellcraft (Int), Spot (Wis), Use Rope (Dex). sense, the master of lore hopes to find the trail for his people that they have obviously gone astray from. Otherwise, the mist elves would not be in the Skill Points at Each Level: 6 + Int modifier emaciated state they are today (culturally speaking). Class Features The history of the daoine is a great jigsaw puzzle whose solution is just a few pieces away. It is finding All of the following are class features of the master the right pieces and placing them in the correct spots of lore prestige class. that the master of lore devotes the bulk of his time to.",
+        "name":  "When a question arises which no one seems capable Feats",
+        "source":  "the_slayers_guide_to_mist_elves.txt",
+        "_id":  "3328a482bb923d04043438dee42539ae53658a435f97a8628c489ca983575ebc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "d6 for purposes of determining spells per day.",
+        "name":  "Hit Die",
+        "source":  "the_slayers_guide_to_mist_elves.txt",
+        "_id":  "3328a482bb923d04043438dee42539ae53658a435f97a8628c489ca983575ebc"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Expanding a Delay Spell.....................................39 Casting Times................................80 Specialist’s Range...................7 Energy Admixture.........................39 Researching New Spefls...................81",
+        "name":  "Sidebar",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Sidebar: Substituting and Is a New Spell Viable?..................81 Specializing in a School.............8 Admixing Energy..................39 Behind the Curtain:",
+        "name":  "For Wizards Only",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Friends Indeed...................9 Energy Substitution......................40 Evaluating Spells..................83 Acquiring a Familiar.....................10 Eschew Materials..........................40 New Spells List..................................83 Familiar Abilities...........................10 Extra Slot........................................40 Permanency and New Spells.......84 Dismissing a Familiar...................12 Extra Spell......................................40 Spell Descriptions.........................85 Death of a Familiar........................12 Greater Spell Focus......................40 Death of a Master..........................12 Greater Spell Penetration.............40 Tables Alternate Familiars by Improved Familiar.........................40 1-1: Familiars for Tiny or Smaller Master Size....................................13 Innate Spell....................................41 Masters.......................................13 Improved Familiars.......................15 Persistant Spell..............................41 1-2: Familiars for Huge or Bigger Familiars in Combat......................17 Repeat Spell ...................................41 Masters.....................................14 Close-Up on Skills ............................19 Sanctum Spell................................41 2-1: Feats...........................................38 Which Skill to Use?......................19 Sculpt Spell....................................42 2-2: Improved Familiars ..................40 Spellcraft........................................19 Spell Specialization.......................42 2-3: Alternate Improved Knowledge (Arcana)......................20 Split Ray.........................................42 Familiars...................................41",
+        "name":  "Familiars",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "DM Note: Subdual Substitution....................42 3-1: Prestige Classes........................43 Recalling Information...........20 Twin Spell ......................................42 3-2: The Acolyte of the Skin............45 Sorcerers and Wizards and the Widen Spell...................................42 3-3: The Alienist...............................45 World They Live ln........................20 3-4: The Arcane Trickster.................49 Becoming a Wizard......................20 Chapter 3: 3-5: The Bladesinger........................49 Becoming a Sorcerer....................20 Prestige Classes............43 3-6: The Blood Magus.....................51",
+        "name":  "Sidebar",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The familiar’s Intelligence score recipient. For example, an aid spell grants 1d8 temporary increases according to your level, but it uses its own if hit points and bestows a +1 morale modifier on attack that is the higher score. rolls and saves against fear effects. If you and your famil-",
+        "name":  "Intelligence",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You gain Alertness while the familiar is iar share the spell, only one of you gets the temporary hit within 5 feet and an unbroken line of effect exists points, but you both receive the morale bonus. between you. You also have the option of casting any spell with a",
+        "name":  "Alertness",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This works as it does for a monk target of \"You\" on the familiar as a spell with touch range. and is an extraordinary ability. The familiar gets the bene- If you do so, you do not share the effect with your famil- fit of this ability even when flat-footed or otherwise iar, but it retains the benefits as long as the spell lasts—no denied a Dexterity bonus (though in the latter case it matter where the familiar goes afterward. probably is less likely to make a successful save). Empathic Link: You and your familiar can communi-",
+        "name":  "Improved Evasion",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "If you are 11th level or higher, the later brought back from the dead, the bond is reestab- familiar gains spell resistance equal to your level +5. Some lished, and the familiar gains whatever abilities go along improved familiars already have spell resistance. In this with the master’s new level. case, the two don’t stack-the familiar uses the higher For example, Hennet has a cat familiar and has reached number. 11th level when he fails a saving throw against a lethal",
+        "name":  "Spell Resistance",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "In addition to their own special Improved Grab (Ex): On a hit with its bite attack qualities, all familiars grant their master the Alertness against Small or smaller opponents, deals normal damage feat, improved evasion, empathic link, and shared spells and attempts to start a grapple as a free action without at 1st level (see above). provoking an attack of opportunity. If it gets a hold, it can rake.",
+        "name":  "Granted Abilities",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Climb +15, Listen +6, Spot +6 (or master’s, if if better); Skill Focus (Craft). better). Rage (Ex): If it takes damage in combat, on the follow- DHomunculus Familiar: CR —; Tiny construct; HD 7; ing round gains +4 Strength, +4 Constitution, and -2 AC; hp ½ master’s; Init +2; Spd 20 ft., fly 50 ft. (good); AC 18 can end rage voluntarily as a free action. (touch 14, flat-footed 16); Atk +4 melee (1d4–1 and poison, bite); Face/Reach 2 ½ ft. by 2 ½ ft./0 ft.; SA Poison; SQ Granted abilities, touch, speak with master, construct; Improved Familiars AL Any; SV Fort +2, Ref +4, Will +6; Str 8, Dex 15, Con -, Arcane spellcasters who take the Improved Familiar feat Int 10, Wis 12, Cha 7. (see Chapter 2: Feats) may choose a new familiar from a Skills: As master’s. nonstandard list. These creatures have unusual special abil- Poison (Ex): Bite, Fort save (DC 11); initial damage ities but otherwise follow the general rules for familiars. sleep for 1 minute, secondary damage sleep for another 5d6 minutes.",
+        "name":  "Skills",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Listen +5, Spot +5 (or master’s, if better); darkvision) beyond 5 feet. Creatures 5 feet away have 50% Power Attack. concealment, while those farther away have total conceal- Earth Mastery(Ex): +1 attack and damage modifier if ment (see Concealment, page 133 of the Player’s Handbook). both it and its foe touch the ground, -4 penalty to attack Those caught in the cloud must succeed at a Concen- and damage against airborne or waterborne opponents. tration check (DC 11) to cast a spell. Push (Ex): Can start a bull rush without provoking an Elemental: Immune to poison, sleep, paralysis, and attack of opportunity. The combat modifiers given in stunning; not subject to critical hits or flanking. Earth Mastery, above, also apply to the elemental’s opposed Strength checks. DStirge Familiar: CR —; Tiny beast; HD 5; hp ½",
+        "name":  "Skills and Feats",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This type of caster provides offensive power THE FEW, THE PROUD to an army or other group, using spells such as fireball. Sorcerers and evokers excel in this role. Arcane spellcasters are often loners—they’re secretive,",
+        "name":  "Artillery",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "These spellcasters are advisors or sages Certain of these, including several mage academies, have who ferret out information, help to formulate plans, and endured for centuries and are well regarded by the even provide education in diverse subjects. Wizards of communities wherein they reside. Others are younger, all types excel at this, thanks to their extensive training more secretive, or both, and generally arouse the suspi- in research and development. cions of people near where they operate.",
+        "name":  "Counselor",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Members in good standing receive monetary Benefits: Members in good standing appear on a list compensation for fulfilling contracts. Payment amounts of certified diviners. Membership serves to advertise a vary according to the difficulty, and the finality, of partic- spellcaster’s divination ability and so steers prospective ular jobs. Freelance slayers of any stripe operating in the clients her way. Government officials usually prefer to same community as an agent of the Broken Wands are use diviners who are members of the League, as do also considered legitimate targets. wealthy patrons who want the best divination that money",
+        "name":  "Benefits",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Alertness, improved evasion, share spells, empathic link, touch, speak with master, speak Leadership: All who serve on the Travel Board at any with mustelidae (see the Familiars section, above). given time are considered equals in decisions affecting their office, though each branch elects a treasurer and",
+        "name":  "Granted Abilities",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "All the Hollow’s windows Peculiar Features of an are on the upper floor, and their lower Location Arcane Spellcaster’s stills are at least 18 feet off the ground. The Hollow lies on a quiet street near the business district Each window is fitted with thick glass that Quarters of a large city. The surrounding homes belong to success- admits light but screens the interior from ful merchants, adventurers, and minor nobles. The view, and a lattice of strong steel bars Roll 1d10 or choose from the Hollow is neither the smallest nor the largest home in the protects the glass. Benay and Airees some- table below. area. Most folk passing by don’t find it in the least remark- times leave the windows open for ventila- RRRRRooooollllllllll FFFFFeeeeeaaaaatttttuuuuurrrrreeeee able, which is exactly how Benay and Airees like it. They tion, but the bars remain in place, and 1 Stuffed owl that answers do not wish to call attention to themselves. curtains of heavy mesh are hung over the one question a day as The streets that surround the Hollow are not particu- opening to keep out prying eyes and any augury cast by a 5th-level larly busy, but they’re seldom empty either, and they are unwelcome visitors who might try to slip in cleric. always well patrolled by the city watch. through the bars. 2 Statue of a monkey reco- dGlass Window Panes: 1 in. thick; vered from a faraway dun- geon; anyone pressing the hardness 1; hp 1; AC 6; break DC 10. Features eyes is polymorphed into a dSteel Window Bars: 2 in. thick; monkey. The Hollow is a two-story stone structure. Benay and hardness 10; hp 60; AC 6; break DC 28. 3 Glass container filled with",
+        "name":  "Windows",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Concentration +5, Knowledge (arcana) contain explosive runes and three of the containers have +6, Listen +3, Scry +6, Spellcraft +6; Combat Casting, fire trap spells cast on them. There also is a small wooden Improved Initiative, Scribe Scroll. box, badly scarred and overflowing with pebbles and",
+        "name":  "Skills and Feats",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Such spells produce a ray effect and require a minimum ability score, another feat or feats, a minimum ranged touch attack (see Aiming a Spell on page 148 of base attack bonus, ability to cast certain spells, or a special the Player’s Handbook). condition that a character must meet. Energy Missile: The spell creates something physical as a projectile or that the caster can hurl, such as Melf’s Virtual Feats acid arrow or produce flame.",
+        "name":  "These new feats have prerequisites, which can be a Ray",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    }
+]

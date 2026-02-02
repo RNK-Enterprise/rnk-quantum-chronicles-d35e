@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "other.json",
+        "description":  "Grows vegetation, improves crops. Lightning Bolt: Electricity deals 1d6/level",
+        "name":  "Plant Growth",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Calls down lightning bolts (3d6 Wall of Fire: Deals 2d4 fi re damage out to 10 ft. per bolt) from sky. and 1d4 out to 20 ft. Passing through wall deals",
+        "name":  "Fire Call Lightning",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "60-ft. radius of bright light. 2d6 damage +1/level. Fire Wings*: Your arms become fl aming wings; Water Control Water: Raises or lowers bodies of water. you can fl y or burn things. Cure Critical Wounds: Cures 4d8 damage +1/",
+        "name":  "Daylight",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cures all diseases affecting subject. Air Control Winds: Change wind direction and speed.",
+        "name":  "Remove Disease",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subjects can breathe Dimension Door: Teleports you short distance. underwater. Greater Invisibility: As invisibility, but subject can",
+        "name":  "Water Breathing",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject treads on water as if solid. attack and stay invisible.",
+        "name":  "Water Walk",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Inscription harms those who structures. pass it. Persistent Image: As major image, but no",
+        "name":  "Glyph of WardingM",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Creates a stone wall that can be",
+        "name":  "Wall of Stone",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject treads on air as if solid (climb at shaped. 45-degree angle). Fire Energy Vortex (Fire Only)*: Burst of energy",
+        "name":  "Air Air Walk",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Reveals deliberate falsehoods. level.",
+        "name":  "Discern Lies",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Makes one type of terrain Feeblemind: SubjectÆs Int and Cha drop to 1. appear like another (fi eld into forest, or the like). Dragon Breath (Red or Gold Only): You choose a",
+        "name":  "Hallucinatory Terrain",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Beam blinds and deals 4d6 damage.",
+        "name":  "Sunbeam",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Kills 3 HD or less; 4û6 HD save or die, Water Greater RestorationM: Restores level and ability 6+ HD take Con damage. score drains.",
+        "name":  "Air Cloudkill",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Includes sight, sound, and Greater Scrying: As scrying, but faster and longer. smell. ResurrectionM: Fully restore dead subject.",
+        "name":  "Permanent Image",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantly transports you as far as 100 Creeping Cold, Greater*: As creeping cold, but miles/level. longer duration and more damage.",
+        "name":  "Teleport",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Digs trenches and builds hills. and no off-target arrival.",
+        "name":  "Move Earth",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Talk to natural or worked stone. Whirlwind: Cyclone deals damage and can pick up",
+        "name":  "Stone Tell",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Changes weather in local area. Sunburst: Blinds all within 10 ft., deals 6d6",
+        "name":  "Control Weather",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Lets you see all things as they really Regenerate: SubjectÆs severed limbs grow back, are. cures 4d8 damage +1/level (max +35).",
+        "name":  "True SeeingM",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As invisibility, but affects all in Etherealness: Travel to Ethereal Plane with range. companions.",
+        "name":  "Air Mass Invisibility",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As major image, plus Imprisonment: Entombs subject beneath the triggered by event. earth.",
+        "name":  "Programmed ImageM",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As teleport, but affects a touched Fire Meteor Swarm: Four exploding spheres each deal object. 6d6 fi re damage.",
+        "name":  "Teleport Object",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject can become a statue at will. Storm of Vengeance: Storm rains acid, lightning,",
+        "name":  "Statue",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1d6/level damage; 1 secondary All Elemental Swarm: Summons multiple elementals. bolt/level each deals half damage. Summon NatureÆs Ally IX (Elder Elemental",
+        "name":  "Fire Chain Lightning",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 6",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S NEW SORCERER/ Casting Time: 1 standard action",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round/level",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "Transmutation Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, F, XP",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "One animal or tree/three levels, no two of which enhancement bonus on attack and damage rolls, plus the may be more than 30 ft. apart bane quality (+7 enhancement bonus on attack and damage",
+        "name":  "Target",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous rolls, plus an additional 2d6 points of damage) against foes",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "See text of a type you specify. You must choose one of your favored",
+        "name":  "Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cleric 4, druid 3",
+        "name":  "Evocation Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ranger 4 Components: V, S, M",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S Casting Time: 1 standard action",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Range: Personal",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch Target: You",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The claw of a bird of prey, such as an vant created by a druid. Like a eagle or falcon. homunculus, it is an extension of its creator, sharing the same align- BEGET BOGUN ment and link to nature. A bogun Conjuration (Creation) does not fi ght particularly well, but",
+        "name":  "Material Component",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 1 it can perform any simple action,",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M, XP such as attacking, carrying a",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action message, or opening a door",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch or window. For the most part,",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Tiny construct a bogun simply carries out its",
+        "name":  "Effect",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous creatorÆs instructions. Because",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None it is self-aware and somewhat",
+        "name":  "Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The option as to which). mannequin from which the A bogun cannot speak, but the bogun is created. process of creating one links it",
+        "name":  "Material Component",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "25 XP. telepathically with its creator. It knows what its creator knows and can convey Bogun to him or her everything it sees and hears, up to a range of Tiny Construct 500 yards. A bogun never travels beyond this range will-",
+        "name":  "XP Cost",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2d10 (11 hp) ingly, though it can be removed forcibly. In that case, it does",
+        "name":  "Hit Dice",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+3 everything in its power to regain contact with its creator. An",
+        "name":  "Initiative",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 ft. (4 squares), fl y 50 ft. (good) attack that destroys a bogun also deals its creator 2d10 points",
+        "name":  "Speed",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Nettles +1 melee (1d4û2 plus poison) A bogun looks like a vaguely humanoid mound of com-",
+        "name":  "Attack",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Nettles +1 melee (1d4û2 plus poison) post. The creator determines its precise features, but the typ- Space/Reach: 2-1/2 ft./0 ft. ical bogun stands about 18 inches tall and has a wingspan of",
+        "name":  "Full Attack",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Poison about 2 feet. Its skin is covered with nettles and branches.",
+        "name":  "Special Attack",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Construct traits",
+        "name":  "Special Quality",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +0, Ref +3, Will +1 Combat: A bogun attacks by brushing against opponents",
+        "name":  "Saves",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 7, Dex 16, Conù, Int 8, Wis 13, Cha 10 with harsh nettles that deliver an irritating poison.",
+        "name":  "Abilities",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hide +10, Move Silently +9 Poison (Ex): Nettles, Fort save (DC 11); initial and second-",
+        "name":  "Skills",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Stealthy ary damage 1d6 temporary Dex. The creator of a bogun is",
+        "name":  "Feat",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any (typically forest) immune to its poison.",
+        "name":  "Environment",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bard 6, cleric 7, sorcerer/wizard 8 normally). Ranged attacks made into or out of the binding",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S winds suffer a û2 penalty. Binding winds hold fl ying crea-",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action tures in mid-air.",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch BLAST OF FORCE",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Permanent Evocation [Force]",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates Level: Force 3",
+        "name":  "Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous154 7 RETPAHC DNA SNIAMOD SLLEPS",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fortitude partial Physical attacks against you have a 50% miss chance, and",
+        "name":  "Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Blackguard 2, cleric 3, paladin 2",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "60 ft.",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "60-ft. spread, centered on you",
+        "name":  "Effect",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Concentration",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates (harmless)",
+        "name":  "Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Paladin 3",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, M",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Personal",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You",
+        "name":  "Target",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A canary feather, which is fl ung into the air. BLINK, IMPROVED Transmutation",
+        "name":  "Material Component",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bard 5, Celerity 8, sorcerer/wizard 5",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Personal",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You",
+        "name":  "Target",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 2, sorcerer/wizard 2 Bolts of bedevilment The ray",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, DF dazes one",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5 ft. clouding its mind so",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Glory 6 level",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, DF Saving Throw: None",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels) You use a fi re source to",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ray create a plume of smoke",
+        "name":  "Effect",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous that you capture in a",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None special bottle youÆre hold-",
+        "name":  "Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M, DF deals both piercing and bludgeoning damage. It gains a +1",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 full round enhancement bonus on its attacks and deals an additional",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Long (400 ft. + 40 ft./level) +1 point of damage per caster level (maximum +10). This",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates or a metal mace.",
+        "name":  "Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, DF",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Medium (100 ft. + 10 ft./level)",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Plants in a 20-ft.-radius spread Transmutation",
+        "name":  "Area",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 minute/level Level: Druid 7",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Refl ex negates; see text Components: V, S",
+        "name":  "Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels)",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10 min./level Level: Cleric 3, druid 4",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S As camoufl age, except the effect is mobile with the group. Casting Time: 1 standard action",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V this way, your sensor can infi ltrate a closely guarded area.",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action During your turn in a round, you can use a free action to",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10-ft. radius emanation seeing normally or back again.",
+        "name":  "Area",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous CLOUDBURST",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fortitude half",
+        "name":  "Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 7, Weather 6",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, DF",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels)",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 hour/level (D)",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Refl ex negates (harmless)",
+        "name":  "Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 6 Conjuration (Creation) Components: V, S",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cleric 6, druid 6 Casting Time: 1 standard action",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, DF Range: Personal",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Target: You",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Medium (100 ft. + 10 ft./level) Duration: 1 round/level",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "400-pound ball of rock and ice",
+        "name":  "Effect",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Refl ex half this list: blinding sickness, cackle fever, fi lth fever, mindfi re,",
+        "name":  "Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fortitude half",
+        "name":  "Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A small glass or pottery vessel worth at least 25 gp Target: One structure or construct fi lled with ice, snow, or water. Duration: Instantaneous",
+        "name":  "Focus",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fortitude partial (object) CREEPING COLD, GREATER",
+        "name":  "Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 7 You bring the forces of erosion to bear on a fabricated struc-",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Glory 8 19û20 Colossal",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M, DF",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 full round CURSE OF ILL FORTUNE",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "120 ft.",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "120-ft.-radius emanation, centered on you Transmutation",
+        "name":  "Area",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 min./level Level: Blackguard 2, cleric 2",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates Components: V, S, DF",
+        "name":  "Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Medium (100 ft. +10 ft./level)",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A pint of animal blood. Necromancy DANCE OF THE UNICORN",
+        "name":  "Material Component",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 2",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, DF",
+        "name":  "Abjuration Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 5, Purifi cation 5 Casting Time: 1 standard action",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S Range: 50 ft.",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Area: All enemies within a 50-ft.-radius emanation cen-",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Personal tered on you",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You Duration: 1 round/level",
+        "name":  "Target",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 min./level (D) Saving Throw: None",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cleric 8, Pact 8 another 1 point on the round after that. On the following",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M, DF, XP round, that subject receives 4 points of healing from a cure",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch no festering damage that round. The next round, the subject",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Permanent until triggered of damage in battle. The festering begins again, infl icting 1",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None point of festering damage on the next round.",
+        "name":  "Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cleric 5",
+        "name":  "Divination Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ranger 3 Components: V, S",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, DF Casting Time: 1 standard action",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Range: Touch",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Quarter circle emanating from you to the extreme Duration: 1 round/level of the range Saving Throw: Will negates (harmless)",
+        "name":  "Area",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Blackguard 1, paladin 1 Level: Cleric 4",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S Components: V, S, DF",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Casting Time: 1 standard action",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Personal Range: 80 ft.",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You Effect: Eight 10-ft. cubes extending from the casterÆs location",
+        "name":  "Target",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round/level Duration: 1 round/level",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Personal but move and observeùit cannot speak,",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous Black 30-ft. line of acid, Reflex half Saving Throw: Refl ex half 1d8/2 caster levels (maximum 10d8)",
+        "name":  "Dragon Breath Saving Throw Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Medium (100 ft. + 10 ft./level) DREAM SIGHT",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Dream 6 Duration: 1 round/level (D)",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "S, DF Saving Throw: Refl ex negates",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A live caterpillar. Duration: 1 round/level",
+        "name":  "Material Component",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 3 see text",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Personal quite capable of harming",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You anyone else who comes",
+        "name":  "Target",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cleric 3 HAWKEYE",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Transmutation",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch Level: Druid 1, ranger 1",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round/level Casting Time: 1 standard action",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None Range: Personal",
+        "name":  "Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 hour/level (D)",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates; see text",
+        "name":  "Transmutation Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Blackguard 1, paladin 1 favored enemy bonus (if any) to the DC of the Will save the",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, DF target attempts.",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch suer, youÆll know its location as long as itÆs moving, no matter",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Special mount touched where it goes on the same plane. Even if it leaves the plane,",
+        "name":  "Target",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A handful of dead, dried fl ies. Duration: Instantaneous",
+        "name":  "Material Component",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None; see text LANGUOR",
+        "name":  "Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S points, provided it died within the last round. You take 1d4",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ray The subjectÆs soul must be free and willing to return (see",
+        "name":  "Effect",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round/level Bringing Back the Dead, page 171 of the PlayerÆs Handbook).",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Madness 8 Level: Ranger 3",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V Components: V, S, M",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Casting Time: 1 standard action",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch Range: Medium (100 ft. + 10 ft./",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None must be a favored enemy of",
+        "name":  "Saving Throw",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10 min./level",
+        "name":  "Duration",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ocean 8 than total cover, nor does it gain a miss",
+        "name":  "Level",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, DF chance against your attacks from any",
+        "name":  "Components",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 full round concealment less than total concealment.",
+        "name":  "Casting Time",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Long (400 ft. + 40 ft./level) Other effects that grant a miss chance",
+        "name":  "Range",
+        "source":  "complete_divine.txt",
+        "_id":  "c51826646c4e5c6c2d9411d0a9eb9ad66a20e77ccfda9e16b51eed02e6270ad2"
+    }
+]

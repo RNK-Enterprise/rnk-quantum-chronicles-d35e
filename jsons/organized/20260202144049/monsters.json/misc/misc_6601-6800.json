@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Cures 1d8 damage +1/level (if any) to your attack roll and deal an extra 1 point of damage for many creatures. per class level. This smite attack is treated as chaotic-aligned for 6 Find the Path: Shows most direct way to a location. the purpose of overcoming damage reduction. At 5th level and",
+        "name":  "Cure Light Wounds, Mass",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+4 bonus against attacks by lawful creatures. 6 Animate Objects: Objects attack your foes.",
+        "name":  "Dispel Law",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Damages and sickens good creatures. Granted Power (Su): You gain the ability to smite chaos with 5 Crushing Despair: Subjects take –2 on attack rolls, a single melee attack once per day. You add your Charisma bonus damage rolls, saves, and checks. (if any) to your attack roll and deal an extra 1 point of damage",
+        "name":  "Unholy Blight",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+4 bonus against attacks by good creatures. per class level. This smite attack is treated as lawful-aligned for 6 Mind Fog: Subjects in fog get –10 to Wisdom and Will the purpose of overcoming damage reduction. At 5th level and checks. every five levels thereafter, you can use this smite attack one",
+        "name":  "Dispel Good",
+        "source":  "spell_compendium.txt",
+        "_id":  "46dd681a1c4fbb41bf3cd85f5a55c0759540dc92e3a0e73382c89aa69661a322"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "minor (10 to 40 the bottom of the maelstrom’s funnel (1d4×10, 20, 50, or feet in diameter), major (41 to 120 feet in diameter), greater 200 feet, depending on the maelstrom’s size). A maelstrom (121 to 500 feet in diameter), and immense (501 feet to without an exit simply generates currents flowing away 2,000 feet in diameter). Maelstroms usually have a depth from it on the bottom with the same strength as currents equal to their diameter. flow toward it near the surface. Buoyant creatures or objects Maelstroms are surrounded by strong feeder currents return to the surface, but there’s no reason they couldn’t that can snare swimmers or boats far from the vortex itself, be caught in the maelstrom’s grip again. carrying them within the vortex’s grasp. Stormfire Maelstrom Current Strength by Distance In the most terrible storms and hurricanes, ships Size Strong Dangerous Irresistible are sometimes struck by stormfire, a capricious and Minor 100 ft. 50 ft. 20 ft. seemingly malevolent phenomenon that has brought Major 500 ft. 250 ft. 100 ft. Greater 1,000 ft. 500 ft. 200 ft. more than one vessel to complete ruin. Stormfire gath- Immense 1 mile 1/2 mile 1,000 ft. ers slowly, beginning as a faint green phosphorescence dancing along a vessel’s rigging and rails. In many cases Once a swimmer or ship is sucked into the maelstrom by it proceeds no further; it is simply a disconcerting omen the currents sweeping toward it (or simply has the misfor- but not dangerous. But sometimes (about 20% of the tune of falling into the vortex directly), the target endures time) stormfire continues to gather and grow stronger, three distinct phases of danger: trapped, battered, and until suddenly it seems that the whole ship is wrapped in ejected. Minor maelstroms can only trap and batter objects glowing green fire. or creatures of Huge size or smaller; major maelstroms can A creature entering a square containing stormfire has a trap and batter objects or creatures of Gargantuan size, 50% chance of being subjected to a brilliant emerald dis- and greater or immense maelstroms can trap and batter charge that deals 2d6 points of electricity and 2d6 points of creatures or objects of any size. fire damage (Reflex DC 15 half). Stormfire manifestations usually last for no more than 2d8 rounds before guttering Maelstrom Object Time Escape Battered out, beginning in one random square on a ship’s deck and Size Size Trapped DC Damage spreading to one random adjacent square each round until Minor Huge 1d4 rounds 25 3d6 the manifestation ends. Major Gargantuan 1d8 rounds 30 6d6 Greater Colossal 2d6 rounds 40 10d6 Immense Colossal 2d8 rounds 50 20d6 MARINE WILDERNESS TERRAIN",
+        "name":  "Maelstroms come in one of four sizes",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The creature or vessel is trapped in the whirl- pool, slowly being drawn down. Escaping from the trap Adventurers exploring desolate coasts or undersea caves region requires a successful Swim or Profession (sailor) face a variety of challenging terrain, ranging from spec- check against the maelstrom’s DC, based on its size. This tacular coral reefs to the emptiness of the open ocean. moves the creature to a square adjacent to the maelstrom The percentile tables given in each terrain type describe (the current doesn’t sweep him or her back in immediately in general terms how likely it is that a given square has a but can do so in subsequent rounds). Failing that, the terrain element in it. Don’t roll for each square on your creature or ship is unable to move of its own accord, and battlefield—instead, use the percentages to guide you in revolves helplessly in the whirlpool. At the end of a trapped creating appropriate maps for the setting. For example, if character’s turn, move him or her 30 feet clockwise around you are creating a tactical map for a sandy beach featur- the rim of the whirlpool. ing 10% driftwood, 20% dune, and 20% gradual slope,",
+        "name":  "Trapped",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "At the end of trapped time, the creature or vessel and your area covers 10 squares by 20 squares, you can sinks into the maw of the maelstrom. This takes 1 round, assume that the entire beach will feature sand. About 20 during which the creature or object takes the indicated squares on the map will also have driftwood, 40 squares damage. For ships or vehicles, every section is damaged. will comprise dune terrain, and 40 squares will be a Creatures can take no actions in this round. gradual slope.",
+        "name":  "Battered",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "On the next round, the maelstrom ejects the crea- ture or vessel at its bottom. The creature or vessel is now at BEACH TERRAIN the bottom depth of the maelstrom. If the maelstrom has a Beaches include sandy tropical islets, mighty wind- particular exit—for example, a hole in the bottom of a lake, swept dunes, cold fogbound pebble shores of northerly 15 MAELSTROM INTO THE CHAPTER 1 waters, or even black volcanic sands. Not all coastlines Sand, Packed: Wet sand is hard, and comparatively consist of beaches; in many places, land meets water easy to walk on. There are no movement penalties on in a broad tidal marsh or mangrove swamp, or along a packed sand. high, rocky bluff. Sand, Soft: The ground consists of soft, dry sand. The two types of beach terrain described here are sandy It costs 2 squares of movement to enter a square with and rocky. soft sand.",
+        "name":  "Ejected",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Heavy surf consists of violently surging Sandy Rocky water about 4 feet in depth. It costs 4 squares of movement Boulder or sea stack — 10% to enter a square of heavy surf, or characters can swim if Driftwood 5% 15% Dune 10% — they wish. Small or smaller creatures must swim to move Pool or stream 10% 10% through heavy surf. Tumbling is impossible in heavy surf. Rubble — 40% Any creature that begins its turn in a square of heavy surf Sand, packed 10% — must succeed on a DC 12 Strength check or Balance check, Sand, soft 40% — Surf, heavy 10% 25% or fall prone. Surf, light 15% — The water in a square of heavy surf provides cover for Medium or Large creatures, and improved cover for",
+        "name":  "Surf, Heavy",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A typical beach rock stands Small or smaller creatures. Medium or Large creatures 1d6×5 feet tall and covers 1d6 squares. Boulders or rocks can crouch as a move action to gain improved cover, but that stick out of the water are sometimes known as sea creatures with this improved cover take a –10 penalty on stacks (some of which can be very large indeed). Beach attacks against creatures that aren’t underwater. rocks are usually rough with easy ledges but can be Surf squares are normally found grouped together in a slippery (Climb DC 15), especially if they lie below the long line. If an area has both heavy surf and light surf, the high-tide line. light surf goes between the heavy surf and the beach.",
+        "name":  "Boulder or Sea Stack",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Large driftwood logs washed up on the A wave of heavy surf often has a riptide behind that beach are common near places where forests overlook can draw creatures out to sea (see Currents and Streams, heavy seas. Sometimes driftwood gathers in great, sprawl- page 10). ing heaps of tangled logs, especially after storms. It costs Surf, Light: Light surf has surging water about 1 foot in an extra square of movement to cross driftwood, and depth. It costs 2 squares of movement to enter a square of driftwood provides cover as a low wall. light surf, and the DC of Tumble checks in such a square",
+        "name":  "Driftwood",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A typical dune is 2d6×10 feet long, 1d2×10 feet increases by 2. Any creature that begins its turn in a square tall, and three times as wide as it is tall (some can be much, of light surf must succeed on a DC 6 Strength check or much larger). A dune consists of soft sand and a steep Balance check, or fall prone. slope; it costs 2 squares of movement to enter each dune Stealth and Detection on a Beach: Open, sandy beaches square, or 4 squares of movement if you are climbing up offer little cover; the maximum distance at which a Spot its face. Characters running or charging downhill must check to detect the nearby presence of others can succeed succeed on a DC 10 Balance check upon entering the first is 6d6×20 feet. Rocky beaches often have more cover at downhill square; mounted characters make a DC 10 Ride hand, reducing this distance to 4d6×20 feet. check instead. Characters who fail this check stumble and must end their movement 1d2×5 feet later. Characters TIDAL MARSH who fail by 5 or more fall prone in the square where they Large saltwater marshes commonly form where low-lying end their movement. A dune increases the DC of Tumble land meets the ocean. Tidal marshes are often several checks by 2. miles wide, forming a narrow band along the coasts, often",
+        "name":  "Dune",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Living coral is only found underwater. they wish. Small or smaller creatures must swim to move Swimmers of Small size or larger entering a square with through heavy surf. Tumbling is impossible in heavy surf. living coral have a 50% chance of injuring themselves. Any creature that begins its turn in a square of heavy surf The swimmer must succeed on a DC 10 Balance check or must succeed on a DC 12 Strength check or Balance check, scrape against the coral (treat as a melee attack at a +4 attack or fall prone. bonus, dealing 1d3 damage). Any creature injured by coral The water in a square of heavy surf provides cover must succeed on a DC 14 Fortitude save or contract coral for Medium or Large creatures, and improved cover for scratch (see Disease, page 12). Small or smaller creatures. Medium or Large creatures",
+        "name":  "Coral, Living",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Difficult terrain for both swimmers can crouch as a move action to gain improved cover, but and walkers, shallow coral rises to within 5 feet of the creatures with this improved cover take a –10 penalty on surface or less. attacks against creatures that aren’t underwater.",
+        "name":  "Coral, Shallow",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The edges of a surface reef are marked by spend 4 squares of movement to enter a square of shallow surf. Light surf has surging water about 1 foot in depth. It coral, or characters can swim if they wish. Tumbling is costs 2 squares of movement to enter a square of light surf, impossible in a shallow coral square. and the DC of Tumble checks in such a square increases The water in a square of shallow coral provides cover by 2. Any creature that begins its turn in a square of light for Medium or Large creatures, and improved cover for surf must succeed on a DC 6 Strength check or Balance Small or smaller creatures. Medium or Large creatures check, or fall prone. can crouch as a move action to gain improved cover, but Stealth and Detection in a Coral Reef: Characters creatures with this improved cover take a –10 penalty on walking on top of a reef are out in the open; the maxi- attacks against creatures that aren’t underwater. mum distance at which a Spot check to detect the nearby Swimmers of Small size or larger must spend 2 squares presence of others can succeed is 6d6×20 feet. Characters of movement to enter a square of shallow coral. Large underwater find that reefs offer many hiding places; the swimmers can’t swim in shallow coral. encounter distance is only 1d8×10 feet. Shallow coral is potentially dangerous; there is a 50% chance that any character entering a square of shallow coral ICE FLOES injure itself, as described under Living Coral above. Polar waters are often covered with ice of varying thick-",
+        "name":  "Characters walking or wading on the top of the reef must Surf, Light",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "These irregular cracks in pack ice are caused sheet. Pressure ridges normally run for many miles and by ocean currents and shifting winds. A typical crevasse are generally twice as wide as they are tall. A pressure is anywhere from 30 to 300 feet long, 1d4×10 feet deep ridge square is considered to be a steep slope and difficult (deep enough to reach the water below), and 5d6 feet terrain, costing 4 squares of movement to enter. The DC of wide. A character falling into a crevasse drops into the Balance and Tumble checks increases by 10; it is impossible freezing water at the bottom (see Hypothermia, page 11) to run or charge on a pressure ridge. and must make a DC 15 Swim check to tread water or Thin Ice: Thin ice is similar to an ice sheet, but it is only move. In addition, the steep, slick sides of the crevasse a few inches thick. A Medium creature that ends its move offer little opportunity to climb out of the water unaided on a square of thin ice must succeed on a DC 10 Balance (Climb DC 30). check or break through. A Large creature that enters a Some crevasses are hidden by thin crusts of snow; a square of thin ice must succeed on a DC 20 Balance check character approaching a hidden crevasse is entitled to a or break through, and Huge or larger creatures break DC 20 Spot or Survival check to notice the crevasse before through automatically. stepping into it, although running or charging characters If a creature breaks through thin ice, it creates a patch do not get to make this check. of open water 1 square larger than its own space on all",
+        "name":  "Crevasse",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A floe is an area of small floating bergs and water. sides—so a Medium creature is in the center of a patch They are normally 1d6 squares across but can extend for of open water 3 squares wide. The water is freezing cold hundreds of feet. Any creature in the water is subject to (see Hypothermia, page 11). In addition, climbing out hypothermia and must succeed on a DC 15 Swim check of the water onto the ice is difficult; a creature trying to to tread water or move. climb back on top of a square of thin ice must succeed on Each round, there is a 50% chance that a character in another Balance check at the same DC, or the square it the water at the surface is struck by a piece of floating ice. was climbing onto breaks as well. Treat this as a slam attack (+5 melee, 1d2 damage). In a Powerful swimmers (Str 12 or more) can attempt to thick floe, this attack is at +10 melee, dealing 2d6 points break thin ice from underneath. of damage. Stealth and Detection in an Ice Floe: Loose floes tend Swimmers at the surface must spend 2 squares of move- to be flat and open; the maximum distance at which a Spot ment for each floe square they enter in a thin floe, or 4 check to detect the nearby presence of others can succeed squares of movement for each square in a thick floe. is 6d6×20 feet. Pack ice features more broken terrain, and Characters can attempt to cross a floe on foot, but it the distance drops to 3d6×10 feet. is extremely difficult. A character must succeed on a Underwater, ice formations break up lines of sight and DC 25 Balance check to enter a square of a floe on foot; offer plenty of cover and concealment. The encounter on a failure, he or she falls in the water. Thick floes are distance for swimmers is 1d8×10 feet. a little easier to walk across (DC 15 Balance check). Each square costs 2 squares of movement, and running OPEN WATER or charging is impossible. The DC of Tumble checks The defining characteristic of an encounter in open increases by 20. water is the lack of terrain features. However, the ocean",
+        "name":  "Floe",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The ground consists of uneven, snow-covered is not completely uniform. A swimmer sees the bright, ice. It costs 2 squares of movement to enter a square covered dazzling patterns of the surface overhead and the steadily by an ice sheet, and the DC of Balance and Tumble checks increasing gloom of the deeps underneath. These features increases by 5. A DC 10 Balance check is required to run provide creatures adapted to this environment with a or charge across an ice sheet. background against which they can attempt to Hide. In Ice sheets are anywhere from 3 to 30 feet thick, although order to use the darkness below or brightness above for they can be much thicker around pressure ridges. concealment, a creature must be within 20 feet of the Extremely powerful swimmers (characters with a Swim surface and above the observer, or at least 80 feet deep speed) can attempt a DC 30 Strength check to break and below the observer. through an ice sheet from underneath. This would also The open ocean can be thousands of feet deep, but apply to a walker who is standing on the bottom within in relatively shallow waters (anywhere within 1 to 100 reach of the ice sheet. miles of shore, depending on where you are) the bottom",
+        "name":  "Ice Sheet",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Ships entrapped in a sargasso can never escape. Kelp bed 50% A derelict is a rotting hulk of a ship fouled with slime and Rock reef 20% seaweed, floating amid the densest sargasso mats. A typical Sandy bottom 30% derelict is a cog, caravel, or launch (see Chapter 5), often in bad shape. Derelicts normally stand at least 10 to 20 feet Kelp: A square of kelp costs 2 squares of movement above the sea level, and so they serve as high ground on to enter. Any creature in a square of kelp has conceal- the otherwise flat and boggy surface. ment; a creature more than 1 square away in kelp has",
+        "name":  "Derelict",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Characters must spend 2 squares of move- total concealment. ment in order to enter a square of heavy sargasso mat, A kelp bed is generally 2d8 squares wide and rises and the DC of Tumble checks increases by 5. The mat is 1d8×10 feet from the seafloor; some can extend for about 10 feet thick, and for 50 feet below that the seaweed hundreds of yards. impedes swimmers, who must spend 2 squares of move- Rock Reef: These areas are simply obstacles underwater, ment to enter a square of heavy mat. a mass of submerged stone often heavily overgrown with A Large creature that ends its move on a square of anemones, barnacles, or other such creatures. A rock reef light mat must succeed on a DC 15 Balance check or can serve as a wall or steep slope underwater, although break through. Huge or larger creatures break through swimmers can easily go around or over it. automatically. Sandy Bottom: A sandy bottom offers no hazards or",
+        "name":  "Mat, Heavy",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Light sargasso is quite difficult to walk on. obstructions to swimmers but tends to break up patches Characters must spend 4 squares of movement in order to of kelp and provide easy channels or trails through dense enter a square of light sargasso mat; running and charging kelp beds. are impossible. The mat is about 5 feet thick, and for 20 feet Stealth and Detection in a Kelp Bed: Due to the below that dense tangles of seaweed impede swimmers, heavy cover provided by this giant seaweed, the maximum who must spend 2 squares of movement to enter a square distance at which a Spot check to detect the nearby pres- of light mat. ence of others can succeed is 1d8×10 feet. A Medium creature that ends its move on a square of Characters on the surface are completely above the kelp light mat must succeed on a DC 15 Balance check or break and can spot others who are also on the surface at a distance through. A Large creature that enters a square of light mat of 3d6×20 feet. must succeed on a DC 25 Balance check or break through. Huge or larger creatures break through automatically. SHIP’S DECK If a creature breaks through light mat, it creates a patch Many fights in which player characters are involved of open water equal to its space. In addition, climbing take place on the decks of a ship—their own, or one out of the water onto the mat again is difficult; a creature they’ve succeeded in boarding. A ship’s decks tend to trying to climb back on top of a square of light mat must be cluttered and can be rendered slippery by blood succeed on another Balance check at the same DC, or it or seawater, but since ships are essentially designed fails to climb up out of the water. to be places where humans and humanoids can move 20 1 RETPAHC EHT OTNI MORTSLEAM about and work, they make for comparatively safe and are entitled to a DC 17 Reflex save to catch themselves secure footing. at the rail before going over. Small ships are Gargantuan or smaller in size. Large ships are Colossal. Small Large Deck 40% 40% A fight on board a ship of any size can be drastically Deck, cluttered 10% 10% altered by the current weather conditions. These condi- Deck, raised 10% 20% tions apply to the whole ship, not just a few squares of it. Deck, slippery 5% 5%",
+        "name":  "Mat, Light",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Tidewaters and estuaries, abyssal floors, river and on the warm column for ships in otherwise temper- bottoms, and lake bottoms are often covered in muck ate climates. a foot or two deep. Creatures on foot pay 4 squares of The result of this roll gives you the temperature, wind movement to enter each square of muck, and running strength, and precipitation for the day. Refer to Weather and charging are impossible. The DC of Tumble checks on page 93 of the Dungeon Master’s Guide for details of increases by 5. these effects.",
+        "name":  "Muck",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Weed-covered pebble bottoms are common in Once you roll a set of weather conditions, they persist colder lakes and ocean waters. They are easier to maneuver without changing for 1d6 days. in than muck but somewhat more slippery and treacherous than clear sandy bottom. Creatures on foot pay 2 squares Table 1–1: Random Weather, Wind, and Precipitation of movement to enter each square of sandy bottom, and Cold1 Temperate2 Warm3 Temperature Wind Precip. — — 01–03 Severe heat Fair Clear running and charging are impossible. The DC of Tumble — — 04–05 Severe heat Varies Clear checks increases by 5. — 01–02 06–14 Hot Fair Clear",
+        "name":  "Pebbles",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Underwater sand is wet and well packed, offer- — 03 15–19 Hot Fair Rain ing good footing. However, plodding along the bottom — 04–05 20–25 Hot Varies Clear 01–03 06–15 26–50 Warm Fair Clear is tedious work even in good conditions, and creatures 04 16–19 51–65 Warm Fair Rain on foot pay 2 squares of movement to enter each square 05–07 20–29 66–70 Warm Varies Clear of sandy bottom. The DC of Tumble checks increases 08 30–32 71–76 Warm Varies Rain by 2. 09 33–35 77–80 Warm Storm Rain 10–17 36–59 81–87 Moderate Fair Clear 18–21 60–63 88–89 Moderate Fair Fog 22–24 64–70 90–91 Moderate Fair Rain VOYAGES 25–30 71–80 92–96 Moderate Varies Clear Many marine adventures revolve around a ship’s voyage. 31–32 81–83 97–98 Moderate Varies Rain 33–34 84–85 99–100 Moderate Storm Rain This can be a routine crossing between heavily trafficked 35–57 86–91 — Cold Fair Clear ports, a search along the coast for a hidden pirate lair, the 58–62 92–93 — Cold Fair Fog quest for a mythical floating island, or a bold expedition 63–66 94 — Cold Fair Snow to find and chart new lands across the ocean. 67–82 95–98 — Cold Varies Clear 83–86 99 — Cold Varies Snow Extended travel over the ocean is an adventure in and 87–89 100 — Cold Storm Snow of itself, especially in uncharted and dangerous waters. 90–94 — — Severe cold Fair Clear A party of heroes might encounter terrible monsters of 95–98 — — Severe cold Varies Clear the deep, mysterious islands haunted by sinister perils, 99–100 — — Severe cold Storm Clear 1 In summer, use the temperate column for cold marine fearsome storms, shipwreck, or disaster in a dozen dif- climates. ferent forms. 2 In winter, use the cold column for temperate climates; in During each day of a voyage, you should check for summer, use the warm column. four things: weather, navigation, encounters, and the 3 In winter, use the temperate column for warm marine climates. day’s progress. If stores or supplies are running short (for example, the heroes are adrift in a small boat with no food or water), you might need to add extra steps to track Wind Strength: To determine the specific wind strength successful use of the Survival skill, consumption of stores, and direction, use the general wind condition indicated and similar tasks. by the result of Table 1–1: Random Weather, Wind, and Precipitation and roll on the corresponding column on WIND AND WEATHER Table 1–2: Random Wind Strength. Few factors play as prominent a role in determining the Wind strengths correspond to the wind categories success or failure of a voyage as the weather the ship on Table 3–24: Wind Effects on page 95 of the Dungeon encounters. Fair winds make for a swift, easy crossing, Master’s Guide. but storms and calms can frustrate even the most skillful Sailing Speed: This is the multiplier used when deter- of sailors. mining the speed that a sailing ship can make given the 23 MAELSTROM INTO THE CHAPTER 1 Table 1–2: Random Wind Strength Table 1–3: Wind Direction Sailing 01–60 Prevailing Fair Varies Storm Strength Speed 61–65 North 01–10 — — None — 66–70 Northeast 11–65 01–20 — Light ×1 71–75 East 66–90 21–65 — Moderate ×2 76–80 Southeast 91–99 66–85 01–10 Strong ×3 81–85 South 100 86–98 11–50 Severe (heavy) ×31 86–90 Southwest — 99–100 51–90 Windstorm (gale) ×32 91–95 West — — 91–99 Hurricane Driven 96–100 Northwest — — 100 Dire gale Driven 1 Requires DC 20 Profession (sailor) check to sail or row; Wind direction is the origin of the wind; a north wind otherwise, driven. is a wind blowing out of the north (and therefore blowing 2 Requires DC 30 Profession (sailor) check to sail or row; toward the south). otherwise, driven.",
+        "name":  "Sand",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Even if they live hidden away you’re a barbarian, from the sahuagin and sprinkle long words other dangers. Others into your speaking. roam the seas in small And because you’re a Darfellan barbarian hunting bands, looking strong, lumbering creature, speak for sahuagin to slay. Either way, the slowly and in a deep voice. darfellans are organized like a tribe, with a single chief- tain or shaman making all the important decisions. DARFELLAN SOCIETY Darfellans believe that tribal organization will con- Repeated hunts from the sahuagin have reduced the tinue until a darfellan known in prophecies as the Deep darfellan population to scattered villages and isolated Dweller emerges to restore the race to vitality. His or her families on remote stretches of coastline. Once the dar- appearance would immediately draw the allegiance of fellans had a rich, vibrant, clan-based culture. But now darfellans gathering from far and near, because the re- most of those clans are just names known to a few dar- maining darfellans regard tales of the Deep Dweller with fellan elders, and much darfellan art and history exists messianic fervor. only in the memories of the oldest darfellan survivors. samohT .J yb .sullI 39 THE SEAS RACES OF CHAPTER 2",
+        "name":  "Application",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Aquatic elves tend to be seen as standoffish temple needs to have done. They are about allowing the elf creatures hesitant to trust outsiders, and this is true to some to express her sense of uniqueness in a way that directly extent. Aquatic elves understand the value and importance benefits the temple and reaffirms her choices in life. of community in their survival beneath the waves. They 40 2 RETPAHC FO SECAR SAES EHT",
+        "name":  "Personality",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A manifest lists the cargo and passengers for a ship—carpentry for the hull and masts, blacksmithing your current voyage. If you have something you really don’t for the iron fittings and nails, sailmaking for the sails, want to declare to the customs officers, a fake manifest even ropemaking for the thousands of feet of hawsers, could be helpful (although it’s more common to just omit stays, and line necessary to rig the ship correctly. However, to list all your cargo on your real manifest). small craft such as canoes, rafts, and skiffs are all covered Owner’s Papers: Most civilized kingdoms require a ship under Craft (boatbuilding). to carry papers naming its owner, home port, or licenses A boatbuilder can handle any vessel of Huge size or smaller, for special trades, if any. You might find it convenient to although a single boatbuilder working on a ketch or launch of draw up convincing facsimilies of these documents as you Huge size might take six months or more to finish the work. need them, instead of dealing with time-consuming and Building a larger ship requires the skills of a shipwright (see costly paperwork. Knowledge). The chief difference between a shipwright and a boatbuilder is that the boatbuilder rarely works off HANDLE ANIMAL of any sort of plans, instead using various rules-of-thumb Clever animals with natural swimming ability offer a and his own skilled eye to build a serviceable vessel. unique way for a human to accomplish tricky work in Some sample Craft DCs for rafts and boats that can be water. Creatures such as porpoises or seals can swim faster created with the Craft (boatbuilding) skill appear below. and stay submerged far longer than a human can. Many animals don’t need to be taught to swim. Obviously, Crude raft DC 5 any creature with a natural swim speed is perfectly at home Dugout canoe DC 8 in the water. Animals without swim speeds might simply be Coracle DC 10 Well-made raft DC 10 inclined to swim or disinclined to swim. Chimpanzees, for Skiff DC 12 example, detest water and just don’t like to swim. Most dogs, Launch DC 15 by contrast, take to water with enthusiasm and will likely War canoe DC 18 carry out commands such as fetch or come even if they Pinnace DC 20 must swim in order to comply. The swim trick described FORGERY below is only necessary for animals that otherwise would In places where travel, trade, and war at sea are common- avoid entering water. place, governments naturally develop various licenses, Trick: In addition to the tricks described in the Player’s letters, and documents in order to regulate and administer Handbook, the following tricks are potentially useful in a the activities of those who travel by sea. A skilled forger marine setting. can be a valuable asset, especially for a captain or crew who Dive (DC 15): The animal dives into water as you direct, wish to pass off a stolen ship as their own vessel. possibly from heights far above what it would normally Some common nautical documents you might want to attempt. The animal can also swim underwater even if it forge include the following: normally would not do so. 85 FEATS SKILLS AND CHAPTER 4 Jump (DC 15): The animal performs a jump as you your body except for the last foot of your body length gets direct—either a long jump or a high jump. Swimming out of the water, at least for a moment. animals perform these jumps in water, while landbound Launch into Air: With a successful high jump that gets animals perform these jumps on land. you entirely clear of the water (a result of 0 feet or better), Swim (DC 15): The animal enters water and swims as you you can begin flying at an elevation of 5 feet (presuming direct or in the pursuit of accomplishing another trick. you have a fly speed). Most animals don’t need to be taught the swim trick; this is only used for teaching an animal to swim that otherwise KNOWLEDGE would not be inclined to do so. Several aspects of the Knowledge skill are vitally important",
+        "name":  "Many craft skills are required to fabricate various parts of Manifest",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "General purposes that might be useful in a to characters who venture out on the seas of the world. marine setting include the following. Ranks in a Knowledge skill measure more than just the Fishing (DC 20): An animal trained for fishing knows store of trivia a character has access to; they also measure a the following tricks: attack, come, dive, down, fetch, and character’s study in a specific field of technical expertise. seek. Diving birds such as cormorants are excellent fishers and are trained to fish on command in some lands. Knowledge (Architecture and Engineering) Messenger (DC 15): An animal trained as a messenger This skill encompasses the science of naval architecture, knows the following tricks: come, fetch, seek, and track. ship design, and construction techniques for large ves- Animal messengers can be fitted with small canisters or sels. To some extent it overlaps Craft (boatbuilding), but harnesses to carry short written messages. boatbuilding is the skill used to build small craft—vessels Rescue (DC 20): An animal trained for rescue knows the of size Huge or smaller. Building ships of Gargantuan or following tricks: come, defend, dive, fetch, seek, and work. Colossal size requires a shipwright, not a boatbuilder, and Strong swimmers such as porpoises can be trained to aid Knowledge (architecture and engineering) is the signature humanoids in water. skill of a shipwright. Large vessels exceed any normal application of the Craft JUMP skill, since they represent the collaboration of dozens Fast swimmers can hurl themselves entirely out of the or even hundreds of specialists, none of whom possess water in order to leap over a horizontal barrier such as a all the skills necessary to build a ship alone (unlike the net, dock, or jetty; to reach a target high over the water; boatbuilder, who must know at least a little bit about many or (in the case of creatures that can both swim and fly) to related skills such as ropemaking, sailmaking, carpentry, launch themselves into the air. and even ironwork). Instead of having each specialist make Some fish and aquatic animals are skillful jumpers separate Craft checks to fabricate individual components and routinely use this tactic to escape predators, avoid of a ship, the chief shipwright simply makes Knowledge obstacles, or surprise prey. Others simply lack the inclina- (architecture and engineering) skill checks to successfully tion. Barracudas have been known to throw themselves design and oversee the building of a large vessel. into boats and viciously bite, while sharks rarely do so. The DC of your shipbuilding check varies with the ship Creatures with swim speeds use their swim speed to you’re trying to build and the craftsmen and materials you determine their Jump skill modifier for jumps made in water, have on hand. The materials required to build a ship are gaining a +4 bonus for every 10 feet by which their swim speed equal to half the ship’s indicated price (see Chapter 5); in exceeds 30 feet. If their swim speed is less than 30 feet, they addition, you must pay the shipyard workers an amount take a–6 penalty for each 10 feet by which it falls short of 30 equal to one-quarter of the ship’s indicated price. feet. For example, a creature with a swim speed of 50 feet has a +8 bonus on Jump checks made from water. Creatures without Shipbuilding DCs swim speeds generally can’t make jumps out of water. Yard Build Ship DC Size Time",
+        "name":  "Purpose",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Handling a vessel in fast-moving waters requires a Profession (sailor) check modified by your vessel’s ship handling modi- fier. Check once per round. If you fail to steer a vessel through rough waters or vigorous currents, your speed falls to zero and you are simply swept along with the current, unable to turn or avoid obstacles until you regain control. Steer in vigorous current DC 8 Steer in dangerous current DC 18 Steer in irresistible current DC 28 Rivers with fast-moving water also cre- ate surfl ike conditions that might swamp or overturn your vessel, even if you are steering successfully. A vigorous current is treated like light surf; a dangerous current is equal to heavy surf; and an irresistible current is equal to very heavy surf. See Foundering, above. RIDE Warriors of several aquatic races sometimes make use of aquatic mounts such as sharks, porpois- es, or hippocampi. Even humans or other landbound humanoids have been known to ride surface- swimming creatures into battle. In Soveliss rides his mount general, all the rules for using the into a river Ride skill to control land going mounts apply to aquatic mounts, but it’s tougher to stay on an aquatic mount; the resistance of the water means that a fast-swimming ippillihP .M yb .sullI 89 FEATS SKILLS AND CHAPTER 4 mount can easily leave its rider flailing in the water Base Spotting Distance by Height behind it. ——— Object Observed ——— Height In Small Sailing Hilltop Swim a horse DC 10 of Eye Water Boat Ship or Peak Leap into water DC 15 Swimming 3d6×20 ft. 0.5 mile 1 mile 6 miles Change horses in mid-stream DC 25 Deck 0.5 mile 2 miles 6 miles 12 miles Ride aquatic mount underwater DC +5 Masthead 1 mile 6 miles 12 miles 25 to 50 miles Flying 1 mile 12 miles 25 miles 100 miles",
+        "name":  "Steering in Fast Currents",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Staying on a fast-swim- of 12 miles (masthead to masthead); if one vessel fails its ming mount underwater is difficult, because the water check, it automatically spots the other vessel when the resistance tends to push a rider off. Add +5 to the DC of range closes to 6 miles or less. any Ride check made underwater. A swimmer encountering another swimmer or low- lying object has an encounter distance of 3d6×20 feet. SPOT At sea, spotting another ship without being spotted your- SURVIVAL self gives you a great advantage—you can decide whether The open ocean is one of the most hostile environments to seek out or avoid meeting the other vessel. Assuming in the world. Food and drinking water are extremely hard good visibility (daylight, clear conditions), the basic spot- to come by; drinking seawater simply increases the rate ting distance to detect another vessel at sea depends on at which dehydration kills anyone unfortunate enough the height of the observer (swimming, deck, masthead, to be caught out at sea without fresh water to drink, and or flying) and the height of the other vessel or feature. mid-ocean waters can be surprisingly barren of fish to Choose the row corresponding the observer’s height of catch and eat. eye and the column corresponding to the size or height For nonaquatic creatures, surviving in the open ocean of the target. Peaks greater than 5,000 feet high can be without stores of food and water requires ingenuity and seen from quite a long distance. more than a little luck—a passing rainstorm for drinking",
+        "name":  "Ride Aquatic Mount Underwater",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "As a free action on your turn, you can select Benefit: You can hold your breath for 3 rounds per point one creature within 5 feet of you and give that creature of Constitution. You gain a +4 bonus on Constitution checks the ability to breathe water as easily as you do. This super- made to continue holding your breath. On a successful natural ability renews automatically for that creature until Swim check, you swim your land speed (as a full-round you direct the ability to another creature or withdraw your action) or half your land speed (as a move action). power from it (a free action). The creature’s ability to Your natural swim speed increases by 10 feet, if you have breathe water ends immediately if you are separated a swim speed. by more than 5 feet or if you die, at which point the Normal: You can hold your breath for a number of creature begins to drown if it is still underwater. This rounds equal to twice your Constitution before you are at ability does not hamper the creature’s ability to breathe risk of drowning. On a successful Swim check, you swim air, nor does it change the creature’s ability (or inability) half your land speed as a full-round action, or one-quarter to swim. your land speed as a move action.",
+        "name":  "Benefit",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You can select this feat more than once. Each time you take this feat, you can affect an additional creature FLYING FISH LEAP with this ability. All such creatures need to remain within You can hurl yourself out of the water with ease. 5 feet of you (not each other). If one creature exceeds the Prerequisites: Jump 8 ranks, Swim 4 ranks. range of this power, its subsequent distress has no effect Benefit: When leaping out of the water with a high on the other creatures you are helping. jump, you ignore the penalty on the Jump check. In addition, you can fling yourself over the surface of CLEVER WRESTLING the water when you make a high jump, leaping laterally You have a better than normal chance to escape or wriggle just as far as you leap vertically. Use the result of your free from a big creature’s grapple or pin. high jump check to determine the distance traveled with",
+        "name":  "Special",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Aquatic elves can survive out of water for 1 retains positive energy for a number of rounds equal to 1 + hour per point of Constitution; after this point they begin your Charisma modifier, and deals damage each round. to suffocate. Creatures unaffected by holy water are similarly unaf- fected by this ability. OLD SALT You are an old hand at shipboard life, having mastered the SCOURGE OF THE SEAS myriad skills that are required of the experienced sailor. You have a sinister reputation as a pirate and can intimidate Additionally, you have an eye for the weather. enemy captains by your mere presence.",
+        "name":  "Normal",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Full-round action and DC 10 Strength check to fire; see Fires, page 31. Creatures who fail their Reflex saves wind to half-cock; full-round action and DC 10 Strength against a firespout catch fire; see Catching on Fire on page check to wind from half- to full-cock; full-round action 303 of the Dungeon Master’s Guide. and DC 15 Profession (siege engineer) check to load stone; A firespout takes up a space 10 feet across and weighs two full-round actions to aim the catapult. Normal rate of 1,500 pounds. It takes 25 flasks of alchemist’s fire (25 fire one shot per six rounds. pounds, or 500 gp) to fill the firespout.",
+        "name":  "Reload",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Transforms tails, tentacles, or finned breathing, darkvision, and pressure immunity to extremities into humanoid legs and feet. one creature/3 levels.",
+        "name":  "Trans Fins to Feet",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Produces a strong wind that cal ship with extradimensional staterooms. lasts 10 min./level. Stormwalk: Teleport yourself and one creature/2",
+        "name":  "Evoc Favorable Wind",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Touch membrane. A creature so trans- but it can be removed with a remove",
+        "name":  "Range",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Effect: One summoned creature must immediately make a sinking Duration: 1 round/level (D) 116 6 RETPAHC DNA SLLEPS SMETI CIGAM",
+        "name":  "If a ship is in the area, the captain about the ship or ships",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Willing creature touched Medium 1d8",
+        "name":  "Target",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "V, S, M/DF takes the usual –5 penalty (or –2 Among creatures with equal HD,",
+        "name":  "Components",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1 round/level (D) If the subject hits with its bite a creature are wasted.",
+        "name":  "Duration",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "V, S, M/DF or smaller size are ejected from the category (see page 291 of the Monster",
+        "name":  "Components",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creature touched from the top. You retain the scent and swim speed",
+        "name":  "Target",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Ship plus extradimen- through its special portal, outside Those who succeed take 3d6 points of sional space, up to three 10-ft. conditions do not affect the passenger damage and are not buried. Creatures cubes/level (S) space, nor do conditions inside it pass of the fire subtype who are actually",
+        "name":  "Effect",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A sextant (see page Transmutation damage. Damage does not awaken 108). Level: Bard 1, druid 1, ranger 1, the charmed creatures. Seafolk 1, sorcerer/wizard 1 Focus: A conch shell.",
+        "name":  "Arcane Focus",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels) strange appearance, you gain a pen- Target: One creature/2 levels, no",
+        "name":  "Range",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Your mount Target: You and up to one other Target: One creature",
+        "name":  "Target",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "2 hours/level (D) creature for every two levels Duration: 10 min./level (D)",
+        "name":  "Duration",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A gold- critical hits. Creatures with the fire fish scale. subtype instead take 1d8 points of TURBIDITY damage per level. Abjuration TERN’S PERSISTENCE Level: Sorcerer/wizard 2",
+        "name":  "Arcane Material Component",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creature touched Target: You Saving Throw: None",
+        "name":  "Target",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A few Range: Touch a dangerous or stronger current (4 feathers or a pinch of guano from Target: One creature/3 levels or more knots) disperses it within a tern. Duration: 1 hour/level (D) 1 round.",
+        "name":  "Arcane Material Component",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Druid 4, sorcerer/wizard 5 The creature you touch undergoes of mud.",
+        "name":  "Level",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "V, S a transformation that allows it to 124 6 RETPAHC DNA SLLEPS SMETI CIGAM URCHIN’S SPINES Survival DC Each round a creature is in contact Transmutation Condition Modifier with the acid, it takes 1d6 points of Every 4 hours since the trail +1",
+        "name":  "Components",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creature touched damage per round and ignores the or stronger currents",
+        "name":  "Target",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One Medium or smaller object or creature/level, no two of which can be more than 30 ft. apart",
+        "name":  "Targets",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One summoned creature Casting Time: 10 minutes three fiendish dire sharks appear",
+        "name":  "Effect",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "For every 2 additional the presence of all creatures within power points you spend, you gain a 30 feet of you that are in contact with WATER-BORN +1 bonus on saving throws to resist the ship. Psychometabolism any powers that trigger the black- Level: Egoist 3, psychic warrior 3 water mind. HELMSMAN, TRUE Display: Visual, olfactory, auditory; Clairsentience see text",
+        "name":  "Augment",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Common (does not speak). Monster Manual), but it has the Intelli- Hold Breath (Ex): A giant turtle gence, Wisdom, and Charisma scores can hold its breath for 1 hour before given in its entry. Special abilities it risks drowning. whose save DCs depend on Consti-",
+        "name":  "Languages",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Solitary or covey (2–4) Size and Type: The creature gains the aquatic subtype,",
+        "name":  "Organization",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "7 but its creature type and other subtypes are unchanged.",
+        "name":  "Challenge Rating",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Usually lawful evil Speed: An amphibious creature gains a swim speed",
+        "name":  "Alignment",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "By character class equal to half the normal land speed of the base creature",
+        "name":  "Advancement",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— (not including any adjustments for feats, class features, or other effects). Though at first glance this creature appeared to be a well-propor- Special Qualities: An amphibious creature retains all tioned human, a closer look reveals a hideous face crowned with the special qualities of the base creature and also gains a mass of writhing, hissing snakes instead of hair, eyes glowing a the following special quality. deep, feral red, and scaly, blue-green skin.",
+        "name":  "Level Adjustment",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "An amphibious creature has a +8 racial bonus on normal human at distances greater than 30 feet (or closer, any Swim check to perform some special action or avoid if its face is concealed). The creature often wears gar- a hazard. It can move through water at its swim speed ments that enhance its body while hiding its face behind without making Swim checks. The creature can always a hood or veil. An amphibious medusa can be found in choose to take 10 on a Swim check, even if distracted or nearly every climate, both on land and underwater. This endangered. The creature can use the run action while particular amphibious medusa dwells in a large port city, swimming, provided it swims in a straight line. where it has become active in the criminal underworld to Environment: Any (usually aquatic). gain its desires, forming a robbery ring and organizing a Level Adjustment: +0. smuggling cabal. A typical amphibious medusa is 5 to 6 feet tall and ANGUILLIAN about the same weight as a human. Amphibious medusas speak Common. Medium Aberration (Aquatic)",
+        "name":  "An amphibious medusa is indistinguishable from a Skills",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Cold aquatic “Amphibious” is an inherited template that can be added Organization: Solitary, team (2–6 plus 1 dire eel), patrol to any humanoid or monstrous humanoid (referred to (5–10 plus 1 2nd-level subchief plus 1–2 dire eels), band hereafter as the base creature). (20–40 plus 1 2nd-level subchief per 20 adults and 1 137 MONSTERS CHAPTER 7 5th-level chieftain plus 2–5 dire eels), or tribe (60–100 plus 100% noncombatants plus 1 2nd-level subchief per 20 adults, and 1 5th-level chieftain per 40 adults, and 1 high chief of 6th–8th level plus 2–5 dire eels)",
+        "name":  "AMPHIBIOUS CREATURE Environment",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Squad (2–8), company (11–20 plus 2 and arms in long clothing. 3rd-level sergeants and 1 leader of 4th–6th level), or Aventi speak Common, and many also learn Elven and band (30–100 plus 20% noncombatants plus 1 3rd-level Aquan, the languages of their neighbors. kaloP .E yb .sullI 139 MONSTERS CHAPTER 7 BLACKSKATE Most aventi encountered outside their homes are warriors; the information presented here is for one of Large Undead (Aquatic) 1st level. Hit Dice: 4d12 (26 hp)",
+        "name":  "Organization",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Constrict 4d6+7, improved grab Abilities: Str 37, Dex 9, Con 14, Int —, Wis 11, Cha 2 143 MONSTERS CHAPTER 7",
+        "name":  "Special Attacks",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A darfellan has a +4 racial bonus on Handle sharks in terms of the threat they pose to adventurers in Animal checks when working with orcas, dolphins, seals, or around water. whales, and other marine mammals. The four creatures described here are not dinosaurs per A darfellan has a +8 racial bonus on any Swim check to se; they’re actually marine reptiles who are often found perform a special action or avoid a hazard. It can always near lands where dinosaurs exist. choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, ARCHELON provided it swims in a straight line. Huge Animal",
+        "name":  "Skills",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Space/Reach: 15 ft./10 ft. — +2 Strength, –2 Dexterity. Special Attacks: — —Medium size. Special Qualities: Hold breath, low-light vision —A darfellan’s base land speed is 20 feet. In water, a Saves: Fort +16, Ref +2, Will +5 darfellan has a swim speed of 40 feet. Abilities: Str 28, Dex 7, Con 22, Int 2, Wis 13, Cha 7 — Hold Breath (Ex): A darfellan can hold her breath for Skills: Listen +11, Spot +6, Swim +17 a number of rounds equal to 8 × her Constitution score Feats: Great Fortitude, Toughness (×4) before she risks drowning. Environment: Warm aquatic — Natural Attack: A darfellan has a natural bite attack Organization: Solitary or pair that deals 1d6 points of damage. Challenge Rating: 8 — Echolocation: A darfellan has blindsense out to 20 feet Treasure: None when in water. Alignment: Always neutral — Racial Hatred: A darfellan has a +2 racial bonus on Advancement: 13–24 HD (Huge); 25–36 HD (Gargantuan) attack rolls and damage rolls against sahuagin. Level Adjustment: — —Automatic Language: Darfellan. Bonus Languages: Aquan, Common. This huge turtle is easily 15 feet from nose to tail, with a powerful beaked jaw. Its feet are large, paddlelike flippers. —Favored Class: Barbarian. 145 MONSTERS CHAPTER 7 The archelon is a large, primitive sea turtle. While it often feeds on floating carrion or shellfish it digs up out of the mud, it is highly aggressive and is not afraid to come up out of the water in order to reach a meal on shore. Combat The archelon attacks with a snap of its oversized jaws. Hold Breath (Ex): An archelon can hold its breath for a number of rounds equal to 10 × its Constitution score before it risks drowning. For a typical archelon, this is 220 rounds, or 22 minutes.",
+        "name":  "Darfellans possess the following racial traits",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+3 Dolphinlike in appearance, this creature has a long, narrow jaw filled with countless small, sharp teeth. It is large and fast, with",
+        "name":  "Initiative",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— distracted or endangered. It can use the run action while swimming, provided it swims in a straight line. pqqqqqqqqqqqqqqqqqqqqrs DINOSAUR NAMES IN EBERRON In the world of Eberron, where dinosaurs and related giant rep- Scientific Name Common Name Draconic Name tiles are fairly common, people do not use the names of these Archelon Giant snapper Haka’hurak’aan creatures bestowed upon them by real-world paleontologists. Ichthyosaur Maultooth Ka’khuva’ost The following table indicates the Common and Draconic names Mosasaur Sea render Vharag’ost of the giant marine reptiles described in this book as they are Plesiosaur Fintail titan Haka’paharan’ost used in Eberron—and perhaps in other worlds. pqqqqqqqqqqqqqqqqqqqqrs Illus. by F. Hooper 146 7 RETPAHC SRETSNOM MOSASAUR (AC 13). Once the creature exits, muscular action closes Huge Animal the hole; another swallowed opponent must cut its own",
+        "name":  "Level Adjustment",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Improved grab with flippers instead of feet and a finned tail. Its huge jaws are",
+        "name":  "This fearsome reptilian creature has a long, crocodilian body, Special Attacks",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Listen +9, Spot +9, Swim +27 out of anything smaller that it comes across. It can grow to Feats: Alertness, Great Fortitude, Improved Initiative, a length of 40 feet or more, counting its long tail. Improved Natural Attack (bite), Rapid Swimming*, Swim-By Attack*",
+        "name":  "The mosasaur is a voracious beast that tries to make a meal Skills",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "See text sea elf village, and the community’s druids are especially Alignment: Always neutral attentive to these creatures, seeing them as emissaries Advancement: 17–24 HD (Huge); 25–32 HD (Gargantuan) of the water spirits. The animals also assist in defending Level Adjustment: — the settlement. Eadro, the patron deity of merfolk, tritons, and locathah, A creature composed of beautiful, sharp coral lurches forward with four thick coral legs. Stemming from its core are four semi- receives some worship, but most sea elves honor Deep hollow coral arms bristling with sharp, colorful fl anges. Sashelas (see page 49). Coral golems are dazzlingly beautiful creations, built to GOLEM, CORAL guard undersea lairs and sunken treasure troves. They can Huge Construct (Aquatic) be constructed from coral of any color.",
+        "name":  "Porpoises, and occasionally orcas, are never far from a Treasure",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Solitary, gang (2–4), or crew (11–20 plus giving it fast healing and an effectively unlimited supply 2 mates of 3rd level plus 1 captain of 5th level and 5–8 of coral stars. noncombatant cabin boys) Stun (Ex): Any creature struck by a coral golem’s slam Challenge Rating: 1/2 attack or coral star must succeed on a DC 18 Fortitude save Treasure: Standard or be stunned for 1 round (until the beginning of the coral Alignment: Often neutral golem’s next turn). The save DC is Constitution-based. Advancement: By character class",
+        "name":  "A damaged coral golem regrows lost coral quickly, Organization",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Aquan, Elven, Halfl ing. Hammerclaws wait to begin a combat until their foe —Favored Class: Rogue. wanders within range of their sonic bolt. They seek to quickly stun their prey, then scuttle forward to nosleN .J yb .sullI 153 MONSTERS CHAPTER 7 seize and devour the hapless victim before it r ecovers from its stunned state. Constrict (Ex): A hammer claw deals 2d6+4 points of damage when it wins a grapple check. Improved Grab (Ex): To use this ability, a hammer claw must hit an opponent of its own size or smaller with a claw attack. It can then at- tempt to start a grapple as a free action without provoking attacks of op- portunity. If it wins the grapple check, it establish- es a hold and can constrict. Sonic Pulse (Su): A hammerclaw can create a deadly cone of sonic energy by snapping its great claw. This cone has a range of 30 feet. Any creature within the area takes 4d6 points Hammerclaw of sonic damage and is stunned for 1d4 rounds. A DC 16 Fortitude save negates the stun and halves the damage. The save DC is Constitution-based. Organization: Solitary, pair, or pod (5–12) Amphibious (Ex): Although the hammerclaw is Challenge Rating: 2 aquatic, it can survive indefi nitely on land. Treasure: None",
+        "name":  "Languages",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Nereids have a +8 racial bonus on Hide checks underwater because of their near transparency while submerged. A nereid has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line. Ramfish pqqqqqqqqqqqqqqqqqqqqrs POWERFUL CHARGE A creature with this feat can charge with extra force. This feat only works when the creature makes a charge. It",
+        "name":  "Skills",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Medium or larger, base attack bonus +1. does not work when the creature is mounted. If the creature has",
+        "name":  "Prerequisites",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "When a creature with this feat charges, if its melee the ability to make multiple attacks after a charge, it can only attack hits, it deals an extra 1d8 points of damage (if it is of Medium apply this extra damage to one of those attacks. size). For Large creatures, the extra damage is 2d6 points; for Special: A fighter can select Powerful Charge as one of his Huge, 3d6; for Gargantuan, 4d6; and for Colossal, 6d6. fighter bonus feats. pqqqqqqqqqqqqqqqqqqqqrs rekaB .D yb .sullI 157 MONSTERS CHAPTER 7",
+        "name":  "Benefit",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Cold aquatic home stretch of sea, since they hunt most creatures smaller Organization: Solitary than themselves. They themselves are rarely hunted, for Challenge Rating: 13 usually only large monsters such as dragon turtles and Treasure: Double standard krakens can successfully hunt them. Alignment: Always lawful evil",
+        "name":  "A school of ramfi sh often completely dominate their Environment",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "17–24 HD (Huge); 25–32 HD (Gargantuan) elves and locathah, who use them as beasts of burden Level Adjustment: — or guardian creatures. The process is simple: Since the *New feat described in Chapter 4. ramfi sh is very protective of its school, its masters simply imprint themselves with the creature, causing it to con- A monstrous creature rises from the black water, its upper body a mass of lashing tentacles surrounding two fearsome claws. sider them part of its school. A toothy maw gapes in its fi shlike head. COMBAT Scyllans are descendants of the fabulous Scylla, an When possible, a ramfi sh leads off its aggressions by ancient fi endish sea monster (some say archdevil) with using its Powerful Charge feat (see the sidebar) to deliver six snaky heads. Today, these lesser fi ends primarily a devastating ramming attack. If it wishes to separate prey inhabit the frozen ocean of Stygia in the Nine Hells from a group, it uses Improved Bull Rush instead. When of Baator, but many have adapted to the relatively mild delivering a bull rush at the end of a charge, the ramfi sh’s oceans of the Material Plane. A typical scyllan is about total bonus on its Strength check is +11. 20 feet tall and weighs around 10,000 pounds.",
+        "name":  "Ramfi sh have been successfully domesticated by aquatic Advancement",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— This patch of water shines like mother-of-pearl. Tiny, clear- bodied jellyfi sh, almost invisible in the water, drift beneath the surface. Jellyfi sh swarm Illus. by J. Nelson 162 7 RETPAHC SRETSNOM +2 racial bonus. A creature that fails either Fortitude save (DM Tip: Take note of the PCs’ Spot checks and AC is also stunned for 1 round. before running an encounter with a leech swarm. Record Swarm Traits (Ex): See page 316 of the Monster damage dealt by undetected leeches, but do not inform Manual. the player of the damage until his or her character notices Tremorsense (Ex): A jellyfish swarm can detect and the attack.) pinpoint any creature in the water within 30 feet. Anesthetize (Ex): A creature attacked by a leech",
+        "name":  "Level Adjustment",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A jellyfish swarm has a +8 racial bonus on Hide deep. Each round of blood drain entitles the creature to due to its near transparency. another Spot check to notice the leeches, with a cumu- A jellyfish swarm has a +8 racial bonus on any Swim lative +2 bonus on the check per round after the first. check to perform some special action or avoid a hazard. Characters attacked in clear water, or who have some It can always choose to take 10 on a Swim check, even if means of detecting the leech swarm without seeing it, distracted or endangered. It can use the run action while notice the attack automatically. swimming, provided it swims in a straight line. Blood Drain (Ex): Any living creature damaged by a leech swarm also takes 1 point of Constitution damage LEECH SWARM as the swarm drains its blood. This damage repeats every Fine Vermin (Aquatic, Swarm) round thereafter unless the creature successfully exits the",
+        "name":  "Skills",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Swim 10 ft. (2 squares) Disease (Ex): A creature damaged by a leech swarm",
+        "name":  "Speed",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Str 1, Dex 11, Con 8, Int —, Wis 12, Cha 2 Swarm Traits (Ex): See page 316 of the Monster Manual.",
+        "name":  "Abilities",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— above statistics describe an alligator snapper, an especially large and dangerous version with a spiked shell and a bad Seals generally avoid humanoids, but they are often attitude. It can grow to 3 feet in length and weigh over hunted for their pelts. Adult bulls can reach 500 pounds 200 pounds. in weight. Females are considerably smaller, weighing about 200 pounds. Combat Snapping turtles lie in wait on the muddy bottoms of ponds Combat and sluggish streams, with their mouths gaping open to reveal Seals can be territorial, defending their chosen patch of a fleshy, wormlike lure. Fish that investigate are grabbed and the shore with a vicious bite. swallowed whole. A snapper that is molested, or that thinks Hold Breath (Ex): A seal can hold its breath for a number of its territory is in danger, does not hesitate to attack creatures rounds equal to 6 × its Constitution score before it risks drown- much larger than itself. Unlike other turtles, a snapping turtle ing. For a typical seal, this is 84 rounds, or over 8 minutes. cannot retract its oversized head into its shell.",
+        "name":  "Level Adjustment",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Str 12, Dex 8, Con 15, Int 1, Wis 12, Cha 4 flat-footed 12 pqqqqqqqqqqqqqqqqqqqqrs TERRESTRIALLY ADAPTED AQUATIC CREATURES such creatures come ashore to feed, then quickly return to the Just as these guidelines can be used by DMs to create water- sea. Examples could include flying fish, arboreal octopi, sharks adapted creatures, so too can aquatic creatures be adapted to that wriggle up on the beach after prey, and the like. They might venture out of the water (just as in the real world some catfish be relatively harmless (the tree-climbing octopus might be after are able to cross short patches of dry land). Such terrestrially coconuts and only occasionally try to crack a character’s head adapted creatures gain at least a minimal land speed (between by mistake) or perilous in the extreme (for example, a flying 10 and 20 feet) and the hold breath exceptional ability. Typically piranha swarm). pqqqqqqqqqqqqqqqqqqqqrs 169 MONSTERS CHAPTER 7 Base Attack/Grapple: +0/–5 First, they gain the ability to hold their breath. This",
+        "name":  "Abilities",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Poison on the creature. Only after this period does the normal",
+        "name":  "Special Attacks",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Str 8, Dex 17, Con 11, Int 1, Wis 12, Cha 4 Second, water-adapted creatures become adept at moving",
+        "name":  "Abilities",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Solitary, pair, or school (5–12) the half-speed imposed on land creatures in the water (see",
+        "name":  "Organization",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "*When it is lying still along the seafloor, a are expert swimmers, unlike most spiders. stingray has a +4 racial bonus on Hide checks. A monstrous diving spider has the same statistics as a A stingray has a +8 racial bonus on any Swim check to typical monstrous spider (see pages 288–289 of the Monster perform some special action or avoid a hazard. It can always Manual), with the following adjustments: choose to take 10 on a Swim check, even if distracted or Speed: A monstrous diving spider gains a swim speed endangered. It can use the run action while swimming, of 30 feet. provided it swims in a straight line. Special Attacks: A monstrous diving spider retains all the special attacks of the typical monstrous spider, with one change. VERMIN AND ANIMALS, Web (Ex): Monstrous diving spiders cannot throw a web WATER-ADAPTED net, nor do they create sheets of sticky webbing.",
+        "name":  "Skills",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A sea snake has a +8 racial bonus on any Swim casters summoning creatures. The template is intended to check to perform some special action or avoid a hazard. represent those rare, once-in-a-generation throwbacks or It can always choose to take 10 on a Swim check, even if mutations from a terrestrial standard and not entire strains distracted or endangered. It can use the run action while of creatures just waiting to be summoned into play. swimming, provided it swims in a straight line.",
+        "name":  "Skills",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Not every ship that comes along larly the ruin of the Saucy Sirine. They have developed is taken in by the Daughters, but over time the disap- quite a variety of hunting techniques and often prowl pearances are bound to be noticed. The heroes might be among the rocks seeking bird nests for eggs to supple- searching for one such ship and fi nd the trail leads to ment their normal diet of fi sh, crabs, and shellfi sh. They Shatterhull Isle. The hags are wary of any ship that chooses consider the coming of humans and other such creatures to approach their isle and refuse to approach such a ship a time for luxurious feeding: Those who are trapped by directly, though they set up their defenses (especially the the Daughters not only make for good eating themselves creation of a false safe harbor with mirage arcana). If the but usually come provisioned with alcohol and other ship seems to be crewed by particularly dangerous folk, such treats. the Daughters of Mahogra utilize their control weather Though initially there was all the jockeying and violence ability to either try to drive the ship away or to make that comes from such brutes trying to determine a peck- its arrival perilous, typically forcing the ship to take ing order among themselves, the ogres have established advantage of the apparent safe harbor. themselves well enough to work together and regard one another as kin. The process, however, left quite a few of them dead. This didn’t concern the Daughters, who used the available corpses to master their covey ability to cast animate dead. These zombies have been put to good use as guardians and servants in the caverns below. The ogres of the island avoid the caverns unless they are directly ordered to attend the Daughters in their lairs—a thankfully rare occur- rence in the eyes of the ogres. The hags dwell in separate chambers within the complex, avoiding one another Shatterhull Isle awaits its next victim Illus. by M. Phillippi 182 8 RETPAHC ERUTNEVDA SELACOL for the most part while they tend to their own schemes 1. Hulk of the Saucy Sirine (EL 6) and plans, each recruiting one of the others only when This beached ruin of a ship is home to the majority she needs the powers of the covey as a whole, or simply of the ogres on Shatterhull Isle. It is here that they an extra devious mind. retreat when the demands of the hags become too much Beneath the water’s surface, caverns and fissures honey- for them. Because space is at a premium (especially comb the pillar of volcanic rock that makes up Shatterhull given that much of the vessel’s interior was gutted in Isle. One natural shaft (area 14) descends from the Food its running aground and is now a waterlogged ruin), Larder (room 13) into a large marine cavern (area 18; not the ogres tend to fight frequently for sleeping space. depicted on map) below the surface of the water. The The strongest among them take the choice spots; the surface of this chute is very slippery, but the hags have weaker ones sleep where they can, often waiting until dug handholds in the slimy rock and it now serves as their the bigger ogres have vacated a preferred sleeping spot favored route for entering and exiting their lair. before resting.",
+        "name":  "Seeking the Lost",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Most of the wrecks sit below The interior of the Saucy Sirine is about equal parts loose the surface of water, just out of sight when the light rock and sand or splintered decking and hull planks. The is poor but close enough to cause significant damage to terrain is considered difficult, requiring 2 squares of move- any ship that sails directly over them. In poor lighting ment to pass through each square here (see page 148 of the (dusk, dawn, night, bad weather), characters standing Player’s Handbook); the DC on Tumble checks made inside watch or lookout on a ship approaching the isle must the hulk increases by 5. The carved figurehead of the ship, succeed on a Spot check (DC 15) to see the wrecks. If the depicting a lovely mermaid with two fish tails, has been wrecks aren’t spotted, a good captain can still navigate dragged into the remnants of the ship’s hold, where most the area without collision, but it’s a DC 20 Profession of the ogres dwell. (sailor) check to do so. Ogres (3): hp 29 each; see page 199 of the Monster Manual.",
+        "name":  "Hazardous Waters",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "hp 19; see page 144 of the Monster alcove in the southwest corner of her room and another Manual. in a similar alcove to the northeast. Should her visitors Ogre Zombies (2): hp 60, 45; see page 267 of the Monster prove belligerent, she maneuvers potential foes toward Manual. these parts of the room in case she needs to give the com-",
+        "name":  "Kurula, Sea Hag",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Kurula possesses some 400 gp worth of sea- mands from its mistresses. Because of the small size of faring maps, scavenged from shipwrecks, hidden away in the chamber, there is never any more than a single zombie an unlocked chest in the northeast alcove behind the ogre here. Should any of the ogres die during the PCs’ assault, zombie. The map-chest also holds neatly stacked silver and their corpses are brought here at the first opportunity gold coins (900 sp, 120 gp) plus an elegantly crafted silver for preparation. necklace and ring, both done in a wave-and-sunburst motif, The stench of the dead-chamber is nearly overpower- with a sunstone set in both (500 gp for the necklace, 350 ing, turning the stomach of most who enter. Seaweed gp for the ring). is piled high—the hags have the zombies bring in armfuls of seaweed to cover and soak up the inevitable 9. Gakara’s Lair (EL 6 or 7) viscera that ends up in a chamber used for this kind of Gakara is the savage one among the sisters. She main- purpose. The chamber floor is slippery and foul (difficult tains a massive chamber as her own, where she keeps terrain; see area 1 above), crawling with all manner of the bones of past prey to crack and gnaw upon when her scavenger crabs and other small creatures that have temper becomes frayed. She has learned better than to been inadvertently brought into the room with loads try and take it out on her sisters, though the surviving of seaweed. ogres know not to get in her way when she comes stalk- Ogre Zombie: hp 44; see page 267 of the Monster ing down the side of the mountain with murder in her Manual. eyes. Gakara also holds the loyalty of the Daughters’ Disease: The filth in the room is palpable. Those moving strongest servant—the ettin Ulf-Tharg, who can usually through the room with open wounds are considered be found here. to have been exposed to filth fever (see page 292 of the The chamber itself is horribly filthy, littered with the Dungeon Master’s Guide). remains of Gakara’s past meals. Gakara sleeps in the Nausea: The foul sights and smells of this place provoke southwest corner of her room upon a set of wooden pal- nausea in anyone who fails a DC 12 Fortitude saving throw. lets covered with cast-aside furs, tapestries, and blankets Characters who succeed on this check are merely sickened taken from the ships that the Daughters have lured to (see Condition Summary on page 301 of the Dungeon their doom. Though many of these were once worth Master’s Guide). The hags are accustomed to the smell and quite a bit of money, they are now filthy and tattered hence immune to its effects. and worth nothing. Gakara isn’t here when the PCs first enter (she’s cur- 11. The Eye Cavern rently up at the Hag’s Watch Cavern, area 17), unless the This cavern serves a very specific purpose for the Daugh- hags have discovered the presence of intruders. ters of Mahogra—it is where their hag’s eye gemstones Ulf-Tharg, Ettin: hp 61; see page 106 of the Monster are created. A large fire pit over which a cauldron is hung Manual. dominates the cavern. This cauldron contains a foul-smell-",
+        "name":  "Treasure",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "hp 25; see page 144 of the Monster ing soup of weird components. Semiprecious stones steep Manual. in this noxious boiling liquid, infusing them with the",
+        "name":  "Gakara, Sea Hag",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "hp 41; see page 194. Grp +9 Atk Options 2 rakes +7 melee (1d4+2) Abilities Str 19, Con 18 Typical Priestess CR 7 Female sahuagin cleric 5 LE Medium monstrous humanoid (aquatic) 3. Library Init +1; Senses blindsense 30 ft., darkvision This space once held inscribed shells and coral tablets con- 60 ft, Listen +8 (+12 underwater), Spot +8 taining the temple lore, and scrolls of eelhide detailing the (+12 underwater) history of the settlement. The clerics took the sacred texts Languages Aquan, Sahuagin, speak with sharks when they abandoned the shrine, and the more perishable 197 LOCALES ADVENTURE CHAPTER 8 scrolls left behind have rotted away over the years with means that those in their quarters can readily hear and no one to care for them. Naatrigitt has brought some of respond to sounds of combat in the commons. There is a the coral tablets back to the site and is storing them here, 50% chance the captain is in his quarters or supervising although her plan is ultimately to have them enshrined some training from the top of the dome. In addition, there within the main temple. In the meantime, they stand on a is a 40% chance that 1d3 tame sharks have been allowed low shelf carved into the shell’s lining near a massive stone inside; if so, they swim lazily around, looking for attention table. Each tablet weighs 20 pounds; reading them grants or tidbits. a +2 bonus on Knowledge (religion) checks concerning Exterior Coral Walls: 3 ft. thick; hardness 7; hp 480 Sekolah’s worship. per 10-ft. section; break DC 45; Climb DC 22. The tubular passage continues on the right and into Large Sharks (1d3): hp 38; see page 279 of the Monster the ceiling, leading to the upper level of the building. The Manual. sloped ceiling averages about 10 feet in height. Sahuagin Sentry: hp 25; see page 192.",
+        "name":  "Sahuagin Underpriestess",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The characters could find them- rift in the ocean floor. On the slopes of this submerged selves running afoul of Tamoreus’s territorialism when mountain is a small village of stone and deepwater coral, the ship they are sailing in is blown off course. Most around which many dire eels and other less dangerous ships that skirt the Tamorean Vast cut just along the edge creatures swim. This village, called Tamoreus’s Watch, of the Vast proper, and sometimes even unknowingly is home to a tribe of anguillians. Though they were few move slightly into it. A sudden squall could easily force when they originally arrived, the anguillians have had a a ship into the depths of the Vast before the captain generation to rebuild their numbers and are now thriving knows what has truly happened—until the mists settle in their new home. in around his ship, the sailors begin to wail, and a mighty But they are not the true power here, for they are simply black shape rises up directly beneath the ship from the the servants of the outcast storm giant and his companion, storm-tossed waters. the dragon turtle Galoril. While the anguillians dwell on",
+        "name":  "Blown Off Course",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "hp 66; see page 193 of the Monster Ugrushaa knows that she plays a dangerous game, but Manual. her brood are well trained on how to defend themselves.",
+        "name":  "Ikashli, Water Naga",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  " smallest of the three, are 800 gp and a ring of climbing. The ENCOUNTER TABLES other chests contain 1,500 gp and 2,000 gp, respectively, all stacked in neat rows. These coins are from a variety The encounter tables provided here are divided into marine of surface nations. encounters (encounters in seas or oceans) and river and 8E: Intended to one day act as the chambers of the lake encounters (encounters in freshwater, including palace’s majordomo, this empty chamber currently serves marshes or swamps). The encounter tables for subter- merely as a passage between the main tower proper and ranean waters are divided into Upperdark, Middledark, and Lowerdark encounters, depending on whether the the treasury. creatures in question are commonly found close to the surface or deeper below the earth. 9. Clan Tower Monsters from two supplements have been included At some point in the future, this tower will be used to in these tables. A superscript notation after each monster provide homes for major vassals within the tribe that indicates the source: MM2 for Monster Manual II, FF for Tamoreus intends to create. Each level of this tower Fiend Folio. (If you don’t have one of these books, roll will have access to three very large chambers, with the again if necessary.) An asterisk designates a new monster central tower room intended for communal uses, includ- described in Chapter 7 of this book. ing meals. The rooms of this tower are very roughly",
+        "name":  "APPENDIX",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "If you get this result on a subter- mostly unadorned. ranean waters table (see below), roll a random encounter based on the dungeon level or the underground terrain. 10. Clan Tower Like the other clan tower (area 9), this area is intended SUBTERRANEAN WATERS to one day serve as daily living quarters for Tamoreus’s The deeper you go, the more dangerous the encounters. tribe. It lies only partially completed, with the rubble of The Upperdark includes caverns and dungeon systems construction strewn hither and yon. The quarters that that often have communication with the waters of the branch off the clan tower are not yet completely shaped, surface world. and Tamoreus hasn’t bothered to find any defenders for The Middledark consists of the deepest cavern lakes, this area. some of which could lie miles below the surface. Lowerdark waters are generally great, sunless seas, into 11. Escape Chimney which the waters of the levels above eventually drain. Constructed almost as an afterthought, this chamber Marine creatures that are native to warm or temperate connects the gaol tower (area 6), Tamoreus’s bedchambers aquatic environments that appear on these encounter (room 8A), and his throne room (room 7). In the roof tables are generally freshwater subterranean variants of that creature type. For example, ixitxachitl are native of this chamber is a natural opening in the stone large to warm aquatic environments, but a freshwater variety enough to allow a creature of up to Huge size to easily appears on the Middledark and Lowerdark tables. swim upwards through a tunnel in the rock. The tunnel eventually opens up in the side of one of the seamounts GROUP DESCRIPTIONS that make up the Tamorean Vast range, about half a mile Each of the groups described below has an average away from Tamoreus’s Watch proper (a 10-minute swim Challenge Rating that determines where it appears on the for a creature with a swim speed of 30 feet). The opening tables. Since the number of creatures appearing in a group is not particularly difficult to find for anyone making a (and often their class levels as well) is variable, a given dedicated search of the area (Search DC 20), but there is group can appear as an encounter at a number of different nothing on the outside to distinguish it from dozens of Encounter Levels. When characters encounter a group at similar pits, fissures, cavities, and rents in the rock scat- an EL more than one lower than that group’s average CR, tered throughout the region. you should choose numbers and levels toward the low end Though Tamoreus is convinced this exit is quite secret, of the range rather than just letting die rolls determine the water nagas know of the location of this tunnel. In fact, the composition of the groupr. Similarly, for an encounter it is the core of the network of tunnels they themselves at an EL more than one greater than the group’s average use to get around, though most of the tunnels used by the CR, skew the numbers encountered and the levels of the naga sisters are too small for Tamoreus. individuals toward the high end of the range. 213 APPENDIX",
+        "name":  "Dungeon Encounter",
+        "source":  "stormwrack_mastering_the_perils_of_wind_and_wave.txt",
+        "_id":  "aff5d495e7754d315a1fa4bb6535ac087e9681bacb8253ba3e13d810992abf1d"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "113 miles or more +5% Nearby Features in the Some strongholds guard lonely mountain Metropolis (100,000 gp) Less than 1 mile +10% Campaign passes many days’ travel from the nearest 1–16 miles +7% 17–48 miles +5% city. Other strongholds have settlements If characters seeking a price 49–112 miles +0% grow up around them, the communities break put their strongholds in 113 miles or more +4% thriving under the protection the strong- the middle of a valley beyond hold provides. the frontier surrounded by Regardless of location, your stronghold The Importance of Primary Settlements monster-infested hills on all must have a settlement it relies on for any Since your primary settlement serves as the place sides, let them. They have goods it can’t make itself—everything where you purchase and requisition everything you given you spice for countless from necessities such as food to luxuries need for your stronghold, you have to respect its limits. adventures since they protect such as platinum candlestick holders. For example, you can’t buy adamantine walls in a small what’s rightfully theirs and Other smaller or larger settlements may be town. They can’t afford to make them, much less sell pacify the surrounding coun- near your stronghold, but the inhabitants them to you. Alongside each settlement size, the table tryside. The stronghold they of your stronghold travel to this primary notes the gold piece (gp) limit for purchasing compo- create makes your job as DM settlement to hire new staff members and nents, walls, and wondrous architecture. Refer to Gen- easier. You can create an excit- ing site-based adventure— purchase needed supplies. erating Towns in Chapter 4 of the DUNGEON MASTER’s For your stronghold, identify which set- Guideto review the limits of communities. and your players have done tlement serves as its primary link to civi- As a result, most castle builders eventually decide to the mapping for you. lization. Your decision affects the price of rely on a large city or metropolis. Builders of especially It is possible to go too far. your stronghold in two ways: availability of large, lavish, or expensive strongholds don’t have any Players will quickly tire of every materials and labor, and price of real estate. choice, but builders of smaller castles may be able to adventure being interrupted If you build your stronghold far away from find a price break by selecting a site that allows them by yet another threat to their sources of labor and materials, your strong- to take advantage of less populated communities. stronghold. Worse, they’ll be hold costs more. Conversely, real estate reluctant to leave their strong- tends to be more expensive near larger set- Nearby Features hold for fear it’ll be captured tlements. Even though labor and materials Nearby unusual features also modify your stronghold’s while they’re away. Threats to are readily available, it’s expensive to build cost. A stronghold atop a mesa is hard to assault and a PC’s strongholds are like a new castle inside the metropolis of Grey- thus more valuable, while one near an evil forest might strong spice—they add a lot of hawk because of high land prices and lim- be less valuable because it’s constantly beset by mon- flavor, but they’re best used ited availability. You must balance these ster attacks from the woods. sparingly. two factors when selecting your strong- With your DM’s approval, you can build your strong- hold site. hold near benign features such as a consecrated shrine The presence (or absence) of thorps, hamlets, and or malign features such as a monster lair nearby. 6 villages doesn’t change the price of your stronghold. Choose as many as you like from Table 1–3. For terrain features, you can choose the same feature more than once to cover more than one direction. If 620_88166_001_StrngBuild3a.qxd 1/24/02 2:31 PM Page 7 CHAPTER 1: BUILDING A STRONGHOLD you pay an extra 8%, for example, you can have a river price annually as pure profit—above and beyond labor on both the north and east sides of your stronghold. costs and other expenses. You must supply living quar- It’s also possible to mix good and bad terrain features ters for the workers needed (20 per income source) if in this way. The land to the west of your stronghold you want them protected behind the walls of your could slope away (impeding normal movement) but be stronghold. heavily wooded (making attacking easier), resulting in Potential income sources require some",
+        "name":  "Behind the Curtain",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  " no net modifier to your stronghold’s cost. work before they start generating income. Brightstone Keep Income sources can be purchased multiple times as You may accomplish this by spending Karlerren, a 12th-level wizard, well. This can represent multiple income sources, or an an additional 5% of the stronghold’s final wants a small keep to act as a income source that’s more lucrative. cost at some point (essentially purchas- home base for her fellow ad- ing a controlled income source in two in- Table 1–3: Nearby Feature Modifiers to venturers. The characters re- stallments). This expenditure covers the Stronghold Price income source’s start-up costs. Alter- cently cleared out a diamond mine infested with undead Characteristic Modifier natively, you can complete an adventure Natural feature that impedes normal movement +2% such as clearing the gem mines of un- slaves, and the king has Natural feature that prohibits normal movement +4% charged them with protecting dead or completing a diplomatic mis- Natural feature that makes attacking easier –2% the mine. sion to earn timber-harvesting rights Site under legal dispute –5% Brightstone Keep will be Site in lawless area –10% from nearby centaurs. built up in the mountains Site controls income source +10% Some ideas for income sources in- (which earns Karlerren a 5% Nearby potential income source +5% clude crops harvested nearby, ranching discount on hewn stone walls). Site hidden from long-range observation +5% and horse-breeding, a toll road, gem or Monster lair nearby special* It’s sixty miles from the near- precious metal mines, a timber opera- *See text below. est small city, Trueoak, which tion, or a travelers’ inn. makes the keep 1% more ex-",
+        "name":  "Site Example",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "If your site is under legal dis- what lives there, it may be possible to pute, it means that someone else has a claim on your handle the problem diplomatically. To stronghold or the land it sits on. Perhaps a noble earn the price break, the nearby monsters must at least family technically owns the land, but no members of initially be hostile. To determine the price break, find the family have been seen for a decade. Maybe the encounter in the lair with the highest EL, and sub- another nation believes that any stronghold near tract 3. Then add 1 for every additional encounter (up their border belongs to them. Exactly who disputes to three) within 1 EL of this encounter. The final price the site’s status and how they’ll enforce their claim is break shouldn’t be greater than the highest EL in the up to the DM. lair unless particularly unusual circumstances dictate",
+        "name":  "Legal Status of Site",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "When creating this augmentation, choose concealment (50% miss chance, and sight can’t be used one face of the wall. Whirling blades cover the chosen to locate the target). side of the wall. Any creature touching the bladed wall The fog veil disperses in a moderate wind (11+ mph) suffers 11d6 points of damage per round (Reflex save in 4 rounds. A strong wind (21+ mph) has the same DC 19 halves). effect in a single round. Once the winds die down,",
+        "name":  "Bladed",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The stronghold can withstand the PortalOperation pressures of the deep sea, able to travel to depths as Creatures who touch or pass through the area of the great as twenty miles below the sea. If the inhabitants portalare instantly teleported to the locale the portal’s need to breathe air, the stronghold must have the air- builder specified. (The teleportation effect is similar tight augmentation. Without locomotion (see Table to teleport without error cast by a 17th-level caster, 2–12: Stronghold Locomotion), the stronghold sits on except that interplanar travel is possible.) It is not the seafloor and does not move. possible to poke one’s head through a portal to see",
+        "name":  "Submersing",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The stronghold can teleport without dimensions. error as a whole once or more per day. In a single round, If a solid object blocks the destination, the portal it disappears from one location and appears in another. does not function. Creatures, however, do not block",
+        "name":  "Teleporting",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Door, chest, or portal touched, up to 30 sq. By binding a powerful monster to the roof of your ft./level in size stronghold, you send a warning to all around you that",
+        "name":  "Target",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "350 gp (Clr5) If you die, the creatures will eventually get free to plague the area.",
+        "name":  "Casting",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "60 gp (Wiz3) or 80 gp (Sor4) the creature need not be standing in a particular",
+        "name":  "Casting",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "With a gas trap, the danger is in the inhaled that activates on any significant impact, such as a poison it delivers. Traps employing gas usually have falling character. Possibilities for pit bottom traps the never-miss and onset delay features. include acid, monsters, or water (which reduces the Never-Miss: When the entire dungeon wall moves falling damage; see the Obstacles, Hazards, and Traps to crush you, your quick reflexes won’t help, since the section in Chapter 4 of the DUNGEONMASTER’s Guide). wall can’t possibly miss. A trap with this feature has Touch Attack: This feature applies to any trap that neither an attack bonus nor a saving throw to avoid, needs only a successful touch attack (melee or ranged) but it does have an onset delay (see below). Most water to hit. and gas traps are also never-miss. Water: Any trap that involves a danger of drowning Multiple-Target: Traps with this feature can affect (such as a locked room filling with water or a patch of more than one character. quicksand that characters can fall into) is in this cate-",
+        "name":  "Gas",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A continuously spinning blade Proof against Vermin: This stronghold space barrier lines every inch of this stronghold space’s outer cannot be entered by vermin with 2 or fewer HD. walls, ceiling, and floor. Any creature passing into or Vermin with 3 or more HD can only enter the space if out of the prison of blades automatically takes 11d6 they make a Will save (DC 16). Even if the vermin points of slashing damage. makes the save, it takes 2d6 points of damage. Pressing",
+        "name":  "Prison of Blades",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The stronghold FFlloooorr space is immune to damage from a specific energy type (acid, cold, electricity, fire, or sonic). Anyone within the stronghold space shares this immunity, but only if FFiirrsstt the damage comes from a source outside the strong- FFlloooorr hold. For instance, while the stronghold floats on a lake of lava, those within suffer no damage, but a fire- ball cast from within the space affects all creatures within normally. Unless you have some specific reason to protect only a section of your stronghold, this effect is generally OOnnee SSqquuaarree == 55 FFeeeett placed on the entire stronghold.",
+        "name":  "SSeeccoonndd Zone of Elemental Immunity",
+        "source":  "stronghold_builders_guidebook.txt",
+        "_id":  "1005afd5982b0f27e422e97e866e3dd9258ac5b558c7e7bb4225726f66d28421"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Using senses such as acute hearing and sensitivity to vibrations, you detect the location of Feats are an exciting new element of the D\u0026D® game. opponents who are no more than 5 feet away from This chapter presents even more new combat options, you. Invisibility and darkness are irrelevant, though designed with your fighters and monks in mind you cannot discern noncorporeal beings. Except for (though anyone who qualifies can take them). These the decreased range, this feat is identical with the new feats have prerequisites, such as an ability score exceptional ability blindsight defined in the minimum or a minimum base attack bonus. Monster Manual. Circle Kick [General] VIRTUAL FEATS You kick multiple opponents with the same attack action.",
+        "name":  "Benefit",
+        "source":  "sword_and_fist.txt",
+        "_id":  "f18a0fe00e1073be41dcd28ee590f2464bfe3abe7bb84f9d188e8a66b0dd11a0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Beginning at 5th level, the master Move Silently10 ranks. samurai learns to channel ki, a source of inner energy Hide 10 ranks. and strength shared by all living creatures. You can add Other: Evasion class feature, must contact Crescent +2 to your Strength score for a number of rounds equal Moon leadership. to your Wisdom bonus.",
+        "name":  "Ki Strength",
+        "source":  "sword_and_fist.txt",
+        "_id":  "f18a0fe00e1073be41dcd28ee590f2464bfe3abe7bb84f9d188e8a66b0dd11a0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "At 1st level, the Red Avenger gains a greater monk PC a Red Avenger level, then return to the understanding of the supernatural ability to control monk class for your next level, take a Red Avenger and utilize ki. Kiis an energy source created by and level after that, and so on. flowing through all living creatures. Much of the Red Avenger’s training is devoted to understanding TRIBAL PROTECTOR and learning to focus ki, and the effects she can produce at each level reflect the increasing complex- The tribal protector is the battlefield champion of a ity of their education. savage humanoid race. While a tribe’s warriors make up",
+        "name":  "Ki",
+        "source":  "sword_and_fist.txt",
+        "_id":  "f18a0fe00e1073be41dcd28ee590f2464bfe3abe7bb84f9d188e8a66b0dd11a0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Improved Initiative, Power Attack, infested areas, make sure that the cleric is ready to make Cleave. a turning attempt at the appropriate time. This means protecting him when battling other enemies, so that he The logical choice for the character’s next feat is does not incur injuries that might affect his combat abil- Sunder, as taking it fulfills all the feat requirements to ity when you meet up with the undead. Do not qualify for the prestige class. begrudge the cleric who uses some of her precious heal- ing on herself before battle with undead. If the cleric Now assume you instead wish to one day qualify for falls in combat, the entire party faces their doom. the cavalier prestige class from this very book (see page Once you have entered combat against these foes, 12). Let us see what represents the wisest choice here. remember that they do not share many of the weak- nesses of living creatures. You cannot soften them up",
+        "name":  "Current feats",
+        "source":  "sword_and_fist.txt",
+        "_id":  "f18a0fe00e1073be41dcd28ee590f2464bfe3abe7bb84f9d188e8a66b0dd11a0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Scent—Detect creatures within 30 is coming, ready a melee attack against the mount (do feet (60 feet upwind, 15 feet downwind) by smell. +8 to not bother readying an attack against the rider unless tracking checks, and base DC is always 10. Natural you have reach). Assuming this does not disable or kill cunning—Immune to maze, never gets lost, track. the mount, by all means get out of the way of the over-",
+        "name":  "Special Qualities",
+        "source":  "sword_and_fist.txt",
+        "_id":  "f18a0fe00e1073be41dcd28ee590f2464bfe3abe7bb84f9d188e8a66b0dd11a0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  " When she lays her hands on a living creature, she conducts the ki in such a way that it heals a number of hit points each day equal to her class level multiplied by her Wisdom bonus.",
+        "name":  "Change the second sentence to",
+        "source":  "sword_and_fist.txt",
+        "_id":  "f18a0fe00e1073be41dcd28ee590f2464bfe3abe7bb84f9d188e8a66b0dd11a0"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "I hour/level knowledgeis limited to whatthecreatureknew",
+        "name":  "Duration",
+        "source":  "the_slayers_guide_to_derro.txt",
+        "_id":  "e7a5b30d3538b341721e073bd438f2443bb152cc2a96a4c87cd0c8fe3e52c528"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Touch Creatureswith darkvision orlow-light vision arenot",
+        "name":  "Range",
+        "source":  "the_slayers_guide_to_goblins.txt",
+        "_id":  "4e67928dd0575d4a67d3532e0a0949c326d94d719de7dd9af5bab3faa6bea838"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "2Creaturespercasterlevel penalisedby extinguish light.",
+        "name":  "Target",
+        "source":  "the_slayers_guide_to_goblins.txt",
+        "_id":  "4e67928dd0575d4a67d3532e0a0949c326d94d719de7dd9af5bab3faa6bea838"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "5;+15Melee(5d6/x2critical); Reflexsave(DC determinethelocationofthelair orguessthesiteof 15)half; Search(DC25)ceiling outsidetheroom, thenextraid. If characterslocateafreshtrail from a Search(DC27)floor inroom;DisableDevice(DC raidedcaravanorvillage, theymayfollow it intothe 25). Trapmustbereset,taking2d6hoursandeight hillsbutwill likely encounteratleastoneambushby goblins. Charactersdetectingthetrapinthehall warriorsleft behindtodiscouragesuchtracking. The ceilingwill noticeonlyaweakceiling. Characters areaclosertothelair isaggressivelypatrolledand placingmorethan100Ibs.ofweightonthetrigger dottedwith trapsandambushsites.Thegoblinsare squarewill causetheceilingtocollapseoutsidethe ontheirownlandandaremastersofthisscenario. trappedroomandfill thehallwith impenetrable Theextentoftheirpreparationandcunningshould rubble. Thetrapattacksallcreaturesinthetwo beobvioustotheplayersfromthefirstambush. squaresoutsidetheroom,pinningthem. Pinned charactersandthosetrappedintheroommaybedug Features outasperCoreRulebookII. \u0027",
+        "name":  "CR",
+        "source":  "the_slayers_guide_to_goblins.txt",
+        "_id":  "4e67928dd0575d4a67d3532e0a0949c326d94d719de7dd9af5bab3faa6bea838"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A mountainstreamflowsdirectly bythe goblinhill system,intoandunderthecaves.From Vermin: Thecavecomplexisalivewith rats, theoutside,anobservernoticesamossycavemouth centipedes,beetlesandspidersofvarioussizes.2d6 byapoolatthe(apparent)endofthestream.If ofthesecreaturesinhabitnearlyeveryroom. Most investigated,it will bediscoveredtobeatunnelinto ofthesecreatureswill notattackif left alonebut thegoblincaves,crossingacorridorandendingina theGameMastershouldfeelfreetousethemas poolinthemainliving area.Thewaterpathintothe combatencountersif theplayersrequireadditional cavesisguardedasdetailedinarea13. challenges.",
+        "name":  "River",
+        "source":  "the_slayers_guide_to_goblins.txt",
+        "_id":  "4e67928dd0575d4a67d3532e0a0949c326d94d719de7dd9af5bab3faa6bea838"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Aquatic creatures. their people, because they believe that the sea Cleric/Worshiper Alignment: Any. washes away all small variations. What does it",
+        "name":  "Worshippers",
+        "source":  "the_slayers_guide_to_kraken.txt",
+        "_id":  "2364c2bde0370bb5262856c2cc4173481135d40cb5f1173e79430ad90e12efdd"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Same as the base creature +2.",
+        "name":  "Challenge Rating",
+        "source":  "the_slayers_guide_to_kraken.txt",
+        "_id":  "2364c2bde0370bb5262856c2cc4173481135d40cb5f1173e79430ad90e12efdd"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "In addition to the base creatures normal Treasure: Same as the base creature. movement rate, the half-kraken can swim at the full, Alignment: Usually neutral evil. unencumbered, land speed of the base creature. Advancement: Same as the base creature. 29 KRAKEN REFERENCE LIST Half-Kraken Characters Attacks: Huge greatclub +11 melee, or 2 slam +10 melee; or Huge longspear +1 ranged Half-kraken often have a character class, favouring",
+        "name":  "Speed",
+        "source":  "the_slayers_guide_to_kraken.txt",
+        "_id":  "2364c2bde0370bb5262856c2cc4173481135d40cb5f1173e79430ad90e12efdd"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One creature",
+        "name":  "Target",
+        "source":  "the_slayers_guide_to_mist_elves.txt",
+        "_id":  "3328a482bb923d04043438dee42539ae53658a435f97a8628c489ca983575ebc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Up to one creature per 2 levels",
+        "name":  "Target",
+        "source":  "the_slayers_guide_to_mist_elves.txt",
+        "_id":  "3328a482bb923d04043438dee42539ae53658a435f97a8628c489ca983575ebc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "V, S creature can make a Fortitude save to only suffer",
+        "name":  "Components",
+        "source":  "the_slayers_guide_to_mist_elves.txt",
+        "_id":  "3328a482bb923d04043438dee42539ae53658a435f97a8628c489ca983575ebc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creature touched",
+        "name":  "Target",
+        "source":  "the_slayers_guide_to_mist_elves.txt",
+        "_id":  "3328a482bb923d04043438dee42539ae53658a435f97a8628c489ca983575ebc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The familiar uses your base saving maximum duration—the familiar does not count as throw bonuses if they’re better than its own, but it uses another creature touched. A shared mirror image creates its own ability score modifiers. duplicates of both master and familiar, and a successful",
+        "name":  "Saving Throws",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "When you are at process does not erase the experience loss you suffer least 7th level, an animal familiar can communicate upon its death. The restored familiar does not incur any with animals of approximately the same type as itself level or Constitution loss. If your level has dropped, (including dire variants), but communication is limited however, the familiar’s abilities are correspondingly by the Intelligence score of the conversing creatures. reduced (see Familiar Abilities, above). Improved familiars have a similar ability to converse with other creatures of their type and subtype. For Death of a Master example, a pseudodragon can converse with creatures of the dragon type, a Small earth elemental can speak If a master dies and the familiar survives, part of the with elemental creatures of the Earth subtype, and an master lives on in the familiar. It loses any extra hit points imp can, speak with outsiders whose subtypes are Lawful and skills it gained from the master but retains most of its and Evil. Most improved familiars also speak one or more familiar abilities. It is treated as having a master two languages. levels lower (but never below 1st level). If the master is",
+        "name":  "Speak with Others of Its Type",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Immune to poison, sleep, paralysis, and whirlpool for 1 round if underwater; 5-foot base, up to stunning; not subject to critical hits or flanking. 30-foot top, 10-20 feet tall. Move at swim speed. Tiny or smaller creatures must succeed at a Ref save",
+        "name":  "Elemental",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "CR —; Small (DC 11) or take 1d4 points of damage, and at a second Ref elemental (earth); HD 5; hp ½ master’s; Init -1; Spd 20 save (DC 11) or be picked up and held. Swimming crea- ft.; AC 20 (touch 10, flat-footed 20); Atk +6 melee tures can attempt a Ref save to escape (still takes damage). (1d6+4, slam); SA Earth mastery, push; SQ Granted abil- The elemental can eject carried creatures at any time. ities, touch, speak with master, elemental; AL Any; SV If the base touches the bottom, it creates a swirling Fort +4, Ref +0, Will +4; Str 17, Dex 8, Con 13, Int 8, Wis cloud of debris centered on the elemental, diameter half 11, Cha 11. the whirlpool’s height, obscures all vision (including",
+        "name":  "DSmall Earth Elemental Familiar",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "d4. normal space and time lend her an unnatural fortitude. She gains an additional 3 hit points as though from the Requirements Toughness feat. However, constantly dwelling on such To qualify to become an alienist, a character must fulfill beings is mentally corrosive, and the alienist’s mind all the following criteria. begins to fracture. She develops a phobia against a spec- Knowledge (Arcana): 8 ranks. ified kind of creature, suffering a –2 penalty to saving Knowledge (The Planes): 8 ranks. throws, attack rolls, and Charisma-based skill and abil-",
+        "name":  "Hit Die",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Alertness. ity checks in regard to these creatures. The selected",
+        "name":  "Feat",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  " Creating a Pseudo- Up to 3 HD, as base natural Creature: creature; \"Pseudonatural\" is a tem- 4 HD to 7 HD, as base plate that can be added to creature +1; any corporeal creature (re- 8+HD, as base creature ferred to hereafter as the «base +2. creature»). The creature’s type Treasure: Same as the changes to «outsider”. It uses all the base creature. base creature’s statistics and special abilities except as Alignment: Same as base creature. noted here. Advancement: Same as the base creature.",
+        "name":  "Challenge Rating",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "At 9th level, dragon disciples of size Large and of the following clerical domains: Air, Earth, Fire, or Water. above grow wings. They can now fly at their normal speed Special: The elemental savant must have made prior (average maneuverability). Smaller creatures have wings peaceful contact with an elemental or with an outsider only if they already possessed them. having an elemental subtype (Air, Earth, Fire, or Water).",
+        "name":  "Wings",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "d4. Elemental Transition: Beginning at 1st level, the elemental savant begins to transcend her mortal form, on Requirements the path toward becoming an elemental creature. On To qualify to become an elemental savant, a character first taking this prestige class, she chooses an element, must fulfill all the following criteria. which must be allied with a type of energy she can substi- Knowledge (Arcana): 8 ranks. tute using Energy Substitution. Each element also has Knowledge (The Planes): 8 ranks. an opposing element and energy form, as shown below.",
+        "name":  "Hit Die",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "At 5th level, the pale master’s body level. When the duration expires, the undead creature becomes more akin to the undying flesh of those crea- returns to its former allegiance, if any. The newly tures he associates with. The character gains +3 hit points controlled undead can still be turned. as though from the Toughness feat. Tough As Bone (Ex): On reaching 7th level, the pale",
+        "name":  "Deathless Vigor",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This small bag contains either a collec- * Previously appeared in theFORGOTTEN REALMSCampaign Setting. tion of aromatic herbs or a strongly scented alchemical mixture. Either version can confound any creature’s sense",
+        "name":  "Scentbreaker",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "13th; Prerequisites: Craft Staff, cloudkill, stink- cause fear, circle of death, enervation, ghoul touch, halt undead; ing cloud, summon monster VI, summon swarm, unseen Market Price: 101,000 gp. servant; Market Price: 102,000 gp. Transmutation: This staff is generally carved from or",
+        "name":  "Caster Level",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "None creature struck directly takes the orb’s damage, and the",
+        "name":  "Saving Throw",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creature touched airtight and waterproof. The air supply inside the",
+        "name":  "Target",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Touch an extradimensional space into an existing extradimen- Target: Creature touched sional space is hazardous. Saving Throw: Will negates (harmless)",
+        "name":  "Creating an extradimensional space within or taking Range",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Touch (such as stinking cloud) cast by creatures of 8 or fewer",
+        "name":  "Range",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Living creature touched Hit Dice. Against more powerful affects, the creature",
+        "name":  "Target",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A small amount of alcohol or Level: Sor/Wiz 4 distilled spirits, which you use to trace certain sigils on your body during casting. These sigils cannot be seen As acid orb, except fire orb deals fire damage. A creature once the alcohol or spirits evaporate. struck directly takes the orb’s damage, and the flash of heat dazes it for 1 round. A dazed creature can take no Feign Death actions (but defends itself normally). A successful Forti- Necromancy tude save reduces damage by half and negates the daze",
+        "name":  "Material Component",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One willing, living creature whose level or Hit Level: Sor/Wiz 4 Dice do not exceed the caster’s Components: V, S",
+        "name":  "Target",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creature touched",
+        "name":  "Target",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Living creature touched While incorporeal, you cannot run, but you can fly",
+        "name":  "Target",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1 day points of cold Dexterity damage. Creatures that are",
+        "name":  "Casting Time",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Close (25 ft. +5 ft./2 levels) Enchantment [Mind-Affecting] Targets: Up to five creatures or objects, no two of",
+        "name":  "Indifference Range",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Living creature touched",
+        "name":  "Target",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One creature/level, no two of which can be Negative Energy Burst more than 30 ft. apart Necromancy",
+        "name":  "Targets",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Touched objects or touched willing creatures Range: Close (25 ft. +5 ft./2 levels) weighing up to 100 lb./level Effect: Ray",
+        "name":  "Target",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Will half (see text) creature. A dispel check is 1d20 +1 per caster level (maxi-",
+        "name":  "Saving Throw",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creature touched",
+        "name":  "Target",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Wall whose area is up to one 10ft. square/level Target: One creature or a sphere or hemisphere with a radius of up to 1 Duration: Permanent ft./level Saving Throw: Fortitude negates (and see text)",
+        "name":  "Effect",
+        "source":  "tome_and_blood.txt",
+        "_id":  "ae678f11f001f5743deafd0008c4eb0074a8e95361d3d8e4c406086f62590c0a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "YoucandeclareanySeuingSunsrrtkedelivered isequal10yourlevelsin martialadeptclasses(ifany)-t 1{2 wuhan unarmedsmke10beastunningattack.lnaddtncn. your levelsinotherclasses. add t torhesaveDCofyeurSrunningFistanacksandt rorhe Special:Youcanchoosethisfeatmorethanonce.When 5.1Vt\u0027 DCofyourSellingSunstrikes.Usingthisfeatexpends you take this feal again, you gain knowledge ofa new auseofyourstunningarrackfortheday_ stance.You do norhave10chooseastancefromthesame disciplineyou selected thefirsttime,bur)\u0027011 musrknow INSTANTCLARITY [PSIONIC] atleastone manialmaneuver from the disciplineofthe Youhavesharpened yourconcenrrationtomepointtharyoucan stance you choose. focu~yourpsionicabilities wuhjU~1an instant\u0027s thought. spectal:A[ightercan select~farlialStanceasabonus",
+        "name":  "Benefit",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Whilt\u0027YOUart\u0027 In rolls (10 3 maximum o( +10). arage.shifred.or wi\u0027ldshaped Thesetemporaryhitpoints inro an anim31form, you can lastunulrhebeginmngcf anempt toknockback5ft\u0027(\u0027I;I yournt\u0027Xtturn. creatureofyourstzecatt\u0027go~ Spt\u0027ci.:al:Stone Power orsmallerthat you hilwuh C3n be used in place of 3TigerClawstrikeunlessII Power.\"\u0027nack 10 qU3lify succeedson3 Fortitudesave (or3(t\u0027al,presageclass.or (OC to..tI2}\u0027a1rcharactt\u0027l\u0027~Tl orht\u0027rspeci313bilily.You ~ yourStrmodifit\u0027r).This move C3n rake both rhis ft\u002731 merit does nOI provoke anacks aad Pewer Arrack. ofopponunuy. SUDDEN UI\\\u0027NERVING RECOVERY CALM ¥OUC2nulSIanrlyrecover You know that rbe secret ro yourfocus,balance,and defeanng your enemies lit\u0027s personalenergvaClerus ...vuhtnthestillcemerofyourown mgamartialmaneuver, mind When yourenemies meet",
+        "name":  "Bendit",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Muchlikeaswiftaction,anirnme diareecucn consumes avery small amount of time,but representsalargerexpenditureofeffort rhan 3freeaction. However,unlikeaswiftaction,animmediateactioncanbe performed .1.1any time-s-even ifIt\u0027snOI your rum.USing an immediateactionon your rum isthe \"arne as using a swlf acucn,and COUIUSasyour swirlactfon for the rum. Area:Somemaneuverscanaffectanarea.Youmightbeable You cunnerUSl\"anotherimmediateactfcnoraswift action 10choosethepointwhererhemaneuver\u0027seffect originates. unnl after your next turn ifyou have used an immediate but otherwiseyou usuallydon\u0027tcontrolwhichcreaturesor action whenilisnot currentlyyourturn(t\u0027ffecrively, using objectsan area m3neu\\,er:lffeclS. animmediateactionbefore yourturnisequtvalem 10 using Burst:AburstaffectswhateverIrcatchesin itsarea,includ yourswiftactionforrbecomingturn), ingcreaturesyoucan\u0027tSC\u0027e. Itcan\u0027taffecrcreatures[hathave Youcannotusean immediateactionifyou arecurrently roralcoverfrom itspointoforigin.Thedefsulrshapefor a Ilar-footed. burstisasphere.",
+        "name":  "ImmedlareAction",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The maneuveraffectscreatureswithinI square Youmusthave aclear line ofeffeettoan}\"larger thatyou ofyou.Sometimes youonlyaffectadjacentcreatures .11the initiateamaneuveragainst,ortoanyspaceinwhichyouwish beginmngofyour[urnorattheendofYOUtrum,bUIother 10creareant\u0027ffecl3trange(ifyourmaneuver3110wsthat).A maneuvers mightaffectany creatureyou move adjacent to burstoremanationaffectsonlyanarea.creature.orobjects during thecourseofyourtum.See the spe-cific maneuver 10 whichIrhas3lineofeffectfromitsorigin. descriptionsforderails. Anotherwisesolidbarrierwnhaholeofatleast ! square",
+        "name":  "Adjacent",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Mostmaneuversaffectaspecificcreature might be lcog-lasnng.Forexample.themomentofalacriry orobject(ormorethanonecreatureorobject)thatyoudesig boosttakesonly3swlf actiontoinitiate,bUIifimprovesyour nateasyourIargetortargets.Youmustbeabletoseeortouch initiativecoumforthedurationofthecombat. thetarget,andyou mustspecificallychoosethattarget. One-Round Durations:Somedurationsaremeasuredas SomemaneuverscanbeinitiatedonlyonWillinglargelS. 1round.Yougain thecapability[0 performwhateverspecial",
+        "name":  "TargetorTargets",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "ltanytime(even effectorattackthemaneuverpermitsonyourrum.Immedi ifyou\u0027reIler-focredoririsn\u0027tyourturn).Unconsciouschar 3[elybefore youractionin theroundafteryou initiated the actersarealwaysconsideredwilling, butacharacterwho maneuver,irseffectcomestoanend. isconsciousbUIimmobilizedorhelpless isnotauroman St3nCe:Thisduralionindicatesrhartheabilityisastance, callywilling. and thereforeendsonl)\u0027when)\u0027ouwillit10 end.whenyou Some maneuvers target you (burthey mightconferan become helpless,orwhen you fulfill aspecificcondition unusualability10affectothercreaturesfor the rest ofyour describedin rhestance\u0027sdescription. rurm, Ifthetargetofamaneuveris\"You,\"youdonotreceive TimedDurations:Manymaneuverslastsomenumberof 3saving throw-s-you receivethe benefitofthe maneuver roundsorminutes.\\\u0027(\u0027henthetimeisup,theenerg)\u0027sustain automaticallyaslongasyou meetany otherrequirements ingtheeffecr fades.and rhe maneuver\u0027seffectends. foriniriaringitsuccessfully. SoDuration:The effectofamaneuverwithoutadunnion Orher maneuvers 3ffect acreatureorcreaturesthat you lasrscnlvaslongasiflakesyourciruriatethemaneuver,Some successfullyhilwith3mel~atuck,:mdsomeaffectacreature maneuverstlasr\"lesslhanafull round Such isofrenrhecase you successfullyhitwith ameleeor nngedtouchJttack. ferm:meuwrsIhat dealextradamageontopofyournornul meleedamage. Forexemple,astrikewithanirunatlonaction medlmre,orpr:lY.Mamaludeprsdonothave10readvtht\u0027lr of t standard action would effectively haveJ duration of 1 stances;allsrancesknownareavailableatall rimes. standardaction;theeffectofthestrikeisrtcd10theactionof makingthearrack.When rhisisthecase,nodurationemry ADDING MANEUVERS AND STANCES isgiven. Martial adepts usuallylearn n..w maneuversandsrancos whentheyanain3newlevel.Noreverydisciplineisavailable SAVING THROW toeverycharacter.",
+        "name":  "Youcan declareyourselfawillingIarger",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Marna] augmentation thattargetsan enemy allows thecreatureor adeptstrain,medtrare,and practicebetweenadventuresand objecttomakeasavingthrowtoavoidsomeorallofIheeffect. whileresting.When amartialadeptlearnsanew maneuver The saving throw line in a maneuver description defines orstancebecauseshegainedalevel,youcanassume that this which typeofsavingthrowIImaneuverallows. newknowledgerepresentstheeffectsofpractice andstudy",
+        "name":  "Sometimes,amaneuverwithaspecialeffectorsupernatural ManeuversandStancesGained ataNewlevel",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Strikto-Daule creatures Dousetheflames:Sirike-Targetannotmake aroundyou. alucksofopportunityforI round.",
+        "name":  "Desert Blistering flourish",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Boost-Strike deals .. whderemaininghidden. Consutunondamage. Storie Crushing Vise: Srrtke-c-Deal -.-4d6 damage shadowStride:Teleport SOfl.through shadows attackImmobilizescreature. asmoveaction. Iron nones:Slrike-Gain DR10/adamantiOt\u0027_ Step of the Dancing ~toth: Sunce- Ignore Irresistiblt\u0027 xtouneatn Srrtke:Strike-Deal terrain,walkoverliqUid. +4d6damage,targetlosesstandardaction.",
+        "name":  "Shadow Bloodlerrmg Strike",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1standardaction Il\u0027tapon,lindl/lgltumlllgtncrgy10norry Ifafiresnakemoves intoacreature\u0027s",
+        "name":  "InitiationAction",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "30fr iIltilck)\u0027Oumakt. space,th;atcreaturerakes6\u003c16pointsof",
+        "name":  "Range",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You",
+        "name":  "When a creature successfully strikes Target",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "eo-fr-radtus burst centered Target:Onecreature Range:Personal on you Duration:3rounds;seetext Targee:You",
+        "name":  "Area",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Onecreature attackshave the porennaltcbeutterly Initiation Action:1iwiftaction Area:3D-ft.-radiusburst;see text devastanng.When rollingdamagefor Range:Personal Duratton:1minute 3meleearrack.you gainaspeci:llben T3Tge15:Youandoneallywithin 10II. SOlving Throw: Foranude pania\\; c:filfrom :mydamagedie Ibatrolls lIS ncrancn:Sunce seelexI maximumamounl(such asilll\u0027suhof 6 onad6).\\\u0027C\u0027hen oneor moll\u0027of~\"Our rOll\u0027\u0027\u0027I1\"\"rllll(J\u0027l\u0027U\u0027tTof~IIlrtlll/:\"l\u0027Pllr willi,1 h. \u0027 Il\u0027imgf..:rlllt cry,)VllrII\u0027rllf\u0027On d.anugediceshowam2ximumpossiblr \"\"\u0027I•.,mJSImi,mfllsmgt1\u0027\"l1n\u0027aartlllllJ}\u0027Oll (fl1eklts u\u0027ll\" \"\"erg)\u0027. As)\u0027011 slnkr rOllr re ull,rerolle3chsuchdieand 3dd liS II\u0027llh.J sofl,~trlradt.ln:t.\\\u0027nlhNchl\u003eioll\u0027 f~ 111111 trltrgydtt,maltl III l1\u0027 bursIIhal rt\u0027sulrtotheoriginaldamageIOU!.You \\\u0027l\u0027Uslnk\"l1~lIl,1 tl\u0027lI,\\VII f.... llflVI).\u0027Prul...l SllIIt\"1 thrtlugh Ih05twhosll1ndl1g.lInll cancontinue 10 leroll:lStong 353die aridJnl\u0027l:\u0027nOlllt\u0027Md\" l\u0027llut,aUK. hO\\\\\u0027~ il\\ m:lximum possible- rrsult, aJdmgeachnewnumbel rOlhedamage While youare in Ihis sunCE\",you and Whenroouse thisstrike,nukeasingle (()\\21untileachdieh3Sshov..ntessIhiln 3nyallywilhin 10fl.\"t\u0027tofyoubOlhh,\u0027:.1 mel«:.IIack.Ifyouhil\u0027YOUropponcnl .3MaumumIl\u0027suh- 4 poinlSo(damagewithC\u0027:Ichsucces~· ~nd his alignment ba~ af lea$l on.: (ul me-let\" attack t\u0027llba 01\\\u0027OU makC\u0027.. compontnldilTerenlfrom\\\u0027DlI~,J bla.\\t ag;na~tan e\\\"11taTgeI. 01dt\\\u0027t1lC\u0027 energyorigimre5from your aU.:alk,romlOf,mp;lCI,InC\u0027l.:arg!.\u0027fofthis equal10,hi\u0027dermgeyoudealorbecome DI INF Sl RGE. GREATER rrtkerakevanl\u0027xlra\u0026J6potnlsofd.:anugl.\u0027 shaken for I mmute. DevotedSpirn(Strikt·) and muct succeed un.:IFormude save Level:Crusader8 {DC17..yourChamodlfll\u0027r)orlakee-z DEFENSIVEREBUKE Prcrcquisite: Two Devoted Spirit pt\u0027nahyon anackrolls for I minute. Devoted Spirit(Boost) maneuvers Allofyourupponents wuhrn a 30 level:Crusader3 InitlarionAction:1full-roundacnon foot-radiusburstofrbetarget creature Prerequisite: One Devoted Spirit Range:Meleeauack mustalsosucceedona Fortitudesave. maneuver Target:Onecreature Those who fail lake ~d6 points of lninarion Acrion:I swif\u0027aetion Duration:I round;se~text damageandrakea-2penaltyonauack Range:Personal rolls for I mmure Asuccessful save Target:You AlorrrnlofJlI\u0027lIlrrnrrgfCOllrst1lhrough resultsInhalfdamageand negatesthe Duration:t round \\\u0027Oil,w\u0027llhSlIpumtforr.-of11\u0027111,l\u0027llUchan attackpt\u0027nahy, IItl lIlt tll(rg\\\" nllo a Jrl\\ulalml! alla.k You m\u0027«J\u0027)\u0027OlIrlI\u0027taJ\"\u0027\" IIIa It\u0027I,lt,Jtddh· M\u0027tllalIIw~rollrmorlalform_ CRGSADER\u0027S STRIKE err,\\\u0027(1.....1yourblow\u0027Ssinkt\u0027,,\u0027mr,\\\u0027011W\u0027IlJ DevotedSPllU(Smkl.\u0027 \\l\u0027urf\\lttlllll\"\u0027mgboJd:olllhtJrftnlll\u0027l\u0027.llt As pUt ofIhls maneuver,}\u0027OU make :I",
+        "name":  "While you are in this stance, youl maneuvers Target",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Onecreature Range:Personal you cannotbe killedor incapacitated",
+        "name":  "Target",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Onecreature DevotedSpiril(Stance) Level.Crusadert VOlirIhrol\\\u0027 fOundf btllltlJ Lnirtarion Auion: I swift lVllrattack,ImJIlIgjeurblow action 111(11 grrlll lI\u0027t,~1J1 anJ foret Range:Personal lilaI)\u0027l\u0027ult\u003clwIIIJI4rttSIhall\u0027L\u0027t\u0027tl Tnrger:You nlllgwdJ,-frostscatUlolFlun,1. Duration;Stance Yourdevotionrovourcausegives t\u0027.Ulll/Mf~o..~.uWU;;\". \\t\u0027dhaqUl!RmarlandaglaIlIJwfwould you boundless ...nergy th~t allows ,.tr·.s.\u003eJ\" of.\\/\"\",\"\". n \" tPfUI s1\"pllChargingNrNIlan In\u0027Ulhucks.~u you to smash through supernalural ,. r~\u00271..r.rJJtf~SCI Sp\"\u0027lloIn oppont1\u0027lfsalfo1dc. Ro1thtrtho111 def...nses.Wh...n you b nd an arrack. slnlrtlusttrl/l:lI1allolrp\u0027f,)\"l\u0027urtnrmyturns l)(srJlt:1ht!I(1m,IUn a.lldsrousuJ(.,..I\u00271l you bitwith such forc...thatdamage hiSatltnhonf\"u\u0027l1rJ}\u0027OIl- p,uh ofJ(anll/l:lpdls..lIldlilt cr,1I1! o{01 reducuon offers little resistance {(I(\u0027,rrllghfyaUMb. ,\u0027flU sIJII,1rt\"lolulton against you. Whik}tJLIaft\u0027inthisscree,anyopponcnt Ih,·fitlJ. Soloug\"liluroltnllll!{\"rl\u0027ldory",
+        "name":  "Target",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Onecreature tlfl\u0027lll1,hu.\u0027!glmy wa)\u0027, Ifvourattack hns.vou oran allv",
+        "name":  "Iurger",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Two Diamond .Mind Range:!l.1..leeattack Range:Personal maneuvers Target:Onecreature Target:You",
+        "name":  "Prerequisite",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Onecreature maw. YoummtullyproNohu,ftfoutsIII rOllrrartrllon (tUOlllfi UlfillcthaiVIlli",
+        "name":  "Target",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Isiandardaction )tJUllttlyoUNtI!.:agllitld lhtLllla(l.:. t\u0027quallOlht\u0027check~lt.YourStrenglh Range:~t(\u0027leea[tack madilln-,)\u0027UUrweaporisl1\u0027Ug.calproprr· Target:Onecreature Between yourdevotedstudv,ironWill uestif.lny,andanYOlMre~lradamage SavingThrow:\\\u0027I:\u0027i11 n(\u0027gates and supreme focus,you have learned vounormallydealdonOImodify rhis 10resistattemptstosubvertyour\\\\,U· check !including eXITIdamage Irom YOIIsln~t)tJIHOf\u0027J\"\u0027lItr11i \u0027If\u0027IJ,r\u0027lillm/-!Ill\u0027 f\"O\\\\\u0027t\"r.\\\u0027(\u0027henyou1(\"(\"1suchanelftellTV classa.hilitit\u0027s,ft\u0027m, orS}\u0027\\\"I1s). WII\u003etslUlll(ausing111111!(ll(lw!cJ(lIL 10cloud yourmind.\\\"OUcan draw on untapped reservesoftnergytocounter It\\SIGHTFULSTRIKE. Asawarriorwhofight withyourmind the anempr. GREATER aswell as\u0027{Curbrawn.youknow thai Youcan usethismaneuverany lime DIamond ~hnd(Strike) anecktnga10t\"~ St\u0027n\u0027es isJUSIas valu you wouldberequired to makeaWtll",
+        "name":  "Coocentraucncheckand dealdamage InitialionAction",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Onecreature target musl make aWillsave(DC 14... nnuralronyourConcentrationcheck yourSIrllllxlifier)orrakeIll4point~01 ISnOIanauromaric failure. YOIIYkUllq\u0027r,\u0027,rlnoullllt\u0027~Iighlfll,,\"/\u0027rr Wisdomdamage.Th\"largetignoresIhe (alloll III Yllur ol\u0027pDnrrlr, ,Jt\u0027folSrs. Your Wisdomdamageona,uc(\"(\u002755flllSJ\\\u0027t\u0027hUl PEARL OF BLACK DOUBT IW,lpon1\"\"(olPlr~,11001ofYOIHmma. sti!llJkt\u0027sweJpondam3gl\u0027normally, Diamond Mind (Sl3nce)",
+        "name":  "Target",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Istandardacnon maneuvers \u0027tousink..fom\u0027llrJIlEtadllll\u003c\u0027rmgmLlkt. Range:Meleeattack IrunanonAction:1standardaction t\\ltnJHlg )\u0027truntlfI1lmolt bryolld )\u00270111 Target:Onecreature Range:Meieranack \u0027lblhh\u002710mamlillflyourlottlanu. YOllr fO( Target:Om\u0027creature 51ulllbl(1Mrk\u0027lla\u0027 rd,surpnSl\u0027JIIh1l)\u0027(lucoulJ You chopill your fo(\u0027s hand,CIlIlSIllj:: a r~ll(11 h,mfrom luchagn\"11II,sllll,ri. grim:lllslPlJlIryJII1Jfomng 11111I 10 drop rOil,Idill(r,I,I~wdafillgstriJuag\u0027liPld.t hisWC,lpoU. ll\u0027(Iund.,d{(It,L1imlllgtofilllsJthimoffolla Bycarefullydimibuling yourwC\u0027ighl andforall, md establishing a s\u0027IC\u0027ady, rugged This mantuver allows )\u0027OU 10 com· postun\",~\u0027Oucan rt\u0027ach OUIand ..Irikt\u0027 bineadisarm attempIwilhanormal Iron Heart te.1chts that it is best 10 opponentswithyourmelC\u0027t\u0027 allacksal anack. You make a singlt\u0027 mC\u00271ee finish off.ll foe with as little effort agrt\u0027alt\u0027rthan normal disu nct\u0027.Awar· alt:lck 3Sparr ofthis Strike. Ifthi~ as possiblt\u0027, Ihe bette-r to saVt\u0027your liar wilh It\u0027ss Iraining .lnd e-xpC\u0027rtise attackhilSanddt\u0027alsdamage,youcOIn slrt\u0027ngthfor your remaining enemits. would f;lllfbi on hisfact\u0027 arrempting alsoallempllOdisarmyouropponl\u0027nl \\Vht\u0027n you ust\u0027 thiSmaneuver, you thiSm.llneu~\"C\u0027r.You,ontheolht\u0027rhmd, (PH 155), This disarm atlt\u0027mpl dot\u0027s Ihrow youlSt\"lfon IhC\u0027 offensive wilh haveIhegr.lCt,focus,andskill necdtd not provoke al13.cksofopportunilY, link thoughllOyourdefenses.Ifthis [0complt\u0027lt\u0027Ihiscomplt\u0027xmo\\\"e. naristhert\u0027anyriskrha[yourforcan attackstrikeshornt\u0027,Itmightil!:ndafighl \\l;\u0027hale you art\u0027 in this Slanc(\",you di..arm you, ~ralcrucialsecondscarll\" gain :II bonus to your rt\u0027:IIch during Aspartofthismantuver,youm.llkC\u0027 ~our lurn.\\\u0027C\u0027hen )\u0027OU makt a melt\u0027e EXORCISM OF STEEL amC\u0027lt\u0027t\u0027altackagainstacrealUrt\u0027.This ;I:llack,yourrtach inClC\u0027aSt\"sby5(t\u0027el. Iron Ht\u0027artlSlrikC\u0027) allack deals :m txtra \"d6 poinls of ¥ourrt\u0027ach isnotimprOl,\u0027ed when ilis Le,,·el:Warblade 3 damage. If Ihe larget\u0027s currC\u0027Dl hit nOIvourlum,suchaswht\u0027n youmake Pr-erequisite: One Iron Ht\u0027.1Ir1 poinrs are less Ihan its full normal .lin;ltlxkofopportunity,YoucannOl nunru\\\"C\u0027r hit points, rhe all;3ck instead deals Impro\\\u0027t\u0027yourreachbymorethan5ftet IniriationAction:sund.lIrdaction an eXIra 6d6pomlSofdamagC\u0027. Ifits b~ u~lng thiSability In conJunction Range\":~tC\u0027luallack hll poinls arC\u0027 rqual 10 or less lhan \\I.\u0027lIbochermaneu\\\u0027ers, Targt\u0027t:Onecrealure one-half lIS full normal hit pomts rbeauackJn~ll\u0027aJdealsanl\u0027XIraI..J(, r:lr~el: Vou galnlnJ: /I 2 morale nus on en rOlnl vidamage. Duration.Seet~)il rollsunulrheendofyour next rum IRON HEART ENDURANCE By JtlIWlll~ /H, yClllr \"\u0027t\u0027IlI.\" llrtll!:lll LIGHTNING RECOVERY Iron Itean(BOO~I) dlld pl\u0027l\u0027sle.t1fClrlllu.lr,YClIl prt\u0027\u003c1k fur of Iron Heart (Counter)",
+        "name":  "Initiation Action",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Stance Target.Onecreature \\\u0027(lur IUrrtmt!,VUIoJltJ [\u0027trill!flghtlnf! J }\u0027 t o f u rn d s r t o s p to m }1 lo Q I II I \u0027 r lh r T la \u0027 : l m in f d p 1 c r ts I t I \u0027, 1 d /J /l t O \u0027U lt\u0027 l m ly g .Y ro ou ll r r ) r \u0027If \" l u lr r It l l I l \u0027t \" \u0027a d p .r \" t \" \u0027ll\u0027/ s Y w ,, a , y b s lo l c r, k J{ l k ru . o m m J m / g \"r P l l l O l II I . n \" formiJflolt\u0027youIIIma~(aslng/t.In\u0027lHloJl~ MIlJi IIlSlli~outtoabsorf.orJif1tcttllt\u0027l u\u0027lll, Iht spttJofathlmJrTbolt.youd.alm",
+        "name":  "Duration",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Israndardaelion fallsproneinIht\u0027openspace\u0027c1oseslto YCIUcrouchNll1nuJ 011 ont fOOl,\"l\"1wnJ~· Ra.nge:Touchand 6Ofl~seelext the\u0027Iint\"sendpoint. lulJlugho1\u0027trYOllrhtl1J. Y*ourfot Target:CreatureIOucht\u0027d hlriS,IInnl/\u0027ioj\"011\u0027 10\u003c11111.. l\u0027OUIn IhH Area:6o-ft.!ine CLEVERPOSITIONING nhkcJyILlnu SemngSun(Strike\u0027 Lc\\\u0027rl:SwoNsag !",
+        "name":  "InitiationAction",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Meleeattack succeedon ameleetouchmackagainst redtrecracreaturethatintends10make",
+        "name":  "Range",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One-creature your foe. Youcan [hen make a trip a charge anack against you. Imme",
+        "name":  "Target",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "CreaturelOucht.-d; seetext",
+        "name":  "Target",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Onecreature InitiationAction:1full-roundaction whicheverisbetter.Yougaina+2bonus",
+        "name":  "Target",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Oneormorecreatures havemoved duringyour turn YOIl slllih l\u0027Ollr \"l\u0027rontnl allJ drlll\u0027t\u0027r lUI If you succeed in tripping your al!M/rrruud\",utllrJ 10rutn hl5Jr.ftn~s Llb~ a wh,rlWind. )\u0027OUIlImf and SPI\" Ice,you throwhimup to 10fet\u0027laway lUldftmr hmttol(rMnhlrIll\u0027hisbJl,,\"u. \"eMfIh.·NHlrfirlJ,lossll\u0027lglilts\u0027\u0027\u0027\u0027\u00271:1)\u0027ftfl (rom vcv Tht\u0027 target falls prone In w1ukItrstruggkiwrmJ.vlumsrU.11imOlllrs \"lIdnghl. rbe desumrton space and rakes ld6 InoJu1\u0027U\u0027nrrablr10)tIuralia/h. points of damage.Youchoose where Asputofinmanngthismaneuver,you he lands.ForeYCry5pointsbywhICh A~panofIhismaneuver,nukeasingle move\u0027up 10 youropponent.throwher youwin rheopposed check,vougam ~1eC\"snack.Thisattackdealsanextra aside.and moveagain.Youmust move anaddinonal5 fttt ofrbrcwdistance 4d6pcimsofdamage.Inaddition,rbe at least 10 feel before making your anJ thelargrlrakesanaddiuorul tde target must make a Reflcx save (DC throw.Thismovementand yourmove pointsofdamage. Forexample, ifyou H ...yourStrmodificr)orbecomeRal mentafrervourIhtoY.,pt\u0027OYOkt\u0027attacks wtn by10,you can place your foe in footedunul rb...startofhisnextrum. of oppcrrunirv as nonnal. You can anyspacewnhm20feerofyou,andhe Thetargettakesdamagefncrmalmelee moveuptodoubleyourspeedaspartof takes a total of4\u003c16pointsofdamage. damageplusthee tr.Jlhmageleven If thismaneuver.IfyoufailInyourthrow You mU~1 placetheurgetinanempty htssavesucceeds.Ifthe larget cannot attempt.~\"OUcansullmoo.\"t\u0027afterward. spac~.If)\"OUlackrhedistancerorhrow becaught Ilar.foored(he has uncanny After every tofttl youmove.youcan your target inrc aclearspace,he falls dodge,(or example, he still takes rhe attemptanotherIbrowagainstthe-s.arnt proneinhIScurrentspace, extradamagefrom rhe «rtkebut orh opponenrorOJdrfferenrfoe. An enemy you throw with this erwisesuffersno illeffecr. To make your throw attempt, you maneuver dot\u0027s not provoke attacks mustsucceedonamelee rouch attack. ofopporrunilf for passing through TORNADO THROW Resolvethethrowasampattempt(PH enemies\u0027rhrearenedareasasp3rtofthe SettingSun lStrike) 15S).but youdo not provokeattacksof throw, and you on throwan enemy",
+        "name":  "Target",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Personal maneuvers Target:Onecreature",
+        "name":  "Range",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Onecreature vour attack deals normal damage. damage. Each of(he specialeffeeu,",
+        "name":  "Target",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "t standardaction Target:Oneflarfcceedlivingcreature I round. Asuccessful save negates",
+        "name":  "Initiarion Acrion",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "~tl.\"lrt\"arrack Youfocu.yourrnTltff(uon\u0027tofkitlltrgrto AI)1)Uslnkeyouf\"pponrnl, malenal Targe!:Onecreature gtlltr\"\u0027t nOll\u0027lII~maJoll\u00271 I/lllillfl)\\\u0027II\u0027off l1(1wJ lJlto lilt wownJ, Jpr,aJI alollg1111 tnt groUIIJ. YOIl milkarroS! lEu roughNI \\\u0027(IfIS,andItat\u0027NhImlI\u0027tGkrntd. \\011 s1.J(throughlhcJackIiIU.1 blrJof grounJ,(lI(nW,Iltr, wrln \u0027\u0027\u0027W\u0027. rrq.cm(fJ:Jngonlr10rtnl:tdolt\u0027ll.\u0027i.lllr! Aspan ofthismaneuver, you make a lvforr ~\u0027IJutgb,llkentolh.wow\u0027sIl\u0027tlmm WhIle you art\u0027in thisstance.youcan singlemelee attack again\u0027\u003e! an oppo\u0027 1IIj.l(mhaft, walk up to 5feet above the ground. nenr. In eddirion ro dealing normal Yourspeedbecomes zuret\u0027t whileyou meleedamagewiththeatrack,youdeal As pari ofthis maneuver, you move are inthissraoce.andyoucannot run, ofpointsofSrrengthdamage,A~UCCl\u0027~\u0027 up 10 your speed and make asingle YouIgnore any terrain fearure ful Fortitude save(DC t3 +your \\\u0027(\u0027\\, melee snack.u;Inypoinrduring your modifier)halvesrhisStrengthdamage, movement.Ifyouwere hidden be-fore burhas noeffectonrhe nonnalmelee irunanngrhis maneuver.youcan damageyoudealwiththesmke. keep rhe n·suh,-of your prevl- Thismaneuverisavupernaru ous Hide .;and MowSilt\u0027ntly ralability, checkseven AJrrw",
+        "name":  "Range",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "I sund:ardacnon meleeattxk..lfyouraux L:hus ndra!.. posillon\\oursd ftildeU\\\u0027era.k\\-aSUI Rangl\" eauack an exlr: -4db poml I Jarno • 1 In ...hu I:\u0027 ttack \u0027\"(\u0027hen you slam into lin oppone\u0027nl. YOU crush him 111l\u0027Ol\u003cn1t~ltlmlllllJXII1\\rhllllt.l)\"llr,Illal\u0027k Range:2(1fl. wuh concussive force and send bim f.oavnWl.ror~\"mlWlllt~tt,lnl(lll\u0027111tI\u0027wl\u0027 ArC\u00273: zo-fr-radrus bursI, centered stumblingbackward uhmgsink,jtJrasIllow,hlt,1(\u003c\u0027It\u0027mO\"\u0027fIIt~ on you AspariofIhismaneuver,you make llrruggmgof.!Iht(ffUhofYOllr.IIIMk. Duration:Instantaneous :10 hull rush auack (PH 154):IS parr of SavingThrow:Reflex negates 3 charge. Neuber rbe movement nor Bymakingapowerful,focused blow, rhe bull rush anackprovokes macks youkaveyouropponentunable10 1T1O\\\u0027t\u0027. VCllIllI\u0027ltlg)\u0027Our1l\u0027(,lponinIIwIlJ\u003c1,.,..1,101 ofopportumry. Resolve rhe bull rush The crushing weight ofyour attack mm~IImlolntgroundIIIrour(ttl.l\"tI\u0027lO\u0027 311empI normally. If your Streagrh forces il ia waste aprecious momem mrgts0111fromyou,CduSlIIglilt,l::nJunJ I check exceeds rheoppcnem\u0027s result, regainingits boring. uludJ,.,WIlli01s11l1rpfTtmor. you deal bludgeoning damage equal A5pan ofrhismaneuver,youmakea 10 2d6 ..yourStrmodifier in addinon meleeattack.Thisarrackdealsanextra You channel ki into rhe earth wuh 10 pushing rhetargerback3S normal ..d6 pointsofdamage. Ifthe creature yourmighl)\u0027strike,causingtheground",
+        "name":  "Iniliacion Acrion",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You IRRESISTIBLE [)uration:Stance MOlJl\\\u0027TAIll: STRIKE Slone Dragon(Strike) You ,Will!: )\u0027C\u0027llr wtllpon III II LC\"\u0027e1:Crusader6.swcrdsage6, II\u0027ldt.,lrllJly lireIhal JlImfmlo warblade6 your fotwilli 1I1HtJIWt fOrTt, InitiationAClion:tstandard Onl)\"\\\u0027OlIrmllslnyoftilt$I\"\u0027lt ecncn DmgonItch,thIIUfllllOU\u0027 )\u0027[I1l Range:Meleeattack 10tnllli:t nuh midNI NOll\", Target:Onecreature WllhollilonngYtllirfoollllg. Duration:1round SavingThrow- Fortitude Tapping into rhe power partial of(heSlOnC\u0027Dragon,you srrtkewnhresolute.irre You dam \\\u0027ourwtap\"\u0027l mill slsubleforce.Vou [eam YOllt fot with ,rrt5llf,blr 10 set rhe full weighr foret.lit(.In~l1rtlymOI\u0027l\u0027 of your body Into .11h,-sfm~\u0027rslont,mla,,! eachofyoursnacks. IllSJc{enses.18,11I111you, A warrior with less skill would IOSl\u0027 hts Your mighlY anack balance-andfalllathe caUSeS)~fopponent ground when using to stagger aimlessly rhisfighuag style. for a few key mo While rou are in mems. leaving him this stance,you deal unableroacrfullyon damageasifyouwere his nexttum. one Sill\u0027 larger than As put of this normal,loamaximum maneuver,youmake of Large.This bcnefu im asingle melee attack. proves your weOlpon and Thisattackdealsanextra unarmed strtkc damage. It ..depoints ofdamage.A doesnotconferanyofrbeother creature hilbyrhtssmke benefitsordrawbacksofachange in mustalso makeasuccessful size,suchasamoJihl\u0027ftoabilil}\u0027SCOK\u0027S A \".\"\"\u0027-\"/ttlsr~r~jjlt.,it.hr Fortitudesa\\\"e(OC16...yourStrmodi OfAC.Of an improved reach. 0/r~tId\"Moalf14i\"0.......... her or be unable to take a standard Thisstancermrnediatelvendsifyou actionfor tround.IIcanotherwiseaCI",
+        "name":  "Targel",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1standard acncn movemorethan 5feer formvreason, asnormal.AcreatureIhatsuccessfully",
+        "name":  "Initiation Acrion",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "ES ground.Aflyingcreatureor alevnar As)\u0027(Illnt.lk.-amcuu(ul.t1l1cli:.you(I1ltr Stone Dragon(Stfikl\u0027) ing tafgt\u0027t need not S3.\\-e against rhe II m,Jlflllll\u0027tdlll.-fllalltIJl\u0027ti rou\"lm(lS1",
+        "name":  "IRON BOll",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  ",t\":Personal Target:Onecreature rOll rtlIluh ,)lIJ stl )\u0027Our fttl flill 011 III(",
+        "name":  "RanJ",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Om\u0027 SIOOt\u0027 Dragon This maneuver functions only Prerequtsue:Threl\u0027 Stone Dragon maneuver 3g3mS! opponents standtng on the maneuvers lntttanonAction:1standardacuon ground..\\\u0027 [lyingcreatureoralevitat InitiationAction:1swif action Range\u0027:xteleeatuck ing target need nor save ag3imt the Range:Personal",
+        "name":  "Prerequisite",
+        "source":  "tome_of_battle_book_of_nine_swords_ocr.txt",
+        "_id":  "2a7ecd1d5ecde1b1ec6c14ce10a4f308fb8ea8a263daea60f5ddfbf0132ab516"
+    }
+]

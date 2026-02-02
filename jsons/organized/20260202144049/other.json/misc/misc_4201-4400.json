@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "other.json",
+        "description":  "Blast deals cold damage, and target must make Fortitude save or take –2 penalty to Dexterity.",
+        "name":  "Hellrime Blast",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Create shad- ows ﬁ lled with a swarm of bats.",
+        "name":  "Hungry Darkness",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Target must make Will save or be con- fused  for 1 round.",
+        "name":  "Bewitching Blast",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Blast takes the shape of a cone.",
+        "name":  "Eldritch Cone",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Target must make Fortitude save or be nauseated.",
+        "name":  "Noxious Blast",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Target must make Re ﬂ ex save or be knocked back.",
+        "name":  "Repelling Blast",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Become a swarm of batlike shad- ows, gaining many bene ﬁ ts of the swarm subtype.",
+        "name":  "Dark Discorporation",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Blast affects all enemies within 20 feet.",
+        "name":  "Eldritch Doom",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Target must make Fortitude save or gain two negative levels.",
+        "name":  "Ut terdark Blast",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The bottle can store speci ﬁ c ideas, communica- tions, or conclusions. Once a memory is stored, it disappears from the user ’s mind, but she remembers the general nature of the stored thought. For example, if the user stored the name of a murderer, that name would disappear from her memory and be unrecoverable from her own mind by any means, though she would know that the thought bottle now contains the murderer ’s name. Similarly, secret messages and intelligence can be hidden in a thought bottle  to pass them to someone else.",
+        "name":  "Thoughts",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The user ’s recollection of a single day ’s events can be stored in the bottle. Once stored, the user remembers the general nature of the memory ( “the day we performed the Ritual of Binding ”) but loses all details of the event itself.",
+        "name":  "Memories",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "8d10 + 30 (74 hp)",
+        "name":  "Large ConstructHit Dice",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1",
+        "name":  "Initiative",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "40 ft. (8 squares)",
+        "name":  "Speed",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Claw +15 melee (1d6+9)",
+        "name":  "Attack",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 claws +15 melee (1d6+9) and bite +10 melee (1d8+4) Space/Reach: 10 ft./5 ft.",
+        "name":  "Full Attack",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Improved grab, pounce, rake 1d6+4",
+        "name":  "Special Attacks",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Damage reduction 5/adamantine, con- struct traits, darkvision 60 ft., low-light vision",
+        "name":  "Special Qualities",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +2, Ref +3, Will +2",
+        "name":  "Saves",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 29, Dex 13, Con —, Int —, Wis 11, Cha 1",
+        "name":  "Abilities",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "—",
+        "name":  "Skills",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any",
+        "name":  "Environment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any",
+        "name":  "Organization",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "6",
+        "name":  "Challenge Rating",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "Treasure",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral",
+        "name":  "Alignment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "Advancement",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  " Construct Size Bonus Hit Points Fine to Tiny —Small 10Medium 20Large 30Huge 40Gargantuan 60Colossal 80",
+        "name":  "Constitution, but gains bonus hit points based on its size, as shown below",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Base save bonuses are Fort +1/3 HD, Ref +1/3 HD, and Will +1/3 HD.",
+        "name":  "Saving Throws",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None.",
+        "name":  "Organization",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None.",
+        "name":  "Treasure",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral.",
+        "name":  "Alignment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None.",
+        "name":  "Advancement",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+0",
+        "name":  "Initiative",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Claw +5 melee (1d6+3)",
+        "name":  "Attack",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 claws +5 melee (1d6+3) Space/Reach: 5 ft./5 ft.",
+        "name":  "Full Attack",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sneak attack +1d6",
+        "name":  "Special Attacks",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +6, Ref +1, Will +1",
+        "name":  "Saves",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 17, Dex 10, Con 16, Int 5, Wis 11, Cha 8",
+        "name":  "Abilities",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hide +2, Listen +4, Spot +4",
+        "name":  "Skills",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Alertness, Toughness",
+        "name":  "Feats",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Elemental Plane of Earth",
+        "name":  "Environment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary",
+        "name":  "Organization",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2",
+        "name":  "Challenge Rating",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral evil",
+        "name":  "Alignment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4–6 HD (Medium); 7 –9 HD (Large)",
+        "name":  "Advancement",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "3d8+3 (16 hp)",
+        "name":  "Hit Dice",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+3",
+        "name":  "Initiative",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "40 ft. (8 squares)",
+        "name":  "Speed",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam +5 melee (1d4 plus 1d6 ﬁ re)",
+        "name":  "Attack",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam +5 melee (1d4 plus 1d6 ﬁ re) Space/Reach: 5 ft./5 ft.",
+        "name":  "Full Attack",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fire spray",
+        "name":  "Special Attacks",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +2, Ref +6, Will +1",
+        "name":  "Saves",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 11, Dex 16, Con 12, Int 9, Wis 11, Cha 8",
+        "name":  "Ab ilities",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Jump +6, Listen +4, Spot +4",
+        "name":  "Sk ills",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Alertness,",
+        "name":  "Feats",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  " Solitary",
+        "name":  "Or ganization",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2",
+        "name":  "Challenge Rating",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neu- tral evil",
+        "name":  "Al ignment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4–6 HD (Medium); 7 –9 HD (Large)",
+        "name":  "Advancement",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+3",
+        "name":  "Initiative",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fly 40 ft. (perfect) (8 squares)",
+        "name":  "Speed",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam +5 melee (1d6+1)",
+        "name":  "Attack",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam +5 melee (1d6+1) Space/Reach: 5 ft./5 ft.",
+        "name":  "Full Attack",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "—",
+        "name":  "Special Attacks",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +1, Ref +6, Will +1",
+        "name":  "Saves",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 13, Dex 16, Con 10, Int 9, Wis 11, Cha 8",
+        "name":  "Abilities",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Listen +4, Move Silently +5, Spot +4",
+        "name":  "Skills",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Elemental Plane of Air",
+        "name":  "Environment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary",
+        "name":  "Organization",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2",
+        "name":  "Challenge Rating",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral evil",
+        "name":  "Alignment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4–6 HD (Medium); 7 –9 HD (Large)",
+        "name":  "Advancement",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1",
+        "name":  "Initiative",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. (6 squares), swim 60 ft.",
+        "name":  "Speed",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam +4 melee (1d6+3)",
+        "name":  "Attack",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam +4 melee (1d6+3) Space/Reach: 5 ft./5 ft.",
+        "name":  "Full Attack",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Water jet",
+        "name":  "Special Attacks",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +5, Ref +4, Will +1",
+        "name":  "Saves",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 14, Dex 12, Con 14, Int 7, Wis 11, Cha 8",
+        "name":  "Abilities",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hide +3, Listen +4, Spot +4, Swim +10",
+        "name":  "Skills",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Alertness, Lightning Re ﬂ exes",
+        "name":  "Feats",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Elemental Plane of Water",
+        "name":  "Environment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary",
+        "name":  "Organization",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2",
+        "name":  "Challenge Rating",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral evil",
+        "name":  "Alignment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4–6 HD (Medium); 7 –9 HD (Large)",
+        "name":  "Advancement",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+15",
+        "name":  "Initiative",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fly 100 ft. (perfect) (20 squares)",
+        "name":  "Speed",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam +34 melee (6d6+11/19 –20)",
+        "name":  "Attack",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 slams +34 melee (6d6+11/19 –20) Space/Reach: 20 ft./20 ft.",
+        "name":  "Full Attack",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Air mastery, whirlwind",
+        "name":  "Special Attacks",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Damage reduction 15/ —, darkvision 60 ft., elemental traits",
+        "name":  "Special Qualities",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +18, Ref +31, Will +16Abilities: Str 32, Dex 33, Con 22, Int 12, Wis 15, Cha 17",
+        "name":  "Saves",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Balance +13, Diplomacy +5, Intimidate +16, Jump +41, Listen +43, Sense Motive +15, Spot +43, Tumble +24",
+        "name":  "Skills",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Alertness, Blind- ﬁ ght, Cleave, Combat Re ﬂ exes, Dodge, Flyby Attack, Great Cleave, Improved Critical (slam), Improved Initiative, Improved Natural Attack, Iron Will, Mobility, Power Attack, Spring Attack",
+        "name":  "Feats",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Elemental Plane of Air",
+        "name":  "Environment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary",
+        "name":  "Organization",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "17",
+        "name":  "Challenge Rating",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "Treasure",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually neutral",
+        "name":  "Alignment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "37–54 HD (Gargantuan)",
+        "name":  "Advancement",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "–2",
+        "name":  "Initiative",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. (6 squares)",
+        "name":  "Speed",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam +40 melee (6d8+16/19 –20)",
+        "name":  "Attack",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 slams +40 melee (6d8+15/19 –20) Space/Reach: 20 ft./20 ft.",
+        "name":  "Full Attack",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Earth mastery, push",
+        "name":  "Special Attacks",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Damage reduction 15/ —, darkvision 60 ft., earth glide, elemental traitsSaves: Fort +27, Ref +10, Will +16",
+        "name":  "Special Qualities",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 43, Dex 6, Con 24, Int 12, Wis 15, Cha 17",
+        "name":  "Abilities",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Diplomacy +5, Intimidate +16, Jump +29, Listen +43, Sense Motive +15, Spot +43.",
+        "name":  "Skills",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Elemental Plane of Earth",
+        "name":  "Environment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary",
+        "name":  "Organization",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "17",
+        "name":  "Challenge Rating",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "Treasure",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually neutral",
+        "name":  "Alignment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "37–54 HD (Gargantuan)",
+        "name":  "Advancement",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "36d8+216 (378 hp)",
+        "name":  "Hit Dice",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+13",
+        "name":  "Initiative",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "60 ft. (12 squares)",
+        "name":  "Speed",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam +35 melee (6d6+11/19 –20 plus 4d6 ﬁ re)",
+        "name":  "Attack",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 slams +35 melee (6d6+11/19 –20 plus 4d6 ﬁ re) Space/Reach: 20 ft./20 ft.",
+        "name":  "Full Attack",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Burn",
+        "name":  "Special Attacks",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Damage reduction 15/ —, darkvision 60 ft., elemental traits, immunity to ﬁ re, vulnerability to cold",
+        "name":  "Special Qualities",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +20, Ref +29, Will +16",
+        "name":  "Saves",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 32, Dex 29, Con 22, Int 12, Wis 15, Cha 17",
+        "name":  "Abilities",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Balance +13, Diplomacy +5, Intimidate +16, Jump +25, Listen +43, Sense Motive +15, Spot +43, Tumble +24",
+        "name":  "Skills",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Elemental Plane of Fire",
+        "name":  "Environment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary",
+        "name":  "Organization",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "17",
+        "name":  "Challenge Rating",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "Treasure",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually neutral",
+        "name":  "Alignment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "37–54 HD (Gargantuan)",
+        "name":  "Advancement",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "36d8+255 (417 hp)",
+        "name":  "Hit Dice",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+6",
+        "name":  "Initiative",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. (6 squares), swim 120 ft.",
+        "name":  "Speed",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 slams +38 melee (6d8+14/19 –20) Space/Reach: 20 ft./20 ft.",
+        "name":  "Full Attack",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Drench, vortex, water mastery",
+        "name":  "Special Attacks",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Darkvision 60 ft., damage reduction 15/—, elemental traits",
+        "name":  "Special Qualities",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +27, Ref +20, Will +16",
+        "name":  "Saves",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 38, Dex 22, Con 25, Int 12, Wis 15, Cha 17",
+        "name":  "Abilities",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Diplomacy +5, Intimidate +16, Jump +27, Listen +43, Sense Motive +15, Spot +43, Swim +22.",
+        "name":  "Skills",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Elemental Plane of Water",
+        "name":  "Environment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary",
+        "name":  "Organization",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "17",
+        "name":  "Challenge Rating",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "Treasure",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually neutral",
+        "name":  "Alignment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "37–54 HD (Gargantuan)",
+        "name":  "Advancement",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "3d10+9 (25 hp)",
+        "name":  "Large OutsiderHit Dice",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+2",
+        "name":  "Initiative",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "50 ft. (10 squares), ﬂ y 100 ft. (average)",
+        "name":  "Speed",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Claw +6 melee (1d4+4)",
+        "name":  "Attack",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 claws +6 melee (1d4+4) and bite +1 melee (1d8+2) Space/Reach: 10 ft./5 ft.",
+        "name":  "Full Attack",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "True strike",
+        "name":  "Special Attacks",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +6, Ref +5, Will +2",
+        "name":  "Saves",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 18, Dex 15, Con 16, Int 3, Wis 13, Cha 8",
+        "name":  "Abilities",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Listen +4, Spot +8",
+        "name":  "Skills",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Dodge, Wingover",
+        "name":  "Feats",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any land and underground",
+        "name":  "Environment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary",
+        "name":  "Organization",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2",
+        "name":  "Challenge Rating",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "Treasure",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral",
+        "name":  "Alignment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4–6 HD (Large); 7 –9 HD (Huge)",
+        "name":  "Advancement",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any land and underground.",
+        "name":  "Environment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4d12+3 (29 hp)",
+        "name":  "Hit Dice",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+3",
+        "name":  "Initiative",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. (6 squares)",
+        "name":  "Speed",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +5 melee (1d8+3 plus paralysis)",
+        "name":  "Attack",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +3, Ref +6, Will +8",
+        "name":  "Saves",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 17, Dex 17, Con —, Int 13, Wis 14, Cha 16",
+        "name":  "Abilities",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Balance +7, Climb +9, Hide +8, Jump +9, Move Silently +8, Spot +8",
+        "name":  "Skills",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Multiattack, Toughness",
+        "name":  "Feats",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any",
+        "name":  "Environment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary",
+        "name":  "Organization",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4",
+        "name":  "Challenge Rating",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard",
+        "name":  "Treasure",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always chaotic evil",
+        "name":  "Alignment",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5–8 HD (Medium)",
+        "name":  "Advancement",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The seekers ’ never- ending pursuit of the knowledge of the primal music means that many of them have motivations beyond those of the rest of an adventuring group. In general, a seeker n e v e r  all o w s  this  un d e r l yin g  n e e d  t o  w h o ll y  d e ﬁ ne her personality, but at the same time, her quest for the primal music provides a foundation on which other activities are b u i l t .  A  s e e k e r  m i g h t  s e a r c h  o u t  p e r f o r m e r s  o f  r e n o w n during the group ’s downtime, for example, or more fully explore the rumors related to the quest to add to the order ’s collection of lore.",
+        "name":  "Roleplaying Suggestions",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "While each seeker of the song knows that the primal music is a part of his life forevermore, each embraces it in his own way. To some, the primal music is the promise of ever- lasting peace, a gift to be shared and spread with an almost religious fervor. To others, primal music is a road to absolute power, allowing those skilled in its use to control what they desire and destroy what they despise. For the majority of seekers, though, the primal music is simply the foundation on which the moral and mundane concerns of their lives are built. While the beauty and the need of the music are carried always within them, their commitment to it remains ﬁ rst and foremost personal.",
+        "name":  "Typical Guildsman",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 + Int modi ﬁ er.",
+        "name":  "Skill Points at Each Additional Level",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The epic warlock ’s caster level is equal to his class level. He does not learn additional invocations.",
+        "name":  "Invocations",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 + Int modi ﬁ er.",
+        "name":  "Skill Points at Each Additional Level",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "d4.",
+        "name":  "Hit Die",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 + Int modi ﬁ er.",
+        "name":  "Skill Points at Each Additional Level",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 + Int modi ﬁ er.",
+        "name":  "Skill Points at Each Additional Level",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Penny Williams",
+        "name":  "Design",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Penny Williams",
+        "name":  "Editing",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Nancy Walker",
+        "name":  "Typesetting",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Rob Lazzaretti, Dennis Kauth W eb Production Julia Martin",
+        "name":  "Cartography",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Mark A. Jindra",
+        "name":  "W eb Development",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Male dwarf expert 6/fighter 3; hp 24.",
+        "name":  "Delkin",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "These students know only the basic routines of the complex. A few have heard oddsounds during the night, but none have encounteredanything unusual.",
+        "name":  "Development",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Male half-elf cleric 12; hp 42.",
+        "name":  "Melver",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Melver is happy to talk with the PCs as long as he knows that Sereda has given thempermission to probe. He is quite certain that the deathshere have not all been accidents, and that someonewalks the halls at night. His divinations point to ahostile presence within the complex, but he has beenunable to pin it down so far.",
+        "name":  "Development",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The altar service is worth 1,000 gp. 10a. Cleric’s Chamber This room serves as Melver’s bedchamber and robingroom. Read or paraphrase the following when the PCsenter, adjusting for the time of day.Melver is here only at night; otherwise he is in area 10. On the table are notes for his next sermon. Thewardrobe holds his vestments as well as his normalclothing. On the nightstand is a holy symbol ofHeironeous.",
+        "name":  "Treasure",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Male halfling expert 5; hp 17.",
+        "name":  "Carlis",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "hp 55; see The Order of the Fire Hawk. 17. High Warmaster’s Bedchamber (0 or 15) The high warmaster sleeps in this chamber.The book on the nightstand is a history of Rary and his realm. Sereda has been studying it for cluesabout the strange events of recent weeks. Thewardrobe holds her ceremonial garb as well as herdaily clothing. The books on these shelves are herpersonal favorites. The subjects range from fancifultales of knights and dragons to biographies offamous leaders.",
+        "name":  "Sereda Ostarte",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "hp 55; see The Order of the Fire Hawk.",
+        "name":  "Sereda",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Climb –1, Handle Animal +3, Jump –5, Listen +2, Ride +6, Spot +2; Alertness, Cleave, PowerAttack.",
+        "name":  "Skills and Feats",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    }
+]

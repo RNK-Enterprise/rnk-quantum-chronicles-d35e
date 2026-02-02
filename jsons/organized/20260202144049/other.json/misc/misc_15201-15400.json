@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "other.json",
+        "description":  "Ice in these areas is 1d10+10 feet thick. The movement more diffi cult. The DC of Balance and Tumble ground consists of slippery ice. It costs 2 squares of move- checks increases by 2. ment to enter a square covered by an ice sheet, and the DC of Natural Snow Field: The area is covered by snow 1d4×10 Balance and Tumble checks increases by 5. A DC 10 Balance feet in depth, although a firm layer is only 1d6 feet below check is required to run or charge across pack ice. the surface. 25 FROSTFELL THE CHAPTER 1",
+        "name":  "Pack Ice",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Characters moving uphill (to an adjacent Usually, about one-fi fth to one-eighth of an iceberg juts square of higher elevation) must spend 2 squares of move- above the water’s surface. The core, well below the water ment to enter each square of steep slope. Characters running line, is composed of ancient, rock-hard ice. or charging downhill (moving to an adjacent square of lower Icebergs come in three categories: small, medium, and elevation) must succeed on a DC 10 Balance check upon large. Small icebergs are 1d2×10 feet high and 1d2×50 feet entering the fi rst steep slope square. Mounted characters in diameter. Medium icebergs are 3d4×10 feet high and make a DC 10 Ride check instead. Characters who fail this 3d4×50 feet in diameter. Large icebergs are 1d4×200 feet check stumble and must end their movement 1d2×5 feet later. high and 1d4×500 feet in diameter. All iceberg squares are Characters who fail by 5 or more fall prone in the square ice sheets. where they end their movement. Though most icebergs are white in color, a rare few have A steep slope increases the DC of Tumble checks by 2. hues of orange, red, blue, green, or black. ICE FIELD TERRAIN Iceberg Terrain Features The two types of ice fi eld terrain are natural and supernatu- —Iceberg Category— ral. When ice is encountered in any other type of terrain, Small Medium Large Cliff 25% 30% 35% you may choose to consult this table for additional choices Crevasse 5% 10% 15% of ice elements. The elements in this list are not mutually Gradual slope 10% 20% 30% exclusive, except that natural ice sheet cannot exist in the Ice sheet 100% 100% 100% same square as any other type of ice. For more information Steep slope 40% 50% 60% on supernatural features, see Supernatural Perils of the Frostfell (page 13). Cliff: A cliff typically requires a DC 15 Climb check to scale and is 1d4×10 feet tall, although the needs of your Ice Field Terrain Features map may mandate a taller cliff. A cliff isn’t perfectly verti- —Ice Field Category— cal, taking up 5-foot squares if it’s less than 30 feet tall and Natural Supernatural 10-foot squares if it’s 30 feet or taller. Since the cliffs on an Ebony ice 2% 10% iceberg are usually covered in frost, the DC of Climb checks Faerie frost 2% 10% is increased by 2. Lightning ice pillar — 5%",
+        "name":  "Steep Slope",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Crevasses function like pits in a dungeon set- Natural ice sheet 99% — Razor ice 1% 5% ting. A typical crevasse is 2d4×10 feet deep, at least 30 feet long, and anywhere from 5 to 40 feet wide. Some crevasses",
+        "name":  "Crevasse",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The ground consists of slippery ice. It costs are hidden by crusts of snow. 2 squares of movement to enter a square covered by an ice Gradual Slope: Due to their icy nature, gradual slopes sheet, and the DC of Balance and Tumble checks increases on icebergs cost 3 squares of movement to enter and by 5. A DC 10 Balance check is required to run or charge increase the DC of Balance and Tumble checks by 10. A across an ice sheet. DC 12 Balance check is required to run or charge. Charac-",
+        "name":  "Ice Sheet",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "This functions exactly like ice sheet ter- ters gain a +1 bonus on melee attacks against foes downhill rain, except that the ice is jet-black and negative energy from them. fills the area. Ice Sheet: The ground is covered with slippery ice. It",
+        "name":  "Ebony Ice",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "This functions exactly like ice increases by 5. A DC 10 Balance check is required to run or sheet terrain, except that the square includes a towering charge across an ice sheet. pillar of transparent blue ice (2d4×10 feet high and 1d3 Steep Slope: Due to their icy nature, steep slopes on squares in diameter). icebergs cost characters 4 squares of movement to enter",
+        "name":  "Lightning Ice Pillars",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Patches of quickslush present the appear- –2 penalty on Move Silently checks in light undergrowth. ance of shallow slush (appearing as a shallow slush bog) that Heavy undergrowth costs 4 squares of movement to move may trap careless characters (see page 22). into, and it provides concealment with a 30% miss chance",
+        "name":  "Quickslush",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "These brilliant white walls are most Light undergrowth 20% 10% often created by fi rst carving or packing snow into massive Ice sheet 15% 25% blocks and then arranging the blocks into a vertical plane Light rubble 5% 5% usually 2 feet thick. Often these walls feature cracks, crev- ices, and extremely narrow ledges where the snow blocks",
+        "name":  "Alpine Arctic Packed Snow Walls",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "These sible, except along paths. fl oors act just like natural snow- The ice in these areas can be fi elds as described in Snow Field natural or supernatural (ebony ice, Terrain, above. The snow in these faerie frost, or razor ice). areas can be natural or supernatural Hewn Ice Floors: These fl oors are (blood snow, negation snow, quick- typically rough, uneven, slippery, and lit- snow, or rustsnow) and may include tered with tiny chunks of ice. A DC 15 areas of natural or acid slush bogs, which Balance check is required to run or charge across such a fl oor. Failure means the char- pqs acter can still act, but can’t run or charge this round.",
+        "name":  "Loose Snow Floors",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Boulders of natural ice resemble new frostfell traps. snow boulders in their shape and size. They are most often opaque with a whitish or bluish-white coloring, as most ROOMS intelligent denizens use doors for privacy as well Rooms in frostfell dungeons come in a variety of types. All as security. However, ice boulders can be the room types detailed in Chapter 3: Dungeon transparent. Rolling an ice boulder out Terrain of the Dungeon Master’s Guide may be of the way requires a successful found in these complexes, along with the DC 20 Strength check. new area listed below. In addition, their",
+        "name":  "Natural Ice Boulder",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "These areas were once above Extreme cold +4 the freezing point, but have since dipped into lower tem- peratures. The thickness of the top layer of ice depends MISCELLANEOUS FEATURES on many factors (current temperature, overall climate, All the miscellaneous features listed in Chapter 3 of the composition of the ice, and so forth), but a method Dungeon Master’s Guide may also be found in these com- for random determination is included in the entries. plexes of frostfell. Miscellaneous features specifi c Frozen Shallow Pool: If a square contains a to frostfell areas include the following: frozen shallow pool, it has roughly 1 foot of",
+        "name":  "Frozen Pools and Lakes",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Stairs of ice function water, the top 2-inch layer of which is ice. It like those normally encountered in otherwise functions as a natural ice sheet as dungeons, except that their icy nature in- described in Ice Field Terrain (see page 25), creases the DC of Balance and Tumble except that the ice can break if the amount checks by 10. Running or charging of weight in a square exceeds the weight down ice stairs is impossible. limit listed in Table 1–2 for that depth",
+        "name":  "Ice Stairs",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "These of ice, plunging the source of the weight bridges are slippery and therefore dan- into the freezing water. However, because gerous. The DC of Balance and of the shallow depth of the pool, crea- Tumble checks increases by tures breaking through the ice are not 5. Characters running or considered immersed in water. charging up across one of Frozen Deep Pool: If a square con- these bridges must succeed on a tains a frozen deep pool, it has at least DC 12 (for snow) or DC 15 (for ice) Balance 4 feet of water, the top 1d6-inch layer check each round. Mounted characters make a of which is ice. It otherwise functions as a DC 12 (for snow) or DC 15 (for ice) Ride check natural ice sheet as described in Ice Field Terrain instead. Characters who fail this check stumble and must (see page 25), except that the ice can break if the amount of end their movement 1d2×10 feet later, continuing along the weight in a square exceeds the weight limit listed in Table trajectory they established at the outset of their movement, 1–2 for that depth of ice, plunging the source of the weight which can cause characters to plummet of bridges without into the freezing water. See page 11 for more information railings. Characters who fail by 5 or more fall prone in the on breaking through ice, and page 64 of the Dungeon square where they end their movement. Master’s Guide for information on characters immersed in",
+        "name":  "Snow and Ice Bridges",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Neanderthals have traditionally had poor rela- Tundra Halflings tions with other races. Orcs, frost folk, and similar savage Halfl ings native to the frostfell are known as tundra halfl ings, races treat them the same way as they treat humans—as for their affi nity to these wide open reaches of the frozen enemies at best and as food at worst. Yet the neanderthals lands. They retain their nomadic lifestyles, but often build cannot look to the civilized societies for aid, for such soci- permanent structures along the paths their wanderings eties often displace neanderthals from their homelands in commonly take; it’s not uncommon for a group of tundra their relentless pursuit to colonize and settle new lands. The halfl ings to wander from one empty village to another as neanderthals never give up their homelands gently, and the the seasons change. history of neanderthals and civilization is a long, bloody tale Tundra halfl ings have the same racial traits as those of warfare and slaughter. Those few societies that under- detailed in the Player’s Handbook, but with the following stand and honor the neanderthals’ traditions and hunting exceptions. grounds are still regarded with suspicion; the neanderthals • +2 racial bonus on Jump, Move Silently, and Survival have been tricked and deluded far too many times for them checks. Halfl ings raised on the tundra have little oppor- to openly accept offers of friendship and trade. tunity to practice their climbing skills, while ample Alignment: Neanderthals lead simple lives and are at moments exist to hone one’s skills at surviving. This one with the natural world. Good and evil, law and chaos replaces the halfl ing’s bonus on Climb, Jump, and Move have little interest to neanderthals, and they prefer to react Silently checks. to new situations based on similar previous encounters. • Favored Class: Ranger. A multiclass tundra halfl ing’s They have little interest in expanding their territories, but ranger class does not count when determining whether at the same time defend their homes with a ferocity equaled she takes an experience point penalty for multiclassing. by few orc tribes. While they may be bound by longstand- Tundra halfl ings tend to be more isolated and insular, and ing ancestral traditions and religions that are viewed as laws do not often interact with other societies. This, combined of a sort, these traditions are highly mutable and prone to with the fact that they are more often forced to provide for change when each generation comes into power. themselves by hunting and gathering, make them turn to Neanderthal Lands: Neanderthals usually live in large the skills of the ranger more often than not. groups consisting of six to ten extended families. These are 37 AND FEATS RACES, CLASSES, CHAPTER 2 known as clans. A single neanderthal clan usually dwells in In any case, religion is important in neanderthal society, a large cave network with numerous small entrances and for it provides a framework for them to explain everything one large main entrance, in which feasts and ceremonies in the world and their lives that they do not understand. are often held. Where large caverns like this are unavailable, Language: Although long ago, the original neanderthals neanderthals settle in abandoned ruins or in the lee of large had little need of language, today their rich oral traditions rock formations if no other shelter is available; they do not make language an important part of their society. For the build their own shelters. most part, neanderthals speak a crude form of Common that Surrounding their clan’s home are their hunting grounds. can be understood (with a bit of concentration) by anyone A clan’s hunting grounds usually cover as much terrain as who speaks the language. Neanderthals are generally illit- a person can walk in a half-day’s travel, since the hunters of erate, and prefer to use pictures and drawings to preserve neanderthal society prefer to return to their homes at night concepts and stories. after a day spent in the wild. The borders of these hunting Names: Neanderthals have simple names, yet they attri- grounds are often marked with crude fetishes made of skin, bute great power to them. Names are typically guttural and bone, and trophies taken from vanquished enemies. savage sounding. A neanderthal’s given name is a jealously",
+        "name":  "Relations",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bluetop, Chillblood, Glacierface, Ice- guages: All. Uldras are gifted linguists, and the Speak tongue, Shiver, Tusktooth. Language skill is always a class skill for them.",
+        "name":  "Male Names",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Coldcrystal, Frostwillow, Glitterrime, • Favored Class: Druid. A multiclass uldra’s druid class Skie, Skitterime, Whispersnow. does not count when determining whether he takes an",
+        "name":  "Female Names",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "This feat grants a +2 bonus on all Survival checks exploring and surviving in frostfell areas. made in high altitude (above 5,000 feet) areas. Prerequisite: Access to Cold or Winter cleric domain.",
+        "name":  "Special",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ability to rage. the cold subtype summoned by you are more powerful",
+        "name":  "Prerequisite",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Con 13, Snowcasting. Benefi t: By expending one of your daily uses of bardic",
+        "name":  "Prerequisite",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Base Fortitude save bonus +6, wild shape [GENERAL] ability. Your training and natural hardiness have improved your",
+        "name":  "Prerequisite",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Uldra. the night hag is normally immune to cold), and 10 points of",
+        "name":  "Prerequisite",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Your frosty touch ability now deals 2 points of cold damage are actually dealt to the night hag, who is both cold damage. shocked and enraged at this unexpected turn of events.",
+        "name":  "Benefi t",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Your patron deity must be Hleid.",
+        "name":  "Prerequisite",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As long as you are on board a ship, you get a +2 and almost seem to fl oat haphazardly across the battlefi eld bonus on all Balance and Tumble checks, and a +1 bonus on like a whirling, razor-edged snowfl ake. Initiative checks. Prerequisite: Bardic music ability, Perform (dance) 6 ranks.",
+        "name":  "Benefi t",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Smite ability. is a free action, and once activated, you add your Charisma",
+        "name":  "Prerequisite",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Con 13. SUGLIIN MASTERY [GENERAL]",
+        "name":  "Prerequisite",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Woodland stride ability. Your special mount is native to the frostfell.",
+        "name":  "Prerequisite",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "These prestige classes rely on rules presented in the Expanded Psionics Handbook.",
+        "name":  "Psionics",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any nonchaotic. checks made in mountain terrain. In addition, the cloud",
+        "name":  "Alignment",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+5. anchorite can always take 10 on a Balance, Climb, or Jump",
+        "name":  "Base Fortitude Save",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Climb 9 ranks, Jump 9 ranks, Knowledge (reli- check, even if circumstances would normally prevent her gion) 9 ranks, Survival 4 ranks. from doing so.",
+        "name":  "Skills",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Improved Unarmed Combat, Mountaineer. Slow Breath (Ex): At 2nd level, a cloud anchorite’s",
+        "name":  "Feats",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The prospective student must live for a week on breathing slows to a fraction of what it used to be. She can her own in a wilderness region, during which time she can hold her breath twice as long as normal, and gains a +2 travel no lower than 12,000 feet in altitude. bonus on all Fortitude saving throws against inhaled poi- sons, fatigue caused by high elevation, and altitude sickness. CLASS SKILLS At 6th level, her bonus on these Fortitude saving throws The cloud anchorite class skills (and the key ability for increases to +6. each skill) are Balance (Dex), Climb (Str), Concentration Bonus Feat: At 3rd level and again at 7th level, a cloud (Con) Craft (Int), Escape Artist (Dex), Jump (Str), Knowl- anchorite gains a bonus feat. This feat must be selected from edge (nature) (Int), Knowledge (religion) (Int), Listen the following list, and she must qualify for any prerequi- (Wis), Spot (Wis), Survival (Wis), Tumble (Dex), and Use sites the feat to be chosen might require: Acrobatic, Agile, Rope (Dex). See Chapter 4 of the Player’s Handbook for Athletic, Cold Endurance, Endurance, Great Fortitude, skill descriptions. Improved Cold Endurance, Self-Suffi cient, Skill Focus (in",
+        "name":  "Special",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4 + Int modifi er. any class skill), or Track. Resistance to Cold (Su): At 4th level, a cloud anchorite CLASS FEATURES gains resistance to cold 5. This increases to resistance to cold All the following are class features of the cloud anchorite 10 at 8th level. prestige class. Fast Movement (Ex): At 4th level, a cloud anchorite",
+        "name":  "Skill Points at Each Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ballarak has stonecunning, which grants SAMPLE CRYOKINETICIST him a +2 racial bonus on Search checks to notice unusual",
+        "name":  "Dwarf Traits",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any nongood. the disciple of Thrym gains resistance",
+        "name":  "Alignment",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Intimidate 4 ranks, to fi re 5. At 6th level, this increases to Survival 8 ranks. resistance to fi re 10.",
+        "name":  "Skills",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+4. Powerful Grip (Ex): At 3rd",
+        "name":  "Base Attack Bonus",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "d12. REQUIREMENTS To qualify to become a frostrager, a character must fulfi ll all the following criteria.",
+        "name":  "Hit Die",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+6.",
+        "name":  "Base Attack Bonus",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Intimidate 4 ranks, Survival 4 ranks. streams out of his pores, coating his body in a glittering crust",
+        "name":  "Skills",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Frozen Berserker, Improved Unarmed Strike, of ice. The frostrager’s actual size category does not change Power Attack. (nor does his space/reach), but he does gain a +4 natural",
+        "name":  "Feats",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Half-orc barbarian 6/frostrager 5; tude of respect and ire as the Knights of the Iron Glacier. CR 11; Medium humanoid (orc); HD 9d12+18; hp 76; Init +1; This order was founded nearly two hundred years ago Spd 30 ft.; AC 16, touch 11, fl at-footed 15; Base Atk +11; Grp by an exiled general named Aengrist and his loyal band +15; Atk +15 melee (1d3+4, unarmed strike); Full Atk +15/ of knights and followers. Forced to flee their homeland +10 melee (1d3+4, unarmed strike); SA frostrage, improved after a particularly vicious coup, these knights spent frostrage, one-two punch, rage 2/day, rend; SQ absorb cold, several years wandering from outpost to outpost in the freezing blood, improved uncanny dodge, trap sense +2, frostfell. They helped protect settlers against attacks by uncanny dodge; AL CN; SV Fort +11, Ref +4, Will +3; Str barbarians and orcs, but this activity was as much a justi- 18, Dex 12, Con 14, Int 12, Wis 10, Cha 6. fi cation for their continued purpose as anything else. As",
+        "name":  "Korrek Neversleep",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Upon becoming a Knight of the Iron Glacier, the paladins of the Iron Glacier remain the most iconic the character is awarded his own specially bred and trained members of the group. Paladins of the Iron Glacier mount, a war megaloceros. The character is expected to care remain the most respected members of the order, and are for, feed, and protect his warmount; when a mission does often granted privileges and honors reserved only for the not require the aid of the warmount, it can be stabled at no highest-ranking members. cost at any Iron Glacier stronghold.",
+        "name":  "Rangers and clerics of martial deities can also qualify, but Warmount",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Large animal; HD 7d8+28; hp 59; Iron Glacier prestige class and still take paladin levels at a Init +1; Spd 50 ft.; AC 14, touch 10, fl at-footed 13; Base later time if she wishes. Atk +5; Grp +15; Atk or Full Atk +10 melee (1d8+9, gore);",
+        "name":  "A paladin can freely take levels in the Knight of the War Megaloceros",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "d10. Space/Reach 10 ft./5 ft.; SA improved grab, stampede, toss; SQ combative mount, low-light vision, scent; AL REQUIREMENTS N; SV Fort +10, Ref +8, Will +6; Str 23, Dex 12, Con 19, To qualify to become a Knight of the Iron Glacier, a charac- Int 2, Wis 13, Cha 8. ter must fulfi ll all the following criteria. Skills and Feats: Listen +9, Spot +9; Alertness, Light-",
+        "name":  "Hit Die",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Lawful good or lawful neutral. ning Refl exes, Run.",
+        "name":  "Alignment",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Handle Animal 5 ranks, Ride 9 ranks, Survival Combative Mount (Ex): A rider on a war megaloceros 2 ranks. gains a +2 circumstance bonus on all Ride checks. A war",
+        "name":  "Skills",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Listen +11, Spot +11; Alertness, these benefi ts. Endurance, Lightning Refl exes, Run.",
+        "name":  "Hit Dice or levels attacks the knight, he does not receive Skills and Feats",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "d6. the normal uses of bardic music. Additionally, the storm- singer can detect the approach of a natural storm 24 hours REQUIREMENTS in advance of it reaching the character’s current location. To qualify to become a stormsinger, a character must fulfi ll Gust of Wind (Sp): A stormsinger of 1st level or higher with all the following criteria. 9 or more ranks in Perform (sing) can use bardic music to",
+        "name":  "Hit Die",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ice chalk comes in a variety of colors. These enhancement bonus on slashing damage for that natural waxy sticks can be used to make temporary marks on any attack for one hour. icy surface, similar to how chalk can be used to mark slate Whale Grease: Whale grease is a thick clear grease or stone. fashioned from a combination of melted whale blubber",
+        "name":  "Ice Chalk",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Colossal vehicle; Profession (sailor) +4; Skyberg: Colossal vehicle; Profession (pilot) –20; Spd fl y Spd ice wind × 30 ft. (average), snow wind × 20 ft. (poor); wind × 20 ft. (clumsy); Overall hp 900 (hardness 8); Over- Overall AC –3; Section hp 50 (hardness 5); Section AC 3; all AC –6; Section hp 50 (hardness 8); Section AC 3; Ram Rigging 80 hp (hardness 0), AC 1; Ram 12d6; Face 80 ft. by 20d6+1d6 cold; Space 100 ft.; Height 200 ft.; Cargo 1,000 20 ft.; Height 10 ft. (draft 10 ft.); Crew 20; Cargo 150 tons tons; Cost —. (Spd wind × 15 ft. if 75 tons or more); Cost 10,000 gp. A skyberg resembles an iceberg in every way, except that A sailing ice ship has runners that allow it to travel across it drifts along on wind currents rather than water currents. fi elds of snow as well as sheets of ice. The deck has enough Skybergs reach 1,000 or more feet in height. For the spe- room for two light catapults or ballistae. The ship can be cific terrain features of a skyberg, see Skyberg Terrain, converted from ice to water travel or vice versa with four page 26. hours of work by a full crew. Coldfi re Ship: Colossal vehicle; Profession (sailor) +4;",
+        "name":  "Sailing Ice Ship",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Wheeled land vehicles become slowed by fields of snow. 7–12 inches Minor None None See the table below for speed penalties incurred when traveling 13–24 inches Major Minor None through snowy areas. The “small” category includes Small and 25–36 inches Major Major Minor smaller vehicles, while the “large” category includes Large and 37–60 inches Total Major Minor larger vehicles. Water vehicles cannot travel through snow and 61+ inches Total Total Major air vehicles are not impeded. Minor: The vehicle must pay 2 squares of movement to",
+        "name":  "Snow",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Detect fi re within 60 ft. 10 points/level of damage (max 150).",
+        "name":  "Detect Fire",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+20 inherent bonus on Fortitude saves to Hibernate: Sends subject into state of hibernation for one resist altitude sickness. week/level.",
+        "name":  "Ease of Breath",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Creates a 20-ft. square of slippery ice.",
+        "name":  "Ice Slick",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Conjures an object made of ice.",
+        "name":  "Conjure Ice Object",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Obscures sight in a 30-ft. radius around for you. the caster.",
+        "name":  "Obscuring Snow",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Snow freezes, impeding movement.",
+        "name":  "Binding Snow",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Raise or lower ice or snow. for you.",
+        "name":  "Control Snow and Ice",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sculpts ice into any shape.",
+        "name":  "Ice Shape",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Transforms one 10-ft. cube/level of everfrost, slush,",
+        "name":  "WINTER DOMAIN Thaw",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Aengrist, Auril, Hleid, Telchur. snow, and ice.",
+        "name":  "Deities",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+20 inherent bonus on Fortitude saves to Frostfell Slide: Move instantly from one area of frostfell resist altitude sickness. to another.",
+        "name":  "Ease of Breath",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "While on ice, your speed increases by 60 feet. Hibernal Healing: You absorb ice, slush, and snow, curing",
+        "name":  "Ice Skate",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Flesh turns white, granting +5 circumstance 10 points/level of damage (max 150). bonus on Hide checks in snow and ice.",
+        "name":  "Ivory Flesh",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Conjures an object made of ice. Mantle of the Icy SoulX: Gives subject the cold subtype.",
+        "name":  "Conjure Ice Object",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Deals 2d4 of cold damage out to 10 Ease of Breath: +20 inherent bonus on Fortitude saves to ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 resist altitude sickness. frostburn damage +1/level. Ice Skate: While on ice, your speed increases by 60 feet.",
+        "name":  "Wall of ColdfireC",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Captures subjects in blocks of ice, suffocating for you. them. Snow Walk: Increase your speed and walk effortlessly on",
+        "name":  "EntombM",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Intense quake shakes 40-ft. radius spread of ice. top of snow without leaving tracks or scent.",
+        "name":  "Ice Rift",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Intense cold turns all subjects in area into ice.",
+        "name":  "Frostfell",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Three comets per round strike targets, raising Open Lock DC by 10 and lock’s each dealing 3d6 bludgeoning damage and 1d4/level hardness by 5. cold damage. Necro Shivering Touch, Lesser: Touch deals 1d6 Dex",
+        "name":  "Cometstrike",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Corporeal undead are held by a thick Ice Rift: Intense quake shakes 40-ft. radius spread layer of frost. of ice.",
+        "name":  "Necro Bone Chill",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Subject takes 1d8 points of cold Necro Heartfreeze: Subject exhausted, dies in 1d3+2 damage/round. rounds.",
+        "name":  "Heat Leech",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Area of fallen snow drains 1d2 points of Con/round and causes nausea. 8TH-LEVEL SORCERER/WIZARD",
+        "name":  "Necro Blood Snow",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Column of ice erupts from ground, Trans Frostfell: Intense cold turns all subjects in area lifting anything in its area into the air. into ice.",
+        "name":  "Conj Column of Ice",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Creates ice runner or ice galleon.",
+        "name":  "Ice ShipM",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hail deals 5d6 damage in cylinder 40 ft. across. deals 2d6 frostburn damage +1/level. Otiluke’s Freezing Sphere: Freezes water or deals cold",
+        "name":  "Ice Storm",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Mobile energy fi eld provides Protection from Energy [Cold or Fire]: Absorb 12 points/ immunity to cold. level of damage from one type of energy.",
+        "name":  "Abjur Anticold Sphere",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Turns subject into statue of ice.",
+        "name":  "Trans Flesh to Ice",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Captures subjects in blocks of ice, special components. suffocating them. 88 5 RETPAHC EHT FO CIGAM LLEFTSORF",
+        "name":  "Evoc EntombM",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cleric 6 and do an additional 1d6 points of cold locate the target).",
+        "name":  "Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, Coldfi re damage on a successful hit. In addition, the sharp ice par-",
+        "name":  "Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round Animated snow objects take 1d6 ticles tear the skin of those moving",
+        "name":  "Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels) points of damage each round if they through the area, causing 4 points of",
+        "name":  "Range",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "24 hours above freezing. cold damage.",
+        "name":  "Duration",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None Material Component: Meltwater from A strong wind (21+ mph) disperses",
+        "name":  "Saving Throw",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 6 sively, not aggressively. Forcing an Level: Cleric 3, druid 3, paladin 4,",
+        "name":  "Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Medium (100 ft. + 10 ft./level) the barrier (see Abjuration, page 172 of Casting Time: 1 standard action",
+        "name":  "Range",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Up to a 20-ft. cube of snow the Player’s Handbook). Range: 5 ft.",
+        "name":  "Area",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round/level Area: 5-ft.-radius spherical emanation,",
+        "name":  "Duration",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None Arctic Haze centered on you",
+        "name":  "Saving Throw",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 3, sorcerer/wizard 3 Saving Throw: None",
+        "name":  "Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cleric 3, druid 3, paladin 3, Casting Time: 1 standard action that originates from your fingertips ranger 3 Range: Medium (100 ft. + 10 ft./level) and moves in the direction you are",
+        "name":  "Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, DF, Frostfell Area: 20-ft. square of snow/level facing. As a stronger form of gust of",
+        "name":  "Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Duration: 1 round/level wind, this boreal wind automatically",
+        "name":  "Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Medium (100 ft. + 10 ft./level) Saving Throw: Fortitude negates extinguishes candles, torches, and",
+        "name":  "Range",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 hour/level (D) flames, including lanterns. Large",
+        "name":  "Duration",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M fi rst round must make an additional",
+        "name":  "Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action saving throw each round. Transmutation [Cold] Range: Close (25 ft. + 5 ft./2 levels) A boreal wind can do anything",
+        "name":  "Blizzard Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 5, Winter 5 Effect: Ray a sudden blast of wind would be",
+        "name":  "Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S Duration: 1 round/level expected to do. It can create a stinging",
+        "name":  "Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round Saving Throw: Fortitude negates spray of sand or dust, overturn tents",
+        "name":  "Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "100 ft.-radius/level spread small boat, and blow gases or vapors",
+        "name":  "Area",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round/level A ray of burning cold erupts from to the edge of the range.",
+        "name":  "Duration",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fortitude partial your fingertips. Corporeal undead The wind can change direction if",
+        "name":  "Saving Throw",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 5 ately succeed on a DC 12",
+        "name":  "Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S Refl ex saving throw or slip",
+        "name":  "Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round off the column, taking com-",
+        "name":  "Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10 ft.-radius/level as it rises may be smashed spread against the ceiling or other",
+        "name":  "Area",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous overhead obstructions, which",
+        "name":  "Duration",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cleric 1, druid 1, ranger 1 Conjuration (Creation) [Cold]",
+        "name":  "Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round Conjuration (Creation) [Cold] Effect: One or more conjured ice crea-",
+        "name":  "Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels) Level: Cleric 4, druid 4, ranger 4 tures, no two of which can be more",
+        "name":  "Range",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round/level (D) tures, no two of which can be more",
+        "name":  "Duration",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "One or more conjured ice crea- Range: Personal",
+        "name":  "Effect",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cleric 2, druid 2, ranger 2 Saving Throw: None (harmless)",
+        "name":  "Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Medium (100 ft. + 10 ft./level)",
+        "name":  "Range",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "One 20-ft.-by-20-ft. square of Transmutation energy, reducing or raising the tem- snow/level",
+        "name":  "Control Snow and Ice You imbue an area with cold or fire Area",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cleric 3 perature by one temperature band Duration: 1 hour/level",
+        "name":  "Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, DF per five caster levels. Effects of the Saving Throw: None",
+        "name":  "Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Long (400 ft. + 40 ft./level) the environment are incurred imme-",
+        "name":  "Range",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ice and snow in a volume of diately (see Cold Dangers, page 8 of An area of fallen snow designated by 10 ft./level by 10 ft./level by 2 this book, and Heat Dangers, page you becomes hard and crumbly, gen- ft./level (S) 303 of the Dungeon Master’s Guide). erating a loud crunch when stepped",
+        "name":  "Area",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None of mercury. Move Silently checks when traveling",
+        "name":  "Saving Throw",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 3, sorcerer/wizard 3 save for half damage.",
+        "name":  "Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M/DF Material Component: A hammer Detect Fire",
+        "name":  "Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round carved from salt crystal (50 gp). Divination [Cold]",
+        "name":  "Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 ft./level Level: Cleric 1",
+        "name":  "Range",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cleric 1, druid 1, ranger 1 Components: V, S, DF Winter Frigid cold, blizzard, and",
+        "name":  "Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, DF Casting Time: 1 standard action constant snowfall",
+        "name":  "Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Range: Medium (100 ft. + 10 ft./level)",
+        "name":  "Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch Area: 10-ft. radius Daily wind and snowfall during a",
+        "name":  "Range",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 hour/level neous; see text table below. Add +8 to the roll when cast",
+        "name":  "Duration",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None Saving Throw: None during winter, +4 in spring or autumn,",
+        "name":  "Saving Throw",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 6, sorcerer/wizard 6 11–15 1d8 inches snow or 1 inch hail Moderate (11+ mph)",
+        "name":  "Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M 16–20 1d12 inches snow Strong (21+ mph)",
+        "name":  "Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action 21–25 2d12+4 inches snow Strong (21+ mph)",
+        "name":  "Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Duration: 1 min./level and seams in inches of solid ice. The",
+        "name":  "Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous penalty on attack rolls, a –8 penalty to",
+        "name":  "Duration",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None The target gains buoyancy and can effective Dexterity, and can’t move. A",
+        "name":  "Saving Throw",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round/level metal less than one-fi fth of its weight",
+        "name":  "Flesh to Ice Duration",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None that makes its save is entirely unaf-",
+        "name":  "Transmutation Saving Throw",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M",
+        "name":  "Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Medium (100 ft. + 10 ft./level) +1 sacred bonus on all attack rolls and Round Temperature Cold Damage",
+        "name":  "Range",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous 3–5 Freezing 3d6 points",
+        "name":  "Duration",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sorcerer/wizard 6 stacks with the frost special ability, Components: V, S, DF",
+        "name":  "Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S but not with itself. Casting Time: 1 standard action",
+        "name":  "Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Material Component: A drop of Range: Close (25 ft. + 5 ft./2 levels)",
+        "name":  "Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round/level; see text Frostbite Duration: Instantaneous",
+        "name":  "Duration",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Will negates Conjuration (Creation) [Cold] Saving Throw: Fortitude half",
+        "name":  "Saving Throw",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, DF",
+        "name":  "Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cleric 2, druid 2, sorcerer/ Level: Cleric 2 stone becomes everfrost to a depth of wizard 2 Components: V, S, DF 10 feet per caster level. Air within",
+        "name":  "Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, M Casting Time: 1 standard action the area freezes, resulting in a heavy",
+        "name":  "Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Range: Touch snowstorm lasting for the duration of",
+        "name":  "Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round/level Saving Throw: Fortitude half moderate band.",
+        "name":  "Duration",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A pinch fl our. Coldfi re Component: One ounce of of dust and a few drops of water. coldfi re. Glacial Globe of Invulnerability Frostfell Slide Abjuration [Cold] Glacial Ward Conjuration (Teleportation) [Cold] Level: Cleric 4, sorcerer/wizard 3 Abjuration [Cold]",
+        "name":  "Arcane Material Component",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 4, ranger 4 Components: V, S, M/DF Level: Sorcerer/wizard 4",
+        "name":  "Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, DF, Frostfell Casting Time: 1 standard action Components: V, S, M",
+        "name":  "Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Range: 10 ft. Casting Time: 1 standard action",
+        "name":  "Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Personal Area: 10-ft.-radius spherical emana- Range: Touch",
+        "name":  "Range",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 hour/level or until Duration: 1 round/level (D) Duration: 1 min./level (D) expended; see text Saving Throw: None Saving Throw: None",
+        "name":  "Duration",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round",
+        "name":  "Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels); Necromancy [Cold] Abjuration [Cold] see text",
+        "name":  "Gelid Blood Glacial Ward, Greater Range",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 round/level In cold or lower temperature bands, Hibernal Healing",
+        "name":  "Duration",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels) wounds at a rate of just 1 hit point per",
+        "name":  "Range",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sorcerer/wizard 1 Saving Throw: Fortitude negates; tled a Will saving throw. A successful",
+        "name":  "Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S see text saving throw negates the effect of",
+        "name":  "Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch an additional saving throw whenever",
+        "name":  "Range",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Lock touched You plant a tiny sphere of intense cold it takes damage, when it is splashed",
+        "name":  "Target",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None each round on your turn (including 24 hours pass, whichever comes fi rst.",
+        "name":  "Saving Throw",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None; see text caused to the ice assassin can be tance: No.",
+        "name":  "Saving Throw",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action at the top of a 100-foot glacier would Arcane Material Component: Slush,",
+        "name":  "Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels) sweep debris 100 feet outward from which must be spread into roughly",
+        "name":  "Range",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous in the path takes 8d6 points of and then touched to the ice while the",
+        "name":  "Duration",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None bludgeoning damage (Reflex DC 15 verbal component is uttered.",
+        "name":  "Saving Throw",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cleric 6, druid 6, sorcerer/ a 25% chance to fall into the freezing to blows, cuts, stabs, and slashes. The wizard 6 water (Refl ex DC 20 to avoid a fi ssure). subject gains damage reduction 15/—.",
+        "name":  "Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action immediately subject to hypothermia of damage per caster level (maximum",
+        "name":  "Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Long (400 ft. + 40 ft./level) and take 2d6 points of cold damage 150 points). While protected by the",
+        "name":  "Range",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Druid 1, ranger 1 Components: V, S, M points of frostburn damage per",
+        "name":  "Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, DF Casting Time: 1 standard action round.",
+        "name":  "Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Range: Medium (100 ft. + 10 ft./level) In addition, anyone in the effect’s",
+        "name":  "Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fortitude negates Duration: Instantaneous vented from moving, though moving (harmless) Saving Throw: Fortitude negates is more diffi cult than normal (see",
+        "name":  "Saving Throw",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cleric 1 up to 10 feet long or a cylinder of up vides cover. If you have at least 20 feet",
+        "name":  "Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, DF to those dimensions in a larger mass of ice web between you, it provides",
+        "name":  "Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action of ice. total cover.",
+        "name":  "Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels) Material Component: A cube of ice The strands of an ice web are immune",
+        "name":  "Range",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "One 20-ft. square and a drop of blood. to damage from cold. Any fi re—a",
+        "name":  "Area",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S succeed on a Refl ex saving throw. lamp provides heat for comfort and",
+        "name":  "Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action The caster and any characters you for cooking.",
+        "name":  "Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Long (400 ft. + 40 ft./level) choose can walk under the icicles or The igloo also provides protection",
+        "name":  "Range",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "60-foot radius through the doorway without trigger- against the elements, such as wind,",
+        "name":  "Area",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Instantaneous ing the ice attack. Likewise, you can snow, and hail. The igloo withstands",
+        "name":  "Duration",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None or Refl ex half; remove the icicles whenever desired. any wind of less than hurricane force, see text Others can remove them with a suc- but a hurricane (75+ mph wind speed)",
+        "name":  "Saving Throw",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sorcerer/wizard 2 Duration: 2 hours/level (D) tive character level. The effects of",
+        "name":  "Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A handful of Mindfrost Numbing Sphere ice or snow that must be pressed to Necromancy [Cold] Evocation [Cold] the target’s body. Level: Sorcerer/wizard 4 Level: Druid 2, sorcerer/wizard 2",
+        "name":  "Material Component",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2,000. Components: V, S, M Components: V, S, M/DF",
+        "name":  "XP Cost",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 standard action Casting Time: 1 standard action",
+        "name":  "Casting Time",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels) Range: Medium (100 ft. + 10 ft./level)",
+        "name":  "Meld into Ice Range",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cleric 3, druid 3 Duration: Instantaneous Duration: 1 round/level",
+        "name":  "Level",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, DF Saving Throw: Fortitude half Saving Throw: Refl ex negates",
+        "name":  "Components",
+        "source":  "frostburn.txt",
+        "_id":  "a93bed76ce5bebfd9bba28c7ca88f6847c6f3cb65d70d9cec4d9a182d902f4c6"
+    }
+]

@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A fi ghter can select Powerful Charge as one of his fi ghter bonus feats. A creature with this feat is signifi cantly tougher than normal.",
+        "name":  "IMPROVED TOUGHNESS Special",
+        "source":  "monster_manual_iv.txt",
+        "_id":  "8ef31827c3a6d6279ed794f24e6fb71a324799cb0d443beebe27248a58fc6b1a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Attacks made by a creature that has this ability are treated as aligned for the purpose of overcoming This section of Monster Manual IV provides defi nitions and damage reduction. When it applies, “aligned strike” appears descriptions of monster characteristics. If you have come in the Atk Options line of a creature’s statistics block, fol- across a term used earlier in this book that you’re not familiar lowed in parentheses by a specifi c alignment (chaotic, evil, with, this is the place to fi nd out more. good, or lawful).",
+        "name":  "GLOSSARY Aligned Strike",
+        "source":  "monster_manual_iv.txt",
+        "_id":  "8ef31827c3a6d6279ed794f24e6fb71a324799cb0d443beebe27248a58fc6b1a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "An aberration has a bizarre anatomy, Alignment: This line in a monster entry gives the align- strange abilities, an alien mindset, or any combination of ment that the creature is most likely to have. Every entry the three. includes a qualifi er that indicates how broadly that alignment",
+        "name":  "Aberration Type",
+        "source":  "monster_manual_iv.txt",
+        "_id":  "8ef31827c3a6d6279ed794f24e6fb71a324799cb0d443beebe27248a58fc6b1a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "An aberration has the following features. applies to all monsters of that kind. —d8 Hit Dice. Always: The creature is born with the indicated alignment. —Base attack bonus equal to 3/4 total Hit Dice (as cleric). The creature might have a hereditary predisposition to the —Good Will saves. alignment or come from a plane that predetermines it. It is —Skill points equal to (2 + Int modifi er, minimum 1) per possible for individuals to change alignment, but such indi- Hit Die, with quadruple skill points for the fi rst Hit Die. viduals are either unique or rare exceptions.",
+        "name":  "Features",
+        "source":  "monster_manual_iv.txt",
+        "_id":  "8ef31827c3a6d6279ed794f24e6fb71a324799cb0d443beebe27248a58fc6b1a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This attack damages an opponent’s ability —d8 Hit Dice. score. The creature’s descriptive text gives the ability and the —Base attack bonus equal to 3/4 total Hit Dice (as amount of damage. If an attack that causes ability damage cleric). scores a critical hit, it deals twice the indicated amount of —Good Fortitude and Refl ex saves (certain animals have damage (if the damage is expressed as a die range, roll two different good saves). dice). Ability damage returns at the rate of 1 point per day —Skill points equal to (2 + Int modifi er, minimum 1) per for each affected ability. Hit Die, with quadruple skill points for the fi rst Hit Die.",
+        "name":  "Ability Damage",
+        "source":  "monster_manual_iv.txt",
+        "_id":  "8ef31827c3a6d6279ed794f24e6fb71a324799cb0d443beebe27248a58fc6b1a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creatures that has the aquatic subtype",
+        "name":  "Aquatic Subtype",
+        "source":  "monster_manual_iv.txt",
+        "_id":  "8ef31827c3a6d6279ed794f24e6fb71a324799cb0d443beebe27248a58fc6b1a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This subtype usually is used for elementals always have swim speeds and thus can move in water without and outsiders with a connection to the Elemental Plane of making Swim checks. An aquatic creature can breathe under- Air. Air creatures always have fl y speeds and usually have water. It cannot also breathe air unless it has the amphibious perfect maneuverability (see Movement Modes, page 213). special quality. 205 GLOSSARY",
+        "name":  "Air Subtype",
+        "source":  "monster_manual_iv.txt",
+        "_id":  "8ef31827c3a6d6279ed794f24e6fb71a324799cb0d443beebe27248a58fc6b1a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The plane of Celestia is home to a race creature or object. The ability’s range is specifi ed in the crea- of good outsiders known as the archons. ture’s descriptive text. The creature usually does not need to",
+        "name":  "Archon Subtype",
+        "source":  "monster_manual_iv.txt",
+        "_id":  "8ef31827c3a6d6279ed794f24e6fb71a324799cb0d443beebe27248a58fc6b1a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A construct is an animated object or noted below. artifi cially constructed creature. The entry indicates the amount of damage ignored (usu-",
+        "name":  "Construct Type",
+        "source":  "monster_manual_iv.txt",
+        "_id":  "8ef31827c3a6d6279ed794f24e6fb71a324799cb0d443beebe27248a58fc6b1a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "An elemental is a being composed of Darkvision (Ex): A creature that has this special ability one of the four classical elements: air, earth, fi re, or water. can see in the dark, out to the distance given in the creature’s Features: An elemental has the following features. entry. Darkvision is black and white only, but it is otherwise —8-sided Hit Dice. like normal sight, and a creature that has darkvision can —Base attack bonus equal to 3/4 total Hit Dice (as function just fi ne with no light at all. cleric). —Good saves depend on the element: Fortitude (earth,",
+        "name":  "Elemental Type",
+        "source":  "monster_manual_iv.txt",
+        "_id":  "8ef31827c3a6d6279ed794f24e6fb71a324799cb0d443beebe27248a58fc6b1a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A dragon has the following features. Hit Die, with quadruple skill points for the fi rst Hit Die. —12-sided Hit Dice. Traits: An elemental possesses the following traits (unless —Base attack bonus equal to total Hit Dice (as fi ghter). otherwise noted in a creature’s entry). —Good Fortitude, Refl ex, and Will saves. —Darkvision out to 60 feet. —Skill points equal to (6 + Int modifi er) per Hit Die, with —Immunity to poison, sleep effects, paralysis, and stun- quadruple skill points for the fi rst Hit Die. ning.",
+        "name":  "Features",
+        "source":  "monster_manual_iv.txt",
+        "_id":  "8ef31827c3a6d6279ed794f24e6fb71a324799cb0d443beebe27248a58fc6b1a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A creature that has the fi re subtype has immune to gaze attacks of others of its kind unless otherwise immunity to fi re. It has vulnerability to cold, which means noted. Allies of a creature that has a gaze attack might be it takes half again as much (+50%) damage as normal from affected. All the creature’s allies are considered to be averting cold, regardless of whether a saving throw is allowed, or if their eyes from the creature that has the gaze attack, and have the save is a success or failure. a 50% chance to not need to attempt a saving throw against the gaze attack each round. The creature also can veil its eyes, Frightful Presence (Ex): This special quality makes a thus negating its gaze ability. creature’s very presence unsettling to foes. It takes effect automatically when the creature performs some sort of Giant Type: A giant is a humanoid-shaped creature of dramatic action (such as charging, attacking, or snarling). great strength, usually of at least Large size.",
+        "name":  "Fire Subtype",
+        "source":  "monster_manual_iv.txt",
+        "_id":  "8ef31827c3a6d6279ed794f24e6fb71a324799cb0d443beebe27248a58fc6b1a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A humanoid usually has two arms, two without provoking attacks of opportunity (see Grapple, PH legs, and one head, or a humanlike torso, arms, and a head. 155). No initial touch attack is required. Humanoids have few or no supernatural or extraordinary Unless otherwise noted, improved grab works only abilities, but most can speak and usually have well-devel- against opponents at least one size category smaller than oped societies. They usually are Small or Medium. Every the creature. The creature has the option to conduct the humanoid creature also has a subtype, such as elf, goblinoid, grapple normally, or simply use the part of its body it used or reptilian. in the improved grab to hold the opponent. If it chooses to Humanoids that have 1 Hit Die exchange the features of do the latter, it takes a –20 penalty on grapple checks, but is their humanoid Hit Die for the class features of a PC or NPC not considered grappled itself; the creature does not lose its class. Humanoids of this sort are presented as 1st-level war- Dexterity bonus to AC, still threatens an area, and can use riors, which means that they have average combat ability and its remaining attacks against other opponents. poor saving throws. A successful hold does not deal any extra damage unless Humanoids that have more than 1 Hit Die (for example, the creature also has the constrict ability. If the creature does gnolls and bugbears) are the only humanoids who make use not constrict, each successful grapple check it makes during of the features of the humanoid type. successive rounds automatically deals the damage indicated",
+        "name":  "Humanoid Type",
+        "source":  "monster_manual_iv.txt",
+        "_id":  "8ef31827c3a6d6279ed794f24e6fb71a324799cb0d443beebe27248a58fc6b1a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A humanoid has the following features (unless for the attack that established the hold. Otherwise, it deals otherwise noted in a creature’s entry). constriction damage as well (the amount is given in the —8-sided Hit Dice, or by character class. creature’s descriptive text). —Base attack bonus equal to 3/4 total Hit Dice (as When a creature gets a hold after an improved grab attack, cleric). it pulls the opponent into its space. This act does not provoke —Good Refl ex saves (usually; a humanoid’s good save attacks of opportunity. It can even move (possibly carrying varies). away the opponent), provided it can drag the opponent’s —Skill points equal to (2 + Int modifi er, minimum 1) per weight. Hit Die, with quadruple skill points for the fi rst Hit Die, or by character class. Incorporeal Subtype: Some creatures are incorporeal",
+        "name":  "Features",
+        "source":  "monster_manual_iv.txt",
+        "_id":  "8ef31827c3a6d6279ed794f24e6fb71a324799cb0d443beebe27248a58fc6b1a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A living construct derives its Hit Dice, base attack heard with Listen checks if it doesn’t wish to be. It has no bonus progression, saving throws, and skill points from the Strength score, so its Dexterity modifi er applies to both its class it selects. melee attacks and its ranged attacks. Nonvisual senses, such Traits: A living construct possesses the following traits as scent and blindsight, are either ineffective or only partly (unless otherwise noted in a creature’s entry). effective with regard to incorporeal creatures. Incorporeal —Unlike other constructs, a living construct has a Con- creatures have an innate sense of direction and can move at stitution score. A living construct does not gain bonus hit full speed even when they cannot see. points by size but gains (or loses) bonus hit points through a Constitution bonus (or penalty) as with other living crea-",
+        "name":  "An incorporeal creature moves silently and cannot be Features",
+        "source":  "monster_manual_iv.txt",
+        "_id":  "8ef31827c3a6d6279ed794f24e6fb71a324799cb0d443beebe27248a58fc6b1a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A creature that has a swim speed can move through damage. Sting attacks usually deal damage from poison in water at that speed without making Swim checks. It has a addition to hit point damage. +8 racial bonus on any Swim check to perform some special Tentacle: The creature fl ails at opponents with a powerful action or avoid a hazard. The creature can always can choose tentacle, dealing bludgeoning (and sometimes slashing) to take 10 on a Swim check, even if distracted or endangered. damage. The creature can use the run action while swimming, pro- vided it swims in a straight line. Nonabilities: Some creatures lack certain ability scores. These creatures do not have an ability score of 0—they lack",
+        "name":  "Swim",
+        "source":  "monster_manual_iv.txt",
+        "_id":  "8ef31827c3a6d6279ed794f24e6fb71a324799cb0d443beebe27248a58fc6b1a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A subtype applied only to outsiders. the ability altogether. The modifi er for a nonability is +0. These creatures have mortal ancestors or a strong connec- Other effects of nonabilities are detailed below. tion to the Material Plane and can be raised, reincarnated, Strength: Any creature that can physically manipulate other or resurrected just as other living creatures can be. Creatures objects has at least 1 point of Strength. that have this subtype are native to the Material Plane (hence A creature that has no Strength score can’t exert force, usu- the subtype’s name). ally because it has no physical body (a whisper demon, for Unlike true outsiders, native outsiders need to eat and example). The creature automatically fails Strength checks. sleep. If the creature can attack, it applies its Dexterity modifi er to its base attack bonus instead of a Strength modifi er.",
+        "name":  "Native Subtype",
+        "source":  "monster_manual_iv.txt",
+        "_id":  "8ef31827c3a6d6279ed794f24e6fb71a324799cb0d443beebe27248a58fc6b1a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "An ooze has the following features. —Outsiders breathe, but do not need to eat or sleep —10-sided Hit Dice. (although they can do so if they wish). Native outsiders —Base attack bonus equal to 3/4 total Hit Dice (as breathe, eat, and sleep. cleric). —No good saving throws. Paralysis (Ex or Su): A paralysis attack renders the victim —Skill points equal to (2 + Int modifi er, minimum 1) per immobile. Paralyzed creatures cannot move, speak, or take Hit Die, with quadruple skill points for the fi rst Hit Die, if any physical actions. The creature is rooted to the spot, frozen the ooze has an Intelligence score. However, most oozes are and helpless. Paralysis works on the body, and a character mindless and gain no skill points or feats. can usually resist it with a successful Fortitude saving throw",
+        "name":  "Features",
+        "source":  "monster_manual_iv.txt",
+        "_id":  "8ef31827c3a6d6279ed794f24e6fb71a324799cb0d443beebe27248a58fc6b1a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Undead are once-living creatures animated Traits: Vermin possess the following traits (unless other- by spiritual or supernatural forces. wise noted in a creature’s entry).",
+        "name":  "Undead Type",
+        "source":  "monster_manual_iv.txt",
+        "_id":  "8ef31827c3a6d6279ed794f24e6fb71a324799cb0d443beebe27248a58fc6b1a"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "As noted on page 162 of the Player’s Handbook, quad- slaves, or other individuals who are not inclined to fight. A crea- rupeds can carry heavier loads than bipeds can. Any creature with ture’s Society section may include more details on noncombatants. four or more motive limbs can carry a load as a quadruped, even if If the organization line contains the term “domesticated,” the it does not necessarily use all the limbs at once. For example, drag- creature is generally found only in the company of other crea- ons carry loads as quadrupeds. tures, whom it serves in some capacity.",
+        "name":  "Strength",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Fly 30 ft. (perfect) (6 squares) mies of demons and devils (creatures of the infernal realms).",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Incorporeal touch +3 melee (1d4 Wisdom drain) Elysium or the Beastlands, and chaotic good angels from plane of",
+        "name":  "Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Str —, Dex 12, Con —, Int 11, Wis 11, Cha 18 speak with almost any creature because of their tongues ability.",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "5–12 HD (Medium) otherwise noted in a creature’s entry).",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— A huge segmented insect with slender legs, each ending in a sharp claw, emerges from the ground in a burst of rock and dirt. A tough chitinous brown shell covers its entire body, and glistening black eyes stare out from above powerful mandibles. make attacks of opportunity against the object can attempt Reflex The ankheg is a burrowing monster with a taste for fresh meat. saves (DC 10 + 1/2 object’s HD + object’s Str modifier) to halve the An ankheg has six legs, and some specimens are yellow damage. rather than brown. It is about 10 feet long and weighs about 800 pounds. GEHKNA Animated Object, Large Animated Object, Huge Animated Object, Gargantuan Large Construct Huge Construct Gargantuan Construct",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Fort +5, Ref +5, Will +4 glance, but a DC 18 Spot check reveals the creature’s fangs and",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— — — An elder arrowhawk (41 A mature plant consists of a main vine, about 20 feet long. to 75 years old) is about 20 Smaller vines up to 5 feet long branch off from the main vine feet long with a wingspan about every 6 inches. These small vines bear clusters of of 30 feet and a weight leaves, and in late summer they produce bunches of of about 800 pounds. small fruits that resemble wild grapes. The Arrowhawks speak fruit is tough and has a hearty but bitter Auran, but they are flavor. Assassin vine berries make a not usually talkative heady wine. creatures. An assassin vine can move about, albeit very slowly, but usually stays put unless it COMBAT needs to seek prey in a new vicinity. Arrowhawks are extremely A subterranean version of the territorial and always hungry. assassin vine grows near hot springs, They attack almost any other crea- volcanic vents, and other sources ture they meet, seeking a meal or of thermal en- trying to drive away a rival. The pri- ergy. These mary mode of attack is an electricity plants have ray, fired from the tail. The creature thin, wiry stems also bites, but it prefers to stay out and gray leaves shot of reach. through with silver, brown, and Electricity Ray (Su):An white veins so that they resemble arrowhawk can fire this mineral deposits. An assassin vine ray once per round, growing underground usually with a range of generates enough offal to 50 feet. support a thriving colony of mushrooms and other fungi, which spring up around the plant ASSASSIN VINE and help conceal it. Large Plant",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+5 Organization:Solitary, pair, team (3–4), squad (11–20 plus 2 3rd-level sergeants The creature looks like a portly giant and 1 leader of 3rd–6th level), or clan dressed in shabby rags and furs. It has (30–100 plus 50% noncombatants plus a third arm growing from its chest. Its 1 3rd-level sergeant per 20 adults, 5 wide, slobbering mouth has curving 5th-level lieutenants, and 3 7th-level tusks that jut from its lower jaw. captains)",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "8 A swallowed creature takes 2d8+8 points of bludgeoning",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Often neutral gizzard. A swallowed creature can cut its way out by using a",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The target must succeed on a Forti- based. The ten eye rays include: tude save or be paralyzed for 2d10 minutes. Charm Monster: The target must succeed on a",
+        "name":  "Paralysis",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "None This creature is a gray-fleshed, hairless humanoid",
+        "name":  "Treasure",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "3d8+3 (16 hp) they can bring down. Any creature is a legitimate source of food,",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+1 including monsters and even their own smaller kin. When game",
+        "name":  "Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "2 claws +7 melee (1d4+5) and bite +2 melee (1d8+2) damage reduction. Space/Reach: 10 ft./5 ft. Abilities: Same as the base creature, but Intelligence is at",
+        "name":  "Full Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Fort +6, Ref +7, Will +2 base creature +1; HD 8 or more, as base creature +2.",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Balance +7, Hide +3*, Listen +5, Move Silently +11, Level Adjustment: Same as the base creature +2. Spot +5 C R E A T U R E C E L E S T I A L Carrion crawler 31 CENTAUR SOCIETY CENTAUR Among their own kind, centaurs are sociable creatures, but they Large Monstrous Humanoid have been known to become rowdy, boorish, and aggressive when",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Solitary, company shun dealings with humans, cen- (5–8), troop (8–18 plus 1 leader taurs do trade with elves, espe- of 2nd–5th level), or tribe cially for food and wine. The elves (20–150 plus 30% noncombat- are paid from the tribe’s treasury, ants plus 10 3rd-level sergeants, which consists of the booty of 5 5th-level lieutenants, and 1 slain monsters. leader of 5th–9th level) The size of a centaur tribe’s terri-",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Climb +13, Escape Artist +12, Hide +12, Jump +9, Listen Each round the victim spends in an amorphous state causes 1 +11, Search +11, Spot +11, Survival +0 (+2 following tracks), point of Wisdom drain from mental shock. If the victim’s Tumble +14, Use Rope +1 (+3 with bindings) Wisdom score falls to 0, it becomes a chaos beast.",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "7 does not vary for a chaos beast",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "9–12 HD lishes the creature’s normal (Medium); 13–24 HD (Large) form for 1 minute. On a fail-",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Underground except when toadying to more powerful creatures. Organization: Solitary",
+        "name":  "Chimeras can speak Draconic but seldom bother to do so, Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— victims from a claw to its ten- CHUUL Choker Chuul Chuul illus. by D. Knutson 35 tacles as a move action. The tentacles grapple with the same A cloaker has a wingspan of about 8 feet. It weighs about 100 strength as the claw but deal no damage. However, they exude a pounds. paralytic secretion. Anyone held in the tentacles must succeed on a Cloakers speak Undercommon. DC 19 Fortitude save each round on the chuul’s turn or be para- lyzed for 6 rounds. The save DC is Constitution-based. While held COMBAT in the tentacles, paralyzed or not, a victim automatically takes Cloakers usually lie still, watching and listening for prey. If 1d8+2 points of damage each round from the creature’s mandibles. facing a single opponent, a cloaker uses its engulf attack. Amphibious (Ex): Although chuuls are aquatic, they can sur- Against multiple foes, it lashes with its tail in concert with its vive indefinitely on land. moan and shadow shift abilities to reduce the opposition’s num-",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A chuul has a +8 racial bonus on any Swim check to per- bers, then engulfs a survivor. Multiple cloakers usually split up, form some special action or avoid a hazard. It can always choose to leaving one or two behind to use special abilities while the rest take 10 on a Swim check, even if distracted or endangered. It can use make melee attacks. the run action while swimming, provided it swims in a straight line. Moan (Ex): A cloaker can emit a dangerous subsonic moan as a standard action. By changing the frequency, the cloaker can cause one of four effects. Cloakers are immune to these sonic, mind- CLOAKER affecting attacks. Unless otherwise specified, a creature that suc- Large Aberration cessfully saves against one of these effects cannot be affected by",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "7–9 HD try to wrap a Medium or smaller (Large); 10–18 HD creature in its body as a standard (Huge) action. The cloaker attempts a grap-",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Warm forests This avian creature is about the size of a large goose or turkey. It has the Organization: Solitary, pair, or flight (3–6) head and body of a cockerel, bat wings, and the long tail of a lizard. Its Challenge Rating: 10 eyes glow with a dangerous-looking crimson sheen. Treasure: Standard",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Slam +5 must hit a Large or smaller melee (1d4+4) creature with its slam attack. It Space/Reach: 5 ft./5 ft. can then attempt to start a grap-",
+        "name":  "Full Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "2–3 HD (Small) creature’s variable coloration gives it a +4 racial bonus on Hide",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Knowledge (dungeoneering) +14, Knowledge (nature) +4, organic creatures or objects. Against metallic creatures or Listen +20, Move Silently +17, Spot +20, Survival +14 (+16 objects, a delver’s slime deals 4d8 points of damage, and against underground) stony creatures (including earth elementals) or objects it deals",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Solitary or troupe (1 balor, 1 marilith, and 2–5 skull. A mouth of jagged teeth takes up half of the foul creature’s head. hezrous)",
+        "name":  "Behind its pointed ears, a large curved horn rises out of the back of its Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Damage reduction 5/cold iron or good, dark- other demons. While they favor preying upon other demons, they vision 60 ft., immunity to electricity and poison, resistance to aren’t picky—they will stalk and attack any type of creature. acid 10, cold 10, and fire 10, telepathy 100 ft. A bebilith has a body the size of a plow horse, with legs span- Saves: Fort +5, Ref +3, Will +3 ning more than 14 feet. It weighs more than two tons. Abilities: Str 12, Dex 10, Con 14, Int 5, Wis 11, Cha 11 Bebiliths understand but do not speak Abyssal. Their telepathy Skills: Hide +9, Listen +5, Move Silently +5, Spot +5, Search +2, allows them to communicate silently with one another. Survival +0 (+2 following tracks)",
+        "name":  "Bebiliths are enormous, predatory, arachnid demons that hunt Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Infinite Layers of the Abyss A bebilith attacks any creature it sees. It usually picks one target Organization: Solitary, pair, gang (3–5), crowd (6–15), or mob and concentrates its attacks on that opponent, using its webs to iso- (10–40) late the target from its comrades. Should the bebilith become over- Challenge Rating: 2 whelmed by tougher opponents, it often attempts to bite one or Treasure: None more of its victims and retreats, allowing its poison to do its work. Alignment: Always chaotic evil NOMED nostun K . D yb .sullI Bebilith 42",
+        "name":  "COMBAT Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Infinite Layers of the Abyss human. Its forelegs end in massive cleavers. Four bulbous eyes, a malevo- Organization: Solitary lent gleam in each one, rise out of its carapace. Challenge Rating: 7",
+        "name":  "This creature looks like an enormous spider, standing twice as tall as a Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "30 ft. (6 squares), fly 50 energy flashes outward in a ft. (average) 100-foot radius. All creatures",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Solitary, pair, gang (3–5), or squad (6–10) piercing screech. All creatures except for demons within a 30-",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Blindsight 100 ft., immunities, protection manifests as delusions of grandeur coupled with an overpower- from sonics ing urge to inflict torment on other creatures. Derro are capable Saves: Fort +5, Ref +5, Will +10 of holding their murderous impulses in check for short periods of Abilities: Str 18, Dex 12, Con 16, Int 12, Wis 18, Cha 12 time in order to cooperate with creatures of other races, but such Skills: Hide +8, Listen +25, Move Silently +7, Survival +9 arrangements rarely last more than a few weeks. Of course, no Feats: Dodge, Improved Initiative, Lightning Reflexes derro is capable of recognizing that he is out of his mind. Environment: Underground",
+        "name":  "Derro are afflicted by a form of racial madness, which most often Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A baatezu possesses the following traits (unless otherwise noted in a creature’s entry). —Immunity to fire and poison. —Resistance to acid 10 and cold 10. LIVED Destrachan pqqqqrs DEVILS BY CHALLENGE RATING CR 8 Erinyes A fallen angel that delivers death from her",
+        "name":  "BaatezuTraits",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "6d8+18 (45 hp) creature loses 2 addi-",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Fort +8, Ref +7, Will +5 dealt each day until the afflicted creature succeeds on three con-",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Chain devils have a +8 racial bonus on Craft checks pounds of objects only), charm monster (DC 19), minor image (DC involving metalwork. 17), unholy blight (DC 19). Caster level 12th. The save DCs are Charisma-based. ERINYES Summon Baatezu (Sp): Once per day an erinyes can attempt to Medium Outsider (Baatezu, Evil, Extraplanar, Lawful) summon 2d10 lemures or 1d4 bearded devils with a 50% chance of",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+7 aura as a free action. A creature in the area must succeed on a DC",
+        "name":  "Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Darkvision 60 ft., immunity to acid, low-light vision, scent DIGESTER Digester 59 A deinonychus has a relatively large brain for a dinosaur, and its DINOSAUR pack hunts with cunning tactics. Dinosaurs, or terrible lizards, are ancient beasts that may be Pounce (Ex): If a deinonychus charges, it can make a full related to dragons. attack.",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Talons +6 melee (2d6+4) and 2 foreclaws +1 melee (1d3+2) and bite +1 melee (2d4+2) This beast has a thick, ovoid body with fins instead of legs and a very long, Space/Reach: 10 ft./5 ft. snaky tail and neck. Its neck makes up one-half of its total length.",
+        "name":  "Full Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Always neutral creature is strong, fast, and highly maneuverable, able to turn",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "*An elasmosaurus has a +8 racial bonus on Hide checks This lean, long-legged bipedal creature has wicked-looking claws on its feet in water. and a brightly colored hide that reminds you of a tropical bird. It stands MEGARAPTOR about as tall as a human, and its outstretched tail makes it least twice as long as it is tall. Huge Animal",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+2 name properly belongs to a much smaller creature. Speed: 60 ft. (12 squares)",
+        "name":  "This fast carnivore is sometimes called a velociraptor, though that Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Run, Toughness, Track The massive beast has a huge plate of bone protecting the front of its",
+        "name":  "Feats",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— Combat This creature is a larger version of the deinonychus, standing These creatures are likely to charge and skewer any creature of at about 12 feet tall with a total length of 24 feet. It has the same least Large size that infringes on their territory. A triceratops uses appearance, habits, and abilities of the smaller version. its trample attack on smaller opponents. Pounce (Ex): If a megaraptor charges, it can make a full attack. Powerful Charge (Ex): When a triceratops charges, its gore",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— DIRE APE Large Animal This squat, muscular creature is covered in wild, thick fur. Its stout legs end",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "30 ft. (6 squares), climb 15 ft. These vicious creatures tolerate no intrusions. They cannot",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Warm forests tion, and –2 AC. The creature cannot end its rage voluntarily.",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Gore +12 melee (1d8+12) from above. Full Attack: Gore +12 melee (1d8+12) Blindsense (Ex): A dire bat uses echo- Space/Reach: 10 ft./5 ft. location to pinpoint creatures within Special Attacks: Ferocity 40 feet. Opponents still have total con- Special Qualities: Low-light vision, scent cealment against the bat unless it can Saves: Fort +8, Ref +5, Will +8 actually see them. Abilities: Str 27, Dex 10, Con 17, Int 2, Wis 13, Cha 8",
+        "name":  "Dire bats swoop down upon unsuspecting prey Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Claw +13 melee (1d6+7) try to avoid it, but will aggressively defend a kill or other source of Full Attack: 2 claws +13 melee (1d6+7) and bite +7 melee (1d8+3) food. It will not hesitate to rip apart anything that might contain Space/Reach: 10 ft./5 ft. something edible. Special Attacks: Improved grab, pounce, rake 1d6+3 A typical dire bear is 12 feet long and weighs as much as 8,000 Special Qualities: Low-light vision, scent pounds. Saves: Fort +9, Ref +8, Will +7",
+        "name":  "The omnivorous dire bear usually does not bother creatures that Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Dire rats have a +8 racial bonus on Swim checks. This immense lion has a short mane and a spotted, tawny coat, but there Dire rats have a +8 racial bonus on Climb checks and can ends the resemblance to a normal animal. This monstrous creature has always choose to take 10 on Climb checks, even if rushed or bony protrusions around its eyes and shoulders, with spiked ridges running threatened. along the length of its back. Dire rats use their Dexterity modifier for Climb and Swim checks. Dire lions are patient hunters, just like their smaller cousins, but apt to take on bigger prey. DIRE SHARK Dire lions grow to be up to 15 feet long and weigh up to 3,500 Huge Animal (Aquatic) pounds. Hit Dice: 18d8+66 (147 hp)",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Low-light vision, scent larger creatures.",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Any creatures in one gulp.",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Claw +20 melee (2d4+8) This sleek, fur-covered creature has a body longer than a human is tall. It",
+        "name":  "Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Improved grab, pounce, rake 2d4+4 Dire weasels are aggressive, almost manic creatures with bound-",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A dire wolf has a +2 racial bonus on Hide, Listen, Move creatures. Silently, and Spot checks. *It also has a +4 racial bonus on Survival Rage (Ex): A dire wolverine that takes damage in combat flies checks when tracking by scent. into a berserk rage on its next turn, clawing and biting madly until either it or its opponent is dead. An enraged dire wolverine gains DIRE WOLVERINE +4 Strength, +4 Constitution, and –2 AC. The creature cannot end Large Animal its rage voluntarily.",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Claw +8 melee (1d6+6) This creature looks like an emaciated panther, with blue-black fur, six legs,",
+        "name":  "Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Low-light vision, scent The displacer beast is a savage and stealthy carnivore that resembles",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Str 22, Dex 17, Con 19, Int 2, Wis 12, Cha 10 Displacer beasts favor small game but will eat anything they can",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Climb +14, Listen +7, Spot +7 catch. They regard all other creatures as prey and tend to attack",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Solitary or pair displacer beast is the size of a Bengal tiger, about 9 feet long and",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "None Displacer beasts speak Common.",
+        "name":  "Treasure",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A displacer beast has a +8 racial bonus on Hide checks, thanks to its displacement ability. DISPLACER BEAST PACK LORD Due to the bizarre nature of their anatomy, dis- placer beasts are unusually likely to produce mu- tant offspring. These whelps can grow to tre- mendous size, reaching a length of 20 feet and standing almost 10 feet high at the shoulder. Pack lords, as these gigantic dis- placer beasts are known, frequently lead bands of Doppelgangers are strange beings that are able to take on the their smaller fellows. shapes of those they encounter. In its natural form, the creature Except for their freakish size and strength, pack looks more or less humanoid, but slender and frail, with gangly lords resemble normal displacer beasts. limbs and half-formed features. The flesh is pale and hairless. Its large, bulging eyes are yellow with slitted pupils. A doppelganger’s appearance is deceiving even when it’s in DOPPELGANGER its true form. A doppelganger is hardy, with a natural agility Medium Monstrous Humanoid not in keeping with its frail appearance. (Shapechanger) Because they can take the shape of any humanoid between 4",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+4 (cohort) Part giant lion and part dragon, the creature has a pair of small, brass-colored wings sprouting from its shoulders. It is covered with brass-colored scales, and its mane is thick and coarse. Possessing some of the most dangerous qualities of a lion and a brass dragon, the dragonne is a vicious and deadly hunter. Dragonnes are not necessarily aggressive toward strangers. Their reputation as remorseless devourers of helpless travelers is more the product of ignorance than well-researched fact. A dragonne almost always attacks a creature that invades its lair or threatens its DRIDER territory, so adventurers who stumble across its cave or settlers who attempt to set up camp in the area are often subject to fierce and Large Aberration immediate retaliation. Those not threatening the dragonne’s lair or Hit Dice: 6d8+18 (45 hp) simply passing through its territory are usually left alone. Initiative: +2",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+2 (cohort) while chicks are worth 4,000 gp each. Professional trainers charge 1,000 gp to rear or train a giant eagle. Giant eagles are intelligent, keen-eyed birds of prey that some- Carrying Capacity: A light load for a giant eagle is up to 300 times associate with good creatures. pounds; a medium load, 301–600 pounds; and a heavy load, 601–900 pounds. ELADRIN The eladrins are a celestial race native to the plane of Arborea. They are knights and lords who roam the cosmos in search of good folk to aid. Eladrins are free-spirited, but they are also mighty champions of good. COMBAT Eladrins are deadly and resolute foes of evil, fear- less and clever in battle.",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Ethereal marauders have a +2 racial bonus on Listen, Move Silently, and Spot checks. Illus. by B. Despain MARAUDER ETHEREAL Ethereal marauder 105 ETTERCAP This revolting creature resembles a cross between a gangly human and a bloated spider. It has long, slender arms and legs protruding from a rounded, Medium Aberration fleshy body. It has a spider’s head with a pair of bulbous black eyes.",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Warm forests Ettercaps are not brave creatures, but their cunning traps often",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+4 and includes a +2 racial bonus. Web (Ex): An ettercap can throw a web eight times per day. This is similar to an attack with a net but has a maximum range of 50 feet, with a range increment of 10 feet, and is effective against tar- gets of up to Medium size. The web anchors the target in place, allowing no movement. An entangled creature can escape with a DC 13 Escape Artist check or burst the web with a DC 17 Strength check. The check DCs are Constitution-based, and the Strength check DC includes a +4 racial bonus. The web has 6 hit points, hardness 0, and takes double damage from fire. Ettercaps can also create sheets of sticky webbing from 5 to 60 feet square. They usually position these to snare flying crea- tures but can also try to trap prey on the ground. Approaching creatures must succeed on a DC 20 Spot check to notice a web, or they stumble into it and become trapped as though by a success- ful web attack. Attempts to escape or burst the webbing receive a +5 bonus if the trapped creature has something to walk on or grab while pulling free. Each 5-foot-square section has 6 hit points, hardness 0, and takes double damage from fire. An ettercap can move across its own sheet web at its climb speed and can determine the exact location of any creature touching the web.",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Solitary, ettins. This gang stays together only as long gang (2–4), troupe as the leader is undefeated. Any major defeat (1–2 plus 1–2 brown shatters the leader’s hold over the others, bears), band (3–5 and they go their separate ways. plus 1–2 brown Ettins place little value on wealth but bears), or colony are smart enough to understand its value (3–5 plus 1–2 brown to others. They collect treasure only bears and 7–12 orcs because it can buy them the services of or 9–16 goblins) goblins or orcs. These lesser creatures",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "An ettin’s two heads give it a +2 racial bonus on Listen, Advancement: 2–3 HD (Small); 4–6 HD (Medium) Spot, and Search checks. Level Adjustment: — CREATURE FIENDISH Ettin 107 Combat FORMIAN Disease (Ex): Filth fever—bite, Fortitude DC 11, incubation period 1d3 days, damage 1d3 Dex and 1d3 Con. The save DC is Formians hail from the plane of Mechanus. They seek to colo- Constitution-based. nize all that they see and incorporate all living things into their",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Fiendish dire rats have a +8 racial bonus on Swim hive as workers. checks. They have a +8 racial bonus on Climb checks and can Expansionist in the extreme, formians are dedicated to always choose to take 10 on Climb checks, even if rushed or spreading their colonies until they have taken over everything threatened. They use their Dexterity modifier instead of their and their order is unquestioned. To further this end, they attack Strength modifier for Climb and Swim checks. all other creatures, usually to put them to work building and expanding cities. Formians maintain these “conscripted” work- CREATING A FIENDISH CREATURE ers as well as those mentally dominated by the power of their “Fiendish” is an inherited template that can be added to any cor- taskmasters. poreal aberration, animal, dragon, fey, giant, humanoid, mag- A formian resembles a cross between an ant and a centaur. All ical beast, monstrous humanoid, ooze, plant, or formians are covered in a brownish-red carapace; size and appear- vermin of nongood alignment (referred to ance differs for each variety. hereafter as the base creature). A fiendish creature uses all the base crea- COMBAT ture’s statistics and abilities except as noted Formians are gener- here. Do not recalculate the creature’s Hit ally aggressive, seeking Dice, base attack bonus, saves, or skill points if its to subdue all they type changes. encounter. If they per-",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A fiendish crea- immediately if ordered to do so ture retains all the special attacks of by a superior. the base creature and also gains the Hive Mind (Ex): All formi- following special attack. ans within 50 miles of Smite Good (Su): Once per day their queen are in con- the creature can make a normal stant communication. If melee attack to deal extra one is aware of a particular damage equal to its HD total danger, they all are. If one (maximum of +20) against a in a group is not flat- good foe. footed, none of them",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Same as the base creature, but Intelligence is at rank to warriors but seldom interact with other formians. least 3.",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "HD 3 or less, as base creature; HD 4 to 7, as This creature is about the size of a jackal or bulldog. It looks like an ant, base creature +1; HD 8 or more, as base creature +2. but holds its head and thorax upright. It has humanlike shoulders and",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— Poison Dominate monster, dominated creature, poison",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Team (2–4) or crew (7–18) Solitary, team (2–4), or troop (6–11) Solitary (1 plus 1 dominated creature) or conscription team (2–4 plus 1 dominated creature per team member)",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Solitary,team(2–4),orplatoon(1plus Hive(1plus100–400workers, 7–18workersand6–11warriors) 11–40warriors,4–7taskmasterswith1 dominatedcreatureeach,and5–8myrmarchs)",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Solitary, pair, or wing (5–16) prey. When the shriekers’ hellish racket attracts a curious creature, Challenge Rating: 4 the violet fungus tries to kill it. Both creatures enjoy the fruits of a Treasure: Standard successful hunt. Alignment: Usually chaotic evil",
+        "name":  "Shriekers and violet fungi often work together to attract and kill Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Gargoyles have a +2 Combat racial bonus on Hide, Listen, A violet fungus flails about with its and Spot checks. *The tentacles at living creatures that come Hide bonus increases by within its reach. +8 when a gargoyle is con- Poison (Ex): Injury, Fortitude DC 14, cealed against a back- initial and secondary damage 1d4 Str and ground of stone. 1d4 Con. The save DC is Constitution- based. KAPOACINTH These cousins of the gargoyle have the aquatic subtype. They have a GARGOYLE base land speed of 40 feet and a swim speed of Medium Monstrous Humanoid (Earth) 60 feet (no fly speed) and are found only in",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "20 ft. (4 squares), fly 60 ft. (perfect) creature occupies. Another creature might be caught in the whirl-",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "2 slams +10 melee (1d8+4) into the air. An affected creature must succeed on a DC 20 Reflex Space/Reach: 10 ft./10 ft. save when it comes into contact with the whirlwind or take 3d6",
+        "name":  "Full Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Fort +7, Ref +9, Will +7 creature with a fly speed is allowed a DC 20 Reflex save each",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Str 18, Dex 19, Con 14, Int 14, Wis 15, Cha 15 round to escape the whirlwind. The creature still takes damage but",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Always chaotic good The djinni can eject any carried creatures whenever it wishes,",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "11–15 HD (Large); 16–30 HD (Huge) a creature’s size. This works just like an enlarge person or reduce 115",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The creature’s type changes to undead. Do not Ghost 5th-Level Human Fighter recalculate the creature’s base attack bonus, saves, or skill points. It Medium Undead (Augmented Humanoid) (Incorporeal) gains the incorporeal subtype. Size is unchanged.",
+        "name":  "Size and Type",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Darkvision 60 real creatures. The ft., incorporeal traits, rejuvenation, +4 ghost also gains a turn resistance, undead traits manifestation ability plus",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Temperate mountains has taken in as mates, servants, or guards. Organization:Solitary, gang (2–4), family (2–4 plus 35% Giant tribes are similar to bands but have more members, plus noncombatants plus 1 sorcerer or cleric of 4th–7th level plus contingents of guard creatures and nongiant servants. Hunting 2–5 griffons or 2–8 dire lions), or band (6–9 plus 1 sorcerer or and raiding parties include guard creatures and may be made up of cleric of 4th–7th level plus 2–5 griffons or 2–8 dire lions) giants from different tribes working together. Challenge Rating: 11",
+        "name":  "Sometimes a band contains unrelated young adults that the band Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Combat Reflexes, Iron Will, Point Blank Shot, Power when they first join battle. Thereafter, they stand fast and swing Attack, Precise Shot away with their massive clubs. Environment: Temperate mountains Rock Throwing (Ex): The range increment is 120 feet for a hill Organization:Solitary, gang (2–5), band (6–9 plus 35% noncom- giant’s thrown rocks. batants), hunting/raiding/trading party (6–9 plus 1 elder), or tribe (21–30 plus 35% noncombatants plus 1–3 elders and 3–6 Hill Giant Society dire bears)",
+        "name":  "Hill giants love to make overrun attacks against smaller creatures Feats",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Solitary or family (2–4 plus 35% noncombatants Good, Protection, or War. plus 1 sorcerer or cleric of 7th–10th level plus 1–2 rocs, 2–5 griffons, or 2–8 sea cats) GIANT 125 mouther makes a ranged touch attack; if it hits, it deals 1d4 points GIBBERING MOUTHER of acid damage, and the target must succeed on a DC 18 Fortitude Medium Aberration save or be blinded for 1d4 rounds. Eyeless creatures are immune",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Amorphous, damage reduc- drain blood for 1d4 rounds after such an tion 5/bludgeoning, darkvision 60 ft. attack. A creature whose Constitution is",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Str 13, Dex and tall humanoid 11, Con 12, Int 10, Wis 9, Cha 8. with sharp features, Challenge Rating: Githzerai with levels in a somber face, NPC classes have a CR equal to their character level. and yellow Githzerai with levels in PC classes have a CR equal to their eyes. character level +1. GITHZERAI SOCIETY The githzerai forerunners united under the command of the rebel Gith (see the Githyanki entry, above) and threw down the plane-spanning empire of the mind flayers. Once free, the former slaves split ideologically and eventually racially, becoming the githzerai and their foes, the githyanki. The githzerai’s history of imprisonment was the founda- tion of their monastic lifestyle, in which all githz- erai learn from childhood how to eradicate potential oppressors and enemies (anyone not a githzerai). Githzerai live within self-contained, fortresslike monasteries hidden deep in the swirling chaos of Limbo. While disorder rules outside, stability holds sway inside. Each monastery is ultimately under the control of a sensei, a monk of at least 16th level, and follows a strict schedule of chants, meals, martial arts training, and devotions, according to a particular sensei’s philosophy. A monastery contains noncombatants (mostly children) equal to 15% of the fighting population. Githzerai males and females may be found in almost Githzerai any role or class.",
+        "name":  "This creature is a thin scores before racial adjustments",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1/3 These creatures live wherever they can, from dank caves to",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "–1 can be reduced to piles of rubbish by rust monsters.",
+        "name":  "Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Bluff +8, Diplomacy +2, Disguise +0 Level Adjustment: — (+2 acting), Hide +5, Intimidate +2, Listen +10, Spot +10 This creature looks like a very old female",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Temperate plains A half-celestial uses all the base creature’s statistics and special",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "11 Size and Type: The creature’s type changes to outsider. Do not",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Standard recalculate the creature’s Hit Dice, base attack bonus, or saves. Size",
+        "name":  "Treasure",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Increase from the base creature as follows: Str +4, Level Adjustment: +3 Dex +2, Con +4, Int +2, Wis +4, Cha +4.",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A half-celestial gains skill points as an outsider and has This half-dragon is based on a 4th-level human fighter with the skill points equal to (8 + Int modifier) × (HD +3). Do not include following ability scores: Str 14, Dex 13, Con 16, Int 8, Wis 12, Hit Dice from class levels in this calculation—the half-celestial Cha 10. gains outsider skill points only for its racial Hit Dice, and gains the normal amount of skill points for its class levels. Treat skills from Combat the base creature’s list as class skills, and other skills as cross-class. Half-black dragon fighters use two-handed (often exotic) weap-",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "HD 5 or less, as base creature +1; HD 6 to ons. Aggressive and temperamental, they’re usually itching for a 10, as base creature +2; HD 11 or more, as base creature +3. battle. They often lead other evil warriors, but fight as individuals.",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Same as base creature +4. acid, Reflex DC 14 half. The save DC is Constitution-based.",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A half-dragon has all the special qualities of Half-Fiend 7th-Level Human Cleric the base creature, plus darkvision out to 60 feet and low-light Medium Outsider (Augmented Humanoid) (Native) vision. A half-dragon has immunity to sleep and paralysis effects, Hit Dice: 7d8+14 (49 hp) and an additional immunity based on its dragon variety. Initiative: +7",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Increase from the base creature as follows: Str +8, Full Attack: +1 morningstar +11 melee (1d8+5) and bite +4 melee Con +2, Int +2, Cha +2. (1d6+2); 2 claws +9 melee (1d4+4) and bite +4 melee (1d6+2);",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Fort +7, Ref +5, Will +9 creature does not have these attack forms, use the damage values",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The creature’s type changes to outsider. Do not Skills: A half-fiend gains skill points as an outsider and has skill recalculate Hit Dice, base attack bonus, or saves. Size is un- points equal to (8 + Int modifier) × (HD + 3). Do not include Hit changed. Half-fiends are normally native outsiders. Dice from class levels in this calculation—the half-fiend gains",
+        "name":  "Size and Type",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A half-fiend has bat wings. Unless the base creature has outsider skill points only for its racial Hit Dice, and gains the a better fly speed, the creature can fly at the base creature’s base normal amount of skill points for its class levels. Treat skills from land speed (average maneuverability). the base creature’s list as class skills, and other skills as cross-class.",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Darkvision 60 ft., low-light vision, scent Mated pairs and flights of these creatures attack in concert,",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— hippogriff can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on a Ride check. This beast has the torso and hindquarters of a horse and the forelegs, Hippogriff eggs are worth 2,000 gp apiece on the open market, wings, and head of a giant eagle. while young are worth 3,000 gp each. Professional trainers charge 1,000 gp to rear or train a hippogriff.",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A light load for a hippogriff is up to 300 of horses and giant eagles. Voracious omnivores, hippogriffs will pounds; a medium load, 301–600 pounds; and a heavy load, hunt humanoids as readily as any other meal. 601–900 pounds. FFIRGOPPIH Hell Hound NessianWarhound MediumOutsider LargeOutsider (Evil,Extraplanar,Fire,Lawful) (Evil,Extraplanar,Fire,Lawful)",
+        "name":  "Hippogriffs are aggressive flying creatures that combine features Carrying Capacity",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+2 to establish. If the creator is personally constructing the creature’s",
+        "name":  "Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "3 This beast resembles some great reptile with a veritable forest of heads on",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "7–9 HD (Large); 11–18 HD (Huge) Hydras are reptilelike monsters with multiple heads; they can",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Solitary Invisible stalkers are creatures native to the Elemental Plane of",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "12 living creatures except kobolds. Treasure: Triple standard",
+        "name":  "The patron deity of the kobolds is Kurtulmak, who despises all Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "9d10+9 (58 hp) This creature has the golden-brown body of a lion, the wings of a giant",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Touch +12 melee (1d4 Wisdom drain); or dagger sometimes seek them out to gain the benefit of their wisdom and +12/+7 melee (1d6+4/19–20) and 2 claws +7 melee (1d4+2) their knowledge of ancient mysteries. Lammasus receive good Space/Reach: 10 ft./5 ft. beings and creatures cordially and usually offer assistance if the",
+        "name":  "Full Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The creature’s type changes to undead. Do not Abilities: Increase from the base creature as follows: Int +2, recalculate base attack bonus, saves, or skill points. Size is Wis +2, Cha +2. Being undead, a lich has no Constitution score. unchanged. Skills: Liches have a +8 racial bonus on Hide, Listen, Move",
+        "name":  "Size and Type",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+3 +3 +3 Hybrid Size Claw Bite example, a hill giant bitten by a wererat), the victim cannot con- Small 1d3 1d4 tract lycanthropy from that lycanthrope. Afflicted lycanthropes Medium 1d4 1d6 cannot pass on the curse of lycanthropy. Large 1d6 1d8 Special Qualities:A lycanthrope retains all the special quali- Huge 2d4 2d6 ties of the base creature and the base animal, and also gains those",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Same as the base creature or base animal, depending described below. on which form the lycanthrope is in. Alternate Form (Su): A lycanthrope can shift into animal form as",
+        "name":  "Damage",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Add the base save bonuses of the base if this occurs, any “extra” feats are denoted as bonus feats. animal to the base save bonuses of the base creature. It’s possible that a lycanthrope cannot meet the prerequisites for",
+        "name":  "Base Save Bonuses",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "All lycanthropes gain +2 to Wisdom. In addition, all its feats when in humanoid form. If this occurs, the lycan- when in animal form, a lycanthrope’s physical ability scores thrope still has the feats, but cannot use them when in humanoid improve according to its kind, as set out in the table below. These form. A lycanthrope receives Iron Will as a bonus feat. adjustments are equal to the animal’s normal ability scores –10 or Environment:Same as either the base creature or base animal. –11. For example, a werecrocodile (Str 19, Dex 12, Con 17) would Organization:Solitary or pair, sometimes family (3–4), pack add Str +8, Dex +2, and Con +6 to its normal ability scores when it (6–10), or troupe (family plus related animals) takes crocodile form. A lycanthrope in hybrid form modifies its Challenge Rating:By class level or base creature, modified physical ability scores by the same amount. according to the HD of the base animal: 1 HD or 2 HD, +2; 3 HD In addition, a lycanthrope may also gain an additional ability to 5 HD, +3; 6 HD to 10 HD, +4; 11 HD to 20 HD, +5; 21 or more score increase by virtue of its extra Hit Dice. HD, +6.",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Fort +3, Ref +7, Will +6 the nature and effects of which vary from creature to creature.",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Dodge, Improved Initiative This winged creature looks like a",
+        "name":  "Feats",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+3 (cohort) Fast Healing (Ex): A fire mephit heals only if it is touching a flame at least as large as a torch. This winged creature looks like a stony, rugged, mostly hairless dwarf. ICE MEPHIT Earth mephits come from the Elemental Plane of Earth. Small Outsider (Air, Cold, Extraplanar) An earth mephit is about 4 feet tall and weighs about 80 pounds. Hit Dice: 3d8 (13 hp) Earth mephits speak Common and Terran. Initiative: +7",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Usually neutral miniature human made of molten stone Advancement: 4–6 HD (Small); 7–9 and glowing lava. HD (Medium)",
+        "name":  "This winged creature looks like a brutish, Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Bluff +8, Escape Artist +5, Hide +9, Listen +6, Diplomacy +4, Disguise +2 (+4 acting), Move Silently +5, Spot +6, Use This winged creature looks like a miniature human with pale skin and Rope –1 (+1 with bindings) wisps of vapor rising from its nose, mouth, and ears. It sheds drops of",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Solitary (1), gang (2–4 mephits of mixed types), Steam mephits come from the Elemental Plane of Fire. or mob (5–12 mephits of mixed types) Steam mephits are bossy creatures who consider themselves the",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+3 Advancement: By character class (cohort) Level Adjustment: +1 This winged creature looks like a This being has the upper body, arms, and head of miniature fish-person. It is covered a fair-featured human. Instead of legs, however, it with scales and views the world has the scaled tail of a great fish. through black, bulbous eyes. The merfolk are playful, marine- Water mephits come from the dwelling people. Although wary of Elemental Plane of Water. surface dwellers, they are not usu-",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+1 The creature cannot substantially alter its size, though. A mimic’s",
+        "name":  "Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Darkvision 60 ft., immunity to acid, mimic This strange humanoid-shaped being stands about as tall as a human. Its shape flesh is rubbery and greenish-mauve, glistening with slime. The creature’s",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Str 21, Dex 10, Con 17, Int 14, or the creature dies. An ogre Wis 14, Cha 17 mage cannot regrow lost body",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "5 This creature looks like a primitive human with gray skin and coarse hair.",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "3 heaps of refuse. Although primarily scavengers that can eat almost Treasure: None any kind of refuse, they never object to a meal of fresh meat when Alignment: Usually neutral good the opportunity presents itself. Advancement: 5–8 HD (Large); 9–12 HD (Huge)",
+        "name":  "Otyughs are grotesque subterranean monsters that lurk within Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+2 (cohort) filled with carrion, offal, and all manner of similar trash. An otyugh usually covers itself with this vile stuff, leaving only its Giant owls are nocturnal birds of prey, feared for their ability to sensory stalk exposed (the stack also carries the otyugh’s olfactory hunt and attack in near silence. They are intelligent, and though organ) and lies there for hours, shoveling food into its mouth. naturally suspicious, sometimes associate with good creatures. Intelligent subterranean beings sometimes coexist with otyughs, They attack creatures that appear threatening, especially those which they regard as convenient garbage disposals: They dump intent on raiding the owls’ nest for eggs or fledglings, which fetch their refuse in the lair of the otyugh, which generally refrains a handsome price in many civilized areas. Young owls can be from attacking them. trained and are prized as aerial mounts. A typical otyugh has a body 8 feet in diameter and weighs about A typical giant owl stands about 9 feet tall, has a wingspan of up 500 pounds. to 20 feet, and resembles its smaller cousins in nearly every way Otyughs speak Common. except size. Giant owls speak Common and Sylvan. COMBAT An otyugh attacks living creatures if it feels threatened or if it is COMBAT hungry; otherwise it is content to remain hidden. Otyughs slash A giant owl attacks by gliding silently just a few feet above its prey and squeeze opponents with their tentacles, which they also use to and plunging to strike when directly overhead. drag prey into their mouths. A solitary giant owl is typically hunting or patrolling in the vi- Constrict (Ex): An otyugh deals automatic tentacle damage cinity of its nest and generally ignores creatures that do not appear with a successful grapple check. threatening. A mated pair of giant owls will attack in concert and Disease (Ex): Filth fever—bite, fight to the death to Fortitude DC 14, incubation defend their nest. Sev- period 1d3 days; damage 1d3 eral giant owls sometimes Dex and 1d3 Con. The save DC operate as a company for is Constitution-based. some specific purpose, such as Improved Grab (Ex): To use driving away a group of evil this ability, an otyugh must hit humanoids. with a tentacle attack. It can Superior Low-Light Vision then attempt to start a grapple as (Ex): A giant owl can see five times as a free action without provoking far as a human can in dim light. an attack of opportunity. If it wins Skills: Giant owls have a +8 racial the grapple check, it establishes a bonus on Listen checks and a +4 racial hold and can constrict. bonus on Spot checks.",
+        "name":  "An otyugh spend most of its time within its lair, which it keeps Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— Soft, squelching footfalls and a strange, moldy odor indicate that some creature is nearby—but nothing can be seen. Phantom fungus illus. by C. Crichlow PHASE SPIDER Pegasus 207 Phantom fungus This creature resembles a giant wolf spider, except with a larger head and This creature looks like a slithering blob of multicolored goo perhaps 5 feet variegated markings in white, gray, and blue over the legs and back. Its wide and a little less than half that high. eight eyes are silver-white. A phasm is an amorphous creature that can assume the guise of Phase spiders are aggressive predators that can move quickly from almost any other creature or object. the Ethereal Plane to attack opponents on the Material Plane. Its shapeshifting ability frees a phasm from most material A typical phase spider’s body is 8 feet long. It weighs about 700 needs, which usually leads it to a life of exploration, hedonism, or pounds. philosophical contemplation. There’s no telling where Phase spiders cannot speak. a phasm will turn up, nor what it will do if discov- ered. They are natural spies but notori- COMBAT ously unreliable, since they feel no Phase spiders dwell and hunt on particular need to report the Material Plane. Once a spi- what they learn. They der locates prey, however, it have an affinity for shifts to the Ethereal Plane to doppelgangers attack, attempting to catch its and sometimes victim flat-footed. The spider ally themselves shifts in, bites its victim, with groups of and retreats quickly back them for secu- to the Ethereal Plane. rity—or just Ethereal Jaunt for the fun (Su): A phase spi- of it. der can shift from the Ethe- real Plane to the Material Plane as a free action, and shift back again as a move action (or during a move action). The ability is otherwise A phasm in its natural form is about 5 feet in diameter and 2 feet identical with ethereal jaunt (caster level 15th). high at the center. Swirls of color indicate sensory organs. In this Poison (Ex): Injury, Fortitude DC 17, initial and secondary form, a phasm slithers about like an ooze and can attack with a damage 1d8 Con. The save DC is Constitution-based. pseudopod. It weighs about 400 pounds.",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+3 Tieflings are sneaky, subtle, and generally conniv- This creature resembles a miniature red dragon, slightly smaller than a ing. They prefer to housecat. It is red-brown in color rather than deep red. It has fine strike from ambush Pseudodragon scales and sharp horns and teeth. Its tail is about twice as long and usually avoid a fair as its body, barbed, and very flexible. fight if they can. Darkness (Sp): A tiefling can Pseudodragons are tiny, playful use darkness once per day (caster members of the dragon family. level equal to class levels). A pseudodragon has a body",
+        "name":  "Combat Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "–2 the creature exits, muscular action",
+        "name":  "Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Tail slap +4 melee (1d6+1 plus positive energy) or tail This vile creature must have at least a dozen long, spindly claws that hang touch +4 melee touch (positive energy) from its bulbous, floating body. Its round head is almost all mouth, and Full Attack: Tail slap +4 melee (1d6+1 plus positive energy) and its mouth is almost all teeth. claw +2 melee (1d4 plus positive energy); or tail touch +4 melee touch (positive energy) and claw touch +2 melee touch Rasts swarm in isolated pockets on distant planes, particularly the (positive energy) Elemental Plane of Fire. Floating, fleshy sacks of teeth and claws, Space/Reach: 5 ft./5 ft. these insatiable creatures eat almost continuously. Special Attacks: Positive energy lash, animate objects",
+        "name":  "Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Darkvision 60 ft., flight, immunity to fire blood with a lust that would shame most normal beasts. A rast has Saves: Fort +4, Ref +3, Will +4 anywhere from ten to fifteen claws, though it can only use four at Abilities: Str 13, Dex 10, Con 13, Int 7, Wis 12, Cha 14 once. Skills: Escape Artist +6, Hide +6, Listen +7, Move Silently +6, A rast has a body about the size of a large dog’s, with a head Spot +7, Survival +7, Use Rope +0 (+2 with bindings) almost as large as the body. It weighs about 200 pounds. Feats: Improved Initiative, Multiattack",
+        "name":  "At its heart, a rast is a creature of ash and cinder, but it feasts on Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "30 ft. (6 squares), burrow 20 ft. The remorhaz is an arctic monster, an aggressive predator that",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Bite +13 melee (2d8+12) beasts to guard their lairs.",
+        "name":  "Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Bite +13 melee (2d8+12) A remorhaz is whitish-blue in color but pulses with a reddish Space/Reach: 15 ft./10 ft. glow from the heat its body produces. The creature is a little more",
+        "name":  "Full Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "11–15 HD (Large); 16–30 HD (Huge) earthward to snatch prey in its power- Level Adjustment: — ful talons and carry it off for itself and its young to devour. A This creature looks much like a natural stalagmite about 10 solitary roc is typically hunting and feet tall. Its great, gaping maw lined with crystalline teeth will attack any Medium or larger suggests it is a meat eater. creature that appears edible. A mated pair of rocs attack in concert, Ropers are hideous creatures that lurk in the deep cav- fighting to the death to defend erns of the world. They are altogether evil and far more their nests or hatchlings. intelligent than most people would judge by their",
+        "name":  "A roc attacks from the air, swooping Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— This creature seems to be about the size of a pony. It has four insectlike legs and a squat, humped. body protected by a RETSNOM TSUR Rust monster 216 sides, leaving a portion of their forces in the water as reinforce- SAHUAGIN ments or to deal with opponents the raiders throw into the sea. Medium Monstrous Humanoid (Aquatic) Blindsense (Ex): A sahuagin can locate creatures underwater",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Satyrs have a +4 racial bonus on Hide, Listen, Move all the way to its tail flukes. Silently, Perform, and Spot checks. The sea cat is a fearsome aquatic predator. SATYRS AS CHARACTERS Sea cats inhabit shallow coastal waters, making their lairs in Satyr characters possess the following racial traits. undersea caves or in the wreckage of ships. They hunt for fish, — +2 Dexterity, +2 Constitution, +2 Intelligence, +2 Wisdom, aquatic mammals, sea birds, and anything else they can catch and +2 Charisma. kill. TAC AES Satyr 220 A typical sea cat is 12 feet long and weighs 800 pounds. COMBAT Sea cats attack on sight, either for food or to defend their territory, and use both claws and teeth to grab and rend their prey. They dis- play tremendous courage, always fighting to the death, even against creatures many times their size. Pairs and prides of sea cats attack in concert, trying to wear the opponent down until one beast can dispatch it. Hold Breath (Ex): A sea cat can hold its breath for a number of rounds equal to 6 × its Constitution score before it risks drowning. Rend (Ex): A sea cat that hits with both claw attacks latches onto the opponent’s body and tears the flesh. This automatically deals an extra 2d6+6 points of damage.",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A sea cat has a +8 racial bonus on any Swim check to per- form some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line. SHADOW This creature seems to be nothing but a patch of mobile gloom, more or less humanoid in shape. Shadows are creatures of sentient darkness, hating life and light with equal fervor. Their touch bestows the painful chill of nonex- istence, making them very dangerous opponents. A shadow can be difficult to see in dark or gloomy areas but stands out starkly in brightly illuminated places. Natural enemies of all that live, shadows are aggressive and predatory. They are quick to strike and make short work of those unprepared to deal with them. A shadow is 5 to 6 feet tall and is weightless. Shadows cannot speak intelligibly. Sea cats are aggressively territorial, attacking any creature, regardless of size, that enters their domain. Their chief enemies COMBAT and competitors are sharks, and sea cats go out of their way to Shadows lurk in dark places, waiting for living prey to happen by. attack them. Sometimes they form temporary prides to deal with Strength Damage (Su): The touch of a shadow deals 1d6 points particularly dangerous or resistant intruders. Their normal pride of Strength damage to a living foe. A creature reduced to Strength structure is much like that of terrestrial lions. 0 by a shadow dies. This is a negative energy effect. SHADOW Sea cat Shadow Greater Shadow Medium Undead (Incorporeal) Medium Undead (Incorporeal)",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+3 (cohort) Special Qualities: Darkvision 60 ft., immunity to electricity, low-light This creature has the body of a large dog, with a smooth vision, plant traits, resistance to fire black coat and a mouth full of sharp teeth. 10",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A skeleton retains none of the base creature’s Advancement:As base creature (or — if the base creature ad- special attacks. vances by character class).",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A skeleton loses most special qualities of Level Adjustment:—. 226 the base creature. It retains any extraordinary special qualities that SKELETON Troll Skeleton Chimera Skeleton Ettin Skeleton Large Undead Large Undead Large Undead",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "20 ft. (4 squares), swim 40 ft. Creatures of chaos, slaadi have been likened to humanoid toads,",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Usually lawful moned creatures automatically evil return whence they came after",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "+3 hour. Most slaadi do not use this This creature looks like an ability lightly, since they are abominable crossbreed of generally distrustful and fear- human and fish. Its fins ful of one another. In general, have grown into twisted arms they use it only when necessary and legs, and its bent back is crowned with a long, Skum to save their own lives. spiny frill. It has a slender, muscular tail and bulbous eyes. SLAADI CHARACTERS Skum are misbegotten creatures created by aboleths to serve as Slaadi rarely have the focus to devote themselves to a character beasts of burden and slaves. They are derived from human stock, class. Grays sometimes become sorcerers, and the most powerful making them even more loathsome. death slaadi train as rogues to take the assassin class. A skum is about the same height and weight as a human. Skum speak Aquan. RED SLAAD Large Outsider (Chaotic, Extraplanar)",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Climb +15, Hide +8, Jump +15, Listen +8, Move Silently Stunning Croak (Su): Once per day a red slaad can emit a loud +12, Spot +8 croak. Every creature (except slaadi) within 20 feet must succeed",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Hide +13, Intimidate +12, Knowledge (religion) +12, Most sphinxes fight on the ground, using their wings to help Listen +14, Search +12, Spot +14, Survival +2 (+4 following them pounce much as lions do. If outnumbered by earthbound tracks) creatures, a sphinx takes wing and attacks on the fly.",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Solitary, gang (2–4), or Rake (Ex): A sphinx that pounces onto a swarm (6–11) creature can make two rake attacks with its",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Alertness, Cleave, Great Cleave, Flyby Attack, Power COMBAT Attack, Track In close combat a spectre attacks with its numbing, life-draining Environment: Warm deserts touch. It makes full use of its incorporeal nature, moving through Organization:Solitary walls, ceilings, and floors as it attacks. Challenge Rating: 9 Energy Drain (Su): Living creatures hit by a spectre’s incorpo- Treasure: Standard real touch attack gain two negative levels. The DC is 15 for the For- Alignment: Always chaotic good titude save to remove a negative level. The save DC is Charisma- Advancement: 13–18 HD (Large); 19–36 HD (Huge) based. For each such negative level bestowed, the spectre gains 5 Level Adjustment: +5 (cohort) temporary hit points. Create Spawn (Su): Any humanoid slain by a spectre becomes This creature is bigger than a riding horse and has a tawny lion body, great a spectre in 1d4 rounds. Spawn are under the command of the falcon wings, and a humanoid face. spectre that created them and remain enslaved until its death. They do not possess any of the abilities they had in life. These sphinxes are always male. Androsphinxes are clever and Unnatural Aura (Su): Animals, whether wild or domesticated, generally good-natured, but they can be savage opponents. can sense the unnatural presence of a spectre at a distance of 30 Though outwardly gruff and bad-tempered, androsphinxes feet. They do not willingly approach nearer than that and panic if have noble hearts, and are a little bit shy. They appreciate small forced to do so; they remain panicked as long as they are within courtesies, but seldom admit it, and praise makes them feel that range. uncomfortable. ERTCEPS Spectre 232",
+        "name":  "Feats",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Gore +15 melee (2d6+6) and 2 claws +10 melee (1d6+3) This creature is bigger than a horse and has a tawny lion body, great Space/Reach: 10 ft./5 ft. falcon wings, and the head of a female humanoid.",
+        "name":  "Full Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Darkvision 60 ft., low- pany of bandits mounted on spider eaters is fear- light vision some indeed. The creature gets its name from",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Str 21, Dex 14, Con 15, Int 6, eggs in the paralyzed bodies of enormous creatures, Wis 15, Cha 10 often arachnids.",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Hide +14, Listen +4, Spot +4 with the nature of the component creature (most are animals or",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Warm marshes A swarm of Tiny creatures consists of 300 nonflying creatures or",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Colony (2–4), flock (5–8), or storm (9–14) 1,000 flying creatures. A swarm of Diminutive creatures consists",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1/2 of 1,500 nonflying creatures or 5,000 flying creatures. A swarm of",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "None Fine creatures consists of 10,000 creatures, whether they are flying",
+        "name":  "Treasure",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Always neutral or not. Swarms of nonflying creatures include many more crea-",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "None Distraction (Ex): Any living creature that begins its turn with a",
+        "name":  "Treasure",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Always neutral to any creature whose space it occupies at the end of its move. The",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Str 1, Dex 19, Con 8, Int —, Wis 10, Cha 2 it encounters. A swarm deals 1d6 points of damage to any creature",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Solitary, cloud (2–7 swarms), or plague (11–20 save DC is Constitution-based. swarms) Distraction (Ex): Any living creature that begins its turn with",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— Swim checks. A rat swarm can always choose to take 10 on all Climb checks, even if rushed or threatened. A whirling, clacking cloud of voracious, grasshopperlike insects flutters A rat swarm uses its Dexterity modifier instead of its Strength closer, filling the air with a high-pitched buzz. modifier for Climb and Swim checks. A rat swarm has a +8 racial bonus on any Swim check to perform A locust swarm is a cloud of thousands of winged vermin that some special action or avoid a hazard. It can always choose to take devours any organic material in its path. 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line. Combat A locust swarm surrounds and attacks any living prey it encoun- SPIDER SWARM ters. A swarm deals 2d6 points of damage to any creature whose Diminutive Vermin (Swarm) space it occupies at the end of its move. Hit Dice: 2d8 (9 hp) Distraction (Ex): Any living creature that begins its turn with Initiative: +3 a locust swarm in its space must succeed on a DC 12 Fortitude save Speed: 20 ft. (4 squares), climb 20 ft. SWARM 239",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "None bly the most dreaded monster of all (except for the largest drag-",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "— ons). None can predict where and when the creature will strike next. A horrible, scuttling army of hand-sized spiders scrambles forward. The location of the tarrasque’s lair is a mystery, and the beast remains dormant much of the time. Its torporous slumber usually A spider swarm is a scuttling horde of venomous spiders. lasts 6d4 months before it leaves its lair for a brief hunting foray lasting 1d3 days. Once every decade or so, the monster is particu- Combat larly active, staying awake for 1d2 weeks. Thereafter, it slumbers A spider swarm seeks to surround and attack any living prey it for at least 4d6 years unless disturbed. encounters. A swarm deals 1d6 points of damage to any creature When active, the tarrasque is a perfect engine of destruction. It whose space it occupies at the end of its move. rampages across the land eating everything in its path, including Distraction (Ex): Any living creature that begins its turn with a plants, animals, humanoids, and even towns. Nothing is safe, and spider swarm in its space must succeed on a DC 11 Fortitude save entire communities prefer to flee the ravening tarrasque rather or be nauseated for 1 round. The save DC is Constitution-based. than face its power. Poison (Ex): Injury, Fortitude DC 11, initial and secondary Many legends surround the tarrasque’s origins and purpose. damage 1d3 Str. The save DC is Constitution-based. Some hold it to be an abomination unleashed by ancient, forgotten",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A triton has a +8 racial bonus A troglodyte stands about 5 feet tall and weighs on any Swim check to perform some about 150 pounds. special action or avoid a hazard. It can Troglodytes speak Draconic. always choose to take 10 on a Swim check, even if distracted or endan- COMBAT gered. It can use the run action while Half of a group of troglodytes are armed only with swimming, pro- claws and teeth; the rest carry one or two javelins vided it swims in a and clubs. They normally conceal themselves, launch straight line. a volley of javelins, then close to attack. If the battle goes against them, they retreat and attempt to hide. Stench (Ex): When a troglodyte is angry or frightened, it secretes an oily, musklike chemical that nearly every form of animal life finds offensive. All living creatures (except troglodytes) within 30 feet of a troglodyte must succeed on a DC 13 Fortitude save or be sickened for 10 TROGLODYTE rounds. The save DC is Constitution-based. Creatures Medium Humanoid that successfully save cannot be affected by the (Reptilian) same troglodyte’s stench for 24 hours. A delay",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "–1 from the sickened creature. Creatures with immu-",
+        "name":  "Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "30 ft. (6 squares) nity to poison are unaffected, and creatures resistant",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The creature’s type changes to undead (aug- its own Hit Dice; any spawn it creates that would exceed this limit mented humanoid or monstrous humanoid). Do not recalculate are created as free-willed vampires or vampire spawn. A vampire base attack bonus, saves, or skill points. Size is unchanged. that is enslaved may create and enslave spawn of its own, so a",
+        "name":  "Size and Type",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    }
+]

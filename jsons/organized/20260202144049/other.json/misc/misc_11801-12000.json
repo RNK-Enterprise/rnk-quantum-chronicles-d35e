@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "other.json",
+        "description":  "40 (+8 Dex, –1 size, +23 natural) 48 (+6 Dex, –2 size +34 natural)",
+        "name":  "AC",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 claws +36 melee, bite +34 melee; 2 claws +43 melee, 4 tongues +42 melee touch or chaos spittle +31 ranged touch or +33 chaos spittle ranged touch",
+        "name":  "Attacks",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Claw 5d6+13, bite 2d10+6 plus chaos bite; Claw 5d8+16, tongue 10d4/19–20 chaos touch; chaos spittle 8d4 chaos spittle 20d4 Face/Reach: 5 ft. by 5 ft./10 ft. 10 ft. by 10 ft./15 ft",
+        "name":  "Damage",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fast healing 15, DR 35/+5, resistances, Fast healing 30, DR 45/+7, resistances, alternate form alternate form, darkvision 320 ft.",
+        "name":  "Special Qualities",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +27, Ref +22, Will +22 Fort +30, Ref +22, Will +26",
+        "name":  "Saves",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 36, Dex 26, Con 37, Int 26, Wis 27, Cha 27 Str 42, Dex 22, Con 38, Int 29, Wis 30, Cha 31",
+        "name":  "Abilities",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Balance +39, Climb +40, Diplomacy +12, Balance +42, Bluff +42, Diplomacy +18, Escape Artist +35, Hide +31, Jump +44, Escape Artist +38, Hide +30, Intimidate +14, Knowledge (arcana) +35, Knowledge Jump +52, Knowledge (arcana) +41, (local) +23, Knowledge (the planes) +35, Knowledge (local) +41, Knowledge (the Knowledge (religion) +26, Listen +35, planes) +41, Knowledge (religion) +41, Listen Move Silently +35, Search +35, +42, Move Silently +38, Scry +22, Search +41, Sense Motive +35, Spot +35, Tumble +39 Sense Motive +42, Spot +42, Tumble +42",
+        "name":  "Skills",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Blinding Speed, Epic Toughness Superior Initiative Climate/Terrain: Any land and underground Any land and underground",
+        "name":  "Epic Feats",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary or pair Solitary or pair",
+        "name":  "Organization",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "21 25",
+        "name":  "Challenge Rating",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Double standard Double standard",
+        "name":  "Treasure",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always chaotic neutral Usually chaotic neutral (sometimes chaotic evil)",
+        "name":  "Alignment",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "34d10+408 (595 hp) can rake.",
+        "name":  "Hit Dice",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+27 (+19 Dex, +8 Superior Rake (Ex): A tayellah that gets a hold Initiative) can make two additional rake",
+        "name":  "Initiative",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "100 ft. attacks (+44 melee) with legs it",
+        "name":  "Speed",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "44 (+19 Dex, –4 size, +15 normally only uses for walking, insight, +4 natural) dealing 4d6+5 points of",
+        "name":  "AC",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 claws +44 melee, 3 damage each. bites +39 melee, sting +37 If the tayel- melee lah pounces on",
+        "name":  "Attacks",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite 2d8 + 11, an opponent, it claw 2d6+5, sting 3d6+5 can also rake. plus poison Face/Reach: 20 ft. by 40 ft./10 ft.",
+        "name":  "Damage",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  " Pounce, improved grab, rake 4d6+15",
+        "name":  "Special Attacks",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "SR 34, DR 15/+6",
+        "name":  "Special Qualities",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +31, Ref +38, Will +22",
+        "name":  "Saves",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 32, Dex 48, Con 34, Int 14, Wis 32, Cha 19",
+        "name":  "Abilities",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hide +19, Listen +22, Move Silently +31, Spot +22",
+        "name":  "Skills",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary or pair Medium-Size Aberration",
+        "name":  "Organization",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "24 Hit Dice: 29d8+348 (478 hp)",
+        "name":  "Challenge Rating",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None Initiative: +22 (+14 Dex, +8 Superior Initiative)",
+        "name":  "Treasure",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral Speed: 70 ft.",
+        "name":  "Alignment",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard though the thorciasid is free to do as it desires). The",
+        "name":  "Treasure",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually neutral subject can attempt to break the grapple of the cocoon",
+        "name":  "Alignment",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary practice, or some other enjoyable activity. This contact",
+        "name":  "Organization",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 almost always takes place on some desolate and feature-",
+        "name":  "Challenge Rating",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard less plane where distractions are minimal.",
+        "name":  "Treasure",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral",
+        "name":  "Alignment",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "50d8+800 (1,025 hp) Plant Traits: Immune to poison, sleep, paralysis, stun-",
+        "name":  "Hit Dice",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+3 (–1 Dex, +4 Improved Initiative) ning, and polymorphing; not subject to critical hits or",
+        "name":  "Initiative",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "60 ft. mind-affecting effects.",
+        "name":  "Speed",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "41 (–1 Dex, –8 size, +40 natural) Half Damage (Ex): Whenever an elder treant takes",
+        "name":  "AC",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 slams +49 melee hit point damage, it only takes half the damage indi-",
+        "name":  "Attacks",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam 10d6+19/19–20 cated; its woody form just doesn’t feel damage like Face/Reach: 40 ft. by 40 ft./25 ft. flesh would.",
+        "name":  "Damage",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +45, Ref +17, Will +33 control plants, speak with plants, stone tell; 3/day—heal-",
+        "name":  "Saves",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 48, Dex 8, Con 42, Int 19, Wis 33, Cha 35 ing circle (plants only), plant growth, sunburst, wall of",
+        "name":  "Abilities",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Epic Will Medium-Size Construct Climate/Terrain: Any forest Hit Dice: 57d10 (313 hp)",
+        "name":  "Epic Feat",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary or with grove of treants Initiative: +10 (Dex)",
+        "name":  "Organization",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "25 Speed: Fly 90 ft. (perfect)",
+        "name":  "Challenge Rating",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard AC: 40 (+10 Dex, +20 natural)",
+        "name":  "Treasure",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral good Attacks: Disintegrating touch +42 melee touch",
+        "name":  "Alignment",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "51–150 HD (Colossal) Damage: 5d6 plus disintegrating touch (Fort DC 38) Face/Reach: 5 ft. by 5 ft./5 ft.",
+        "name":  "Advancement",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +40, Ref +37, Will +41 which they delight in revealing, by their mere presence,",
+        "name":  "Saves",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 39, Dex 38, Con 44, Int 42, Wis 38, Cha 46 in more structured realities.",
+        "name":  "Abilities",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary, pair, or madness (3–6) Potential victims can make a Will save (DC 47) to",
+        "name":  "Organization",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "27 resist confusion. Those affected by the aura can",
+        "name":  "Challenge Rating",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard make a new save every 4 rounds to throw off",
+        "name":  "Treasure",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually the effect. Once it has successfully resis- neutral evil ted, a subject remains immune to",
+        "name":  "Alignment",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "42d8+546 (735 hp) in its wake.",
+        "name":  "Hit Dice",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+11 (+7 Dex, +4 Improved Initiative) Vermiurges speak Terran.",
+        "name":  "Initiative",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "50 ft., fly 90 ft. (perfect)",
+        "name":  "Speed",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "40 (+3 Dex, –1 size, +24 natural) COMBAT",
+        "name":  "AC",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sting +43 melee, 4 pincers +41 melee, bite The single most terrible aspect of a vermiurge is its aura +40 melee of doom ability, which it uses to lethal effect.",
+        "name":  "Attacks",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +27, Ref +21, Will +38 permanently collapse, even if all the vermin are slain or",
+        "name":  "Saves",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 34, Dex 25, Con 36, Int 18, Wis 40, Cha 44 if all 1,000 vermin deal their damage in 1 round. As",
+        "name":  "Abilities",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Heal +19, Hide +19, Jump +32, Knowledge soon as any vermin are replenished, they participate (nature) +24, Listen +37, Move Silently +27, Spot +33 normally in the crown of vermin effect.",
+        "name":  "Skills",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary ture must make a successful Will save (DC 48) or",
+        "name":  "Organization",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "24 become shaken. Success indicates that the target is",
+        "name":  "Challenge Rating",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually lawful neutral for one day.",
+        "name":  "Alignment",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "32d12 (208 hp) A winterwight likes to use its claws and skull butt on",
+        "name":  "Hit Dice",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+12 (+8 Dex, +4 Improved Initiative) foes, attempting to immerse them in blightfire.",
+        "name":  "Initiative",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "60 ft. Rend (Ex): if the winterwight hits with",
+        "name":  "Speed",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "46 (+8 Dex, +28 natural) both of its claws, it latches onto the oppo-",
+        "name":  "AC",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 claws +40 melee, skull butt nent’s body and tears the flesh. This +32 melee attack automatically deals an addi-",
+        "name":  "Attacks",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Claw 3d8+21/19–20 tional 6d8+31 points of damage. (+1d6 on critical hit) plus blight- Blightfire (Su): When a winter- fire, skull butt 2d6+10 plus blightfire wight deals damage to a living oppo- Face/Reach: 5 ft. by 5 ft./5 ft. nent, a night-black flame begins",
+        "name":  "Damage",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Undead traits, save (DC 35), it takes 4 points of cold subtype, cold aura, SR 34, permanent Constitution drain. DR 20/+6, icy hardness The opponent must continue",
+        "name":  "Special Qualities",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Knowledge (undead) to save every round for the +30, Listen +36, Spot +38 next 4 rounds (5 rounds total) to",
+        "name":  "Skills",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +10, Ref +18, is slain by blightfire, only icy Will +24 fragments of the victim remain.",
+        "name":  "Saves",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "immunity (fireball), sleet storm Solitary or pair (a winterwight is immune to the",
+        "name":  "Organization",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard wall of ice. Caster level 23rd;",
+        "name":  "Treasure",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+8 (+4 Dex, +4 Improved Initiative) in effect. It prefers to fight opponents with its offensive",
+        "name":  "Initiative",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "47 (+4 Dex, +8 bracers, +3 ring, +2 amulet, +20 insight) engulf ability as potent dissuasion.",
+        "name":  "AC",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +11, Ref +14, Will +17 (vermin), animal growth (vermin), animal messenger",
+        "name":  "Saves",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary biting vermin nibble away at their latest meal. A victim",
+        "name":  "Organization",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "26 who spends a full-round action can break free of the",
+        "name":  "Challenge Rating",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As character embrace and move up to half its speed away from the",
+        "name":  "Treasure",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any evil worm if desired, but can do nothing else. Otherwise,",
+        "name":  "Alignment",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Same as the character. Duration: Permanent",
+        "name":  "Abilities",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary, occasionally with minions DC). Mitigating factors: increase casting time by 10 or master. minutes (–20 DC); increase casting time by 7 days",
+        "name":  "Organization",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Same as the character + 3. (–14 DC).",
+        "name":  "Challenge Rating",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Same as the character.",
+        "name":  "Treasure",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Nerull (primarily) and Wee Jas. in the door, it’s up to you to impress.",
+        "name":  "Religion",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any evil. The organization isn’t large for a multiplanar operation",
+        "name":  "Alignment",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "500+. would threaten.",
+        "name":  "Members",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Various. group is entitled to the knowledge harvested from such",
+        "name":  "Religion",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Various. research and retrieval.",
+        "name":  "Alignment",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The Godkissed has no formal head- Vellella (CG female elf Wiz22) enjoys her celebrity quarters. Allies meet in each other’s homes to discuss status in Union, but also recognizes the danger that the plans, and potential allies wine and dine one another, and radical elements of the Godkissed could represent, occasionally large numbers of the group’s members should they ever succeed in gaining control of the group. gather together to boast to one another and see how She always works against Calabar’s plans, though in alliances and coalitions proceed. The organization lacks a person they are polite enough to each other, even if their designated site. remarks are sometimes quite pointed. Vellella claims dis- Unofficially, an upscale tavern called Heaven’s Tankard tant blood ties with an elven god of the hearth. deep in the heart of the city of Union serves as a meeting place for the Godkissed. Members can regularly be found RECRUITING there, drinking or conferring in the back rooms reserved Becoming a member of the Godkissed isn’t so much a for their use. Nonmembers often flock to Heaven’s process of joining as of infiltrating. The current mem- Tankard to see members of the group, who are treated as bers are so busy manipulating one another and maneu- celebrities in some circles. Members of an organization vering for power that they don’t have time to concern called Believers of the Source (who hail from another themselves with any sort of proper membership planar metropolis called Sigil) are often found here. The process. It is far easier just to jump into the game, estab- Believers are in awe of all things divine; when in atten- lishing allies and enemies, than it is to be formally rec- dance, they sit in rapt attention listening to anything a ognized through some ceremony. Of course, without Godkissed might have to say. some demonstrable proof of divine background (or a",
+        "name":  "Headquarters",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "890+. good trick useful in fooling everyone into thinking",
+        "name":  "Members",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Loose. Alliances among members come such), any new prospective member has little to offer and go, though some coalitions last longer than others. potential allies in the group’s grandiose games. Getting The sole factor that keeps the Godkissed as a “coherent” involved without the clout to back up a claim often organization is the members’ shared birthright, the ends with the death of the false claimant. divine ancestry they all claim. The Godkissed aren’t likely to come recruiting the",
+        "name":  "Hierarchy",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Various. player characters to join their ranks, and if the characters",
+        "name":  "Religion",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any. want to get in on the action, they are going to have to play",
+        "name":  "Alignment",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Mixed. Most in Union have heard of this or the game of political intrigue. Although this kind of that individual member and his exploits but are com- involvement can be a lot of fun, the Godkissed may cross pletely unaware of the Godkissed as a group. Most God- paths with your heroes in other ways. kissed are happy simply to put in an appearance at All matters of qualifications aside, the Godkissed does Heaven’s Tankard and enjoy a bit of celebrity status now not make much distinction between classes. Fighter or and again in select circles. On the other hand, several wizard, cleric or rogue, anyone who has the charisma secret coalitions exist within the membership. These and the intestinal fortitude to play the game can force groups hope to one day achieve leadership over the his or her foot in the door. All that really matters in such entire group, so that they can impose their own agendas. instances is the level of power any particular individual",
+        "name":  "Secrecy",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "3,000+.",
+        "name":  "Members",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Various (but St. Cuthbert is a favorite). exacting standards.",
+        "name":  "Religion",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any nonevil. Generally speaking, PCs interested in joining under-",
+        "name":  "Alignment",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The central headquarters of the lap) nor coterminous to (doesn’t naturally touch) any Union Council is in the Quarter of Law, near the Union other plane. However, the demiplane holds a great Sentinel headquarters. Usually, about half of The number of artificial gales and portals that connect to sev- Thirty-Three can be found in the well-defended struc- eral extradimensional locations. ture at any one time, though all gather monthly for Within this twilight void drifts a collection of float- council business. Other individuals who visit the struc- ing islands, gently hovering umbrellas of rock that ture usually only encounter lesser functionaries unless coast through the twilight carried on gentle air cur- their need is great. rents. Huge reefs of cloud sometimes move like",
+        "name":  "Headquarters",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "33. armadas through the high or low sky, glowing with",
+        "name":  "Members",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Loose. Mercanes come and go in the ambient light. The rocky formations and the cloud Union Council, though the upper echelon of adminis- banks are the two main features in this void, and they trators doesn’t vary except perhaps after each bicenten- are surrounded on all sides, above and below, with an nial vote. indirect purplish orange glow, reminiscent of the most",
+        "name":  "Hierarchy",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Boccob. fabled of sunsets. The temperature remains pleasantly",
+        "name":  "Religion",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Lawful neutral. warm, like an early summer evening, and a constant",
+        "name":  "Alignment",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Diplomacy +20, Handle Animal +20, doors, feather fall, hold portal; 2nd—bull’s strength, cat’s grace; Heal +20, Knowledge (religion) +18, Ride (horse) +21; 3rd—fireball.",
+        "name":  "Skills and Feats",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Located in a sack carried by the balor is 1,100 pp and 14 golden yellow topaz gems worth 500 gp apiece. The larger chamber is lavishly decorated. Friezes",
+        "name":  "Treasure",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The thorciasids use their cocoon power prefer- their help, he reluctantly agrees, but continues to voice entially, then their energy- and ability-draining powers his reservations about such a risky plan. against melee opponents. Treasure: The mirror of life trapping (Will save DC 23) is",
+        "name":  "Tactics",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  " Storm is immune to natural The famous Bard of Shadowdale is forms of electricity such as known for her merry manner and lightning. her bold adventures as a leader of",
+        "name":  "Electricity Immunity",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The the Harpers. She approaches life Chosen of Mystra template adds +10 with endless high spirit and to Storm’s Constitution. gusto, has little personal arro-",
+        "name":  "Enhanced Constitution",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Deneir’s eye (+2 gance, and spends much time holy bonus against glyphs, runes, and training young Harpers, pro- symbols), Skill Focus (Perform), Skill tecting Shadowdale against focus (Sense Motive), Tymora’s smile its foes, and aiding unhappy (+2 luck bonus on one saving throw youngsters. About all that each day). upsets Storm is the unhappi- Silver Fire (Su): See Chapter 2 of ness of good folk; working to the FORGOTTEN REALMS Campaign Set- make others happy drives her ting for details. through the days.",
+        "name":  "Harper Abilities",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Halaster does not them elsewhere. age. Halaster’s moments of san-",
+        "name":  "Longevity",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The Chosen of Mystra privy to Khelben’s plans. She is a match for him in both template adds +10 to Khelben’s Constitution. intellect and personal power, and their deep bond of true",
+        "name":  "Enhanced Constitution",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "once. This, coupled with her natural The Chosen of Mystra tem- talent for perfectly remembering plate adds +10 to Alustriel’s faces, names, voices, and manner- Constitution. isms, makes her nearly the perfect Name and Song Attune- ruler. Her wits and experience ment (Su): Whenever Alustriel’s enable her to better anticipate future name or the Rune of the Chosen events in the North than almost is spoken, she hears it along with anyone else in Faerûn. the next nine words that person Folk of Silverymoon love her as speaks. their “Lady Hope” or “Shining Lady.” Silver Fire (Su): See Chapter 2 of the Alustriel has the knack of befriending FORGOTTEN REALMS Campaign Setting for details. most people she meets, helping them (even in small",
+        "name":  "Enhanced Constitution",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Manshoon bryl but arriving at an understanding has read a tome of clear thought +3. His with the Chosen of Bane that allows Intelligence score has a +3 inherent him to make use of the resources bonus included in its value. and manpower of the Zhentarim.",
+        "name":  "Enhanced Intelligence",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "protection from good as a free action, Mitigating factors: burn 2,000 XP (–20 DC), 10d6 usable at will; +2 bonus on Charisma-based skill and abil- backlash (–10 DC). ity checks when dealing with followers of Auril.",
+        "name":  "Transcendence",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S, XP once the casting is complete, lasts for 20 hours, and",
+        "name":  "Components",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 action takes another full day to gradually return to normal. A",
+        "name":  "Casting Time",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Touch blizzard combines high winds, heavy snow (1d3 feet),",
+        "name":  "Range",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 hours cific effects.",
+        "name":  "Duration",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Reflex partial (see text) The caster takes 4d6 points of damage from the casting.",
+        "name":  "Saving Throw",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1,300 XP. (horse) +30, Spot +9, Swim +31; Cleave, Com- Cold Claws bat Reflexes, Dodge, En- Evocation [Cold] ergy Resistance (fire, elec-",
+        "name":  "XP Cost",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "V, S Extended Life Span, Great",
+        "name":  "Components",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A 20-mile radius, centered on you Unarmed Strike, Iron Will, Lightning Reflexes, Mobil-",
+        "name":  "Area",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 hours ity, Power Attack, Scribe Scroll, Spring Attack, Stunning",
+        "name":  "Duration",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "128,335 gp; Cost to Create: 64,335 gp + with no saving throw. A fire effect breaks any slow effect 2,474 XP. on the destrier and cures 1 point of damage for each 3 points of damage it would otherwise deal.",
+        "name":  "Market Price",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "18d10 (99 hp) turer, and still has a soft spot for those",
+        "name":  "Hit Dice",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "–1 (Dex) who seek thrills and gold with",
+        "name":  "Initiative",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "50 ft. courage (and a touch of brashness)",
+        "name":  "Speed",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 (–1 size, –1 Dex, +22 natural) in their hearts. He sought his for-",
+        "name":  "AC",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 hooves +23 melee, 1 bite tune in the company of such lumi- +18 melee naries as Morden-",
+        "name":  "Attacks",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hoof 2d10+11, bite kainen, Bigby, Serten, 2d6+5 and Rary the Mage. Later, he Face/Reach: 5 ft. betrayed them all except Rary, and by 10 ft./5 ft. eventually was named Lord of Grey-",
+        "name":  "Damage",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "hawk (though his titles are now Marshal Dire charge of the Bright Lands and Warden of the",
+        "name":  "Special Attacks",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +6, Ref +5, Will +6 (found within the Bright Desert),",
+        "name":  "Saves",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 33, Dex 9, Con —, Int Robilar’s relationship with the –, Wis 11.Cha 1 wizard has cooled of late due Climate/Terrain: Any land to Rary’s distant and increas-",
+        "name":  "Abilities",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary or ingly amoral demeanor. with rider Eventually, the Traitor may",
+        "name":  "Organization",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "13 become the betrayed, but",
+        "name":  "Challenge Rating",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None for now, Robilar remains",
+        "name":  "Treasure",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral content to ride the desert",
+        "name":  "Alignment",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "25 +5. Epic NPCs",
+        "name":  "Arrows",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 neutralize poison, 4 cure serious wounds, 4 haste, 4 heroism.",
+        "name":  "Potions",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "24th, Mighty Rage; 28th, Terri- Class Bonus Feats: 23rd, Lasting Inspiration; 26th, fying Rage. Hindering Song; 29th, Epic Inspiration.",
+        "name":  "Class Bonus Feats",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "24th, Wis 27 (+1 for 24th ing (29th–30th); pearl of power (7th level) (30th). level); 28th, Wis 28 (+1 for 28th level).",
+        "name":  "Increased Ability Scores",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "23rd, Con 19 (+6 for brac- 21st–22nd, legendary bear, dire rat; 23rd, legendary ers); 24th, Wis 27 (+1 for 24th level), Dex 16 (+2 for bear, dire weasel; 24th, legendary bear, dire bat; 25th, gloves); 28th, Wis 28 (+1 for 28th level); 29th, Wis 30 (+2 legendary bear, dire ape; 26th, legendary tiger; for tome). 27th–28th, legendary tiger, dire rat; 29th, legendary",
+        "name":  "Increased Ability Scores",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Nature sense, animal com- NPC FIGHTER panion, woodland stride, trackless step, resist nature’s Ability Scores at list Level: Str 26 (+6 for belt), Dex lure, venom immunity, a thousand faces, timeless body; 13, Con 16 (+2 for Ioun stone), Int 10, Wis 12, Cha 8. wild shape 6/day, Large shape, Tiny shape, dire shape, Increased Ability Scores: 24th, Str 27 (+1 for 24th Huge shape, elemental shape. level); 28th, Str 28 (+1 for 28th level); 29th, Wis 14 (+2",
+        "name":  "Starting Class Features",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "25 +1 (21st–23rd); 25 +3 (24th–30th). ment, phylactery of faithfulness, cloak of Charisma +6, circlet",
+        "name":  "Bullets",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "3 cure serious wounds, 3 heroism, 3 haste. of blasting (major), pink Ioun stone, ring of protection +5;",
+        "name":  "Potions",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 18 (+4 for belt), Dex 24 Ability Scores at 21st Level: Str 14, Dex 8, Con 14 (+4 for gloves), Con 15 (+2 for Ioun stone), Int 10, Wis 14 (+2 for Ioun stone), Int 10, Wis 14, Cha 25 (+6 for cloak). (+2 for Ioun stone), Cha 8.",
+        "name":  "NPC PALADIN Starting Ability Scores",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "24th, Str 15 (+1 for 24th Increased Ability Scores: 24th, Dex 25 (+1 for level); 28th, Str 16 (+1 for 28th level), Dex 12 (+4 for gloves). 24th level), Str 20 (+6 for belt); 28th, Dex 26 (+1 for",
+        "name":  "Increased Ability Scores",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 12, Dex 26 (+6 for 21st +27 +33 +32 +57 gloves), Con 13, Int 14, Wis 10, Cha 8. 22nd +28 +34 +33 +58 Increased Ability Scores: 21st, Con 15 (+2 for Ioun 23rd +29 +35 +34 +59 stone); 24th, Dex 27 (+1 for 24th level); 25th, Str 16 (+4 24th +30 +36 +35 +60 for belt); 28th, Dex 28 (+1 for 28th level). 25th +31 +37 +36 +61",
+        "name":  "Level Wild Spot M Sil Hide Ability Scores at list Level",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "25 +1 arrows (21st–24th); 3 greater slaying Concealment. arrows; 25 +5 (25th–30th). Class Bonus Feats: 24th, Lingering Damage; 28th,",
+        "name":  "Arrows",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Potion of hide, 3 potions of cure serious wounds. slippery mind special rogue ability from the Player’s",
+        "name":  "Potions",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "24th, Cha 27 (+1 for gloves), Con 15 (+2 for Ioun stone), Int 26 (+6 for head- 24th level), Dex 20 (+6 for gloves); 28th, Cha 28 (+1 for band), Wis 12, Cha 8. 28th level). Increased Ability Scores: 22nd, Dex 18 (+4 for",
+        "name":  "Increased Ability Scores",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "3 cure serious familiar. wounds. Quarterstaff (Melee): Staff of",
+        "name":  "Potions",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cure serious wounds, alter self, haste, fly. total value is this amount or less and let the balance",
+        "name":  "Potions",
+        "source":  "epic_level_handbook.txt",
+        "_id":  "f748d52cebf9a49258732de84f5967335e31f003e236683e07278db7f75516f9"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Valbryn Morlydd . . . . . . . . .110 Motivation . . . . . . . . . . . . . . . . . . . . . . . . . . . . .12 Background . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .33 Background . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .110 The Villain’s Plot . . . . . . . . . . . . . . . . . . . . . . . . . .14 Goals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .34 Goals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .111 Specifying the Goal . . . . . . . . . . . . . . . . . . . .14 Using this Villain . . . . . . . . . . . . . . . . . . . . . . . . .34 Using this Villain . . . . . . . . . . . . . . . . . . . . . . . .111 Consequences . . . . . . . . . . . . . . . . . . . . . . . . . .14 Zargath Human-Bane in Eberron . . . . . . .34 Valbryn Morlydd in Eberron . . . . . . . . . . .112 Scheme . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .14 Zargath Human-Bane in Faerûn . . . . . . . .35 Valbryn Morlydd in Faerûn . . . . . . . . . . . .112 Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .14 Appearance and Behavior . . . . . . . . . . . . . . .35 Appearance and Behavior . . . . . . . . . . . . . .112 Advancing the Plot . . . . . . . . . . . . . . . . . . . . .14 War Leader Grikfell . . . . . . . . . . . . . . . . . . . . . . .36 Thaden Felstorm . . . . . . . . . . . . . . . . . . . . . . . . .114 Portraying a Villain . . . . . . . . . . . . . . . . . . . . . . .15 Gurn Sirensong . . . . . . . . . . . . . . . . . . . . . . . . . . .37 Helthra Morlydd . . . . . . . . . . . . . . . . . . . . . . . . .116 Occupations . . . . . . . . . . . . . . . . . . . . . . . . . . .15 Zar’Fell . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .38 Gilgirn . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .117 Personality Traits . . . . . . . . . . . . . . . . . . . . . . .17 Trophy Room . . . . . . . . . . . . . . . . . . . . . . . . . . . . .42 The Guards . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 122 Villainous Behavior . . . . . . . . . . . . . . . . . . . .19 Library . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .44 Inner Ward . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 124 Alternative Class Features . . . . . . . . . . . . . . . . .20 Audience Hall . . . . . . . . . . . . . . . . . . . . . . . . . . . .46 Gatehouse . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 126 Blasphemous Incantation . . . . . . . . . . . . . . .20",
+        "name":  "Chapter Seven",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "The Tolstoffs . . . . . . . . . . . . . . .48 Celestial Slayer . . . . . . . . . . . . . . . . . . . . . . . . .20 Chapter Eight: Kastya Zurith-Movya . . . . 128 Background . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .48 Favored of the Fiends . . . . . . . . . . . . . . . . . . .20 Background . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 128 Goals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .49 Feign Death . . . . . . . . . . . . . . . . . . . . . . . . . . . .21 Goals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 129 Using these Villains . . . . . . . . . . . . . . . . . . . . . . .50 Inspire Hatred . . . . . . . . . . . . . . . . . . . . . . . . .21 Using this Villain . . . . . . . . . . . . . . . . . . . . . . . 129 The Tolstoffs in Eberron . . . . . . . . . . . . . . . .50 Invisible Fist . . . . . . . . . . . . . . . . . . . . . . . . . . .21 Kastya Zurith-Movya in Eberron . . . . . . 130 The Tolstoffs in Faerûn . . . . . . . . . . . . . . . . .50 Mimic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .21 Kastya Zurith-Movya in Faerûn . . . . . . . 130 Appearance and Behavior . . . . . . . . . . . . . . .50 Spontaneous Affl iction . . . . . . . . . . . . . . . . .21 Appearance and Behavior . . . . . . . . . . . . . 130 Draen Ralgael . . . . . . . . . . . . . . . . . . . . . . . . . . . . .52 Unholy Fury . . . . . . . . . . . . . . . . . . . . . . . . . . .22 Albrathax . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .131 Tolstoff Keep . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .54 Villainous Feats . . . . . . . . . . . . . . . . . . . . . . . . . . .22 Iliss Githom-Vaas . . . . . . . . . . . . . . . . . . . . . . . .133 Barbican . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .58 Ceremony Feats . . . . . . . . . . . . . . . . . . . . . . . .22 Bleak Hold . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 134 Chapel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .60 Vile Feats . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .22 Voidstone Pillar . . . . . . . . . . . . . . . . . . . . . . . . . 138 Catacombs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .62 Feat Descriptions . . . . . . . . . . . . . . . . . . . . . . . . .22 Lich Lair . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .140 Beloved of Demons . . . . . . . . . . . . . . . . . . . . .23 Chapter Four: Captain Gnash . . . . . . . . . . . . . .64 Lair of the Wyrm . . . . . . . . . . . . . . . . . . . . . . . . .142 Blessing of the Godless . . . . . . . . . . . . . . . . .23 Background . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .64",
+        "name":  "Chapter Three",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Borak, Thunder Tyrant . . . 144 Divine Denial . . . . . . . . . . . . . . . . . . . . . . . . . .24 Goals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .65 Background . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 144 Embody Energy . . . . . . . . . . . . . . . . . . . . . . . .24 Using this Villain . . . . . . . . . . . . . . . . . . . . . . . . .66 Goals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .145 Evasive Maneuvers . . . . . . . . . . . . . . . . . . . . .24 Captain Gnash in Eberron . . . . . . . . . . . . . .66 Using this Villain . . . . . . . . . . . . . . . . . . . . . . . .145 Evil Brand . . . . . . . . . . . . . . . . . . . . . . . . . . . . .24 Captain Gnash in Faerûn . . . . . . . . . . . . . . .66 Borak in Eberron . . . . . . . . . . . . . . . . . . . . . .145 Fell Conspiracy . . . . . . . . . . . . . . . . . . . . . . . .24 Appearance and Behavior . . . . . . . . . . . . . . .66 Borak in Faerûn . . . . . . . . . . . . . . . . . . . . . . .145 Generous Sacrifi ce . . . . . . . . . . . . . . . . . . . . .24 Fecar the Unclean . . . . . . . . . . . . . . . . . . . . . . . . .67 Appearance and Behavior . . . . . . . . . . . . . .146 Gruesome Finish . . . . . . . . . . . . . . . . . . . . . . .24 Pog the Navigator . . . . . . . . . . . . . . . . . . . . . . . . .68 Al-Iborak, Sons of the Dragon . . . . . . . . . . . .147 Hellsworn . . . . . . . . . . . . . . . . . . . . . . . . . . . . .24 Much Kill . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .70 Rajief, Prince of the Djinn . . . . . . . . . . . . . . . .148 Maiming Strike . . . . . . . . . . . . . . . . . . . . . . . .25 Main Deck . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .74 Imer the Lost . . . . . . . . . . . . . . . . . . . . . . . . . . . .149 Mask of Gentility. . . . . . . . . . . . . . . . . . . . . . .25 Lower Deck . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .76 Al-Iborak Camp . . . . . . . . . . . . . . . . . . . . . . . . . 152 Proteus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .26 The Hold of Madness . . . . . . . . . . . . . . . . . . . . . .78 Harem Room . . . . . . . . . . . . . . . . . . . . . . . . . . . 154 Slippery Skin . . . . . . . . . . . . . . . . . . . . . . . . . .26",
+        "name":  "Chapter Nine",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Disturbing villains stand out in the players’ ranks of the party, or she might cloak herself in layers of minds. These adversaries come equipped with so many repul- defense and misdirection that thwart any attempts by the sive traits and objectives that PCs will need little prompting PCs to find her. to confront them. Advantages: Since a faceless villain rarely presents herself",
+        "name":  "Advantages",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Disturbing villains might be convenient, to the PCs, she can remain anonymous. You need not defi ne but you should resist the temptation to use them gratuitously. every aspect of such a villain from the outset. In fact, you If the players put their characters up against unsettling hor- might wait until the campaign is under way and decide the rors week after week, the experience will become old hat, identity of the villain based on how the game develops. forcing you to escalate the depravity each time so that the Disadvantages: For this archetype to work, the villain villain carries the same emotional weight. Sooner or later, has to remain beyond the PCs’ reach. With low-level parties, you will go too far and offend someone. this restriction is rarely a problem, but as the characters gain",
+        "name":  "Disadvantages",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A lawful good act in her name, they villain might be a fanat- leave behind her calling ic, forcing his views on card: a white rose. others and making ene- mies of those who do not NON-EVIL subscribe to his beliefs. VILLAIN Alternatively, to protect “Execution is murder. If we his nation and his people, permit it, the blood of the a lawful good villain might accused stains our hands, launch a preemptive war making murderers of us all.” against a rival nation in the name of freedom and Villains need not be evil security. or neutral. Good-aligned Whether he knows it characters can stand in di- or not, a non-evil villain rect opposition to the PCs. might be the minion of Such confl icts can arise an evil master. Perhaps he over differences of opin- commits terrible deeds— ion, unwitting alliances burning villages, executing with evil manipulators, peasants, or sending inno- or moral compromises cents into exile—because that are struck to achieve he is following the orders a noble end. of a superior. He might Non-evil villains gen- have misgivings about his uinely believe that their duties, but above all he re- actions refl ect their own mains loyal to the crown, the upright principles. Their high priest, or some other point of view might be authority fi gure. shaped by philosophical Example: When her differences with the PCs, brother was wrongly accused or by confusion about of murder and executed, the another character’s mo- fi ery agitator Merla Thorn- tives. Some good-aligned The White Lady strikes again gage (CG female halfling villains are unaware that fighter 2/rogue 6) vowed they serve evil masters, unintentionally spreading ma- to oppose the practice of capital punishment. In her mind, levolence as they pursue their lord’s cause. Adamant in whenever the state executes a miscreant, no matter how their beliefs, they do not or cannot see the danger in what shocking his crime, it descends to the criminal’s level. they do. Merla also believes that the government represents the",
+        "name":  "Each time her minions Tactics",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You can drop a rival villain into existing legends, are steeped in mythic signifi cance. For example, adventures as a complication: She can be woven into your a dragon symbolizes greed and material desire by keeping game without becoming the primary plot device. A rival also a hoard of wealth that it cannot use. Likewise, a succubus confl icts with the PCs on a personal level. She might compete symbolizes the concept of lust. with a particular character, allowing you to spotlight an often Disadvantages: Symbolic villains often are one-dimensional overshadowed member of the party, or she might oppose the characters. They lack the depth and complexity of other vil- whole group. In fact, you could create a band of rival villains lains, making them less compelling foes. Furthermore, the that vie against the entire party of PCs. concepts they represent must fi gure strongly into the game;",
+        "name":  "Advantages",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Though a rival villain is adaptable, she otherwise, you will fi nd it diffi cult to present scenarios in becomes tiresome if overused. If an age-old enemy sweeps which the villain’s theme is the centerpiece. in to complicate every mission, the PCs might grow to hate Tactics: A symbolic villain can be as straightforward her so much that they focus on destroying her, losing sight or as complicated as needed, but his actions must always of the adventure at hand. refl ect his central concept. A villain who symbolizes wrath",
+        "name":  "Disadvantages",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A rival villain is annoying. She works against would be reactive, destructive, and violent, while a villain the PCs every chance she gets, smearing their names and representing death might keep zombie minions, dwell in belittling their achievements. She might create additional graveyards or on the Negative Energy Plane, or be a walking obstacles for the characters or share their secrets with corpse himself. enemies of the party. In short, a rival spends most of her Example: After his son was killed by inquisitors for time competing with the player characters, exulting in her conducting research into the forbidden nature of witches, successes and using her failures as further justifi cation for Karl Vederast (CN male human fi ghter 12) came to blame her villainous ways. education for his son’s death. If his boy had never studied",
+        "name":  "Tactics",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "After a party of adventurers ransacked a cult of those damned books, Karl reasoned, he would still be alive. Orcus, a minor cultist named Soryus Jalt (CE female cleric A mercenary captain, Karl set his warriors on a righteous 5) was left among the dead. In the Abyss, she railed against crusade to destroy dangerous knowledge in all its forms. Of the adventurers that caused her doom. Her passionate hate course, it is easy to fi nd a reason to condemn any knowledge was so strong that it drew the fearsome attention of Orcus, as dangerous; thus, Karl’s soldiers burn books and scrolls, raze who in a rare moment of interest listened to the screaming universities and libraries, and string up scholars wherever petitioner. Soryus struck a bargain with the demon prince, they go. offering him souls in exchange for a chance to have the revenge she craved. Intrigued by her ferocity and ambition, SYMPATHETIC VILLAIN Orcus restored Soryus to the Material Plane as an angel of “They killed my family. Can you blame me for wanting to kill decayLM. In her new form, Soryus plots to slowly destroy theirs?” everything the PCs love. She murders their family members, spreads lies about their exploits, and ruins everything they Player characters have a clear reason to fight the villains touch, all the while building toward a confrontation in which they encounter; after all, most evildoers are unnaturally she reveals herself as the cause of all their grief. vile, have sinister objectives, or establish themselves as the party’s mortal enemies. Some villains, though, have SYMBOLIC VILLAIN very good reasons for doing what they do. A sympathetic “There are no innocent words.” villain is defined by the action or event that caused her to become a villain in the first place. Something A great villain does not have to be complicated. Some of horrible, unfair, or just plain nasty happened to her, the greatest foes are simple characters who represent a and her reaction is understandable. Love, grief, and 662200__1100992288__CChh11..iinndddd 99 66//2222//0077 1111::0033::4400 AAMM 10 1 RETPAHC TAERG SNIALLIV fear for the safety of loved ones are typical motives of What’s worse than one villain? Two villains, of course. sympathetic villains. The two-headed villain is a pair of linked foes that works Non-evil villains and sympathetic villains are similar in exceptionally well together. United by common goals, that both claim that their actions are justified, given the bonds of love, or mutual distrust, these villains are capable circumstances. However, whereas non-evil villains merely of striking from many directions at once. think they have a good reason for their actions, sympathetic The two “halves” of a two-headed villain are identical in villains truly do have a good reason. Their motivation does terms of role, power, and frequency. However, they can be not excuse their villainy, of course, but it might make them different kinds of individuals—and if they do diverge in seem less nefarious. this way, they are often more powerful for it. For example,",
+        "name":  "Example",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "If the villain’s reasons seem strong of the same reasons that drive the PCs. enough, the PCs might not try to stop her, and might even Advantages: Two-headed villains are more powerful than try to help her. To avoid this situation, try to balance the other villainous archetypes, and not simply because they have justifi cation for the villain’s goals with the consequences of two times (or more) the number of attacks. Just as important, her actions. Although the PCs might understand what drives they can tailor their abilities to complement each other and the villain, they also must realize that if she succeeds, the to shore up each other’s weaknesses. region, world, or setting will be far worse for it. Disadvantages: Depending on the nature of the villains’",
+        "name":  "Disadvantages",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A sympathetic villain is a reluctant enemy. She relationship, the PCs might be able to pit one against the follows her path because she must, not out of a diabolical other. This trick is more likely to work when the villains are need to spread malfeasance. However, she is willing and bound through alliances of convenience rather than affec- able to set aside her reservations in pursuit of her agenda, tion. Moreover, as far as game mechanics are concerned, a and she accepts that people might be hurt or killed along the two-headed villain is more vulnerable than other villainous way. She sees any such events as unfortunate but necessary archetypes: Each element of a two-headed villain has a lower consequences of her actions, and nothing more. individual Challenge Rating than would a single villain of",
+        "name":  "Tactics",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hyrum Shent (NE male whisper gnomeRS ninja gions tend to be separated by a major doctrinal distinction. 5/assassin 5) takes nearly any job, no matter how unsavory, Religions follow the edicts of deities, while cults serve lesser because he craves the thrill of the hunt. Unsavory govern- powers of a suspicious or sinister nature. ments hire him to bring in political enemies, fugitives, and A villainous cultist or priest has beliefs that are at odds sometimes random citizens—rulers find that spreading with those of the player characters. The villain might honor fear makes it easier for them to maintain their iron grip on the same god the PCs do, or a different deity that is noted for the populace. being good, but her methods of worship or her interpreta- Portraying the Assassin/Bounty Hunter: These villains tion of divine will confl icts with that of the party. More are professionals. They might enjoy their work, but they are commonly, villainous cultists and priests serve evil deities all business all the time. or fi end lords, such as archdevils and demon princes.",
+        "name":  "Example",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Wensly signs, and quote say- Phelps (CE male ings from your holy (or maenadEPH lurk 6) unholy) book. works the market- places of a large city, Merchant picking pockets and Merchants are masters cutting purses. Un- of commerce and trade. like some thieves, he They have connections does not target only in most large cities, giv- victims who look ing them a long reach like they can afford and the means to moni- to lose a few coins. tor the PCs’ activities. He steals from every- A merchant can be one he can. A villainous cultist pays homage to her master anyone from a small, Portraying the one-man outfit to a Criminal/Spy: Criminals are accustomed to looking over powerful prince who controls massive trade consortiums, their shoulders and often are nervous or skittish. To roleplay putting him on par with the mightiest of kings. this trait, talk quickly and assume a tense posture. Look A villainous merchant uses his wealth, contacts, and power around frequently, and glance back over your shoulder every to acquire more of all three, which he then bends toward his now and then. ultimate goal. gnahZ .J yb .sullI 662200__1100992288__CChh11..iinndddd 1166 66//2222//0077 1111::0033::5566 AAMM 17 VILLAINS GREAT CHAPTER 1",
+        "name":  "Example",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bard, beguiler, hexblade, psion, rogue, Savage swashbuckler, wizard. At home in the wild, savage characters are comfortable far",
+        "name":  "Typical Classes",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Barbarian, binder, druid, ranger, scout, Noble/Politician sorcerer, spirit shaman, totemist, warlock.",
+        "name":  "Typical Classes",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Sir Tybalt of Crois (LE male human knight 13) offi cers, or embittered generals tired of inept governments. is known for his brutal methods of handling prisoners. He These characters often have military allies, and if they are dismembers his captives and mounts their heads on poles as not in charge of a force, they can rely on the support of their a warning to those who dare stand against him. fellow troops. Portraying the Noble/Politician: Depending on the situ- Typical Classes: Crusader, duskblade, favored soul, fi ghter, ation, try to come off as arrogant and haughty, quick-witted healer, knight, marshal, paladin, psychic warrior, ranger, and slimy, or both at the same time. Insult those who are samurai, scout, soulborn, warblade, warmage. beneath you, and ingratiate yourself to those who are above Example: Kastya Rathra-da (CE female githyanki psychic you or on the same footing. warrior 10) leads a force of githyanki onto the Material Plane to prepare for an invasion that will capture the world for the Recluse Lich Queen. Not all villains can assimilate into civilized society. Some fl ee Portraying the Soldier: Pay careful attention to the the structure and societal demands of cities to live without battlefi eld and always keep an eye out for strategic advantages. condemnation or judgment in the wilderness. The most Keep the odds in your favor by preparing for the PCs’ arrival heinous villains have no choice in the matter and must eke as comprehensively as possible. out a rugged existence far from the law. This occupation can also include villains from other lands PERSONALITY TRAITS or other planes of existence. These foreign characters might To help you portray a villain, give her some typical villain- live alongside the locals, but they stand apart because of their ous personality traits that reveal facets of her nature. These strange appearance, manner, or customs. traits determine how she might act in any given situation.",
+        "name":  "Example",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Calara the Foul (CE female human rogue 3/druid be a stereotype. 3/cancer mageLM 4) fl ed to the sewers when she enraged the In the brief discussion that follows, each contradictory head of the local assassins’ guild. Her time spent hiding amid trait is defi ned immediately beneath the typical villainous the effl uvia, rats, and diseases has left her . . . changed. trait to which it applies.",
+        "name":  "Example",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "This kind of villain has a hard time communicating with others. Speak awkwardly, in Arrogant terse phrases, in a heavy accent, or in a language that no one Proud, vain, and full of self-importance, an arrogant villain understands. If the character is a true hermit, you can remain shows a blatant disregard for the feelings and wellbeing of silent, keeping your head down as if intimidated by contact others. She spends a lot of time talking about herself and her with other people. achievements. These villains are often lawful. 662200__1100992288__CChh11..iinndddd 1177 66//2222//0077 1111::0033::5588 AAMM 18 1 RETPAHC TAERG SNIALLIV",
+        "name":  "Portraying the Recluse",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A kind villain feels that what she’s doing is a service Tolerant: A tolerant villain benefi ts from diverse groups for her victims. She might be an assassin who murders people of lackeys and hirelings. She recruits folk from a variety because she believes that “life is pain” and by killing them, of races and allegiances. It is in her employ that a half-orc she’s sending them on to a better place in the afterlife or next warrior leads a band of gnolls supported by a human cleric life. A kind thief might believe that wealth makes people and a pixie scout. As long as the folk she uses are loyal to miserable because they focus only on money. By fi nancially her and her cause, she doesn’t care who they are or where devastating a rich family, the thief gives them the opportunity they come from. to reassess their values, rely on each other, and become better people. Lascivious Fueled by sexual desire, lascivious villains are driven by Duplicitous bodily impulses and ardent for physical gratification. They Duplicitous villains are liars, cheats, and traitors. They speak in innuendos and double entendres, and they are honor no alliances or bonds of friendship and use other aggressive in matters of the flesh. These characters are people to serve their needs. Duplicitous villains are always often chaotic. chaotic. Chaste: A villain who focuses on chastity eschews sex and",
+        "name":  "Kind",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A villain who relies on logic is consistent and Envious sensible. Impassionate and unemotional, she makes decisions Incensed by the success of others, envious villains belittle the based on facts and information. accomplishments of everyone around them, while secretly wishing to achieve the same things for themselves. Envious Manipulative villains are often evil. Manipulative villains exploit and use people. They let others",
+        "name":  "Logical",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Generally self-confident, a compli- take risks on their behalf, coercing them with false promises mentary villain hands out praise when it’s deserved. She’ll and lies. These villains are usually evil. compliment the rogue who bypassed the traps she used to Direct: “Here’s what’s going to happen . . .” is the typical protect her hideaway. She’ll exalt the fi ghting expertise that approach of a direct villain. She’ll tell you exactly what she 662200__1100992288__CChh11..iinndddd 1188 66//2222//0077 1111::0044::0000 AAMM 19 VILLAINS GREAT CHAPTER 1 wants, what she expects of you, and what happens if you to assassinate her, she’ll overlook the transgression, perhaps succeed or if you fail. Direct villains tend to be lawful. banishing the person or even just letting the offense go if the would-be assassin apologies. Forgiving villains rarely Nihilistic last for long on their own, but a forgiving mastermind with a Nihilistic villains defy social conventions, having little vindictive or protective second in command can have a very use for custom or proper behavior. They actively oppose long and prosperous career. anything they deem to be tradition, and they mock people who seem shackled by convention. Nihilistic characters are VILLAINOUS BEHAVIOR usually chaotic. Many villains have signature techniques that serve as hall-",
+        "name":  "Complimentary",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Traditional villains fall into two categories: marks of their wicked nature. By assigning an idiosyncratic those who value the status quo and don’t want any signifi cant behavior to your villain, you evoke her whenever the PCs changes in society, and those who want to return society to come across one of her victims. Feel free to choose some of an often illusory “golden age” of long ago when life was so the sample behaviors below or come up with your own. much better. Habits: Adultery, betrayal, cannibalism, cheating, devi- ance, drugs, fi end worship, fi endish pacts, idolatry, lechery, Obsessive lies, neglect.",
+        "name":  "Traditional",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Nothing holds the attention of a capricious bounty hunting, bribery, burglary, deception, disguise, villain for long. Ever active, she starts many different schemes duels, espionage, fraud, gambling, genocide, impalement, and launches a wide variety of endeavors, but sees very few kidnapping, looting, murder, paralysis, poaching, rebellion, through to completion. She gets bored easily and changes seduction, slander, slavery, smuggling, sniping, stabbing, plans by whim to add variety and spice. stalking, terrorism, tyranny, warfare.",
+        "name":  "Capricious",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Body language, facial expressions, and hand Consumed with appearances, vain villains spend much gestures can make your villain stand out. You do not have to of their time perfecting their looks and those of their ser- be a trained actor—just come up with something distinctive vants. They pay close attention to small details and never that the villain might do, and then do it. Coughing, drum- present themselves unless they are flawless. Vain villains ming your fi ngers, or darting your eyes around the table are often lawful. are subtle but important expressions that bring a villain",
+        "name":  "Vain Expressions",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A forgiving villain rarely moves against her about to happen. When you put on a hat, wear a monocle, or rivals or unruly subordinates. Any punishments she metes light a candle, you separate the villain from the foes of more out are mild. For instance, if one of her underlings attempts mundane encounters. 662200__1100992288__CChh11..iinndddd 1199 66//2222//0077 1111::0044::0011 AAMM 20 1 RETPAHC TAERG SNIALLIV ALTERNATIVE The character becomes better able to resist and combat the forces of good, at the expense of his soul. CLASS FEATURES",
+        "name":  "Forgiving",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Ranger.",
+        "name":  "Class",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Cleric. a cultist fearsome claws Benefi t: Your nails lengthen into ragged",
+        "name":  "Class",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1st (cleric). claws and your teeth extend into sharp fangs,",
+        "name":  "Level",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "To select this class feature, you dealing damage as indicated on the following table. must be evil. If your alignment changes to something other than evil, you lose access to this class feature until your Size Bite Damage Claw Damage alignment is restored to evil. Fine 1 —",
+        "name":  "Special Requirement",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "If you select this alternative class feature, you Diminutive 1d2 1 lose the ability to rebuke undead. Tiny 1d3 1d2 Small 1d4 1d3",
+        "name":  "Replaces",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Monk, ranger, or rogue. Monks who follow the Path of the Invisible Fist learn to",
+        "name":  "Class",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2nd (monk or rogue) or 9th (ranger). harness their ki to conceal themselves from detection. With",
+        "name":  "Level",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "If you select this class feature, you do not gain further training, these monks learn to blink between the Mate- the evasion ability. If your class would grant you improved rial Plane and the Ethereal Plane. To gain this versatility, they evasion at a higher level, you instead gain evasion. sacrifi ce their ability to escape unscathed from area effects.",
+        "name":  "Replaces",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "As an immediate action, you can enter a cata- Class: Monk. tonic state in which you appear to be dead. While feigning Level: 2nd. death, you cannot see or feel anything, but you retain the Replaces: If you select this class feature, you do not gain ability to smell, hear, and otherwise follow what is going the evasion ability, nor do you gain improved evasion at on around you. 9th level.",
+        "name":  "Benefi t",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Rogue.",
+        "name":  "Class",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1st, 3rd, 6th, 9th, 12th, 15th, and 18th.",
+        "name":  "INSPIRE HATRED Level",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You must have a Charisma of 12 some villainous bards abandon the techniques that inspire or higher to select this alternative class feature. heroes to greatness. Instead, they prey upon secret long- Replaces: If you select this feature, you do not gain the ings and buried frustrations to awaken the hate that resides trapfi nding ability. in mortal hearts. Benefi t: Once per day, you can use disguise self as a caster",
+        "name":  "Motivated by a desire to spread havoc and sow discord, Special Requirement",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bard. whose level equals your class level. At 3rd level and every",
+        "name":  "Class",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "9th. three levels thereafter, you can reduce your bonus on trap",
+        "name":  "Level",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "You must have 12 ranks in a sense by 1 to gain an additional use of mimic. Perform skill to use this ability. At your discretion, when using disguise self, you can spend",
+        "name":  "Special Requirement",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Barbarian. access to more ceremonies.",
+        "name":  "Class",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "If you select this class feature, you do not gain ceremony consumes its needed materials when it ends, not the barbarian’s standard fast movement ability. when the benefi t ends. If the ceremony is disrupted—for",
+        "name":  "Replaces",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Evil, caster level 6th, Knowledge (the unless otherwise noted. planes) 6 ranks, Evil Brand, Power Attack. Dark Pact (6 ranks): You spew the hateful words of true",
+        "name":  "Prerequisites",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Knowledge (religion) 9 ranks, Iron Will. ing your plans into his ear. Once you have fi nished, you nick",
+        "name":  "Prerequisites",
+        "source":  "exemplars_of_evil.txt",
+        "_id":  "82c5fc0bbbdb4e753ca784171acdb7197808dd9d48bbdb29733538bbedc8c7cb"
+    }
+]

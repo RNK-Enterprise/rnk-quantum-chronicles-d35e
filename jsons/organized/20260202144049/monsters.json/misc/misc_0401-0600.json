@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Making a Heal check to determine the cause of a creature’s death takes 10 minutes.",
+        "name":  "Action",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The creature can learn three more tricks than normal.",
+        "name":  "Benefit",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This feat can be taken multiple times. Each time it is taken, the creature can learn up to three more tricks. pqqqqqqqqqqqqqqqqqqqqrsCHAPTER 3 SKILLS AND FEATS 102CHAPTER 3 SKILLS AND FEATS 103on Hide checks when moving quickly (–10 for moving faster than normal speed, or –5 for moving between half speed and normal speed). You can also use this option to sneak up on someone from a hiding place. For every 5 feet of open space between you and the target, you take a –5 penalty on your Hide check. If your Hide check succeeds, your target doesn’t notice you until you attack or make some other attention-grabbing action. Such a target is treated as being ﬂat-footed with respect to you. For example, Lidda the 2nd-level rogue could attempt to dash across a 5-foot-wide doorway without revealing her presence to the orcs inside. Even though the open doorway provides no cover or concealment, she can attempt a Hide check as normal, opposed by the orcs’ Spot checks. She takes a –5 penalty on her check because of the distance involved. If she moved at more than half her speed, she would take an additional –5 or –10 penalty on the check depending on how fast she moved (see above).",
+        "name":  "Special",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Sense Motive 4 ranks, base attack bonus +5. Beneﬁt: As a free action, you can use Sense Motive to assess the challenge presented by a single opponent in relationship to your own level/Hit Dice (see the assess opponent option under the Sense Motive skill, page 102). You gain a +4 bonus on such checks and narrow the result to a single category. In addition, whenever you make a melee attack against a creature that you made a melee attack against during the previous round, you gain a +1 insight bonus on your melee attack rolls against that creature.",
+        "name":  "Prerequisites",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Sense Motive 4 ranks, base attack bonus +5. Beneﬁt: As a free action, you can use Sense Motive to assess the challenge presented by a single opponent in relationship to your own level/Hit Dice (see the assess opponent option under the Sense Motive skill, page 102). You gain a +4 bonus on such checks and narrow the result to a single category. In addition, whenever you make a melee attack against a creature that you made a melee attack against during the previous round, you gain a +1 insight bonus on your melee attack rolls against that creature.",
+        "name":  "Prerequisites",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Dex 13, Combat Reﬂexes, base attack bonus +2. Beneﬁt: If you hit a creature with an attack of oppor - tunity, you and all your allies gain a +2 circumstance bonus on melee attack rolls and damage rolls against that creature for 1 round. EXTRA MUSIC You can use your bardic music more often than you otherwise could. Prerequisite: Bardic music. Beneﬁt:  You can use your bardic music four extra times per day. Normal: Bards without the Extra Music feat can use bardic music once per day per bard level.",
+        "name":  "Prerequisites",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Dex 13, Combat Reﬂexes, base attack bonus +2. Beneﬁt: If you hit a creature with an attack of oppor - tunity, you and all your allies gain a +2 circumstance bonus on melee attack rolls and damage rolls against that creature for 1 round. EXTRA MUSIC You can use your bardic music more often than you otherwise could. Prerequisite: Bardic music. Beneﬁt:  You can use your bardic music four extra times per day. Normal: Bards without the Extra Music feat can use bardic music once per day per bard level.",
+        "name":  "Prerequisites",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A ﬁghter may select Goad as one of his ﬁghter bonus feats.Dive for CoverIllus. by J. MiracolaCHAPTER 3 SKILLS AND FEATS 110CHAPTER 3 SKILLS AND FEATS 111GREEN EAR Your bardic music can affect plant creatures.",
+        "name":  "Special",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Perform (any) 10 ranks, bardic music. Beneﬁt:  You can alter any of your mind-affecting bardic music abilities (or similar Perform-based abilities from other classes) so that they inﬂuence only plant creatures instead of other creatures. However, plants receive a +5 bonus on Will saves against any of these effects.",
+        "name":  "Prerequisite",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Listen 5 ranks, Blind-Fight. Beneﬁt:  As a move action that does not provoke attacks of opportunity, you can attempt a DC 25 Listen check. If successful, you can pinpoint the location of all foes within 30 feet, as long as you have line of effect to them. This beneﬁt does not eliminate the normal miss chance for ﬁghting foes with concealment, but it ensures that you can target the correct square with your attacks. If you are deafened or within an area of silence , you can’t use this feat. If an invisible or hidden opponent is attempting to move silently, your Listen check is opposed by your opponent’s Move Silently check, but your opponent gains a +15 bonus on this check. This feat does not work against perfectly silent opponents, such as incorporeal creatures. IMPROVED DIVERSION You can create a diversion to hide quickly and with less effort.",
+        "name":  "Prerequisites",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A ﬁghter may select Power Throw as one of his ﬁghter bonus feats.Leap AttackIllus. by R. SpencerCHAPTER 3 SKILLS AND FEATS 110CHAPTER 3 SKILLS AND FEATS 111GREEN EAR Your bardic music can affect plant creatures.",
+        "name":  "Special",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Perform (any) 10 ranks, bardic music. Beneﬁt:  You can alter any of your mind-affecting bardic music abilities (or similar Perform-based abilities from other classes) so that they inﬂuence only plant creatures instead of other creatures. However, plants receive a +5 bonus on Will saves against any of these effects.",
+        "name":  "Prerequisite",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Listen 5 ranks, Blind-Fight. Beneﬁt:  As a move action that does not provoke attacks of opportunity, you can attempt a DC 25 Listen check. If successful, you can pinpoint the location of all foes within 30 feet, as long as you have line of effect to them. This beneﬁt does not eliminate the normal miss chance for ﬁghting foes with concealment, but it ensures that you can target the correct square with your attacks. If you are deafened or within an area of silence , you can’t use this feat. If an invisible or hidden opponent is attempting to move silently, your Listen check is opposed by your opponent’s Move Silently check, but your opponent gains a +15 bonus on this check. This feat does not work against perfectly silent opponents, such as incorporeal creatures. IMPROVED DIVERSION You can create a diversion to hide quickly and with less effort.",
+        "name":  "Prerequisites",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Wild shape class feature, Listen 4 ranks. Beneﬁ  t:  You can expend one daily use of wild shape to gain blindsense for 1 minute per Hit Die, enabling you to pinpoint the location of a creature within 30 feet if you have line of effect to that creature (see page 306 of the Monster Manual ). You retain this beneﬁ  t regardless of what form you are in. CLIMB LIKE AN APE  [WILD] You can improve your climbing ability.",
+        "name":  "Prerequisites",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Wild shape, Spot 4 ranks.Beneﬁ  t: You can expend one of your daily uses of wild shape to gain a +8 bonus on your Spot checks for 1 hour per Hit Die. While this beneﬁ  t is in effect, you take only half the normal penalty for range increment (–1 on ranged attacks per range increment instead of –2), and you take a –1 penalty on Spot checks per 20 feet of distance (rather than per 10 feet). You retain these beneﬁ  ts regardless of what form you are in. SAVAGE GRAPPLE  [WILD] While transformed into the shape of a wild animal, you can savagely tear at any creature that you manage to grapple.",
+        "name":  "Prerequisites",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Wild shape, sneak attack. Beneﬁ  t: While you are in a wild shape, any time you make a successful grapple check to damage a creature with which you are already grappling, you can add your sneak attack damage as well. Creatures not subject to sneak attacks don’t take this extra damage. SCENT  [WILD] You can sharpen your sense of smell.",
+        "name":  "Prerequisites",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A dose of this alchemical compound sprinkled on your trail temporarily confuses the scent ability of any creature. Any creature using scent to track you must succeed on a DC 15 Survival check or lose your trail. If the trail is lost, the creature can attempt to relocate it using the normal rules for the Track feat, but the check DC increases by 2. The odor of catstink remains in effect for 10 minutes after the substance is used. Sprinkling catstink on one’s trail is a standard action that provokes attacks of opportunity.",
+        "name":  "Catstink",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "When applied to the eyes, this clear oil sharpens the user’s vision for a short time, providing a +1 alchemical bonus on Spot checks for 1 minute. One dose of fareye oil is enough to affect the eyes of a creature of any size, but the creature must have eyes to gain any beneﬁt from the oil. Applying fareye oil is a standard action that provokes attacks of opportunity.",
+        "name":  "Fareye Oil",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This tiny brittle object is often disguised as a button or other decoration. You can throw a ﬂash pellet as a ranged attack with a range increment of 5 feet. When thrown against a hard surface, it bursts with a bright ﬂash of light. All creatures within a 5-foot-radius burst must succeed on a DC 15 Fortitude save or be blinded for 1 round and dazzled for 1 round after that.",
+        "name":  "Flash Pellet",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Softfoot is a ﬁne gray powder that mufﬂes sound when applied to the bottom of a foot or boot. It provides a +1 alchemical bonus on Move Silently checks for 1 hour. One dose of softfoot is enough to affect one Medium creature that has one pair of feet; each additional pair of feet (or similar appendages) requires another dose. Applying softfoot is a standard action that provokes attacks of opportunity. If softfoot is applied over a boot or other foot covering, its beneﬁt is lost if the foot cover - ing is removed. Likewise, if it is applied to a creature’s skin or hide, its beneﬁt is lost if the creature later dons footwear.",
+        "name":  "Softfoot",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A dose of this alchemical compound sprinkled on your trail temporarily confuses the scent ability of any creature. Any creature using scent to track you must succeed on a DC 15 Survival check or lose your trail. If the trail is lost, the creature can attempt to relocate it using the normal rules for the Track feat, but the check DC increases by 2. The odor of catstink remains in effect for 10 minutes after the substance is used. Sprinkling catstink on one’s trail is a standard action that provokes attacks of opportunity.",
+        "name":  "Catstink",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "When applied to the eyes, this clear oil sharpens the user’s vision for a short time, providing a +1 alchemical bonus on Spot checks for 1 minute. One dose of fareye oil is enough to affect the eyes of a creature of any size, but the creature must have eyes to gain any beneﬁt from the oil. Applying fareye oil is a standard action that provokes attacks of opportunity.",
+        "name":  "Fareye Oil",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "This tiny brittle object is often disguised as a button or other decoration. You can throw a ﬂash pellet as a ranged attack with a range increment of 5 feet. When thrown against a hard surface, it bursts with a bright ﬂash of light. All creatures within a 5-foot-radius burst must succeed on a DC 15 Fortitude save or be blinded for 1 round and dazzled for 1 round after that.",
+        "name":  "Flash Pellet",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Softfoot is a ﬁne gray powder that mufﬂes sound when applied to the bottom of a foot or boot. It provides a +1 alchemical bonus on Move Silently checks for 1 hour. One dose of softfoot is enough to affect one Medium creature that has one pair of feet; each additional pair of feet (or similar appendages) requires another dose. Applying softfoot is a standard action that provokes attacks of opportunity. If softfoot is applied over a boot or other foot covering, its beneﬁt is lost if the foot cover - ing is removed. Likewise, if it is applied to a creature’s skin or hide, its beneﬁt is lost if the creature later dons footwear.",
+        "name":  "Softfoot",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A typical drum consists of skin, parchment, or some similar material stretched tightly over the opening of a hollow wooden cylinder or pot. This covered opening is called the drumhead. Striking the drumhead with sticks, mallets, or even hands produces the sound. Some drums have only one drumhead; others have two or more. Drums exist in large varieties (such as kettle drums) as well as smaller varieties (such as bongo drums or the double-ended tabor). Drums are popular with almost every race and culture for their ability to stir the emotions, establish a back - ground beat for dancing, and provide counterpoint for a melody produced by some other instrument. Dwarves, orcs, and other races that favor underground living particularly enjoy the echoing power of drums. Smaller races, such as goblins and halﬂings, like bongo drums for their portability. The rare creatures that do not appreci - ate drum-playing include celestials, who consider drum rhythms primitive, and elves, who ﬁnd them vaguely disturbing and annoying (a prejudice reinforced, perhaps, by the enthusiasm with which many of their enemies embrace them).",
+        "name":  "Drum",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A typical drum consists of skin, parchment, or some similar material stretched tightly over the opening of a hollow wooden cylinder or pot. This covered opening is called the drumhead. Striking the drumhead with sticks, mallets, or even hands produces the sound. Some drums have only one drumhead; others have two or more. Drums exist in large varieties (such as kettle drums) as well as smaller varieties (such as bongo drums or the double-ended tabor). Drums are popular with almost every race and culture for their ability to stir the emotions, establish a back - ground beat for dancing, and provide counterpoint for a melody produced by some other instrument. Dwarves, orcs, and other races that favor underground living particularly enjoy the echoing power of drums. Smaller races, such as goblins and halﬂings, like bongo drums for their portability. The rare creatures that do not appreci - ate drum-playing include celestials, who consider drum rhythms primitive, and elves, who ﬁnd them vaguely disturbing and annoying (a prejudice reinforced, perhaps, by the enthusiasm with which many of their enemies embrace them).",
+        "name":  "Drum",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Originally horns were, as their name indicates, actual horns taken from bulls or more exotic beasts. At its simplest, a horn consists of a narrow tip connected to a wider, circular oriﬁce by a hollow, often curved shaft. A musician plays a horn by simply blowing into the small end. Other forms of horns exist, from the conch shell horn employed by merfolk to the herald’s trumpet, but all these instruments function more or less identically. Horns are popular in primitive societies of all kinds. They come in all sizes; those used by Medium creatures are typically 1 to 2 feet in length. Hobgoblins and orcs in particular enjoy these instruments for their loud, stirring, martial sound. Larger human - oids and giants favor horns made from dire creatures. Legend holds that minotaurs use instruments made from the severed horns of other minotaurs that suf - fered defeat in one-on-one contests of honor. A horn makes an excellent signal device— particularly when used underwater, since sound trav - els much farther in water than in air. Some aquatic races such as merfolk and kuo-toa collect a variety of horn-shaped shells in different sizes and play them in harmony, in sequence, or both. The music of these seashell orchestras can achieve a deep, haunting grandeur.",
+        "name":  "Horn",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Originally horns were, as their name indicates, actual horns taken from bulls or more exotic beasts. At its simplest, a horn consists of a narrow tip connected to a wider, circular oriﬁce by a hollow, often curved shaft. A musician plays a horn by simply blowing into the small end. Other forms of horns exist, from the conch shell horn employed by merfolk to the herald’s trumpet, but all these instruments function more or less identically. Horns are popular in primitive societies of all kinds. They come in all sizes; those used by Medium creatures are typically 1 to 2 feet in length. Hobgoblins and orcs in particular enjoy these instruments for their loud, stirring, martial sound. Larger human - oids and giants favor horns made from dire creatures. Legend holds that minotaurs use instruments made from the severed horns of other minotaurs that suf - fered defeat in one-on-one contests of honor. A horn makes an excellent signal device— particularly when used underwater, since sound trav - els much farther in water than in air. Some aquatic races such as merfolk and kuo-toa collect a variety of horn-shaped shells in different sizes and play them in harmony, in sequence, or both. The music of these seashell orchestras can achieve a deep, haunting grandeur.",
+        "name":  "Horn",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Swift. One creature is ﬂat-footed for 1 round.",
+        "name":  "Distract Assailant",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Subjects heal at twice the normal rate. Herald’s Call: Swift. Creatures of 5 HD or less within 20 ft. slowed for 1 round.",
+        "name":  "Healthful Rest",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Swift. One creature is ﬂat-footed for 1 round.",
+        "name":  "Distract Assailant",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Subjects heal at twice the normal rate. Herald’s Call: Swift. Creatures of 5 HD or less within 20 ft. slowed for 1 round.",
+        "name":  "Healthful Rest",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Swift. One creature is ﬂ  at- footed for 1 round.",
+        "name":  "Ench Distract Assailant",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Swift. One creature is ﬂ  at- footed for 1 round.",
+        "name":  "Ench Distract Assailant",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "TouchTarget: Creature touchedDuration: 1 hour/level (D)Saving Throw: Will negates (harmless)",
+        "name":  "Range",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "TouchTarget: Creature touchedDuration: 1 hour/level (D)Saving Throw: Will negates (harmless)",
+        "name":  "Range",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "V, S, MCasting Time: 1 swift actionRange: Close (25 ft. + 5 ft./2 levels) Target: One creature Duration: 1 round",
+        "name":  "Components",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "V, S, MCasting Time: 1 swift actionRange: Close (25 ft. + 5 ft./2 levels) Target: One creature Duration: 1 round",
+        "name":  "Components",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1 standard actionRange: Close (25 ft. + 5 ft./2 levels)Target: One living creatureDuration: Concentration, up to 1 round/level (D)",
+        "name":  "Casting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels)Targets: One creature/level, no two of which can be more than 30 feet apart",
+        "name":  "Range",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1 standard actionRange: Close (25 ft. + 5 ft./2 levels)Target: One living creatureDuration: Concentration, up to 1 round/level (D)",
+        "name":  "Casting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels)Targets: One creature/level, no two of which can be more than 30 feet apart",
+        "name":  "Range",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One creatureDuration: 1 minute/level",
+        "name":  "Target",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One creatureDuration: 1 minute/level",
+        "name":  "Target",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1 standard actionRange: Close (25 ft. + 5 ft./2 levels)Target: One creatureDuration: 1 round/levelSaving Throw: Will negates",
+        "name":  "Casting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "TouchTarget: Creature touchedDuration: 1 minute/level (D)Saving Throw: Will negates (harmless)",
+        "name":  "Range",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "1 standard actionRange: Close (25 ft. + 5 ft./2 levels)Target: One creatureDuration: 1 round/levelSaving Throw: Will negates",
+        "name":  "Casting Time",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "TouchTarget: Creature touchedDuration: 1 minute/level (D)Saving Throw: Will negates (harmless)",
+        "name":  "Range",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "TouchTargets: You and one creature touched",
+        "name":  "Range",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels) Targets: One creature/level, no two of which can be more than 30 ft. apart",
+        "name":  "Range",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "TouchTargets: You and one creature touched",
+        "name":  "Range",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Close (25 ft. + 5 ft./2 levels) Targets: One creature/level, no two of which can be more than 30 ft. apart",
+        "name":  "Range",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Bloodhounds are direct but cautious in their personal interactions. They make a habit of sizing up every creature they meet, because Bloodhounds symbolIllus. by D. KovacsIllus. by C. Lukacs162 CHAPTER 6 ORGANIZATIONS 163CHAPTER 6",
+        "name":  "Roleplaying Suggestions",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Bloodhounds are direct but cautious in their personal interactions. They make a habit of sizing up every creature they meet, because Bloodhounds symbolIllus. by D. KovacsIllus. by C. Lukacs164 CHAPTER 6 ORGANIZATIONS 165CHAPTER 6 ORGANIZATIONS  anyone might someday be a mark. This attitude can make them seem distant, and the solitary lives that most lead reinforce this impression.",
+        "name":  "Roleplaying Suggestions",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Wis 25, Knowledge (nature) 30 ranks, Survival 30 ranks, Track. Beneﬁt: You can track creatures across water, under - water, or through the air by the minute disturbances they make and traces of their passage. This beneﬁt adds the surfaces of water, underwater, and air to the list of surfaces found under the Track feat in the Player’s Handbook : Surface DC Water 60 Underwater 80 Air 120 Polyglot [Epic] You can speak, read, and write all languages.",
+        "name":  "Prerequisites",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A herd of goats keeps the groundcover cropped fairly close. The animals belong to a tribe ofcentaurs that helps to defend the college when neces-sary. Visitors to the college might spot a few centaursand goats roaming the grounds during daylight hours. DDCentaurs (5-8): hp 26 each; see Monster Manual, page 32.",
+        "name":  "Creatures",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "At almost any hour, a few students are busily studying the tapestries in this chamber. The talethey illustrate is the subject of many popular poems andsongs, and a bard who has studied them gains some newinsights into those works. Also, some of the Fochlucanmasters find that the tapestries serve as an excellenttextbook for teaching a variety of subjects, from humanfolklore to observation and memory. Consequently,their students spend a great of time in here trying totake in all the details. A door warden—typically a junior member of the college staff—is posted in this chamber at all hours togreet visitors and generally keep an eye on the situation. DDStudents (0-5): Male or female bard 1 to bard 6; see the sample NPC statistics in Chapter 4 of theDungeon Master’s Guide. DDWarden (1): Almost any character might be on duty here, but the warden usually is a Fochlucan lyrist.Use the statistics for Tyrea Neylis on pages 48-49 ofComplete Adventurer for a warden.",
+        "name":  "Creatures",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One Fochlucan has made the gazebo her permanent quarters. Elibroviel the pixie grew upnear the college and spent her youth bedeviling itsstudents and masters. Having absorbed much of theirknowledge over the years, she eventually decided tobecome an adventurer. These days, she functions as thecollege’s unofficial sergeant-at-arms and its chief liaisonto the sylvan creatures living near Loch Firrnen.",
+        "name":  "Creatures",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The Fochlucan masters have wide interests and many friends, so a guest house may hostalmost any kind of visitor. Lillends visit the collegeoften because they’re drawn to the tapestries in thefront hall and the delightful music that the bardsproduce. Thus, a few lillends generally occupy one ortwo of the guest houses at any given time. The majorityof the houses, however, are empty unless a major eventis occurring at the college. DDLillends (2-4): hp 45 each, see Monster Manual, page 168.",
+        "name":  "Creatures",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The kitchen is empty in the middle of the night. At all other times, three or four servants are at workhere, either preparing a meal or cleaning up after one. Cooks (3–4): Male or female human or half-elf commoner 2; hp 7.",
+        "name":  "Creatures",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One of the college librarians and a handful of students are here at all hours. (See theCreatures section of the Front Hall description fordetails.) Two librarians are present at the college at anygiven time, and the Fochlucans count nearly a dozenamong their members. All are familiar with the collec-tion and with books in general. The absent librariansspend much of their time acquiring or writing newbooks for the collection. Loch Firrnen (EL 5, 6, 7, or 8) The clear water of the loch teems with fish. The shore-line is rather marshy, and the loch remains fairly shal-low (about 4 feet deep) for about a hundred yards outfrom it. Clumps of cattails grow in profusion in theshallow portions. The lake is more than 8 miles wide,however, and the water is more than 300 feet deep atvarious spots around its midpoint.",
+        "name":  "Creatures",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The loch is home to a tribe of nixes, and like the local centaurs, these creatures have agreed tohelp defend the college. To that end, a band of nixieslurks under the water about 100 yards from the end ofthe dock at all times, keeping an eye on the college. DDNixies (6-11): hp 3 each; see Monster Manual, page 235.",
+        "name":  "Creatures",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "During the day, this room is empty because the residents are working elsewhere in the collegeor on the grounds. At night, they are here sleeping. Servants (0-6): Male or female human or half-elf commoner 1; hp 3. SECOND FLOOR This floor is generally off limits to visitors.Unauthorized folks who wander up here are first askednicely to leave, then forcibly ejected if necessary. Master’s Room (EL 12) Each of these three chambers contains two beds withcurtained canopies, a divan, a worktable and writingdesk, two wardrobes, two chests of drawers, a bookcase,and two trunks. The typical bookcase holds a fewvolumes borrowed from the library, plus several booksthat belong to the current residents. An everburning torch augments the light from the windows, and a color- ful rug similar to the one in the library covers the floor.",
+        "name":  "Creatures",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "These rooms are reserved for Fochlucans who are currently pursuing projects at thecollege—usually the two librarians and wardens, plusanyone who currently has students working in thebuilding. Typically, each room has one or two occu-pants, and each master has a key to her own room.",
+        "name":  "Creatures",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The room could house anywhere from no students to more than a dozen at any given time. Students (0-13): Male and female bard 1 to bard 6; use the sample NPC statistics in Chapter 4 of theDungeon Master’s Guide.",
+        "name":  "Creatures",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The current yew master in residence is a half-elf named Noelin, who is very much a typicalmember of the Yew Circle. He is known for his eclecticskills, wide interests, and detached manner.",
+        "name":  "Creatures",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Noelin is quick to investigate any disturbance within the building, and he doesn’t hesitateto attack visitors who become violent. ABOUT THE AUTHOR Skip Williams keeps busy with freelance projects forseveral different game companies, and he served as thesage of Dragon Magazine for eighteen years. Skip is a codesigner of the D\u0026D 3rd edition game and the chiefarchitect of the Monster Manual. When not devising swift and cruel deaths for player characters, Skipputters in his kitchen or garden (rabbits and deer arenot Skip’s friends) or works on repairing and improvingthe century-old farmhouse that he shares with his wife,Penny, and a growing menagerie of pets.",
+        "name":  "Development",
+        "source":  "complete_adventurer.txt",
+        "_id":  "b4164147d3e94376ba8aa708c58dae616fe53fe5df7c96697decebf1f35ac9ef"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Cause a single creature to regard you as a friend.",
+        "name":  "Charm",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Common. Fiendish Glare (Su):  Once per day, Vorta can attempt to unnerve opponents with a ferocious glare. Glaring is a standard action that affects any creature Vorta can see within 100 feet. The target becomes shaken for 10 minutes and must attempt a DC 15 Will save or be stunned. The duration of the stun effect depends on the target ’s hit points, as described in the ﬁ endish glare ability above. Creatures with immunity to fear effects are immune to Vorta ’s ﬁ endish glare. Poison (Sp):  Once per day, Vorta can use poison  as an 8th- level caster (+5 melee touch; Fortitude DC 16 negates). Invocations Known (3 least, 1 lesser): least —dark one’s own luck, devil’s sight, miasmic cloud (DC 13), sickening blast  (DC 14); lesser —brimstone blast (DC 15).",
+        "name":  "Language",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Trillia ’s familiar is a pseudonatural toad named Snek. The familiar uses the better of its own and Trillia ’s base save bonuses. The creature ’s abilities and characteristics are summarized below.",
+        "name":  "Familiar",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Cotter ’s familiar is a Tiny viper named Agrippa. The familiar uses the better of its own and Cotter ’s base save bonuses. The creature ’s abilities and characteristics are sum- marized below.",
+        "name":  "Familiar",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Fenlun ’s familiar is a rat named Goli. The familiar uses the better of its own and Fenlun ’s base save bonuses. The creature ’s abilities and characteristics are summarized below.",
+        "name":  "Familiar",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Iaryo ’s familiar is a weasel named Fuundark. The familiar uses the better of its own and Iaryo ’s base save bonuses. The creature ’s abilities and characteristics are sum- marized below.",
+        "name":  "Familiar",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Turial ’s familiar is a raven named Zakar. The familiar uses the better of its own and Turial ’s base save bonuses. The creature ’s abilities and characteristics are sum- marized below.",
+        "name":  "Familiar",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Erbera ’s familiar is a weasel named Deriko. The familiar uses the better of its own and Erbera ’s base save bonuses. The creature ’s abilities and characteristics are summarized below.",
+        "name":  "Familiar",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Targeted creatures ignore damage from speci ﬁ ed energy type.",
+        "name":  "Resist Energy, Mass",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Targeted creatures ignore damage from speci ﬁ ed energy type.",
+        "name":  "Resist Energy, Mass",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Calls powerful elemen- tal creature to ﬁ ght for you.",
+        "name":  "Summon Elemental Monolith",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Nightmare creatures strike target for 4 Wis damage, 4 Dex damage.",
+        "name":  "Illus  Phantasmal Assailants",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Ghostly hand and candle sheds light, affects incorporeal creatures.",
+        "name":  "Corpse Candle",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Penetrates disguises and identi ﬁ es shapechanging creatures.",
+        "name":  "Div Discern Shapechanger",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Ribbonlike shadows daze and entangle creatures in 10-ft.-radius burst.",
+        "name":  "Illus  Shadow Binding",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Targeted creatures ignore damage from speci ﬁ ed energy type.",
+        "name":  "Resist Energy, Mass",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creatures in 10-ft. radius gain ability to see 60 ft. in total darkness.",
+        "name":  "Trans  Darkvision, Mass",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Line of electricity between two creatures (1d6/level damage).",
+        "name":  "Conj  Arc of Lightning",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Fog slows creatures, obscures vision, hinders movement. Leomund ’s Hidden Lodge: Creates sturdy cottage camou ﬂ aged to blend into natural surroundings.",
+        "name":  "Freezing Fog",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creatures in area are stunned or knocked prone while believing they ’re falling.",
+        "name":  "Illus  Illusory Pit",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Assume form and abilities of ﬁ endish creature, demon, or devil.",
+        "name":  "Fiendform",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Predict and delay the arrival of creatures teleporting into range by 3 rounds. Necro  Blackﬁ  re: T arget is engulfed in black ﬂ ame, takes 1d4 Con damage and becomes nauseated; ﬂ ames and effects can spread to adjacent living creatures.",
+        "name":  "Abjur  Anticipate Teleportation, GreaterF",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Calls powerful elemental creature to ﬁ ght for you.",
+        "name":  "Summon Elemental MonolithM",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Destroy, alter, or replace memories in target creature.",
+        "name":  "Ench  Programmed AmnesiaM",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Touch deals 1d10 Con damage, repeats in 1 min. Ring of Blades*:  Blades surround you, damaging other creatures (1d6+1/level damage).",
+        "name":  "Poison",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Kills 1d4/level HD of creatures.",
+        "name":  "Circle of DeathM",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Makes one creature or object vanish.",
+        "name":  "Disintegrate",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Devastating yell deals 10d6 sonic damage, stuns creatures, damages objects.",
+        "name":  "Shout, Greater",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Kills one creature/round.",
+        "name":  "Implosion",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Rays hit subjects with variety of effects.Wail of the Banshee: Kills one creature/level.",
+        "name":  "Prismatic Sphere",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Dazzles one creature ( –1 on attack rolls).",
+        "name":  "Flare",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Humanoid creature of 4 HD or less loses next action.",
+        "name":  "Daze",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Detects poison in one creature or small object.",
+        "name":  "Detect Poison",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Fascinates 2d4 HD of creatures.",
+        "name":  "Hypnotism",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Calls extraplanar creature to ﬁ ght for you.",
+        "name":  "Summon Monster I",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Assume form of a similar creature. Apparition* : Subject ’s face takes on terrifying appearance, viewers may become shaken.",
+        "name":  "Alter Self",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Fascinates 2d4 + level HD of creatures.",
+        "name":  "Hypnotic Pattern",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Misleads divinations for one creature or object. Protection from Charm*:  Subject gains +1/three levels bonus (max +5) on saves against charm and compulsion.",
+        "name":  "Misdirection",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "As many as eight creatures hide in extradi- mensional space.",
+        "name":  "Rope Trick",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Reveals invisible creatures or objects.",
+        "name":  "See Invisibility",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Calls extraplanar creature to ﬁ ght for you. Wall of Gloom*:  Shadow barrier obscures vision and deters passage.",
+        "name":  "Summon Monster II",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Grows vegetation, improves crops. Thornskin*:  Your unarmed attacks deal +1d6 damage; natural and unarmed attacks against you take 1d4 damage. Commune with Lesser SpiritM*: Lesser spirit creature answers one question/two levels. Corpse Candle*: Ghostly hand and candle sheds light, affects incorporeal creatures. Discern Shapechanger* : Penetrates disguises and identi- ﬁ es shapechanging creatures.",
+        "name":  "Wood Plant Growth",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One creature/level moves faster, +1 on attack rolls, AC, and Re ﬂ ex saves.",
+        "name":  "Haste",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Calls extraplanar creature to ﬁ ght for you.",
+        "name":  "Summon Monster III",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Ice plane creates wall with 15 hp +1/level, or hemisphere can trap creatures inside. Water to PoisonM*: Transform water into ingested poison.",
+        "name":  "Wall of Ice",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Sway the actions of one or more plant creatures.",
+        "name":  "Command Plants",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Makes monster believe it is your ally.",
+        "name":  "Charm Monster",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Forces a creature to return to native plane.",
+        "name":  "Dismissal",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Subjects gain +2 on attack rolls, damage rolls, saves, and checks. Heart Ripper*:  Kills living creatures with less than 4 HD.",
+        "name":  "Good Hope",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Indicates direction to familiar creature.",
+        "name":  "Locate Creature",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Gives one willing subject a new form. Resist Energy, Mass*:  Targeted creatures ignore damage from speci ﬁ ed energy type.",
+        "name":  "Polymorph",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Deafens all within cone and deals 5d6 sonic damage. Snake Darts*:  Two snakes hit one or two targets, deal 3d6 damage and inject poison (1d6 Con damage, repeats in 1 min.) Spirit Binding, Lesser*:  Traps spirit creature of 8 HD or less until it performs a task.",
+        "name":  "Shout",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "As hold person,  but any creature.",
+        "name":  "Hold Monster",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Triggered rune wracks nearby creatures with pain.",
+        "name":  "Symbol of PainM",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Triggered rune puts nearby creatures into catatonic slumber.",
+        "name":  "Symbol of SleepM",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Moves object, attacks creature, or hurls object or creature.",
+        "name":  "Telekinesis",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Turns subject creature into statue.",
+        "name":  "Earth Flesh to Stone",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Restores petri ﬁ ed creature.",
+        "name":  "Stone to Flesh",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creatures can ’t approach you.",
+        "name":  "Repulsion",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Calls extraplanar creature to ﬁ ght for you.",
+        "name":  "Summon Monster VI",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Triggered rune panics nearby creatures.",
+        "name":  "Symbol of FearM",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Triggered rune charms nearby creatures. Trans ﬁ x*: Humanoids freeze in place until condition you specify is met.",
+        "name":  "Symbol of PersuasionM",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Metal within 40 ft. becomes wood. Body Outside Body* : Create one duplicate of yourself/ ﬁ ve levels. Commune with Greater SpiritMX*: Any spirit creature answers one question/level.",
+        "name":  "Wood Transmute Metal to Wood",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Blinds creature with 200 hp or less. Reanimation*:  Dead creature restored to functional half life with 1 hp.",
+        "name":  "Power Word Blind",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Triggered rune weakens nearby creatures.",
+        "name":  "Symbol of WeaknessM",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Control actions of one or more plant creatures.",
+        "name":  "Wood Control Plants",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Stuns creature with 150 hp or less. Spirit Binding, Greater*: As lesser spirit binding , but traps up to 24 HD of spirits.",
+        "name":  "Power Word Stun",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Calls extraplanar creature to ﬁ ght for you.",
+        "name":  "Summon Monster VIII",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Triggered rune slays nearby creatures.",
+        "name":  "Symbol of DeathM",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Triggered rune renders nearby creatures insane.",
+        "name":  "Symbol of InsanityM",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Object or location attracts certain creatures.",
+        "name":  "SympathyM",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "As dominate person,  but any creature.",
+        "name":  "Dominate Monster",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Releases creature from imprisonment.",
+        "name":  "Freedom",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Kills one creature with 100 hp or less.",
+        "name":  "Power Word Kill",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Transforms you into any creature, and change forms once/round. Summon Elemental MonolithM*: Calls powerful elemental creature to ﬁ ght for you.",
+        "name":  "ShapechangeF",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Calls extraplanar creature to ﬁ ght for you.",
+        "name":  "Summon Monster IX",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Circle teleports any creature inside to designated spot.",
+        "name":  "Teleportation CircleM",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One willing creature touched",
+        "name":  "Range",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "5-ft./level radius emanation from touched creature",
+        "name":  "Area",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creature touched",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A line between two creatures",
+        "name":  "Area",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One living creature; see text",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creature touched",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You and other touched will- ing creatures",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One creature",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The target throws off sharp slivers and fragments; creatures within the burst take 1d8 points of damage (Re ﬂ ex save for half damage). Fire:  The target shoots out glowing s p a r k s  t h a t  d e a l  1 d 8  p o i n t s  o f  ﬁ re damage to creatures within the burst (Reﬂ ex save for half damage).",
+        "name":  "Wood, Metal, or Earth",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creatures or objects touched",
+        "name":  "Targets",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creature touchedDuration:  24 hours",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One creature",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One corporeal creature; see text",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One creature/level, no two of which can be more than 30 ft. apart",
+        "name":  "Targets",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One or more creatures, no two of which can be more than 30 ft. apart; see text",
+        "name":  "Targets",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One creature",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Living creature touched",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creature touched",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creature touched",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One 5-ft. cube of ice or 10-ft. cube of snow/level, or one cold creature/level",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creature touched",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One living creature",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One creature",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One living creature",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creature touched",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Up to one creature/level",
+        "name":  "Targets",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Creature touched",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One creature or object",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One creature/level, no two of which can be more than 30 ft. apart",
+        "name":  "Targets",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One intelligent creature",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One or two creatures",
+        "name":  "Targets",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A pinch of dust from a disintegrated creature. SPIRIT BINDING Conjuration (Calling) [see text for lesser spirit binding ]",
+        "name":  "Material Component",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Wu jen 6Targets:  Up to 16 HD worth of spir- its, no two of which can be more than 30 ft. apart when they appear As lesser spirit binding , except you can a tt e m pt t o call an d tra p o n e o r m o r e spirit creatures of the same type whose Hit Dice total no more than 16. If you call multiple spirits, each gets its own saving throw, makes independent attempts to escape, and must be indi-vidually persuaded to aid you. SPIRIT BINDING, LESSER Conjuration (Calling) [see text]",
+        "name":  "Level",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Up to 24 HD worth of spir- its, no two of which can be more than 30 ft. apart when they appear As lesser spirit binding , except you can a tt e m pt t o call an d tra p o n e o r m o r e spirit creatures of the same type whose Hit Dice total no more than 24. If you call multiple spirits, each gets its own saving throw, makes independent attempts to escape, and must be indi-vidually persuaded to aid you.SPIRIT NEEDLE",
+        "name":  "Targets",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One spirit creature",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Up to 10 creatures/level",
+        "name":  "Targets",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "You or a creature or object weighing no more than 100 lb./level",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One creature",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "One creature",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Living creature touched",
+        "name":  "Target",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Cause a single creature to regard you as a friend.",
+        "name":  "Charm",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Gain total concealment in dark areas and impose a Strength penalty on adjacent living creatures.",
+        "name":  "Enervating Shadow",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "CR 5; Large construct; HD 13d10; hp 71; Init +0; Spd 0 ft.; AC 20, touch 9, ﬂ at- footed 20; Base Atk +9; Grp +23; Atk +22 melee touch (no damage, grab); Full Atk +22 melee touch (no damage, grab); Space/Reach 10 ft./5 ft.; SA improved grab; SQ construct traits; AL N; SV Fort +4, Ref +4, Will +4; Str 31, Dex 10, Con —, Int —, Wis 11, Cha 1. Improved Grab (Ex):  To use this ability, a rug of welcome must hit a creature of its size category or smaller with its grab attack. (The rug has a +4 racial bonus on its grab attacks, already ﬁ gured into the statistics above.) It can then attempt to start a grapple as a free action without provoking attacks of opportunity. If it wins the grapple check, it establishes a hold.",
+        "name":  "Animated Rug of Welcome",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The creature ’s type changes to construct. It loses all subtypes and does not gain the aug- mented subtype. Recalculate base attack bonus, saving throws, feats, and skills accordingly as described below. Hit Dice and Hit",
+        "name":  "Size and Type",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Drop any Hit Dice gained from class lev- els (to a minimum of 1 ) and change re- maining Hit Dice to d10s. As a construct, the creature loses any bonus hit points for high",
+        "name":  "Points",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "As base creature.",
+        "name":  "Speed",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "As a construct, an ef ﬁ gy creature ’s base attack bonus is equal to 3/4 its Hit Dice (as a cleric).",
+        "name":  "Base Attack Bonus",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "An ef ﬁ gy loses all the special qualities of the base creature, but it gains the special qualities given below. Damage Reduction (Su): An ef ﬁ gy gains damage reduction based on the base creature ’s Hit Dice: Hit Dice Damage Reduction 1–3   1/adamantine 4–6   3/adamantine 7–10   5/adamantine 11–15   7/adamantine 16–20 10/adamantine 21 or more 15/adamantine",
+        "name":  "Special Qualities",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Same as base creature +1.",
+        "name":  "Challenge Rating",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "A water monolith has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line. PSEUDONATURAL CREATURE Past the timeless eons that lie between the stars, pseudonatural creatures dwell beyond the planes as we know them, nestled in far realms of insan- ity. When summoned to the Material Plane, they often take on the form and abilities of familiar creatures, though they are more gruesome in appearance than their earthly counterparts. Alternatively, they might appear in a manner more consistent with their origins, manifesting as masses of writhing tentacles or other even more terrible-looking forms. SAMPLE PSEUDONATURAL CREATURE This ﬂ apping horror has a vaguely horse- like body with the forelegs and wings of a huge, foul bird. Grotesque pustules erupt from its ﬂ esh, ichor oozing from the vari- ous extrusions, and a long, serpentine tail thrashes behind the creature. This example uses a 3 HD hippogriff as the base creature.Pseudonatural Hippogriff",
+        "name":  "Skills",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Same as the base creature, but Intelligence is at least 3.",
+        "name":  "Abilities",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Almost every seeker of the song aims to take levels in the seeker of the song prestige class, though not all will attain that goal. Those most passionate about seeking the primal music generally focus on the bard ’s path Symbol of the Seekers of the SongIllus. by D. Kovacs 620_17925_Chpt7.indd   183 620_17925_Chpt7.indd   183 9/15/04   9:41:18 AM 9/15/04   9:41:18 AMCHAPTER 7 ARCANE CAMPAIGNS 184a s  t h e y  a d v a n c e  i n  p o w e r ,  b u t  j u s t  a s  m a n y  s e e k e r s  l e a v e themselves free to pursue other goals as they develop their ability to produce and manipulate the primal music. Though uncommon, many of the most powerful and accomplished seekers have levels in other bardlike prestige classes such as the stormsinger (from Frostburn ) and the war chanter (from Complete Warrior ). M o s t  m e m b e r s  o f  t h e  s e e k e r  o f  t h e  s o n g  p r e s t i g e  c l a s s  belong to the order, but many evil bards with levels in the prestige class eschew the order to pursue the primal music exclusively for their own ends. Lore of the Seekers: Seekers spread and believe in many different tales regarding the origin of the primal music. The one that has the most boisterous adherents (and sees the most rancorous debate) posits that some three thousand years past, an angelic being named Karoninwaithe brought the sounds of the primal music to Haeldriss Fey, an elf bard of great skill who devoted the rest of his days to spreading the primal music and seeking to more fully understand its power. Other sages (and even some seekers as well) claim that Karoninwaithe was actually a ﬁ end in disguise, and that the music that the seekers touch is actually a form of infernal power. Those who espouse this theory believe in the captivating nature of the music, and they point out how creatures once controlled by a powerful seeker are often driven to seek further exposure to the primal music.",
+        "name":  "Prestige Classes",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Two senior students are stationed between the two pairs of gates. They rotate every eighthours, but their schedules are staggered, with onechanging at midnight, the other at 4 AM, and so forth around the clock. Senior Students (2): hp 17; see The Order of the Fire Hawk.",
+        "name":  "Creatures",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Two to four students are asleep in each room at any given time. Students (2–4): hp 3 or hp 14; see The Order of the Fire Hawk.",
+        "name":  "Creatures",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "The kitchen is staffed by three cooks (female human expert 2, male human expert 1, andmale halfling expert 1). HIGH WARMASTER’S QUARTERS (EL 3) The high warmaster lives in this building with herfaithful butler Carlis. The second floor of this buildingcontains six guest bedchambers. The double doors that provide entry to this building are emblazoned with the order’s symbol (the fire hawk).",
+        "name":  "Creatures",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    },
+    {
+        "origin_file":  "monsters.json",
+        "description":  "Two regular students stand guard at the front doors. Students (2): hp 3; see The Order of the Fire Hawk.",
+        "name":  "Creatures",
+        "source":  "complete_arcane.txt",
+        "_id":  "66a32b42ec061defb920cdb04ba87247a3e82a2e886f5ac548f67e4004126c18"
+    }
+]

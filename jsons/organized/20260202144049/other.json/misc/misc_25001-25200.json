@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "other.json",
+        "description":  "6d6+12 (33 hp) 6d6+18 plus 5d4+15 (66 hp)",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1 +3",
+        "name":  "Initiative",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. (6 squares), swim 50 ft. 30 ft. (6 squares), swim 50 ft.",
+        "name":  "Speed",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +4 melee (1d6+1) or Dagger of venom +6 melee (1d4+1 and dagger +4 melee (1d4+1) poison) or bite +5 melee (1d6)",
+        "name":  "Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +4 melee (1d6+1) and Dagger of venom +6 melee (1d4+1 and dagger –1 melee (1d4+1) poison) and bite +0 melee (1d6) Space/Reach: 5 ft./5 ft. 5 ft./5 ft.",
+        "name":  "Full Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Damage reduction 5/cold iron, Damage reduction 5/cold iron, low-light low-light vision, resistance to cold 10 vision, resistance to cold 10 and fi re 10, and fi re 10, water breathing, water symbiosis water breathing, water symbiosis",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +4, Ref +6, Will +9 Fort +6, Ref +9, Will +14",
+        "name":  "Saves",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 12, Dex 13, Con 14, Str 10, Dex 16, Con 16, Int 13, Wis 14, Cha 19 Int 12, Wis 17, Cha 24",
+        "name":  "Abilities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bluff +14, Diplomacy +12, Bluff +17, Concentration +13, Disguise +12 (+14 acting), Escape Diplomacy +15, Disguise +14 (+16 acting), Artist +7, Hide +3, Intimidate +12, Escape Artist +10, Hide +6, Intimidate +16, Knowledge (nature) +5, Listen +9, Knowledge (nature) +5, Listen +10, Move Move Silently +7, Sense Motive +11, Silently +9, Sense Motive +13, Spot +9, Spot +8, Swim +18, Use Rope +1 Swim +17, Use Rope +3 (+5 with bindings) (+3 with bindings)",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperate forests Temperate forests",
+        "name":  "Environment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary Solitary",
+        "name":  "Organization",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "6 8",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always chaotic neutral Always chaotic neutral",
+        "name":  "Alignment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "By character class By character class",
+        "name":  "Advancement",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2d8+4 (13 hp) gnolls admire and respect them, fl inds have no great love for",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1 their lesser cousins.",
+        "name":  "Initiative",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. (6 squares) A fl ind appear much like a gnoll, though it is a little",
+        "name":  "Speed",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Flindbar +5 melee (2d4+3/19–20) ordinary gnoll.",
+        "name":  "Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Flindbar +5 melee (2d4+3/19–20) Flinds speak Gnoll and Common. Space/Reach: 5 ft./5 ft. COMBAT",
+        "name":  "Full Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "—",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Darkvision 60 ft. The merciless fl inds are clever tacticians, preferring to use",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +5, Ref +1, Will +0 surprise, terrain, and superior numbers to their advantage.",
+        "name":  "Saves",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 17, Dex 12, Con 15, Int 10, Wis 11, Cha 10 When commanding gnoll hunting parties, they have no",
+        "name":  "Abilities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Listen +5, Spot +5 qualms about sacrifi cing their cousins for personal gain.",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 disarm attempt against that opponent before confi rming",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard the critical hit (this disarm attempt doesn’t provoke attacks",
+        "name":  "Treasure",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually neutral evil of opportunity).",
+        "name":  "Alignment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "By character class Skills: A fl ind has a +2 racial bonus on Charisma-based",
+        "name":  "Advancement",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Draconic, Elven, Goblin, Orc. —Favored Class: Ranger. —Level adjustment +2. 62 Flind LLONG smaR .V yb .sullI 662200__1177992211__MMoonnsstteerrMMaannuuaall33cc..iinndddd 6622 77//1133//0044 55::0044::0033 PPMM GOATFOLK (IBIXIAN) the fi ght and adds ferocity to its attacks. When an ibixian is Medium Monstrous Humanoid within 30 feet of another goatfolk, it gains a +2 morale bonus",
+        "name":  "Languages",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "3d8+3 (16 hp) on attack rolls and damage rolls and a +4 morale bonus",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+0 on saving throws against fear effects.",
+        "name":  "Initiative",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. (6 squares) Skills: Goatfolk have a +4 racial bonus on",
+        "name":  "Speed",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— —Medium size.",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Darkvision 60 ft., —An ibixian’s base land speed pack fervor is 30 feet.",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +2, Ref +3, Will +2 —Darkvision out to 60 feet.",
+        "name":  "Saves",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 15, Dex 11, Con 13, Int 8, —Racial Hit Dice: An Wis 8, Cha 10 ibixian begins with three levels",
+        "name":  "Abilities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Intimidate +4, Listen +4, of monstrous humanoid, which Spot +4 provide 3d8 Hit Dice, a base",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperate plains saving throw bonuses of Fort +1, Ref",
+        "name":  "Environment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary, pair, brawl (3–5), +3 and Will +3. or pack (21–30 plus 25% noncom- —Racial Skills: An ibixian’s mon- batants plus 1 adept, cleric, or strous humanoid levels give it skill sorcerer of 3rd or 4th level and 1 points equal to 6 × (2 + Int modi- barbarian of 4th or 5th level) fi er, minimum 1). Its class skills",
+        "name":  "Organization",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 are Intimidate, Listen, Spot, and",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard Goatfolk Survival. It has a +4 racial bonus on",
+        "name":  "Treasure",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually neutral Intimidate checks.",
+        "name":  "Alignment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4–6 HD (Medium); 7–9 HD (Large) —Racial Feats: An ibixian’s monstrous humanoid levels",
+        "name":  "Advancement",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1d8 (4 hp) 1d12+2 (14 hp)",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+2 +2",
+        "name":  "Initiative",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Discordant frenzy Discordant frenzy, rage",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Darkvision 60 ft., light sensitivity, Darkvision 60 ft., fast movement, light tree shape sensitivity, tree shape",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +2, Ref +2, Will +0 Fort +4, Ref +2, Will +1",
+        "name":  "Saves",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 12, Dex 15, Con 11, Str 15, Dex 15, Con 14, Int 6, Wis 10, Cha 9 Int 8, Wis 12, Cha 8",
+        "name":  "Abilities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Climb +9, Craft (weaving) +0*, Climb +11, Hide +4*, Jump +5, Move Hide +6*, Jump +5, Move Silently +2* Silently +2*",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperate forests Temperate forests",
+        "name":  "Environment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary (outcast), family (3–6), Solitary or war party (1–3 plus 2–5 1st-level pack (6–16 plus one 3rd-level warriors) barbarian kith leader), or troop (14–34 plus three 3rd-level barbarian kith leaders and one 5th-level druid kith elder)",
+        "name":  "Organization",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1/2 1",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually chaotic evil Usually chaotic evil",
+        "name":  "Alignment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "By character class By character class",
+        "name":  "Advancement",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary or gang (2–4) ALCHEMICAL GOLEM",
+        "name":  "Organization",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "11",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None",
+        "name":  "Large Construct Treasure",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "22d10+30 (151 hp) Alignment: Always neutral",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1 Advancement: 23–33 HD (Large); 34–44 HD (Huge)",
+        "name":  "Initiative",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 ft. (4 squares) (can’t run) Level Adjustment: —",
+        "name":  "Speed",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam +21 melee (2d8+9 plus 2d6 acid)",
+        "name":  "Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 slams +21 melee (2d8+9 plus 2d6 acid) The body of an alchemical golem is composed of a single Space/Reach: 10 ft./10 ft. tough, transparent membrane in the shape of a humanoid,",
+        "name":  "Full Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "the or hurl lightning bolts at distant foes. gloom golem (from the Gray Waste of Hades) and the pris- Shacklelock Golem (Tarterian Depths of Carceri): This golem matic golem (from the Blessed Fields of Elysium). Other types resembles a shambling mass of chains, shackles, and manacles, of planar golems can be created from the matter of other planes. created to entwine and bind its foes.",
+        "name":  "Two types of planar golems are introduced in this book",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+2 chain. When using a spiked chain, a gloom golem gains 10",
+        "name":  "Initiative",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. (6 squares) feet on its reach and gets a +2 bonus on opposed attack rolls",
+        "name":  "Speed",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +2, Ref +4, Will +2 save DC is Charisma-based.",
+        "name":  "Saves",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 18, Dex 15, Con —, Int —, Touch of Woe (Ex): A crea- Wis 11, Cha 15 ture wounded by a gloom golem",
+        "name":  "Abilities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Move Silently –8 must succeed on a DC 16 Will save",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— or take 1d6 points of Charisma",
+        "name":  "Feats",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary and withdrawn until, at 0 Charisma,",
+        "name":  "Organization",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "7 it collapses into a nightmare-fi lled",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None coma. The save DC is Charisma-based.",
+        "name":  "Treasure",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral evil Skills: Due to its incessant howl-",
+        "name":  "Alignment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "9–12 HD (Large); ing, a gloom golem takes a –10 pen- 13–16 HD (Huge) alty on Move Silently checks.",
+        "name":  "Advancement",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "18d8+30 (111 hp) against the foe it grapples. The hangman golem and its foe",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+2 make opposed grapple checks (or the foe can oppose with an",
+        "name":  "Initiative",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. (6 squares) (can’t run) Escape Artist check). If the hangman golem exceeds its oppo-",
+        "name":  "Speed",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +6, Ref +8, Will +6 ropes that fi lls a 10-foot-by-10-foot area. While in this form,",
+        "name":  "Saves",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 26, Dex 14, Con —, Int —, Wis 11, Cha 1 a hangman golem cannot attack or move, but it gains fast",
+        "name":  "Abilities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— healing 10. A hangman golem can reform into its humanoid",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— appearance as a full-round action.",
+        "name":  "Feats",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any",
+        "name":  "Environment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary or gang (2–4) Construction",
+        "name":  "Organization",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "13 A hangman golem’s body is crafted from numerous magi-",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None cally treated ropes that cost 1,250 gp. Creating the body is a",
+        "name":  "Treasure",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral complex task that requires a DC 20 Craft (weaving) check.",
+        "name":  "Alignment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "19–27 HD (Large); 28–36 HD (Huge) Five or more ranks in the Use Rope skill grants a +2 bonus",
+        "name":  "Advancement",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "15d10+30 (112 hp) slippery for 1 hour before it dries out. The save DCs are",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "–1 Constitution-based.",
+        "name":  "Initiative",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 ft. (4 squares) (can’t run), swim 20 ft. Engulf (Ex): A mud golem can try to wrap a Medium or",
+        "name":  "Speed",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam +17 melee (2d10+10) hold and slams the engulfed victim with a +4 bonus on the",
+        "name":  "Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 slams +17 melee (2d10+10) attack roll. Space/Reach: 10 ft./10 ft. Attacks that hit an engulfi ng mud golem deal half their",
+        "name":  "Full Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +5, Ref +4, Will +5 or 128 Fine opponents at a time.",
+        "name":  "Saves",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hide –5*, Swim +15 chance it will begin to drown (see Drowning, page 304 of",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— the Dungeon Master’s Guide).",
+        "name":  "Feats",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral 2d6 rounds, with no saving throw.",
+        "name":  "Alignment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+11 Prismatic Touch (Su): A prismatic golem attacks with",
+        "name":  "Initiative",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fly 50 ft. (perfect) (10 squares) luminous tendrils that extend from its body. A tendril’s",
+        "name":  "Speed",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Incorporeal touch +14 melee (prismatic touch) the following table. The save DCs are Charisma-based.",
+        "name":  "Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 incorporeal touches +14 melee (prismatic touch) d8 Color Effect Space/Reach: 10 ft./5 ft. 1 Red 5d6 points of fire damage 2 Orange 5d6 points of acid damage",
+        "name":  "Full Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Prismatic body, prismatic touch 3 Yellow 5d6 points of electricity damage",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str —, Dex 33, Con —, Int —, Wis 11, Cha 11 7 Violet 5d6 points of sonic damage",
+        "name":  "Abilities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— 8 White 5d6 points of force damage",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "—",
+        "name":  "Feats",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral good A prismatic spray heals the golem of 3d8 points of damage",
+        "name":  "Alignment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "21–30 HD (Large); 31–40 HD (Huge) +1 point per caster level (maximum 3d8+15). Contact with a",
+        "name":  "Advancement",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "18d10+20 (119 hp) 27d10+30 (178 hp)",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+3 +2",
+        "name":  "Initiative",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. (6 squares), fl y 30 ft. (perfect) 30 ft. (6 squares), fl y 30 ft. (perfect)",
+        "name":  "Speed",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam +20 melee (2d6+7) Slam +31 melee (2d10+12)",
+        "name":  "Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 slams +20 melee (2d6+7) 2 slams +31 melee (2d10+12) Space/Reach: 5 ft./5 ft. 10 ft./10 ft.",
+        "name":  "Full Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Negative pulse wave Negative pulse wave",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +6, Ref +9, Will +6 Fort +9, Ref +11, Will +9",
+        "name":  "Saves",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 24, Dex 16, Con —, Str 34, Dex 14, Con —, Int —, Wis 11, Cha 7 Int —, Wis 11, Cha 7",
+        "name":  "Abilities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hide +15, Move Silently +19 Hide +10, Move Silently +18",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— —",
+        "name":  "Feats",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Plane of Shadow Plane of Shadow",
+        "name":  "Environment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary or team (1 plus Solitary or team (1 plus 2d6 greater shadows) 2d4 greater shadows)",
+        "name":  "Organization",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "11 14",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None None",
+        "name":  "Treasure",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral Always neutral",
+        "name":  "Alignment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "19–26 HD (Medium); 27–40 HD 28–40 HD (Large); 41–54 HD (Huge) (Large); 41–54 HD (Huge)",
+        "name":  "Advancement",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "11d10+30 (90 hp) Poison (Ex): Bite, Fortitude DC 15; initial and secondary",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+3 damage 1d6 Str. The save DC is Constitution-based.",
+        "name":  "Initiative",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Slam +12 melee (2d10+7) a web golem must succeed on a DC 20 Refl ex save, or the",
+        "name":  "Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hide –1* rounds, with no saving throw.",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— A web golem’s movement is not inhibited by a",
+        "name":  "Feats",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "7 allows it to blend in extremely",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None effectively when hiding among",
+        "name":  "Treasure",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral other giant spider webs, confer-",
+        "name":  "Alignment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "12–16 HD (Large); ring a +15 circumstance bonus on 17–22 HD (Huge) Hide checks.",
+        "name":  "Advancement",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1 information they need.",
+        "name":  "Initiative",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 ft. (4 squares) A grimweird is a foot or so shorter than the human it",
+        "name":  "Speed",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Claw +3 melee (1d4–3 plus energy it did in life, though it may have learned drain) quite a few more to communicate with",
+        "name":  "Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 claws +3 melee (1d4–3 plus its thralls. energy drain) COMBAT Space/Reach: 5 ft./5 ft.",
+        "name":  "Full Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Darkvision 60 always interposes at least one mon- ft., low-light vision, undead ster between it and anyone it traits, unholy grace meets. If a grimweird gets into",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +9, Ref +10, Will combat, it will do whatever it can +16 to get out.",
+        "name":  "Saves",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 4, Dex 13, Con Energy Drain (Su): A grim- —, Int 18, Wis 17, Cha 20 weird can bestow one negative level",
+        "name":  "Abilities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "11 its Charisma modifi er as a bonus on all its",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Double standard saving throws, and as a defl ection bonus to its",
+        "name":  "Treasure",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "By character class TACTICS",
+        "name":  "Advancement",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+0 traits native to golems in addition to the abilities of the lich",
+        "name":  "Initiative",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. (6 squares) that powers it. A grisgol’s damaging and paralyzing touch",
+        "name":  "Speed",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 slams +17 melee (1d6+4 plus 1d8+5 negative and specializations the lich (a 20th-level cleric, sorcerer, or energy plus paralysis) wizard) could have cast. Space/Reach: 10 ft./10 ft. Destroying a grisgol does not destroy the lich that powers",
+        "name":  "Full Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +6, Ref +6, Will +6 and the wizard, sorcerer, or cleric who originally entrapped",
+        "name":  "Saves",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 18, Dex 10, Con —, Int —, Wis 11, Cha 11 it in the body of a grisgol.",
+        "name":  "Abilities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— A grisgol stands 8 feet tall and weighs about 400 pounds.",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— It knows all the languages known by the lich whose",
+        "name":  "Feats",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any phylactery animates it.",
+        "name":  "Environment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary COMBAT",
+        "name":  "Organization",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "15",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral instructions explicitly without regard to strategy. Therefore,",
+        "name":  "Alignment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10d8+30 (75 hp) A gulgar stands a little over 6 feet tall and weighs 250 to",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "–2 350 pounds. Gulgars have dark gray skin, with males tend-",
+        "name":  "Initiative",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 ft. in breastplate (4 squares); base speed 30 ft. ing to be darker than females. As they age, females grow",
+        "name":  "Speed",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +6, Ref +5, Will +8 only when it can do so without catching the yrthak in",
+        "name":  "Saves",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 20, Dex 7, Con 17, Int 10, Wis 12, Cha 13 the blast.",
+        "name":  "Abilities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Handle Animal +7, Intimidate +6, Listen +10, Ride On the ground, a gulgar charges boldly into combat, +10, Spot –3 beginning combat with its Powerful Charge. In follow-",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Improved Bull Rush, Improved Overrun, Improved ing rounds it strikes with its warhammer and uses its Sunder, Power Attack, Powerful ChargeB horn to gore a foe. Gulgars enjoy employing bull rush",
+        "name":  "Feats",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperate mountains and overrun attacks to move about the battlefield and",
+        "name":  "Environment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "9 with both hands (for a total of +7 damage), and make a",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard sunder attempt.",
+        "name":  "Treasure",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually neutral Crystalline Bone (Ex): A gulgar’s slam and gore attacks",
+        "name":  "Alignment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "By character class are treated as adamantine for the purposes of overcoming",
+        "name":  "Advancement",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5d8+20 plus 5 (47 hp) 9d8+54 (94 hp)",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+4 +3",
+        "name":  "Initiative",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "40 ft. (8 squares), climb 20 ft. 40 ft. (8 squares), climb 20 ft.",
+        "name":  "Speed",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +5 melee (1d8+3 plus poison) Bite +11 melee (2d6+7 plus poison) or fang +6 ranged (1d4+1 plus harpooning) or fang +7 ranged (1d6+3 plus harpooning)",
+        "name":  "Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +5 melee (1d8+3 plus poison) Bite +11 melee (2d6+7 plus poison) or 2 fangs +6 ranged (1d4+1 plus harpooning) and 2 fangs +2 ranged (1d6+3 plus harpooning) Space/Reach: 10 ft./5 ft. 15 ft./10 ft.",
+        "name":  "Full Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Harpooning, poison Harpooning, poison",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Darkvision 120 ft., evasion, spines, Darkvision 120 ft., evasion, spines, web movement web movement",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +5, Ref +5, Will +5 Fort +9, Ref +8, Will +7",
+        "name":  "Saves",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 17, Dex 19, Con 18, Str 25, Dex 17, Con 23, Int 14, Wis 12, Cha 9 Int 14, Wis 12, Cha 9",
+        "name":  "Abilities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Balance +8, Climb +16, Hide +8, Balance +11, Climb +22, Hide +7, Jump +21, Spot +7, Tumble +13 Jump +26, Spot +10, Tumble +16",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Combat Refl exes, Improved Ability Focus (poison), Combat Refl exes, Toughness, Improved TripB Improved TripB, Lightning Refl exes",
+        "name":  "Feats",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Underground Underground",
+        "name":  "Environment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary, pair, or nest (2–5 plus 1–2 ettercaps Solitary, pair, or nest (3–12) and 2–4 Medium monstrous spiders)",
+        "name":  "Organization",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4 9",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard Standard",
+        "name":  "Treasure",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually chaotic evil Usually chaotic evil",
+        "name":  "Alignment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "6–8 HD (Large); 9–15 HD (Huge) 10–15 HD (Huge)",
+        "name":  "Advancement",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+3 twin kukris with deadly effi ciency. Most clans of harssafs",
+        "name":  "Initiative",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. (6 squares), burrow 10 ft. include monks that specialize in the arts of grappling, and",
+        "name":  "Speed",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Kukri +8/+3 melee (1d4+2/18–20 plus 1d6 fi re) Flaming Aura (Su): At will as a free action, a harssaf and kukri +8 melee (1d4+1/18–20 plus 1d6 fi re) can generate an intense fi ery heat. This aura takes the form Space/Reach: 5 ft./5 ft. of a miragelike shimmering around a harssaf’s body. Any",
+        "name":  "Full Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Climb +1, Hide +5, Jump +4, Knowledge (nature) +1, after a few rounds. Listen +4, Move Silently +5, Spot +4 Sand Pulse (Su): Once per day as a standard action, a",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Warm deserts a DC 15 Refl ex save or take 3d6 points of damage from the",
+        "name":  "Environment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5 locks) are unaffected by the blindness but can still take",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard damage from the sand pulse. Harssafs are immune to the",
+        "name":  "Treasure",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually lawful evil sand pulses of other harssafs.",
+        "name":  "Alignment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "By character class Sand Form (Su): At will as a standard action, a harssaf",
+        "name":  "Advancement",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "15d10+75 (157 hp) An ironclad mauler’s powerful limbs end in long, deadly",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1 claws, and its face is a twisted and feral version of a normal",
+        "name":  "Initiative",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "40 ft. (8 squares) bear’s face. A typical ironclad mauler is 12 feet long and",
+        "name":  "Speed",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Claw +26 melee (2d6+11)",
+        "name":  "Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 claws +26 melee (2d6+11) and bite +20 melee As their name implies, ironclad maulers were created spe- (4d6+5) cifi cally for war. As such, they relish combat, and rush into Space/Reach: 10 ft./5 ft. (claws up to 10 ft.) melee without hesitation or mercy. Ironclad maulers like",
+        "name":  "Full Attack",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 33, Dex 13, Con 21, Int 2, Wis 12, Cha 10 push them to fi ght to the death in every combat. Although",
+        "name":  "Abilities",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Listen +10, Spot +10 they have only animal intelligence, ironclad maulers",
+        "name":  "Skills",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any mauler must hit with a claw attack. It can then attempt to",
+        "name":  "Environment",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary or squad (2–5) start a grapple as a free action without",
+        "name":  "Organization",
+        "source":  "monster_manual_iii.txt",
+        "_id":  "9902b1227baaefbf443991df2191e73abe7f3264070f65e5aeccabe25305f555"
+    }
+]

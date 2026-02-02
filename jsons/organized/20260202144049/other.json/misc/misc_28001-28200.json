@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "origin_file":  "other.json",
+        "description":  "Same as the dragon variety.",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 18, Dex 17, Con 14, Int 12, Wis 18, Cha 12 in the table below. Otherwise, use the values below or the base",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperate plains Diminutive 1d2 1",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary Tiny 1d3 1d2",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "9 Small 1d4 1d3",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Double standard Medium 1d6 1d4",
+        "name":  "Treasure",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always evil (any) Large 1d8 1d6",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "By character class Huge 2d6 1d8",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1d8+1 (5 hp) — +2 racial bonus on Climb, Jump, and Move Silently checks.",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1 — +1 racial bonus on all saving throws.",
+        "name":  "Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 ft. (4 squares) — +2 morale bonus on saving throws against fear. This bonus",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Halfling traits The halfling warrior presented here had the following ability",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Halfling traits scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10,",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +4, Ref +2, Will +0 Wis 9, Cha 8.",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 11, Dex 13, Con 12, Int 10, Wis 9, Cha 8",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Climb +2, Hide +4, Jump –4, Listen +3, Move Silently +1 HALFLING SOCIETY",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Warm plains ting into communities of humans, dwarves, elves, or gnomes and (Deep halfling: Warm hills) making themselves valuable and welcome. Since human society (Tallfellow: Temperate forests) changes more frequently than the societies of the longer-lived",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Company (2–4), squad (11–20 plus 2 3rd-level races, it most frequently offers opportunities to exploit, and half- sergeants and 1 leader of 3rd–6th level), or band (30–100 plus lings are often found in or around human lands. 100 noncombatants plus 1 3rd-level sergeant per 20 adults, 5 Halflings often form tight-knit communities in human or dwar- 5th-level lieutenants, 3 7th-level captains, 6–10 dogs, and 2–5 ven cities. While they work readily with others, they often make riding dogs) friends only among themselves.",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1/2 Halflings also settle into secluded",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard places where they set up self-reliant",
+        "name":  "Treasure",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually neutral villages.",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "By character class Halfling communities are known to",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "7d8 (31 hp) 7d8 + 7d10 + 28 (103 hp)",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+2 +9",
+        "name":  "Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 ft. (4 squares), fly 80 ft. (average) 20 ft. (4 squares), fly 80 ft. (average)",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Captivating song Captivating song",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Darkvision 60 ft. Darkvision 60 ft.",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +2, Ref +7, Will +6 Fort +11, Ref +14, Will +11",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 10, Dex 15, Con 10, Str 12, Dex 20, Con 14, Int 7, Wis 12, Cha 17 Int 6, Wis 11, Cha 19",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bluff +11, Intimidate +7, Listen +7, Bluff +11, Intimidate +5, Listen +7, Perform (oratory) +10, Spot +5 Perform (oratory) +5, Spot +3",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperate marshes Temperate marshes",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary, pair, or flight (7–12) Solitary",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4 11",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually chaotic evil Usually chaotic evil",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "By character class By character class",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "3d10+9 (25 hp) Their range usually extends about 5d10 miles from their nest, in",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+2 which the young remain while the adults hunt. Hippogriffs never",
+        "name":  "Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "50 ft. (10 squares), fly 100 ft. (average) leave their young undefended, however: Discovering a hippogriff",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Claw +6 melee (1d4+4)",
+        "name":  "Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 claws +6 melee (1d4+4) and bite +1 melee (1d8+2) COMBAT Space/Reach: 10 ft./5 ft. Hippogriffs dive at their prey and strike with their clawed",
+        "name":  "Full Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— forelegs. When they cannot dive, they slash with claws and beak.",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +6, Ref +5, Will +2 diving repeatedly to drive away or kill intruders. Hippogriffs fight",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 18, Dex 15, Con 16, Int 2, Wis 13, Cha 8 to the death to defend their nests and their hatchlings, which are",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Listen +4, Spot +8 prized as aerial mounts and fetch a handsome price in many civi-",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Dodge, Wingover lized areas.",
+        "name":  "Feats",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperate hills Skills: Hippogriffs have a +4 racial bonus on Spot checks.",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary, pair, or flight (7–12)",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 TRAINING A HIPPOGRIFF",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None A hippogriff requires training before it can bear a rider in combat.",
+        "name":  "Treasure",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always neutral Training a hippogriff requires six weeks of work and a DC 25 Han-",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4–6 HD (Large); 7–9 HD (Huge) dle Animal check. Riding a hippogriff requires an exotic saddle. A",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4d8+4(22hp) 12d8+60(114hp)",
+        "name":  "HitDice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+5 +6",
+        "name":  "Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "40ft.(8squares) 40ft.(8squares)",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite+5melee(1d8+1plus1d6fire) Bite+20melee(2d6+12/19–20plus1d8fire)",
+        "name":  "Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite+5melee(1d8+1plus1d6fire) Bite+20melee(2d6+12/19–20plus1d8fire) Space/Reach: 5ft./5ft. 10ft./10ft.",
+        "name":  "FullAttack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Darkvision60ft.,immunitytofire, Darkvision60ft.,immunitytofire, scent,vulnerabilitytocold scent,vulnerabilitytocold",
+        "name":  "SpecialQualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort+5,Ref+5,Will+4 Fort+13,Ref+10,Will+9",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str13,Dex13,Con13, Str26,Dex14,Con20, Int6,Wis10,Cha6 Int4,Wis12,Cha6",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hide+13,Jump+12,Listen+7, Hide+17,Jump+19,Listen+18,MoveSilently+21, MoveSilently+13,Spot+7, Spot+18,Survival+8*,Tumble+3 Survival+7*",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "NineHellsofBaator NineHellsofBaator(Nessus)",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary,pair,orpack(5–12) Solitary,pair,orpack(1–2Nessianwarhounds and5–12hellhounds)",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "3 9",
+        "name":  "ChallengeRating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None +2chainshirtbarding",
+        "name":  "Treasure",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Alwayslawfulevil Alwayslawfulevil",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5–8HD(Medium);9–12HD(Large) 13–17HD(Large);18–24HD(Huge)",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+3(cohort) +4(cohort) 152 HOBGOBLIN Hobgoblin, 1st-Level Warrior Medium Humanoid (Goblinoid)",
+        "name":  "LevelAdjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1d8+2 (6 hp)",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1",
+        "name":  "Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. (6 squares)",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "—",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Darkvision 60 ft.",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +4, Ref +1, Will –1",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 13, Dex 13, Con 14, Int 10, Wis 9, Cha 8",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hide +3, Listen +2, Move Silently +3, Spot +2",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Alertness",
+        "name":  "Feats",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Warm hills",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Gang (4–9), band (10–100 plus 50 noncombatants plus 1 3rd-level sergeant per 20 adults and 1 leader of 4th–6th level), warband (10–24), or tribe (30–300 plus 50 noncombatants plus 1 3rd-level sergeant per 20 adults, 1 or 2 lieu- tenants of 4th or 5th level, 1 leader of 6th–8th level, 2–4 dire wolves, and 1–4 ogres or 1–2 trolls)",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1/2",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard Hobgoblins’ hair color ranges from",
+        "name":  "Treasure",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually lawful evil dark reddish-brown to dark gray. They have",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "By character class dark orange or red-orange skin. Large males have",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hobgoblins have a +4 racial bonus on Move Silently checks. The hobgoblin warrior presented here had the following abil-",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2d10 (11 hp) workroom, similar to an alchemist’s laboratory and costing 500 gp",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 ft. (4 squares), fly 50 ft. (good) body, the building and ritual can be performed together.",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +2 melee (1d4–1 plus poison) Craft Construct (see page 303), arcane eye, mirror image, mending,",
+        "name":  "Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Bite +2 melee caster must be at least 4th level; Price — (never sold); Cost 1,050 (1d4–1 plus poison) gp + 78 XP. Space/Reach: 2-1/2 ft./0 ft.",
+        "name":  "Full Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Poison HOWLER",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  " Construct traits, dark- Large Outsider (Chaotic, Evil, Extraplanar) vision 60 ft., low-light Hit Dice: 6d8+12 (39 hp) vision Initiative: +7",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 8, Dex ral), touch 12, flat-footed 14 15, Con —, Int 10, Base Attack/Grapple: +6/+15 Wis 12, Cha 7 Attack: Bite +10 melee (2d8+5)",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Hide +14, Listen Full Attack: Bite +10 melee (2d8+5) +4, Spot +4 and 1d4 quills +5 melee (1d6+2)",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Lightning Reflexes Space/Reach: 10 ft./5 ft.",
+        "name":  "Feats",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any Special Attacks: Quills, howl",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary Special Qualities: Darkvision 60 ft.",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1 Saves: Fort +7, Ref +8, Will +7",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None Abilities: Str 21, Dex 17, Con 15, Int 6, Wis",
+        "name":  "Treasure",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Any (same as 14, Cha 8 creator) Skills: Climb +14, Hide +8, Listen +13, Move",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "3–6 HD Silently +12, Search +7, Spot +13, Survival +2 (+4 (Tiny) following tracks)",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— Feats: Alertness, Combat Reflexes, Improved Initiative SULUCNUMOH Homunculus 154",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Windswept Depths of Pandemonium HYDRA",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary, gang (2–4), or pack (6–10)",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None long, slender necks.",
+        "name":  "Treasure",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always chaotic evil",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A light load for a howler is up to 460 pounds; a medium load, 461–920 pounds; and a heavy load, 921–1,380 pounds. A howler can drag 6,900 pounds. H YDR A Howler pqqrs",
+        "name":  "Carrying Capacity",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5d10+28 (55 hp) 6d10+33 (66 hp) 7d10+38 (77 hp)",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1 +1 +1",
+        "name":  "Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20 ft. (4 squares), swim 20 ft. 20 ft. (4 squares), swim 20 ft. 20 ft. (4 squares), swim 20 ft.",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5 bites +6 melee (1d10+3) 6 bites +8 melee (1d10+3) 7 bites +10 melee (1d10+4)",
+        "name":  "Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "5 bites +6 melee (1d10+3) 6 bites +8 melee (1d10+3) 7 bites +10 melee (1d10+4) Space/Reach: 15 ft./10 ft. 15 ft./10 ft.. 15 ft./10 ft.",
+        "name":  "Full Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— — —",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Darkvision 60 ft., fast healing 15, Darkvision 60 ft., fast healing 16, Darkvision 60 ft., fast healing 17, low-light vision, scent low-light vision, scent low-light vision, scent",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +9, Ref +5, Will +3 Fort +10, Ref +6, Will +4 Fort +10, Ref +6, Will +4",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 17, Dex 12, Con 20, Str 17, Dex 12, Con 20, Str 19, Dex 12, Con 20, Int 2, Wis 10, Cha 9 Int 2, Wis 10, Cha 9 Int 2, Wis 10, Cha 9",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Listen +6, Spot +6, Swim +11 Listen +6, Spot +7, Swim +11 Listen +7, Spot +7, Swim +12",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperate marshes Temperate marshes Temperate marshes (Pyro: Warm marshes) (Pyro: Warm marshes) (Pyro: Warm marshes) (Cryo: Cold marshes) (Cryo: Cold marshes) (Cryo: Cold marshes)",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary Solitary Solitary",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "4 (normal); 6 (pyro- or cryo-) 5 (normal); 7 (pyro- or cryo-) 6 (normal); 8 (pyro- or cryo-)",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— — —",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "8d10+43(87hp) 9d10+48(97hp) 10d10+53(108hp)",
+        "name":  "HitDice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1 +1 +1",
+        "name":  "Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20ft.(4squares),swim20ft. 20ft.(4squares),swim20ft. 20ft.(4squares),swim20ft.",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "8bites+11melee(1d10+4) 9bites+13melee(1d10+5) 10bites+14melee(1d10+5)",
+        "name":  "Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "8bites+11melee(1d10+4) 9bites+13melee(1d10+5) 10bites+14melee(1d10+5) Space/Reach: 15ft./10ft. 15ft./10ft. 15ft./10ft.",
+        "name":  "FullAttack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— — —",
+        "name":  "SpecialAttacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Darkvision60ft.,fasthealing18, Darkvision60ft.,fasthealing19, Darkvision60ft.,fasthealing20, low-lightvision,scent low-lightvision,scent low-lightvision,scent",
+        "name":  "SpecialQualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort+11,Ref+7,Will+4 Fort+11,Ref+7,Will+5 Fort+12,Ref+8,Will+3",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str19,Dex12,Con20, Str21,Dex12,Con20, Str21,Dex12,Con20, Int2,Wis10,Cha9 Int2,Wis10,Cha9 Int2,Wis10,Cha9",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Listen+7,Spot+8,Swim+12 Listen+8,Spot+8,Swim+13 Listen+8,Spot+9,Swim+13",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperatemarshes Temperatemarshes Temperatemarshes (Pyro:Warmmarshes) (Pyro:Warmmarshes) (Pyro:Warmmarshes) (Cryo:Coldmarshes) (Cryo:Coldmarshes) (Cryo:Coldmarshes)",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary Solitary Solitary",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "7(normal);9(pyro-orcryo-) 8(normal);10(pyro-orcryo-) 9(normal);11(pyro-orcryo-)",
+        "name":  "ChallengeRating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usuallyneutral Usuallyneutral Usuallyneutral",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— — —",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "11d10+58(118hp) 12d10+63(129hp)",
+        "name":  "HitDice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+1 +1",
+        "name":  "Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20ft.(4squares),swim20ft. 20ft.(4squares),swim20ft.",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "11bites+16melee(1d10+6) 12bites+17melee(2d8+6)",
+        "name":  "Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "11bites+16melee(1d10+6) 12bites+17melee(2d8+6) Space/Reach: 15ft./10ft. 15ft./10ft.",
+        "name":  "FullAttack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— —",
+        "name":  "SpecialAttacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Darkvision60ft.,fasthealing21, Darkvision60ft.,fasthealing22, low-lightvision,scent low-lightvision,scent",
+        "name":  "SpecialQualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort+12,Ref+8,Will+5 Fort+13,Ref+9,Will+6",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str23,Dex12,Con20,Int2,Wis10,Cha9 Str23,Dex12,Con20,Int2,Wis10,Cha9",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Listen+9,Spot+9,Swim+14 Listen+9,Spot+10,Swim+14",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperatemarshes Temperatemarshes (Pyro:Warmmarshes) (Pyro:Warmmarshes) (Cryo:Coldmarshes) (Cryo:Coldmarshes)",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary Solitary",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "10(normal);12(pyro-orcryo-) 11(normal);13(pyro-orcryo-)",
+        "name":  "ChallengeRating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usuallyneutral Usuallyneutral",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— —",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "13d10+20 (91 hp) doing so helps it complete its mission.",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +6, Ref +7, Will +7 Large Construct (Extraplanar, Lawful)",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 14, Dex 13, Con —, Int 10, Wis 17, Cha 16 Hit Dice: 15d10+30 (112 hp)",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Clockwork Nirvana of Mechanus Attack: Slam +22 melee (2d6+12 plus 3d6 sonic or 3d6 electric-",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Solitary ity)",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "12 Full Attack: 2 slams +22 melee (2d6+12 plus 3d6 sonic or 3d6",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None electricity)",
+        "name":  "Treasure",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always lawful neutral Space/Reach: 10 ft./10 ft.",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— abilities",
+        "name":  "Level Adjustment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "A marut has a +4 racial bonus on Concentration, Listen, Large Elemental (Air, Extraplanar) and Spot checks. Hit Dice: 8d8+16 (52 hp)",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+8",
+        "name":  "Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "8d10+30 (74 hp) flat-footed 13",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+0 Base Attack/Grapple: +6/+14",
+        "name":  "Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "35 ft. in plate barding (7 squares), fly 40 ft. (average) in Attack: Slam +10 melee (2d6+4) plate barding (8 squares); base speed 50 ft., fly 60 ft. (average) Full Attack: 2 slams +10 melee (2d6+4)",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Spiked chain +10 melee (2d6+5 plus 1d6 electricity) invisibility, improved tracking",
+        "name":  "Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 spiked chains +10 melee (2d6+5 plus 1d6 electric- Saves: Fort +4, Ref +10, Will +4 ity) Abilities: Str 18, Dex 19, Con 14, Int 14, Wis 15, Cha 11 Space/Reach: 10 ft./10 ft. Skills: Listen +13, Move Silently +15, Search +13, Spot +13,",
+        "name":  "Full Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +4, Ref +2, Will +5 Challenge Rating: 7",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 21, Dex 11, Con —, Int 10, Wis 17, Cha 15 Treasure: None",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Diplomacy +4, Listen +9, Search +9, Sense Motive +12, Alignment: Usually neutral Spot +9, Survival +3 (+5 following tracks) Advancement: 9–12 HD (Large); 13–24 HD (Huge)",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Great Fortitude, Ride-By Attack, Spirited Charge Level Adjustment: —",
+        "name":  "Feats",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Clockwork Nirvana of Mechanus",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "9 Air. They sometimes serve wizards and sorcerers, who summon",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "None them to perform specific tasks.",
+        "name":  "Treasure",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Always lawful neutral A summoned invisible stalker undertakes whatever task the",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "9–16 HD (Large); 17–24 HD (Huge) summoner commands, even if the task sends it hundreds or thou-",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Craft (trapmaking) +2, Hide +6, Listen +2, Move Silently +2, Profession (miner) +2, Search +2, Spot +2",
+        "name":  "Skills",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Alertness",
+        "name":  "Feats",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperate forests",
+        "name":  "Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Gang (4–9), band (10–100 plus 100 noncombat- ants plus 1 3rd-level sergeant per 20 adults and 1 leader of 4th–6th level), warband (10–24 plus 2–4 dire weasels), tribe (40–400 plus 1 3rd-level sergeant per 20 adults, 1 or 2 lieu- tenants of 4th or 5th level, 1 leader of 6th–8th level, and 5–8 dire weasels)",
+        "name":  "Organization",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1/4",
+        "name":  "Challenge Rating",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Standard",
+        "name":  "Treasure",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually lawful evil",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "By character class",
+        "name":  "Advancement",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "1d8 (4 hp) in bright sunlight or within the radius of a day-",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "30 ft. (6 squares) Skills: Kobolds have a +2 racial bonus on Craft",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Spear +1 melee (1d6–1/×3) ing ability scores before racial adjustments: Str 13, or sling +3 ranged (1d3) Dex 11, Con 12, Int 10, Wis 9, Cha 8.",
+        "name":  "Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Spear +1 melee Challenge Rating: Kobolds with levels in NPC (1d6–1/×3) or sling +3 ranged (1d3) classes have a CR equal to their character level –3. Space/Reach: 5 ft./5 ft.",
+        "name":  "Full Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "— KOBOLD SOCIETY",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Darkvision 60 ft., light sensitivity Kobolds live in dark places, usually underground locations and",
+        "name":  "Special Qualities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +2, Ref +1, Will –1 overgrown forests. They are good miners and often live in the",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Alertness, Blind-Fight, Expertise, Improved Critical that they have many enemies. (tentacle), Improved Initiative, Improved Trip, Iron Will",
+        "name":  "Their nasty habits and their distrust of most other beings mean Feats",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Temperate aquatic adults. Organization:Solitary",
+        "name":  "A kobold lair has one noncombatant child and one egg per ten Environment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Usually neutral evil",
+        "name":  "Alignment",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "20d10+180 (290 hp) Krakens strike their opponents with their barbed tentacles, then",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "+4 grab and crush with their arms or drag victims into their huge",
+        "name":  "Initiative",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Swim 20 ft. (4 squares) jaws. An opponent can make sunder attempts against a kraken’s",
+        "name":  "Speed",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Tentacle +28 melee (2d8+12/19–20) currently grappling a",
+        "name":  "Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2 tentacles +28 melee (2d8+12/19–20) and 6 arms target with one +23 melee (1d6+6) and bite +23 melee (4d6+6) tentacle or arm, Space/Reach: 20 ft./15 ft. (60 ft. with tentacle, 30 ft. with arm) it usually uses",
+        "name":  "Full Attack",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Improved grab, constrict 2d8+12 or 1d6+6",
+        "name":  "Special Attacks",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Fort +21, Ref +12, Will +13 a n o t h e r",
+        "name":  "Saves",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "Str 34, Dex 10, Con limb to make 29, Int 21, Wis 20, Cha 20 its attack of oppor-",
+        "name":  "Abilities",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    },
+    {
+        "origin_file":  "other.json",
+        "description":  "2d10 (11 hp) Hit Dice: 2d8+2 (11 hp)",
+        "name":  "Hit Dice",
+        "source":  "monster_manual_i_core_rulebook_iii_v35.txt",
+        "_id":  "141b0a19e7b2adeeebff9daabc1e9df0c5e7630b11a3aa711f9c9facae69e6bc"
+    }
+]

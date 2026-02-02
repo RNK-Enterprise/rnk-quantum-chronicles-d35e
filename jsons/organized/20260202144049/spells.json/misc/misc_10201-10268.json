@@ -1,0 +1,478 @@
+﻿[
+    {
+        "origin_file":  "spells.json",
+        "description":  "60 minutes between the Material Plane and Dis, the fi ery second layer of the Range: Touch Nine Hells. This rift brings about a massive confl agration that Target or Targets: Caster plus four to twelve other creatures destroys almost everything in the immediate area, then releases Duration: Instantaneous a powerful devil who capers over the smoldering ruins and be- Saving Throw: Will negates (harmless) (DC 16 + caster’s Cha gins to rampage across the countryside. The fi res of Dis ignite ev- modifi er) erything they touch—except for the caster, who is transported Spell Resistance: Yes (harmless) to Dis as the result of the incantation’s backlash. When the incantation is complete, the fi res of Dis fi ll an 80- Hrothgar’s journey is an incantation based on the tale of Hrothgar, foot-radius spread around the caster’s former location, dealing a powerful barbarian hero from ages past. When the poetic epic 18d6 points of fi re damage (Refl ex half) to all creatures and of Hrothgar is recited in the stifl ing heat of a sweat lodge during objects. Additionally, everything fl ammable in that radius is the winter solstice, the orator and his listeners receive the same now on fi re (as described in Catching on Fire, page 303 of the fi nal reward that Hrothgar did: a one-way trip to Ysgard’s plain Dungeon Master’s Guide). of Ida, where they can drink and make merry with the greatest In the following round, a pit fi end comes through the rift, which warriors of myth. then closes. The creature begins to destroy everything in sight. To cast the incantation, the caster must construct a small, win-",
+        "name":  "This incantation, dreamed up by insane cultists, opens a fell rift Casting Time",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "make sure that characters can’t simply cast incantations repeat- CREATING INCANTATIONS edly, stopping only to sleep. It’s important to realize that this system for creating incantations Incantations are most effective when they’re specifi c; they is meant as a starting point, not the last word. Anytime you apply should always be more narrowly focused than spells that ac- multiple modifi ers to a single DC, the potential for accidental complish similar tasks. The planar binding spell, for example, consequences or intentional abuse is there. can trap and compel service from any elemental or outsider with To keep incantations under control in your campaign, avoid 12 HD or less. A comparable incantation, Xecilgarasp among the creating incantations with skill check DCs lower than 20. Further- bones, would call one specifi c bebilith named Xecilgarasp for a more, you should emphasize how much faster, easier, and safer specifi c job: guarding a tomb. If ordered to do anything else, spells are than incantations. Every incantation you create should Xecilgarasp attacks the caster instead. And if Xecilgarasp ever have at least one component that’s diffi cult for the caster to deal dies while guarding a tomb, the incantation is thereafter useless. with, such as an XP cost, an expensive material component, or The Xecilgarasp among the bones incantation is just as powerful a signifi cant backlash component. Because incantations don’t as the planar binding spell in the specifi c instance it was designed require spell slots—or even spellcasting ability—you need to for, but it has limited or no utility beyond that. pqqqqqqqqqqqqqqqqqqqqrs 620_88156_UnearthedArcana2.indd 177 12/11/03, 2:55:45 PM 178 5 RETPAHC CIGAM",
+        "name":  "BEHIND THE CURTAIN",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "DC 32; Range: Close; Target: One or more crea- Per 2d6 points of damage –1 tures, no two of which can be more than 30 ft. apart; Duration: Caster is exhausted –2 Minutes; Saving Throw: Will negates; Spell Resistance: Yes. Per negative level caster gains –2",
+        "name":  "Abjuration",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Will negates (harmless); Spell Resistance: Yes (harmless). Backlash affects secondary casters too –1",
+        "name":  "Throw",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "DC 30; Range: Long; Target: Personal; Duration: Minutes; Saving Throw: None; Spell Resistance: No. of general factors and how they change the skill check DC. In-",
+        "name":  "Divination",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "DC 32; Range: Close; Target: One living crea- creasing the base range of an incantation, for example, is a factor ture; Duration: Minutes; Saving Throw: Will negates; Spell that increases the DC. Reducing the duration of an incantation,",
+        "name":  "Enchantment",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "DC 34; Range: Medium; Area: 5-ft.-wide bolt or 20- 3. Set Level: Finally, set the effective level of the incantation. ft.-radius burst; Duration: Instantaneous; Saving Throw: Refl ex Incantations are like 6th- through 9th-level spells, so you can set half; Spell Resistance: Yes. the effective level of the incantation by comparing what the incan-",
+        "name":  "Evocation",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "DC 32; Range: Touch; Target: One living creature or tation does to what spells of that level can accomplish. The effective 20 cu. ft. of matter; Duration: Minutes; Saving Throw: Will dis- level determines a number of aspects of the incantation: how many belief; Spell Resistance: No. total successes are required, the exact save DC of the incantation,",
+        "name":  "Illusion",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "No. Save DC: 10 + incantation’s effective level + caster’s Cha modifi er.",
+        "name":  "Spell Resistance",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This spell reduces a character’s taint score by 1 point per PRESTIGE CLASSES three caster levels, but it cannot reduce a taint score below 1.",
+        "name":  "Heal",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "These spells cannot remove taint except by du- The two prestige classes presented here use taint as a source of plicating the effects of other spells mentioned here. power. Depending on your campaign, certain taint scores (or",
+        "name":  "Miracle, wish",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "These spells reduce a character’s taint lack thereof) could be prerequisites for other published prestige score by 1 point, but they cannot reduce a taint score below 1. classes, such as the alienist or the blood magus (both from Tome",
+        "name":  "Remove curse, remove disease",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This spell reduces a character’s taint score by 1 and Blood). point per four caster levels, but it cannot reduce a taint score TAINTED SORCERER below 1.",
+        "name":  "Restoration",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ability to cast 1st-level spells. taken + spell level) to successfully cast the spell.",
+        "name":  "Spells",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The derro’s madness ability protects these creatures LOSS OF SANITY from any further Sanity loss. Sane derro (especially derro player Characters ordinarily lose Sanity in a few types of circum- characters) track Sanity points normally. stances: when encountering something unimaginable, when Monstrous Characters and Sanity: In most cases, the DM suffering a severe shock, after casting a spell or when learning does not need to keep track of a monster’s Sanity score, but pqqqqqqqqqqqqqqqqqqqqrs IT CAME FROM CTHULHU In the early 1900s, H.P. Lovecraft wrote a collection of stories human understanding that even the knowledge of their existence and novellas that explored the idea that our understanding of can shatter a healthy mind, and their actions are so far beyond the world and the laws of science represented but a fraction of our own defi nitions of morality that the acts of evil committed by the true secrets of the universe. What if, as Lovecraft proposed humanity cannot even compare in scope to their dark desires. It through his work, our vision of reality was but a veneer under is these dark gods and their multitude of servants that the char- which great, nearly unfathomable evil lurked? Inspired by these acters must face. Although these dark entities are too powerful dark yet fascinating ideas, the Call of Cthulhu roleplaying game to ever overcome, the brave and lucky can sometimes thwart the provided a way for roleplayers to explore the horrible and fas- plans of their minions and prevent them from gaining more of a cinating world of the Cthulhu Mythos, introducing the Sanity foothold on our reality. mechanic as a way to measure the effects of exposure to this Forbidden Lore: The Knowledge (forbidden lore) skill pre sented great evil on a character’s mind. in this variant represents knowledge of the dark beings that Love-",
+        "name":  "Derro",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "In addition to the spell’s normal effect, the caster Symbol of Insanity: Instead of experiencing this spell’s normal can sense whenever the subject suffers Sanity loss, temporary effect, characters who fail the saving throw to resist the symbol insanity, indefi nite insanity, or permanent insanity during the become permanently insane as described in this variant (but spell’s duration. suffer no Sanity loss).",
+        "name":  "Status",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Although this spell does not usually restore San- In the real world, psychiatric drugs play a key role in the modern ity, it can be used in those rare cases when a character’s own treatment of many mental disorders. Although psychiatric drugs actions inadvertently lead to an evil act that causes the charac- were administered to patients in the early part of the 20th centu- ter to lose Sanity points. If a quest or geas is combined with the ry, only in the 1940s and later were they broadly and consistently atonement spell, Sanity points are not restored until the task is effective in treating the symptoms of emotional trauma. completed. A successful use of the atonement spell can restore all In a fantasy game, the DM should decide whether rare herbs and Sanity lost through the direct result of the evil acts for which alchemical substances can provide the same benefi ts that modern the character atones. psychiatric drugs can deliver. It is quite believable, for example,",
+        "name":  "Atonement",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This spell cannot restore Sanity directly, but it that the Red Wizards of Thay in the FORGOTTEN REALMS Campaign can temporarily mitigate the effects of temporary or permanent Setting discovered alchemical means of isolating substances that af- insanity. While the spell is in effect, the targets act calmly and fect the mind in profound ways, offering many of the same benefi ts ignore behavior changes caused by Sanity loss. of modern medicine. Therefore, the DM need only decide how",
+        "name":  "Calm Emotions",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "While the spell is in effect, the subject is immune determine whether alchemical treatment is available. The Sanity to Sanity loss. variant assumes that skilled alchemists can create substances that",
+        "name":  "Mind Blank",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This spell can restore a character to maximum Sanity offer the same benefi ts that psychiatric drugs can provide. even if his current Sanity has dropped to –10. Miracle even heals As long as a character can afford the correct herbs and al- permanent insanity. chemical substances and is able to ingest them, the symptoms of indefi nite insanity can be ignored. Ingesting these alchemical pqqqqqqqqqqqqqqqqqqqqrs THE HEAL SKILL AND MENTAL TREATMENT Sanity point. A therapist can tend up to six patients at a time; each The Sanity rules presented here provide a new use for the patient beyond the fi rst adds 1 hour to the total time per day that Heal skill, allowing trained healers to help characters recover must be devoted to therapy. The check must be made each day lost Sanity points. The DC and effect of a Heal check made to for each patient. A roll of 1 on any of these Heal checks indicates restore lost Sanity depend on whether the therapist is trying to that the patient loses 1 point of Sanity that day, as she regresses offer immediate care or long-term care. mentally due to horrors suddenly remembered.",
+        "name":  "Miracle",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "SANITY As in the Call of Cthulhu Roleplaying Game, characters feel more Because it affects the way that characters interact with the crea- vulnerable, for no matter how powerful they become, the dark tures and objects that they encounter on their adventures in many gods are always greater. Religion is not only a source of comfort different and profound ways, this variant, perhaps more than any or succor, but also a dangerous enemy. (In those games that use other in Unearthed Arcana, can alter the entire feel of a campaign. the Cthulhu Mythos, religion seldom provides any succor at all.) If you adopt this variant in your campaign, the largest change will Characters are suspicious, even paranoid, for a seemingly inno- most likely be one of tone (this applies to an even greater extent if cent commoner could secretly serve a cult. And yet, with such you adopt the entire Cthulhu Mythos that the variant is based on). dark challenges come the opportunities for greater heroism. pqqqqqqqqqqqqqqqqqqqqrs 620_88156_UnearthedArcana2.indd 208 12/11/03, 3:15:16 PM 209 CAMPAIGNS CHAPTER 6 Taijin Kyofusho—“Face-to-face” phobia, an intense anxiety when Body Dysmorphic Disorder: Character suffers from perceived in the presence of other people; fearfulness that one’s appear- fl aws in appearance, usually of the face, or of the hips or legs. ance, odor, or behavior is offensive. Behavior may alter in unexpected ways to cover up the fl aws or Voodoo Death—Belief that a hex or curse can bring about mis- to calm anxieties. fortune, disability, and death through some spiritual mechanism. Often the victim self-fulfi lls the hexer’s prophecy by refusing to Substance Abuse Disorder eat and drink, resulting in dehydration and starvation. A character with a substance abuse disorder fi nds solace in using Wacinko—Anger, withdrawal, mutism, and immobility, lead- a drug, becomes addicted to it, and spends much time maintain- ing to illness and suicide. ing, concealing, and indulging the habit. Drugs include alcohol, Wendigo Syndrome—The affl icted believes she is a personifi ca- amphetamines, cocaine, hallucinogens, marijuana, nicotine, tion of the Wendigo, a cannibalistic creature with an icy heart. opium (especially morphine and heroin), sedatives, and more Shared Paranoid Disorder (Shared Delusional Disorder, fantastic substances present in the campaign world (see Sample Folie a Deux): The character takes on the delusional system of Drugs, earlier in this section). another paranoid individual from being in close contact with A character under the sway of such a substance should feel that person. the personal struggle daily. Will saving throws might be used to resist or succumb symbolically to cravings, especially just be- Sleep Disorders fore periods of stress (for example, just before a confrontation or These disorders include insomnia (character has diffi culty fall- likely battle with evil cultists). All attack rolls, saves, and checks ing asleep or staying asleep) and narcolepsy (character frequent- take a –2 morale penalty because of withdrawal symptoms. San- ly falls asleep, almost anywhere and at inappropriate times). ity losses could occur from binges or bad trips. Some characters Characters performing demanding tasks such as engaging in might fi nd that drugs promote communication with alien enti- combat or casting a spell may, when stressed, need to make DC ties and deities, and that dreams about them become ever more 15 Concentration checks to stay awake and not put themselves vivid and horrifying, Conversely, such substances might func- in a dangerous situation. tion as medications, deadening a character’s fears and offering",
+        "name":  "BEHIND THE CURTAIN",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Ritual of Essence Distillation. Fundamental- ing. (The duels are to unconsciousness, and clerics are on hand ly, becoming a dragon to heal the gravely wounded.) On the second day, applicants en- disciple is a ques- gage in a series of spellcasting duels—everything from fi ghts between summoned monsters to games of counter spelling one-upsmanship. Using a complex scoring system, the el- dritch knights se lect two applicants to join their order at sunset of the second day.",
+        "name":  "Dragon Disciple",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Pact with the Heavens (or Depths). First, the would-be hiero- phant calls an outsider allied with his faith (tradi- tionally by means of an extended lesser planar ally spell). The ally Illus. by J. Pavelec 620_88156_UnearthedArcana2.indd 211 12/11/03, 3:16:18 PM 212 6 RETPAHC SNGIAPMAC spells. The applicant has to learn where the Red Lodge is, then get there under her own power.",
+        "name":  "Hierophant",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Audition in Darkness. On a dimly lit stage in an abandoned theater, the applicant must dance well enough to impress the judges sitting unseen in the audience (a DC 15 Per- form [dance] check). Even if she passes the dance audition, she hears a cry of “Get her!” and dozens of guards rush the stage. tests the appli- She must escape the labyrinthine theater any way she can, em- cant’s knowledge of his religion ploying stealth and combat prowess. She isn’t allowed to attack (Knowledge [religion] DC 25) and asks for a demonstration of the guards directly, but she can make ripostes (attacks of oppor- the applicant’s spellcasting potency. If the ally is impressed, it tunity, in other words) if she gets the chance. If she gets out of intercedes on the applicant’s behalf, and the new hierophant the theater, she’s welcomed into the troupe of shadowdancers receives an indisputable sign of his deity’s favor. with a great revel.",
+        "name":  "Shadowdancer",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "XP BONUS POOL When I divvy out the XP in the bonus pool, I give the largest I use this rule to award bonus experience points to players based percentage of bonus XP to the character with the most marks on clever ideas, roleplaying their characters especially well, and, by his or her name and the least to the character with the least frankly, entertaining the group. It’s a pretty easy rule to write, but marks. If possible, I try to make sure everyone gets some bonus can be diffi cult to adjudicate. XP, even though it might not be a lot, and I always tell players Before running an adventure, I go through the text and high- why their characters got any bonus XP. “Good job with that light particularly diffi cult player-oriented elements. I make sure puzzle trap by the dungeon door,” or even, “Hey, great job I know when they’re coming, and if anyone particularly distin- roleplaying your character’s grouchiness when the high priest guishes themselves during the solving of these problems, I put a was healing everyone for free.” The whole group knows who is check mark by the character’s name on a sheet. When someone getting what percentage of the bonus XP, but I fi nd, at least with does something particularly inventive or interesting in any situa- my group, that everyone generally agrees with the awards. tion, they get a check mark, too. In the rare case where someone If you use this rule, it’s important to make sure not to show really obstructs play, I might erase a mark. favoritism. When I fi rst introduced it at my table, I actually made At the end of the session (I always award XP by session), I sure that I never gave the same character the highest bonus count up the total amount of XP to be awarded, and I total up the payout more than twice in a row. Basically, I elevated the bar for number of marks by each person’s name. I multiply the total XP the PCs in the third session and tried to encourage others to award by 75% and divide that out equally (assuming everything strive for the higher payout. It has worked very well, but I can see else about the session was equal). The other 25% of available how in some groups the competition might cause problems. XP goes into a bonus pool. —Ed Stark pqqqqqqqqqqqqqqqqqqqqrs 620_88156_UnearthedArcana2.indd 214 12/11/03, 3:17:52 PM 215 CAMPAIGNS CHAPTER 6 XP COSTS For example, the commune spell (a 5th-level cleric spell) nor- Spells with an XP component also undergo a change in this mally costs 100 XP to cast. When using this XP system, it costs variant, since the costs for those spells are set using the stan- 200 XP, or twice as much. The wish spell, a 9th-level spell, costs dard D\u0026D experience point rules. The table below gives a quick ten times the normal amount of XP to cast (50,000 instead conversion to help calculate the XP costs for spells when using of 5,000). this XP variant. Simply multiply the normal XP cost by the mul- Use a similar formula to recalculate anything else that ap- tiplier given in the table to fi nd the new XP cost for the spell. plies an XP cost. Divide the character’s level by 2 and treat it as if it were a spell level, using the table above to find the Spell XP Costs proper multiplier. Spell Level XP Multiplier 1st–3rd ×1 4th–6th ×2 7th–8th ×4 9th or higher ×10 Illus. by R. Sardinha pqqqqqqqqqqqqqqqqqqqqrs",
+        "name":  "HOUSE RULE",
+        "source":  "unearthed_arcana.txt",
+        "_id":  "aba88775a7d507eae94041882d24a4851942cbc9206b7a3ddcecf2ce2ebfd2c5"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You are granted an inspi- stored in your mind ration, which takes the form of a “floating” +10 as though prepared in bonus available for the next 1 minute (10 rounds). the normal fash- At any point during this time as an immediate ion. If the recalled action (see the sidebar on page spell requires ma- 15), you can apply this bonus terial components, you to a single attack roll, saving must provide them. If you do throw, skill or ability check, or not prepare spells to cast them, caster level check. you instead regain one spell slot. The maximum",
+        "name":  "Legacy Bonus",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Least Legacy, legacy ability with a (as the Empower Spell feat). daily use limit, ability to cast cure light wounds. Special: You can gain Empower Legacy multiple",
+        "name":  "Prerequisites",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Least Legacy, legacy ability with a NEW CLERIC SPELLS daily use limit.",
+        "name":  "Prerequisites",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You cannot transfer a legacy ability that does not have at least one daily use remaining. You choose the ability when you use this feat. 3rd-Level Druid Spell",
+        "name":  "Special",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Get extra use of chosen this ability two times per day. If you have the least legacy ability. Greater Legacy feat, you can use this ability three times per day. Each time you do so, you must choose 5th-Level Druid Spell a different ability. Revitalize Legacy, Lesser: Get extra use of chosen lesser legacy ability. SPELLS OF LEGACY 9th-Level Druid Spell",
+        "name":  "If you have the Lesser Legacy feat, you can use Revitalize Legacy, Least",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Get extra use of chosen 3rd-Level Bard Spell least legacy ability.",
+        "name":  "Revitalize Legacy, Least",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Get extra use of chosen least legacy ability. 17 LEGACY HEROES OF CHAPTER 2 NEW SHUGENJA SPELLS 9th-Level Wu Jen Spell",
+        "name":  "Revitalize Legacy, Least",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Get extra use 3rd-Level Shugenja Spell of chosen greater legacy ability.",
+        "name":  "All Revitalize Legacy, Greater",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Get extra use of SPELLS chosen least legacy ability. The spells herein are presented in alphabetical order 5th-Level Shugenja Spell (with the exception of those whose names begin with",
+        "name":  "All Revitalize Legacy, Least",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Get extra use of “greater,” “least,” or “lesser”; see Order of Presentation, chosen lesser legacy ability. page 181 of the Player’s Handbook). 9th-Level Shugenja Spell Revitalize Legacy, Greater",
+        "name":  "All Revitalize Legacy, Lesser",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Get extra use Transmutation of chosen greater legacy ability. Level: Cleric 9, druid 9, shugenja 9, sorcerer/wizard 9, wu jen 9 NEW SORCERER/WIZARD SPELLS This spell functions like least revitalize legacy, except that you regain one daily use of a chosen greater 3rd-Level Sorcerer/Wizard Spell legacy ability.",
+        "name":  "All Revitalize Legacy, Greater",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Get extra use of chosen least legacy ability. Revitalize Legacy, Least Transmutation 5th-Level Sorcerer/Wizard Spells Level: Bard 3, cleric 3, druid 3, paladin 3, ranger 3,",
+        "name":  "Trans Revitalize Legacy, Least",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Bard 5, cleric 5, druid 5, shugenja 5, sorcerer/ 8th-Level Wu Jen Spell wizard 5, wu jen 5",
+        "name":  "Level",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Target permanently loses all legacy abilities. This spell functions like least revitalize legacy, except that you regain one daily use of a chosen lesser ability. 18 2 RETPAHC FO SEOREH YCAGEL Sever Legacy This effect cannot be dispelled, but it can be negated Necromancy by break enchantment, remove curse, or any other effect",
+        "name":  "All Sever Legacy",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "One creature Just as spellcasters are able to manipulate the essence",
+        "name":  "Target",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Yes Manifesting Time: 1 standard action",
+        "name":  "Spell Resistance",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "For every 2 additional power points you Members of classes more inclined to study ancient spend, this power’s range increases by 5 feet and its texts, such as wizards, have a slight predilection for save DC increases by 1. becoming legacy champions; however, reduced spell- casting ability keeps wizards from predominating. Suppress Legacy, Psionic Telepathy Legacy Champion Entry Requirements",
+        "name":  "Augment",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "9 class features deal with getting needed information more quickly and exploiting it effectively. Your exist- As the suppress legacy spell (see above), except as ing class abilities continue to advance at nearly their noted here. full rate, interrupted only by opportunities to unlock",
+        "name":  "Power Points",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Successful completion of a legacy applied. ritual grants you the legacy feat listed here as a Caster Level Penalty: This is a permanent reduction bonus feat, assuming you meet its prerequisites. If in your caster level for all spells. It has no bearing on you don’t have all the prerequisites, you still gain the the spells you can cast, only on the level-dependent feat but cannot benefi t from it until the prerequisites variables of those spells. Multiple values in the same are met. column are not cumulative, instead representing the",
+        "name":  "Feat Granted",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "The creature’s size category and followed by any other resistances the creature has. its type (and subtype or subtypes, if applicable) are Altered saving throw bonuses for specific circum- given here. stances appear on this line. The creature’s spell",
+        "name":  "Size and Type",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This entry details any weaknesses or Grp: This entry gives the creature’s grapple bonus vulnerabilities the creature has, such as light sensitiv- (base attack + size modifier + Str bonus). ity or vulnerability to a type of energy. Atk Options: Special abilities that the creature can employ to modify its normal attacks appear here. Such Offensive Information abilities might include feats such as Power Attack or Refer to this section when it’s the creature’s turn to Combat Expertise, or special abilities such as smite act in combat. All its combat options—from melee evil or trip. attacks to spells to potions it might drink—are Special Actions: This entry gives any special detailed in this section, even if they are not strictly attacks that the creature can use on its turn in place offensive in nature. of making attacks.",
+        "name":  "Weakness",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "This entry defines how large a square the A cleric’s statistics block also includes the name creature takes up on the battle grid. This informa- of his deity (if applicable) and the domains to which tion is omitted for any creature that occupies a he has access. Each domain spell he has prepared is 5-foot square. marked with a superscript D. The granted powers",
+        "name":  "Space",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Arcane archers, elves, fighters, hunters, Clerics of Shevarash pray for their spells at dusk, rangers, soldiers, sorcerers just before the drow sneak back into the lands of light.",
+        "name":  "Worshipers",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Least Legacy (Bullybasher’s Gauntlets). of idiocy spell. You must decide whether or not to use",
+        "name":  "Feat Granted",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You are required Saint’s Grace (Su): At 5th level, you gain a +2 to make a pilgrimage to the site of the battle with the resistance bonus on all saving throws. cult of Nerull that claimed the life of Saint Ardtan’s Endure Evil (Su): Beginning at 6th level, you enjoy mentor, Tram de Carnag. The site is still marked the constant effects of a protection from evil spell. Caster with a small shrine. Braving the natural perils of the level 5th. scablands is challenging enough, but you must also Pelor’s Gaze (Sp): At 7th level and higher, once per sacrifice something of great personal significance, day on command, you can cause Durindana to shed mirroring Saint Ardtan’s loss. Cost: 12,500 gp. Feat daylight as the spell. Caster level 5th.",
+        "name":  "Second Station of Saint Ardtan",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You must divert the attention penalty. The struck target is outlined as if by a faerie of a hostile creature away from your allies and survive fi re spell. Caster level 5th. the resulting events. The diverted creature must have Shore Up Morale (Sp): Beginning at 5th level, once a CR equal to or greater than your level (maximum per day on command, you can use bless as the spell. CR 16). Cost: 12,500 gp. Feat Granted: Lesser Legacy Caster level 5th. (Flamecaster’s Bolt). Fiery Vengeance (Sp): At 7th level and higher, once",
+        "name":  "Captive Audience",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You have to knowingly and per day on command, you can cause Flamecaster’s Bolt willingly enter a very diffi cult encounter (see Table to launch a fi reball as the spell. Caster level 7th. 3–2: Encounter Diffi culty in the Dungeon Master’s Shooting Wild (Su): At 10th level, the spirit within Guide) with no apparent opportunity for escape. You Flamecaster’s Bolt lends you what little precision Duegal must survive the encounter. Cost: 40,500 gp. Feat enjoyed in life, granting you a +2 enhancement bonus",
+        "name":  "Sacrifi cial Offering",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You must keep the legacy Freezing Spread (Sp): At 5th level and higher, abilities of Frostburn’s Wrath a secret from all until once per week on command, you can use fireball as you complete the Envy Most Foul ritual. Failure to the spell, substituting cold damage for fire damage. conceal these properties causes all the staff’s abilities Objects do not ignite in the area. The save DC is 14, to disappear until the cost of this ritual is paid again. or 13 + your Charisma modifier, whichever is higher. This secrecy does not have to be observed if someone Caster level 5th. other than you has already revealed the abilities of Storm Vision (Su): Starting at 6th level, you can see Frostburn’s Wrath. Cost: 3,200 gp. Feat Granted: Least clearly in rain, snow, and sleet, taking no penalties on Legacy (Frostburn’s Wrath). Spot and Search checks. In conditions of heavy snow,",
+        "name":  "Coveted Secrets",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "In order to fight the influ- use Full Moon’s Trick to strike a creature that is not in ence of the beast within, you must first understand its natural form, that creature must make a DC 15 Will it. You must spend one full night (from dusk until save or return to its natural form. This ability works on dawn) roaming in the shape of an animal, whether any creature not in its inherent shape, whether it is a through a druid’s wild shape ability, a polymorph druid using wild shape, a lycanthrope in animal form, spell or effect, lycanthropy, or some other means. or some other shapechanger disguised as another being.",
+        "name":  "Skin of the Beast",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You are required to slay an more powerful abilities and rarely complete the Rite arcane spellcaster with a caster level of at least 3rd. of Hidden Light ritual. The spellcaster’s exact nature is up to you, but the slaying must be spontaneous and unplanned—it Hammer of Witches Wielder Requirements cannot be premeditated. This procedure is an act of Ability to cast 2nd-level divine spells faith, however twisted and debased, not an exercise Knowledge (religion) 2 ranks Cannot have levels in an arcane spellcasting class in assassination. Afterward, you must spend a full 24 hours in praise and worship of Pelor. Cost: 3,500 gp.",
+        "name":  "Rite of the Zealot",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You are required to remove a as an immediate action, you can ward yourself against relative, friend, or comrade from a position of power mental control or possession, as per the secondary effect by attacking that person with Mindsplinter. Although of the protection from good spell. Caster level 5th. killing is not required, it is the usual outcome. Cost: Kiss of Death (Sp): At 9th level and higher, two times 13,000 gp. Feat Granted: Lesser Legacy (Mindsplinter). per day on command, you can use death knell as the spell.",
+        "name":  "Unseat the Highest",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Masterwork trail, running all the way back to the capital of quarterstaff; Cost 2,000 gp. When holding the Althec to tell the king. The brave messenger then Rod of Trimeg you are constantly protected by dashed all the way to Karkos to reveal the truth an endure elements spell (CL 2nd). The wielder to its queen. In that single night, the war ended. of the Rod of Trimeg also gains a +2 circum- (DC 18; Long Run) stance bonus on Balance checks on rough or A less-known story of Trimeg is the tale of how uneven ground. he outwitted Nariel, a succubus trickster. Nariel",
+        "name":  "Nonlegacy Game Statistics",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "For one week, you must be a spell, except that it affects only a single creature and force of destruction and entropy, thoroughly throwing reveals that creature’s aura strength on the same yourself into the negative. The goal is to understand the round you activate this feature. Further, this ability destructive aspects of nature and existence, not debased reveals whether the creature is a mortal living creature wallowing in wanton slaughter and ruin. Cost: 12,500 (anything besides a construct, elemental, outsider, or gp. Feat Granted: Lesser Legacy (Scales of Balance). undead), an immortal living creature (elemental or",
+        "name":  "Road of Annihilation",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You must slay a creature day on command, you can use false life as the spell. with a Challenge Rating of 6 or higher (maximum Caster level 5th. CR 10), but you need not fight this opponent alone. Beginning at 18th level, you can use this ability Once this battle is complete, you have to clean the two times per day, and the caster level increases creature’s skull and bind it to Skull Lash. Cost: 1,700 to 10th. gp. Feat Granted: Least Legacy (Skull Lash). Bestow Curse (Sp): At 14th level and higher, once",
+        "name":  "Rite of the First Skull",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You must again claim per day on command, you can use bestow curse as the the skull of an enemy you had a hand in besting—this spell. The save DC is 14, or 13 + your Charisma modi- time one of Challenge Rating 12 or higher (maximum fier, whichever is higher. Caster level 10th. CR 16)—and affix the bone to Skull Lash. Cost: 12,500 Revitalizing Strike (Su): Starting at 16th level, gp. Feat Granted: Lesser Legacy (Skull Lash). once per day when you hit a living creature with Skull",
+        "name":  "Rite of the Second Skull",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "A humanoid skull grants you insight into the minds of others. At 7th level, you gain a +5 bonus on Sense Motive checks. At 13th level and higher, at will as a spell-like ability, you can use detect thoughts as the spell. The save DC is 13, or 12 + your Charisma modifi er, whichever is 2nd-Level Barbarians (5): hp 20, 19, 18, 17, 16 (see higher. Caster level 5th. page 113 of the Dungeon Master’s Guide). At 19th level, you gain a +6 enhancement bonus to Wisdom. Canyon Ambush",
+        "name":  "Humanoid Skull",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "You are required to acquire a voluntarily take 1d6 points of damage from Thanifex slave and to direct that person to a gainful activity. to gain the same benefit. 168 3 RETPAHC FO SMETI YCAGEL Corpse Minions (Sp): At 7th level and higher, you can use animate dead, as the spell, on creatures you slay with Thanifex. You can animate up to 10 Hit Dice of undead per day. Caster level 10th. False Life (Sp): Starting at 10th level, once per day with the command word “Thanifex,” you can use false life as the spell. Caster level 5th. Taint of Death (Sp): At 11th level and higher, you can use desecrate as the spell once per day. The area is centered on Thanifex, and the greatspear acts as an altar dedicated to your evil deity for the purposes of the spell. Caster level 10th. Speak with Dead (Sp): Beginning at 13th level, once per day by touching Thanifex to a corpse’s skull, you can use speak with dead, as the spell, on the touched body. The save DC is 14, or 13 + your Charisma modi- fi er, whichever is higher. Caster level 10th. Raise Ghouls (Sp): At 16th level and higher, once per day on command, you can use create undead as the spell on the corpse of a creature slain with Thanifex. You can create only ghouls or ghasts. Any creature subjected to this effect cannot be returned to life by anything short of a miracle or wish spell. Caster level 13th. Antilife Shell (Sp): Starting at 18th level, once per day on command, you can use antilifeshell as the spell. Caster level 15th. Sacrificial Altar Afterlife Denied (Su): At 19th level and higher, The sealed temple is a beautifully crafted, architectur- once per week as a free action, you can use soul bind ally solid stone chamber. In the center is a prominent as the spell on a creature slain by Thanifex that same altar, raised up on stepped platforms. The corners of round. Thanifex is the spell’s focus and serves to trap this room are each supported with archways that are the soul. The save DC is 23, or 19 + your Charisma built into a high hemispherical ceiling. modifi er, whichever is higher. If the target successfully saves against the effect, you must then succeed on the Skeleton Statues same saving throw or be subject to the same effect. Statues of skeletons line the walls, each one more Your death frees all souls trapped within Thanifex. grotesque than the last. Caster level 17th. Mohrg ADVENTURE SEED (EL 8) The undead horror that was once Javen Blunt now Once Javen had used Thanifex to exact his terrible ven- lurks within the sealed temple. It stands unmoving geance upon the entire city, his sole reason for living against a wall, looking like one of the statues that line was gone. He sealed himself in his underground the chamber. A Spot check opposed by the mohrg’s temple and fell upon Thanifex atop his blasphemous Hide check reveals its true nature. The creature attacks altar. In truth, the vengeful ex-slave felt he deserved no with surprise at the most opportune moment. afterlife, even as a powerful minion of immeasurable evil, and so denied his soul any privileged existence Statues that might have awaited him. Javen’s body and spirit The ends of this altar are adorned with statues in the were bound together, spawning an awful creature with likenesses of imps. These statues are a little larger than an insatiable lust for death. Thanifex still lies upon life size, about the size of Small creatures. the shrine’s black altar.",
+        "name":  "Ascend By Trade",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "least 2,300 gp; lesser 12,700 gp; greater Ritual Costs: least 1,500 gp; lesser 11,500 gp; greater 40,500 gp. 39,000 gp. Table 4–6 Table 4–8 Skill Caster Spell Skill Caster Skill Spell Character Check Save Level Slot Character Check Level Point Slot Level Penalty Penalty Penalty Loss Level Penalty Penalty Loss Loss 5th — — — — 5th — — — — 6th — — — 1st 6th — –1 2 — 7th — –1 –1 — 7th — — — 1st 8th –1 — — 2nd 8th — — 2 — 9th — — — — 9th — — 2 — 10th — — — 3rd 10th –1 — — 2nd 11th — — — — 11th — — — — 12th — — — 4th 12th — — 2 — 13th — — –2 — 13th — –2 — 3rd 14th — — — 5th 14th — — 2 — 15th –2 — — — 15th –2 — — — 16th — — — 6th 16th — — — 4th 17th — — — — 17th — — — — 18th — — — 7th 18th — –3 2 — 19th — — — — 19th — — — 5th 20th — — — 8th 20th –3 — 2 —",
+        "name":  "Ritual Costs",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Double standard spell. Caster level 5th.",
+        "name":  "Treasure",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "— forecasting their sudden and painful demise. Shu- luth can suppress or emit this telepathic aura as a Shuluth has the distinction of having survived a free action. harrowing encounter with the Band of Lavender, a See Invisibility (Sp): Once per day by uttering a group of githyanki and elan adventurers who had vile command word, Shuluth can use see invisibility made a name for themselves exterminating mind as the spell. Caster level 5th. flayers. Not only did Shuluth survive (barely), it also Telepathy (Su): Shuluth can communicate tele- managed to exterminate every member of the group pathically with any other creature within 100 feet by means of a fiendish trap. that has a language. Because the Band of Lavender had such a long and illustrious history, and because Shuluth devised such a cunning and lethal trap, the illithid became a monster of legacy. Now, Shuluth thrills to the continued beat of its own heart, realizing that its victory was a spectacular event that might eventually become a legend. Combat Shuluth enhances the normal combat tactics of an illithid with its improved defensive abilities. Extract (Ex): If Shuluth begins its turn with all four tentacles attached and makes a successful grapple check, it automatically extracts the opponent’s brain, instantly killing that creature. Improved Grab (Ex): To use this ability, Shuluth must hit a Small, Medium, or Large creature with its tentacle attack. It can then attempt to start a grapple as a free action without provoking an attack of oppor- tunity. If it wins the grapple check, it establishes a hold and attaches the tentacle to the opponent’s head. Shuluth can grab a Huge or larger creature, but only if it can somehow reach the foe’s head. If Shuluth begins its turn with at least one tentacle attached, it can try to attach its remaining tentacles with a single grapple check. The opponent can escape with a single successful grapple check or an Escape Artist check, but Shuluth gets a +2 circumstance bonus for every tentacle that was attached at the beginning of the opponent’s turn. Shuluth wiped out an entire illithid-hunting society and now revels in its newly gained abilities Illus. by F. Hooper 214 5 RETPAHC LANOITPO SELUR VHUUKSSSH THE DESTROYER of its tormentor and now explores the new abilities This example uses a Large water elemental as the that have awakened within it. base creature. Vhuuksssh has selected a visible omen (fl ickering fl ames), one Menu A choice (+1 defl ection), one Menu Vhuuksssh B choice (lightning bolt), one Menu C choice (acid Large Elemental (Extraplanar, Water) arrow), and one Menu E choice (fi reball).",
+        "name":  "Level Adjustment",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Water mastery, drench, spell-like Spell-Like Abilities: At will—Melf’s acid arrow abilities, vortex (+10 ranged touch; CL 10th); 3/day—fi reball (DC 14;",
+        "name":  "Special Attacks",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "Masterwork/+1 legacy staff of power. This effect lasts for 1 round. You quarterstaff; Cost 2,600 gp. can use this ability three times per day. Lightning Bolt (Sp): At 13th level, you can use Legacy Rituals lightning bolt as the spell (heightened to 5th level) two Three rituals are required to unlock all the abilities times per day. of the legacy staff of power. Fireball (Sp): At 15th level, you can use fireball as the",
+        "name":  "Nonlegacy Game Statistics",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    },
+    {
+        "origin_file":  "spells.json",
+        "description":  "4,000 gp. spell (heightened to 5th level) two times per day.",
+        "name":  "Least Legacy Ritual Cost",
+        "source":  "weapons_of_legacy.txt",
+        "_id":  "6cf9312f6f24825f090c58bbba1ac9c06a21a88f08b9543adddca1b8d7003cd6"
+    }
+]
