@@ -14,8 +14,18 @@ class TriggerNexus {
   }
 
   fireTrigger(event, data) {
-    const handlers = this.triggers.get(event) || [];
-    handlers.forEach(handler => handler(data));
+    try {
+      const handlers = this.triggers.get(event) || [];
+      handlers.forEach(handler => {
+        try {
+          handler(data);
+        } catch (e) {
+          console.warn(`Trigger failed for ${event}:`, e);
+        }
+      });
+    } catch (e) {
+      console.error('Nexus fireTrigger error:', e);
+    }
   }
 
   unregisterTrigger(event, handler) {
