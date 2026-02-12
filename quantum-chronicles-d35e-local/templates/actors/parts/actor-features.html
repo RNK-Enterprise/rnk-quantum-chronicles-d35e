@@ -1,0 +1,27 @@
+<section class="actor-features">
+  {{#each features}}
+    <div class="feature-group" data-group="{{@key}}">
+      <h4>{{this.label}}</h4>
+      <ol class="feat-list">
+        {{#each this.items}}
+          <li class="item feat-row" data-item-id="{{this._id}}">
+            <div class="feat-head">
+              <img class="item-image" src="{{this.img}}" title="{{this.name}}"/>
+              <span class="item-name">{{this.name}}</span>
+              <div class="item-controls">
+                <a class="item-control item-edit">Edit</a>
+                <a class="item-control item-delete">Delete</a>
+              </div>
+            </div>
+            {{#if this.system.description.value}}
+              <div class="feat-description">{{{this.system.description.value}}}</div>
+            {{/if}}
+          </li>
+        {{/each}}
+        {{#unless this.items.length}}
+          <li class="feat-row">No features in this section.</li>
+        {{/unless}}
+      </ol>
+    </div>
+  {{/each}}
+</section>

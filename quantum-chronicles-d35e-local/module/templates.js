@@ -1,0 +1,31 @@
+// RNK-Quantum D35E Templates - Vortex Preloading
+// Innovative: Templates preloaded via vortex pull
+
+import { CONSTANTS } from "../constants.js";
+
+export async function preloadHandlebarsTemplates() {
+  const templatePaths = [
+    CONSTANTS.TEMPLATES.ACTORS.CHARACTER,
+    CONSTANTS.TEMPLATES.ACTORS.NPC,
+    CONSTANTS.TEMPLATES.ACTORS.LIMITED,
+    CONSTANTS.TEMPLATES.ITEMS.WEAPON,
+    CONSTANTS.TEMPLATES.ITEMS.ARMOR,
+    CONSTANTS.TEMPLATES.ITEMS.EQUIPMENT,
+    CONSTANTS.TEMPLATES.ITEMS.SPELL,
+    CONSTANTS.TEMPLATES.CHAT.ATTACK,
+    CONSTANTS.TEMPLATES.CHAT.DAMAGE,
+    // Item partials
+    "systems/rnk-quantum-d35e/templates/items/parts/item-description.hbs",
+    "systems/rnk-quantum-d35e/templates/items/parts/item-enhancement.hbs",
+    "systems/rnk-quantum-d35e/templates/items/parts/item-light.hbs",
+    "systems/rnk-quantum-d35e/templates/items/parts/item-customization.hbs",
+    "systems/rnk-quantum-d35e/templates/items/parts/item-conditionals.hbs",
+    "systems/rnk-quantum-d35e/templates/items/parts/item-senses.hbs",
+    "systems/rnk-quantum-d35e/templates/items/parts/item-activation.hbs",
+    "systems/rnk-quantum-d35e/templates/items/parts/item-action.hbs",
+    "systems/rnk-quantum-d35e/templates/items/parts/item-changes.hbs",
+    "systems/rnk-quantum-d35e/templates/items/parts/item-notes.hbs"
+  ];
+
+  return foundry.applications.handlebars.loadTemplates(templatePaths);
+}

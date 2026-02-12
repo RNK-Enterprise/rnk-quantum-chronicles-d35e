@@ -1,0 +1,27 @@
+<section class="deck-list">
+  {{#each deckData}}
+    <div class="deck-group" data-tab="{{@key}}">
+      <h4>{{this.orig.name}}</h4>
+      {{#each this.data as |level|}}
+        <div class="deck-level">
+          <h5>{{level.label}}</h5>
+          <ol class="item-list">
+            {{#each level.spells as |card|}}
+              <li class="item card" data-item-id="{{card._id}}">
+                <div class="item-name">
+                  <img class="item-image" src="{{card.img}}" title="{{card.name}}"/>
+                  <span>{{card.name}}</span>
+                </div>
+                <div class="item-controls">
+                  <a class="item-control card-draw">Draw</a>
+                  <a class="item-control card-discard">Discard</a>
+                  <a class="item-control item-edit">Edit</a>
+                </div>
+              </li>
+            {{/each}}
+          </ol>
+        </div>
+      {{/each}}
+    </div>
+  {{/each}}
+</section>

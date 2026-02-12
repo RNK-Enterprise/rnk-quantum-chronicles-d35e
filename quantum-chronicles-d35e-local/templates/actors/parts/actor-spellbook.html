@@ -1,0 +1,35 @@
+<section class="spellbook-list">
+  {{#each spellbookData}}
+    <div class="spellbook-group" data-tab="{{@key}}">
+      <header class="spellbook-header">
+        <h4>{{this.orig.name}}</h4>
+        <div class="spellbook-actions">
+          <a class="configure-spellbook" for="system.attributes.spells.spellbooks.{{@key}}">Configure</a>
+        </div>
+      </header>
+      {{#each this.data as |level|}}
+        <div class="spellbook-level" data-level="{{level.level}}">
+          <h5>{{level.label}}</h5>
+          <ol class="item-list">
+            {{#each level.spells as |spell|}}
+              <li class="item spell" data-item-id="{{spell._id}}">
+                <div class="item-name">
+                  <img class="item-image" src="{{spell.img}}" title="{{spell.name}}"/>
+                  <span>{{spell.name}}</span>
+                </div>
+                <div class="item-controls">
+                  <a class="item-control item-roll">Cast</a>
+                  <a class="item-control item-edit">Edit</a>
+                  <a class="item-control item-delete">Delete</a>
+                </div>
+              </li>
+            {{/each}}
+            {{#unless level.spells.length}}
+              <li class="item">No spells prepared.</li>
+            {{/unless}}
+          </ol>
+        </div>
+      {{/each}}
+    </div>
+  {{/each}}
+</section>

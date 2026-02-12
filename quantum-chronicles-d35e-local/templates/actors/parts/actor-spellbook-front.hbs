@@ -1,0 +1,10 @@
+<section class="spellbook-front">
+  {{#each spellbookData}}
+    <div class="spellbook-summary">
+      <h4>{{this.orig.name}}</h4>
+      <div>Prepared: {{this.prepared}}</div>
+      <div>Type: {{this.spellcastingTypeName}}</div>
+      <button type="button" class="configure-spellbook" for="system.attributes.spells.spellbooks.{{@key}}">Configure</button>
+    </div>
+  {{/each}}
+</section>

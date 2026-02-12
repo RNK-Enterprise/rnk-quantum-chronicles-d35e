@@ -1,0 +1,44 @@
+<section class="item-conditionals" data-tab="conditionals">
+  <div class="conditional-header">
+    <h4>Conditionals</h4>
+    <button type="button" class="conditional-control add-conditional">Add Conditional</button>
+  </div>
+  {{#if conditionals}}
+    <ol class="conditional-list">
+      {{#each conditionals as |conditional i|}}
+        <li class="conditional" data-conditional="{{i}}">
+          <div class="conditional-title">
+            <input type="text" name="data.conditionals.{{i}}.name" value="{{conditional.name}}" placeholder="Condition"/>
+            <button type="button" class="conditional-control delete-conditional">Remove</button>
+          </div>
+          <ol class="conditional-modifiers">
+            {{#each conditional.modifiers as |modifier j|}}
+              <li class="conditional-modifier" data-conditional="{{i}}" data-modifier="{{j}}">
+                <select name="data.conditionals.{{i}}.modifiers.{{j}}.target">
+                  {{#each modifier.targets as |label key|}}
+                    <option value="{{key}}" {{#if (eq key modifier.target)}}selected{{/if}}>{{label}}</option>
+                  {{/each}}
+                </select>
+                <select name="data.conditionals.{{i}}.modifiers.{{j}}.subTarget">
+                  {{#each modifier.subTargets as |label key|}}
+                    <option value="{{key}}" {{#if (eq key modifier.subTarget)}}selected{{/if}}>{{label}}</option>
+                  {{/each}}
+                </select>
+                <select name="data.conditionals.{{i}}.modifiers.{{j}}.type">
+                  {{#each modifier.conditionalModifierTypes as |label key|}}
+                    <option value="{{key}}" {{#if (eq key modifier.type)}}selected{{/if}}>{{label}}</option>
+                  {{/each}}
+                </select>
+                <input type="text" name="data.conditionals.{{i}}.modifiers.{{j}}.value" value="{{modifier.value}}"/>
+                <button type="button" class="conditional-control delete-conditional-modifier">Remove</button>
+              </li>
+            {{/each}}
+          </ol>
+          <button type="button" class="conditional-control add-conditional-modifier">Add Modifier</button>
+        </li>
+      {{/each}}
+    </ol>
+  {{else}}
+    <p>No conditionals configured.</p>
+  {{/if}}
+</section>

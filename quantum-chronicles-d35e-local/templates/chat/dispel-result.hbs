@@ -1,0 +1,33 @@
+<div class="d35e-dispel-result">
+  <div class="dispel-header">
+    <h4>Dispel Magic</h4>
+  </div>
+
+  <div class="dispel-details">
+    <div class="dispeller-info">
+      <strong>{{dispeller}}</strong> casts Dispel Magic on <strong>{{target}}</strong>
+    </div>
+
+    <div class="dispel-outcome {{#if success}}success{{else}}failure{{/if}}">
+      <div class="result-message">
+        {{message}}
+      </div>
+
+      {{#if success}}
+      <div class="success-icon">✨</div>
+      <div class="success-text">
+        {{#if (eq dispelledCount 1)}}
+          Successfully dispelled 1 magical effect!
+        {{else}}
+          Successfully dispelled {{dispelledCount}} magical effects!
+        {{/if}}
+      </div>
+      {{else}}
+      <div class="failure-icon">❌</div>
+      <div class="failure-text">
+        No magical effects were dispelled.
+      </div>
+      {{/if}}
+    </div>
+  </div>
+</div>

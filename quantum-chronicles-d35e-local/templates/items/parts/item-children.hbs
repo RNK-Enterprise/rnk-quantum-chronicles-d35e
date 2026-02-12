@@ -1,0 +1,17 @@
+<section class="item-children">
+  <h4>Contained Items</h4>
+  {{#if item.datas.length}}
+    <ol class="items-list">
+      {{#each item.datas}}
+        <li class="item child-item" data-item-id="{{this._id}}">
+          <div class="item-name">
+            <img class="item-image" src="{{this.img}}" title="{{this.name}}"/>
+            <h4>{{this.name}}</h4>
+          </div>
+        </li>
+      {{/each}}
+    </ol>
+  {{else}}
+    <p>No contained items.</p>
+  {{/if}}
+</section>

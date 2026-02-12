@@ -1,0 +1,31 @@
+<section class="actor-inventory">
+  {{#each inventory}}
+    <div class="inventory-section" data-section="{{@key}}">
+      <h4>{{this.label}}</h4>
+      <ol class="inventory-list item-list">
+        {{#each this.items}}
+          <li class="item" data-item-id="{{this._id}}">
+            <div class="item-name">
+              <img class="item-image" src="{{this.img}}" title="{{this.name}}"/>
+              <h4>{{this.name}}</h4>
+            </div>
+            <div class="item-detail item-quantity">
+              <a class="item-control item-quantity-subtract">-</a>
+              <input type="text" value="{{this.system.quantity}}" class="item-quantity-input"/>
+              <a class="item-control item-quantity-add">+</a>
+            </div>
+            <div class="item-controls">
+              <a class="item-control item-equip">Equip</a>
+              <a class="item-control item-carry">Carry</a>
+              <a class="item-control item-edit">Edit</a>
+              <a class="item-control item-delete">Delete</a>
+            </div>
+          </li>
+        {{/each}}
+        {{#unless this.items.length}}
+          <li class="item">No items in this section.</li>
+        {{/unless}}
+      </ol>
+    </div>
+  {{/each}}
+</section>

@@ -1,0 +1,15 @@
+<div class="d35e-damage-result">
+  <div class="result-header">
+    <h4>{{spell}} Damage</h4>
+  </div>
+  <div class="result-content">
+    <p><strong>{{target}}</strong> takes <span class="damage-amount">{{damage}}</span> points of damage.</p>
+    {{#if (eq result "saved")}}
+    <p class="save-result success">Save successful - damage halved!</p>
+    {{else if (eq result "failed")}}
+    <p class="save-result failure">Save failed!</p>
+    {{else if (eq result "resisted")}}
+    <p class="resistance-result">Spell resisted!</p>
+    {{/if}}
+  </div>
+</div>

@@ -1,0 +1,75 @@
+<div class="d35e-spell-card">
+  <header class="card-header">
+    <img src="{{item.img}}" title="{{item.name}}" width="36" height="36"/>
+    <h3>{{item.name}}</h3>
+    <span class="spell-level">{{item.system.level}}{{#if (eq item.system.level 1)}}st{{else if (eq item.system.level 2)}}nd{{else if (eq item.system.level 3)}}rd{{else}}th{{/if}} Level {{#if item.system.school}}{{config.spellSchools item.system.school}}{{/if}}</span>
+  </header>
+
+  <div class="card-content">
+    {{#if item.system.description.value}}
+    <div class="spell-description">
+      {{{item.system.description.value}}}
+    </div>
+    {{/if}}
+
+    <div class="spell-details">
+      {{#if item.system.castTime}}
+      <div class="detail-row">
+        <strong>Casting Time:</strong> {{item.system.castTime}}
+      </div>
+      {{/if}}
+
+      {{#if item.system.range.value}}
+      <div class="detail-row">
+        <strong>Range:</strong> {{item.system.range.value}} {{item.system.range.units}}
+      </div>
+      {{else}}
+      <div class="detail-row">
+        <strong>Range:</strong> {{item.system.range.units}}
+      </div>
+      {{/if}}
+
+      {{#if item.system.duration.value}}
+      <div class="detail-row">
+        <strong>Duration:</strong> {{item.system.duration.value}} {{item.system.duration.units}}
+      </div>
+      {{/if}}
+
+      {{#if item.system.target.value}}
+      <div class="detail-row">
+        <strong>Target:</strong> {{item.system.target.value}}
+      </div>
+      {{/if}}
+
+      {{#if item.system.area}}
+      <div class="detail-row">
+        <strong>Area:</strong> {{item.system.area}}
+      </div>
+      {{/if}}
+
+      {{#if item.system.save.type}}
+      <div class="detail-row">
+        <strong>Save:</strong> {{item.system.save.type}} DC {{spellDC}}
+      </div>
+      {{/if}}
+
+      {{#if item.system.sr}}
+      <div class="detail-row">
+        <strong>Spell Resistance:</strong> Yes
+      </div>
+      {{/if}}
+    </div>
+
+    {{#if item.system.components}}
+    <div class="spell-components">
+      <strong>Components:</strong>
+      {{#if item.system.components.verbal}}V{{/if}}
+      {{#if item.system.components.somatic}}S{{/if}}
+      {{#if item.system.components.material}}M{{/if}}
+      {{#if item.system.components.focus}}F{{/if}}
+      {{#if item.system.components.divineFocus}}DF{{/if}}
+      {{#if item.system.materials.value}} ({{item.system.materials.value}}){{/if}}
+    </div>
+    {{/if}}
+  </div>
+</div>

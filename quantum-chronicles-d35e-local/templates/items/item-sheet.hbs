@@ -1,0 +1,252 @@
+<div class="item-sheet-container">
+  {{!-- HEADER: Item Icon, Name, Type, Properties --}}
+  <header class="sheet-header character-header">
+    <div class="portrait-box">
+      <img class="portrait" src="{{item.img}}" data-edit="img" title="Click to change icon"/>
+    </div>
+
+    <div class="character-info-box">
+      <div class="character-name-section">
+        <input class="character-name" type="text" name="name" value="{{item.name}}" placeholder="Item Name"/>
+      </div>
+
+      <div class="character-details-grid">
+        <div class="detail-row">
+          <label class="detail-label">Type</label>
+          <input class="detail-input" type="text" value="{{capitalize type}}" disabled/>
+          <label class="detail-label">Quantity</label>
+          <input class="detail-input narrow" type="number" name="system.quantity" value="{{system.quantity}}" min="1"/>
+          <label class="detail-label">Weight</label>
+          <input class="detail-input narrow" type="text" value="{{system.weight}} lbs" disabled/>
+        </div>
+      </div>
+    </div>
+
+    {{!-- CORE ITEM INFO BAR --}}
+    <div class="core-stats-bar">
+      <div class="core-stat">
+        <div class="core-stat-value">{{#if system.quantity}}{{system.quantity}}{{else}}1{{/if}}</div>
+        <div class="core-stat-label">QTY</div>
+      </div>
+      <div class="core-stat">
+        <div class="core-stat-value">{{#if system.weight}}{{system.weight}}{{else}}—{{/if}}</div>
+        <div class="core-stat-label">WT</div>
+      </div>
+      <div class="core-stat">
+        <div class="core-stat-value">{{#if system.price}}{{system.price}}{{else}}—{{/if}}</div>
+        <div class="core-stat-label">PRICE (GP)</div>
+      </div>
+    </div>
+  </header>
+
+  {{!-- Modern Tab Navigation --}}
+  <nav class="sheet-tabs modern">
+    <button class="tab-btn {{#if (eq activeTab "description")}}active{{/if}}" data-tab="description">
+      <span class="tab-icon">📝</span> Description
+    </button>
+    <button class="tab-btn {{#if (eq activeTab "details")}}active{{/if}}" data-tab="details">
+      <span class="tab-icon">⚙️</span> Details
+    </button>
+    <button class="tab-btn {{#if (eq activeTab "activities")}}active{{/if}}" data-tab="activities">
+      <span class="tab-icon">⚡</span> Activities
+    </button>
+    <button class="tab-btn {{#if (eq activeTab "effects")}}active{{/if}}" data-tab="effects">
+      <span class="tab-icon">✨</span> Effects
+    </button>
+  </nav>
+
+  {{!-- Item Sheet Body --}}
+  <section class="sheet-body primary-body">
+
+    {{!-- Description Tab --}}
+    <div class="tab description {{#if (eq activeTab "description")}}active{{/if}}" data-tab="description">
+      <div class="form-group-card">
+        <h3>Description</h3>
+        <div class="editor-container">
+          {{editor system.description.value target="system.description.value" button=true owner=owner editable=editable engine="prosemirror"}}
+        </div>
+      </div>
+    </div>
+
+    {{!-- Details Tab --}}
+    <div class="tab details {{#if (eq activeTab "details")}}active{{/if}}" data-tab="details">
+
+      {{#if (eq item.type "weapon")}}
+      <div class="form-group-card">
+        <h3>Weapon Properties</h3>
+        <div class="form-row">
+          <div class="form-group">
+            <label>Weapon Type</label>
+            <select name="system.weaponType">
+              {{selectOptions config.weaponTypes selected=system.weaponType}}
+            </select>
+          </div>
+          <div class="form-group">
+            <label>Subtype</label>
+            <select name="system.weaponSubtype">
+              {{selectOptions config.weaponSubtypes selected=system.weaponSubtype}}
+            </select>
+          </div>
+        </div>
+        <div class="form-row">
+          <div class="form-group">
+            <label>Damage Dice</label>
+            <input name="system.damage.parts.0.0" type="text" value="{{system.damage.parts.[0].[0]}}" placeholder="1d8"/>
+          </div>
+          <div class="form-group">
+            <label>Damage Type</label>
+            <select name="system.damage.parts.0.1">
+              {{selectOptions config.damageTypes selected=system.damage.parts.[0].[1]}}
+            </select>
+          </div>
+        </div>
+        <div class="form-row">
+          <div class="form-group">
+            <label>Ability Modifier</label>
+            <select name="system.properties.ability">
+              <option value="str" {{#if (eq system.properties.ability "str")}}selected{{/if}}>Strength</option>
+              <option value="dex" {{#if (eq system.properties.ability "dex")}}selected{{/if}}>Dexterity</option>
+              <option value="con" {{#if (eq system.properties.ability "con")}}selected{{/if}}>Constitution</option>
+              <option value="int" {{#if (eq system.properties.ability "int")}}selected{{/if}}>Intelligence</option>
+              <option value="wis" {{#if (eq system.properties.ability "wis")}}selected{{/if}}>Wisdom</option>
+              <option value="cha" {{#if (eq system.properties.ability "cha")}}selected{{/if}}>Charisma</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label>Equipped</label>
+            <input type="checkbox" name="system.equipped" {{#if system.equipped}}checked{{/if}} />
+          </div>
+        </div>
+      </div>
+      {{/if}}
+
+      {{#if (eq item.type "armor")}}
+      <div class="form-group-card">
+        <h3>Armor Properties</h3>
+        <div class="form-row">
+          <div class="form-group">
+            <label>AC Bonus</label>
+            <input name="system.armor.value" type="number" value="{{system.armor.value}}" min="0"/>
+          </div>
+          <div class="form-group">
+            <label>Max DEX Bonus</label>
+            <input name="system.armor.dex" type="number" value="{{system.armor.dex}}"/>
+          </div>
+        </div>
+        <div class="form-row">
+          <div class="form-group">
+            <label>Armor Check Penalty</label>
+            <input name="system.armor.acp" type="number" value="{{system.armor.acp}}"/>
+          </div>
+          <div class="form-group">
+            <label>Equipped</label>
+            <input type="checkbox" name="system.equipped" {{#if system.equipped}}checked{{/if}} />
+          </div>
+        </div>
+      </div>
+      {{/if}}
+
+      {{#if (eq item.type "spell")}}
+      <div class="form-group-card">
+        <h3>Spell Properties</h3>
+        <div class="form-row">
+          <div class="form-group">
+            <label>Level</label>
+            <input name="system.level" type="number" value="{{system.level}}" min="0" max="9"/>
+          </div>
+          <div class="form-group">
+            <label>School</label>
+            <select name="system.school">
+              {{selectOptions config.spellSchools selected=system.school}}
+            </select>
+          </div>
+        </div>
+        <div class="form-row">
+          <div class="form-group">
+            <label>Saving Throw</label>
+            <input name="system.save.description" type="text" value="{{system.save.description}}" placeholder="Reflex half"/>
+          </div>
+          <div class="form-group">
+            <label>Spell Stat</label>
+            <select name="system.spellStat">
+              {{selectOptions config.abilities selected=system.spellStat}}
+            </select>
+          </div>
+        </div>
+      </div>
+      {{/if}}
+
+      {{!-- Attributes & Changes --}}
+      <div class="form-group-card">
+        <h3>Attributes & Modifiers</h3>
+        {{> "systems/rnk-quantum-d35e/templates/items/parts/item-changes.hbs"}}
+      </div>
+    </div>
+
+    {{!-- Activities Tab --}}
+    <div class="tab activities {{#if (eq activeTab "activities")}}active{{/if}}" data-tab="activities">
+      <div class="form-group-card">
+        <h3>Activities</h3>
+        <div class="activities-list">
+          <div class="activities-header">
+            <div class="activity-name-col">Name</div>
+            <div class="activity-type-col">Action</div>
+            <div class="activity-controls">
+              <button class="btn-add-activity" title="Add Activity">+ Add</button>
+            </div>
+          </div>
+          <div class="activity-items">
+            {{#each activities as |activity i|}}
+            <div class="activity-item" data-activity-id="{{i}}">
+              <div class="activity-name">{{activity.name}}</div>
+              <div class="activity-type">{{activity.activation.type}}</div>
+              <div class="activity-controls">
+                <button class="roll-activity" data-activity-id="{{i}}" title="Roll">⚡</button>
+                <button class="delete-activity" data-activity-id="{{i}}" title="Delete">✕</button>
+              </div>
+            </div>
+            {{/each}}
+          </div>
+          {{#unless activities}}
+          <p class="notes-empty">No custom activities defined.</p>
+          {{/unless}}
+        </div>
+      </div>
+    </div>
+
+    {{!-- Effects Tab --}}
+    <div class="tab effects {{#if (eq activeTab "effects")}}active{{/if}}" data-tab="effects">
+      <div class="form-group-card">
+        <h3>Active Effects</h3>
+        <div class="effects-list">
+          <div class="effects-header">
+            <div class="effect-name-col">Name</div>
+            <div class="effect-duration-col">Duration</div>
+            <div class="effect-controls">
+              <button class="btn-add-effect" title="Add Effect">+ Add</button>
+            </div>
+          </div>
+          <div class="effects-items">
+            {{#each effects as |effect|}}
+            <div class="effect-item" data-effect-id="{{effect.id}}">
+              <div class="effect-info">
+                <img src="{{effect.img}}" width="24" height="24"/>
+                <span class="effect-name">{{effect.name}}</span>
+              </div>
+              <div class="effect-duration">{{#if effect.duration.label}}{{effect.duration.label}}{{else}}Permanent{{/if}}</div>
+              <div class="effect-controls">
+                <button class="edit-effect" data-effect-id="{{effect.id}}" title="Edit">✎</button>
+                <button class="delete-effect" data-effect-id="{{effect.id}}" title="Delete">✕</button>
+              </div>
+            </div>
+            {{/each}}
+          </div>
+          {{#unless effects}}
+          <p class="notes-empty">No active effects.</p>
+          {{/unless}}
+        </div>
+      </div>
+    </div>
+
+  </section>
+</div>

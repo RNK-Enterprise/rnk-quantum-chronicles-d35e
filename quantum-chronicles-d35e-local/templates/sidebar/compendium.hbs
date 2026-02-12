@@ -1,0 +1,13 @@
+<div class="compendium-browser">
+  <header><h3>{{title}}</h3></header>
+  <div class="compendium-list">
+    {{#each packs}}
+      <div class="pack" data-pack="{{this.collection}}">
+        <strong>{{this.metadata.label}}</strong>
+        <div class="pack-controls">
+          <button class="open-pack" data-pack="{{this.collection}}">Open</button>
+        </div>
+      </div>
+    {{/each}}
+  </div>
+</div>

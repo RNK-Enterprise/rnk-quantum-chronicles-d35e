@@ -1,0 +1,17 @@
+<section class="actor-config">
+  <div class="form-group">
+    <label>Alignment</label>
+    <input type="text" name="system.details.alignment" value="{{system.details.alignment}}"/>
+  </div>
+  <div class="form-group">
+    <label>Size</label>
+    <input type="text" name="system.traits.size" value="{{system.traits.size}}"/>
+  </div>
+  <div class="form-group">
+    <label>Lock Editing by Players</label>
+    <input type="checkbox" name="system.lockEditingByPlayers" {{#if system.lockEditingByPlayers}}checked{{/if}}/>
+  </div>
+  <div class="form-group">
+    <button type="button" class="configure-flags">Configure Flags</button>
+  </div>
+</section>

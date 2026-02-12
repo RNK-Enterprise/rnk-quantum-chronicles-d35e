@@ -1,0 +1,50 @@
+<section class="actor-traits">
+  <div class="form-group">
+    <label for="system.traits.size">Size</label>
+    <input type="text" name="system.traits.size" value="{{system.traits.size}}"/>
+  </div>
+  <div class="form-group">
+    <label for="system.traits.languages">Languages</label>
+    <a class="trait-selector" data-options="languages">Select</a>
+    <div class="trait-list">
+      {{#each system.traits.languages.selected}}
+        <span class="tag">{{this}}</span>
+      {{/each}}
+    </div>
+  </div>
+  <div class="form-group">
+    <label for="system.traits.weaponProf">Weapon Proficiencies</label>
+    <a class="trait-selector" data-options="weaponProficiencies">Select</a>
+    <div class="trait-list">
+      {{#each system.traits.weaponProf.selected}}
+        <span class="tag">{{this}}</span>
+      {{/each}}
+    </div>
+  </div>
+  <div class="form-group">
+    <label for="system.traits.armorProf">Armor Proficiencies</label>
+    <a class="trait-selector" data-options="armorProficiencies">Select</a>
+    <div class="trait-list">
+      {{#each system.traits.armorProf.selected}}
+        <span class="tag">{{this}}</span>
+      {{/each}}
+    </div>
+  </div>
+  <div class="form-group">
+    <label>Senses</label>
+    <a class="sense-selector">Configure</a>
+    <div class="trait-list">
+      {{#each senses}}
+        <span class="tag">{{this.name}}</span>
+      {{/each}}
+    </div>
+  </div>
+  <div class="form-group">
+    <label>Damage Reduction and Energy Resistance</label>
+    <a class="drer-selector">Configure</a>
+    <div class="trait-list">
+      {{{damageReduction}}}
+      {{{energyResistance}}}
+    </div>
+  </div>
+</section>

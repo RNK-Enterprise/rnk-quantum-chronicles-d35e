@@ -1,0 +1,14 @@
+<section class="item-links">
+  <h4>Linked Items</h4>
+  {{#if linkedItems.length}}
+    <ol class="items-list">
+      {{#each linkedItems}}
+        <li class="item">
+          <span>{{this.name}}</span>
+        </li>
+      {{/each}}
+    </ol>
+  {{else}}
+    <p>No linked items.</p>
+  {{/if}}
+</section>

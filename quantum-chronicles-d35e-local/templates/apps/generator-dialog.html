@@ -1,0 +1,60 @@
+<div class="generator-dialog">
+  <h2>Treasure & Encounter Generator</h2>
+
+  <div class="generator-section">
+    <h3>Encounter Settings</h3>
+    <div class="form-group">
+      <label for="encounterLevel">Encounter Level:</label>
+      <input type="number" name="encounterLevel" value="{{encounterLevel}}" min="1" max="20">
+    </div>
+
+    <div class="form-group">
+      <label for="npcCount">Number of NPCs:</label>
+      <input type="number" name="npcCount" value="{{npcCount}}" min="1" max="10">
+    </div>
+
+    <div class="form-group">
+      <label for="npcRole">NPC Role:</label>
+      <select name="npcRole">
+        {{#each roles}}
+        <option value="{{value}}" {{#if (eq value ../npcRole)}}selected{{/if}}>{{label}}</option>
+        {{/each}}
+      </select>
+    </div>
+
+    <button class="generate-encounter">Generate Encounter</button>
+  </div>
+
+  <hr>
+
+  <div class="generator-section">
+    <h3>Treasure Settings</h3>
+    <div class="form-group">
+      <label for="treasureType">Treasure Type:</label>
+      <select name="treasureType">
+        {{#each treasureTypes}}
+        <option value="{{value}}" {{#if (eq value ../treasureType)}}selected{{/if}}>{{label}}</option>
+        {{/each}}
+      </select>
+    </div>
+
+    <button class="generate-treasure">Generate Treasure</button>
+  </div>
+
+  <div class="generator-info">
+    <p><strong>Treasure Types:</strong></p>
+    <ul>
+      <li><strong>Individual:</strong> Treasure for a single creature (normal encounters)</li>
+      <li><strong>Hoard:</strong> Treasure for a group or lair (10x individual amounts)</li>
+    </ul>
+
+    <p><strong>NPC Roles:</strong></p>
+    <ul>
+      <li><strong>Warrior:</strong> Fighters, barbarians, rangers with heavy armor and weapons</li>
+      <li><strong>Mage:</strong> Wizards, sorcerers with light armor and spellcasting focus</li>
+      <li><strong>Rogue:</strong> Thieves, assassins with light armor and precision weapons</li>
+      <li><strong>Priest:</strong> Clerics, druids with medium armor and divine casting</li>
+      <li><strong>Commoner:</strong> Townsfolk, merchants with minimal equipment</li>
+    </ul>
+  </div>
+</div>

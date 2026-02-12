@@ -1,0 +1,23 @@
+<section class="item-enhancement">
+  <div class="form-group">
+    <label>Enhancement Bonus</label>
+    <input type="number" name="system.enh" value="{{system.enh}}"/>
+  </div>
+  {{#if system.enhancements.items.length}}
+    <ol class="items-list">
+      {{#each system.enhancements.items}}
+        <li class="item enh-item" data-item-id="{{this._id}}">
+          <div class="item-name">
+            <span>{{this.name}}</span>
+          </div>
+          <div class="item-controls">
+            <a class="item-control item-edit">Edit</a>
+            <a class="item-control item-delete">Delete</a>
+          </div>
+        </li>
+      {{/each}}
+    </ol>
+  {{else}}
+    <p>No enhancements applied.</p>
+  {{/if}}
+</section>

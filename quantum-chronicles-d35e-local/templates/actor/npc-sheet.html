@@ -1,0 +1,101 @@
+<form class="{{cssClass}} flexcol" autocomplete="off">
+  <!-- Sheet Header -->
+  <header class="sheet-header flexrow">
+    <div class="profile-img-container">
+      <img class="profile-img" src="{{actor.img}}" title="{{actor.name}}" data-edit="img"/>
+    </div>
+    <div class="header-fields flexcol">
+      <h1 class="charname">
+        <input name="name" type="text" value="{{actor.name}}" placeholder="NPC Name"/>
+      </h1>
+      <div class="flexrow">
+        <div class="resource flexcol">
+          <label>Type</label>
+          <input name="system.details.type" type="text" value="{{system.details.type}}" placeholder="Humanoid"/>
+        </div>
+        <div class="resource flexcol">
+          <label>CR</label>
+          <input name="system.details.cr" type="number" value="{{system.details.cr}}" min="0" step="0.125"/>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Sheet Body -->
+  <section class="sheet-body primary-body">
+    <div class="flexrow">
+      <!-- Basic Stats -->
+      <div class="basic-stats flexcol">
+        <h3>Basic Stats</h3>
+        <div class="stat">
+          <label>Hit Points</label>
+          <div class="flexrow">
+            <input name="system.attributes.hp.value" type="number" value="{{system.attributes.hp.value}}" min="0"/>
+            <span>/</span>
+            <input name="system.attributes.hp.max" type="number" value="{{system.attributes.hp.max}}" min="0"/>
+          </div>
+        </div>
+        <div class="stat">
+          <label>Armor Class</label>
+          <span>{{system.attributes.ac.normal}} ({{system.attributes.ac.touch}} touch, {{system.attributes.ac.flatFooted}} flat-footed)</span>
+        </div>
+        <div class="stat">
+          <label>Initiative</label>
+          <span>{{signed system.attributes.init.value}}</span>
+        </div>
+        <div class="stat">
+          <label>Speed</label>
+          <span>{{system.attributes.speed.land}} ft.</span>
+        </div>
+      </div>
+
+      <!-- Ability Scores -->
+      <div class="abilities flexcol">
+        <h3>Ability Scores</h3>
+        {{#each system.abilities as |ability key|}}
+        <div class="ability flexrow">
+          <label class="ability-label">{{abilityName key}}</label>
+          <input class="ability-score" name="system.abilities.{{key}}.value" type="number" value="{{ability.value}}" min="1" max="30"/>
+          <span class="ability-mod">{{signed ability.mod}}</span>
+        </div>
+        {{/each}}
+      </div>
+
+      <!-- Saving Throws -->
+      <div class="saves flexcol">
+        <h3>Saving Throws</h3>
+        {{#each system.saves as |save key|}}
+        <div class="save flexrow">
+          <label class="save-label">{{key}}</label>
+          <span class="save-total">{{signed save.total}}</span>
+        </div>
+        {{/each}}
+      </div>
+    </div>
+
+    <!-- Description -->
+    <div class="description">
+      <h3>Description</h3>
+      <textarea name="system.details.description">{{system.details.description}}</textarea>
+    </div>
+
+    <!-- Inventory -->
+    <div class="inventory">
+      <h3>Equipment</h3>
+      <div class="inventory-content">
+        {{#each items as |item id|}}
+        <div class="item flexrow" data-item-id="{{item._id}}">
+          <img class="item-image" src="{{item.img}}" title="{{item.name}}"/>
+          <div class="item-details flexcol">
+            <h4 class="item-name">{{item.name}}</h4>
+            <div class="item-properties">{{item.getProperties}}</div>
+          </div>
+          <div class="item-controls flexcol">
+            <input class="item-quantity" name="system.quantity" type="number" value="{{item.system.quantity}}" min="0"/>
+          </div>
+        </div>
+        {{/each}}
+      </div>
+    </div>
+  </section>
+</form>

@@ -1,0 +1,34 @@
+<div class="d35e-enhanced-item">
+  <div class="item-header">
+    <h4>{{item}} {{#if enhancement}} (+{{enhancement}}){{/if}}</h4>
+    <div class="item-action">{{action}}</div>
+  </div>
+
+  {{#if properties.length}}
+  <div class="item-properties">
+    <strong>Properties:</strong>
+    <ul>
+      {{#each properties}}
+      <li class="property-{{this}}">{{this}}</li>
+      {{/each}}
+    </ul>
+  </div>
+  {{/if}}
+
+  {{#if enhancement}}
+  <div class="enhancement-info">
+    <div class="enhancement-bonus">
+      <strong>Enhancement Bonus:</strong> +{{enhancement}}
+    </div>
+    {{#if (eq type "weapon")}}
+    <div class="enhancement-effects">
+      <small>+{{enhancement}} to attack rolls and damage rolls</small>
+    </div>
+    {{else if (eq type "equipment")}}
+    <div class="enhancement-effects">
+      <small>+{{enhancement}} to AC (armor) or attack rolls (shield)</small>
+    </div>
+    {{/if}}
+  </div>
+  {{/if}}
+</div>

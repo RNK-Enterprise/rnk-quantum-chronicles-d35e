@@ -1,0 +1,259 @@
+<form class="{{cssClass}} flexcol" autocomplete="off">
+  <!-- Sheet Header -->
+  <header class="sheet-header flexrow">
+    <div class="profile-img-container">
+      <img class="profile-img" src="{{actor.img}}" title="{{actor.name}}" data-edit="img"/>
+    </div>
+    <div class="header-fields flexcol">
+      <h1 class="charname">
+        <input name="name" type="text" value="{{actor.name}}" placeholder="Character Name"/>
+      </h1>
+      <div class="flexrow">
+          <div class="resource flexcol">
+            <label>Race</label>
+            <input name="system.details.race" type="text" value="{{system.details.race}}" placeholder="Race" list="race-options"/>
+            <datalist id="race-options">{{optionList "race"}}</datalist>
+          </div>
+          <div class="resource flexcol">
+            <label>Class</label>
+            <input name="system.details.class" type="text" value="{{system.details.class}}" placeholder="Class" list="class-options"/>
+            <datalist id="class-options">{{optionList "class"}}</datalist>
+          </div>
+        <div class="resource flexcol">
+          <label>Level</label>
+          <input name="system.details.level.value" type="number" value="{{system.details.level.value}}" min="1" max="20"/>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Navigation Tabs -->
+  <nav class="sheet-tabs tabs" data-group="primary">
+    <a class="item" data-tab="attributes">Attributes</a>
+    <a class="item" data-tab="skills">Skills</a>
+    <a class="item" data-tab="inventory">Inventory</a>
+    <a class="item" data-tab="spells">Spells</a>
+    <a class="item" data-tab="biography">Biography</a>
+  </nav>
+
+  <!-- Sheet Body -->
+  <section class="sheet-body primary-body">
+
+    <!-- Attributes Tab -->
+    <div class="tab attributes" data-group="primary" data-tab="attributes">
+      <div class="flexrow">
+        <!-- Ability Scores -->
+        <div class="abilities flexcol">
+          <h3>Ability Scores</h3>
+          {{#each system.abilities as |ability key|}}
+          <div class="ability flexrow">
+            <label class="ability-label">{{abilityName key}}</label>
+            <input class="ability-score" name="system.abilities.{{key}}.value" type="number" value="{{ability.value}}" min="1" max="30"/>
+            <span class="ability-mod">{{signed ability.mod}}</span>
+          </div>
+          {{/each}}
+        </div>
+
+        <!-- Combat Stats -->
+        <div class="combat flexcol">
+          <h3>Combat</h3>
+          <div class="combat-stats">
+            <div class="stat">
+              <label>Hit Points</label>
+              <div class="flexrow">
+                <input name="system.attributes.hp.value" type="number" value="{{system.attributes.hp.value}}" min="0"/>
+                <span>/</span>
+                <input name="system.attributes.hp.max" type="number" value="{{system.attributes.hp.max}}" min="0"/>
+              </div>
+            </div>
+            <div class="stat">
+              <label>Armor Class</label>
+              <div class="ac-breakdown">
+                <span class="ac-total">{{system.attributes.ac.normal}}</span>
+                <span class="ac-detail">({{system.attributes.ac.touch}} touch, {{system.attributes.ac.flatFooted}} flat-footed)</span>
+              </div>
+            </div>
+            <div class="stat">
+              <label>Initiative</label>
+              <span>{{signed system.attributes.init.value}}</span>
+            </div>
+            <div class="stat">
+              <label>Base Attack Bonus</label>
+              <span>{{signed system.attributes.bab}}</span>
+            </div>
+            <div class="stat">
+              <label>Speed</label>
+              <span>{{system.attributes.speed.land}} ft.</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Saving Throws -->
+        <div class="saves flexcol">
+          <h3>Saving Throws</h3>
+          {{#each system.saves as |save key|}}
+          <div class="save flexrow">
+            <label class="save-label">{{key}}</label>
+            <span class="save-total">{{signed save.total}}</span>
+            <span class="save-detail">({{signed save.base}} base + {{signed save.ability}} ability)</span>
+          </div>
+          {{/each}}
+        </div>
+      </div>
+    </div>
+
+    <!-- Skills Tab -->
+    <div class="tab skills" data-group="primary" data-tab="skills">
+      <div class="skills-list">
+        {{#each system.skills as |skill key|}}
+        <div class="skill flexrow">
+          <label class="skill-name">{{skillName key}}</label>
+          <input class="skill-ranks" name="system.skills.{{key}}.rank" type="number" value="{{skill.rank}}" min="0" max="20"/>
+          <span class="skill-mod">{{signed skill.mod}}</span>
+          <span class="skill-ability">({{skill.ability}})</span>
+        </div>
+        {{/each}}
+      </div>
+    </div>
+
+    <!-- Inventory Tab -->
+    <div class="tab inventory" data-group="primary" data-tab="inventory">
+      <div class="inventory-header flexrow">
+        <h3>Equipment</h3>
+        <button type="button" class="add-item" data-type="weapon">+ Weapon</button>
+        <button type="button" class="add-item" data-type="equipment">+ Equipment</button>
+        <button type="button" class="add-item" data-type="consumable">+ Consumable</button>
+      </div>
+
+      <div class="inventory-content">
+        {{#each items as |item id|}}
+        <div class="item flexrow" data-item-id="{{item._id}}">
+          <img class="item-image" src="{{item.img}}" title="{{item.name}}"/>
+          <div class="item-details flexcol">
+            <h4 class="item-name">{{item.name}}</h4>
+            <div class="item-properties">{{item.getProperties}}</div>
+            <div class="item-description">{{{item.system.description.value}}}</div>
+          </div>
+          <div class="item-controls flexcol">
+            <input class="item-quantity" name="system.quantity" type="number" value="{{item.system.quantity}}" min="0"/>
+            <div class="item-buttons flexrow">
+              <button type="button" class="item-edit">Edit</button>
+              <button type="button" class="item-delete">Delete</button>
+            </div>
+          </div>
+        </div>
+        {{/each}}
+      </div>
+
+      <!-- Currency -->
+      <div class="currency">
+        <h4>Currency</h4>
+        <div class="currency-inputs flexrow">
+          <div class="currency-field">
+            <label>PP</label>
+            <input name="system.currency.pp" type="number" value="{{system.currency.pp}}" min="0"/>
+          </div>
+          <div class="currency-field">
+            <label>GP</label>
+            <input name="system.currency.gp" type="number" value="{{system.currency.gp}}" min="0"/>
+          </div>
+          <div class="currency-field">
+            <label>SP</label>
+            <input name="system.currency.sp" type="number" value="{{system.currency.sp}}" min="0"/>
+          </div>
+          <div class="currency-field">
+            <label>CP</label>
+            <input name="system.currency.cp" type="number" value="{{system.currency.cp}}" min="0"/>
+          </div>
+        </div>
+        <div class="currency-total">{{formatCurrency system.currency}}</div>
+      </div>
+    </div>
+
+    <!-- Spells Tab -->
+    <div class="tab spells" data-group="primary" data-tab="spells">
+      <div class="spells-header">
+        <h3>Spellcasting</h3>
+        <button type="button" class="add-spell">+ Spell</button>
+      </div>
+      <div class="spells-content">
+        <p>Spell system will be implemented in Phase 2.</p>
+      </div>
+    </div>
+
+    <!-- Biography Tab -->
+    <div class="tab biography" data-group="primary" data-tab="biography">
+      <div class="biography-content">
+        {{#if system.details.activeFeatures.length}}
+        <div class="feature-section">
+          <h3>Class Features</h3>
+          <ul class="feature-list">
+            {{#each system.details.activeFeatures as |feature|}}
+            <li>
+              <strong>{{feature.label}}</strong>
+              {{#if feature.description}} – {{feature.description}}{{/if}}
+            </li>
+            {{/each}}
+          </ul>
+        </div>
+        {{/if}}
+        {{#if system.details.featureRewards}}
+        <div class="feature-section rewards">
+          <h3>Feature Rewards</h3>
+          <ul class="feature-rewards">
+            {{#if system.details.featureRewards.bonusFeatSlots}}
+            <li><strong>Bonus Feat Slots:</strong> {{system.details.featureRewards.bonusFeatSlots}}</li>
+            {{/if}}
+            {{#if system.details.featureRewards.companions.length}}
+            <li><strong>Companions:</strong>
+              {{#each system.details.featureRewards.companions as |companion|}}
+              {{#if @first}}{{else}}, {{/if}}{{companion}}
+              {{/each}}
+            </li>
+            {{/if}}
+            {{#if system.details.featureRewards.favoredEnemies.length}}
+            <li><strong>Favored Enemies:</strong>
+              {{#each system.details.featureRewards.favoredEnemies as |enemy|}}
+              {{#if @first}}{{else}}, {{/if}}{{enemy}}
+              {{/each}}
+            </li>
+            {{/if}}
+            {{#if system.details.featureRewards.tracks.length}}
+            <li><strong>Tracking Tactics:</strong>
+              {{#each system.details.featureRewards.tracks as |track|}}
+              {{#if @first}}{{else}}, {{/if}}{{track}}
+              {{/each}}
+            </li>
+            {{/if}}
+            {{#if system.details.featureRewards.hasSpellbook}}
+            <li><strong>Spellbook:</strong> Available</li>
+            {{/if}}
+            {{#if system.details.featureRewards.canScribeScrolls}}
+            <li><strong>Scrollcraft:</strong> Scribe Scrolls</li>
+            {{/if}}
+            {{#if system.details.featureRewards.hasDetectEvil}}
+            <li><strong>Detect Evil:</strong> Active</li>
+            {{/if}}
+            {{#if system.details.featureRewards.hasSmiteEvil}}
+            <li><strong>Smite Evil:</strong> Active</li>
+            {{/if}}
+          </ul>
+        </div>
+        {{/if}}
+        <div class="biography-field">
+          <label>Background</label>
+          <textarea name="system.details.background">{{system.details.background}}</textarea>
+        </div>
+        <div class="biography-field">
+          <label>Personality</label>
+          <textarea name="system.details.personality">{{system.details.personality}}</textarea>
+        </div>
+        <div class="biography-field">
+          <label>Appearance</label>
+          <textarea name="system.details.appearance">{{system.details.appearance}}</textarea>
+        </div>
+      </div>
+    </div>
+
+  </section>
+</form>

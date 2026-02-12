@@ -1,0 +1,12 @@
+<!-- Spell description internal renderer -->
+<div class="spell-description">
+  <h4>{{name}}</h4>
+  {{#if school}}<p><strong>{{localize "D35E.SpellSchool"}}:</strong> {{school}}</p>{{/if}}
+  {{#if level}}<p><strong>{{localize "D35E.SpellLevel"}}:</strong> {{level}}</p>{{/if}}
+  {{#if components}}<p><strong>{{localize "D35E.SpellComponents"}}:</strong> {{components}}</p>{{/if}}
+  {{#if castTime}}<p><strong>{{localize "D35E.CastingTime"}}:</strong> {{castTime}}</p>{{/if}}
+  {{#if range}}<p><strong>{{localize "D35E.Range"}}:</strong> {{range}}</p>{{/if}}
+  {{#if duration}}<p><strong>{{localize "D35E.Duration"}}:</strong> {{duration}}</p>{{/if}}
+  {{#if save}}<p><strong>{{localize "D35E.SavingThrow"}}:</strong> DC {{save}}</p>{{/if}}
+  {{#if description}}<div class="description">{{{description}}}</div>{{/if}}
+</div>

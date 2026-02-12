@@ -1,0 +1,11 @@
+<div class="settings-currency">
+  <h4>Currency Configuration</h4>
+  <div class="form-row">
+    {{#each currencyConfig.currency}}
+      <div class="currency-row">
+        <label>{{this.[0]}}</label>
+        <input name="system.currency.{{@index}}.value" type="number" value="{{this.[1]}}"/>
+      </div>
+    {{/each}}
+  </div>
+</div>

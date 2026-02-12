@@ -1,0 +1,17 @@
+<div class="d35e-debuff-result">
+  <div class="result-header">
+    <h4>{{spell}} Effect</h4>
+  </div>
+  <div class="result-content">
+    {{#if (eq result "debuffed")}}
+    <p><strong>{{target}}</strong> is affected by <em>{{spell}}</em>.</p>
+    <p class="debuff-result failure">Debuff applied!</p>
+    {{else if (eq result "saved")}}
+    <p><strong>{{target}}</strong> successfully saves against <em>{{spell}}</em>.</p>
+    <p class="save-result success">Save successful!</p>
+    {{else if (eq result "resisted")}}
+    <p><strong>{{target}}</strong> resists <em>{{spell}}</em>.</p>
+    <p class="resistance-result">Spell resisted!</p>
+    {{/if}}
+  </div>
+</div>

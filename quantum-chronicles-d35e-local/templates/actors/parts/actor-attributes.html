@@ -1,0 +1,22 @@
+<section class="rnk-3.5-attributes">
+  <div class="rnk-3.5-ability-grid">
+    {{#each system.abilities}}
+      <div class="ability-square" data-ability="{{@key}}">
+        <div class="ability-title">{{@key}}</div>
+        <div class="ability-score">
+          <input type="number" name="system.abilities.{{@key}}.value" value="{{this.value}}" data-dtype="Number"/>
+        </div>
+        <div class="ability-mod">Mod {{this.mod}}</div>
+      </div>
+    {{/each}}
+  </div>
+
+  <div class="hp-section">
+    <h4>Hit Points</h4>
+    <div class="hp-grid">
+      <label>Current <input type="number" name="system.attributes.hp.value" value="{{system.attributes.hp.value}}" data-dtype="Number"/></label>
+      <label>Max <input type="number" name="system.attributes.hp.max" value="{{system.attributes.hp.max}}" data-dtype="Number"/></label>
+      <label>Temp <input type="number" name="system.attributes.hp.temp" value="{{system.attributes.hp.temp}}" data-dtype="Number"/></label>
+    </div>
+  </div>
+</section>

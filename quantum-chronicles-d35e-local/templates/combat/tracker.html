@@ -1,0 +1,94 @@
+<div class="combat-tracker">
+  <div class="combat-header">
+    <h3>Combat Tracker</h3>
+    <div class="combat-controls">
+      {{#if combat}}
+        <button class="combat-control" data-action="start" {{#if combat.round}}disabled{{/if}}>
+          <i class="fas fa-play"></i> Start Combat
+        </button>
+        <button class="combat-control" data-action="next-turn" {{#unless combat.round}}disabled{{/if}}>
+          <i class="fas fa-step-forward"></i> Next Turn
+        </button>
+        <button class="combat-control" data-action="end" {{#unless combat.round}}disabled{{/if}}>
+          <i class="fas fa-stop"></i> End Combat
+        </button>
+      {{else}}
+        <button class="combat-control" data-action="create">
+          <i class="fas fa-plus"></i> Create Combat
+        </button>
+      {{/if}}
+    </div>
+  </div>
+
+  {{#if combat}}
+    <div class="combat-info">
+      <div class="combat-round">Round {{combat.round}}</div>
+      <div class="combat-turn">Turn {{add combat.turn 1}} of {{combat.combatants.length}}</div>
+    </div>
+  {{/if}}
+
+  <div class="combatants-list">
+    {{#each combatants as |combatant|}}
+      <div class="combatant {{#if (eq combatant._id ../currentCombatantId)}}active{{/if}}"
+           data-combatant-id="{{combatant._id}}">
+
+        <!-- Combatant Portrait -->
+        <div class="combatant-portrait">
+          <img src="{{combatant.img}}" alt="{{combatant.name}}"/>
+          {{#if combatant.actor}}
+            <div class="combatant-hp">
+              <span class="hp-current">{{combatant.actor.system.attributes.hp.value}}</span>
+              <span class="hp-separator">/</span>
+              <span class="hp-max">{{combatant.actor.system.attributes.hp.max}}</span>
+            </div>
+          {{/if}}
+        </div>
+
+        <!-- Combatant Info -->
+        <div class="combatant-info">
+          <div class="combatant-name">{{combatant.name}}</div>
+          <div class="combatant-details">
+            {{#if combatant.actor}}
+              <div class="combatant-ac">AC: {{combatant.actor.system.attributes.ac.normal}}</div>
+              <div class="combatant-initiative">Init: {{signed combatant.initiative}}</div>
+            {{/if}}
+          </div>
+        </div>
+
+        <!-- Combatant Controls -->
+        <div class="combatant-controls">
+          <button class="control-btn" data-action="roll-initiative" title="Roll Initiative">
+            <i class="fas fa-dice-d20"></i>
+          </button>
+          <button class="control-btn" data-action="view-sheet" title="View Sheet">
+            <i class="fas fa-eye"></i>
+          </button>
+          <button class="control-btn" data-action="remove" title="Remove from Combat">
+            <i class="fas fa-times"></i>
+          </button>
+        </div>
+      </div>
+    {{else}}
+      <div class="no-combatants">
+        <p>No combatants in this encounter.</p>
+        <button class="add-combatants-btn" data-action="add-combatants">
+          <i class="fas fa-plus"></i> Add Combatants
+        </button>
+      </div>
+    {{/each}}
+  </div>
+
+  {{#if combat}}
+    <div class="combat-actions">
+      <h4>Quick Actions</h4>
+      <div class="action-buttons">
+        <button class="action-btn" data-action="roll-all-initiative">
+          <i class="fas fa-dice-d20"></i> Roll All Initiative
+        </button>
+        <button class="action-btn" data-action="reset-initiative">
+          <i class="fas fa-undo"></i> Reset Initiative
+        </button>
+      </div>
+    </div>
+  {{/if}}
+</div>

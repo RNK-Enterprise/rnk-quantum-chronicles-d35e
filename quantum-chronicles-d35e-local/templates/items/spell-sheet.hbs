@@ -1,0 +1,173 @@
+<div class="item-sheet-container">
+  {{!-- HEADER: Spell Icon, Name, Level, School, Properties --}}
+  <header class="sheet-header character-header">
+    <div class="portrait-box">
+      <img class="portrait" src="{{item.img}}" data-edit="img" title="Click to change icon"/>
+    </div>
+
+    <div class="character-info-box">
+      <div class="character-name-section">
+        <input class="character-name" type="text" name="name" value="{{item.name}}" placeholder="Spell Name"/>
+      </div>
+
+      <div class="character-details-grid">
+        <div class="detail-row">
+          <label class="detail-label">Level</label>
+          <input class="detail-input narrow" type="number" name="system.level" value="{{system.level}}" min="0" max="9" placeholder="0"/>
+          <label class="detail-label">School</label>
+          <input class="detail-input" type="text" name="system.school" value="{{system.school}}" placeholder="Evocation"/>
+          <label class="detail-label">Range</label>
+          <input class="detail-input" type="text" name="system.range.value" value="{{system.range.value}}" placeholder="0"/>
+          <input class="detail-input narrow" type="text" name="system.range.units" value="{{system.range.units}}" placeholder="ft"/>
+        </div>
+      </div>
+    </div>
+
+    {{!-- CORE SPELL STATS BAR --}}
+    <div class="core-stats-bar">
+      <div class="core-stat">
+        <div class="core-stat-value">{{#if system.level}}{{system.level}}{{else}}0{{/if}}</div>
+        <div class="core-stat-label">LEVEL</div>
+      </div>
+      <div class="core-stat">
+        <div class="core-stat-value">
+          {{~#if system.components.verbal}}V{{/if~}}
+          {{~#if system.components.somatic}}S{{/if~}}
+          {{~#if system.components.material}}M{{/if~}}
+          {{~#if system.components.focus}}F{{/if~}}
+          {{~#if system.components.divineFocus}}DF{{/if~}}
+          {{~#unless system.components.verbal}}{{#unless system.components.somatic}}{{#unless system.components.material}}—{{/unless}}{{/unless}}{{/unless~}}
+        </div>
+        <div class="core-stat-label">COMP</div>
+      </div>
+      <div class="core-stat">
+        <div class="core-stat-value">{{#if system.range.value}}{{system.range.value}} {{system.range.units}}{{else}}—{{/if}}</div>
+        <div class="core-stat-label">RANGE</div>
+      </div>
+      <div class="core-stat">
+        <div class="core-stat-value">{{#if system.castingTime.value}}{{system.castingTime.value}} {{system.castingTime.unit}}{{else}}1 action{{/if}}</div>
+        <div class="core-stat-label">TIME</div>
+      </div>
+    </div>
+  </header>
+
+  {{!-- Modern Tab Navigation --}}
+  <nav class="sheet-tabs modern">
+    <button class="tab-btn active" data-tab="description">
+      <span class="tab-icon">📝</span> Description
+    </button>
+    <button class="tab-btn" data-tab="properties">
+      <span class="tab-icon">⚙️</span> Properties
+    </button>
+  </nav>
+
+  {{!-- Item Sheet Body --}}
+  <section class="sheet-body primary-body">
+
+    {{!-- Description Tab --}}
+    <div class="tab description active" data-tab="description">
+      <div class="form-group-card">
+        <h3>Spell Description</h3>
+        <textarea name="system.description.value" rows="15" placeholder="Enter spell description...">{{system.description.value}}</textarea>
+      </div>
+    </div>
+
+    {{!-- Properties Tab --}}
+    <div class="tab properties" data-tab="properties">
+      <div class="form-group-card">
+        <h3>Spell Properties</h3>
+        <div class="form-row">
+          <div class="form-group">
+            <label>Level (0-9)</label>
+            <input name="system.level" type="number" value="{{system.level}}" min="0" max="9" placeholder="0"/>
+          </div>
+          <div class="form-group">
+            <label>School</label>
+            <input name="system.school" type="text" value="{{system.school}}" placeholder="Evocation"/>
+          </div>
+        </div>
+        <div class="form-row">
+          <div class="form-group">
+            <label>Casting Time</label>
+            <input name="system.castingTime.value" type="number" value="{{system.castingTime.value}}" placeholder="1"/>
+          </div>
+          <div class="form-group">
+            <label>Time Unit</label>
+            <input name="system.castingTime.unit" type="text" value="{{system.castingTime.unit}}" placeholder="action"/>
+          </div>
+        </div>
+        <div class="form-row">
+          <div class="form-group">
+            <label>Range</label>
+            <input name="system.range.value" type="number" value="{{system.range.value}}" placeholder="0"/>
+          </div>
+          <div class="form-group">
+            <label>Range Units</label>
+            <input name="system.range.units" type="text" value="{{system.range.units}}" placeholder="ft"/>
+          </div>
+        </div>
+        <div class="form-row">
+          <div class="form-group">
+            <label>Duration</label>
+            <input name="system.duration.value" type="text" value="{{system.duration.value}}" placeholder="1"/>
+          </div>
+          <div class="form-group">
+            <label>Duration Units</label>
+            <input name="system.duration.units" type="text" value="{{system.duration.units}}" placeholder="inst"/>
+          </div>
+        </div>
+        <div class="form-row">
+          <div class="form-group">
+            <label>Save / SR</label>
+            <input name="system.save" type="text" value="{{system.save}}" placeholder="Reflex half"/>
+          </div>
+          <div class="form-group">
+            <label>Spell Resistance</label>
+            <input name="system.sr" type="text" value="{{system.sr}}" placeholder="Yes"/>
+          </div>
+        </div>
+
+        <h3>Components</h3>
+        <div class="form-row">
+          <div class="form-group">
+            <label>Verbal</label>
+            <input type="checkbox" name="system.components.verbal" {{#if system.components.verbal}}checked{{/if}} />
+          </div>
+          <div class="form-group">
+            <label>Somatic</label>
+            <input type="checkbox" name="system.components.somatic" {{#if system.components.somatic}}checked{{/if}} />
+          </div>
+          <div class="form-group">
+            <label>Material</label>
+            <input type="checkbox" name="system.components.material" {{#if system.components.material}}checked{{/if}} />
+          </div>
+          <div class="form-group">
+            <label>Focus</label>
+            <input type="checkbox" name="system.components.focus" {{#if system.components.focus}}checked{{/if}} />
+          </div>
+          <div class="form-group">
+            <label>Divine Focus</label>
+            <input type="checkbox" name="system.components.divineFocus" {{#if system.components.divineFocus}}checked{{/if}} />
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </section>
+</div>
+
+<style>
+  textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #00d2ff;
+    background: rgba(0,0,0,0.4);
+    color: #fff;
+    font-family: monospace;
+    border-radius: 4px;
+  }
+  textarea:focus {
+    outline: none;
+    box-shadow: inset 0 0 8px rgba(0,210,255,0.4);
+  }
+</style>

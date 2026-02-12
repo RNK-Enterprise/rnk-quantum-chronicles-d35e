@@ -1,0 +1,10 @@
+<section class="deck-front">
+  {{#each deckData}}
+    <div class="deck-summary">
+      <h4>{{this.orig.name}}</h4>
+      <div>Cards: {{this.data.length}}</div>
+      <button type="button" class="configure-deck" for="system.attributes.cards.decks.{{@key}}">Configure Deck</button>
+      <button type="button" class="draw-cards" for="system.attributes.cards.decks.{{@key}}">Draw Cards</button>
+    </div>
+  {{/each}}
+</section>

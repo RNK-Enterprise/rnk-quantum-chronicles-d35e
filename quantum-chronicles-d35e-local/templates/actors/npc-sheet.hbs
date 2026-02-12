@@ -1,0 +1,164 @@
+<div class="npc-sheet-container">
+  {{!-- HEADER: Portrait, Name, Type, CR, Alignment, Quick Stats --}}
+  <header class="sheet-header character-header">
+    <div class="portrait-box">
+      <img class="portrait" src="{{actor.img}}" data-edit="img" title="Click to change portrait"/>
+    </div>
+
+    <div class="character-info-box">
+      <div class="character-name-section">
+        <input class="character-name" type="text" name="name" value="{{actor.name}}" placeholder="NPC Name"/>
+      </div>
+
+      <div class="character-details-grid">
+        <div class="detail-row">
+          <label class="detail-label">Type</label>
+          <input class="detail-input" type="text" name="system.details.type" value="{{system.details.type}}" placeholder="Humanoid"/>
+          <label class="detail-label">CR</label>
+          <input class="detail-input narrow" type="text" name="system.details.cr" value="{{system.details.cr}}" placeholder="5"/>
+          <label class="detail-label">Alignment</label>
+          <input class="detail-input" type="text" name="system.details.alignment" value="{{system.details.alignment}}" placeholder="LN"/>
+        </div>
+      </div>
+    </div>
+
+    {{!-- CORE STATS BAR: AC, HP, INIT, SPEED --}}
+    <div class="core-stats-bar">
+      <div class="core-stat armor-class">
+        <div class="core-stat-value rollable" data-roll-type="ac">{{#if system.ac.value}}{{system.ac.value}}{{else}}10{{/if}}</div>
+        <div class="core-stat-label">AC</div>
+      </div>
+      <div class="core-stat hit-points">
+        <div class="core-stat-value">{{#if system.hp.value}}{{system.hp.value}}{{else}}0{{/if}}</div>
+        <div class="core-stat-label">HP</div>
+        <div class="core-stat-max">/ {{#if system.hp.max}}{{system.hp.max}}{{else}}0{{/if}}</div>
+      </div>
+      <div class="core-stat initiative">
+        <div class="core-stat-value rollable" data-roll-type="initiative">{{#if system.initiative.value}}{{formatModifier system.initiative.value}}{{else}}+0{{/if}}</div>
+        <div class="core-stat-label">INIT</div>
+      </div>
+      <div class="core-stat speed">
+        <div class="core-stat-value">30</div>
+        <div class="core-stat-label">SPEED</div>
+      </div>
+    </div>
+  </header>
+
+  {{!-- Modern Tab Navigation --}}
+  <nav class="sheet-tabs modern">
+    <button class="tab-btn {{#if (eq activeTab "stats")}}active{{/if}}" data-tab="stats">
+      <span class="tab-icon">📊</span> Stats
+    </button>
+    <button class="tab-btn {{#if (eq activeTab "combat")}}active{{/if}}" data-tab="combat">
+      <span class="tab-icon">⚔️</span> Combat
+    </button>
+    <button class="tab-btn {{#if (eq activeTab "inventory")}}active{{/if}}" data-tab="inventory">
+      <span class="tab-icon">🎒</span> Inventory
+    </button>
+    <button class="tab-btn {{#if (eq activeTab "biography")}}active{{/if}}" data-tab="biography">
+      <span class="tab-icon">📖</span> Bio
+    </button>
+  </nav>
+
+  {{!-- NPC Sheet Body --}}
+  <section class="sheet-body primary-body">
+
+    {{!-- Stats Tab --}}
+    <div class="tab stats {{#if (eq activeTab "stats")}}active{{/if}}" data-tab="stats">
+      <div class="abilities-section">
+        <h2>Ability Scores</h2>
+        <div class="abilities-grid">
+          {{#each system.abilities as |ability key|}}
+          <div class="ability-card">
+            <div class="ability-name">{{lookup ../config.abilityAbbreviations key}}</div>
+            <input class="ability-score" type="number" name="system.abilities.{{key}}.value" value="{{ability.value}}" data-dtype="Number"/>
+            <div class="ability-mod rollable" data-roll-type="ability" data-ability="{{key}}">
+              {{formatModifier ability.mod}}
+            </div>
+          </div>
+          {{/each}}
+        </div>
+      </div>
+
+      <div class="hp-section modern">
+        <h3>Hit Points</h3>
+        <div class="hp-display">
+          <div class="hp-current">
+            <input class="hp-input" type="number" name="system.hp.value" value="{{system.hp.value}}" data-dtype="Number"/>
+            <span class="hp-label">Current</span>
+          </div>
+          <span class="hp-divider">/</span>
+          <div class="hp-max">
+            <input class="hp-input" type="number" name="system.hp.max" value="{{system.hp.max}}" data-dtype="Number"/>
+            <span class="hp-label">Max</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {{!-- Combat Tab --}}
+    <div class="tab combat {{#if (eq activeTab "combat")}}active{{/if}}" data-tab="combat">
+      <div class="combat-grid">
+        <div class="combat-section">
+          <h3>Armor Class</h3>
+          <div class="ac-card">
+            <div class="ac-main">
+              <span class="ac-label">Total AC</span>
+              <span class="ac-value">{{system.ac.value}}</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="combat-section">
+          <h3>Saving Throws</h3>
+          <div class="saves-grid">
+            {{#each system.saves as |save key|}}
+            <div class="save-card rollable" data-roll-type="save" data-save="{{key}}">
+              <span class="save-name">{{lookup ../config.savingThrows key}}</span>
+              <span class="save-value">{{formatModifier save.value}}</span>
+            </div>
+            {{/each}}
+          </div>
+        </div>
+
+        <div class="combat-section">
+          <h3>Attack Bonuses</h3>
+          <div class="attack-grid">
+            <div class="attack-card rollable" data-roll-type="bab">
+              <span class="attack-label">BAB</span>
+              <span class="attack-value">{{formatModifier system.bab.value}}</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {{!-- Inventory Tab --}}
+    <div class="tab inventory {{#if (eq activeTab "inventory")}}active{{/if}}" data-tab="inventory">
+      <div class="items-section">
+        <h2>Equipment & Treasure</h2>
+        <div class="items-list">
+          {{#each actor.items as |item|}}
+          <div class="item-row" data-item-id="{{item.id}}">
+            <span class="item-name">{{item.name}}</span>
+            <span class="item-qty">Qty: {{item.quantity}}</span>
+            <div class="item-controls">
+              <button class="item-control item-edit">✎</button>
+              <button class="item-control item-delete">✕</button>
+            </div>
+          </div>
+          {{/each}}
+        </div>
+      </div>
+    </div>
+
+    {{!-- Biography Tab --}}
+    <div class="tab biography {{#if (eq activeTab "biography")}}active{{/if}}" data-tab="biography">
+      <div class="biography-content">
+        <h2>NPC Background</h2>
+        <textarea name="system.details.biography" class="bio-textarea" placeholder="NPC description and notes...">{{system.details.biography}}</textarea>
+      </div>
+    </div>
+
+  </section>
+</div>

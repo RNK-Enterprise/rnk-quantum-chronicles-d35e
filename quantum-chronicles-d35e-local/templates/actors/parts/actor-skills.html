@@ -1,0 +1,42 @@
+<section class="rnk-3.5-skills">
+  <div class="skills-header">
+    <div class="skill-controls skills">
+      <a class="skill-create">Add Skill</a>
+    </div>
+    <div class="skill-points">Used {{skillRanks.used}} / {{skillRanks.allowed}}</div>
+  </div>
+  <div class="skills-grid">
+    {{#each skillsArray as |skill|}}
+      <div class="skill" data-skill="{{skill.key}}" draggable="true">
+        <div class="skill-main">
+          <span class="skill-name">{{skill.data.label}}</span>
+          <span class="skill-roll">Roll</span>
+        </div>
+        <div class="skill-controls">
+          <button type="button" class="skill-adjust skill-sub">-</button>
+          <input type="text" class="rank-input" value="{{skill.data.rank}}" name="system.skills.{{skill.key}}.rank" data-dtype="Number"/>
+          <button type="button" class="skill-adjust skill-add">+</button>
+        </div>
+        {{#if skill.data.mod}}
+          <div class="skill-sources">Mod {{skill.data.mod}}</div>
+        {{/if}}
+        {{#if skill.data.subSkills}}
+          <div class="subskills">
+            {{#each skill.data.subSkills as |sub subKey|}}
+              <div class="sub-skill" data-subskill="{{subKey}}">
+                <div class="skill-main">
+                  <span class="skill-name">{{sub.label}}</span>
+                  <span class="skill-roll">Roll</span>
+                </div>
+                <div class="skill-controls">
+                  <input type="text" class="rank-input" value="{{sub.rank}}" name="system.skills.{{skill.key}}.subSkills.{{subKey}}.rank" data-dtype="Number"/>
+                  <a class="skill-delete">Delete</a>
+                </div>
+              </div>
+            {{/each}}
+          </div>
+        {{/if}}
+      </div>
+    {{/each}}
+  </div>
+</section>

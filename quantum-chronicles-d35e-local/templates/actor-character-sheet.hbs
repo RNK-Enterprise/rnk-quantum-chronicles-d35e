@@ -1,0 +1,142 @@
+<form class="{{cssClass}} rnk-d35e-actor-sheet" autocomplete="off">
+  <header class="sheet-header">
+    <div class="profile-img-container">
+      <img class="profile-img" src="{{actor.img}}" data-edit="img" title="{{actor.name}}"/>
+    </div>
+    <div class="header-fields">
+      <h1 class="charname">
+        <input name="name" type="text" value="{{actor.name}}" placeholder="Name"/>
+      </h1>
+      <div class="metadata">
+        <label>{{localize "D35E.Race"}}
+          <input name="system.details.race" type="text" value="{{system.details.race}}" placeholder="Race"/>
+        </label>
+        <label>{{localize "D35E.Class"}}
+          <input name="system.details.class" type="text" value="{{system.details.class}}" placeholder="Class"/>
+        </label>
+        <label>{{localize "D35E.Level"}}
+          <input name="system.details.level.value" type="number" min="1" value="{{system.details.level.value}}" />
+        </label>
+        <label>{{localize "D35E.Alignment"}}
+          <input name="system.alignment" type="text" value="{{system.alignment}}" placeholder="Alignment"/>
+        </label>
+      </div>
+    </div>
+  </header>
+
+  <nav class="sheet-tabs tabs" data-group="primary">
+    <a class="item active" data-tab="attributes">{{localize "D35E.Attributes"}}</a>
+    <a class="item" data-tab="inventory">{{localize "D35E.Inventory"}}</a>
+    <a class="item" data-tab="description">{{localize "D35E.Description"}}</a>
+  </nav>
+
+  <section class="sheet-body">
+    <div class="tab attributes active" data-group="primary" data-tab="attributes">
+      <div class="attributes-header">
+        <div>
+          <h3>{{localize "D35E.Abilities"}}</h3>
+        </div>
+        <div class="stat-summary">
+          <div>
+            <strong>{{localize "D35E.HitPoints"}}</strong>
+            <span>{{system.attributes.hp.value}} / {{system.attributes.hp.max}}</span>
+          </div>
+          <div>
+            <strong>{{localize "D35E.ACNormal"}}</strong>
+            <span>{{system.attributes.ac.normal}} (Touch {{system.attributes.ac.touch}} / Flat {{system.attributes.ac.flatFooted}})</span>
+          </div>
+          <div>
+            <strong>BAB</strong>
+            <span>+{{system.attributes.bab}}</span>
+          </div>
+          <div>
+            <strong>Init</strong>
+            <span>{{system.attributes.init.total}}</span>
+          </div>
+          <div>
+            <strong>Speed</strong>
+            <span>{{system.attributes.speed.land}} ft</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="abilities-table">
+        <div class="ability-grid">
+          {{#each system.abilities}}
+            <div class="ability-square" data-ability="{{@key}}">
+              <div class="ability-title rollable">{{@key}}</div>
+              <div class="ability-score">
+                <input name="system.abilities.{{@key}}.value" type="number" value="{{this.value}}" data-dtype="Number"/>
+              </div>
+              <div class="ability-mod">Mod: {{this.mod}}</div>
+              <div class="ability-temp">
+                <label>Temp</label>
+                <input name="system.abilities.{{@key}}.temp" type="number" value="{{this.temp}}" data-dtype="Number"/>
+              </div>
+            </div>
+          {{/each}}
+        </div>
+      </div>
+
+      <div class="saves-panel">
+        <h4>Saving Throws</h4>
+        <div class="save-grid">
+          {{#each system.attributes.saves}}
+            <div>
+              <strong class="rollable">{{@key}}</strong>
+              <span>+{{this.total}} (Base {{this.base}} + Ability {{this.ability}} + Misc {{this.misc}})</span>
+            </div>
+          {{/each}}
+        </div>
+      </div>
+
+      <div class="skills-panel">
+        <h4>Skills</h4>
+        <div class="skills-grid">
+          {{#each system.skills}}
+            <div class="skill-row" data-skill="{{@key}}">
+              <span class="skill-name rollable" data-skill="{{@key}}">{{@key}}</span>
+              <span class="skill-mod">{{this.mod}}</span>
+              <label class="skill-rank">Ranks: <input name="system.skills.{{@key}}.rank" type="number" value="{{this.rank}}" min="0" data-dtype="Number"/></label>
+            </div>
+          {{/each}}
+        </div>
+      </div>
+    </div>
+
+    <div class="tab inventory" data-group="primary" data-tab="inventory">
+      <h3>Inventory</h3>
+      <ol class="items-list">
+        <li class="item flexrow item-header">
+          <div class="item-name">Name</div>
+          <div class="item-details">Type</div>
+          <div class="item-controls">
+            <a class="item-control item-create" data-type="equipment"><i class="fas fa-plus"></i> Add Item</a>
+          </div>
+        </li>
+        {{#each items as |item id|}}
+        <li class="item flexrow" data-item-id="{{item._id}}">
+          <div class="item-name item-roll rollable" data-item-id="{{item._id}}">
+            <div class="item-image"><img src="{{item.img}}" alt="{{item.name}}" /></div>
+            <h4>{{item.name}}</h4>
+          </div>
+          <div class="item-details">{{item.type}}</div>
+          <div class="item-controls">
+            <a class="item-control item-edit" title="Edit Item"><i class="fas fa-edit"></i></a>
+            <a class="item-control item-delete" title="Delete Item"><i class="fas fa-trash"></i></a>
+          </div>
+        </li>
+        {{/each}}
+      </ol>
+    </div>
+
+    <div class="tab description" data-group="primary" data-tab="description">
+      <div class="description-columns">
+        <div>
+          <h3>Biography</h3>
+          <textarea name="system.biography" placeholder="Character background and notes...">{{system.biography}}</textarea>
+        </div>
+      </div>
+    </div>
+  </section>
+</form>

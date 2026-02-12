@@ -1,0 +1,8 @@
+<section class="item-description">
+  <label>Description</label>
+  {{editor system.description.value target="system.description.value" button=true owner=owner editable=editable}}
+  {{#if showIdentifyDescription}}
+    <label>Unidentified Description</label>
+    {{editor system.description.unidentified target="system.description.unidentified" button=true owner=owner editable=editable}}
+  {{/if}}
+</section>

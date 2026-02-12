@@ -1,0 +1,29 @@
+<div class="d35e-counterspell-result">
+  <div class="counterspell-header">
+    <h4>Counterspell Attempt</h4>
+  </div>
+
+  <div class="counterspell-details">
+    <div class="counterspeller-info">
+      <strong>{{counterspeller}}</strong> attempts to counterspell <strong>{{targetSpell}}</strong>
+    </div>
+
+    <div class="counterspell-outcome {{#if success}}success{{else}}failure{{/if}}">
+      <div class="result-message">
+        {{message}}
+      </div>
+
+      {{#if success}}
+      <div class="success-icon">✨</div>
+      <div class="success-text">
+        The spell is countered and fails to take effect!
+      </div>
+      {{else}}
+      <div class="failure-icon">❌</div>
+      <div class="failure-text">
+        The counterspell fails and the original spell takes effect.
+      </div>
+      {{/if}}
+    </div>
+  </div>
+</div>

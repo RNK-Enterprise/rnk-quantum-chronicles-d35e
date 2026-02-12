@@ -1,0 +1,11 @@
+<!-- Chat turn undead template -->
+<div class="chat-turn-undead d35e-chat-card">
+  <header class="card-header flexrow">
+    <h3>{{localize "D35E.TurnUndead"}}</h3>
+  </header>
+  <div class="card-content">
+    <p><strong>{{localize "D35E.TurnCheck"}}:</strong> {{checkTotal}}</p>
+    <p><strong>{{localize "D35E.TurnDamage"}}:</strong> {{damageTotal}}</p>
+    {{#if resultText}}<p class="result-text">{{resultText}}</p>{{/if}}
+  </div>
+</div>

@@ -1,0 +1,44 @@
+<section class="attacks-list">
+  {{#if attacks}}
+    {{#each attacks.all.items as |attack|}}
+      <div class="attack-row item" data-item-id="{{attack._id}}">
+        <div class="attack-details">
+          <span class="item-name">
+            <img class="item-image" src="{{attack.img}}" title="{{attack.name}}"/>
+            <span>{{attack.name}}</span>
+          </span>
+          {{#if attack.attackDescription}}<span>{{attack.attackDescription}}</span>{{/if}}
+          {{#if attack.damageDescription}}<span>{{attack.damageDescription}}</span>{{/if}}
+        </div>
+        <div class="item-actions">
+          <a class="item-control item-roll">Roll</a>
+          <a class="item-control item-edit">Edit</a>
+          <a class="item-control item-delete">Delete</a>
+        </div>
+      </div>
+    {{/each}}
+  {{else}}
+    {{#each items}}
+      {{#if (eq type "weapon")}}
+        <div class="attack-row item" data-item-id="{{this._id}}">
+          <div class="attack-details">
+            <span class="item-name">
+              <img class="item-image" src="{{this.img}}" title="{{this.name}}"/>
+              <span>{{this.name}}</span>
+            </span>
+            {{#if this.attackDescription}}<span>{{this.attackDescription}}</span>{{/if}}
+            {{#if this.damageDescription}}<span>{{this.damageDescription}}</span>{{/if}}
+          </div>
+          <div class="item-actions">
+            <a class="item-control item-roll">Roll</a>
+            <a class="item-control item-edit">Edit</a>
+            <a class="item-control item-delete">Delete</a>
+          </div>
+        </div>
+      {{/if}}
+    {{/each}}
+    {{#unless (hasItemType items "weapon")}}
+      <p>No weapons available.</p>
+    {{/unless}}
+  {{/if}}
+</section>

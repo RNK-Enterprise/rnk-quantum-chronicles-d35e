@@ -1,0 +1,24 @@
+<!-- Chat defenses template -->
+<div class="chat-defenses d35e-chat-card">
+  <header class="card-header flexrow">
+    <h3>{{localize "D35E.Defenses"}}</h3>
+  </header>
+  <div class="card-content">
+    <div class="defense-section">
+      <h4>{{localize "D35E.ArmorClass"}}</h4>
+      <p><strong>{{localize "D35E.ACNormal"}}:</strong> {{ac.normal}}</p>
+      <p><strong>{{localize "D35E.ACTouch"}}:</strong> {{ac.touch}}</p>
+      <p><strong>{{localize "D35E.ACFlatFooted"}}:</strong> {{ac.flatFooted}}</p>
+    </div>
+    <div class="defense-section">
+      <h4>{{localize "D35E.SavingThrows"}}</h4>
+      <p><strong>{{localize "D35E.SavingThrowFort"}}:</strong> {{saves.fort.total}}</p>
+      <p><strong>{{localize "D35E.SavingThrowRef"}}:</strong> {{saves.ref.total}}</p>
+      <p><strong>{{localize "D35E.SavingThrowWill"}}:</strong> {{saves.will.total}}</p>
+    </div>
+    <div class="defense-section">
+      <h4>{{localize "D35E.HitPoints"}}</h4>
+      <p>{{hp.value}} / {{hp.max}}</p>
+    </div>
+  </div>
+</div>

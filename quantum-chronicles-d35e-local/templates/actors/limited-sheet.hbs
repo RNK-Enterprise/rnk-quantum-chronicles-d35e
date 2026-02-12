@@ -1,0 +1,27 @@
+<div class="limited-sheet-container">
+  {{!-- Limited actor view for restricted characters --}}
+  <header class="sheet-header character-header">
+    <div class="portrait-box">
+      <img class="portrait" src="{{actor.img}}" data-edit="img" title="{{actor.name}}"/>
+    </div>
+
+    <div class="character-info-box">
+      <div class="character-name-section">
+        <input class="character-name" type="text" name="name" value="{{actor.name}}" placeholder="Character Name" readonly/>
+      </div>
+
+      <div class="character-details-grid">
+        <div class="detail-row">
+          <p style="color: rgba(0, 210, 255, 0.6); font-size: 12px; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; margin: 0;">
+            {{#if actor.limited}}Limited View{{else}}Limited Access{{/if}}
+          </p>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <section class="sheet-body">
+      <p style="font-size: 12px; opacity: 0.7;">You do not have permission to view all details of this character.</p>
+    </div>
+  </section>
+</div>

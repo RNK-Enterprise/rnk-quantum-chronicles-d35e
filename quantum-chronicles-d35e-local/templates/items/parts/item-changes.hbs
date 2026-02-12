@@ -1,0 +1,57 @@
+<div class="changes-table">
+  <div class="change-header flexrow">
+    <div class="change-formula">Formula</div>
+    <div class="change-target">Target</div>
+    <div class="change-type">Type</div>
+    <div class="change-controls">
+      <a class="change-control add-change" title="Add Modifier"><i class="fas fa-plus"></i></a>
+    </div>
+  </div>
+  <ol class="changes-list">
+    {{#each system.changes as |change i|}}
+    <li class="change-row flexrow" data-index="{{i}}">
+      <div class="change-formula">
+        <input type="text" name="system.changes.{{i}}.formula" value="{{change.formula}}" placeholder="e.g. 2"/>
+      </div>
+      <div class="change-target">
+        <select name="system.changes.{{i}}.target">
+          <optgroup label="Abilities">
+            {{#each ../config.abilities as |label key|}}
+            <option value="abilities.{{key}}.value" {{#if (eq ../change.target (concat "abilities." key ".value"))}}selected{{/if}}>{{capitalize key}}</option>
+            {{/each}}
+          </optgroup>
+          <optgroup label="Saves">
+            {{#each ../config.savingThrows as |label key|}}
+            <option value="attributes.saves.{{key}}.misc" {{#if (eq ../change.target (concat "attributes.saves." key ".misc"))}}selected{{/if}}>{{capitalize key}} Save</option>
+            {{/each}}
+          </optgroup>
+          <optgroup label="Combat">
+            <option value="attributes.ac.misc" {{#if (eq ../change.target "attributes.ac.misc")}}selected{{/if}}>Armor Class</option>
+            <option value="attributes.init.misc" {{#if (eq ../change.target "attributes.init.misc")}}selected{{/if}}>Initiative</option>
+            <option value="attributes.attack.bonus" {{#if (eq ../change.target "attributes.attack.bonus")}}selected{{/if}}>Attack Roll Bonus</option>
+            <option value="attributes.damage.bonus" {{#if (eq ../change.target "attributes.damage.bonus")}}selected{{/if}}>Damage Roll Bonus</option>
+            <option value="attributes.bab" {{#if (eq ../change.target "attributes.bab")}}selected{{/if}}>Base Attack Bonus</option>
+          </optgroup>
+        </select>
+      </div>
+      <div class="change-type">
+        <select name="system.changes.{{i}}.type">
+          <option value="enhancement" {{#if (eq change.type "enhancement")}}selected{{/if}}>Enhancement</option>
+          <option value="base" {{#if (eq change.type "base")}}selected{{/if}}>Base</option>
+          <option value="untyped" {{#if (eq change.type "untyped")}}selected{{/if}}>Untyped</option>
+          <option value="dodge" {{#if (eq change.type "dodge")}}selected{{/if}}>Dodge</option>
+          <option value="deflection" {{#if (eq change.type "deflection")}}selected{{/if}}>Deflection</option>
+          <option value="resistance" {{#if (eq change.type "resistance")}}selected{{/if}}>Resistance</option>
+        </select>
+      </div>
+      <div class="change-controls">
+        <a class="change-control delete-change" title="Delete Modifier"><i class="fas fa-trash"></i></a>
+      </div>
+    </li>
+    {{/each}}
+  </ol>
+  {{#unless system.changes}}
+  <p class="notes" style="text-align: center; opacity: 0.7;">No modifiers defined. Click '+' to add an attribute effect.</p>
+  {{/unless}}
+</div>
+

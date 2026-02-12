@@ -1,0 +1,42 @@
+{{! Quantum Chronicles Configuration Menu with Settings Buttons }}
+
+<div class="quantum-config-menu">
+    <header class="menu-header">
+        <div class="quantum-logo pulsate">
+            <i class="fas fa-atom"></i>
+        </div>
+        <div class="header-text">
+            <h1>Quantum Chronicles</h1>
+            <p>System Configuration v{{version}}</p>
+        </div>
+    </header>
+
+    <div class="menu-content">
+        <!-- General Settings -->
+        <div class="config-section">
+            <h3 class="section-title">General Configuration</h3>
+            <p class="section-description">Configure core system settings such as quantum chaos and item maintenance.</p>
+            <button class="config-button" data-action="general">
+                <i class="fas fa-cog"></i> Configure General Settings
+            </button>
+        </div>
+
+        <!-- Vortex Rules -->
+        <div class="config-section">
+            <h3 class="section-title">Vortex Initiative</h3>
+            <p class="section-description">Configure the non-linear vortex initiative system for combat.</p>
+            <button class="config-button" data-action="mechanics">
+                <i class="fas fa-vortex"></i> Configure Vortex Rules
+            </button>
+        </div>
+
+        <!-- Debug Settings -->
+        <div class="config-section">
+            <h3 class="section-title">Debug Options</h3>
+            <p class="section-description">Enable detailed logging and troubleshooting options.</p>
+            <button class="config-button" data-action="debug">
+                <i class="fas fa-terminal"></i> Configure Debug Options
+            </button>
+        </div>
+    </div>
+</div>

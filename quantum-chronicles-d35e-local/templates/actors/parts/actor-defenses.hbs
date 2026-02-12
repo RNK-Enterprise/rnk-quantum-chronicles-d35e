@@ -1,0 +1,21 @@
+<section class="actor-defenses defense-rolls">
+  <div class="generic-defenses">
+    <span class="rollable">Show Defenses</span>
+  </div>
+  <div class="defense-grid">
+    {{#each system.attributes.ac}}
+      <div class="defense">
+        <strong>{{this.label}}</strong>
+        <span>{{#if this.total}}{{this.total}}{{else}}{{this.value}}{{/if}}</span>
+      </div>
+    {{/each}}
+  </div>
+  <div class="saving-throws">
+    {{#each system.attributes.savingThrows}}
+      <div class="defense saving-throw">
+        <span class="attribute-name">{{this.label}}</span>
+        <span>{{#if this.total}}{{this.total}}{{else}}{{this.value}}{{/if}}</span>
+      </div>
+    {{/each}}
+  </div>
+</section>

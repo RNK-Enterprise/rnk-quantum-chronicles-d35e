@@ -1,0 +1,11 @@
+<form class="{{cssClass}} limited-sheet" autocomplete="off">
+  <header class="sheet-header">
+    <div class="header-fields">
+      <h3>{{actor.name}}</h3>
+      <p>{{#if actor.limited}}Limited view{{else}}Limited access{{/if}}</p>
+    </div>
+  </header>
+  <section class="sheet-body">
+    <p>The actor sheet is only partially visible because you do not own this token.</p>
+  </section>
+</form>

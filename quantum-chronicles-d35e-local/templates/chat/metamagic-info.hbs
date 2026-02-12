@@ -1,0 +1,108 @@
+<div class="d35e-metamagic-info">
+  <div class="metamagic-header">
+    <h4>Metamagic Applied to {{spell}}</h4>
+  </div>
+
+  <div class="metamagic-details">
+    <div class="metamagic-feats">
+      <strong>Applied Feats:</strong>
+      <ul>
+        {{#each metamagicFeats}}
+        <li>{{this}}</li>
+        {{/each}}
+      </ul>
+    </div>
+
+    <div class="metamagic-effects">
+      {{#if levelAdjustment}}
+      <div class="level-adjustment">
+        <strong>Spell Level Adjustment:</strong> +{{levelAdjustment}} (Effective Level: {{effectiveLevel}})
+      </div>
+      {{/if}}
+
+      {{#if modifications.damageMultiplier}}
+      <div class="damage-modifier">
+        <strong>Damage Multiplier:</strong> 1.5x
+      </div>
+      {{/if}}
+
+      {{#if modifications.healingMultiplier}}
+      <div class="healing-modifier">
+        <strong>Healing Multiplier:</strong> 1.5x
+      </div>
+      {{/if}}
+
+      {{#if modifications.maximizeDamage}}
+      <div class="maximize-effect">
+        <strong>Damage:</strong> Maximized
+      </div>
+      {{/if}}
+
+      {{#if modifications.maximizeHealing}}
+      <div class="maximize-effect">
+        <strong>Healing:</strong> Maximized
+      </div>
+      {{/if}}
+
+      {{#if modifications.rangeMultiplier}}
+      <div class="range-modifier">
+        <strong>Range:</strong> Doubled
+      </div>
+      {{/if}}
+
+      {{#if modifications.durationMultiplier}}
+      <div class="duration-modifier">
+        <strong>Duration:</strong> Doubled
+      </div>
+      {{/if}}
+
+      {{#if modifications.heightenedLevel}}
+      <div class="heighten-effect">
+        <strong>Spell Level:</strong> Heightened
+      </div>
+      {{/if}}
+
+      {{#if modifications.actionType}}
+      <div class="quicken-effect">
+        <strong>Casting Time:</strong> Free Action
+      </div>
+      {{/if}}
+
+      {{#if modifications.verbalComponent}}
+      <div class="silent-effect">
+        <strong>Verbal Component:</strong> Suppressed
+      </div>
+      {{/if}}
+
+      {{#if modifications.somaticComponent}}
+      <div class="still-effect">
+        <strong>Somatic Component:</strong> Suppressed
+      </div>
+      {{/if}}
+
+      {{#if modifications.areaMultiplier}}
+      <div class="widen-effect">
+        <strong>Area:</strong> Doubled
+      </div>
+      {{/if}}
+
+      {{#if modifications.persistent}}
+      <div class="persistent-effect">
+        <strong>Duration:</strong> Persistent (concentration required)
+      </div>
+      {{/if}}
+
+      {{#if modifications.rangeIncrease}}
+      <div class="reach-effect">
+        <strong>Range:</strong> +{{modifications.rangeIncrease}} feet
+      </div>
+      {{/if}}
+
+      {{#if modifications.splitTargets}}
+      <div class="split-effect">
+        <strong>Targets:</strong> Can target {{modifications.splitTargets}} creatures
+      </div>
+      {{/if}}
+    </div>
+  </div>
+</div>

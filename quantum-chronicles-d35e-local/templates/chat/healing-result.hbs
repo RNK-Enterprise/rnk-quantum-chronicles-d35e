@@ -1,0 +1,17 @@
+<div class="d35e-healing-result">
+  <div class="result-header">
+    <h4>{{spell}} {{#if isUndead}}Damage{{else}}Healing{{/if}}</h4>
+  </div>
+  <div class="result-content">
+    {{#if isUndead}}
+    <p><strong>{{target}}</strong> takes <span class="damage-amount">{{amount}}</span> points of damage from positive energy.</p>
+    {{else}}
+    <p><strong>{{target}}</strong> is healed for <span class="healing-amount">{{amount}}</span> hit points.</p>
+    {{/if}}
+    {{#if (eq result "saved")}}
+    <p class="save-result success">Save successful - {{#if isUndead}}damage{{else}}healing{{/if}} halved!</p>
+    {{else if (eq result "resisted")}}
+    <p class="resistance-result">Spell resisted!</p>
+    {{/if}}
+  </div>
+</div>

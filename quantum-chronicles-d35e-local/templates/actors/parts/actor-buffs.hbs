@@ -1,0 +1,31 @@
+<section class="actor-buffs">
+  {{#each buffs}}
+    <div class="buff-section" data-buff-type="{{@key}}">
+      <h4>{{this.label}}</h4>
+      {{#if this.items.length}}
+        <ol class="items-list">
+          {{#each this.items}}
+            <li class="item" data-item-id="{{this._id}}">
+              <div class="item-name">
+                <img class="item-image" src="{{this.img}}" title="{{this.name}}"/>
+                <h4>{{this.name}}</h4>
+              </div>
+              <div class="item-detail item-active">
+                <label>Active <input type="checkbox" {{#if this.system.active}}checked{{/if}}/></label>
+              </div>
+              <div class="item-detail item-level">
+                <label>Level <input type="text" value="{{this.system.level}}"/></label>
+              </div>
+              <div class="item-controls">
+                <a class="item-control item-edit">Edit</a>
+                <a class="item-control item-delete">Delete</a>
+              </div>
+            </li>
+          {{/each}}
+        </ol>
+      {{else}}
+        <p>No buffs in this category.</p>
+      {{/if}}
+    </div>
+  {{/each}}
+</section>
