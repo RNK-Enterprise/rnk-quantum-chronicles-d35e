@@ -1,0 +1,99 @@
+{
+  "Actor": {
+    "types": ["character", "npc"],
+    "character": {
+      "attributes": {
+        "hp": {
+          "value": 0,
+          "max": 0,
+          "temp": 0,
+          "tempmax": 0
+        },
+        "init": {
+          "value": 0,
+          "total": 0
+        }
+      },
+      "details": {
+        "level": {
+          "value": 1
+        },
+        "xp": {
+          "value": 0
+        }
+      }
+    },
+    "npc": {
+      "attributes": {
+        "hp": {
+          "value": 0,
+          "max": 0
+        },
+        "init": {
+          "value": 0
+        }
+      },
+      "details": {
+        "level": {
+          "value": 1
+        },
+        "cr": 0.125
+      }
+    }
+  },
+  "Item": {
+    "types": ["weapon", "armor", "spell", "feat", "skill", "class", "consumable", "equipment", "loot", "buff", "aura", "attack", "race", "enhancement", "damage-type", "material", "full-attack", "card", "valuable"],
+    "weapon": {
+      "damage": {
+        "parts": []
+      },
+      "attackBonus": "",
+      "critRange": 20,
+      "critMult": 2
+    },
+    "armor": {
+      "armor": {
+        "value": 0,
+        "dex": null,
+        "acp": 0
+      }
+    },
+    "spell": {
+      "level": 0,
+      "school": "",
+      "components": {
+        "verbal": false,
+        "somatic": false,
+        "material": false,
+        "focus": false
+      },
+      "sr": false,
+      "dismissible": false
+    },
+    "feat": {
+      "featType": ""
+    },
+    "skill": {
+      "ranks": 0,
+      "mod": 0,
+      "ability": "str"
+    },
+    "class": {
+      "levels": 1,
+      "hd": 8,
+      "bab": "low",
+      "skillsPerLevel": 2,
+      "savingThrows": {
+        "fort": {
+          "value": "low"
+        },
+        "ref": {
+          "value": "low"
+        },
+        "will": {
+          "value": "low"
+        }
+      }
+    }
+  }
+}

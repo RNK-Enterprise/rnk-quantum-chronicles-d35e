@@ -1,5 +1,5 @@
 {
-    "id": "rnk-quantum-d35e",
+    "id": "rnk-quantum-chronicles-d35e",
     "title": "RNK-Quantum D35E",
     "description": "RNK-Quantum D35E - A revolutionary D&D 3.5e RPG system for Foundry VTT with vortex technology",
     "version": "13.0.1",
@@ -13,12 +13,13 @@
     "manifest": "https://github.com/RNK-Enterprise/rnk-quantum-chronicles-d35e/releases/latest/download/system.json",
     "download": "https://github.com/RNK-Enterprise/rnk-quantum-chronicles-d35e/releases/latest/download/rnk-quantum-d35e-v13.0.1.zip",
     "compatibility": {
-        "minimum": "11.0.0",
-        "verified": "13.0.0"
+        "minimum": "13.0.0",
+        "verified": "13.0.1",
+        "maximum": "13"
     },
     "esmodules": [
-        "constants.js",
-        "D35E.js"
+        "constants.mjs",
+        "D35E.mjs"
     ],
     "styles": [
         "dnd35e_css.css",
@@ -51,6 +52,7 @@
             "valuable": {}
         }
     },
+    "template": "template.json",
     "packFolders": [],
     "packs": [],
     "languages": [
